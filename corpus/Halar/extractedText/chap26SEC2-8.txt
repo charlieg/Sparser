@@ -1,0 +1,28 @@
+
+ The first cells may have originated by chemical evolution on a young Earth:an overview
+
+Most biologists favor the hypothesis that life on Earth developed from nonliving materials that became ordered into molecular aggregates that were eventually capable of self-replication and metabolism.
+
+Resolving the Biogenesis Paradox
+
+From the time of the ancient Greeks until well into the 19th century, it was common "knowledge" that life could arise from nonliving matter. This idea of life emerging from inanimate material is called spontaneous generation. Experiments with flies and other organisms in the late Renaissance period convinced scientists to reject the notion of spontaneous generation for macroscopic life. However, the idea persisted well into the 19th century as an explanation for the rapid growth of microorganisms in spoiled foods. Then, in 1862, Louis Pasteur's famous experiments with broth completed the overturn of spontaneous generation, even for microorganisms (FIGURE 26.9). As far as we know, all life today arises only by the reproduction of preexisting life. This "life-from-life" principle is called biogenesis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-9. Pasteur and biogenesis of microorganisms. In the early 1860s, Louis Pasteur (inset) conducted a series of experiments to test whether microorganisms emerge by spontaneous generation or by reproduction of existing microorganisms (biogenesis). His research contributed to the germ theory of disease, which connected infections to the spread of microorganisms and led to improvements in hospital hygiene and public sanitation. The legacy of these famous experiments is also manifest in the term pasteurization. Pasteurized milk, for example, has been heated to destroy potentially harmful microorganisms and then sealed to maintain the sterility.
+
+But what about the first organisms? If they arose by biogenesis, then they couldn't have been the first organisms. Although there is no evidence that spontaneous generation occurs today, conditions on the early Earth were very different. For instance, there was relatively little atmospheric oxygen to tear apart complex molecules. And such energy sources as lightning, volcanic activity, and ultraviolet sunlight were all more intense than what we experience today. The resolution to the biogenesis paradox is that life did not begin on a planet anything like the modern Earth, but on a young Earth that was a very different world.
+
+A Four-Stage Hypothesis for the Origin of Life
+
+Most biologists now think that it is at least a credible hypothesis that chemical and physical processes in Earth's primordial environment eventually produced very simple cells through a sequence of stages. There is much debate about the nature of those stages.
+
+According to one hypothetical scenario, the first organisms were products of chemical evolution in four stages: (1) the abiotic (nonliving) synthesis of small organic molecules, such as amino acids and nucleotides; (2) the joining of these small molecules (monomers) into polymers, including proteins and nucleic acids; (3) the origin of self-replicating molecules that eventually made inheritance possible; and (4) the packaging of all these molecules into "protobionts," droplets with membranes that maintained an internal chemistry different from the surroundings. This is all speculative, of course, but what makes it science is that the hypothesis leads to predictions that can be tested in the laboratory. Let's take a closer look at some of the evidence for each of these four stages.
+
+
+
+

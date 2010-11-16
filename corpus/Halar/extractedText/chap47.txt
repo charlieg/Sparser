@@ -1,0 +1,40 @@
+
+Chapter 47: ANIMAL DEVELOPMENT
+
+THE STAGES OF EARLY EMBRYONIC DEVELOPMENT
+
+   From egg to organism, an animal's form develops gradually: the concept of epigenesis
+
+   Fertilization activates the egg and brings together the nuclei of sperm and egg
+
+   Cleavage partitions the zygote into many smaller cells
+
+   Gastrulation rearranges the blastula to form a three-layered embryo with a primitive gut
+
+   In organogenesis, the organs of the animal body form from the three embryonic germ layers
+
+   Amniote embryos develop in a fluid-filled sac within a shell or uterus
+
+
+
+THE CELLULAR AND MOLECULAR BASIS OF MORPHOGENESIS AND DIFFERENTIATION IN ANIMALS
+
+   Morphogenesis in animals involves specific changes in cell shape, position, and adhesion
+
+   The developmental fate of cells depends on cytoplasmic determinants and cell-cell induction: a review
+
+   Fate mapping can reveal cell genealogies in chordate embryos
+
+   The eggs of most vertebrates have cytoplasmic determinants that help establish the body axes and differences among cells of the early embryo
+
+   Inductive signals drive differentiation and pattern formation in vertebrates
+
+It is difficult to imagine that each of us began life as a single cell about the size of the period at the end of this sentence. Less than a month after conception, our brains were taking form and our developing hearts had already begun to pulsate (see photograph). It took a total of only about nine months--the length of a school year--to be transfigured from zygote to newborn human, built of billions of differentiated cells organized into specialized tissues and organs.
+
+By combining molecular genetics with classical approaches to embryology, developmental biologists are now beginning to answer many of the questions about how a single fertilized egg cell gives rise to a specific animal. Chapter 21 described some of the recent research, introducing you to a number of basic genetic and cellular mechanisms involved in development. The animals discussed there were mainly invertebrates. In this chapter we concentrate mainly on the embryonic development of animals with backbones.
+
+Molecular biologist Sidney Brenner has wryly commented that developmental biology is about "how to make a mouse," and indeed, mice are favorite experimental models of researchers studying vertebrate development, in particular the development of mammals. Frogs and chickens are also important model organisms for understanding vertebrate development. From the study of these animals and of certain invertebrates (including the ones you met in Chapter 21), scientists have worked out both the stages of embryonic development and many of the cellular and molecular events that underlie them.
+
+
+
+

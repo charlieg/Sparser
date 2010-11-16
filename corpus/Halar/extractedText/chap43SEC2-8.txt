@@ -1,0 +1,104 @@
+
+ In the humoral response, B cells make antibodies against extracellular pathogens:
+
+a closer look
+
+You have learned that the humoral immune response is initiated when B cells bearing antigen receptors are selected by binding with specific antigens. You also know that B cell activation is aided by IL-2 and other cytokines secreted from helper T cells activated by the same antigen. Stimulated by both antigen and cytokines, the B cell proliferates and differentiates into a clone of antibody-secreting plasma cells and a clone of memory B cells. Antigens that evoke this type of B cell response are known as T-dependent antigens because they can stimulate antibody production only with help from TH cells (FIGURE 43.13). Most protein antigens are T-dependent.
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-13. Humoral response to a T-dependent antigen. Many antigens can trigger a humoral (antibody-mediated) immune response by B cells only with the participation of helper T cells. Such antigens are called T-dependent antigens, and most protein antigens are of this type.
+
+Other antigens, such as polysaccharides and proteins with many identical polypeptides, function as T-independent antigens. Such antigens include the polysaccharides of many bacterial capsules and the proteins that make up bacterial flagella. Apparently, the repeated subunits of these antigens bind simultaneously to a number of membrane antibodies on the B cell surface. This provides enough stimulus to the B cell to generate antibody-secreting plasma cells without the help of IL-2. The response to T-independent antigens is very important in defending against many bacteria; however, the response is generally weaker than the response to T-dependent antigens, and no memory cells are generated in T-independent responses.
+
+Before we leave our discussion of B cell function, it is important to recall that B cells bear class II MHC molecules: They are antigen-presenting cells. When antigen first binds to membrane antibodies, the B cell takes in a few of the foreign molecules by receptor-mediated endocytosis (see FIGURE 8.19c). In a process very similar to presentation by macrophages, the B cell presents antigen to a helper T cell. However, although a macrophage can engulf and present peptide fragments from a wide variety of antigens, a B cell internalizes and presents peptides of only the antigen to which it specifically binds. Therefore, immunologists think that macrophages are the main APCs in the primary response (when B cells specific for a particular antigen are rare), whereas B cells, specifically memory B cells, are more important as APCs in secondary responses.
+
+In any given humoral response, the processes just discussed stimulate a variety of different B cells, each giving rise to a clone of thousands of plasma cells. Each plasma cell is estimated to secrete about 2,000 antibody molecules per second over the cell's 4- to 5-day life span. Next we look more closely at antibodies and how they bind to and mediate the disposal of antigens.
+
+Antibody Structure and Function
+
+Antigens that elicit a humoral immune response are typically the protein and polysaccharide surface components of microbes, incompatible transplanted tissue, or incompatible transfused blood cells. In addition, for some of us, the proteins of foreign substances such as pollen or bee venom act as antigens that induce an allergic, or hypersensitive, humoral response (to be discussed later).
+
+Neither the membrane version of the antibody--that is, the B cell receptor for antigen--nor the secreted antibody actually binds an entire antigen molecule. Rather, an antibody interacts with a small, accessible portion of the antigen called an epitope or antigenic determinant (FIGURE 43.14). A single antigen such as a bacterial surface protein usually has several effective epitopes, each capable of inducing the production of specific antibody. It is therefore easy to imagine the entire surface of a bacterium coated with many different kinds of antibodies, each specific for a particular epitope. It is estimated that a bacterium can be bound by 4 million antibody molecules!
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-14. Epitopes (antigenic determinants). Antibodies bind to epitopes on the surface of an antigen. In this example, three different antibody molecules react with different epitopes on the same large antigen molecule.
+
+Antibodies constitute a group of globular serum proteins called immunoglobulins (Igs). A typical antibody molecule has two identical antigen-binding sites specific for the epitope that provoked its production. Each molecule consists of four polypeptide chains, two identical heavy chains and two identical light chains, joined by disulfide bridges to form a Y-shaped molecule (FIGURE 43.15a). At the two tips of the Y-shaped molecule are the variable regions (V) of the heavy and light chains, so named because the amino acid sequences in these regions vary extensively from antibody to antibody (see FIGURE 19.6). As shown in FIGURE 43.15b, a heavy-chain V region and a light-chain V region together form the unique contours of an antibody's antigen-binding site. The interaction between an antigen-binding site and its epitope resembles an enzyme-substrate interaction: Multiple noncovalent bonds form between chemical groups on the respective molecules, resulting in a highly stable complex.
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-15. The structure of a typical antibody molecule.
+
+The power of antibody specificity and antigen-antibody binding has been harnessed for use in laboratory research, clinical diagnosis, and the treatment of diseases. Some of these antibody tools are polyclonal: They are the products of many different clones of B cells, each specific for a different epitope. Others are monoclonal: They are prepared from a single clone of B cells grown in culture. Because they are all identical, the monoclonal antibodies produced by such a culture are specific for the same epitope on an antigen. In both basic research and medicine, antibodies are useful for tagging specific molecules. For example, certain types of cancer have been treated with tumor-specific antibodies covalently coupled to toxin molecules. The toxin-linked antibodies carry out a precise search-and-destroy mission, selectively attaching to and killing tumor cells.
+
+While the antigen-binding sites on an antibody are responsible for its ability to identify a specific antigen, the tail of the Y-shaped antibody, formed by the constant regions (C) of the heavy chains (see FIGURE 43.15a), is responsible for the antibody's distribution in the body and for the mechanisms by which it mediates antigen disposal. There are five major types of heavy-chain constant regions, and these determine the five major classes of antibodies: IgM, IgG, IgA, IgD, and IgE. The structures and functions of each of the five immunoglobulin classes are summarized in TABLE 43.1. Note that each light chain also has a constant region. It is not a part of the antibody tail and does not contribute to Ig class functions.
+
+Table 43-1. The Five Classes of Immunoglobulins
+
+IgM (pentamer)
+
+
+
+IgMs are the first circulating antibodies to appear in response to an initial exposure to an antigen; their concentration in the blood then declines rapidly. Thus the presence of IgM usually indicates a current infection. IgM consists of five Y-shaped monomers arranged in a pentagonal structure. The numerous antigen-binding sites make it very effective in agglutinating antigens and in reactions involving complement. IgM is too large to cross the placenta and does not confer maternal immunity.IgG (monomer)
+
+
+
+IgG is the most abundant of the circulating antibodies. It readily crosses the walls of blood vessels and enters tissue fluids. IgG also crosses the placenta and confers passive immunity on the fetus. IgG protects against bacteria, viruses, and toxins in the blood and lymph, and triggers action of the complement system.IgA (dimer)
+
+
+
+IgA is produced by cells in mucous membranes. The main function of IgA is to prevent the attachment of viruses and bacteria to epithelial surfaces. IgA is also found in many body secretions, such as saliva, perspiration, and tears. Its presence in the first milk produced helps protect the infant from gastrointestinal infections.IgD (monomer)
+
+
+
+IgD antibodies do not activate the complement system and cannot cross the placenta. They are mostly found on the surfaces of B cells, probably functioning as antigen receptors that help initiate the differentiation of B cells into plasma cells and memory B cells.IgE (monomer)
+
+
+
+IgE molecules are slightly larger than IgG and represent only a small fraction of the antibodies in the blood. The tails attach to mast cells and basophils and, when triggered by an antigen, cause the cells to release histamine and other chemicals that cause an allergic reaction.Antibody-Mediated Disposal of Antigen
+
+The binding of antibodies to antigens to form antigen-antibody complexes is the basis of several antigen disposal mechanisms (FIGURE 43.16, p. 914). The simplest of these is neutralization, in which the antibody binds to and blocks the activity of the antigen. For example, antibodies neutralize a virus by attaching to the molecules that the virus must use to infect its host cell. Similarly, antibodies may bind to the surface of a pathogenic bacterium. These microbes, now coated by antibodies, are readily eliminated by phagocytosis. In a process called opsonization, the bound antibodies enhance macrophage attachment to, and thus phagocytosis of, the microbes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-16. Effector mechanisms of humoral immunity. The binding of antibodies to antigens tags foreign cells and molecules for destruction by phagocytes or the complement system of proteins.
+
+Antibody-mediated agglutination (clumping) of bacteria or viruses effectively neutralizes and opsonizes the microbes. Agglutination is possible because each antibody molecule has at least two antigen-binding sites. IgG, for example, can bind to identical epitopes on two bacterial cells or viral particles, linking them together. IgM can link together five or more viruses or bacteria (as shown in FIGURE 43.16). These large complexes are readily phagocytosed by macrophages. A similar mechanism is precipitation, the cross-linking of soluble antigen molecules--molecules dissolved in body fluids--to form immobile precipitates that are disposed of by phagocytes.
+
+One of the most important antibody-mediated disposal mechanisms is complement fixation, the activation of the complement system by antigen-antibody complexes. Recall that complement consists of about 20 different serum proteins that, in the absence of infection, are inactive. In an infection, however, the first in the series of complement proteins is activated, triggering a cascade of activation steps, each component activating the next in the series. Completion of the complement cascade results in the lysis of many types of viruses and pathogenic cells. Lysis by complement can be achieved in two ways. The classical pathway (so called because it was discovered first) is triggered by antibodies bound to antigen and is therefore important in the humoral immune response. The alternative pathway is triggered by substances that are naturally present on many bacteria, yeast, viruses, and protozoan parasites; it does not involve antibodies and thus is an important nonspecific defense.
+
+The classical pathway can begin when IgM or IgG antibodies bind to a pathogen, such as a bacterial cell (FIGURE 43.17). The first complement component links two bound antibodies and is thus activated, initiating the cascade. Ultimately, complement proteins generate a membrane attack complex (MAC), which forms a pore in the bacterial membrane 7-10 nm in diameter. Ions and water rush into the cell, causing it to swell and lyse. The MAC pore is similar to the perforin pore generated by cytotoxic T cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-17. The classical complement pathway, resulting in lysis of a target cell.
+
+In both the classical and alternative pathways, many activated complement proteins contribute to inflammation. By binding to basophils and mast cells, some trigger the release of histamine, the injury-signaling molecule that triggers dilation and increased permeability of blood vessels. Several active complement proteins also attract phagocytes to the site. In addition, one of the activated complement proteins can cause opsonization: Copies of this protein coat bacterial surfaces and, like antibodies, stimulate phagocytosis. In a final example of teamwork in the body's defense systems, antibodies, complement, and phagocytes function together in a phenomenon called immune adherence. Microbes coated with antibodies and complement proteins adhere to blood vessel walls, making the pathogens easier prey for phagocytic cells circulating in the blood.
+
+You have seen that antibodies contribute in several ways to phagocytosis by macrophages. Keep in mind that phagocytosis enables macrophages to act as APCs, stimulating helper T cells, which, in turn, stimulate the very B cells whose antibodies contribute to phagocytosis. Thus, positive feedback links together the nonspecific and specific immune systems, resulting in a coordinated and effective response to an active infection.
+
+
+
+

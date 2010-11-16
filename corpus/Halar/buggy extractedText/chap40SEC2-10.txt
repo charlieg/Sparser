@@ -1,0 +1,10 @@
+
+ Metabolic rate per gram is inversely related to body size among similar animals
+
+One of animal biology's most intriguing but largely unanswered questions has to do with the relationship between body size and metabolic rate. By measuring the metabolic rates of many species of vertebrates and invertebrates, physiologists have shown that the amount of energy it takes to maintain each gram of body weight is inversely related to body size. Each gram of a mouse, for instance, consumes about 20 times more calories than a gram of an elephant (even though the whole elephant, of course, uses far more calories than the whole mouse). The higher metabolic rate of a smaller animal's tissues demands a proportionately greater rate of delivery of oxygen. And correlated with its higher metabolic rate, the smaller animal also has a higher breathing rate, blood volume (relative to its size), and heart rate (pulse) and must eat much more food per unit of body mass.
+
+What explains the inverse relationship between metabolic rate and size? One hypothesis is that for endotherms, the smaller the animal, the greater the energy cost of maintaining a stable body temperature. This idea stems from the surface area to volume relationship: The smaller an animal, the greater its surface area to volume ratio, and thus the greater the loss of heat to (or gain of heat from) the surroundings. Logical as this hypothesis appears to be, it fails to explain the inverse relationship between metabolism and size in ectotherms (which do not use metabolic heat to maintain body temperature) and is not supported by various experimental tests. Researchers continue to search for causes underlying the inverse relationship between body size and metabolic rate.
+
+
+
+

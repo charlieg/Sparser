@@ -1,0 +1,40 @@
+
+REGULATION OF BODY TEMPERATURE
+
+ 
+
+ Four physical processes account for heat gain or loss
+
+
+
+ 
+
+ Ectotherms have body temperatures close to environmental temperature; endotherms can use metabolic heat to keep body temperature warmer than their surroundings
+
+
+
+ 
+
+ Thermoregulation involves physiological and behavioral adjustments that balance heat gain and loss
+
+
+
+ 
+
+ Most animals are ectothermic, but endothermy is widespread
+
+
+
+ 
+
+ Torpor conserves energy during environmental extremes
+
+
+
+Most biochemical and physiological processes are very sensitive to changes in body temperature. The rates of most enzyme-mediated reactions increase by a factor of 2-3 for every 10&#176;C temperature increase, until temperature is high enough to begin to denature proteins. This is known as the Q10effect, with Q10 being the multiple by which a particular enzymatic reaction or overall metabolic process increases with a 10&#176;C increase in body temperature. For example, if the rate of glycogen hydrolysis in a frog is 2.5 times greater at 30&#176;C than at 20&#176;C, then the Q10 for that reaction is 2.5. The properties of membranes also change with temperature. These thermal effects dramatically influence animal function and performance. For example, because the power and speed of muscle contraction is strongly temperature dependent, a body temperature change of only a few degrees may have a very large impact on an animal's ability to run, jump, or fly.
+
+Although different species of animals are adapted to different environmental temperatures, each animal has an optimal temperature range. Within that range, many animals maintain a nearly constant internal temperature as the external temperature fluctuates. This thermoregulation helps keep body temperature within a range that enables cells to function most effectively. An animal that thermoregulates balances its heat budget over time in such a way that the rate of heat gain exactly matches the rate of heat loss. Therefore, to understand thermoregulation, we first need to consider the ways heat is exchanged between animals and their environments.
+
+
+
+

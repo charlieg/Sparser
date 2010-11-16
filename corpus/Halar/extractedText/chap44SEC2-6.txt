@@ -1,0 +1,98 @@
+
+ Most animals are ectothermic, but endothermy is widespread
+
+In this section we survey several large taxa of animals, concentrating on the mechanisms by which they thermoregulate as ectotherms or endotherms.
+
+Mammals and Birds
+
+Mammals and birds generally maintain body temperatures within a narrow range (36-38&#176;C for most mammals and 39-42&#176;C for most birds) that is usually considerably warmer than the environment. Because heat always flows from a warm object to cooler surroundings, birds and mammals must counteract the constant heat loss. This maintenance of warm body temperature depends on several key adaptations. The most basic mechanism is the high metabolic rate of endothermy itself. Endotherms can produce large amounts of metabolic heat that replace the flow of heat to the environment, and they can vary heat production to match changing rates of heat loss. Heat production is increased by such muscle activity as moving or shivering. In some mammals, certain hormones can cause mitochondria to increase their metabolic activity and produce heat instead of ATP. This nonshivering thermogenesis (NST) takes place throughout the body, but some mammals also have a tissue called brown fat in the neck and between the shoulders that is specialized for rapid heat production. Through shivering and NST, mammals and birds in cold environments can increase their metabolic heat production by as much as 5 to 10 times above the minimal levels that occur in warm conditions.
+
+Another major thermoregulatory adaptation that evolved in mammals and birds is insulation (hair, feathers, and fat layers), which reduces the flow of heat and lowers the energy cost of keeping warm. The insulating power of a layer of fur or feathers mainly depends on how much still air the layer traps. Most land mammals and birds react to cold by raising their fur or feathers, thereby trapping a thicker layer of air. Humans rely more on a layer of fat just beneath the skin as insulation (FIGURE 44.6); goose bumps are a vestige of hair-raising left over from our furry ancestors.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-6. Skin as an organ of thermoregulation. Fat (adipose tissue) and hair help insulate mammals. Heat loss to the environment can be regulated by the constriction and dilation of superficial blood vessels and by the erection and compaction of fur. Sweat glands, under nervous control, function in evaporative cooling.
+
+Vasodilation and vasoconstriction also regulate heat exchange and may contribute to regional temperature differences within the animal. For example, heat loss from a human is reduced when arms and legs cool to several degrees below the temperature of the body core, where most vital organs are located.
+
+Hair loses most of its insulating power when wet. Marine mammals such as whales and seals have a very thick layer of insulating fat called blubber, just under the skin. Marine mammals swim in water colder than their body core temperature, and many species spend at least part of the year in nearly freezing polar seas. The loss of heat to water occurs 50 to 100 times more rapidly than heat loss to air, and the skin temperature of a marine mammal is close to water temperature. Even so, the blubber insulation is so effective that marine mammals maintain body core temperatures of about 36-38&#176;C with metabolic rates about the same as those of land mammals of similar size. The flippers or tail of a whale or seal lack insulating blubber, but as we discussed, countercurrent heat exchangers greatly reduce heat loss in these extremities, as they do in the legs of many birds (see FIGURE 44.5).
+
+Through metabolic heat production, insulation, and vascular adjustments, birds and mammals are capable of astonishing feats of thermoregulation. For example, small birds called chickadees, which weigh only 20 grams, can remain active and hold body temperature nearly constant at 40&#176;C in environmental temperatures as low as -40&#176;C--as long as they have enough food to supply the large amount of energy necessary for heat production.
+
+Many mammals and birds live in places where thermoregulation requires cooling as well as warming. For example, when a marine mammal moves into warm seas, as many whales do when they reproduce, excess metabolic heat is removed by vasodilation of numerous blood vessels in the outer layer of the skin. In hot climates or when vigorous exercise adds large amounts of metabolic heat to the body, many terrestrial mammals and birds may allow body temperature to rise by several degrees, which enhances heat loss by increasing the temperature gradient between the body and a warm environment. Evaporative cooling often plays a key role in dissipating the body heat (FIGURE 44.7). If environmental temperature is above body temperature, animals gain heat from the environment as well as from metabolism, and evaporation is the only way to keep body temperature from rising rapidly. Panting is important in birds and many mammals. Some birds have a pouch richly supplied with blood vessels in the floor of the mouth; fluttering the pouch increases evaporation. Pigeons can use evaporative cooling to keep body temperature close to 40&#176;C in air temperatures as high as 60&#176;C, as long as they have sufficient water. Many terrestrial mammals have sweat glands controlled by the nervous system (see FIGURE 44.6). Other mechanisms that promote evaporative cooling include spreading saliva on body surfaces, an adaptation of some kangaroos and rodents for combating severe heat stress. Some bats use both saliva and urine to enhance evaporative cooling.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-7. A terrestrial mammal bathing, an adaptation that enhances evaporative cooling.
+
+Amphibians and Reptiles
+
+All amphibians and most reptiles are ectothermic, and their low metabolic rates have little influence on normal body temperature. The optimal temperature range for amphibians varies substantially with the species. For example, closely related species of salamanders have average body temperatures ranging from 7&#176; to 25&#176;C. When exposed to air, most amphibians lose heat rapidly by evaporation from their moist body surfaces, making it difficult to keep body temperature sufficiently warm. However, behavioral adaptations help these animals maintain a satisfactory temperature most of the time--by moving to a location where solar heat is available, for instance. When the surroundings are too warm, amphibians seek cooler microenvironments, such as shaded areas. Some species, such as bullfrogs, can vary the amount of mucus they secrete from their surface, a response that regulates evaporative cooling.
+
+Like amphibians, reptiles control body temperature mainly by behavior. When cold, they seek warm places, orienting themselves toward heat sources to increase heat uptake and expanding the body surface exposed to a heat source. When hot, they move to cool areas or turn in another direction, thereby reducing the surface area exposed to the sun. Many reptiles keep their body temperatures very stable over the course of a day by shuttling back and forth between warm and cool spots.
+
+Some reptiles also have physiological adaptations that regulate heat loss. For example, in the marine iguana, which inhabits the Gal&aacute;pagos Islands, body heat is conserved by vaso-constriction of superficial blood vessels, routing more blood to the central core of the body when the animal is swimming in the cold ocean. A few large reptiles become endothermic in special circumstances. For example, female pythons that are incubating eggs increase their metabolic rate by shivering, generating enough heat to keep their body (and egg) temperatures 5-7&#176;C warmer than the surrounding air for weeks at a time. This temporary endothermy consumes considerable energy. Researchers continue to debate whether certain groups of dinosaurs were endothermic (see Chapter 34).
+
+Fishes
+
+In terms of body temperature, most fishes are conformers, with internal temperature usually within 1-2&#176;C of the surrounding water temperature. The swimming muscles may be large and active, but nearly all the metabolic heat most fishes generate is lost to the surrounding water when blood passes through the gills. However, some specialized endothermic fishes, mainly large, powerful swimmers such as the bluefin tuna, swordfish, and the great white shark, have circulatory adaptations that retain metabolic heat in the body. Large arteries convey most of the cold blood from the gills to tissues just under the skin. Branches deliver blood to the deep muscles, where the small vessels are arranged into a countercurrent heat exchanger. Endothermy enhances the vigorous, sustained activity that is characteristic of these fishes by keeping the main swimming muscles several degrees warmer than the tissues near the animal's surface, about the same temperature as the surrounding water (FIGURE 44.8). In a few fish species, special heat-generating organs, which may be evolutionarily derived from eye muscles, warm just the eyes or brain. These adaptations probably allow more effective functioning of the warmed organs.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 44-8. Thermoregulation in large, active fishes. (a) Unlike most fishes, the bluefin tuna maintains temperatures in its main swimming muscles that are much higher than the surrounding water (colors indicate swimming muscles cut in transverse section). These temperatures were recorded for a tuna in 19&#176;C water. (b) Like the bluefin tuna, the great white shark has a countercurrent heat exchanger in its swimming muscles that reduces the loss of metabolic heat. (The photo shows a great white leaping out of the water in pursuit of a decoy model seal.) All fishes lose heat to the surrounding water when their blood passes through the gills. How-ever, endothermic fishes have a small dorsal aorta, and as a result relatively little cold blood from the gills goes directly to the core of the body. Instead, most of the blood leaving the gills is conveyed via large arteries just under the skin, keeping cool blood away from the body core. As shown in the enlargement, small arteries carrying cool blood inward from the large arteries under the skin are paralleled by small veins carrying warm blood outward from the inner body. This countercurrent flow retains heat in the muscles.
+
+Invertebrates
+
+Aquatic invertebrates are mainly thermoconformers with little control over their body temperature. However, many terrestrial invertebrates can adjust internal temperature by the same behavioral mechanisms used by vertebrate ectotherms such as lizards. The desert locust, for example, must reach a certain temperature to become active, and on cold days it orients in a direction that maximizes the absorption of sunlight.
+
+Many species of flying insects, such as bees and moths, are actually endothermic--the smallest of all endotherms. The hawk moth is an example. The capacity of such endothermic insects to elevate body temperature depends on powerful flight muscles, which generate large amounts of heat when operating. Many endothermic insects use shivering--by contracting the flight muscles in synchrony, so that only slight wing movements occur but considerable heat is produced--to warm up before taking off. Chemical reactions, and hence cellular respiration, speed up in the warmed-up flight "motors" (the Q10 effect), enabling these insects to fly even on cold days or at night (FIGURE 44.9a). Many endothermic insects (bumblebees, honeybees, and some moths) have a countercurrent heat exchanger that helps maintain a high temperature in the thorax, where the flight muscles are located. For example, the heat exchanger keeps the thorax of certain moths at about 30&#176;C during flight, even on cold, snowy nights (FIGURE 44.9b). In contrast, insects flying in hot weather run the risk of overheating because of the large amount of heat produced by working flight muscles. In some species the countercurrent mechanism can be shut down to allow muscle-produced heat to be lost from the thorax to the abdomen, and from there to the environment. Bumblebee queens use this means to incubate their eggs: They generate heat by shivering their flight muscles and then transfer the heat to the abdomen, which the bee presses against her eggs.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-9. Thermoregulation in moths.
+
+Honeybees use an additional thermoregulatory mechanism that depends on social behavior. In cold weather they increase heat production and huddle together, thereby retaining heat. They maintain a relatively constant temperature by changing the density of the huddling. Individuals move between the cooler outer edges of the cluster and the warmer center, thus circulating and distributing the heat. Even when huddling, honeybees must expend considerable energy to keep warm during long periods of cold weather, and this is the main function of storing large quantities of fuel in the hive in the form of honey. Honeybees also control the temperature of their hive by transporting water to it in hot weather and fanning with their wings, which promotes evaporation and convection. Thus, a honeybee colony uses many of the mechanisms of thermoregulation seen in single organisms.
+
+Feedback Mechanisms in Thermoregulation
+
+The regulation of body temperature in humans and other mammals is a complex system facilitated by feedback mechanisms (see FIGURE 40.9). Nerve cells that control thermoregulation, as well as those that control many other aspects of homeostasis, are concentrated in a region of the brain called the hypothalamus (discussed in detail in Chapter 48). The hypothalamus contains a group of neurons that functions as a thermostat, responding to changes in body temperature above and below a set point (actually above or below a normal range) by activating mechanisms that promote heat loss or gain (FIGURE 44.10, p. 934). Nerve cells that sense temperatures are in the skin, the hypothalamus itself, and several other body regions. Warm receptors signal the hypothalamic thermostat when temperatures increase; cold receptors indicate temperature decrease. At body temperature below the normal range, the thermostat inhibits heat-loss mechanisms and activates heat-saving ones such as vasoconstriction of superficial vessels and erection of fur, while stimulating heat-generating mechanisms (shivering and nonshivering thermogenesis). In response to elevated body temperature, the thermostat shuts down heat-retention mechanisms and promotes body cooling by vasodilation, sweating, or panting. The thermostat can also respond to external temperature (sensed as skin temperature) even without changes in body core temperature.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-10. The thermostat function of the hypothalamus and feedback mechanisms in human thermoregulation.
+
+Adjustment to Changing Temperatures
+
+Many animals can adjust to a new range of environmental temperatures over a period of days or weeks, a physiological response called acclimatization. Both ectotherms and endotherms acclimatize, but in different ways. In birds and mammals, acclimatization often includes adjusting the amount of insulation--by growing a thicker coat of fur in the winter and shedding it in the summer, for example--and sometimes varying the capacity for metabolic heat production in different seasons. These changes help endotherms keep a constant body temperature in both warm and cold seasons. In contrast, acclimatization in ectotherms is a process of compensating for changes in body temperature. These adjustments can strongly affect physiology and temperature tolerance. For example, summer-acclimatized bullhead catfish can survive water temperatures up to 36&#176;C but cannot function in cold water; after winter acclimatization they can easily tolerate cold water, but a temperature above 28&#176;C is lethal.
+
+Acclimatization responses in ectotherms often include adjustments at the cellular level. Cells may increase the production of certain enzymes, helping to compensate for the lowered activity of each enzyme molecule at temperatures that are not optimal. In other cases, cells produce variants of enzymes that have the same function but different temperature optima. Membranes may also change the proportions of saturated and unsaturated lipids they contain, which helps keep membranes fluid at different temperatures (see FIGURE 8.4).
+
+Some ectotherms that experience subzero body temperatures protect themselves by producing "antifreeze" compounds (cryoprotectants) that prevent ice formation in the cells. In arctic regions or cold mountain peaks, cryoprotectants in the body fluids let overwintering ectotherms, such as some frogs and many arthropods and their eggs, withstand body temperatures considerably below zero. Cryoprotectants are also found in certain species of fishes from arctic and antarctic seas, where water temperatures can be as cold as -1.8&#176;C, well below the freezing point of unprotected body fluids (about -0.7&#176;C).
+
+Cells can often make rapid adjustments to temperature changes. For example, mammalian cells grown in laboratory cultures respond to a marked increase in temperature and to other forms of severe stress, such as toxins, rapid pH changes, and viral infections, by accumulating special molecules called stress-induced proteins, including heat-shock proteins. When "shocked" by a rapid change in temperature from 37&#176;C to about 43&#176;C, cultured mammalian cells begin synthesizing heat-shock proteins within minutes. These molecules help maintain the integrity of other proteins that would be denatured by severe heat. Found in bacteria, yeasts, and plant cells as well as in animals, stress-induced proteins help prevent cell death when an organism is challenged by severe changes in the cellular environment.
+
+
+
+

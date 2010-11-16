@@ -1,0 +1,22 @@
+
+ What is a gene? revisiting the question
+
+Our definition of a gene has evolved over the past few chapters, as it has through the history of genetics. We began with the Mendelian concept of a gene as a discrete unit of inheritance that affects a phenotypic character (Chapter 14). We saw that Morgan and his colleagues assigned such genes to specific loci on chromosomes and that geneticists sometimes use the term locus as a synonym for gene (Chapter 15). We went on to view a gene as a region of specific nucleotide sequence along the length of a DNA molecule (Chapter 16). Finally, in this chapter, we have moved toward a functional definition of a gene as a DNA sequence coding for a specific polypeptide chain. All these definitions are useful, depending on the context in which genes are being studied. (FIGURE 17.25 summarizes the path from gene to polypeptide in a eukaryotic cell.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-25. A summary of transcription and translation in a eukaryotic cell. This diagram shows the path from one gene to one polypeptide. Keep in mind that each gene in the DNA can be transcribed repeatedly into many RNA molecules, and that each mRNA can be translated repeatedly to yield many polypeptides. (Also, remember that the final products of some genes are not polypeptides but RNA molecules, including tRNA and rRNA.) In general, the steps of transcription and translation are similar in prokaryotic and eukaryotic cells. The major difference is the occurrence of mRNA processing in the eukaryotic nucleus. Other significant differences are found in the initiation stages of both transcription and translation and in the termination of transcription.
+
+Even the one gene-one polypeptide definition must be refined and applied selectively. Most eukaryotic genes contain noncoding segments (introns), so large portions of these genes have no corresponding segments in polypeptides. Mo-lec-ular biologists also often include promoters and certain other regulatory regions of DNA within the boundaries of a gene. These DNA sequences are not transcribed, but they can be considered part of the functional gene because they must be present for transcription to occur. Our molecular definition of a gene must also be broad enough to include the DNA that is transcribed into rRNA, tRNA, and other RNAs that are not translated. These genes have no polypeptide products. Thus, we arrive at the following definition: A gene is a region of DNA whose final product is either a polypeptide or an RNA molecule.
+
+For most genes, however, it is still useful to retain the one gene-one polypeptide idea. In this chapter, you have learned in molecular terms how a typical gene is expressed--by transcription into RNA and then translation into a polypeptide that forms a protein of specific structure and function. Proteins, in turn, bring about an organism's observable phenotype.
+
+Genes are subject to regulation. The control of gene expression enables a bacterium, for example, to vary the amounts of particular enzymes as the metabolic needs of the cell change. In multicellular eukaryotes, the control of gene expression makes it possible for cells with the same DNA to diverge during their development into different cell types, such as muscle and nerve cells in animals. We will explore the regulation of gene expression in eukaryotes in Chapters 19 and 21. In the next chapter, we begin our discussion of gene regulation by focusing on the simpler molecular biology of bacteria and viruses.
+
+
+
+

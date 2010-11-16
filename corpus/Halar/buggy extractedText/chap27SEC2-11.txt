@@ -1,0 +1,52 @@
+
+ Most known prokaryotes are bacteria
+
+The term bacteria was once synonymous with "prokaryotes," but molecular systematics changed that when it became clear that prokaryotic life is represented by two distinct domains. It's a bit confusing that the name Bacteria was reassigned as the title of just one prokaryotic domain, Archaea being the other. True, most of the known prokaryotes are bacteria, but the archaea may catch up now that there is so much interest in describing their diversity.
+
+Every major mode of nutrition and metabolism is represented among the thousands of known species of bacteria. And as mentioned earlier, multiple nutritional types may be represented within a particular taxonomic group of bacteria. If you return to FIGURE 27.13, you'll see five major bacterial groups identified (we've omitted several other groups). As with the two main groups of archaea, the major bacterial taxa are now accorded kingdom status by some prokaryotic systematists. We've organized our description of these monophyletic groups (clades) into TABLE 27.3 (pp. 538-539).
+
+Table 27-3. Five of the Major Clades of Bacteria
+
+Group/DescriptionExampleProteobacteriaThis large and diverse clade of gram-negative bacteria includes photoautotrophs, chemoautotrophs, and hetero trophs. Proteobacteria include both anaerobic and aerobic species. Molecular systematists recognize five subgroups of proteo bacterial species.Alpha ProteobacteriaMany of the species in this group are closely associated with eukaryotic hosts, either as mutual symbionts or as parasites. For example, Rhizobium species live in nodules within the roots of legumes (plants of the pea/bean family), where the bacteria convert atmospheric N2 to compounds the host plant can use to make proteins. Species of the genus Agrobacterium are pathogens that cause tumors to form in plants; genetic engineers use these bacteria to carry foreign DNA into the genomes of crop plants (see FIGURE 20.19). The rickettsias, tiny even by bacterial standards, are pathogens that live within the cells of animals, causing such diseases as Rocky Mountain spotted fever in humans. Mitochondria, the sites of cellular respiration in eukaryotic cells, evolved from an aerobic alphas that inhabited a larger host cell, a phenomenon called endosymbiosis, which we will examine in detail in Chapter 28.
+
+
+
+Rhizobium; the arrows point to the bacteria inside root cells of a legume (TEM)Beta ProteobacteriaThis nutritionally diverse group includes Nitrosomonas, soil bacteria that play an important role in nitrogen recycling within ecosystems by oxidizing ammonium (NH4+), producing nitrite (NO2-) as a waste product.Gamma ProteobacteriaAmong the photosynthetic members of this group are sulfur bacteria such as Chromatium, which split H2S as a source of electrons to make organic molecules. The yellow globules in the Chromatium cells in the photo are sulfur wastes from photosynthesis. Among the heterotrophic gammas are some pathogens, including Legionella, named for the discovery that it causes Legionnaires' disease. Other gammas are enterics (bacteria that inhabit animal intestines), including Salmonella, one of the microbes that causes food poisoning; Vibrio cholerae, the pathogen that causes cholera; and the famous Escherichia coli, a species from the human intestine. The presence of E. coli in the water supply is a sign of contamination with feces. You may remember E. coli as one of the most important research organisms in molecular biology and DNA tech nology (see Chapters 16 and 20).
+
+
+
+Chromatium; the yellow globules are sulfur wastes from H2S-splitting photosynthesis (LM)Delta ProteobacteriaOne group of deltas, the myxobacteria, form the most elaborate colonies of all prokaryotes. The cells secrete a slimy substratum on which they glide through soil (myxa is Greek for "mucus"). When the soil dries out or food becomes scarce, the cells congregate and erect a bulbous "fruiting" body, which may be brightly colored and as large as a millimeter in diameter. The fruiting body releases resistant spores that become active and found new colonies in favorable environments. Another delta group, the bdellovibrios, are predators that attack other bacteria. A bdellovibrio charges its prey at a speed of 100 &uuml;m per second, which, relatively speaking, is like a human running about 600 km per hour, half the speed of sound! Then the predator turns into a bacterial drill, boring into its prey by spinning at 100 revolutions per second.
+
+
+
+Myxobacteria: Fruiting bodies of Chondromyces crocatus (SEM)
+
+
+
+Bdellovibrio bacteriophorus attacking a larger bacterium (colorized TEM)Epsilon ProteobacteriaA group closely related to the deltas, the epsilons include Helicobacter pylori, the bacterium that causes stomach ulcers.
+
+
+
+Helicobacter pylori, which causes stomach ulcers (colorized TEM)ChlamydiasThese parasites can survive only within the cells of animals, depending on their hosts for resources as basic as ATP. The gram-negative walls of chlamydias are unusual among bacteria in that they lack peptidoglycan. One species, Chlamydia trachomatis, is the most common cause of blindness in the world and also causes nongonococcal urethritis, the most common sexually transmitted disease (STD) in the United States.
+
+
+
+Chlamydias (arrows) living inside an animal cell (colorized TEM)SpirochetesSome of these helical heterotrophs are 0.25 mm long, though too thin to be visible without a microscope. Rotation of internal flagellum-like filaments produces a corkscrewlike movement. Many spirochetes are free- living, but the group also includes some notorious pathogens: Treponema pallidum causes the STD syphilis, and Borrelia burgdorferi is the pathogen of Lyme disease.
+
+
+
+Leptospira, a spirochete (colorized TEM)Gram-Positive BacteriaAll gram-positive bacteria cluster in this clade, but the group also includes some closely related gram-negative species. This branch of bacteria rivals the proteobacteria in diversity.One gram-positive subgroup, the actinomycetes, forms colonies with branched chains of cells (the mycetes part of the name means "fungus," for which these bacteria were once mistaken). Two actinomycetes of medical importance are the species that cause tuberculosis and leprosy. But most actinomycetes are free-living species that help decompose the organic litter in soil; their secretions are partly responsible for the "earthy" odor of rich soil. Soil-dwelling species of the genus Streptomyces are cultured by pharmaceutical companies as a source of many antibiotics, including streptomycin.In addition to the colonial actinomycetes, the gram-positive group also includes a diversity of solitary species. There are spore formers such as Bacillus and Clostridium. Anthrax is caused by Bacillus anthracis (see FIGURE 27.10). Clostridium botulinum produces the toxin that causes the potentially fatal disease botulism. The various species of Staphylococcus and Streptococcus are also gram-positive bacteria.The most structurally unusual members of the gram-positive clade are the mycoplasmas, which are the only bacteria lacking cell walls and which are the smallest of all known cells, with diameters as tiny as 0.1 &uuml;m, only about five times the diameter of a ribosome. Many mycoplasmas are soil bacteria, but there are also pathogens, including a species that causes "walking pneumonia" in humans.
+
+
+
+Streptomyces, source of many antibiotics (colorized SEM)
+
+
+
+Hundreds of mycoplasmas cover this human fibroblast cell (colorized SEM)CyanobacteriaThese photoautotrophs are the only prokaryotes with plantlike, oxygenic photosynthesis. (In fact, chloroplasts evolved from a cyanobacterium that lived as an endosymbiont within a larger host cell; see Chapter 28). Both solitary and colonial cyanobacteria are abundant wherever there is water, providing an enormous amount of food for freshwater and marine ecosystems. Some filamentous colonies have cells specialized for nitrogen fixation, the metabolic process that converts atmospheric N2 to compounds that can be incorporated into proteins and other organic molecules (see FIGURE 27.11).
+
+
+
+Cyanobacteria: Scytonema (LM)
+
+

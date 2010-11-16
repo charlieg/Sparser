@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-01-23T16:08:02.390158Z"
+   url="svn+ssh://dmcdonal@hops.dsl.bbn.com/cvs2/svn/nlp/Sparser/code/s/interface/C&amp;L/cfr"
+   last-author="dmcdonal"
+   kind="dir"
+   repos="svn+ssh://dmcdonal@hops.dsl.bbn.com/cvs2/svn/nlp"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="imports-for-rules.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="385ca61887ebfa3f4c5b3132d91dca71"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   name="CFR test articles"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="TNM.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="5c89caf5b4f1ef83e00a4902d6f1471b"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="bankruptcy.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="8700c5ef312665e516167b9f02c70c04"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="test-BCY:TNM.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="ce75ba0b4b75a9678f05ef2f15178751"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="loader.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="7b5ca3228af8db4a88262cf9286aba27"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="undef-cfr-test.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="91643f25ec4a102bf3eac563cc334c18"
+   last-author="dmcdonal"
+   kind="file"/>
+</wc-entries>

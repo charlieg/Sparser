@@ -1,0 +1,177 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
+;;; copyright (c) 1991-2005  David D. McDonald  -- all rights reserved
+;;; Copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
+;;; $Id:$
+;;; 
+;;;     File:  "abbreviations"
+;;;   Module:  "init;versions:v2.3:workspace:"
+;;;  version:  April 2009
+
+;; broken out into this form 9/93.
+;; 2/23/95 changed definition of P to look for whether *workshop-window* was up, and
+;; to inhibit TTs accordingly.  8/28 added Design.  2/9/05 Added ir to inspect
+;; rules. (1/07) lots of little additions. 4/9/09 Changed 'inspect' to 'd'
+;; 7/21/09 vrp serves as 'wrapper' for exporting output in speech act-inspired format
+;; Modified through 9/11/09
+
+(in-package :sparser)
+
+;;;----------------------------
+;;; frequently loaded packages
+;;;----------------------------
+
+(defun design ()
+  (load "SysAp:Applications:MCL 2.0.1:Interface Tools:make-ift.lisp")
+  (format t "~&~%do (ift::load-ift)~%~%"))
+
+
+
+;;;-----------------------------------------------------
+;;;     abbreviations of frequently called routines
+;;;-----------------------------------------------------
+
+(defun d (obj)
+  (describe obj)
+  obj)
+
+
+(defun e ( &key from to )
+  (display-chart-edges :stream *standard-output*
+                       :from from :to to))
+
+(defun e/ends ( &key from to )
+  (display-chart-edges :stream *standard-output*
+                       :from from :to to
+                       :ends-rather-than-starts? t))
+
+(defun chart ()
+  (display-chart :style :just-terminals))
+
+
+(defun ie (number-of-edge) (d (edge# number-of-edge)))
+(defun ip (number-of-position) (d (position# number-of-position)))
+(defun iw (string-for-word) (d (word-named string-for-word)))
+(defun ir (number-of-rule)
+  (let ((rule (psr# number-of-rule)))
+    (d rule)))
+(defun ic (category-name) (d (referential-category-named category-name)))
+
+(defun psr# (n)
+  (let ((symbol (intern (string-append "PSR" (format nil "~a" n))
+			(find-package :rule))))
+    (eval symbol)))
+
+(defun p# (n)
+  (position# n))
+
+(defun e# (n)
+  (edge# n))
+
+(defun i# (n)
+  (individual-object# n))
+
+(defun psi# (n)
+  (psi-object# n))
+
+;; lp#  -- for lattice points
+
+
+(defmacro ml (label-name1 label-name2)
+  `(multiply-labels ,(resolve label-name1)
+                    ,(resolve label-name2)))
+
+;;;------------------
+;;; packaged drivers
+;;;------------------
+
+;(defun pp (string)
+;  (analyze-text-from-string string))
+
+;; outputs parse as s-expression in speech act-inspired format
+(defun pp (string)
+(read-from-string (substitute #\_ #\- (substitute #\_ #\/ ;; necessary clean-up to play nice with JESS
+(format nil "~S"
+  (let ((output (analyze-text-from-string string)))
+    (cond ((null output) output)
+	  ((listp output)
+#|	   (if (listp (car output))
+	       (format t "type: ~A~%" (cadar output)))
+	   (if (not (listp (car output)))
+	       (format t "no? ~A~%" output))|#
+	   (cond ((and (listp (cadr output))
+		    (eq 'event (car output))
+		    (eq 'question (cadadr output)))
+		  (cons 'speech-act (cdr output)))  ;; another kludge to get the output to fit the format
+		 ((listp (car output))
+		  (case (cadar output)
+		    (question (cons 'speech-act output))
+		    ;(inversion (cons 'request (cons (inversion-functor (cdr output)) (cons (inversion-target (cdr output)) (inversion-other (cdr output))))))
+		    (inversion (cons 'speech-act output))
+		    (acknowledgement (cons 'speech-act output))
+		    (greeting (cons 'speech-act output))
+		    (t (list 'speech-act (list 'form 'request) (list 'content output)))))
+		 (t (list 'speech-act (list 'form 'request) (list 'content output)))))
+	  (t (list 'speech-act (list 'form 'request) (list 'content output))))
+ )
+))))
+)
+
+(defun p (string)
+  (pp string)
+  (unless *workshop-window*
+    (format t "~%~%")
+    (tts)))
+(defun p/e (string)  (pp string) (e))
+(defun p/te (string) (pp string) (the-edges))
+
+(defun pt (string)
+  (time (pp string))
+  (tts))
+
+;; deprecated, for testing/development only
+(defun vrp (string)
+  (format t "~A~%" 
+    (pp string)
+  )
+)
+
+;; helper functions to transform inversion construction for vrp output
+(defun inversion-functor (string)
+  (cond ((eq 'functor (caar string)) (cadar string))
+	(t (inversion-functor (cdr string))))
+)
+
+(defun inversion-target (string)
+  (cond ((eq 'target (caar string)) (car string))
+	(t (inversion-target (cdr string))))
+)
+
+(defun inversion-other (string)
+  (cond ((car string)
+	 (cond ((and (not (eq 'functor (caar string))) (not (eq 'target (caar string)))) (cons (car string) (inversion-other (cdr string))))
+	       (t (inversion-other (cdr string)))))
+	(t nil))
+)
+
+
+(defun f (pathname
+          &key time (initial-region :header) )
+  (declare (ignore initial-region))
+  (unless pathname
+    (setq pathname *article*))
+  (when *open-stream-of-source-characters*
+    (close-character-source-file))
+  (format t "~%analyzing ~A~%~%" pathname)
+  (if time
+    (time (analyze-text-from-file pathname))
+    (analyze-text-from-file pathname)))
+
+
+;;------------ generic, switched routine
+;;
+(defun test-function (string/filename)
+  (declare (ignore string/filename))
+  (break "Test-function switch hasn't been set"))
+
+(setf (symbol-function 'test-function) (symbol-function 'p))
+;(setf (symbol-function 'test-function) (symbol-function 'p/tts/buffer))

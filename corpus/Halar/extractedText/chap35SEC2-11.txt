@@ -1,0 +1,32 @@
+
+ Morphogenesis depends on pattern formation
+
+A plant's body is more than a collection of dividing and expanding cells. Morphogenesis must occur for development to proceed properly; that is, cells must be organized into multicellular arrangements such as tissues and organs. The development of specific structures in specific locations is called pattern formation.
+
+Pattern formation depends to a large extent on positional information, signals of some kind that indicate each cell's location within an embryonic structure, such as a shoot tip. Within a developing organ, each cell continues to detect positional information and responds by differentiating into a particular type of cell. Developmental biologists are accumulating evidence that gradients of specific molecules, generally proteins, provide positional information. For example, a substance diffusing from a shoot's apical meristem may "inform" the cells below of their distance from the shoot tip. We can imagine that the cells gauge their radial positions within the developing organ by detecting a second chemical signal that emanates from the outermost cells. The gradients of these two substances would be sufficient for each cell to "get a fix" on its position relative to the longitudinal and radial axes of the rudimentary organ. This idea of diffusible chemical signals is just one of several alternative hypotheses that developmental biologists are testing to learn how an embryonic cell detects its location.
+
+One type of positional information is associated with polarity. In plants, there is typically a well-developed axis, but the two ends of this axis are not the same; there is a root end and a shoot end. Such polarity is most obvious in morphological differences, but it is also manifest in several physiological properties, including the unidirectional movement of certain hormones (see Chapter 39) and the emergence of adventitious roots and shoots from the appropriate ends of "cuttings." Adventitious roots form from the root end of a stem or a root cutting, and shoots from the shoot end.
+
+The first division of a plant zygote is normally asymmetrical, initiating polarization of the plant body into shoot and root. Once this polarity has been induced, it becomes exceedingly difficult to reverse. Thus, the proper establishment of axial polarity is a critical step in a plant's morphogenesis. In the gnom mutant of Arabidopsis, the establishment of polarity is defective. The first cell division of the zygote is abnormal in being symmetrical, and the resulting ball-shaped plant has neither roots nor cotyledons (seed leaves) (FIGURE 35.31).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-31. Establishment of axial polarity. The normal Arabidopsis seedling (left) has a shoot end and a root end. In the gnom mutant (right), the first division of the zygote was not asymmetrical; as a result, the plant is ball-shaped and lacks cotyledons (seed leaves) and roots.
+
+Let's examine another example of how genes regulate pattern formation and morphogenesis in plants. Plants, like other multicellular organisms, have master regulatory genes called homeotic genes (see Chapter 21) that mediate many of the major events in an individual's development, such as the initiation of an organ. For example, the protein product of the KNOTTED-1 homeotic gene, found in many plant species, is important in the development of leaf morphology, including the production of compound leaves. If the KNOTTED-1 gene is overexpressed in tomato plants, the normally compound leaves become "supercompound" (FIGURE 35.32).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-32. Too much "volume" from a homeotic gene. KNOTTED-1 is a homeotic gene involved in leaf and leaflet formation. Its overexpression in tomato plants results in leaves that are "supercompound" (right) compared to normal leaves (left).
+
+
+
+

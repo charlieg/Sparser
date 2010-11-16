@@ -1,0 +1,48 @@
+
+ Cleavage partitions the zygote into many smaller cells
+
+Fertilization is followed by three successive stages that begin to build the animal's body. First, a special type of cell division, called cleavage, creates a multicellular embryo, the blastula, from the zygote. The second stage, gastrulation, produces a three-layered embryo called the gastrula. The third stage, called organogenesis, generates rudimentary organs from which adult structures grow.
+
+Cleavage is a succession of rapid cell divisions that follow fertilization (FIGURE 47.6). During cleavage, the cells undergo the S (DNA synthesis) and M (mitosis) phases of the cell cycle but often virtually skip the G1 and G2 phases (see FIGURE 12.4). The embryo does not enlarge during this period of development. Cleavage simply partitions the cytoplasm of one large cell, the zygote, into many smaller cells called blastomeres, each with its own nucleus. Thus, different regions of cytoplasm present in the original undivided egg cell end up in separate blastomeres. And because the regions may contain different cytoplasmic components, the partitioning sets the stage for subsequent developmental events.
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-6. Cleavage in an echinoderm (sea urchin) embryo. Cleavage is a series of cell divisions that transform the zygote into a ball of much smaller cells, called blastomeres (LMs).(a) The two-cell stage, following the first cleavage division, occurs about 45-90 minutes after fertilization. Notice that the fertilization envelope is still present. (b) The second cleavage division produces the four-cell stage. (c) In a few hours, further cleavage divisions have formed a multicellular ball. The embryo is still inside the fertilization envelope, from which the larva will eventually hatch.
+
+With the apparent exception of mammals, most animals have both eggs and zygotes with a definite polarity. During cleavage in such organisms, the planes of division follow a specific pattern relative to the poles of the zygote. The polarity is defined by the heterogeneous distribution of substances in the cytoplasm, including specific mRNA and proteins, and yolk (stored nutrients). In many frogs and other animals, the distribution of yolk is a key factor in influencing the pattern of cleavage. Yolk is most concentrated at one pole of the egg, called the vegetal pole, while the opposite pole, the animal pole, has the lowest concentration of yolk. The animal pole is also the site where the polar bodies of oogenesis are budded from the cell (see FIGURE 46.13), and in some animals it marks the point where the anterior (head) end of the embryo will form.
+
+The hemispheres of the zygote are named for their respective poles (FIGURE 47.7). In the eggs of many frogs, the animal and vegetal hemispheres have different coloration due to the heterogeneous distribution of cytoplasmic substances. The animal hemisphere has melanin granules embedded in the outer layer of the cytoplasm (the cortex), giving it a deep gray hue, while the vegetal hemisphere contains the yellow yolk. A rearrangement of the amphibian egg cytoplasm occurs at the time of fertilization. The plasma membrane and associated cortex rotate toward the point of sperm entry, probably because the centrosome brought into the egg by the sperm cell reorganizes the cytoskeleton. The rotation exposes a light-gray region of cytoplasm, a band called the gray crescent. Located near the equator of the egg on the side opposite the sperm entry, the gray crescent is an important early marker of the polarity of the amphibian egg: It corresponds to the dorsal side of the later embryo.
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-7. The establishment of the body axes and the first cleavage plane in an amphibian. The "animal" hemisphere of the egg, which will become the anterior end of the embryo, is dark gray due to melanin in its outer cytoplasm (cortex); the "vegetal" hemisphere is yellow because it contains the yolk. At fertilization, the pigmented cortex slides over the underlying cytoplasm toward the point of sperm entry, exposing a region of lighter-colored cytoplasm. The exposed region, known as the gray crescent, is opposite the point of sperm entry. The first cleavage division bisects the gray crescent. The crescent marks the location of the dorsal side of the future embryo. Thus, all three axes of the embryo are established before the zygote begins cleavage.
+
+Because yolk tends to impede cell division, cleavage of the frog zygote occurs more rapidly in the animal hemisphere than in the vegetal hemisphere, resulting in an embryo with different-sized cells. In comparison with frog eggs, those of sea urchins and many other animals have less yolk but still have an animal-vegetal axis, owing to differential distribution of other substances. Without the restraint imposed by yolk, their cleavage divisions all occur at about the same rate, producing blastomeres of virtually equal size.
+
+In both sea urchins and frogs, the first two cleavage divisions are meridional (vertical), resulting in four cells that each extend from animal to vegetal pole. The third division is equatorial (horizontal), producing an eight-celled embryo with two tiers of four cells each (FIGURE 47.8a). The general pattern up to this point is the same in both types of embryos. In fact, echinoderms, chordates, and the other animal phyla grouped as deuterostomes share many features of early embryonic development. These similarities help distinguish the deuterostomes from the protostomes, such as mollusks, annelids, and arthropods (see FIGURE 32.7).
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-8. Cleavage in a frog embryo. Yolk, concentrated near the vegetal pole of the egg, slows down the formation of cleavage furrows in the vegetal hemisphere. (a, b, and c are SEMs.)
+
+Continued cleavage produces a solid ball of cells known as the morula, Latin for "mulberry," in reference to the lobed surface of the embryo at this stage (FIGURE 47.8b). A fluid-filled cavity called the blastocoel forms within the morula, creating a hollow ball called the blastula (FIGURE 47.8c). In sea urchins, the blastocoel is centrally located in the blastula. However, in frogs, because of unequal cell division, the blastocoel is located in the animal hemisphere (FIGURE 47.8d).
+
+Yolk is most plentiful and has its most pronounced effect on cleavage in the eggs of birds, reptiles, many fishes, and insects. In birds, for example, the part of the egg we commonly call the yolk is actually the egg cell (ovum), swollen with yolk nutrients. This enormous cell is surrounded by a protein-rich solution (the egg white) that will provide additional nutrients for the growing embryo. Cleavage of the fertilized egg is restricted to a small disc of yolk-free cytoplasm at the animal pole of the egg cell. This incomplete division of a yolk-rich egg is known as meroblastic cleavage. It contrasts with holoblastic cleavage, the complete division of eggs having little yolk (as in sea urchins) or a moderate amount of yolk (as in frogs).
+
+The yolk-rich eggs of insects, such as Drosophila, undergo a unique type of meroblastic cleavage (see FIGURE 21.11). The zygote's nucleus is situated within a mass of yolk. Cleavage begins with the nucleus undergoing mitotic divisions that are not accompanied by cytokinesis. These mitotic divisions produce several hundred nuclei, which migrate to the outer edge of the egg. After several more rounds of mitosis, a plasma membrane forms around each nucleus, and the embryo, now a blastula, consists of a single layer of about 6,000 cells surrounding a mass of yolk.
+
+
+
+

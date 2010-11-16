@@ -1,0 +1,34 @@
+Despite the Cox committee 's call for tighter restrictions on high-tech exports to China , the computer industry is pressing Congress and the Clinton administration to move in the opposite direction .
+<ENAMEX TYPE="OKAY">Bill Maxwell , international trade policy manager for Hewlett - Packard , said the current system of controls is headed for a `` train wreck '' if it 's not soon liberalized .
+The problem , say high-tech experts , is that mass-produced , readily available computers are getting so fast they will soon be subject to cumbersome controls under current regulations .</ENAMEX>
+In fact , this week 's explosive congressional report does n't discourage selling computers to China for commercial purposes , and recommends streamlining export procedures .
+But the report calls for more stringent controls , including longer review periods , on what the government calls `` HPCs , `` or high-performance computers .
+Computers available at electronics stores for a couple of thousand dollars will soon fall into this category .
+Earlier this month a group of 59 congressmen sent a letter to President Clinton asking the administration to update the export control thresholds .
+Among the signers were Bay Area representatives Anna Eshoo , Zoe Lofgren , Robert Matsui , Ellen Tauscher and Tom Campbell .
+Under current rules U.S. exporters must notify the Departments of Commerce , Defense , State and Energy before shipping HPCs to any `` Tier III '' country , a government category that includes not only China , but also Russia , Israel or some 45 other nations .
+If none of the agencies objects within 10 days , the sale can proceed .
+In all of 1998 , HP 's Maxwell said , there were roughly 400 such notifications .
+But computer performance is improving so rapidly that by this summer there will be hundreds every day if current standards are n't relaxed , he predicted .
+`` There are going to be long delays , and customers are going to go elsewhere , '' he said .
+Under current regulations , which were adopted in 1996 , HPCs are defined as systems capable of 2,000 or more `` MTOPS , '' or millions of theoretical operations per second .
+Even the latest mainstream desktop computers do n't yet cross this threshold .
+But systems with two or more processors , which are widely used as servers and high-end PCs , are already over the line .
+A machine with dual Pentium III processors running at 500 MHz , for example , delivers well over 2,000 MTOPS , according to Intel spokesman Bill Calder .
+Such machines are readily available through retail channels and online dealers for $ 3,000 or less .
+Within a year or two even single-chip , mainstream computers are expected to cross into HPC territory .
+According to industry sources , Apple 's next-generation Mac laptops , equipped with the forthcoming PowerPC G4 processor , will be capable of executing up to 2,400 MTOPS .
+-LRB- Apple officials did not return calls . -RRB-
+Intel , HP , Apple and other computer companies last year formed a group called the Computer Coalition for Responsible Exports to lobby for updated export rules .
+The administration can raise the performance limit , but Congress has six months to review proposed changes before they go into effect .
+Paula Collins , spokeswoman for the CCRE , said the Clinton administration is expected to propose new export rules in June .
+But that schedule could slip in the wake of the Cox committee revelations , Washington observers agreed .
+`` I think there are probably going to be some delays as people wait for the dust to settle , '' said HP 's Maxwell .
+Experts at both and left-leaning Washington think-tanks agree that export controls should be relaxed .
+`` It 's virtually impossible to control these exports in a way that has any meaningful impact on the ability of foreign governments to use the technology for their own purposes , '' said Dan Griswold , associate director of the Center for Trade Policy Studies at the Cato Institute in Washington , D.C. Continuing the existing controls `` would hurt us more than it would hurt the Chinese , '' he said .
+Nicholas Lardy , senior fellow at the Brookings Institution in Washington , agreed .
+To impose export restrictions without support from Europe and Japan `` would be the height of folly , '' he said .
+Seymour Goodman , a Stanford University expert who has directed several government studies on high-tech exports , acknowledged that today 's mass-market PCs are so powerful that they could be used in nuclear weapons design .
+Still , he said , it 's simply not possible to limit the distribution of small , low-cost technologies that are available all over the world .
+`` At some point you just have to give up , '' he said .
+`` Lots of people in this world are being killed by bullets , but no one thinks there 's any point in trying to control them . ''

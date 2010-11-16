@@ -1,0 +1,22 @@
+
+ Feedback mechanisms control cellular respiration
+
+Basic principles of supply and demand regulate the metabolic economy. The cell does not waste energy making more of a particular substance than it needs. If there is a glut of a certain amino acid, for example, the anabolic pathway that synthesizes that amino acid from an intermediate of the Krebs cycle is switched off. The most common mechanism for this control is feedback inhibition: The end product of the anabolic pathway inhibits the enzyme that catalyzes an early step of the pathway (see FIGURE 6.18). This prevents the needless diversion of key metabolic intermediates from uses that are more urgent.
+
+The cell also controls its catabolism. If the cell is working hard and its ATP concentration begins to drop, respiration speeds up. When there is plenty of ATP to meet demand, respiration slows down, sparing valuable organic molecules for other functions. Again, control is based mainly on regulating the activity of enzymes at strategic points in the catabolic pathway. One important switch is phosphofructokinase, the enzyme that catalyzes step 3 of glycolysis (see FIGURE 9.9). That is the earliest step that commits substrate irreversibly to the glycolytic pathway. By controlling the rate of this step, the cell can speed up or slow down the entire catabolic process; phosphofructokinase is thus the pacemaker of respiration (FIGURE 9.20).
+
+
+
+Click image to enlarge
+
+
+
+Fig 9-20. The control of cellular respiration. Allosteric enzymes at certain points in the respiratory pathway respond to inhibitors and activators that help set the pace of glycolysis and the Krebs cycle. Phosphofructokinase, the enzyme that catalyzes step 3 of glycolysis, is one such enzyme. It is stimulated by AMP (derived from ADP), but it is inhibited by ATP and by citrate. This feedback regulation adjusts the rate of respiration as the cell's catabolic and anabolic demands change.
+
+An allosteric enzyme with receptor sites for specific inhibitors and activators, phosphofructokinase is inhibited by ATP and stimulated by AMP, which the cell derives from ADP (see p. 101). As ATP accumulates, inhibition of the enzyme slows down glycolysis. The enzyme becomes active again as cellular work converts ATP to ADP (and AMP) faster than ATP is being regenerated. Phosphofructokinase is also sensitive to citrate, the first product of the Krebs cycle. If citrate accumulates in mitochondria, some of it passes into the cytosol and inhibits phosphofructokinase. This mechanism helps synchronize the rates of glycolysis and the Krebs cycle. As citrate accumulates, glycolysis slows down, and the supply of acetate to the Krebs cycle decreases. If citrate consumption increases, either because of a demand for more ATP or because anabolic pathways are draining off intermediates of the Krebs cycle, glycolysis accelerates and meets the demand. Metabolic balance is augmented by the control of other enzymes at other key locations in glycolysis and the Krebs cycle. Cells are thrifty, expedient, and responsive in their metabolism.
+
+Examine FIGURE 9.1 again to put cellular respiration into the broader context of energy flow and chemical cycling in ecosystems. The energy that keeps us alive is released, but not produced, by cellular respiration. We are tapping energy that was stored in food by photosynthesis. In the next chapter, you will learn how photosynthesis captures light and converts it to chemical energy.
+
+
+
+

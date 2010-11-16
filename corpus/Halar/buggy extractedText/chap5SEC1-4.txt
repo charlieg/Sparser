@@ -1,0 +1,24 @@
+
+PROTEINS--MANY STRUCTURES, MANY FUNCTIONS
+
+ 
+
+ A polypeptide is a polymer of amino acids connected in a specific sequence
+
+
+
+ 
+
+ A protein's function depends on its specific conformation
+
+
+
+The importance of proteins is implied by their name, which comes from the Greek word proteios, meaning "first place." Proteins account for more than 50%  of the dry weight of most cells, and they are instrumental in almost everything organisms do (TABLE 5.1, p. 72). Proteins are used for structural support, storage, transport of other substances, signaling from one part of the organism to another, movement, and defense against foreign substances. In addition, as enzymes, proteins regulate metabolism by selectively accelerating chemical reactions in the cell. A human has tens of thousands of different proteins, each with a specific structure and function.
+
+Table 5-1. An Overview of Protein Functions
+
+Type of ProteinFunctionExamplesStructural proteinsSupportInsects and spiders use silk fibers to make their cocoons and webs, respectively. Collagen and elastin provide a fibrous framework in animal connective tissues. Keratin is the protein of hair, horns, feathers, and other skin appendages.Storage proteinsStorage of amino acidsOvalbumin is the protein of egg white, used as an amino acid source for the developing embryo. Casein, the protein of milk, is the major source of amino acids for baby mammals. Plants have storage proteins in their seeds.Transport proteinsTransport of other substancesHemoglobin, the iron-containing protein of vertebrate blood, transports oxygen from the lungs to other parts of the body. Other proteins transport molecules across cell membranes.Hormonal proteinsCoordination of an organism's activitiesInsulin, a hormone secreted by the pancreas, helps regulate the concentration of sugar in the blood of vertebrates.Receptor proteinsResponse of cell to chemical stimuliReceptors built into the membrane of a nerve cell detect chemical signals released by other nerve cells.Contractile proteinsMovementActin and myosin are responsible for the movement of muscles. Other proteins are responsible for the undulations of the organelles called cilia and flagella.Defensive proteinsProtection against diseaseAntibodies combat bacteria and viruses.Enzymatic proteinsSelective acceleration of chemical reactionsDigestive enzymes catalyze the hydrolysis of the polymers in food.Proteins are the most structurally sophisticated molecules known. Consistent with their diverse functions, they vary extensively in structure, each type of protein having a unique three-dimensional shape, or conformation. Diverse though proteins may be, they are all polymers constructed from the same set of 20 amino acids. Polymers of amino acids are called polypeptides. A protein consists of one or more polypeptides folded and coiled into specific conformations.
+
+
+
+

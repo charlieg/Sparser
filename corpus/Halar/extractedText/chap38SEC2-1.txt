@@ -1,0 +1,18 @@
+
+ Sporophyte and gametophyte generations alternate in the life cycles of plants: a review
+
+In Chapter 30 you learned about the life cycle of a flowering plant from an evolutionary perspective. The life cycles of angiosperms and other plants are characterized by an alternation of generations, in which haploid (n) and diploid (2n) generations take turns producing each other (see FIGURE 29.6). The diploid plant, which is called the sporophyte, produces haploid spores by meiosis. These spores divide by mitosis, giving rise to multicellular male and female haploid plants--the gametophytes. By mitosis and cellular differentiation, the gametophytes develop and produce gametes--sperm and eggs. Fertilization results in diploid zygotes, which divide by mitosis and form new sporophytes. FIGURE 38.1 follows the main stages of the angiosperm life cycle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 38-1. Simplified overview of angiosperm life cycle. See FIGURE 30.17 for a more detailed version of the life cycle.
+
+In angiosperms, the sporophyte is the dominant generation in the sense that it is the conspicuous plant we see. Over the course of seed plant evolution, gametophytes became reduced in size and dependent upon their sporophyte parents: Angiosperm gametophytes are the most reduced of all, consisting of only a few cells. The sporophyte also develops a reproductive structure unique to angiosperms--the flower. Male and female gametophytes develop within the anthers and ovaries, respectively, of a sporophyte flower (see FIGURE 38.1). Pollination by wind or animals brings a male gametophyte (pollen grain) to a female gametophyte; union of their gametes (fertilization) takes place within the ovary, as does the development of the seeds containing sporophyte embryos. The ovary itself becomes a fruit (another unique structure of the angiosperms).
+
+
+
+

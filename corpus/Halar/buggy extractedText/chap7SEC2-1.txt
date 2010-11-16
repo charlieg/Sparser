@@ -1,0 +1,54 @@
+
+ Microscopes provide windows to the world of the cell
+
+The evolution of a science often parallels the invention of instruments that extend human senses to new limits. The discovery and early study of cells progressed with the invention and improvement of microscopes in the 17th century. Microscopes of various types are still indispensable tools for the study of cells.
+
+The microscopes first used by Renaissance scientists, as well as the microscopes you are likely to use in the laboratory, are all light microscopes (LMs). Visible light is passed through the specimen and then through glass lenses. The lenses refract (bend) the light in such a way that the image of the specimen is magnified as it is projected into the eye, onto photograph film, or onto a video screen. (See the appendix at the back of the book that diagrams microscope structure.)
+
+Two important parameters in microscopy are magnification and resolving power, or resolution. Magnification in microscopy is the ratio of an object's image to its real size. Resolving power is a measure of the clarity of the image; it is the minimum distance two points can be separated and still be distinguished as two separate points. For example, what appears to the unaided eye as one star in the sky may be resolved as twin stars with a telescope.
+
+Just as the resolving power of the human eye is limited, the resolving power of telescopes and microscopes is limited. Microscopes can be designed to magnify objects as much as desired, but the light microscope can never resolve detail finer than about 0.2 micrometer (mm), the size of a small bacterium (FIGURE 7.1). This resolution is limited by the shortest wavelength of light used to illuminate the specimen. Light microscopes can magnify effectively to about 1,000 times the size of the actual specimen; at greater magnifications, the image becomes increasingly blurry. Most of the improvements in light microscopy since the beginning of the 20th century have involved new methods for enhancing contrast, which clarifies the details that can be resolved (TABLE 7.1, p. 110). In addition, scientists have developed methods for labeling particular cell components so that they stand out visually.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-1. The size range of cells. Most cells (yellow region of chart) are between 1 and 100 mm in diameter and are therefore visible only under a microscope. Notice that the scale along the left side is logarithmic to accommodate the range of sizes shown. Starting at the top of the scale with 10 m and going down, each reference measurement marks a tenfold decrease in diameter or length.
+
+Table 7-1. Different Types of Light Microscopy: A Comparison
+
+Type of MicroscopyLight Micrographs of Human Cheek Epithelial CellsType of MicroscopyBrightfield (unstained specimen). Passes light directly through specimen; unless cell is naturally image has little contrast.
+
+
+
+Phase-contrast. Enhances contrast in unstained cells by amplifying variations in density within specimen; especially useful for examining living, unpigmented cells.Brightfield (stained specimen). Staining with various dyes enhances contrast, but most staining procedures require that cells be fixed (preserved).
+
+
+
+Differential-interference-contrast (Nomarski). Like phase-contrast microscopy, it uses optical modifications to exaggerate differences in density.Fluorescence. Shows the locations of specific molecules in the cell. Fluorescent substances absorb short-wavelength, ultraviolet radiation and emit longer-wavelength, visible light. The fluorescing molecules may occur naturally in the specimen but more often are made by tagging the molecules of interest with fluorescent molecules.
+
+
+
+Confocal. Uses lasers and special optics for "optical sectioning." Only those regions within a narrow depth of focus are imaged. Regions above and below the selected plane of view appear black rather than blurry. This microscope is typically used with fluorescently stained specimens, as in the example here.Although cells were discovered by Robert Hooke in 1665, the geography of the cell was largely uncharted until the 1950s. Most subcellular structures, or organelles, are too small to be resolved by the light microscope. Cell biology advanced rapidly in the 1950s with the introduction of the electron microscope. Instead of using light, the electron microscope (EM) focuses a beam of electrons through the specimen or onto its surface. Resolving power is inversely related to the wavelength of radiation a microscope uses, and electron beams have wavelengths much shorter than the wavelengths of visible light. Modern electron microscopes can theoretically achieve a resolution of about 0.1 nanometer (nm), but the practical limit for biological structures is generally only about 2 nm--still a hundredfold improvement over the light microscope. Biologists use the term cell ultrastructure to refer to a cell's anatomy as revealed by an electron microscope.
+
+There are two basic types of electron microscopes: the transmission electron microscope (TEM) and the scanning electron microscope (SEM). Cell biologists use the TEM mainly to study the internal ultrastructure of cells. The TEM aims an electron beam through a thin section of the specimen, similar to the way a light microscope transmits light through a slide. However, instead of using glass lenses, the TEM uses electromagnets as lenses to focus and magnify the image by bending the paths of the electrons. The image is ultimately focused onto a screen for viewing or onto photographic film. To enhance contrast in the image, very thin sections of preserved cells are stained with atoms of heavy metals, which attach to certain cellular structures (FIGURE 7.2a).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-2. Electron micrographs. (a) This micrograph, taken with a transmission electron microscope (TEM), profiles a thin section of part of a cell from a rabbit trachea (windpipe), revealing its ultrastructure. (b) A scanning electron microscope (SEM) produced this three-dimensional image of the surface of the same type of cell. Both micrographs show motile organelles called cilia. Beating of the cilia that line the windpipe helps move inhaled debris upward toward the pharynx (throat).
+
+The SEM is especially useful for detailed study of the surface of the specimen (FIGURE 7.2b). The electron beam scans the surface of the sample, which is usually coated with a thin film of gold. The beam excites electrons on the sample's surface, and these secondary electrons are collected and focused onto a screen. The result is an image of the topography of the specimen. The SEM has great depth of field, which results in an image that appears three-dimensional.
+
+Electron microscopes reveal many organelles that are impossible to resolve with the light microscope. But the light microscope offers advantages, especially for the study of live cells. A disadvantage of electron microscopy is that the methods used to prepare the specimen kill the cells. Also, these methods may introduce artifacts, structural features seen in micrographs that do not exist in the living cell. (Artifacts can occur in light microscopy, too.)
+
+Microscopes are the most important tools of cytology, the study of cell structure. But simply describing the diverse organelles within the cell reveals little about their function. Modern cell biology developed from an integration of cytology with biochemistry, the study of the molecules and chemical processes of metabolism. A biochemical approach called cell fractionation has been particularly important in cell biology.
+
+
+
+

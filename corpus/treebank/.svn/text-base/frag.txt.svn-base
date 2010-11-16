@@ -1,0 +1,50 @@
+(S
+  (PP
+    (IN in)
+    (NP
+      (NP
+        (DT an)
+        (DATE
+          (NNP oct.)
+          (CD 19))
+        (NN review))
+      (PP
+        (IN of)
+        (NP
+          (`` ``)
+          (NP
+            (DT the)
+            (NN misanthrope))
+          ('' '')
+          (PP
+            (IN at)
+            (NP
+              (NP
+                (NNP chicago)
+                (POS 's))
+              (NNP goodman)
+              (NNP theatre)))))
+      (PRN
+        (-LRB- -LRB-)
+        (`` ``)
+        (S
+          (NP
+            (VBN revitalized)
+            (NNS classics))
+          (VP
+            (VBP take)
+            (NP
+              (DT the)
+              (NN stage))
+            (PP
+              (IN in)
+              (NP
+                (NNP windy)
+                (NNP city)))))
+        (, ,)
+        ('' '')
+        (NP
+          (NN leisure)
+          (CC &)
+          (NNS arts))
+        (-RRB- -rrb-)))))

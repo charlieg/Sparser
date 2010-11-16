@@ -1,0 +1,18 @@
+
+ Evolutionary biologists have proposed several alternative concepts of species
+
+The biological species concept emphasizes a separateness of different species due to reproductive barriers. In contrast, several alternative species concepts emphasize the processes that unite the members of a species. The distinction is analogous to defining a country not by the borders that separate it from other countries but by the set of cultural features that give the country an identity.
+
+The ecological species concept defines a species in terms of its ecological niche, the set of environmental resources a species uses. Put another way, a species' niche depends on its unique adaptations to a particular role in a biological community. (We will examine the concept of ecological niche in more detail in Chapter 53.) For example, a species that is a parasite may be defined in part by its adaptations to a specific host organism. Note that this species concept accommodates asexual species, which the biological species concept does not.
+
+According to a pluralistic species concept, the factors that are most important for the cohesion of individuals as a species vary. In some cases, reproductive isolation may be a key unifying factor for a species. In other cases, adaptation to a specific ecological niche may be the main factor in species cohesion. In still other cases, the integrity of the species may depend on some combination of reproductive isolation and a unique niche.
+
+The biological, ecological, and pluralistic species concepts are all "explanatory" concepts--attempts to explain the very existence of species as discrete units in the diversity of life. None, however, is especially useful in actually identifying various species in nature. For that, taxonomists still depend mainly on morphological characteristics. Thus, although it doesn't really explain why species exist, the morphological species concept, which characterizes each species in terms of a unique set of structural features, remains the way we distinguish most species.
+
+Many evolutionary biologists are also evaluating a genealogical species concept, which defines a species as a set of organisms with a unique genetic history--that is, as one tip on the branching tree of life. The sequencing of nucleic acids and proteins provides data that researchers are now using to define each species in terms of unique genetic markers. Like the morphological species concept, the genealogical one is more concerned with identifying the various species than with a theoretical explanation for their existence as separate forms of life.
+
+Each species concept has utility, depending on the situation and the types of questions we are asking. The biological species concept, in its emphasis on reproductive barriers to gene flow, is particularly useful in thinking about how species originate. Next, we examine the processes that can lead to such speciation.
+
+
+
+

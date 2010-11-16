@@ -1,0 +1,996 @@
+
+Chapter 33: INVERTEBRATES
+
+PARAZOA
+
+   Phylum Porifera: Sponges are sessile with porous bodies and choanocytes
+
+
+
+RADIATA
+
+   Phylum Cnidaria: Cnidarians have radial symmetry, a gastrovascular cavity, and cnidocytes
+
+   Phylum Ctenophora: Comb jellies possess rows of ciliary plates and adhesive colloblasts
+
+
+
+PROTOSTOMIA: LOPHOTROCHOZOA
+
+   Phylum Platyhelminthes: Flatworms are acoelomates with gastrovascular cavities
+
+   Phylum Rotifera: Rotifers are pseudocoelomates with jaws, crowns of cilia, and complete digestive tracts
+
+   The lophophorate phyla: Bryozoans, phoronids, and brachiopods are coelomates with ciliated tentacles around their mouths
+
+   Phylum Nemertea: Proboscis worms are named for their prey-capturing apparatus
+
+   Phylum Mollusca: Mollusks have a muscular foot, a visceral mass, and a mantle
+
+   Phylum Annelida: Annelids are segmented worms
+
+
+
+PROTOSTOMIA: ECDYSOZOA
+
+   Phylum Nematoda: Roundworms are nonsegmented pseudocoelomates covered by tough cuticles
+
+   Arthropods are segmented coelomates with exoskeletons and jointed appendages
+
+
+
+DEUTEROSTOMIA
+
+   Phylum Echinodermata: Echinoderms have a water vascular system and secondary radial anatomy
+
+   Phylum Chordata: The chordates include two invertebrate subphyla and all vertebrates
+
+More than a million extant species of animals are known, and at least as many more will probably be identified by future generations of biologists. Animals are grouped into about 35 phyla, the exact number depending on the views of different systematists. Our survey of animal diversity focuses on just 15 of these phyla.
+
+Animals inhabit nearly all environments on Earth, but most phyla consist mainly of aquatic species. The seas, where the first animals probably arose, are still home to the greatest number of animal phyla. The freshwater fauna is extensive, but not nearly as rich in diversity as the marine fauna.
+
+Terrestrial habitats pose special problems for animals, as they do for plants (see Chapter 29), and few animal phyla have made successful evolutionary treks onto land. Earthworms (phylum Annelida) and land snails (phylum Mollusca) are generally confined to moist soil and vegetation. Only the vertebrates and arthropods, including insects and spiders, are represented by a great diversity of animal species adapted to various terrestrial environments.
+
+Living as we do on land, our sense of animal diversity is biased in favor of vertebrates, the animals with backbones, which are well represented in terrestrial environments. But vertebrates make up one subphylum within phylum Chordata, less than 5%  of all animal species. If we were to sample the animals inhabiting a tidepool (as in the photograph on this page), a coral reef, or the rocks on a stream bottom, we would find ourselves in the realm of invertebrates, the animals without backbones. The diversity of invertebrates is the main subject of this chapter.
+
+Our survey of invertebrate phyla will follow the branching pattern of the phylogenetic tree inFIGURE 33.1. This tree is based mainly on molecular data, as discussed in Chapter 32 (seeFIGURE 32.8, p. 640). However, much of our discussion of the diverse phyla will center on key differences in body "plan," the grades inFIGURE 32.4on page 636.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-1. Review of animal phylogeny. This tree is a streamlined version of FIGURE 32.8 (p. 640). We'll use an even simpler miniature of the tree throughout this chapter, with individual branches sequentially highlighted to help place each clade in the overall context of animal phylogeny. Your instructor may prefer to connect his or her survey of animal phyla to FIGURE 32.4 (p. 636), which is based on evolutionary grades in the body plans of animals.
+
+
+
+
+
+PARAZOA
+
+ 
+
+ Phylum Porifera: Sponges are sessile with porous bodies and choanocytes
+
+
+
+Of all the animals we will discuss, sponges (on branch Parazoa of the phylogenetic tree) represent the lineage closest to the colonial choanoflagellates that gave rise to the animal kingdom (see FIGURE 32.4). The cell layers of sponges are loose federations of cells, which are not really tissues because the cells are relatively unspecialized.
+
+
+
+
+
+RADIATA
+
+ 
+
+ Phylum Cnidaria: Cnidarians have radial symmetry, a gastrovascular cavity, and cnidocytes
+
+
+
+ 
+
+ Phylum Ctenophora: Comb jellies possess rows of ciliary plates and adhesive colloblasts
+
+
+
+All animals except sponges belong to a clade called Eumetazoa, the animals with true tissues (see Chapter 32). Among the eumetazoans, the oldest clade is Radiata, consisting of animals with radial symmetry and diploblastic embryos (with ectoderm and endoderm, but no mesoderm). The two phyla of Radiata, Cnidaria and Ctenophora, may have had separate origins from different parazoan ancestors.
+
+
+
+
+
+PROTOSTOMIA: LOPHOTROCHOZOA
+
+ 
+
+ Phylum Platyhelminthes: Flatworms are acoelomates with gastrovascular cavities
+
+
+
+ 
+
+ Phylum Rotifera: Rotifers are pseudocoelomates with jaws, crowns of cilia, and complete digestive tracts
+
+
+
+ 
+
+ The lophophorate phyla: Bryozoans, phoronids, and brachiopods are coelomates with ciliated tentacles around their mouths
+
+
+
+ 
+
+ Phylum Nemertea: Proboscis worms are named for their prey-capturing apparatus
+
+
+
+ 
+
+ Phylum Mollusca: Mollusks have a muscular foot, a visceral mass, and a mantle
+
+
+
+ 
+
+ Phylum Annelida: Annelids are segmented worms
+
+
+
+The molecular-based phylogeny in FIGURE 33.1 includes the hypothesis that the bilateral animals make up a monophyletic group (clade Bilateria) derived from a common ancestor. And this hypothesis implies that the original bilateral animals--called urbilateria ("ur" is a prefix meaning earliest)--were relatively complex animals with true body cavities (coeloms). In this view of animal phylogeny, simpler bilaterians lacking coeloms (acoelomates) and those having pseudocoeloms (not completely lined by mesoderm) evolved secondarily from coelomates. The molecular data place the origin of bilaterians in the Precambrian period, before the Cambrian explosion. And trace fossils apparently left in Precambrian sediments by burrowing animals support the hypothesis of an early origin for the coelom, which provides a hydraulic skeleton that can function in burrowing (see Chapter 32).
+
+The data from molecular systematics reinforce the traditional division of the bilateral animals, based mainly on differences in embryonic development, into the protostomes and deuterostomes (compare FIGURES 32.4 and 32.8; also, see FIGURE 32.7). However, the molecular-based phylogeny splits the protostomes into two clades: Lophotrochozoa and Ecdysozoa (these names are derived in Chapter 32). In this section, we take a closer look at the lophotrochozoan phyla.
+
+
+
+
+
+PROTOSTOMIA: ECDYSOZOA
+
+ 
+
+ Phylum Nematoda: Roundworms are nonsegmented pseudocoelomates covered by tough cuticles
+
+
+
+ 
+
+ Arthropods are segmented coelomates with exoskeletons and jointed appendages
+
+
+
+Though the ecdysozoans are considered a clade based mainly on the data of molecular systematics, this branch of protostomes is named for a characteristic of life history: ecdysis, the shedding of an exoskeleton outgrown by the animal. Of the several ecdysozoan phyla, we will examine only the nematodes and the arthropods.
+
+
+
+
+
+DEUTEROSTOMIA
+
+ 
+
+ Phylum Echinodermata: Echinoderms have a water vascular system and secondary radial anatomy
+
+
+
+ 
+
+ Phylum Chordata: The chordates include two invertebrate subphyla and all vertebrates
+
+
+
+At first glance, sea stars and other echinoderms may seem to have little in common with the phylum Chordata, which includes the vertebrates: fishes, amphibians, reptiles, birds, and mammals. These animals, however, share features characteristic of deuterostomes: radial cleavage, development of the coelom from the archenteron, and formation of the mouth at the end of the embryo opposite the blastopore (see FIGURE 32.7). Molecular systematics has reinforced Deuterostomia as a clade of bilaterian animals.
+
+
+
+
+
+ Phylum Porifera: Sponges are sessile with porous bodies and choanocytes
+
+Sponges are sessile animals that appear so sedate to the human eye that the ancient Greeks believed them to be plants. Sponges have no nerves or muscles, but the individual cells can sense and react to changes in the environment.
+
+Sponges range in height from about 1 cm to 2 m. Of the 9,000 or so species of sponges, only about 100 live in fresh water; the rest are marine. The body of a simple sponge resembles a sac perforated with holes (Porifera means pore bearer; FIGURE 33.2). Water is drawn through the pores into a central cavity, the spongocoel, then flows out of the sponge through a larger opening called the osculum. More complex sponges have folded body walls, and many contain branched water canals and several oscula. Under certain conditions, the cells around the pores and osculum contract, closing the openings.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-2. A sponge. Sessile animals without specialized organs and tissues, sponges filter food from water pumped through their porous bodies. The diverse species of sponges vary in shape, color, and structural complexity. Some species are brightly pigmented by symbiotic algae. This is an azure vase sponge, Callyspongia plicifera.
+
+Nearly all sponges are suspension-feeders (also known as filter-feeders), which are animals that collect food particles from water passed through some type of food-trapping equipment. Sponges trap food from the water circulated through the porous body. To obtain enough food to grow by 100 g (about 3 ounces), a sponge must filter 1,000 kg (about 275 gallons) of seawater. Lining the inside of the spongocoel or internal water chambers are flagellated choanocytes, or collar cells (for the membranous collar around the base of the flagellum). The flagella generate a water current, and the collars trap food particles that the choanocytes then ingest by phagocytosis (FIGURE 33.3). The similarity between choanocytes and the cells of choanoflagellates reinforces the molecular evidence in supporting the hypothesis of an animal origin from a choanoflagellate ancestor.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-3. Anatomy of a sponge. The wall of this simple sponge has two layers of cells separated by a gelatinous matrix, the mesohyl ("middle matter"). The outer layer consists of tightly packed epidermal cells. The incurrent pores are channels through porocytes, cells shaped like elongated doughnuts that span the body wall. The spongocoel is lined mainly by choanocytes, each with a flagellum ringed by a collar of fingerlike projections coated with mucus. Beating flagella sweep large volumes of water (arrows) into the body through the incurrent pores. Food particles are trapped in mucus on the collar, phagocytosed, and digested within choanocytes and adjacent amoebocytes. Mobile amoebocytes transport nutrients to other cells of the body and also produce materials for skeletal fibers (spicules).
+
+The body of a sponge consists of two layers of cells separated by a gelatinous region called the mesohyl. Wandering through the mesohyl are cells called amoebocytes, named for their use of pseudopodia. Amoebocytes have many functions. They take up food from the water and from choanocytes, digest it, and carry nutrients to other cells. Amoebocytes also form tough skeletal fibers within the mesohyl. In some groups of sponges, these fibers are sharp spicules made from calcium carbonate or silica; other sponges produce more flexible fibers composed of a collagen protein called spongin. We use these pliant, honeycombed skeletons as bath sponges.
+
+Most sponges are hermaphrodites (from the Greek Hermes, the god, and Aphrodite, the goddess), meaning that each individual functions as both male and female in sexual reproduction by producing sperm and eggs. Gametes arise from choanocytes or amoebocytes. Eggs reside in the mesohyl, but sperm cells are carried out of the sponge by the water current. Cross-fertilization results from some of the sperm being drawn into neighboring individuals. Fertilization occurs in the mesohyl, where the zygotes develop into flagellated, swimming larvae that disperse from the parent. Upon settling on a suitable substratum, a larva develops into the sessile adult.
+
+Sponges are capable of extensive regeneration, the replacement of lost parts. They use regeneration not only for repair but also to reproduce asexually from fragments broken off a parent sponge.
+
+
+
+
+
+ Phylum Cnidaria: Cnidarians have radial symmetry, a gastrovascular cavity, and cnidocytes
+
+Lacking mesoderm, the cnidarians (hydras, jellies, sea anemones, and coral animals) have a relatively simple body construction. Nonetheless, they are a diverse group with over 10,000 living species, most of which are marine.
+
+The basic body plan of a cnidarian is a sac with a central digestive compartment, the gastrovascular cavity. A single opening to this cavity functions as both mouth and anus. This basic body plan has two variations: the sessile polyp and the floating medusa (FIGURE 33.4). Polyps are cylindrical forms that adhere to the substratum by the aboral end of the body and extend their tentacles, waiting for prey. Examples of the polyp form are hydras and sea anemones. A medusa is a flattened, mouthdown version of the polyp. It moves freely in the water by a combination of passive drifting and contractions of its bell-shaped body. The animals we generally call jellies are medusas. The tentacles of a jelly dangle from the oral surface, which points downward. Some cnidarians exist only as polyps, others only as medusas, and still others pass sequentially through both a medusa stage and a polyp stage in their life cycle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-4. Polyp and medusa forms of cnidarians. The body wall of (a) a polyp or (b) a medusa has two layers of cells, an outer layer of epidermis (from ectoderm) specialized for protection and an inner layer of gastrodermis (from endoderm) for digestion. Digestion begins in the gastrovascular cavity and is completed within the gastrodermal cells in food vacuoles. Flagella on the gastrodermal cells keep the contents of the gastrovascular cavity agitated and help distribute nutrients. Sandwiched between the epidermis and gastrodermis is a gelatinous layer of mesoglea. In many medusas, the mesoglea is thick and jellylike--thus the name jellies.
+
+Cnidarians are carnivores that use tentacles arranged in a ring around the mouth to capture prey and push the food into the gastrovascular cavity, where digestion begins. The undigested remains are egested through the mouth/anus. The tentacles are armed with batteries of cnidocytes, unique cells that function in defense and the capture of prey (FIGURE 33.5). Cnidocytes contain cnidae, capsule-like organelles capable of everting, giving phylum Cnidaria its name (from the Greek cnide, nettle). Cnidae called nematocysts are stinging capsules.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-5. A cnidocyte of a hydra. This type of cnidocyte contains a stinging capsule, the nematocyst, which itself contains an inverted thread. When a "trigger" is stimulated by touch or by certain chemicals, the thread shoots out from the nematocyst, puncturing and injecting poison into prey. Other kinds of cnidocytes have longer threads that stick to prey or entangle small animals that bump into the tentacles.
+
+Muscles and nerves occur in their simplest forms in cnidarians. Cells of the epidermis (outer layer) and gastrodermis (inner layer) have bundles of microfilaments arranged into contractile fibers (see Chapter 7). True muscle tissue develops from mesoderm and does not appear in diploblastic animals. The gastrovascular cavity acts as a hydrostatic skeleton against which the contractile cells can work. When the animal closes its mouth, the volume of the cavity is fixed, and contraction of selected cells causes the animal to change shape. Movements are coordinated by a nerve net. Cnidarians have no brain, and the noncentralized nerve net is associated with simple sensory receptors that are distributed radially around the body. Thus, the animal can detect and respond to stimuli equally from all directions.
+
+The phylum Cnidaria is divided into three major classes: Hydrozoa, Scyphozoa, and Anthozoa (TABLE 33.1; FIGURE 33.6, p. 650).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-6. Representatives of the cnidarian classes. (a) Polyps of a colonial species belonging to class Hydrozoa. (b) Jellies of class Scyphozoa. The medusa is the conspicuous stage of the scyphozoan life cycle. Many species of jellies, including this one, glow in the dark (bioluminescence). The largest scyphozoan species have tentacles over 100 m long dangling from umbrellas up to 2 m in diameter. (c) Sea anemones and other members of class Anthozoa exist only as polyps. (d) A colony of coral polyps (class Anthozoa). Many coral animals harbor symbiotic algae that contribute to the food supply of the polyps. Coral reefs, which provide habitats for an enormous variety of invertebrates and fishes, are restricted to warm, shallow seas. This is a star coral.
+
+Table 33-1. Classes of Phylum Cnidaria
+
+Class and ExamplesMain CharacteristicsHydrozoa (Portuguese man-of-war, hydras, Obelia, some corals) (see FIGURES 33.6a and 33.7)Most marine, a few freshwater; both polyp and medusa stages in; most species; polyp stage often colonialScyphozoa (jellies, sea wasp, sea nettle) (see FIGURE 33.6b)All marine; polyp stage reduced; free-swimming; medusas up to 2 m in diameterAnthozoa (sea anemones, most corals, sea fans) (see FIGURE 33.6c and d)All marine; medusa stage completely absent; sessile, many colonialClass Hydrozoa
+
+Most hydrozoans alternate polyp and medusa forms, as in the life cycle of Obelia (FIGURE 33.7). The polyp stage, a colony of interconnected polyps in the case of Obelia, is more conspicuous than the medusas. Hydras, among the few cnidarians found in fresh water, are unusual members of class Hydrozoa in that they exist only in the polyp form. When environmental conditions are favorable, a hydra reproduces asexually by budding, the formation of outgrowths that pinch off from the parent to live independently (see FIGURE 13.1). When environmental conditions deteriorate, hydras reproduce sexually, forming resistant zygotes that remain dormant until conditions improve.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-7. The life cycle of the hydrozoan Obelia. The polyp stage is asexual, the medusa stage is sexual, and these two stages alternate, one producing the other. But do not confuse this with the alternation of generations that occurs in the plant kingdom. Both polyp and medusa are diploid organisms. (Typical of animals, only the gametes of Obelia are haploid.) By contrast, one plant generation is haploid, and the other is diploid.
+
+Class Scyphozoa
+
+The medusa generally prevails in the life cycle of class Scyphozoa. The medusas of most species live among the plankton as jellies. Most coastal scyphozoans go through a small polyp stage during their life cycle, but jellies that live in the open ocean generally lack the sessile polyp.
+
+Class Anthozoa
+
+Sea anemones and corals belong to class Anthozoa ("flower animals"). They occur only as polyps. Coral animals live as solitary or colonial forms and secrete hard external skeletons of calcium carbonate. Each polyp generation builds on the skeletal remains of earlier generations to construct "rocks" with shapes characteristic of the species. It is these skeletons that we call coral.
+
+In tropical seas, coral reefs provide habitat for a great diversity of invertebrates and fishes. Coral reefs in many parts of the world are currently being damaged by environmental changes--global warming is one suspect. We'll examine this problem in Chapter 54.
+
+
+
+
+
+ Phylum Ctenophora: Comb jellies possess rows of ciliary plates and adhesive colloblasts
+
+Comb jellies, or ctenophores, superficially resemble cnidarian medusas. However, the relationship between ctenophores and cnidarians is uncertain. There are only about 100 species of comb jellies, all of which are marine. Ctenophores range in diameter from about 1 to 10 cm. Most are spherical or ovoid, but there are elongate and ribbonlike forms up to 1 m long. Ctenophora means "comb-bearer," and these animals are named for their eight rows of comblike plates composed of fused cilia. They are the largest animals to use cilia for locomotion. An aboral sensory organ functions in orientation, and nerves running from the sensory organ to the combs of cilia coordinate movement. Most comb jellies have a pair of long, retractable tentacles (FIGURE 33.8). The tentacles bear adhesive structures called colloblasts (also called lasso cells). When prey (mostly small plankton) contact a tentacle, colloblasts burst open. A sticky thread released by each colloblast captures the food, which is then wiped off the tentacle into the mouth.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-8. A ctenophore, or comb jelly. This planktonic marine animal is named for its eight combs of cilia, used for locomotion. The retractable tentacles capture food. Ctenophores and cnidarians are radiate, diploblastic animals, but these two phyla may have originated independently from different parazoan ancestors.
+
+
+
+
+
+ Phylum Platyhelminthes: Flatworms are acoelomates with gastrovascular cavities
+
+There are about 20,000 species of flatworms living in marine, freshwater, and damp terrestrial habitats. In addition to many free-living forms, flatworms include many parasitic species, such as the flukes and the tapeworms. Flatworms are so named because their bodies are thin between the dorsal and ventral surfaces (flattened dorsoventrally; platyhelminth means "flat worm"). They range in size from nearly microscopic free-living species to certain tapeworms over 20 m long. (Note that "worm" is not a formal taxonomic name, but a general term for animals with long, thin bodies.)
+
+In contrast to the radiate animals (cnidarians and ctenophores), flatworms and all other bilateratians are triploblastic. The middle embryonic tissue layer, mesoderm, contributes to the development of more complex organs and organ systems and to true muscle tissue. Thus the flatworms are structurally more complex than cnidarians or ctenophores. However, in common with the radiate animals, flatworms have a gastrovascular cavity with only one opening. (Tapeworms lack a digestive tract altogether and absorb nutrients across their body surface.) Flatworms are also simpler than other bilateratians in lacking a body cavity; flatworms are acoelomates.
+
+Flatworms are divided into four classes: Turbellaria (mostly free-living flatworms), Monogenea (monogeneans), Trematoda (trematodes, or flukes), and Cestoidea (tapeworms) (TABLE 33.2).
+
+Table 33-2. Classes of Phylum Platyhelminthes
+
+Class and ExamplesMain CharacteristicsTurbellaria (mostly free-living flatworms; e.g., Dugesia) (see FIGURE 33.9 and 33.10)Most marine, some freshwater, a few terrestrial, predators and scavengers; body surface ciliatedMonogenea (monogeneans)Marine and freshwater parasites; most infect external surfaces of fishes; life history simple; a ciliated larva starts an infection on a hostTrematoda (trematodes, also called flukes) (see FIGURE 33.11)Parasites, almost always of vertebrates; two suckers attach to host; most life histories include intermediate hostsCestoidea (tapeworms) (see FIGURE 33.12)Parasites of vertebrates; scolex attaches to host; proglottids produce eggs and break off after fertilization; no head or digestive system; life history with one or more intermediate hostsClass Turbellaria
+
+Turbellarians are nearly all free-living (nonparasitic) and mostly marine (FIGURE 33.9). Members of the genus Dugesia, commonly known as planarians, abound in unpolluted ponds and streams. Planarians are carnivores that prey on smaller animals or feed on dead animals (FIGURE 33.10).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-9. A flatworm. Class Turbellaria consists mainly of free-living marine flatworms, such as this colorful species.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-10. Anatomy of a planarian.
+
+Planarians and other flatworms lack organs specialized for gas exchange and circulation. The flat shape of the body places all cells close to the surrounding water, and fine branching of the gastrovascular cavity distributes food throughout the animal. Nitrogenous waste in the form of ammonia diffuses directly from the cells into the surrounding water. Flatworms also have a relatively simple excretory apparatus that functions mainly to maintain osmotic balance between the animal and its surroundings. This system consists of ciliated cells called flame cells that waft fluid through branched ducts opening to the outside (see FIGURE 44.18). The evolution of osmoregulatory structures was a major factor in allowing some turbellarians to invade freshwater and even moist terrestrial environments.
+
+Planarians move by using cilia on the ventral epidermis, gliding along a film of mucus they secrete. Some turbellarians also use their muscles to swim through water with an undulating motion.
+
+A planarian has a head (cephalized) with a pair of eyespots that detect light and lateral flaps that function mainly for smell. The planarian nervous system is more complex and centralized than the nerve nets of cnidarians. Planarians can learn to modify their responses to stimuli.
+
+Planarians can reproduce asexually through regeneration. The parent constricts in the middle, and each half regenerates the missing end. Sexual reproduction also occurs. Although planarians are hermaphrodites, copulating mates cross-fertilize.
+
+Classes Monogenea and Trematoda
+
+The monogeneans and the trematodes (sometimes called flukes) live as parasites in or on other animals. Many have suckers for attaching to internal organs or to the outer surfaces of the host. A tough covering helps protect the parasites. Reproductive organs nearly fill the interior of these worms.
+
+As a group, trematodes parasitize a wide range of hosts, and most species have complex life cycles with an alternation of sexual and asexual stages. Many trematodes require an intermediate host in which larvae develop before infecting the final host (usually a vertebrate), where the adult worm lives. For example, trematodes that parasitize humans spend parts of their life histories in snails (FIGURE 33.11). The 200 million people around the world who are infected with blood flukes (Schistosoma) suffer body pains, anemia, and dysentery.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-11. The life history of a blood fluke (Schistosoma mansoni).
+
+Most monogeneans are external parasites of fishes. Their life cycle is relatively simple, with a ciliated, free-swimming larva starting an infection on a host. Although monogeneans have been traditionally aligned with the trematodes, some structural and chemical evidence suggests they are more closely related to tapeworms.
+
+Class Cestoidea
+
+Tapeworms (class Cestoidea) are also parasitic. The adults live mostly in vertebrates, including humans. The tapeworm head, or scolex, is armed with suckers and often menacing hooks that lock the worm to the intestinal lining of the host (FIGURE 33.12). Posterior to the scolex is a long ribbon of units called proglottids, which are little more than sacs of sex organs. Lacking a digestive tract, the tapeworm absorbs food predigested by the host.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-12. Anatomy of a tapeworm.
+
+Mature proglottids, loaded with thousands of eggs, are released from the posterior end of a mature tapeworm and leave the host's body with feces. In one type of life cycle, human feces contaminate the food or water of intermediate hosts, such as pigs or cattle, and the tapeworm eggs develop into larvae that encyst in muscles of these animals. Humans acquire the larvae by eating undercooked meat contaminated with cysts, and the worms develop into mature adults within the human. Large tapeworms, which may be 20 m or more in length, can cause intestinal blockage and can rob enough nutrients from the human host to cause nutritional deficiencies. An orally administered drug named niclosamide kills the adult worms.
+
+
+
+
+
+ Phylum Rotifera: Rotifers are pseudocoelomates with jaws, crowns of cilia, and complete digestive tracts
+
+Rotifers (about 1,800 species) are tiny animals that mainly inhabit fresh water, although some live in the sea or in damp soil. Ranging in size from only about 0.05 to 2.0 mm, smaller than many protists, rotifers are nevertheless truly multicellular and have specialized organ systems (FIGURE 33.13). In contrast to cnidarians and flatworms, which have gastrovascular cavities, rotifers have a complete digestive tract, which is a digestive tube with a separate mouth and anus. Internal organs lie within the pseudocoelom, a body cavity that is not completely lined by mesoderm (see FIGURE 32.6b). Fluid in the pseudocoelom serves as a hydrostatic skeleton and as a medium for the internal transport of nutrients and wastes in these tiny animals. Movement of a rotifer's body distributes the fluid within the pseudocoelom, and thus this body cavity and its fluid function as a circulatory system.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-13. A rotifer. These pseudocoelomates, smaller than many protists, are much more anatomically complex than flatworms (LM).
+
+The word rotifer, derived from Latin, means "wheel-bearer," a reference to the crown of cilia that draws a vortex of water into the mouth. Posterior to the mouth, a region of the digestive tract called the pharynx bears jaws (trophi) that grind food, mostly microorganisms suspended in the water.
+
+Rotifer reproduction is unusual. Some species consist only of females that produce more females from unfertilized eggs, a type of reproduction called parthenogenesis. Other species produce two types of eggs that develop by parthenogenesis, one type forming females and the other type developing into degenerate males that cannot even feed themselves. The males survive long enough to produce sperm that fertilize eggs, forming resistant zygotes that can survive when a pond dries up. When conditions are favorable again, the zygotes break dormancy and develop into a new female generation that then reproduces by parthenogenesis until conditions become unfavorable again.
+
+
+
+
+
+ The lophophorate phyla: Bryozoans, phoronids, and brachiopods are coelomates with ciliated tentacles around their mouths
+
+In subdividing bilaterians into protostomes and deuterostomes based on embryological criteria, the lophophorate phyla, including Bryozoa, Phoronida, and Brachiopoda, were never a good fit in either coelomate branch. However, molecular data place the lophophorates squarely in the protostome branch. These phyla are collectively called the lophophorate animals after the most distinctive structure they share, the lophophore (FIGURE 33.14). The lophophore is a horseshoe-shaped or circular fold of the body wall bearing ciliated tentacles that surround the mouth (see FIGURE 32.11). The anus lies outside the whorl of tentacles. The cilia draw water toward the mouth between the tentacles, which help trap food particles for these suspension-feeders. The common occurrence of this complex apparatus in the lophophorate animals suggests that the three phyla are related. Other similarities, such as a U-shaped digestive tract and the absence of a distinct head, are adaptations to a sessile existence. In contrast to flatworms, which lack body cavities, and rotifers, which have pseudocoeloms, lophophorates have true coeloms completely lined by mesoderm (see FIGURE 32.6c).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-14. The lophophorate animals. The most distinctive characteristic of these phyla is the lophophore, an organ that functions in suspension-feeding. (a) Bryozoans, such as this common sea mat (Membranipora membranacea), are colonial lophophorates, many with hard exoskeletons. (b) Brachiopods are lophophorates with a hinged shell. The two parts of the shell are dorsal and ventral, in contrast to the lateral shells of bivalve mollusks (such as clams).
+
+Bryozoans are colonial animals that superficially resemble mosses. (Bryozoa means "moss animals.") In most species, the colony is encased in a hard exoskeleton with pores through which the lophophores of the animals extend (FIGURE 33.14a). Of the 5,000 species of bryozoans, most live in the sea, where they are among the most widespread and numerous sessile animals. Several species are important reef builders.
+
+Phoronids are tube-dwelling marine worms ranging from 1 mm to 50 cm in length. Some live buried in the sand within tubes made of chitin, extending their lophophore from the opening of the tube and withdrawing it into the tube when threatened. There are only about 15 species of phoronid worms in two genera.
+
+Brachiopods, or lamp shells, superficially resemble clams and other bivalve mollusks, but the two halves of the brachiopod shell are dorsal and ventral to the animal rather than lateral, as in clams (FIGURE 33.14b). A brachiopod lives attached to its substratum by a stalk, opening its shell slightly to allow water to flow between the shells and the lophophore. All brachiopods are marine. The living brachiopods are remnants of a much richer past; only about 330 extant species are known, but there are 30,000 species of Paleozoic and Mesozoic fossils. A tie to the past is Lingula, a living brachiopod genus that has changed little in 400 million years.
+
+
+
+
+
+ Phylum Nemertea: Proboscis worms are named for their prey-capturing apparatus
+
+Members of the phylum Nemertea are called proboscis worms or ribbon worms (FIGURE 33.15). A proboscis worm's body is structurally acoelomate, like that of a flatworm, but it contains a small fluid-filled sac that may be a reduced version of a true coelom. The sac and fluid hydraulically operate an extensible proboscis by which the worm captures prey.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-15. A proboscis worm, phylum Nemertea.
+
+Proboscis worms range in length from less than 1 mm to more than 30 m. Nearly all of the 900 or so members of this phylum are marine, but a few species inhabit fresh water or damp soil. Some are active swimmers, and others burrow in the sand.
+
+Proboscis worms and flatworms have similar excretory, sensory, and nervous systems. But, in addition to the unique proboscis apparatus, two anatomical features not found in flatworms have evolved in the phylum Nemertea: a complete digestive tract (with mouth and anus) and a closed circulatory system--the blood is contained in vessels and is therefore distinct from fluid in the body cavity. Proboscis worms have no heart, but the blood is propelled by muscles squeezing the vessels.
+
+
+
+
+
+ Phylum Mollusca: Mollusks have a muscular foot, a visceral mass, and a mantle
+
+Snails and slugs, oysters and clams, and octopuses and squids are all mollusks. In all, the phylum Mollusca has more than 150,000 known species. Most mollusks are marine, though some inhabit fresh water, and there are snails and slugs that live on land. Mollusks are soft-bodied animals (from the Latin molluscus, soft), but most are protected by a hard shell made of calcium carbonate. Slugs, squids, and octopuses have reduced shells, most of which are internal, or they have lost their shells completely during their evolution.
+
+Despite their apparent differences, all mollusks have a similar body plan (FIGURE 33.16). The body has three main parts: a muscular foot, usually used for movement; a visceral mass containing most of the internal organs; and a mantle, a fold of tissue that drapes over the visceral mass and secretes a shell (if one is present). In many mollusks, the mantle extends beyond the visceral mass, producing a water-filled chamber, the mantle cavity, which houses the gills, anus, and excretory pores. Many mollusks feed by using a straplike rasping organ called a radula to scrape up food.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-16. The basic body plan of mollusks. Three hallmarks of the phylum are the mantle, visceral mass, and foot. A mantle cavity houses gills in many species. The long digestive tract is coiled in the visceral mass. Most mollusks have an open circulatory system with a dorsal heart that pumps circulatory fluid (hemolymph) through arteries into sinuses (body spaces) bathing the organs. Excretory organs called nephridia remove metabolic wastes from the hemolymph. The nervous system consists of a nerve ring around the esophagus, from which nerve cords extend. The enlargement shows the mouth region with the radula, a rasplike feeding organ present in many mollusks. The radula is a belt of backward-curved teeth that extends from the mouth and slides back and forth, scraping and scooping like a backhoe.
+
+Most mollusks have separate sexes, with gonads (ovaries or testes) located in the visceral mass. Many snails, however, are hermaphrodites. The life cycle of many marine mollusks includes a ciliated larva called the trochophore, also characteristic of marine annelids (segmented worms) and some other lophotrochozoans (see FIGURE 32.9).
+
+The basic body plan of mollusks has evolved in various ways in the different classes of the phylum. Of the eight classes, we examine four here: Polyplacophora (chitons), Gastropoda (snails and slugs), Bivalvia (clams, oysters, and other bivalves), and Cephalopoda (squids, octopuses, and nautiluses) (TABLE 33.3).
+
+Table 33-3. Major Classes of Phylum Mollusca
+
+Class and ExamplesMain CharacteristicsPolyplacophora (chitons)(see FIGURE 33.17)Marine; shell with eight plates; foot used for locomotion; head reducedGastropoda (snails, slugs) (see FIGURES 33.18 and 33.19)Marine, freshwater, or terrestrial; asymmetric body, usually with a coiled shell; shell reduced or absent in some; foot for locomotion; radula presentBivalvia (clams, mussels, scallops, oysters) (see FIGURES 33.20 and 33.21)Marine and freshwater, flattened shell with two valves; head reduced; paired gills; most are filter-feeders; mantle forms siphonsCephalopoda (squids, octopuses, chambered nautiluses) (see FIGURE 33.22)Marine; head surrounded by grasping tentacles, usually with suckers; shell external, internal, or absent; mouth with or without radula; locomotion by jet propulsion using siphon made from mantleClass Polyplacophora
+
+Chitons are marine animals with oval shapes and shells divided into eight dorsal plates (the body itself, however, is unsegmented). You can find chitons clinging to rocks along the shore during low tide (FIGURE 33.17). Try to dislodge a chiton by hand, and you will be surprised at how well its foot, acting as a suction cup, grips the rock. Using this muscular foot, a chiton can creep slowly over the rock surface. Chitons are grazers that use their radulas to cut and ingest algae.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-17. A chiton. Clinging tenaciously to rocks in the intertidal zone, this chiton (class Polyplacophora) displays the eight-plate shell characteristic of this class of mollusks.
+
+Class Gastropoda
+
+The largest of the molluscan classes, Gastropoda has more than 40,000 living species. Most gastropods are marine, but there are also many freshwater species. Garden snails and slugs have adapted to land.
+
+The most distinctive characteristic of the class Gastropoda is a process known as torsion. During embryonic development, an asymmetrical muscle forms, and contraction of the muscle and uneven growth causes the visceral mass to rotate up to 180 degrees, so that the anus and mantle cavity are placed above the head in the adult (FIGURE 33.18). Some zoologists speculate that the advantage of torsion is to place the visceral mass and heavy shell more centrally over the snail's body.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-18. The results of torsion in a gastropod. Because of torsion (twisting of the visceral mass) during embryonic development, the digestive tract is coiled and the anus is near the mouth at the head end of the animal. After torsion, some of the organs that were bilateral are reduced in size or are lost on one side of the body. Torsion should not be confused with the formation of a coiled shell, which is an independent developmental process.
+
+Most gastropods are protected by single, spiraled shells into which the animals can retreat when threatened (FIGURE 33.19). The shell is often conical, but abalones and limpets have somewhat flattened shells. Many gastropods have distinct heads with eyes at the tips of tentacles. Gastropods inch along literally at a snail's pace by a rippling motion of the elongated foot. Most gastropods use their radula to graze on algae or plant material. Several groups, however, are predators, and the radula is modified for boring holes in the shells of other mollusks or for tearing apart tough animal tissue. In one group, the cone snails, the teeth of the radula form separate poison darts, which penetrate prey, including fishes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-19. Gastropods. (a) Gastropod shells. Shell collectors find delight in the variety of Gastropoda, one of the most diverse animal classes. (b) Sea slug. Nudibranchs, or sea slugs, have lost the shell during their evolution.
+
+Gastropods are among the few invertebrate groups to have successfully populated the land. Terrestrial snails lack the gills typical of most aquatic gastropods, and instead the lining of the mantle cavity functions as a lung, exchanging respiratory gases with the air.
+
+Class Bivalvia
+
+The mollusks of class Bivalvia include many species of clams, oysters, mussels, and scallops. Bivalves have shells divided into two halves (FIGURE 33.20). The two parts of the shell are hinged at the mid-dorsal line, and powerful adductor muscles draw the two halves tightly together to protect the soft-bodied animal. When the shell is open, the bivalve may extend its hatchet-shaped foot for digging or anchoring.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-20. A bivalve. This scallop has many eyes peering out between the two halves of the hinged shell.
+
+The mantle cavity of a bivalve contains gills that are used for feeding as well as gas exchange (FIGURE 33.21). Most bivalves are suspension-feeders. They trap fine food particles in mucus that coats the gills, and cilia then convey the particles to the mouth. Water flows into the mantle cavity through an incurrent siphon, passes over the gills, and then exits the mantle cavity through an excurrent siphon. Bivalves have no distinct head, and the radula has been lost.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-21. Anatomy of a clam. The left half of the bivalve shell has been removed. Food particles suspended in water that enters through the incurrent siphon are collected by the gills and passed via cilia and elongated flaps called palps to the mouth.
+
+Being suspension-feeders, most bivalves lead rather sedentary lives. Sessile mussels secrete strong threads that tether them to rocks, docks, boats, and the shells of other animals. Clams can pull themselves into the sand or mud, using the muscular foot for an anchor. In addition to digging, scallops can also skitter along the seafloor by flapping their shells, rather like the mechanical false teeth sold in novelty shops.
+
+Class Cephalopoda
+
+Cephalopods are built for speed, an adaptation that fits their carnivorous diet. Squids and octopuses use beaklike jaws to bite their prey; they then inject poison to immobilize the victim. The mouth is at the center of several long tentacles. A mantle covers the visceral mass, but the shell is reduced and internal (squids) or missing altogether (many octopuses) (FIGURES 33.22a and b). One small group of shelled cephalopods, the chambered nautiluses, survives today (FIGURE 33.22c).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-22. Cephalopods. (a) Squids, such as this California market squid (Loligo opalescens), are speedy carnivores with beaklike jaws and well-developed eyes. (b) Octopuses are believed to be among the most intelligent invertebrates. (c) Chambered nautiluses are the only extant cephalopods with external shells.
+
+A squid darts about, usually backward, by drawing water into its mantle cavity and then firing a jet stream of water through the excurrent siphon that points anteriorly. The animal steers by pointing the siphon in different directions. The foot of a cephalopod has become modified into this muscular siphon and parts of the tentacles and head. (Cephalopod means "head foot.") Most species of squid are less than 75 cm long, but there are also giant squids, the largest of all invertebrates. The biggest specimen on record was 17 m long (including the tentacles) and weighed about 2 tons.
+
+Rather than swimming as squids do in the open seas, most octopuses live on the seafloor, where they creep and scurry about in search of crabs and other food.
+
+Cephalopods are the only mollusks with a closed circulatory system. They also have a well-developed nervous system with a complex brain. The ability to learn and behave in a complex manner is probably more critical to fast-moving predators than to sedentary animals such as clams. Squids and octopuses also have well-developed sense organs.
+
+The ancestors of octopuses and squids were probably shelled mollusks that took up a predaceous lifestyle, the loss of the shell occurring in later evolution. Shelled cephalopods called ammonites, some of them as large as truck tires, were the dominant invertebrate predators of the seas for hundreds of millions of years until their disappearance during the mass extinctions at the end of the Cretaceous period (see Chapter 25).
+
+
+
+
+
+ Phylum Annelida: Annelids are segmented worms
+
+ANNELIDA means "little rings," and a segmented body resembling a series of fused rings is a hallmark of the annelid worms. There are about 15,000 annelid species, ranging in length from less than 1 mm to the 3-m length of a giant Australian earthworm. Annelids live in the sea, most freshwater habitats, and damp soil. We can describe the anatomy of annelids in terms of a well-known member of the phylum, the earthworm (FIGURE 33.23).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-23. Anatomy of an earthworm. Annelids are segmented both externally and internally. Many of the internal structures are repeated, segment by segment. Externally, each segment has four pairs of setae, bristles that provide traction for burrowing. Earthworms and many other annelids creep along or burrow by coordinating two sets of muscles, one longitudinal and the other circular (see FIGURE 49.27). These muscles work against the noncompressible coelomic fluid, a hydrostatic skeleton.
+
+The coelom of the earthworm is partitioned by septa, but the digestive tract, longi tudinal blood vessels, and nerve cords penetrate the septa and run the length of the animal (the major vessels have segmental branches). The digestive system has several specialized regions: the pharynx, the esophagus, the crop, the gizzard, and the intestine. The closed circulatory system consists of a network of vessels containing blood with oxygen-carrying hemoglobin. Dorsal and ventral vessels are connected by segmental pairs of vessels. The dorsal vessel and five pairs of vessels that circle the esophagus of an earthworm are muscular and pump blood through the circulatory system. Tiny blood vessels are abundant in the earthworm's skin, which functions as its respiratory organ.
+
+In each segment of the worm is a pair of excretory tubes called metanephridia with ciliated funnels, called nephrostomes, that remove wastes from the blood and coelomic fluid. The metanephridia lead to exterior pores, through which the metabolic wastes are discharged.
+
+A brainlike pair of cerebral ganglia lies above and in front of the pharynx. A ring of nerves around the pharynx connects to a subpharyngeal ganglion, from which a fused pair of nerve cords runs posteriorly. All along these ventral nerve cords are segmental ganglia, also fused.
+
+Earthworms are hermaphrodites, but they cross-fertilize. Two earthworms mate by aligning themselves in such a way that they exchange sperm, and then they separate. The received sperm cells are stored temporarily while a special organ, the clitellum, secretes a mucous cocoon. The cocoon slides along the worm, picking up the eggs and then the stored sperm. The cocoon then slips off the worm's head and resides in the soil while the embryos develop. Some earthworms can also reproduce asexually by fragmentation followed by regeneration.
+
+Some aquatic annelids swim in pursuit of food, but most are bottom-dwellers that burrow in the sand and silt; earthworms, of course, are burrowers.
+
+The phylum Annelida is divided into three classes: Oligochaeta (earthworms and their relatives), Polychaeta (polychaetes), and Hirudinea (leeches) (TABLE 33.4).
+
+Table 33-4. Classes of Phylum Annelida
+
+Class and ExamplesMain CharacteristicsOligochaeta (terrestrial and freshwater segmented worms; e.g., earthworms) (see FIGURES 33.23 and 33.24a)Reduced head; no parapodia, but setae presentPolychaeta (mostly marine segmented worms) (see FIGURE 33.24b and c)Well-developed head; each segment usually has parapodia with setae; tube-dwelling and free-livingHirudinea (leeches) (see FIGURE 33.24d)Body usually flattened, with reduced coelom and segmentation; setae absent; suckers at anterior and posterior ends; parasites, predators, and scavengersClass Oligochaeta
+
+This class of segmented worms includes the earthworms and a variety of aquatic species (FIGURE 33.24a). An earthworm eats its way through the soil, extracting nutrients as the soil passes through the digestive tube. Undigested material, mixed with mucus secreted into the digestive tract, is egested as castings through the anus. Farmers value earthworms because the animals till the earth, and the castings improve the texture of the soil. Darwin estimated that 1 acre of British farmland had about 50,000 earthworms that produced 18 tons of castings per year.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-24. Annelids, the segmented worms. (a) Class Oligochaeta: Some giant Australian earthworms are bigger than snakes. (b) Class Polychaeta: Most polychaetes are marine worms. Each segment has a pair of lateral flaps that function in movement and as gills for the exchange of respiratory gases with the surrounding water. (c) Fanworms are tube-dwellers that use their feathery headdresses for gas exchange and to extract suspended food particles from the seawater. This species is known as a Christmas-tree worm. (d) Class Hirudinea: A nurse applied this medicinal leech (Hirudo medicinalis) to a patient's sore thumb to drain blood from a hematoma (abnormal accumulation of blood around an internal injury).
+
+Class Polychaeta
+
+Each segment of a polychaete (meaning "many setae," for the bristles on each segment) has a pair of paddlelike or ridgelike structures called parapodia ("almost feet") that function in locomotion. Each parapodium has several setae made of the polysaccharide chitin. In many polychaetes the parapodia are richly supplied with blood vessels and function as gills (FIGURE 33.24b).
+
+Most polychaetes are marine. A few drift and swim among the plankton, many crawl on or burrow in the seafloor, and many others live in tubes, which the worms make by mixing mucus with bits of sand and broken shells. The tube-dwellers include the brightly colored fanworms, which trap microscopic food particles in feathery tentacles that extend from the opening of the tube (FIGURE 33.24c).
+
+Class Hirudinea
+
+The majority of leeches inhabit fresh water, but there are also land leeches that move through moist vegetation. Many leeches feed on other invertebrates, but some are blood-sucking parasites that feed by attaching temporarily to other animals, including humans. Leeches range in length from about 1 to 30 cm. Some parasitic species use bladelike jaws to slit the skin of the host, whereas others secrete enzymes that digest a hole through the skin. The host is usually oblivious to this attack because the leech secretes an anesthetic. After making the incision, the leech secretes another chemical, hirudin, which keeps the blood of the host from coagulating. The parasite then sucks as much blood as it can hold, often more than ten times its own weight. After this gorging, a leech can last for months without another meal.
+
+Until this century, leeches were frequently used by physicians for bloodletting. Leeches are still used for treating bruised tissues and for stimulating the circulation of blood to fingers or toes that have been sewn back to hands or feet after accidents (FIGURE 33.24d).
+
+Before leaving annelids, let's highlight two evolutionary adaptations that are well developed in this phylum: the coelom and segmentation. The evolutionary significance of the coelom cannot be overemphasized. In addition to providing a hydrostatic skeleton and allowing new and diverse methods of locomotion, it also provides body space for storage and for complex organ development. The coelom also serves as a cushion that protects internal structures, and it allows a functional separation of the action of body wall muscles from those of internal organs, such as the muscles of the digestive tract.
+
+Segmentation allows a high degree of specialization of body regions. This regional specialization--groups of segments modified for different functions--is seen to some degree in annelids but is a true hallmark of the body plan of arthropods, as we will see in the next section.
+
+
+
+
+
+ Phylum Nematoda: Roundworms are nonsegmented pseudocoelomates covered by tough cuticles
+
+Among the most widespread of all animals, roundworms (nematodes) are found in most aquatic habitats, in wet soil, in the moist tissues of plants, and in the body fluids and tissues of animals. About 90,000 species are known, and perhaps ten times that number actually exist. In contrast to annelids, the bodies of nematodes are not segmented. The cylindrical bodies of roundworms range from less than 1 mm to more than a meter in length, tapering to a fine tip at the posterior end and to a more blunt tip at the anterior (head) end (FIGURE 33.25a, p. 662). A tough exoskeleton called a cuticle covers the body; as the worm grows, it periodically sheds its old cuticle (molting, or ecdysis) and secretes a new, larger one. Nematodes have a complete digestive tract. They lack a circulatory system, but nutrients are transported throughout the body via fluid in the pseudocoelom (a body cavity only partially lined by mesoderm--see FIGURE 32.6b). The muscles of nematodes are all longitudinal, and their contraction produces a thrashing motion.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 33-25. Nematodes. (a) Free-living nematode. This free-living nematode has the classic roundworm shape: cylindrical with tapered ends. You can see the mouth at the end that is more blunt. Not visible is the anus at the other end of a complete digestive tract. What looks like a corduroy coat is the worm's ridged cuticle (colorized SEM). (b) Parasitic nematode. These juveniles of Trichinella spiralis are encysted in human muscle tissue. This parasitic nematode causes trichinosis, characterized by severe nausea and sometimes death when large numbers of the juveniles penetrate heart muscle (LM).
+
+Nematode reproduction is usually sexual. The sexes are separate in most species, females generally being larger than males. Fertilization is internal, and a female may deposit 100,000 or more fertilized eggs per day. The zygotes of most species are resistant cells capable of surviving harsh conditions.
+
+Great numbers of nematodes live in moist soil and in decomposing organic matter on the bottoms of lakes and oceans. These extremely numerous free-living worms play an important role in decomposition and nutrient cycling, but little is known about most species. One species of soil nematode, Caenorhabitis elegans, is widely cultured and has become a model research organism in developmental biology (see Chapter 21).
+
+Phylum Nematoda also includes many important agricultural pests that attack the roots of plants. Other species of roundworms parasitize animals. Humans host at least 50 nematode species, including various pinworms and hookworms. One notorious nematode is Trichinella spiralis, the worm that causes trichinosis (FIGURE 33.25b). Humans acquire this nematode by eating undercooked infected pork or other meat with juvenile worms encysted in the muscle tissue. Within the human intestine, the juveniles develop into sexually mature adults. Females burrow into the intestinal muscles and produce more juveniles, which bore through the body or travel in lymph vessels to encyst in other organs, including skeletal muscles.
+
+
+
+
+
+ Arthropods are segmented coelomates with exoskeletons and jointed appendages
+
+Zoologists estimate that the arthropod population of the world, including crustaceans, spiders, and insects, numbers about a billion billion (1018) individuals. Nearly 1 million arthropod species have been described, mostly insects. In fact, two out of every three organisms known are arthropods, and the phylum is represented in nearly all habitats of the biosphere. On the criteria of species diversity, distribution, and sheer numbers, arthropods must be regarded as the most successful of all animal phyla.
+
+General Characteristics of Arthropods
+
+The diversity and success of arthropods are largely related to their segmentation, hard exoskeleton, and jointed appendages. (arthropod means "jointed feet.") Groups of body segments and their appendages have become specialized for a great variety of functions. This evolutionary flexibility resulted not only in great diversification but also in an efficient body plan by the division of labor among regions. For example, the appendages are variously modified for walking, feeding, sensory reception, copulation, and defense. FIGURE 33.26 illustrates the diverse appendages and other arthropod characteristics of a lobster.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-26. External anatomy of an arthropod. Many of the distinctive features of arthropods are apparent in this dorsal view of a lobster, along with some uniquely crustacean characteristics. The whole body, including appendages, is covered by an exoskeleton. Distinct regions of the body are the head and thorax (together forming the cephalothorax) and the abdomen. The body is segmented, but this characteristic is obvious only in the abdomen. All body regions bear jointed appendages (including pincers, mouthparts, walking legs, and swimming appendages). The two pairs of sensory antennae are also jointed appendages. The head bears a pair of eyes, each situated on a movable stalk.
+
+The body of an arthropod is completely covered by the cuticle, an exoskeleton (external skeleton) constructed from layers of protein and chitin. The cuticle can be a thick, hard armor over some parts of the body and paper-thin and flexible in other locations, such as the joints. The exoskeleton protects the animal and provides points of attachment for the muscles that move the appendages. The skeleton of arthropods is both strong and relatively impermeable to water. As we will see, both of these qualities were largely responsible for the move onto land by various arthropod groups. The rigid exoskeleton also posed some problems. For example, in order to grow, an arthropod must occasionally shed its old exoskeleton and secrete a larger one. This molting (ecdysis) is energetically expensive and leaves the animal temporarily vulnerable to predators and other dangers.
+
+Arthropods tune in to their environment with well-developed sensory organs, including eyes, olfactory receptors for smell, and antennae for touch and smell. Cephalization is extensive, with most sensory organs concentrated at the anterior end of the animal.
+
+Arthropods have open circulatory systems in which fluid called hemolymph is propelled by a heart through short arteries and then into spaces called sinuses surrounding the tissues and organs. (The term blood is best reserved for fluid in a closed circulatory system.) Hemolymph reenters the arthropod heart through pores that are usually equipped with valves. The body sinuses are collectively called the hemocoel, which is not part of the coelom. In most arthropods, the coelom that forms in the embryo becomes much reduced as development progresses, and the hemocoel becomes the main body cavity in adults. Although this condition resembles the open circulatory system of mollusks, the two systems probably arose independently.
+
+A variety of organs specialized for gas exchange have evolved in arthropods. These organs must allow the diffusion of respiratory gases in spite of the exoskeleton. Most aquatic species have gills with thin feathery extensions that place an extensive surface area in contact with the surrounding water. Terrestrial arthropods generally have internal surfaces specialized for gas exchange. Most insects, for instance, have tracheal systems, branched air ducts leading into the interior from pores in the cuticle.
+
+Arthropod Phylogeny and Classification
+
+Molecular systematics generally supports evidence from fossils and comparative anatomy that the arthropods diverged early in their history into four main evolutionary lineages: trilobites (all extinct); chelicerates (horseshoe crabs, scorpions, ticks, spiders, and an extinct group called the eurypterids); uniramians (centipedes, millipedes, and insects); and crustaceans (crabs, lobsters, shrimps, barnacles, and many others).
+
+Crustaceans are primarily aquatic and are believed to have evolved in the ocean. Insects, millipedes, centipedes, and most extant chelicerates diversified on land.
+
+Chelicerates (from the Greek cheilos, lips, and cheir, arm) are named for clawlike feeding appendages called chelicerae. In contrast, uniramians and crustaceans have jawlike mandibles. They are also distinguished from chelicerates in having one or two pairs of sensory antennae and usually a pair of compound eyes (multifaceted eyes with many separate focusing elements). Uniramians have one pair of antennae and uniramous (unbranched) appendages; crustaceans have two pairs of antennae and typically biramous (branched) appendages (note the branched walking legs of the lobster in FIGURE 33.26). Chelicerates lack antennae, and most have simple eyes (eyes with a single lens).
+
+The move onto land by arthropods was made possible in part by the exoskeleton. When the exoskeleton first evolved in the seas, its main functions were probably protection and anchorage for muscles, but it eventually helped certain arthropods live on land by solving the problems of water loss and structural support. The arthropod cuticle is relatively impermeable to water, helping prevent desiccation. The firm exoskeleton also solved the problem of support when arthropods left the buoyancy of water. Chelicerates, insects, millipedes, and centipedes diversified on land during the late Silurian and early Devonian periods, following the colonization by plants. The oldest fossil signs of terrestrial animals are tracks of extinct chelicerates (apparently eurypterids that spent at least some of their time on land) about 450 million years old. Fossilized arachnids almost as old have also been found.
+
+Taxonomists traditionally grouped all the arthropods in one phylum, the phylum Arthropoda. TABLE 33.5, page 664, lists a few of the major arthropod classes in the context of this one-phylum tradition. However, many zoologists now prefer to split the arthropods into multiple phyla corresponding to the four great lineages: phylum Trilobita, phylum Chelicerata, phylum Uniramia, and phylum Crustacea. This trend toward splitting former taxa into a larger number of new ones, based mainly on cladistic analysis, extends to lower taxa. For example, many systematists now split what was the uniramian class Insecta into several classes. And there are other modern taxonomic issues. For instance, some systematists now question whether Uniramia is a monophyletic clade. These scientists interpret the molecular and anatomical data used to construct cladograms to mean that insects are actually more closely related to crustaceans than they are to centipedes and millipedes.
+
+Table 33-5. Some Major Arthropod Classes (based on a traditional taxonomy that places all arthropods in a single phylum, Arthropoda)
+
+Class and ExamplesMain CharacteristicsArachnida (spiders, scorpions, ticks, mites)Body having one or two main parts; six pairs of appendages (chelicerae, pedipalps, and four pairs of walking legs); mostly terrestrialDiplopoda (millipedes)Body with distinct head bearing antennae and chewing mouthparts, segmented body with two pairs of walking legs per segment; terrestrial; herbivorousChilopoda (centipedes)Body with distinct head bearing large antennae and three pairs of mouthparts; appendages of first body segment modified as poison claws; trunk segments bear one pair of walking legs each; terrestrial; carnivorousInsecta (insects)Body divided into head, thorax, and abdomen; antennae present; mouthparts modified for chewing, sucking, or lapping; usually with two pairs of wings and three pairs of legs; mostly terrestrialCrustacea (crabs, lobsters, crayfish, shrimp)Body of two or three parts; antennae present; chewing mouthparts; three or more pairs of legs; mostly marineAs we have seen throughout our survey of the diversity of life, systematics, and the taxonomy it informs, is currently one of the most vibrant fields in biology. We do want you to be aware that phylogenetic trees and classifications represent hypotheses about the history of life that are presently being reconstructed in light of molecular data and other new approaches. However we don't want the current taxonomic turmoil to detract from your appreciation of life's diverse forms. The following survey of arthropods showcases a few major groups, which can be variously classified as phyla, subphyla, or classes, depending on the taxonomic scheme.
+
+Trilobites
+
+Among the early arthropods were the trilobites (FIGURE 33.27). They were common denizens of the shallow seas throughout the Paleozoic era but disappeared with the great Permian extinctions that ended that era, about 250 million years ago. Trilobites had pronounced segmentation, but their appendages showed little variation from segment to segment. As arthropods continued to evolve, the segments tended to fuse and become fewer in number, and the appendages became specialized for a variety of functions. (Compare the trilobite in FIGURE 33.27 with the lobster in FIGURE 33.26.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-27. A trilobite fossil. Trilobites were prevalent arthropods throughout the Paleozoic era. Paleontologists have described about 4,000 trilobite species.
+
+Spiders and Other Chelicerates
+
+The trilobites were outlasted by the eurypterids, or water scorpions. These mainly marine and freshwater predators, up to 3 m long, were chelicerates. A chelicerate has an anterior cephalothorax and a posterior abdomen. The appendages are more specialized than those of trilobites, and the most anterior appendages are modified as chelicerae (either pincers or fangs). Most of the marine chelicerates, including all of the eurypterids, are extinct; only four marine species survive today, one being the horseshoe crab (FIGURE 33.28).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-28. Horseshoe crabs (Limulus polyphemus). This "living fossil," which has changed little in hundreds of millions of years, has survived from a rich diversity of chelicerates that once filled the seas. The horseshoe crab is common on the Atlantic and Gulf coasts of the United States.
+
+The bulk of modern chelicerates are found on land in the form of class Arachnida, which includes scorpions, spiders, ticks, and mites (FIGURE 33.29). Ticks and many mites are among a large group of parasitic arthropods. Nearly all ticks are blood-sucking parasites on the body surfaces of reptiles, birds, or mammals. Parasitic mites live on or in a wide variety of vertebrates and invertebrates, including other arthropods (FIGURE 33.29c).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-29. Arachnids. (a) Scorpions, which hunt by night, were among the first terrestrial carnivores, preying on other arthropods that fed on the early land plants. The pedipalps of scorpions are pincers specialized for defense and the capture of food. The tip of the tail bears a poisonous stinger. (b) This magnified house-dust mite is a ubiquitous scavenger in human dwellings (colorized SEM). Unlike some mites that carry disease-causing bacteria, dust mites are harmless except to people who are allergic to them. (c) Many arthropods parasitize other arthropods. In this light micrograph, the trachea (air tube) of a honeybee (an insect) is filled with parasitic mites.
+
+Arachnids have a cephalothorax with six pairs of appendages: the chelicerae, a pair of appendages called pedipalps that usually function in sensing or feeding, and four pairs of walking legs (FIGURE 33.30). Spiders use their fanglike chelicerae, equipped with poison glands, to attack prey. As the chelicerae masticate (chew) the prey, the spider spills digestive juices onto the torn tissues. The food softens, and the spider sucks up the liquid meal.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 33-30. Spiders (class Arachnida).
+
+In most spiders, gas exchange is carried out by book lungs, stacked plates contained in an internal chamber (see FIGURE 33.30b). The extensive surface area of these respiratory organs is a structural adaptation that enhances the exchange of O2 and CO2 between the hemolymph and air.
+
+A unique adaptation of many spiders is the ability to catch flying insects by stringing webs of silk, a protein produced as a liquid by special abdominal glands. The silk is spun by organs called spinnerets into fibers that solidify. Each spider engineers a style of web characteristic of its species and constructs the web perfectly on the first try. This complex behavior is apparently inherited. Besides building their webs from silk, various spiders use these fibers in other ways: as droplines for rapid escape, as cloth that covers eggs, and even as "gift wrapping" for food that certain male spiders offer females during courtship.
+
+Millipedes and Centipedes
+
+Millipedes (class Diplopoda) are wormlike, with a large number of walking legs (two pairs per segment), though fewer than the thousand their name implies (FIGURE 33.31a). They eat decaying leaves and other plant matter. Millipedes may have been among the earliest animals on land, living on mosses and primitive vascular plants.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 33-31. Class Diplopoda (millipedes) and class Chilopoda (centipedes). (a) Millipedes feed on decaying plant matter. (b) The house centipede (Scutigera coleoptrata), a fast-moving carnivore, feeds on insects, including cockroaches, and other small invertebrates.
+
+Centipedes (class Chilopoda) are terrestrial carnivores. The head has a pair of antennae and three pairs of appendages modified as mouthparts, including the jawlike mandibles. Each segment of the trunk region has one pair of walking legs (FIGURE 33.31b). Centipedes have poison claws on the anteriormost trunk segment that paralyze prey and aid in defense.
+
+Insects
+
+In species diversity, insects (class Insecta) outnumber all other forms of life combined. They live in almost every terrestrial habitat and in fresh water, and flying insects fill the air. Insects are rare, though not absent, in the seas, where crustaceans are the dominant arthropods. Class Insecta is divided into about 26 orders, some of which are described in TABLE 33.6, pages 668-669. Entomology, the study of insects, is a vast field with many subspecialties, including physiology, ecology, and taxonomy.
+
+Table 33-6. Some Major Orders of Insects
+
+OrderApproximate Number of SpeciesMain CharacteristicsExamplesAnoplura2,400Wingless ectoparasites; sucking mouthparts; small with flattened body, reduced eyes; legs with clawlike tarsi for clinging to skin; incomplete metamorphosis; very host-specificSucking lice
+
+
+
+Coleoptera500,000Two pairs of wings (one pair thick and leathery, one pair membranous), armored exoskeleton; biting and chewing mouthparts; complete metamorphosisBeetles
+
+
+
+Dermaptera1,000Two pairs of wings (one pair leathery, one pair membranous) or wingless; biting mouthparts; large posterior pincers; incomplete metamorphosisEarwigs
+
+
+
+Diptera120,000One pair of wings and halteres (balancing organs); sucking, piercing, or lapping mouthparts; complete metamorphosisFlies, mosquitoes
+
+
+
+Hemiptera55,000Two pairs of wings (one pair partly leathery, one pair membranous); piercing or sucking mouthparts; incomplete metamorphosisTrue bugs; assassin bug, bedbug, chinch bug
+
+
+
+Hymenoptera100,000Two pairs of membranous wings; head mobile; chewing or sucking mouthparts; posterior stinging organ on females; complete metamorphosis; many species socialAnts, bees, wasps
+
+
+
+Isoptera2,000Two pairs of membranous wings (some stages wingless); chewing mouthparts; highly social; incomplete metamorphosisTermites
+
+
+
+Lepidoptera140,000Two pairs of wings covered with tiny scales; long coiled tongue for sucking; complete metamorphosisButterflies, moths
+
+
+
+Odonata5,000Two pairs of membranous wings; biting mouthparts; incomplete metamorphosisDamselflies, dragonflies
+
+
+
+Orthoptera30,000Two pairs of wings (one pair leathery, one pair membranous); biting and chewing mouthparts; incomplete metamorphosisCrickets, roaches, grasshoppers, mantids
+
+
+
+Siphonaptera2,000Wingless, laterally compressed; adults are bloodsuckers on birds and mammals; piercing and sucking mouthparts; jumping legs; complete metamorphosisFleas
+
+
+
+Trichoptera7,000Two pairs of hairy wings; chewing or lapping mouthparts; complete metamorphosis; aquatic larvae build silken nets or cases (of sand, gravel, and wood) bound together by silkCaddisflies
+
+
+
+The oldest insect fossils date back to the Devonian period, which began about 400 million years ago. However, when flight evolved during the Carboniferous and Permian periods, it spurred an explosion in insect variety. A fossil record of diverse insect mouthparts indicates that specialized feeding on gymnosperms and other Carboniferous plants also contributed to the adaptive radiation of insects. A widely held hypothesis is that the greatest diversification of insects paralleled the evolutionary radiation of flowering plants during the Cretaceous and early Tertiary periods about 60 to 65 million years ago. This view is challenged by new research suggesting that insects diversified extensively before the angiosperm radiation. Thus, during the coevolution of flowering plants and the herbivorous insects that pollinated them, insect diversity may have been more a cause of angiosperm radiation than an effect.
+
+Flight is obviously one key to the great success of insects. An animal that can fly can escape many predators, find food and mates, and disperse to new habitats much faster than an animal that must crawl about on the ground. Many insects have one or two pairs of wings that emerge from the dorsal side of the thorax (FIGURE 33.32). Because the wings are extensions of the cuticle and not true appendages, insects can fly without sacrificing any walking legs. By contrast, the flying vertebrates--birds and bats--have one of their two pairs of walking legs modified for wings and are generally quite clumsy on the ground.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-32. Insect flight. Insect wings, such as this dragonfly's, are not modified appendages but extensions of the cuticle. Some insects beat their wings at speeds of several hundred cycles per second by using muscles to warp the shape of the entire cuticle covering the thorax. As the wings flap, they change angles, producing lift on both the up and down strokes.
+
+Insect wings may have first evolved as extensions of the cuticle that helped the insect body absorb heat, only later becoming organs for flight. Other views suggest that wings allowed the animals to glide from vegetation to the ground, or even served as gills in aquatic insects. Still another hypothesis is that insect wings functioned for swimming before they functioned for flight.
+
+Dragonflies, with two similar pairs of wings, were among the first insects to fly (see FIGURE 33.32). Several insect orders that evolved later than dragonflies have modified flight equipment. The wings of bees and wasps, for instance, are hooked together and move as a single pair. Butterfly wings operate in a similar fashion because the anterior pair overlaps the posterior wings. In beetles, the posterior wings function in flight, while the anterior ones are modified as covers that protect the flight wings when the beetle is on the ground or when the beetle is burrowing.
+
+The internal anatomy of an insect includes several complex organ systems (FIGURE 33.33). The complete digestive system is regionally specialized, with discrete organs functioning in the breakdown of food and the absorption of nutrients. Like other arthropods, an insect has an open circulatory system, with a heart pumping hemolymph through the sinuses of the hemocoel. Metabolic wastes are removed from the hemolymph by unique excretory organs called Malpighian tubules, which are outpocketings of the digestive tract. Gas exchange in insects is accomplished by a tracheal system of branched, chitin-lined tubes that infiltrate the body and carry oxygen directly to cells. The tracheal system opens to the outside of the body through spiracles, pores that can open or close to regulate air flow and limit water loss.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-33. Anatomy of a grasshopper, an insect. The insect body has three regions: a head, a thorax, and an abdomen (top drawing). Segmentation is apparent along the thorax and abdomen, but the head segments are fused. On the insect head are one pair of antennae and a pair of compound eyes. Several pairs of appendages modified for chewing (as in grasshoppers) or for lapping, piercing, or sucking (in certain other insects) form the mouthparts. The thorax of the insect bears three pairs of walking legs. The bottom drawing identifies major internal organs.
+
+The insect nervous system consists of a pair of ventral nerve cords with several segmental ganglia. The two cords meet in the head, where the ganglia of several anterior segments are fused into a cerebral ganglion (brain) close to the antennae, eyes, and other sense organs concentrated on the head.
+
+Many insects undergo metamorphosis in their development. In the incomplete metamorphosis of grasshoppers and some other orders, the young resemble adults but are smaller and have different body proportions. The animal goes through a series of molts, each time looking more like an adult, until it reaches full size. Insects with complete metamorphosis have larval stages specialized for eating and growing that are known by such names as maggot, grub, or caterpillar. The larval stage looks entirely different from the adult stage, which is specialized for dispersal and reproduction. Metamorphosis from the larval stage to the adult occurs during a pupal stage (FIGURE 33.34, p. 670).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-34. Metamorphosis of a butterfly. (a) The larva (caterpillar) spends its time eating and growing, molting as it grows. (b) After several molts, the larva encases itself in a cocoon and becomes a pupa. (c) Within the pupa, the larval tissues are broken down, and the adult is built by the division and differentiation of cells that were quiescent in the larva. (d) Finally, the adult begins to emerge from the cocoon. (e) Fluid is pumped into veins of the wings and then withdrawn, leaving the hardened veins as struts supporting the wings. Now the insect flies off and reproduces, deriving much of its nourishment from the calories stored by the feeding larva.
+
+Reproduction in insects is usually sexual, with separate male and female individuals. Adults come together and recognize each other as members of the same species by advertising with bright colors (butterflies), sound (crickets), or odors (moths). Fertilization is generally internal. In most species, sperm cells are deposited directly into the female's vagina at the time of copulation, though in some species the male deposits a sperm packet outside the female, and the female picks it up. An internal structure in the female called the spermatheca stores the sperm, usually enough to fertilize more than one batch of eggs. Many insects mate only once in a lifetime. After mating, a female lays her eggs on an appropriate food source where the next generation can begin eating as soon as it hatches.
+
+Animals so numerous, diverse, and widespread as insects are bound to affect the lives of all other terrestrial organisms, including humans. On one hand, we depend on bees, flies, and many other insects to pollinate our crops and orchards. On the other hand, insects are carriers for many diseases, including malaria (spread by mosquitos that carry Plasmodium; see FIGURE 28.13) and African sleeping sickness (spread by tsetse flies that carry Trypanosoma; see FIGURE 28.11). Furthermore, insects compete with humans for food. In parts of Africa, for instance, insects claim about 75%  of the crops. Trying to minimize their losses, farmers in the United States spend billions of dollars each year on pesticides, spraying crops with massive doses of some of the deadliest poisons ever invented. Try as they may, not even humans have challenged the preeminence of insects and their arthropod kin. Or, as Cornell University's Thomas Eisner, interviewed on page 24, puts it: "Bugs are not going to inherit the Earth. They own it now. So we might as well make peace with the landlord."
+
+Crustaceans
+
+While arachnids and insects thrived on land, crustaceans, for the most part, remained in marine and freshwater environments, where they are now represented by about 40,000 species. Crabs, lobsters, crayfish, and shrimp are the most familiar crustaceans (FIGURE 33.35).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-35. Crustaceans. (a) This is a Sally lightfoot crab from the Gal&aacute;pagos Islands. (b) Planktonic crustaceans known as krill are consumed by the ton by whales and other large suspension-feeders. (c) Barnacles are sessile crustaceans with a shell (exoskeleton) hardened by calcium carbonate. The jointed appendages projecting from the shell capture small plankton and organic particles suspended in the water.
+
+The multiple appendages of crustaceans are extensively specialized. Lobsters and crayfish, for instance, have a toolkit of 19 pairs of appendages (see FIGURE 33.26). Crustaceans are the only arthropods with two pairs of antennae. Three or more pairs of appendages are modified as mouthparts, including the hard mandibles. Walking legs are present on the thorax, and, unlike insects, crustaceans have appendages on the abdomen. A lost appendage can be regenerated.
+
+Small crustaceans exchange gases across thin areas of the cuticle, but larger species have gills. The circulatory system is open, with a heart pumping hemolymph through arteries into sinuses that bathe the organs. Crustaceans excrete nitrogenous wastes by diffusion through thin areas of the cuticle, but a pair of glands regulates the salt balance of the hemolymph.
+
+Sexes are separate in most crustaceans. In the case of lobsters and crayfish, the male uses a specialized pair of appendages to transfer sperm to the reproductive pore of the female during copulation. Most aquatic crustaceans go through one or more swimming larval stages.
+
+One of the largest groups of crustaceans (about 10,000 species), the isopods are mostly small marine species. Some are numerous at the bottom of deep oceans. Isopods also include the land-dwelling pill bugs, or wood lice, common on the undersides of moist logs and leaves.
+
+Another group of small crustaceans, the copepods, are among the most numerous of all animals. They are important members of marine and freshwater plankton communities, eating protists and bacteria, and being eaten by many fishes.
+
+Lobsters, crayfish, crabs, and shrimp are all relatively large crustaceans called decapods (FIGURE 33.35a). The exoskeleton, or cuticle, is hardened by calcium carbonate; the portion that covers the dorsal side of the cephalothorax forms a shield called the carapace. Most decapods are marine. Crayfish, however, live in fresh water, and some tropical crabs live on land.
+
+The larvae of many larger-bodied crustaceans are also planktonic. A marine group known as krill are shrimplike planktonic organisms that grow to about 3 cm long (FIGURE 33.35b). A major food source for many species of whales, krill are now being harvested in great numbers by humans for food and agricultural fertilizer.
+
+Barnacles are sessile crustaceans with parts of their cuticles hardened into shells by calcium carbonate. They feed by using their appendages to strain food from the water (FIGURE 33.35c).
+
+How Many Times Did Segmentation Evolve in the Animal Kingdom?
+
+Before we leave the arthropods, let's consider the evolution of one of their key anatomical characteristics, the segmentation of the body. (You can see many examples of this segmentation if you reexamine some of the arthropods in the preceding illustrations--for example, note the segmentation of the scorpion in FIGURE 33.29a and of the millipede in FIGURE 33.31a.) Until recently, based partly on this segmented body plan, the majority of biologists favored the hypothesis that arthropods evolved from an annelid ancestor, or from a segmented ancestor common to both annelids and arthropods. In placing annelids and arthropods on divergent clades of Protostomia--Lophotrochozoa for annelids, Ecdysozoa for arthropods--molecular systematists have challenged the long-held view of a close kinship between the segmented worms and the arthropods. However, many biologists do not find the existing molecular data convincing enough to reject the hypothesis of a closer annelid-arthropod relationship. The debate has focused interest on the evolutionary origin of segmentation.
+
+The segmented bodies of arthropods, annelids, and certain other animals represent a special case of a more general phenomenon: the blocking-out of an embryo into regions where certain body parts will develop. Each bilaterally symmetrical animal has a particular linear arrangement of anatomical features along its anterior (head) to posterior axis. Eyes, for example, are located at the anterior end. Differential expression of various regulatory genes that code for transcription factors plays a key role in this blocking-out of anterior  posterior anatomy in the developing embryo. In those phyla with segmented bodies, certain genes first determine the segmentation, and then genes of the Hox complex determine what organs will develop at each segment (see FIGURE 21.15). For example, differential expression of various Hox genes along the length of a lobster embryo cause antennae to develop on a certain segment and walking legs to develop on other segments. But even in nonsegmented animals, such as flatworms, Hox genes determine where certain organs, such as eyes, develop along the animal's length. In fact, sponges have at least one Hox gene and cnidarians such as jellies have several. In a cnidarian, for example, expression of a Hox gene determines where tentacles will develop in the embryo.
+
+Thus, as developmental determinants of morphology, Hox genes predate the origin of the bilaterians. The mechanism for the development of segmented bodies in certain animal phyla is a variation on a basic regulatory scheme that dates back to the first animals. But an increase in Hox gene number through gene duplications and mutations, along with adaptation of Hox gene function for development of segmented bodies, made it possible for a great diversity of complex animals to evolve.
+
+Body segmentation evolved in several of the 35 animal phyla, including the annelids, arthropods, and chordates--the phylum that includes humans and other vertebrates. (The chain of vertebrae that make up your backbone is an example of this chordate segmentation.) This means that segmented animals occur in all three major clades of bilaterians: annelids are lophotrochozoans; arthropods are ecdysozoans; and chordates are deuterostomes. Each clade also includes phyla of nonsegmented animals.
+
+Three different hypotheses can account for the scattered distribution of segmentation in the phylogenetic tree of animals. In the first hypothesis, segmentation had separate evolutionary origins in each bilaterian clade (FIGURE 33.36a). In the second hypothesis, there were two separate origins of segmentation, one for the protostomes (lophotrochozoans + ecdysozoans) and one for the deuterostomes (FIGURE 33.36b). And in the third hypothesis, segmentation evolved just once, in an ancestor common to all three bilaterian lineages (FIGURE 33.36c). Note that hypotheses 2 and 3 require evolutionary loss of segmentation in the majority of animal phyla. The principle of parsimony in cladistics would seem to favor hypothesis 1 because it requires the fewest evolutionary changes (see Chapter 25 to review cladistics and parsimony). However, application of parsimony is merely an analytical aid in cladistics, not some law of evolution that life always follows. Thus, we cannot rule out hypotheses 2 and 3 as plausible explanations for the scattered distribution of segmentation among animal phyla.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-36. Three hypotheses for the origin of segmentation. The purple bars represent origins of segmentation, while the orange bars represent losses of segmentation.
+
+"Evo-devo," the research field at the interface of evolutionary biology and developmental biology, may illuminate the origin(s) of segmentation. Several lab groups are investigating how various Hox genes function during the development of segmented bodies in diverse phyla. By comparing and contrasting details in how these regulatory genes block-out the segments of annelid, arthropod, and chordate embryos, this research may bring us closer to knowing whether segmentation evolved once, twice, or three times in the animal kingdom. And these studies of how segmentation develops will help systematists test various hypotheses about animal phylogeny.
+
+
+
+
+
+ Phylum Echinodermata: Echinoderms have a water vascular system and secondary radial anatomy
+
+Sea stars and most other echinoderms (from the Greek echin, spiny, and derma, skin) are sessile or slow-moving animals. The internal and external parts of the animal radiate from the center, often as five spokes. A thin skin covers an endoskeleton of hard calcareous plates. Most echinoderms are prickly from skeletal bumps and spines that have various functions. Unique to echinoderms is the water vascular system, a network of hydraulic canals branching into extensions called tube feet that function in locomotion, feeding, and gas exchange.
+
+Sexual reproduction of echinoderms usually involves separate male and female individuals that release their gametes into the seawater. The radial adults develop by metamorphosis from bilateral larvae.
+
+Given our division of eumetazoans into Radiata and Bilateria, we should explain the radial appearance of most echinoderms. The echinoderms are definitely bilaterians, not radiate animals related to cnidarians. Echinoderm larvae have bilateral symmetry. The radial anatomy of adult echinoderms is a secondary adaptation to a sessile lifestyle. And even echinoderm adults are not truly radial in their anatomy. For example, the opening (madreporite) of a sea star's water vascular system is not central, but to one side of the "star" (see FIGURE 33.38).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-38. Anatomy of a sea star. The surface of a sea star is covered by spines that help defend against predators and by small gills for gas exchange. Internal organs are suspended by mesenteries in a well-developed coelom. A short digestive tract runs from the mouth on the bottom of the central disk to the anus on the top of the disk. Digestive glands secrete digestive juices and aid in the absorption and storage of nutrients. The central disk has a nerve ring and nerve cords radiating from the ring into the arms. The water vascular system consists of a ring canal in the central disk and five radial canals, each running the length of an arm in a groove. The system connects to the outside by way of the sievelike madreporite. Branching from each radial canal are hundreds of hollow, muscular tube feet filled with fluid continuous with the rest of the water vascular system. Each tube foot consists of a bulblike ampulla and suckered podium (foot portion). The podium expands and extends to contact the substratum when the ampulla squeezes water into it. The podium shortens and bends when muscles in its wall contract, forcing water back into the ampulla.
+
+The 7,000 or so echinoderms, all marine, are divided into six classes (FIGURE 33.37): Asteroidea (sea stars), Ophiuroidea (brittle stars), Echinoidea (sea urchins and sand dollars), Crinoidea (sea lilies and feather stars), Holothuroidea (sea cucumbers), and Concentricycloidea (sea daisies). The sea daisies, discovered only recently, live on waterlogged wood in the deep sea.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-37. Echinoderms
+
+Class Asteroidea
+
+Sea stars have five arms (sometimes more) radiating from a central disk (FIGURE 33.37a). The undersurfaces of the arms bear tube feet, each of which can act like a suction disk. By a complex set of hydraulic and muscle actions, the suction can be created or released (FIGURE 33.38). The sea star coordinates its tube feet to adhere firmly to rocks or to creep along slowly as the tube feet extend, grip, contract, release, extend, and grip again. Sea stars also use their tube feet to grasp prey, such as clams and oysters (FIGURE 33.37b). The arms of the sea star embrace the closed bivalve, hanging on tightly by the tube feet. The sea star then turns its stomach inside-out, everting it through its mouth and into the narrow opening between the shells of the bivalve. The digestive system of the sea star secretes juices that begin digesting the soft body of the mollusk within its own shell.
+
+Sea stars and some other echinoderms are capable of regeneration. Sea stars can regrow lost arms, and members of one genus can even regrow an entire body from a single arm.
+
+Class Ophiuroidea
+
+Brittle stars have distinct central disks, and the arms are long and flexible (FIGURE 33.37c). Their tube feet lack suckers, and they move by serpentine lashing of the arms. Some species are suspension-feeders; others are predators or scavengers.
+
+Class Echinoidea
+
+Sea urchins and sand dollars have no arms, but they do have five rows of tube feet that function in slow movement (FIGURE 33.37d). Sea urchins also have muscles that pivot their long spines, which aids in moving. The mouth of an urchin is ringed by complex jawlike structures adapted for eating seaweeds and other food. Sea urchins are roughly spherical in shape, whereas sand dollars are flattened and disk-shaped.
+
+Class Crinoidea
+
+Sea lilies live attached to the substratum by stalks; feather stars crawl about by using their long, flexible arms. As a group, crinoids use their arms in suspension-feeding (FIGURE 33.37e). The arms circle the mouth, which is directed upward, away from the substratum. Crinoidea is an ancient class whose evolution has been very conservative; fossilized sea lilies some 500 million years old could pass for modern members of the class.
+
+Class Holothuroidea
+
+On casual inspection, sea cucumbers do not look much like other echinoderms (FIGURE 33.37f). They lack spines, and the hard endoskeleton is much reduced. Sea cucumbers are elongated in the oral-aboral axis, giving them the shape for which they are named and further disguising their relationship to sea stars and sea urchins. Closer examination, however, reveals five rows of tube feet, part of the water vascular system found only in echinoderms. Some of the tube feet around the mouth are developed as feeding tentacles.
+
+
+
+
+
+ Phylum Chordata: The chordates include two invertebrate subphyla and all vertebrates
+
+This phylum, to which we belong, consists of two subphyla of invertebrate animals plus the subphylum Vertebrata, the animals with backbones. Grouping the chordates with echinoderms as deuterostomes on the basis of similarities in early embryonic development is not meant to imply that one phylum evolved from the other. Chordates and echinoderms have existed as distinct phyla for at least half a billion years; if the developmental similarities stem from shared ancestry, then the evolutionary paths of the two phyla must have diverged very early. We will trace the phylogeny of chordates in Chapter 34, focusing on the history of vertebrates.
+
+TABLE 33.7 summarizes the animal phyla we have discussed in this chapter.
+
+Table 33-7. Animal Phyla
+
+CategoryPhylaDescription of PhylaKingdom Animalia ParazoaPorifera (sponges)
+
+
+
+Choanocytes (collar cells--unique flagellated cells that ingest bacteria and tiny food particles); cells tend to be totipotent (retain zygote's potential to form the whole animal)Eumetazoa RadiataCnidaria (hydras, jellies, sea anemones, corals)
+
+
+
+Unique stinging structures (cnidae), each housed in a specialized cell (cnidocyte); gastrovascular cavity (incomplete digestive tract with a mouth but no anus)Ctenophora (comb jellies)
+
+
+
+Colloblasts (adhesive structures) for prey capture; eight rows of comblike ciliary plates; gastrovascular cavityBilateria Protostomia: LophotrochozoaPlatyhelminthes (flatworms)
+
+
+
+Dorsoventrally flattened, unsegmented acoelomates; gastrovascular cavity or no disgestive tractRotifera (rotifers)
+
+
+
+Pseudocoelomates with complete digestive tracts; jaws in pharynx structures (trophi); head with a cilated crown (corona); no circulatory systemLophophorates: Bryozoa, Brachiopoda, Phoronida
+
+
+
+Coelomates with lophophore (feeding structure bearing cilated tentacles)Nemertea (proboscis worms)
+
+
+
+Unique anterior proboscis surrounded by fluid-filled cavity (rhynchocoel); complete digestive tract (mouth and anus); circulatory system with closed vesselsMollusca (clams, snails, squids)
+
+
+
+Coelomates with three main body parts (muscular foot, visceral mass, mantle); coelom reduced; main body cavity is a hemocoelAnnelida (segmented worms)
+
+
+
+Coelomates with body wall and internal organs (except digestive tract) segmentedProtostomia: EcdysozaNematoda (roundworms)
+
+
+
+Cylindrical, unsegmented pseudocoelomates with tapered ends; no circulatory systemArthropoda (crustaceans, insects, spiders)
+
+
+
+Coelomates with segmented body, jointed appendages, exoskeleton from ectodermDeuterostomiaEchinodermata (sea stars, sea urchins)
+
+
+
+Coelomates with secondary radial anatomy (larvae bilateral; adults radial); unique water vascular system; endoskeletonChordata (lancelets, tunicates, vertebrates)
+
+
+
+Coelomates with notochord; dorsal hollow nerve cord; pharyngeal slits; muscular postanal tail
+
+

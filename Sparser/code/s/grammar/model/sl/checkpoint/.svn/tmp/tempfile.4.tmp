@@ -1,0 +1,159 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER COMMON-LISP) -*-
+;;; Copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
+;;; $Id:$
+
+;;;    File: "vocabulary"
+;;;  Module: "grammar/model/sl/checkpoint/
+;;; version: June 2009
+
+;; Initiated 4/8/09. Elaborated through 6/25/09
+
+(in-package :sparser)
+
+;;-- simple things
+
+(np-head "car")
+(np-head "ground")
+(np-head "trunk")
+
+(np-head "ground")
+(np-head "truck")
+(np-head "name")
+
+(np-head "business")
+
+
+;;-- thrown away modifiers
+
+(ignorable-np-modifier "any")
+(ignorable-np-modifier "some")
+
+(ignorable-np-modifier "our") ;; all the possessive pns
+(ignorable-np-modifier "your")
+
+;;-- kept modifiers
+
+(adverbial "keep")
+(sentence-adverbial "please")
+
+
+;; Load-timing problem. This references categories that aren't defined
+;; when the ETF are loaded. So either they're variablized, which is odd
+;; at best, or they're loaded late.
+(define-exploded-tree-family  transitive-location
+  :description ""
+  :binding-parameters ( agent  location )
+  :labels ( s vp vg np/subject loc1 loc2 )
+  :cases
+     ((:subject (s  (np/subject vp)
+                 :head right-edge
+                 :binds (agent left-edge)))
+      (:deictic-loc (vp (vg loc1) ;; deictic-location -- only in literals
+		      :head left-edge
+		      :binds (location right-edge)))
+      (:location (vp (vg loc2) ;;location)
+		    :head left-edge
+		    :binds (location right-edge)))))
+
+(sv-location '("come" :past-tense "came"))
+(sv-location '("get" :past-tense "got"))
+(sv-location '("go" :past-tense "went"))
+(sv-location "stay") ;;/// bug somewhere -- not getting "ing" form
+
+(sv-location '("stand" :past-tense "stood"))
+(sv-location '("sit" :past-tense "sat"))
+
+(sv-prep "come" "over")
+
+(sv-prep "stand" "over")
+(sv-prep "stand" "up")
+(sv-prep "sit" "down")
+(sv-prep "sit" "still")
+(sv-prep "come" "along")
+
+(sv-prep "lie" ;;//// flag all the irregulars: "lay" "lieing"
+ "down")
+(sv-prep "move" "along")
+(sv-prep "move" "on")
+(sv-prep "move" "forward")
+;(sv-prep "tell" "me")
+
+;;--- These take arguments 
+(svo "open")
+
+(svo "tell")
+
+;;--- but the preposition goes with the verb
+(sv-prep-marked-o "come" "with")
+(sv-prep-marked-o "get" "out of") ;;/// 6/8/09 the location is winning
+(sv-prep-marked-o "open" "up") 
+
+;;--- These don't take arguments, but they could have modifiers
+;; Right (5/30) now they're coming out as just the category
+;;   unless they're combined with modifiers or a subject
+;;   in which case they come out as events
+(sv "halt")
+(sv "proceed")
+(sv "stop")
+
+
+; (checkpoint-regression-test)
+(defun checkpoint-regression-test (&optional (stream *standard-output*))
+  (mapcar 
+   #'(lambda (pair)
+       (terpri stream)
+       (let ((text (car pair))
+	     (result (cdr pair)))
+	 (handler-case
+	     (let ((actual-result (pp text)))
+	       (if (equal actual-result result)
+		 (format stream "~&Good: \"~a\"" text)
+		 (format stream "~%Bad! for \"~a\"~%  expected ~a~%  but got ~a"
+			 text result actual-result)))
+	   (error (e)
+	     (format stream "Bug!: \"~a\" got: \"~a\"" text e)))))
+   `(("you may proceed" . (proceed))
+     ("open the trunk" . (open (object (trunk))))
+     ("open up the trunk" . (open/up/up (object (trunk))))
+     ("move along" . (move/along))
+     ("who's in the car" . (question
+			    (content
+			     (relative-location (place (car)) (functor (spatial-orientation (name . word::|in|)))))
+			    (type category::who)))
+     ("please open the trunk" . (open (modifier category::please) (object (trunk))))
+     ("open the trunk" . (open (object (trunk))))
+     ("open your trunk" . (open (object (trunk))))
+     ("get in the car" . (get (where
+			       (relative-location (place (car))
+						  (functor (spatial-orientation (name . word::|in|)))))))
+     ("come over here" . (come (where (deictic-location (name . "over here")))))
+     ("where are you going" . (question (content category::go) (type category::where)))
+     ("get out of the car" . (get (where
+			       (relative-location (place (car))
+						  (functor (spatial-orientation (name . word::|out|)))))))
+     ("stand over there" . (stand (where (deictic-location (name . "over there")))))
+     ("stand up" . (stand/up))  ;; is this what we really want?
+     ("sit down" . (sit/down))  ;; is this what we really want?
+     ("sit down over there" . (sit/down (location (deictic-location (name . "over there")))))
+     ("come along" . (come/along))  ;; is this what we really want?
+     ("come with me" . (come/along))  ;; is this what we really want?
+     ("come with me please" . (come/along (modifier category::please)))  ;; is this what we really want?
+     ("please tell me where you're going today" . (inversion (modifier category::please)
+				(location (go (location . word::where) (time (calculated-day (name . word::today)))))
+				(content . word::me) (functor category::tell)))
+))
+  :done)
+
+
+
+;;--- debugging bits (usually goes in workspace)
+#|
+ (e :from 0 :to 6)  (display-chart :style :all-edges)
+ (exploded-tree-family-named 'transitive/specializing-pp)
+
+ (trace-edges)
+ (display-chart-brackets)
+|#
+
+
+

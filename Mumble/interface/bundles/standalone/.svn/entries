@@ -1,0 +1,76 @@
+9
+
+dir
+357
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Mumble/interface/bundles/standalone
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2007-06-18T17:34:14.372645Z
+97
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+interface-utilities.lisp
+file
+
+
+
+
+2006-08-01T12:39:52.000000Z
+9738572042a2708f7b5a72423bcc02f4
+2007-06-18T17:34:14.372645Z
+97
+dmcdonal
+
+demos-to-use.lisp
+file
+
+
+
+
+2006-08-12T19:39:26.000000Z
+a6a79caf0c14e8d08839e9cc3fcb2134
+2007-06-18T17:34:14.372645Z
+97
+dmcdonal
+
+rspec-table.lisp
+file
+
+
+
+
+2006-08-12T17:37:44.000000Z
+e127cae11a71bf7049d0d96c8eb5534a
+2007-06-18T17:34:14.372645Z
+97
+dmcdonal
+
+specification-language.lisp
+file
+
+
+
+
+2006-08-18T01:51:02.000000Z
+46ef9226efe3edf3ae1ad09db4cf6a8e
+2007-06-18T17:34:14.372645Z
+97
+dmcdonal
+
+defining-demos.lisp
+file
+
+
+
+
+2006-08-17T22:29:32.000000Z
+b0bbd062710ee9a55c74e7e99a1d76d7
+2007-06-18T17:34:14.372645Z
+97
+dmcdonal
+

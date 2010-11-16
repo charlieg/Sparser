@@ -1,0 +1,20 @@
+
+ Protobionts can form by self-assembly
+
+The properties of life emerge from an interaction of molecules organized into higher levels of order. Living cells may have been preceded by protobionts, aggregates of abiotically produced molecules. Protobionts are not capable of precise reproduction, but they maintain an internal chemical environment different from their surroundings and exhibit some of the properties associated with life, including metabolism and excitability.
+
+Laboratory experiments demonstrate that protobionts could have formed spontaneously from abiotically produced organic compounds. For example, droplets called liposomes form when the organic ingredients include certain lipids. These lipids organize into a molecular bilayer at the surface of the droplet, much like the lipid bilayer of cell membranes. Because the membrane is selectively permeable, the liposomes undergo osmotic swelling or shrinking when placed in solutions of different salt concentrations. Some of these protobionts also store energy in the form of a membrane potential, a voltage across the surface. The protobionts can discharge the voltage in nervelike fashion; such excitability is characteristic of all life (which is not to say that liposomes are alive, but only that they display some of the properties of life). Liposomes behave dynamically, sometimes growing by engulfing smaller liposomes and then splitting, other times "giving birth" to smaller liposomes (FIGURE 26.12a). If enzymes are included among the ingredients, they are incorporated into the droplets. The protobionts are then able to absorb substrates from their surroundings and release the products of the reactions catalyzed by the enzymes (FIGURE 26.12b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-12. Laboratory versions of protobionts.
+
+Unlike some laboratory models, protobionts that formed in the ancient seas would not have possessed refined enzymes, which are made in cells according to inherited instructions. Some molecules produced abiotically, however, do have weak catalytic capacities, and there could well have been protobionts that had a rudimentary metabolism that allowed them to modify substances they took in across their membranes.
+
+
+
+

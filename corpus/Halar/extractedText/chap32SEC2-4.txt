@@ -1,0 +1,82 @@
+
+ The traditional phylogenetic tree of animals is based mainly on grades in body "plans"
+
+FIGURE 32.4 (p. 636) illustrates a phylogenetic tree in which relationships among the animal phyla are based mainly on key characteristics of body plan and embryonic development. Each major branch represents what systematists call a grade, which is defined by certain body-plan features shared by the animals belonging to that branch. The circled numbers on the tree mark four deep branch points distinguishing the major grades. For example, the first branch point splits the grade of animals with no true tissues (the parazoa) from the grade of animals with true tissues (the eumetazoa). Let's take a closer look at how the diverse body plans of animals can be organized into grades by focusing on each of these four main dichotomies (branchings).
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-4. A traditional view of animal diversity based on body-plan grades. The circled numbers key four main branch points to the headings and discussion in the text. The branches with broken lines indicate relationships that are unresolved based on anatomy and embryology.
+
+
+			  
+		The Parazoa-Eumetazoa Dichotomy
+
+Among the extant phyla, sponges (phylum Porifera) represent an early branch of the animal kingdom. Sponges have unique development and a structural simplicity that separates them from all other animal phyla. They lack true tissues and are called the parazoans (meaning "beside the animals"). Tissues are a basic feature of nearly all other animal phyla, collectively called the eumetazoans.
+
+
+			  
+		The Radiata-Bilateria Dichotomy
+
+The eumetazoans are divided into two major branches, partly on the basis of body symmetry. Members of phylum Cnidaria (hydras; jellies, also called "jellyfishes"; sea anemones; and their relatives) and phylum Ctenophora (comb jellies) have radial symmetry (FIGURE 32.5a) and are collectively called radiata. A radial animal has a top and bottom, or an oral (mouth) and an aboral side, but no head end and rear end and no left and right. The other major branch of eumetazoan evolution led to animals with bilateral (two-sided) symmetry (FIGURE 32.5b). A bilateral animal has not only a dorsal (top) side and a ventral (bottom) side, but also an anterior (head) end and a posterior (tail) end and a left and right side. Animals of this body-plan grade are collectively called bilateria.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-5. Body symmetry. The pail and shovel are included to help you remember the radial-bilateral distinction. (a) The parts of a radial animal, such as this sea anemone (phylum Cnidaria), radiate from the center. Any imaginary slice through the central axis would divide the animal into mirror images. (b) A bilateral animal, such as a lobster (phylum Arthropoda), has a left and right side. Only one imaginary cut would divide the animal into mirror-image halves.
+
+Associated with bilateral symmetry is cephalization, an evolutionary trend toward the concentration of sensory equipment on the anterior end, the end of a traveling animal that is usually first to encounter food, danger, and other stimuli. In most bilateral animals, cephalization also includes the development of a central nervous system concentrated in the head and extending toward the tail as a longitudinal nerve cord. A head end is an adaptation for movement, such as crawling, burrowing, or swimming. The symmetry of an animal generally fits its lifestyle. Many radial animals are sessile forms (attached to a substratum) or plankton (drifting or weakly swimming aquatic forms). Their symmetry equips them to meet the environment equally well from all sides. Most animals that move actively from place to place are bilateral. These two fundamentally different kinds of symmetry probably arose very early in the history of animal life.
+
+Another difference in body plan helps define the radiata-bilateria split: In all animals except sponges, the embryo becomes layered through the process of gastrulation (see FIGURE 32.1). As development progresses, these concentric layers, called germ layers, form the various tissues and organs of the body. Ectoderm, covering the surface of the embryo, gives rise to the outer covering of the animal and, in some phyla, to the central nervous system. Endoderm, the innermost germ layer, lines the developing digestive tube, or archenteron, and gives rise to the lining of the digestive tract and organs derived from it, such as the liver and lungs of vertebrates. All eumetazoans except cnidarians and ctenophores (the radiata) have a third germ layer, the mesoderm, between the ectoderm and endoderm. Mesoderm forms the muscles and most other organs between the digestive tube and the outer covering of the animal. Cnidarians and ctenophores have only two germ layers (ectoderm and endoderm) or have a third layer that is not homologous with the mesoderm of bilateral animals. As a group, the radiata are said to be diploblastic (having two germ layers). All other eumetazoans, the bilateria, are triploblastic (having three germ layers).
+
+
+			  
+		The Acoelomate, Pseudocoelomate, and Coelomate Grades
+
+Triploblastic animals with solid bodies--that is, without a cavity between the digestive tract and outer body wall--are collectively called acoelomates (from the Greek a, without, and koilos, a hollow). This group includes phylum Platyhelminthes, the flatworms (FIGURE 32.6a, p. 638). In contrast to the acoelomates, most phyla of bilateral, triploblastic animals have tube-within-a-tube body plans, with a body cavity, a fluid-filled space separating the digestive tract from the outer body wall.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-6. Body plans of the bilateria. The various organ systems of the animal develop from the three germ layers that form in the embryo. Colors traditionally used to represent the germ layers and their derivatives are blue for ectoderm, red for mesoderm, and yellow for endoderm.
+
+Among animals with a body cavity, there are differences in how the cavity develops. If the cavity is not completely lined by tissue derived from mesoderm, it is termed a pseudocoelom. Animals with this body plan, such as rotifers (phylum Rotifera) and roundworms (phylum Nematoda), are called pseudocoelomates (FIGURE 32.6b). Coelomates are animals with a true coelom, a fluid-filled body cavity completely lined by tissue derived from mesoderm. The inner and outer layers of tissue that surround the cavity connect dorsally and ventrally to form mesenteries, which suspend the internal organs (see FIGURE 32.6c).
+
+A body cavity has many functions. Its fluid cushions the suspended organs, helping to prevent internal injury. In soft-bodied coelomates such as earthworms, the noncompressible fluid of the body cavity is under pressure and functions as a hydrostatic skeleton against which muscles can work. The cavity also enables the internal organs to grow and move independently of the outer body wall. If it were not for your coelom, every beat of your heart or ripple of your intestine could deform your body surface, and exercise would distort the shapes of the internal organs.
+
+
+			  
+		The Protostome-Deuterostome Dichotomy Among Coelomates
+
+The coelomate phyla are divided into two distinct grades: Protostomia and Deuterostomia. Mollusks, annelids, arthropods, and several other phyla represent one of these grades and are collectively called protostomes. Echinoderms, chordates, and some other phyla, collectively called deuterostomes, represent the other grade. (Some zoologists include the acoelomates and pseudocoelomates with the protostomes in the traditional phylogenetic tree, but this text uses the term protostome only as a subgroup of coelomate animals.) Protostomes and deuterostomes are distinguished by several fundamental differences in their development.
+
+Cleavage.The pattern of cleavage divisions during early development generally differs between the two coelomate branches, though there are many exceptions to this distinction. Many protostomes undergo spiral cleavage, in which planes of cell division are diagonal to the vertical axis of the em bryo. As seen in the eight-cell stage resulting from spiral cleavage, small cells lie in the grooves between larger, underlying cells (FIGURE 32.7a). Furthermore, the so-called determinate cleavage of some protostomes rigidly casts the developmental fate of each embryonic cell very early. A cell isolated at the four-cell stage from a snail, for example, forms an inviable embryo that lacks parts.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-7. A comparison of early development in protostomes and deuterostomes. These are useful general distinctions, though there are many variations and exceptions to these patterns of development.
+
+In contrast to the spiral cleavage pattern, the zygotes of many deuterostomes undergo radial cleavage. Here, the cleavage planes are either parallel or perpendicular to the vertical axis of the egg; as seen in the eight-cell stage, the tiers of cells are aligned, one directly above the other. Most deuterostomes are further characterized by indeterminate cleavage, meaning that each cell produced by early cleavage divisions retains the capacity to develop into a complete embryo. For example, if the cells of a sea star embryo are separated at the four-cell stage, each will go on to form a normal larva. It is the indeterminate cleavage of the human zygote that makes identical twins possible. This characteristic also explains the developmental versatility of the embryonic "stem cells" that may provide new ways to overcome a variety of diseases, including juvenile diabetes, Parkinson's disease, and Alzheimer's disease (see Chapter 21).
+
+Coelom Formation.Another difference between protostomes and deuterostomes is apparent later in development. In gastrulation, the developing digestive tube of an embryo initially forms as a blind pouch, the archenteron. As the archenteron forms in a protostome, initially solid masses of mesoderm split to form the coelomic cavities; this is called schizocoelous development (from the Greek schizo, split). Development of the body cavities of deuterostomes is termed enterocoelous: The mesoderm buds from the wall of the archenteron and hollows to become the coelomic cavities (FIGURE 32.7b).
+
+Blastopore Fate.A third fundamental difference between protostomes and deuterostomes is in the fate of the blastopore, the opening of the archenteron. After the archenteron develops, a second opening forms at the opposite end of the gastrula. Ultimately, the blastopore and this second opening become the two ends of the digestive tube (the mouth and the anus). The mouth of many protostomes develops from the first opening, the blastopore, and it is for this characteristic that the protostome grade is named (from the Greek protos, first, and stoma, mouth). In contrast, the mouth of a deuterostome (from the Greek deuteros, second) is derived from the secondary opening, and the blastopore usually forms the anus, not the mouth (FIGURE 32.7c).
+
+Let us now compare and contrast the traditional phylogenetic tree of animals based on grades in body plan (see FIGURE 32.4) with an emerging view of animal phylogeny based mainly on molecular systematics.
+
+
+
+

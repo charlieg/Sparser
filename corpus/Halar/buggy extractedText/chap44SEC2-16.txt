@@ -1,0 +1,18 @@
+
+ Diverse adaptations of the vertebrate kidney have evolved in different habitats
+
+Variations in nephron structure and function equip the kidneys of different vertebrates for osmoregulation in their various habitats. We have seen, for instance, that nephrons of the mammalian kidney can conserve water by making highly concentrated urine. Mammals that excrete the most hyperosmotic urine, such as hopping mice and other desert mammals, have exceptionally long loops of Henle. Long loops maintain steep osmotic gradients in the kidney, resulting in urine becoming very concentrated as it passes from cortex to medulla in the collecting ducts. In contrast, beavers, which spend much of their time in fresh water and rarely face problems of dehydration, have nephrons with very short loops, resulting in a much lower ability to concentrate urine.
+
+Birds, like mammals, have kidneys with juxtamedullary nephrons that specialize in conserving water. However, the nephrons of birds have much shorter loops of Henle than do mammalian nephrons. Bird kidneys, therefore, cannot concentrate urine to the osmolarities achieved by mammalian kidneys. Although they can produce a hyperosmotic urine, the main water conservation adaptation of birds is use of uric acid as the nitrogen excretion molecule.
+
+The kidneys of reptiles, having only cortical nephrons, produce urine that is, at most, isoosmotic to body fluids. However, the epithelium of the cloaca (see Chapter 34) helps conserve fluid by reabsorbing some of the water present in urine and feces. Also, like birds, most terrestrial reptiles excrete nitrogenous wastes as uric acid.
+
+In contrast to mammals and birds, a freshwater fish must excrete excess water because the animal is hyperosmotic to its surroundings. Instead of conserving water, the nephrons produce a large volume of very dilute urine. Freshwater fishes conserve salts by reabsorption of ions from the filtrate in the nephrons.
+
+Amphibian kidneys function much like those of freshwater fishes. When in fresh water, the skin of the frog accumulates certain salts from the water by active transport, and the kidneys excrete dilute urine. On land, where dehydration is the most pressing problem of osmoregulation, frogs conserve body fluid by reabsorbing water across the epithelium of the urinary bladder.
+
+Bony fishes that live in seawater, being hypoosmotic to their surroundings, have the opposite problem of their freshwater relatives. In many species, nephrons lack glomeruli and Bowman's capsules, and concentrated urine is formed by secreting ions into the excretory tubules. Thus, as mentioned previously, the kidneys of marine fishes excrete very little urine and function mainly to get rid of divalent ions such as Ca2+, Mg2+, and SO42-, which the fish takes in by its incessant drinking of seawater. Its gills excrete mainly monovalent ions such as Na+ and Cl- and the bulk of its nitrogenous wastes in the form of NH4+ (ammonium ion).
+
+
+
+

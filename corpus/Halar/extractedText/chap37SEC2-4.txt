@@ -1,0 +1,40 @@
+
+ Soil characteristics are key environmental factors in terrestrial ecosystems
+
+The texture and chemical composition of soil are major factors determining what kinds of plants can grow well in a particular location, be it a natural ecosystem or an agricultural region. (Climate, of course, is another important factor.) Plants that grow naturally in a certain type of soil are adapted to its mineral content and texture and are able to absorb water and extract essential nutrients from that soil. In interacting with the soil that supports their growth, plants, in turn, affect the soil, as we will soon see. The soil-plant interface is a critical component of the chemical cycles that sustain terrestrial ecosystems.
+
+Texture and Composition of Soils
+
+Soil has its origin in the weathering of solid rock. Water that seeps into crevices and freezes in winter fractures the rock, and acids dissolved in the water also help to break down the rock. Once organisms are able to invade the rock, they accelerate the breakdown. Lichens, fungi, bacteria, mosses, and the roots of vascular plants all secrete acids, and the expansion of roots growing in fissures cracks rocks and pebbles. The eventual result of all this activity is topsoil, a mixture of particles derived from rock, living organisms, and humus, a residue of partially decayed organic material. The topsoil and other distinct soil layers, or horizons, are often visible in vertical profile where there is a roadcut or deep hole (FIGURE 37.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 37-5. Soil horizons. This researcher is photographing a vertical profile of three soil layers, or horizons, in a Tennessee cotton field.
+
+The texture of topsoil depends on the size of its particles, which are classified in a range from coarse sand to microscopic clay particles. The most fertile soils are usually loams, made up of roughly equal amounts of sand, silt (particles of intermediate size), and clay. Loamy soils have enough fine particles to provide a large surface area for retaining minerals and water, which adhere to the particles. But loams also have enough coarse particles to provide air spaces containing oxygen that can be used by roots for cellular respiration. If soil does not drain adequately, roots suffocate because the air spaces are replaced by water; the roots may also be attacked by molds favored by the soaked soil. These are common hazards for houseplants that are overwatered in pots with poor drainage. Some plants, however, are adapted to waterlogged soil. For example, mangroves that inhabit swamps and marshes have some of their roots modified as hollow tubes that grow upward and function as snorkels, bringing down oxygen from the air.
+
+Topsoil is home to an astonishing number and variety of organisms. A teaspoon of soil has about 5 billion bacteria that cohabit with various fungi, algae and other protists, insects, earthworms, nematodes, and the roots of plants. The activities of all these organisms affect the physical and chemical properties of the soil. Earthworms, for instance, aerate the soil by their burrowing and add mucus that holds fine soil particles together. The metabolism of bacteria alters the mineral composition of the soil. Plant roots extract water and minerals but also affect soil pH and reinforce the soil against erosion.
+
+Humus, an important component of topsoil, is the decomposing organic material formed by the action of bacteria and fungi on dead organisms, feces, fallen leaves, and other organic refuse. Humus prevents clay from packing together and builds a crumbly soil that retains water but is still porous enough for the adequate aeration of roots. Humus is also a reservoir of mineral nutrients that are returned gradually to the soil as microorganisms decompose the organic matter.
+
+The Availability of Soil Water and Minerals
+
+After a heavy rainfall, water drains away from the larger spaces of the soil, but smaller spaces retain water because of its attraction for the soil particles, which have electrically charged surfaces. Some of this water adheres so tightly to the hydrophilic soil particles that it cannot be extracted by plants. The film of water bound less tightly to the particles is the water generally available to plants (FIGURE 37.6a, p. 772). It is not pure water, but a soil solution containing dissolved minerals. Roots absorb this soil solution.
+
+
+
+Click image to enlarge
+
+
+
+Fig 37-6. The availability of soil water and minerals.
+
+Many minerals in soil--especially those that are positively charged, such as potassium (K+), calcium (Ca2+), and magnesium (Mg2+)--adhere by electrical attraction to the negatively charged surfaces of clay particles. The presence of clay in a soil helps prevent the leaching (draining away) of mineral nutrients during heavy rain or irrigation because the finely divided particles provide so much surface area for binding minerals. However, clay particles must release their bound minerals to the soil solution in order for roots to absorb the nutrients. Minerals that are negatively charged, such as nitrate (NO3-), phosphate (H2PO4-), and sulfate (SO42-), are usually not bound tightly to soil particles and thus tend to leach away more quickly. Positively charged minerals are made available to the plant when hydrogen ions in the soil displace the mineral ions from the clay particles. This process, called cation exchange, is stimulated by the roots themselves, which secrete H+ and compounds that form acids in the soil solution (FIGURE 37.6b).
+
+
+
+

@@ -1,0 +1,20 @@
+
+ Most macromolecules are polymers
+
+The large molecules in three of the four classes of life's organic compounds--carbohydrates, proteins, and nucleic acids--are chainlike molecules called polymers (from the Greek polys, many, and meris, part). A polymer is a long molecule consisting of many similar or identical building blocks linked by covalent bonds, much as a train consists of a chain of cars. The repeating units that serve as the building blocks of a polymer are small molecules called monomers. Some of the molecules that serve as monomers also have other functions of their own.
+
+The classes of polymeric macromolecules differ in the nature of their monomers, but the chemical mechanisms that cells use to make and break polymers are basically the same in all cases (FIGURE 5.2). Monomers are connected by a reaction in which two molecules are covalently bonded to each other through loss of a water molecule; this is called a condensation reaction, specifically a dehydration reaction, because the molecule lost is water (FIGURE 5.2a). When a bond forms between two monomers, each monomer contributes part of the water molecule that is lost: One molecule provides a hydroxyl group (--OH), while the other provides a hydrogen (--H). To make a polymer, this reaction is repeated as monomers are added to the chain one by one. The cell must expend energy to carry out these dehydration reactions, and the process occurs only with the help of enzymes, specialized proteins that speed up chemical reactions in cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-2. The synthesis and breakdown of polymers.
+
+Polymers are disassembled to monomers by hydrolysis, a process that is essentially the reverse of the dehydration reaction (FIGURE 5.2b). Hydrolysis means to break with water (from the Greek hydro, water, and lysis, break). Bonds between monomers are broken by the addition of water molecules, a hydrogen from the water attaching to one monomer and a hydroxyl attaching to the adjacent monomer. An example of hydrolysis working in our bodies is the process of digestion. The bulk of the organic material in our food is in the form of polymers that are much too large to enter our cells. Within the digestive tract, various enzymes attack the polymers, speeding up hydrolysis. The released monomers are then absorbed into the bloodstream for distribution to all body cells. Those cells can then use dehydration reactions to assemble the monomers into new polymers that differ from the ones that were digested.
+
+
+
+

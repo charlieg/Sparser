@@ -1,0 +1,64 @@
+
+Chapter 5: THE STRUCTURE AND FUNCTION OF MACROMOLECULES
+
+POLYMER PRINCIPLES
+
+   Most macromolecules are polymers
+
+   An immense variety of polymers can be built from a small set of monomers
+
+
+
+CARBOHYDRATES--FUEL AND BUILDING MATERIAL
+
+   Sugars, the smallest carbohydrates, serve as fuel and carbon sources
+
+   Polysaccharides, the polymers of sugars, have storage and structural roles
+
+
+
+LIPIDS--DIVERSE HYDROPHOBIC MOLECULES
+
+   Fats store large amounts of energy
+
+   Phospholipids are major components of cell membranes
+
+   Steroids include cholesterol and certain hormones
+
+
+
+PROTEINS--MANY STRUCTURES, MANY FUNCTIONS
+
+   A polypeptide is a polymer of amino acids connected in a specific sequence
+
+   A protein's function depends on its specific conformation
+
+
+
+NUCLEIC ACIDS--INFORMATIONAL POLYMERS
+
+   Nucleic acids store and transmit hereditary information
+
+   A nucleic acid strand is a polymer of nucleotides
+
+   Inheritance is based on replication of the DNA double helix
+
+   We can use DNA and proteins as tape measures of evolution
+
+We have applied the concept of emergent properties to our study of water and relatively simple organic molecules. These substances are central to life, each one having unique behavior arising from the orderly arrangement of its atoms. Another level in the hierarchy of biological organization is reached when cells join small organic molecules together to form larger molecules. The four main classes of large biological molecules are carbohydrates, lipids, proteins, and nucleic acids. Many of these cellular molecules are, on the molecular scale, huge. For example, a protein may consist of thousands of covalently connected atoms that form a molecular colossus weighing over 100,000 daltons. Biologists use the term macromolecule for such giant molecules.
+
+Considering the size and complexity of macromolecules, it is remarkable that biochemists have determined the detailed structures of so many of them (FIGURE 5.1). The architecture of a macromolecule helps explain how that molecule works. For example, the pleated structure of the silk protein from which the orb spider in the photo on this page weaves its web gives the fibers their strength and springiness. Proteins and the other large molecules of life are the main subject of this chapter. For these molecules, as at all levels in the biological hierarchy, form and function are inseparable.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 5-1. Building models to study the structure of macromolecules. (a) Linus Pauling (1901-1994) with a model of part of a protein. In the 1950s, Pauling discovered several of the basic structural features of proteins, which he demonstrated by building physical models. (b) Today, scientists use computers to help build molecular models, but the goal remains the same: to correlate the structure of macromolecules with their functions.
+
+
+
+

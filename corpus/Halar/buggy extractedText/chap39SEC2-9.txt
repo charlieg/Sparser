@@ -1,0 +1,82 @@
+
+ Plants respond to environmental stimuli through a combination of developmental and physiological mechanisms
+
+Responses to Gravity
+
+Since plants are solar-powered organisms, it is not surprising that mechanisms for growing toward sunlight have evolved. But what environmental cue does the shoot of a young seedling use to grow upward when it is completely underground and there is no light for it to detect? Similarly, what environmental factor prompts the young root to grow downward? The answer to both questions is gravity.
+
+Place a seedling on its side, and it will adjust its growth so that the shoot bends upward and the root curves downward. In their responses to gravity, or gravitropism, roots display positive gravitropism and shoots exhibit negative gravitropism. Gravitropism functions as soon as a seed germinates, ensuring that the root grows into the soil and the shoot reaches sunlight regardless of how the seed happens to be oriented when it lands. Auxin plays a major role in gravitropic responses.
+
+Plants may tell up from down by the settling of statoliths, specialized plastids containing dense starch grains, to the lower portions of cells (FIGURE 39.25). In roots, statoliths are located in certain cells of the root cap. According to one hypothesis, the aggregation of statoliths at the low points of these cells triggers the redistribution of calcium, which in turn causes lateral transport of auxin within the root. The calcium and auxin accumulate on the lower side of the root's zone of elongation. (Because these chemicals are dissolved, they do not respond to gravity but must be actively transported to one side of the root.) At high concentration, auxin inhibits cell elongation, an effect that slows growth on the lower side of the root. The more rapid elongation of cells on the upper side causes the root to curve as it grows. This tropism continues until the root is growing straight down.
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-25. The statolith hypothesis for root gravitropism. These corn roots were placed on their sides and photographed before (top) and 1.5 hours after initiation of the gravitropic response. The light micrographs show the locations of statoliths, modified plastids, within cells of the root cap. The settling of statoliths to the low points of these cells may be a gravity-sensing mechanism that leads to the redistribution of auxin and the differential rates of elongation by cells on opposite sides of the root
+
+Plant physiologists are refining the "falling statolith" hypothesis of root gravitropism as they try new experiments. For example, mutants of Arabidopsis and tobacco that lack statoliths are still capable of gravitropism, though the response is slower than in wild-type plants. It could be that the entire cell helps the root sense gravity by mechanically pulling on proteins that tether the protoplast to the cell wall, stretching the proteins on the "up" side and compressing the proteins on the "down" side of the root cells. Dense organelles (in addition to starch granules) may also contribute by distorting the cytoskeleton as they are pulled by gravity. Statoliths, because of their density, may enhance gravitational sensing by a mechanism that works more slowly in their absence.
+
+Responses to Mechanical Stimuli
+
+A tree growing on a windy mountain ridge will usually have a shorter, stockier trunk than a tree of the same species growing in a more sheltered location. The advantage of this stunting of growth is that it enables the plant to hold its ground against strong gusts of wind. The term thigmomorphogenesis (from the Greek thigma, touch) refers to the changes in form that result from mechanical perturbation. Plants are very sensitive to mechanical stress: Some researchers have found that even the act of measuring the length of a leaf with a ruler alters its subsequent growth.
+
+Rubbing the stems of a young plant a few times results in plants that are shorter than controls (FIGURE 39.26). Mechanical stimulation activates a signal-transduction pathway involving an increase in cytoplasmic calcium that, in turn, mediates the activation of specific genes, some of which encode for proteins that affect cell wall properties.
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-26. Altering gene expression by touch in Arabidopsis. The shorter plant on the left was touched twice a day. The unmolested plant (right) grew much taller.
+
+Some plant species have become, over the course of their evolution, "touch specialists." Acute responsiveness to mechanical stimuli is an integral part of these plants' life "strategies." Most vines and other climbing plants have tendrils that coil rapidly around supports (see FIGURE 35.6a). These grasping organs usually grow straight until they touch something; the contact stimulates a coiling response caused by differential growth of cells on opposite sides of the tendril. This directional growth in response to touch is called thigmotropism, and it allows the vines to take advantage of whatever mechanical supports it comes across as it climbs upward toward a forest canopy.
+
+Other examples of touch specialists are plants that undergo rapid leaf movements in response to mechanical stimulation. For example, when the compound leaf of the sensitive plant Mimosa is touched, it collapses and its leaflets fold together (FIGURE 39.27). This response, which takes only a second or two, results from a rapid loss of turgor by cells within pulvini, specialized motor organs located at the joints of the leaf. The motor cells suddenly become flaccid after stimulation because they lose potassium, which causes water to leave the cells by osmosis. It takes about ten minutes for the cells to regain their turgor and restore the "unstimulated" form of the leaf. The function of the sensitive plant's behavior invites speculation. Perhaps by folding its leaves and reducing its surface area when jostled by strong winds, the plant conserves water. Or perhaps because the collapse of the leaves exposes thorns on the stem, the rapid response of the sensitive plant discourages herbivores.
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-27. Rapid turgor movements by the sensitive plant (Mimosa pudica). (a) In the unstimulated plant, leaflets are spread apart. (b) Within a second or two of being touched, the leaflets have folded together. (c) In these light micrographs of a leaflet pair in the closed (stimulated) state, you can see the motor cells in the sectioned pulvini (motor organs). The curvature of a pulvinus is caused by motor cells on one side losing water and becoming flaccid while cells on the opposite side retain their turgor.
+
+A remarkable feature of rapid leaf movements is the mode of transmission of the stimulus through the plant. If one leaflet on a sensitive plant is touched, first that leaflet responds, then the adjacent leaflet responds, and so on until all the leaflet-pairs have folded together. From the point of stimulation, the signal that produces this response travels at a speed of about a centimeter per second. Traveling at the the same rate, an electrical impulse can be detected by attaching electrodes to the leaf. These impulses, called action potentials, resemble nervous-system messages in animals, though the action potentials of plants are thousands of times slower. Action potentials, which have been discovered in many species of algae and plants, may be widely used as a form of internal communication. Another example is the Venus flytrap, in which action potentials are transmitted from sensory hairs in the trap to the cells that respond by closing the trap (see FIGURE 37.16a). In the case of Mimosa, more violent stimuli, such as touching a leaf with a hot needle, causes all the leaves and leaflets on a plant to droop, but this systemic response involves the spread of chemical signals released from the injured area to other parts of the shoot.
+
+Responses to Stress
+
+Occasionally, factors in the environment change severely enough to have a potentially adverse effect on a plant's survival, growth, and reproduction. Environmental stresses, such as flooding, drought, or extreme temperatures can have a devastating impact on crop yields in agriculture. In natural ecosystems, plants that cannot tolerate an environmental stress will either succumb or be outcompeted by other plants, and they will become locally extinct. Thus, environmental stresses are also important in determining the geographic ranges of plants. Here, we consider some of the more common abiotic (nonliving) stresses that plants encounter. In the next section, we will examine the defensive responses of plants to common biotic (biological) stresses such as pathogens and herbivores.
+
+Drought.On a bright, warm, dry day, a plant may be stressed by a water deficiency because it is losing water by transpiration faster than the water can be restored by uptake from the soil. Prolonged drought can stress crops and the plants of natural ecosystems for weeks or months. Severe water deficit, of course, will kill a plant, as you may know from experience with neglected houseplants. But plants have control systems that enable them to cope with less extreme water deficits.
+
+Many of a plant's responses to water deficit help the plant conserve water by reducing the rate of transpiration. Water deficit in a leaf causes guard cells to lose turgor, a simple control mechanism that slows transpiration by closing stomata (see Chapter 36). Water deficit also stimulates increased synthesis and release of abscisic acid in the leaf, and this hormone helps keep stomata closed by acting on guard cell membranes. Leaves respond to water deficit in several other ways. Because cell expansion is a turgor-dependent process, a water deficit will inhibit the growth (expansion) of young leaves. This response minimizes the transpirational loss of water by slowing the increase in leaf surface. When the leaves of many grasses and other plants wilt from a water deficit, they roll into a shape that reduces transpiration by exposing less leaf surface to dry air and wind. While all of these responses of leaves help the plant conserve water, they also reduce photosynthesis. This is one reason a drought diminishes crop yield.
+
+Root growth also responds to water deficit. During a drought, the soil usually dries from the surface down. This inhibits the growth of shallow roots, partly because cells cannot maintain the turgor required for elongation. Deeper roots surrounded by soil that is still moist continue to grow. Thus, the root system proliferates in a way that maximizes exposure to soil water.
+
+Flooding.An overwatered houseplant may suffocate because the soil lacks the air spaces that provide oxygen for cellular respiration in the roots. Some plants are structurally adapted to very wet habitats. For example, the submerged roots of trees called mangroves, which inhabit coastal marshes, are continuous with aerial roots that provide access to oxygen. But how do plants less specialized for aquatic environments cope with oxygen deprivation in waterlogged soils? Oxygen deprivation stimulates the production of the hormone ethylene, which causes some of the cells in the root cortex to undergo apoptosis (programmed cell death). Enzymatic destruction of cells creates air tubes that function as "snorkels," providing oxygen to the submerged roots (FIGURE 39.28).
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-28. A developmental response of corn roots to flooding and oxygen deprivation. (a) A transverse section of a control root grown in an aerated hydroponic medium. (b) An experimental root grown in a nonaerated hydroponic medium. Ethylene-stimulated apoptosis (programmed cell death) creates the air tubes.
+
+Salt Stress.An excess of sodium chloride or other salts in the soil threatens plants for two reasons. First, by lowering the water potential of the soil solution, salt can cause a water deficit in plants even though the soil has plenty of water. This is because in an environment with a water potential more negative than that of the root tissue, roots will lose water rather than absorb it (see Chapter 36). The second problem with saline soil is that sodium and certain other ions are toxic to plants when their concentrations are relatively high. The selectively permeable membranes of root cells impede the uptake of most harmful ions, but this only aggravates the problem of acquiring water from soil that is rich in solutes. Many plants can respond to moderate soil salinity by producing compatible solutes, organic compounds that keep the water potential of cells more negative than that of the soil solution without admitting toxic quantities of salt. However, most plants cannot survive salt stress for long. The exceptions are halophytes, salt-tolerant plants with adaptations such as salt glands. These glands pump salts out across the leaf epidermis.
+
+Heat Stress.Excessive heat can harm and eventually kill a plant by denaturing its enzymes and damaging its metabolism in other ways. One function of transpiration is evaporative cooling. On a warm day, for example, the temperature of a leaf may be 3-10&#176;C below ambient air temperature. Of course, hot, dry weather also tends to cause water deficiency in many plants; the closing of stomata in response to this stress conserves water but sacrifices evaporative cooling. This dilemma is one of the reasons that very hot, dry days take such a toll on most plants.
+
+Most plants have a backup response that enables them to survive heat stress. Above a certain temperature--about 40&#176;C for most plants that inhabit temperate regions--plant cells begin synthesizing relatively large quantities of special proteins called heat-shock proteins. Researchers have also discovered this response in heat-stressed animals and microorganisms. Some heat-shock proteins are identical to chaperone proteins, which function in unstressed cells as temporary scaffolds that help other proteins fold into their functional shapes (see Chapter 5). In their roles as heat-shock proteins, perhaps these molecules embrace enzymes and other proteins and help prevent denaturation.
+
+Cold Stress.One problem plants face when the temperature of the environment falls is a change in the fluidity of cell membranes. Recall from Chapter 8 that a biological membrane is a fluid mosaic, with proteins and lipids moving laterally in the plane of the membrane. When a membrane cools below a critical point, it loses its fluidity as the lipids become locked into crystalline structures. This alters solute transport across the membrane and also adversely affects the functions of membrane proteins. Plants respond to cold stress by altering the lipid composition of their membranes. For example, membrane lipids increase in their proportion of unsaturated fatty acids, which have shapes that help keep membranes fluid at lower temperatures by impeding crystal formation (see FIGURE 8.4b). Such molecular modification of the membrane requires from several hours to days, which is one reason rapid chilling is generally more stressful to plants than the more gradual drop in air temperature that occurs seasonally.
+
+Freezing is a more severe version of cold stress. At subfreezing temperatures, ice forms in the cell walls and intercellular spaces of most plants. (The cytosol generally does not freeze at the cooling rates encountered in nature because it contains more solutes than the very dilute solution found in the cell wall--solutes depress the freezing point of a solution.) The reduction in liquid water in the cell wall caused by ice formation lowers the extracellular water potential, causing water to leave the cytoplasm. The resulting increase in the concentration of ionic salts in the cytoplasm is harmful and can lead to cell death. Whether the cell survives depends to a large extent on how resistant it is to dehydration. Plants native to regions where winters are cold have special adaptations that enable them to cope with freezing stress. For example, before the onset of winter, the cells of many frost-tolerant species increase their cytoplasmic levels of specific solutes, such as sugars, that are better tolerated at high concentrations, and which help reduce the loss of water from the cell during extracellular freezing.
+
+
+
+

@@ -1,0 +1,44 @@
+;;; -*- Mode: Lisp; Package:MUMBLE; Syntax: COMMON-LISP; Base:10; -*-
+;;;
+;;; mumble-86:interface>stand-alone>interface-utilities.lisp
+;;;
+;;; Copyright (C) 1985, 1986, 1987, 1988  David D. McDonald and the
+;;;    Mumble Development Group.  All rights reserved.
+;;;    Permission is granted to use and copy this file of the Mumble-86 system for
+;;;    non-commercial purposes.
+;;;
+
+(in-package "MUMBLE")
+
+
+;################################################################
+;    Utility functions required for the interface to Mumble
+;################################################################
+
+(defun SHORT-PRINT-FORM (obj)
+  "Constructs a string suitable as a short name for the object.
+   Used by the pretty printing routines in the browser."
+  (format nil "~a" obj))
+
+
+(defun MEMBER-OF-A-CLASS? (obj)
+  "Used by Instantiate-mapping. Does not make sense when there is
+   no underlying conceptual model, hence this definition for
+   purely stand-alone test demos."
+  (declare (ignore obj))
+  nil)
+
+
+(defun FIRST-MENTION? (obj)
+ "Used by Process-determiner-accessory in conjunction with the
+  determiner policy that will use `a' on first mentions and
+  `the' on subsequent mentions."
+  (declare (ignore obj))
+  t)
+
+
+;;used in characteristics -more complicated for some types
+ ;; of objects
+
+(defun ACTUAL-OBJECT (underlying-object)
+      underlying-object)

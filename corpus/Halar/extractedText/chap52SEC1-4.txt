@@ -1,0 +1,38 @@
+
+POPULATION-LIMITING FACTORS
+
+ 
+
+ Negative feedback prevents unlimited population growth
+
+
+
+ 
+
+ Population dynamics reflect a complex interaction of biotic and abiotic influences
+
+
+
+ 
+
+ Some populations have regular boom-and-bust cycles
+
+
+
+There are two general questions that we can ask about population growth. First, why do all populations eventually stop increasing? Exponential population growth is rare in nature and always of short duration. What environmental factors stop a population from growing? If we have an introduced weed that is spreading rapidly, what should we do to stop its population growth? Second, why is the population density of a particular species greater in some habitats than in others? Every bird-watcher can tell you what the favorable and unfavorable habitats are for any particular bird species. What determines a favorable habitat, and how do we turn an unfavorable habitat into a good one?
+
+These questions have many practical applications. A conservation biologist might want to turn a declining species population into an increasing one. And in agriculture, the objective may be to get a pest population to decrease. Moreover, agricultural pests may have severe effects in some areas and negligible effects in others. Why? Endangered species, meanwhile, such as humpback whales, require good habitats for survival. What environmental factors create a favorable feeding habitat for humpbacks? All these practical issues involve population-limiting factors. Regulation is one of this book's ten themes (see Chapter 1). In this section, we apply that theme to populations.
+
+The first step in understanding why a population stops growing is to find out how the rates of birth, death, immigration, and emigration change as population density rises. If immigration and emigration offset each other, then a population grows when the birth rate exceeds the death rate and declines when the death rate exceeds the birth rate. FIGURE 52.13 shows a simple graphical model of how a population may stop increasing and reach equilibrium. A death rate that rises as population density rises is said to be density dependent, as is a birth rate that falls with rising density. Density-dependent rates are an example of negative feedback, a type of regulation you learned about in Chapter 1. In contrast, a birth rate or death rate that does not change with population density is said to be density independent. With density-independent rates, there is no feedback to slow down population growth.
+
+
+
+Click image to enlarge
+
+
+
+Fig 52-13. Graphic model showing how equilibrium may be determined for population density. Population density reaches equilibrium only when the per capita birth rate equals the per capita death rate, and this is possible only if the birth or death rate (or both) changes with density (is a density-dependent rate). In this simple model, immigration and emigration are assumed to be either zero or equal.
+
+
+
+

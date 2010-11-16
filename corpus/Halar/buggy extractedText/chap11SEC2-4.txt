@@ -1,0 +1,8 @@
+
+ A signal molecule binds to a receptor protein, causing the protein to change shape
+
+A cell targeted by a particular chemical signal has molecules of a receptor protein that recognize the signal molecule. The signal molecule is complementary in shape to a specific site on the receptor and attaches there, like a key in a lock or a substrate in the catalytic site of an enzyme. The signal molecule behaves as a ligand, the term for a small molecule that specifically binds to a larger one. Ligand binding generally causes a receptor protein to undergo a change in conformation--that is, to change shape. For many receptors, this shape change directly activates the receptor so that it can interact with another cellular molecule. For other kinds of receptors, as we'll see shortly, the immediate effect of ligand binding is more limited, mainly causing the aggregation of two or more receptor molecules.
+
+
+
+

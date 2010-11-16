@@ -1,0 +1,28 @@
+
+ The mitotic phase alternates with interphase in the cell cycle: an overview
+
+Mitosis is just one part of the cell cycle (FIGURE 12.4). In fact, the mitotic (M) phase, which includes both mitosis and cytokinesis, is usually the shortest part of the cell cycle. Mitotic cell division alternates with a much longer interphase, which often accounts for about 90%  of the cycle. It is during interphase that the cell grows and copies its chromosomes in preparation for cell division. Interphase can be divided into subphases: the G1phase ("first gap"), the S phase, and the G2phase ("second gap"). During all three subphases, the cell grows by producing proteins and cytoplasmic organelles. However, chromosomes are duplicated only during the S phase (S stands for synthesis of DNA). Thus, a cell grows (G1), continues to grow as it copies its chromosomes (S), grows more as it completes preparations for cell division (G2), and divides (M). The daughter cells may then repeat the cycle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-4. The cell cycle. In a dividing cell, the mitotic (M) phase alternates with interphase, a growth period. The first part of interphase, called G1, is followed by the S phase, when the chromosomes replicate; the last part of interphase is called G2. In the M phase, mitosis divides the nucleus and distributes its chromosomes to the daughter nuclei, and cytokinessis divides the cytoplasm, producing two daughter cells.
+
+Time-lapse films of living, dividing cells reveal the dynamics of mitosis as a continuum of changes. For purposes of description, however, mitosis is conventionally broken down into five subphases: prophase, prometaphase, metaphase, anaphase, and telophase. FIGURE 12.5, on pages 218-219, describes these stages in an animal cell. Be sure to study this figure thoroughly before progressing to the next section, which examines mitosis more closely.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 12-5. The stages of mitotic cell division in an animal cell. The light micrographs show dividing lung cells from a newt, which has 22 chromosomes in its somatic cells. The chromosomes appear blue and the microtubules green. (The red fibers are intermediate filaments.) The schematic drawings show details not visible in the micrographs. For the sake of simplicity, only four chromosomes are drawn. (In plant cells, centrioles are lacking and cytokinesis occurs differently.
+
+
+
+

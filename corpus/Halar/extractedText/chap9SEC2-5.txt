@@ -1,0 +1,34 @@
+
+ The "fall" of electrons during respiration is stepwise, via NAD+ and an electron transport chain
+
+The wholesale release of energy from a fuel is difficult to harness efficiently for constructive work: The explosion of a gasoline tank cannot drive a car very far. Cellular respiration does not oxidize glucose in a single explosive step that transfers all the hydrogen from the fuel to the oxygen at one time. Rather, glucose and other organic fuels are broken down gradually in a series of steps, each one catalyzed by an enzyme. At key steps, hydrogen atoms are stripped from the glucose, but they are not transferred directly to oxygen. They are usually passed first to a coenzyme called NAD+ (nicotinamide adenine dinucleotide). Thus, NAD+ functions as an oxidizing agent during respiration.
+
+How does NAD+ trap electrons from glucose and other fuel molecules? Enzymes called dehydrogenases remove a pair of hydrogen atoms from the substrate, a sugar or some other fuel. We can think of this as the removal of two electrons and two protons (the nuclei of hydrogen atoms). The enzyme delivers the two electrons along with one proton to its coenzyme, NAD+ (FIGURE 9.4). The other proton is released as a hydrogen ion (H+) into the surrounding solution:  Though the oxidized form, NAD+, has a positive charge, the reduced form, NADH, is electrically neutral. By receiving two negatively charged electrons but only one positively charged proton, NAD+ has its charge neutralized. The name NADH for the reduced form shows the hydrogen that has been received in the reaction. Since NAD+ gains electrons, it is an electron acceptor (a synonym for oxidizing agent). The most versatile electron acceptor in cellular respiration, NAD+ functions in many of the redox steps during the breakdown of sugar.
+
+
+
+Click image to enlarge
+
+
+
+Fig 9-4. NAD+ as an electron shuttle. The full name for NAD+, nicotinamide adenine dinucleotide, describes its structure; the molecule consists of two nucleotides joined together. (Nicotinamide is a nitrogenous base, although not one that is present in DNA or RNA.) The enzymatic transfer of two electrons and one proton from some organic substrate to NAD+ reduces the NAD+ to NADH. Most of the electrons removed from food are transferred initially to NAD+.
+
+Electrons lose very little of their potential energy when they are transferred from food to NAD+. Each NADH molecule formed during respiration represents stored energy that can be tapped to make ATP when the electrons complete their "fall" from NADH to oxygen.
+
+How do electrons extracted from food and stored by NADH finally reach oxygen? It will help to compare this complex redox chemistry of cellular respiration to a much simpler reaction: the reaction between hydrogen and oxygen to form water (FIGURE 9.5a). Mix H2 and O2, provide a spark for activation energy, and the gases combine explosively. The explosion represents a release of energy as the electrons of hydrogen fall closer to the electronegative oxygen atoms. Cellular respiration also brings hydrogen and oxygen together to form water, but there are two important differences. First, in cellular respiration, the hydrogen that reacts with oxygen is derived from organic molecules rather than H2. Second, respiration uses an electron transport chain to break the fall of electrons to oxygen into several energy-releasing steps instead of one explosive reaction (FIGURE 9.5b). The transport chain consists of a number of molecules, mostly proteins, built into the inner membrane of a mitochondrion. Electrons removed from food are shuttled by NADH to the "top" end of the chain. At the "bottom" end, oxygen captures these electrons along with hydrogen nuclei (H+), forming water.
+
+
+
+Click image to enlarge
+
+
+
+Fig 9-5. An introduction to electron transport chains. (a) The uncontrolled exergonic reaction of hydrogen with oxygen to form water releases a large amount of energy in the form of heat and light: an explosion. (b) In cellular respiration, the same reaction occurs in stages: An electron transport chain breaks the "fall" of electrons in this reaction into a series of smaller steps and stores some of the released energy in a form that can be used to make ATP. (The rest of the energy is released as heat.)
+
+Electron transfer from NADH to oxygen is an exergonic reaction with a free-energy change of -53 kcal/mol (-222 kJ/mol). Instead of this energy being released and wasted in a single explosive step, electrons cascade down the chain from one carrier molecule to the next, losing a small amount of energy with each step until they finally reach oxygen, the terminal electron acceptor. What keeps the electrons moving is that each carrier is more electronegative than its "uphill" neighbor in the chain. At the bottom of the chain is oxygen, which has a very great affinity for electrons. Thus, electrons removed from food by NAD+ fall down the electron transport chain to a far more stable location in the electronegative oxygen atom. Put another way, oxygen pulls electrons down the chain in an energy-yielding tumble analogous to gravity pulling objects downhill.
+
+Thus, during cellular respiration, most electrons travel this "downhill" route: food  NADH  electron transport chain 8n oxygen. In the next major section of the chapter, you will learn more about how the cell uses the energy released from this exergonic electron fall to regenerate its supply of ATP.
+
+
+
+

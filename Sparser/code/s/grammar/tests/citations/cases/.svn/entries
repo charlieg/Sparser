@@ -1,0 +1,52 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/tests/citations/cases
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+new-ones.lisp
+file
+
+
+
+
+2007-01-04T03:35:52.000000Z
+41f469988b04a29b2371739991d48c5a
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+loader.lisp
+file
+
+
+
+
+2007-01-04T03:35:52.000000Z
+643c4f6c8ca5d8ddaf365e070edccbf3
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+systematically-organized.lisp
+file
+
+
+
+
+2007-01-04T03:35:52.000000Z
+8df448313f3cb7d5445ad56546fd2273
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+

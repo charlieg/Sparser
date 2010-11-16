@@ -1,0 +1,12 @@
+
+ Cells require a balance between osmotic gain and loss of water
+
+All animals--regardless of phylogeny, habitat, or type of nitrogenous waste--face the same central problem of osmoregulation: Over time, the rates of water uptake and loss must balance. Animal cells--which lack cell walls--swell and burst if there is a continuous net uptake of water or shrivel and die if there is a substantial net loss of water.
+
+Water enters and leaves cells by osmosis. Recall from Chapter 8 that osmosis, a special case of diffusion, is the movement of water across a selectively permeable membrane. It occurs whenever two solutions separated by the membrane differ in osmotic pressure, or osmolarity (total solute concentration expressed as molarity, or moles of solute per liter of solution; see Chapter 3). The unit of measurement for osmolarity used in this chapter is milliosmoles per liter (mosm/L); 1 mosm/L is equivalent to a total solute concentration of 10-3M. The osmolarity of human blood is about 300 mosm/L, while seawater has an osmolarity of about 1,000 mosm/L. Two solutions separated by a selectively permeable membrane are said to be isoosmotic if they have the same osmolarity.
+
+There is no net movement of water by osmosis between isoosmotic solutions (although water molecules are continually crossing the membrane, they do so at equal rates in both directions). When two solutions differ in osmolarity, the one with the greater concentration of solutes is referred to as hyperosmotic and the more dilute solution as hypoosmotic. Water flows by osmosis from a hypoosmotic solution to a hyperosmotic one.*
+
+
+
+

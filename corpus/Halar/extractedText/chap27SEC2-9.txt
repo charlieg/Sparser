@@ -1,0 +1,22 @@
+
+ Molecular systematics is leading to a phylogenetic classification of prokaryotes
+
+A classification of prokaryotic life that reflects evolutionary history was impossible until the development of molecular systematics. Neither the fossil record nor comparative morphology are of much help in working out details of prokaryotic phylogeny. The major lineages diverged during the very early history of life and left a limited fossil record. And because prokaryotes are so structurally simple compared to macroscopic, eukaryotic organisms, comparing the structure of modern prokaryotic species does not turn up much in the way of derived characters that are useful in cladistic analysis (see Chapter 25).
+
+The breakthrough came when Carl Woese and his colleagues, mentioned earlier, began to cluster contemporary prokaryotes into taxonomic groups based on comparisons of nucleic acid sequences. The molecular material that turned out to be particularly useful is the RNA found in the smaller of the two subunits of ribosomes. Because all cells have ribosomes, Woese reasoned that the gene for the small-subunit ribosomal RNA (SSU-rRNA) has a history extending from the very first prokaryotes to the entire diversity of modern life. Each group of organisms has signature sequences, regions of its SSU-rRNA that have unique nucleotide sequences acquired by an accumulation of mutations in the ancestor of that taxonomic group. Thus, Woese found a way to define the very deepest branchings in the tree of life. FIGURE 27.13 (p. 536) diagrams the phylogeny of some of the major groups of prokaryotes as sorted by molecular systematics.
+
+
+
+Click image to enlarge
+
+
+
+Fig 27-13. Some major groups of prokaryotes. This tentative phylogeny, like all such trees, is a hypothesis about evolutionary history. This simplified tree--consisting only of those prokaryotic groups that are discussed in this chapter--is based on molecular systematics, particularly comparisons of SSU-rRNA signature sequences. The groups shown here might be considered kingdoms within domains Bacteria and Archaea. However, many systematists prefer to wait for more data before assigning the groups to ranked taxonomic categories, such as kingdoms and phyla. This tree includes a "universal ancestor" common to all life, but we'll see evidence in Chapter 28 that the deepest branchings of life may have emerged not from a single ancestor but from an ancestral community of gene-swapping prokaryotes.
+
+Before molecular systematics, prokaryotic taxonomy was based on such phenotypic characters as nutritional mode and gram-positive versus gram-negative staining behavior (see FIGURE 27.5). Such criteria remain useful for the identification of pathogenic bacteria in the clinical labs of hospitals. The telltale signs of a particular bacterial species cultured from a patient's blood or other body fluid may be its shape as viewed with a microscope, its response to the Gram stain, whether or not the pathogen is motile, and what nutrients are required to grow the bacteria on a culture medium. For the most part, however, these clinically useful phenotypes are a poor guide to phylogeny. We have seen, for example, how the various nutritional modes are scattered around the phylogenetic tree of prokaryotes. However, a few of the traditional phenotype-based groups do persist in a phylogenetic classification based on molecular methods. For instance, note in FIGURE 27.13 that the cyanobacteria and the spirochetes cluster into two distinct lineages in the prokaryotic phylogeny. And although the gram-positive bacteria are very diverse, they all cluster into a single major prokaryotic branch. However, the gram-negative bacteria are scattered throughout several lineages; there are even some species that are gram-negative in staining behavior but are now included in the taxon called "gram-positive," so named because most of its members are gram-positive.
+
+Researchers have now sequenced the complete ge nomes of several prokaryotes, producing an enormous database that has supported most of the taxonomic conclusions based on SSU-rRNA comparison but has also produced some surprises. For example, in Chapter 28 we'll discuss how rampant gene swapping within early communities of prokaryotes left a record in the genomes of all modern organisms, including humans.
+
+
+
+

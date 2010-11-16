@@ -1,0 +1,40 @@
+
+ Limited resources mandate trade-offs between investments in reproduction and survival
+
+Darwinian fitness is measured not by how many offspring are produced but by how many survive to produce their own offspring: Heritable characteristics of life history that result in the most reproductively successful descendants will become more common within the population. If we were to construct a hypothetical life history that would yield the greatest lifetime reproductive output, we might imagine a population of individuals that begin reproducing at an early age, produce many offspring each time they reproduce, and reproduce many times in a lifetime. However, natural selection cannot maximize all these variables simultaneously, because organisms have finite resources, and limited resources mean trade-offs. Ecologists who study the evolution of life histories focus on how these trade-offs operate in specific populations. For example, the production of many offspring with little chance of survival may result in fewer descendants than the production of a few well-cared-for offspring that can compete vigorously for limited resources in an already dense population.
+
+The life histories we observe in organisms represent an evolutionary resolution of several conflicting demands. Time, energy, and nutrients that are used for one thing cannot be used for something else. In the broadest sense, there is a trade-off between reproduction and survival, and this has been demonstrated by several studies. For example, in red deer on the Scottish island of Rhum, females that reproduce in one summer suffer higher mortality over the following winter than do females that did not reproduce (FIGURE 52.5). This cost of reproduction was found even in red deer in the prime of life, but was particularly severe in the older females. And in many insect species, females that lay fewer eggs live longer, suggesting a similar trade-off between investing in current reproduction and survival. There can also be trade-offs between current and future reproduction. When perennial plants produce more seeds in one year, they grow less and have reduced seed production the next year. Moreover, experimental transfers of eggs or nestlings in bird populations have measured the trade-off between reproductive effort and survival. When nestlings of European kestrels were transferred among nests to produce broods of three or four (reduced), five or six (normal), and seven or eight (enlarged), adult kestrels that raised the enlarged broods survived poorly over the following winter (FIGURE 52.6).
+
+
+
+Click image to enlarge
+
+
+
+Fig 52-5. Cost of reproduction in female red deer on the island of Rhum, in Scotland. Mortality in winter is higher for females that reproduced during the previous summer, no matter what the age of the female.
+
+
+
+Click image to enlarge
+
+
+
+Fig 52-6. Probability of survival over the following year for European kestrels after raising a modified brood. A total of 200 birds were studied from 1985 to 1990 in the Netherlands. Adults with experimentally enlarged broods die more often over the following winter. (Both males and females provide parental care for the nestlings.)
+
+As in our red deer and kestrel examples, many life history issues involve balancing the profit of immediate investment in offspring against the cost to future prospects of survival and reproduction. These issues can be summarized by three basic "decisions": when to begin reproducing, how often to breed, and how many offspring to produce during each reproductive episode. The various "choices" are integrated into the life history patterns we see in nature. It is important to clarify our use of the word choice. Organisms do not choose consciously when to breed and how many offspring to have. (Humans are an important exception we will consider later in the chapter.) Life history traits are evolutionary outcomes reflected in the development, physiology, and behavior of an organism. Age at maturity and the number of offspring produced during a given reproductive episode are usually maintained within narrow ranges by stabilizing selection (see Chapter 23). Natural selection molds reproductive patterns in populations; such patterns are not consciously chosen by the organism.
+
+As with all life history adaptations, the number and size of offspring depend on the selective pressures under which the organism evolved. Plants and animals whose young are subject to high mortality rates often produce large numbers of relatively small offspring (FIGURE 52.7a). Thus, plants that colonize disturbed environments usually produce many small seeds, most of which will not reach a suitable environment. Small size might actually benefit such seeds if it enables them to be carried long distances. Birds and mammals that suffer high predation rates also produce large numbers of offspring; examples include quail, rabbits, and mice. In other organisms, extra investment on the part of the parent greatly increases the offspring's chances of survival. Oak, walnut, and coconut trees all have large seeds with a large store of energy and nutrients that the seedlings can use to become established (FIGURE 52.7b). In animals, parental investment in offspring does not always end with incubation or gestation. Primates generally have only one or two offspring at a time. Parental care and an extended period of learning in the first several years of life are very important to offspring fitness in these mammals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 52-7. Variation in seed crop size in plants. (a) Most weedy plants, such as this dandelion, grow quickly and produce a large number of seeds. Although most of the seeds will not produce mature plants, their large number and ability to disperse to new habitats ensure that at least some will grow and eventually produce seeds themselves. (b) Some plants, such as this coconut palm, produce a moderate number of very large seeds. The large endosperm provides nutrients for the embryo (a plant's version of parental care), an adaptation that helps ensure the success of a relatively large fraction of offspring. Animal species exhibit similar trade-offs between number of offspring and the amount of nutrients provided to each offspring.
+
+Now that we have analyzed some patterns that underlie diverse life histories, let's examine the effects of these life history traits on the growth of populations.
+
+
+
+

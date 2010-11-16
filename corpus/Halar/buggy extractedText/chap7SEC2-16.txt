@@ -1,0 +1,20 @@
+
+ Intercellular junctions help integrate cells into higher levels of structure and function
+
+The many cells of an animal or plant are organized into tissues, organs, and organ systems. Neighboring cells often adhere, interact, and communicate through special patches of direct physical contact.
+
+It might seem that the nonliving cell walls of plants would isolate cells from one another. In fact, as already mentioned, plant cell walls are perforated with channels called plasmodesmata (singular, plasmodesma; from the Greek desmos, to bind). Cytosol passes through the plasmodesmata and connects the living contents of adjacent cells (see FIGURES 7.8 and 7.28). This unifies most of the plant into one living continuum. The plasma membranes of adjacent cells are continuous through a plasmodesma; the membrane lines the channel. Water and small solutes can pass freely from cell to cell, and recent experiments have shown that in certain circumstances, particular proteins and RNA molecules can also do this. The macromolecules to be transported to neighboring cells seem to reach the plasmodesmata by moving along fibers of the cytoskeleton.
+
+In animals, there are three main types of intercellular junctions: tight junctions, desmosomes, and gap junctions. All three types are especially common in epithelial tissue, which lines the internal surfaces of the body. FIGURE 7.30 uses epithelial cells of the intestinal lining to illustrate the junctions. Each kind of junction has a structure well adapted for its function. At tight junctions, the membranes of neighboring cells are actually fused. Forming continuous belts around the cells, these junctions prevent leakage of extracellular fluid across a layer of epithelial cells. In our example, the tight junctions of the intestinal epithelium keep the contents of the intestine separate from the body fluid on the opposite side of the epithelium. Desmosomes (also called anchoring junctions) function like rivets, fastening cells together into strong sheets. Intermediate filaments made of the sturdy protein keratin reinforce desmosomes. Gap junctions (also called communicating junctions) provide cytoplasmic channels between adjacent animal cells. Special membrane proteins surround each pore, which is wide enough for salt ions, sugars, amino acids, and other small molecules to pass. In the muscle tissue of the heart, the flow of ions through gap junctions coordinates the contractions of the cells. Gap junctions are especially common in animal embryos, in which chemical communication between cells is essential for development.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-30. Intercellular junctions in animal tissues. Epithelial cells lining the intestine illustrate the three main kinds of intercellular junctions (TEMs).
+
+
+
+

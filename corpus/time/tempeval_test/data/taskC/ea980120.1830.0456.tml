@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+
+<TempEval>
+
+
+
+
+ ea<TIMEX3 tid="t13" type="DATE" value="1998-01-20" temporalFunction="false" functionInDocument="CREATION_TIME">980120</TIMEX3>.1830.0456 
+ NEWS STORY 
+
+
+
+
+
+ <s>The Pentagon <EVENT eid="e1" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> <TIMEX3 tid="t14" type="DATE" value="1998-01-20" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">today</TIMEX3> it  will <EVENT eid="e2" mainevent="NO" class="I_ACTION" stem="re-examine" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">re-examine</EVENT> the <EVENT eid="e17" mainevent="NO" class="I_STATE" stem="question" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">question</EVENT> are the remains inside the Tomb of the Unknown from the Vietnam War, in fact, <EVENT eid="e5" mainevent="NO" class="OCCURRENCE" stem="known" tense="PRESENT" aspect="NONE" polarity="POS" pos="ADJECTIVE">known</EVENT>?</s>
+
+ <s>CBS News first <EVENT eid="e6" mainevent="YES" class="REPORTING" stem="report" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">reported</EVENT> <TIMEX3 tid="t15" type="TIME" value="1998-01-19TNI" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">last night</TIMEX3> that the tomb may <EVENT eid="e7" mainevent="NO" class="OCCURRENCE" stem="contain" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">contain</EVENT> the remains of Air Force pilot Michael Blassie.</s>
+
+ <s>There was a <EVENT eid="e18" mainevent="YES" class="I_STATE" stem="suspicion" tense="PAST" aspect="NONE" polarity="POS" pos="NOUN">suspicion</EVENT> the body <EVENT eid="e20" mainevent="NO" class="STATE" stem="was" tense="PAST" aspect="NONE" polarity="POS" pos="OTHER">was</EVENT> Blassie because his uniform and ID card  were <EVENT eid="e9" mainevent="NO" class="OCCURRENCE" stem="find" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">found</EVENT> near the body in Vietnam.</s> <s>But subsequently, they  were <EVENT eid="e10" mainevent="YES" class="OCCURRENCE" stem="lose" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">lost</EVENT>.</s> <s>Blassie's mother <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">now</TIMEX3> <EVENT eid="e11" mainevent="YES" class="I_STATE" stem="want" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">wants</EVENT> the remains in the tomb <EVENT eid="e12" mainevent="NO" class="OCCURRENCE" stem="test" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">tested</EVENT> for DNA.</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e11" eventID="e10" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e18" eventID="e6" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e10" eventID="e18" task="C"/>
+
+</TempEval>

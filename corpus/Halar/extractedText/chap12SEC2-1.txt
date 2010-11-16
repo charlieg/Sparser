@@ -1,0 +1,22 @@
+
+ Cell division functions in reproduction, growth, and repair
+
+When a unicellular organism such as Amoeba divides to form duplicate offspring, the division of one cell reproduces an entire organism (FIGURE 12.1a, p. 216), and cell division on a larger scale can produce progeny from some multicellular organisms (such as plants that grow from cuttings). But cell division also enables sexually reproducing organisms to develop from a single cell--the fertilized egg, or zygote (FIGURE 12.1b). And after an organism is fully grown, cell division continues to function in renewal and repair, replacing cells that die from normal wear and tear or accidents. For example, dividing cells in your bone marrow continuously make new blood cells (FIGURE 12.1c).
+
+a.
+
+b.
+
+c.
+
+Click image to enlarge
+
+
+
+Fig 12-1. 12.1 The functions of cell division (all LMs).
+
+The reproduction of an ensemble as complex as a cell cannot occur by a mere pinching in half; the cell is not like a soap bubble that simply enlarges and splits in two. Cell division involves the distribution of identical genetic material--DNA--to two daughter cells. What is most remarkable about cell division is the fidelity with which the DNA is passed along, without dilution, from one generation of cells to the next. A dividing cell duplicates its DNA, allocates the two copies to opposite ends of the cell, and only then splits into daughter cells.
+
+
+
+

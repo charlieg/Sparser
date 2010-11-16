@@ -1,0 +1,10 @@
+props-format: 2 
+source:  
+case: Mixed 
+language: English 
+encoding: 8859_1 
+nameclasses: QA-Answers 
+annotator: jeachus 
+status: Annotating 
+lastsaved: December 27, 2005 1:03:51 PM 
+checksum: 1451986343 

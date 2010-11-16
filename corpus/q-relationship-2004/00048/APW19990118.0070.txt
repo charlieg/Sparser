@@ -1,0 +1,23 @@
+SAN JOSE , Calif .
+-LRB- AP -RRB- -- Intel Corp. plans to build computer chips that can help scramble data to keep it secret , a move that could boost business on the Internet as information and transactions become more secure .
+However , Intel 's innovation could also conflict with restrictions on the export of data scrambling technology , imposed by the government to protect the nation from criminals and terrorists .
+`` We 're entering an age where e-commerce transactions will be conducted on a global network consisting of a billion connected personal computers , '' said Michael Glance , general manager of Intel 's platform security division .
+However , David Wu , an analyst with the bank ABN Amro Inc. , in San Francisco , said Intel may face obstacles to selling the technology overseas .
+`` These high performance chips are going to get Internet commerce more safe , '' he said .
+`` It helps the overall computer industry , but Intel may have to use good , persuasive lobbyists and lawyers in Washington to get them accepted . ''
+Data scrambling technology , known as encryption , has mostly been the product of software companies , who add it to programs used to surf the Internet such as browsers .
+The U.S. Department of Commerce has imposed limits on export of the most powerful encryption technology , fearing it could fall into the hands of criminals and terrorists , who would be able to send messages to each other that law enforcement authorities wo n't be able to read .
+The high-tech industry has long protested the restrictions , saying they were hurting business and accomplished little because foreign competitors were also selling the technology On Monday Intel -- which has about 85 percent of the computer chip market -- stepped into the field .
+It plans to develop computer chips that incorporate Intel hardware and leading software security tools by RSA Data Security Inc. , of San Mateo , Calif .
+Intel discussed the plans Monday at a security conference in San Jose sponsored by RSA .
+Glance , the Intel manager , would n't comment on how the company plans to get around the export restrictions .
+Officials of the U.S. Department of Commerce , which imposes the encryption regulations , were unavailable for comment Monday because of the federal Martin Luther King Jr. holiday .
+Mario Morales of the high tech research firm International Data Corp. , said Intel 's chips will be part of a growing trend .
+`` Because the market is driven by the Internet , most of the equipment is going to have to include this encryption technology , '' he said .
+The government has made some recent moves to relax the restrictions on encryption technology .
+In late December , the Commerce Department allowed U.S. companies to export technology that uses the so-called 56-bit data encryption standard or its equivalent .
+This standard has an unlocking key with 72 quadrillion possible combinations , but it is n't the most powerful encryption standard .
+The government also allows more-powerful encryption products to be exported by specialized industries such as insurance and health care to 46 countries .
+It also allows sales by U.S. companies to their overseas subsidiaries .
+One of the early companies to create hardware with security capabilities , Hewlett - Packard Co. announced Monday that it has received approval from the Department of Commerce to export its hardware -based VerSecure technology to nine additional countries , bringing the total to 17 countries representing more than 80 percent of Internet users worldwide .
+Hewlett - Packard 's VerSecure program head Doug McGowan said the changing status of export laws and policies makes it `` very challenging for manufacturers to design strong security into exportable products . ''

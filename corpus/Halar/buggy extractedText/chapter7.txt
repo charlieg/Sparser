@@ -1,0 +1,800 @@
+
+Chapter 7: A TOUR OF THE CELL
+
+HOW WE STUDY CELLS
+
+   Microscopes provide windows to the world of the cell
+
+   Cell biologists can isolate organelles to study their functions
+
+
+
+A PANORAMIC VIEW OF THE CELL
+
+   Prokaryotic and eukaryotic cells differ in size and complexity
+
+   Internal membranes compartmentalize the functions of a eukaryotic cell
+
+
+
+THE NUCLEUS AND RIBOSOMES
+
+   The nucleus contains a eukaryotic cell's genetic library
+
+   Ribosomes build a cell's proteins
+
+
+
+THE ENDOMEMBRANE SYSTEM
+
+   The endoplasmic reticulum manufactures membranes and performs many other biosynthetic functions
+
+   The Golgi apparatus finishes, sorts, and ships cell products
+
+   Lysosomes are digestive compartments
+
+   Vacuoles have diverse functions in cell maintenance
+
+
+
+OTHER MEMBRANOUS ORGANELLES
+
+   Mitochondria and chloroplasts are the main energy transformers of cells
+
+   Peroxisomes generate and degrade H2O2 in performing various metabolic functions
+
+
+
+THE CYTOSKELETON
+
+   Providing structural support to the cell, the cytoskeleton also functions in cell motility and regulation
+
+
+
+CELL SURFACES AND JUNCTIONS
+
+   Plant cells are encased by cell walls
+
+   The extracellular matrix (ECM) of animal cells functions in support, adhesion, movement, and regulation
+
+   Intercellular junctions help integrate cells into higher levels of structure and function
+
+   The cell is a living unit greater than the sum of its parts
+
+The cell is as fundamental to biology as the atom is to chemistry: All organisms are made of cells. In the hierarchy of biological organization, the cell is the simplest collection of matter that can live. Indeed, there are diverse forms of life existing as single-celled organisms. More complex organisms, including plants and animals, are multicellular; their bodies are cooperatives of many kinds of specialized cells that could not survive for long on their own. However, even when they are arranged into higher levels of organization, such as tissues and organs, cells can be singled out as the organism's basic units of structure and function. The contraction of muscle cells moves your eyes as you read this sentence; when you decide to turn the next page, nerve cells will transmit that decision from your brain to the muscle cells of your hand. Everything an organism does occurs fundamentally at the cellular level. This chapter introduces the microscopic world of the cell.
+
+This book takes a thematic approach to the study of life, and the cell is a microcosm that demonstrates most of the themes introduced in Chapter 1. We will see that life at the cellular level arises from structural order, reinforcing the themes of emergent properties and the correlation between structure and function. For example, the movement of an animal cell depends on an intricate interplay of structures that make up a cellular skeleton (green in the micrograph above). Another recurring theme in biology is the interaction of organisms with their environment. Cells sense and respond to environmental fluctuations. As open systems, they continuously exchange both materials and energy with their surroundings. And keep in mind the one biological theme that unifies all others: evolution. All cells are related by their descent from earlier cells, but they have been modified in various ways during the long evolutionary history of life on Earth.
+
+
+
+
+
+HOW WE STUDY CELLS
+
+ 
+
+ Microscopes provide windows to the world of the cell
+
+
+
+ 
+
+ Cell biologists can isolate organelles to study their functions
+
+
+
+It can be difficult to understand how a cell, usually too small to be seen by the unaided eye, can be so complex. How can cell biologists possibly investigate the inner workings of such tiny entities? Before we actually tour the cell, it will be helpful to learn how cells are studied.
+
+
+
+
+
+A PANORAMIC VIEW OF THE CELL
+
+ 
+
+ Prokaryotic and eukaryotic cells differ in size and complexity
+
+
+
+ 
+
+ Internal membranes compartmentalize the functions of a eukaryotic cell
+
+
+
+Every organism is composed of one of two structurally different types of cells: prokaryotic cells or eukaryotic cells. Only the bacteria and archaea have prokaryotic cells. Protists, plants, fungi, and animals all have eukaryotic cells.
+
+
+
+
+
+THE NUCLEUS AND RIBOSOMES
+
+ 
+
+ The nucleus contains a eukaryotic cell's genetic library
+
+
+
+ 
+
+ Ribosomes build a cell's proteins
+
+
+
+At the first stop of our detailed tour of the cell are two organelles involved in the genetic control of the cell: the nucleus, which houses most of the cell's DNA, and the ribosomes, which use information from the DNA to make proteins.
+
+
+
+
+
+THE ENDOMEMBRANE SYSTEM
+
+ 
+
+ The endoplasmic reticulum manufactures membranes and performs many other biosynthetic functions
+
+
+
+ 
+
+ The Golgi apparatus finishes, sorts, and ships cell products
+
+
+
+ 
+
+ Lysosomes are digestive compartments
+
+
+
+ 
+
+ Vacuoles have diverse functions in cell maintenance
+
+
+
+Many of the different membranes of the eukaryotic cell are part of an endomembrane system. These membranes are related either through direct physical continuity or by the transfer of membrane segments as tiny vesicles (sacs made of membrane). Despite these relationships, the various membranes are not identical in structure and function. Moreover, the thickness, molecular composition, and metabolic behavior of a membrane are not fixed, but may be modified several times during the membrane's life. The endomembrane system includes the nuclear envelope, endoplasmic reticulum, Golgi apparatus, lysosomes, various kinds of vacuoles, and the plasma membrane (not actually an endomembrane in physical location, but nevertheless related to the endoplasmic reticulum and other internal membranes). We have already discussed the nuclear envelope and will now focus on the endoplasmic reticulum and the other endomembranes to which it gives rise.
+
+
+
+
+
+OTHER MEMBRANOUS ORGANELLES
+
+ 
+
+ Mitochondria and chloroplasts are the main energy transformers of cells
+
+
+
+ 
+
+ Peroxisomes generate and degrade H2O2 in performing various metabolic functions
+
+
+
+
+
+
+
+THE CYTOSKELETON
+
+ 
+
+ Providing structural support to the cell, the cytoskeleton also functions in cell motility and regulation
+
+
+
+In the early days of electron microscopy, biologists thought that the organelles of a eukaryotic cell floated freely in the cytosol. But improvements in both light microscopy and electron microscopy have revealed the cytoskeleton, a network of fibers extending throughout the cytoplasm (FIGURE 7.20). The cytoskeleton plays a major role in organizing the structures and activities of the cell.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-20. The cytoskeleton. In this TEM, prepared by a method known as deep-etching, microtubules and microfilaments are visible. A third component of the cytoskeleton, intermediate filaments, is not evident here.
+
+
+
+
+
+CELL SURFACES AND JUNCTIONS
+
+ 
+
+ Plant cells are encased by cell walls
+
+
+
+ 
+
+ The extracellular matrix (ECM) of animal cells functions in support, adhesion, movement, and regulation
+
+
+
+ 
+
+ Intercellular junctions help integrate cells into higher levels of structure and function
+
+
+
+ 
+
+ The cell is a living unit greater than the sum of its parts
+
+
+
+Having crisscrossed the interior of the cell to explore various organelles, we complete our tour of the cell by returning to the surface of this microscopic world, where there are additional structures with important functions. Although the plasma membrane is usually regarded as the boundary of the living cell, most cells synthesize and secrete coats of one kind or another that are external to the plasma membrane.
+
+
+
+
+
+ Microscopes provide windows to the world of the cell
+
+The evolution of a science often parallels the invention of instruments that extend human senses to new limits. The discovery and early study of cells progressed with the invention and improvement of microscopes in the 17th century. Microscopes of various types are still indispensable tools for the study of cells.
+
+The microscopes first used by Renaissance scientists, as well as the microscopes you are likely to use in the laboratory, are all light microscopes (LMs). Visible light is passed through the specimen and then through glass lenses. The lenses refract (bend) the light in such a way that the image of the specimen is magnified as it is projected into the eye, onto photograph film, or onto a video screen. (See the appendix at the back of the book that diagrams microscope structure.)
+
+Two important parameters in microscopy are magnification and resolving power, or resolution. Magnification in microscopy is the ratio of an object's image to its real size. Resolving power is a measure of the clarity of the image; it is the minimum distance two points can be separated and still be distinguished as two separate points. For example, what appears to the unaided eye as one star in the sky may be resolved as twin stars with a telescope.
+
+Just as the resolving power of the human eye is limited, the resolving power of telescopes and microscopes is limited. Microscopes can be designed to magnify objects as much as desired, but the light microscope can never resolve detail finer than about 0.2 micrometer (mm), the size of a small bacterium (FIGURE 7.1). This resolution is limited by the shortest wavelength of light used to illuminate the specimen. Light microscopes can magnify effectively to about 1,000 times the size of the actual specimen; at greater magnifications, the image becomes increasingly blurry. Most of the improvements in light microscopy since the beginning of the 20th century have involved new methods for enhancing contrast, which clarifies the details that can be resolved (TABLE 7.1, p. 110). In addition, scientists have developed methods for labeling particular cell components so that they stand out visually.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-1. The size range of cells. Most cells (yellow region of chart) are between 1 and 100 mm in diameter and are therefore visible only under a microscope. Notice that the scale along the left side is logarithmic to accommodate the range of sizes shown. Starting at the top of the scale with 10 m and going down, each reference measurement marks a tenfold decrease in diameter or length.
+
+Table 7-1. Different Types of Light Microscopy: A Comparison
+
+Type of MicroscopyLight Micrographs of Human Cheek Epithelial CellsType of MicroscopyBrightfield (unstained specimen). Passes light directly through specimen; unless cell is naturally image has little contrast.
+
+
+
+Phase-contrast. Enhances contrast in unstained cells by amplifying variations in density within specimen; especially useful for examining living, unpigmented cells.Brightfield (stained specimen). Staining with various dyes enhances contrast, but most staining procedures require that cells be fixed (preserved).
+
+
+
+Differential-interference-contrast (Nomarski). Like phase-contrast microscopy, it uses optical modifications to exaggerate differences in density.Fluorescence. Shows the locations of specific molecules in the cell. Fluorescent substances absorb short-wavelength, ultraviolet radiation and emit longer-wavelength, visible light. The fluorescing molecules may occur naturally in the specimen but more often are made by tagging the molecules of interest with fluorescent molecules.
+
+
+
+Confocal. Uses lasers and special optics for "optical sectioning." Only those regions within a narrow depth of focus are imaged. Regions above and below the selected plane of view appear black rather than blurry. This microscope is typically used with fluorescently stained specimens, as in the example here.Although cells were discovered by Robert Hooke in 1665, the geography of the cell was largely uncharted until the 1950s. Most subcellular structures, or organelles, are too small to be resolved by the light microscope. Cell biology advanced rapidly in the 1950s with the introduction of the electron microscope. Instead of using light, the electron microscope (EM) focuses a beam of electrons through the specimen or onto its surface. Resolving power is inversely related to the wavelength of radiation a microscope uses, and electron beams have wavelengths much shorter than the wavelengths of visible light. Modern electron microscopes can theoretically achieve a resolution of about 0.1 nanometer (nm), but the practical limit for biological structures is generally only about 2 nm--still a hundredfold improvement over the light microscope. Biologists use the term cell ultrastructure to refer to a cell's anatomy as revealed by an electron microscope.
+
+There are two basic types of electron microscopes: the transmission electron microscope (TEM) and the scanning electron microscope (SEM). Cell biologists use the TEM mainly to study the internal ultrastructure of cells. The TEM aims an electron beam through a thin section of the specimen, similar to the way a light microscope transmits light through a slide. However, instead of using glass lenses, the TEM uses electromagnets as lenses to focus and magnify the image by bending the paths of the electrons. The image is ultimately focused onto a screen for viewing or onto photographic film. To enhance contrast in the image, very thin sections of preserved cells are stained with atoms of heavy metals, which attach to certain cellular structures (FIGURE 7.2a).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-2. Electron micrographs. (a) This micrograph, taken with a transmission electron microscope (TEM), profiles a thin section of part of a cell from a rabbit trachea (windpipe), revealing its ultrastructure. (b) A scanning electron microscope (SEM) produced this three-dimensional image of the surface of the same type of cell. Both micrographs show motile organelles called cilia. Beating of the cilia that line the windpipe helps move inhaled debris upward toward the pharynx (throat).
+
+The SEM is especially useful for detailed study of the surface of the specimen (FIGURE 7.2b). The electron beam scans the surface of the sample, which is usually coated with a thin film of gold. The beam excites electrons on the sample's surface, and these secondary electrons are collected and focused onto a screen. The result is an image of the topography of the specimen. The SEM has great depth of field, which results in an image that appears three-dimensional.
+
+Electron microscopes reveal many organelles that are impossible to resolve with the light microscope. But the light microscope offers advantages, especially for the study of live cells. A disadvantage of electron microscopy is that the methods used to prepare the specimen kill the cells. Also, these methods may introduce artifacts, structural features seen in micrographs that do not exist in the living cell. (Artifacts can occur in light microscopy, too.)
+
+Microscopes are the most important tools of cytology, the study of cell structure. But simply describing the diverse organelles within the cell reveals little about their function. Modern cell biology developed from an integration of cytology with biochemistry, the study of the molecules and chemical processes of metabolism. A biochemical approach called cell fractionation has been particularly important in cell biology.
+
+
+
+
+
+ Cell biologists can isolate organelles to study their functions
+
+The goal of cell fractionation is to take cells apart, separating the major organelles so that their functions can be studied (FIGURE 7.3). The instrument used to fractionate cells is the centrifuge, a merry-go-round for test tubes that can spin at various speeds. The most powerful machines, called ultracentrifuges, can spin as fast as 130,000 revolutions per minute (rpm) and apply forces on particles of more than 1 million times the force of gravity (1,000,000 g).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-3. Cell fractionation. Disrupted cells are centrifuged at various speeds and durations to isolate (fractionate) components of different sizes. By determining which cell fractions are associated with particular metabolic processes, researchers can tie those functions to certain organelles.
+
+Fractionation begins with homogenization, the disruption of cells. The objective is to break the cells apart without damaging their organelles. Spinning the soupy homogenate in a centrifuge at low speed separates the parts of the cell into two fractions: the pellet, consisting of the larger, heavier structures that become packed at the bottom of the test tube; and the supernatant, consisting of the smaller, lighter parts of the cell suspended in the liquid above the pellet. The supernatant is decanted into another tube and centrifuged again at a higher speed. The process is repeated, increasing the speed with each step, collecting smaller and smaller components of the homogenized cells in successive pellets.
+
+Cell fractionation enables the researcher to prepare specific components of cells in bulk quantity in order to study their composition and functions. By following this approach, biologists have been able to assign various functions of the cell to the different organelles, a task that would be far more difficult with intact cells. For example, one cellular fraction collected by centrifugation has enzymes that function in the metabolic process known as cellular respiration. The electron microscope reveals this fraction to be very rich in the organelles called mitochondria. This evidence helped cell biologists determine that mitochondria are the sites of cellular respiration. Cytology and biochemistry complement each other in correlating cellular structure and function.
+
+
+
+
+
+ Prokaryotic and eukaryotic cells differ in size and complexity
+
+All cells have several basic features in common: They are all bounded by a membrane, called a plasma membrane. Within the membrane is a semifluid substance, cytosol, in which organelles are found. All cells contain chromosomes, carrying genes in the form of DNA. And all cells have ribosomes, tiny organelles that make proteins according to instructions from the genes.
+
+A major difference between prokaryotic and eukaryotic cells, indicated by their names, is that the chromosomes of a eukaryotic cell are located in a membrane-enclosed organelle called the nucleus. The word prokaryotic is from the Greek pro, before, and karyon, kernel, referring here to the nucleus. In a prokaryotic cell (FIGURE 7.4), the DNA is concentrated in a region called the nucleoid, but no membrane separates this region from the rest of the cell. In contrast, the eukaryotic cell (Greek eu, true, and karyon) has a true nucleus, bounded by a membranous nuclear envelope (see FIGURES 7.7 and 7.8, pp. 114-115). The entire region between the nucleus and the plasma membrane is called the cytoplasm, a term also used for the interior of a prokaryotic cell. Within the cytoplasm of a eukaryotic cell, suspended in cytosol, are a variety of membrane-bounded organelles of specialized form and function. These are absent in prokaryotic cells. Thus, the presence or absence of a true nucleus is just one example of the disparity in structural complexity between the two types of cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-4. A prokaryotic cell. Lacking a true nucleus and the other membrane-enclosed organelles of the eukaryotic cell, the prokaryotic cell is much simpler in structure. Only organisms of the domains Bacteria and Archaea have prokaryotic cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-7. Overview of an animal cell. This drawing of an animal cell incorporates the most common structures of animal cells (no cell actually looks just like this). The cell has a variety of organelles ("little organs"), many of which are bounded by membranes. The most prominent organelle in an animal cell is usually the nucleus. Most of the cell's metabolic activities occur in the cytoplasm, the entire region between the nucleus and the plasma membrane. The cytoplasm contains many organelles suspended in a semifluid medium, the cytosol. Pervading much of the cytoplasm is a labyrinth of membranes called the endoplasmic reticulum (ER).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-8. Overview of a plant cell. This drawing of a generalized plant cell reveals the similarities and differences between an animal cell and a plant cell. In addition to most of the features seen in an animal cell, a plant cell has membrane-enclosed organelles called plastids. The most important type of plastid is the chloroplast, which carries out photosynthesis. Many plant cells have a large central vacuole. Outside a plant cell's plasma membrane is a thick cell wall, perforated by channels called plasmodesmata.
+
+Eukaryotic cells are generally much bigger than prokaryotic cells (see FIGURE 7.1). Size is a general aspect of cell structure that relates to function. The logistics of carrying out metabolism set limits on cell size. At the lower limit, the smallest cells known are bacteria called mycoplasmas, which have diameters between 0.1 and 1.0 mm. These are perhaps the smallest packages with enough DNA to program metabolism and enough enzymes and other cellular equipment to carry out the activities necessary for a cell to sustain itself and reproduce. Most bacteria are 1-10 mm in diameter, a dimension about ten times bigger than that of mycoplasmas. Eukaryotic cells are typically 10-100 mm in diameter, ten times bigger than bacteria.
+
+Metabolic requirements also impose upper limits on the size that is practical for a single cell. As an object of a particular shape increases in size, its volume grows proportionately more than its surface area. (Area is proportional to a linear dimension squared, whereas volume is proportional to the linear dimension cubed.) Thus, the smaller the object, the greater its ratio of surface area to volume (FIGURE 7.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-5. Geometric relationships explain why most cells are microscopic. In this diagram, cells are represented as boxes. Using arbitrary units of length, we can calculate the cell's surface area (in square units), volume (in cubic units), and surface-to-volume ratio. A high surface-to-volume ratio facilitates the exchange of materials between a cell and its environment.
+
+At the boundary of every cell, the plasma membrane functions as a selective barrier that allows sufficient passage of oxygen, nutrients, and wastes to service the entire volume of the cell (FIGURE 7.6). For each square micrometer of membrane, only so much of a particular substance can cross per second. Rates of chemical exchange with the extracellular environment might be inadequate to maintain a cell with a very large cytoplasm. The need for a surface sufficiently large to accommodate the volume helps explain the microscopic size of most cells. Larger organisms do not generally have larger cells than smaller organisms--simply more cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-6. The plasma membrane. The plasma membrane and the membranes of organelles consist of a double layer (bilayer) of phospholipids with various proteins attached to or embedded in it. The phospholipid tails in the interior of a membrane are hydrophobic; the phospholipid heads, the exterior proteins and parts of proteins, and any carbohydrate side chains are hydrophilic and in contact with the aqueous solution on either side of the membrane. Carbohydrate side chains are found only on the outer surface of the plasma membrane. The specific functions of a membrane depend on the kinds of phospholipids and proteins present.
+
+Prokaryotic cells will be described in detail in Chapters 18 and 27, and the possible evolutionary relationships between prokaryotic and eukaryotic cells will be discussed in Chapter 28. Most of the discussion of cell structure that follows in this chapter applies to eukaryotic cells.
+
+
+
+
+
+ Internal membranes compartmentalize the functions of a eukaryotic cell
+
+In addition to the plasma membrane at its outer surface, a eukaryotic cell has extensive and elaborately arranged internal membranes, which partition the cell into compartments--the membranous organelles mentioned earlier. These membranes also participate directly in the cell's metabolism; many enzymes are built right into the membranes. Because the cell's compartments provide different local environments that facilitate specific metabolic functions, incompatible processes can go on simultaneously inside the same cell.
+
+Membranes of various kinds are fundamental to the organization of the cell. In general, biological membranes consist of a double layer of phospholipids and other lipids. Embedded in this lipid bilayer or attached to its surfaces are diverse proteins (see FIGURE 7.6). However, each type of membrane has a unique composition of lipids and proteins suited to that membrane's specific functions. For example, enzymes embedded in the membranes of the organelles called mitochondria function in cellular respiration.
+
+Before continuing with this chapter, examine the overviews of eukaryotic cells in FIGURES 7.7 and 7.8 on these two pages. These figures introduce the various organelles and provide a map of the cell for the detailed tour upon which we will now embark. FIGURES 7.7 and 7.8 also contrast animal and plant cells. As eukaryotic cells, they have much more in common than either has with any prokaryote. As you will see, however, there are important differences between plant and animal cells.
+
+
+
+
+
+ The nucleus contains a eukaryotic cell's genetic library
+
+The nucleus contains most of the genes in the eukaryotic cell (some genes are located in mitochondria and chloroplasts). It is generally the most conspicuous organelle in a eukaryotic cell, averaging about 5 mm in diameter. The nuclear envelope encloses the nucleus (FIGURE 7.9), separating its contents from the cytoplasm.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-9. The nucleus and its envelope. Within the nucleus is chromatin, consisting of DNA and proteins. When a cell prepares to divide, individual chromosomes become visible as the chromatin condenses. The nucleolus functions in ribosome synthesis. The nuclear envelope, which consists of two membranes separated by a narrow space, is perforated with pores and lined by a nuclear lamina.
+
+The nuclear envelope is a double membrane. The two membranes, each a lipid bilayer with associated proteins, are separated by a space of about 20-40 nm. The envelope is perforated by pores that are about 100 nm in diameter. At the lip of each pore, the inner and outer membranes of the nuclear envelope are fused. An intricate protein structure called a pore complex lines each pore and regulates the entry and exit of certain large macromolecules and particles. Except at the pores, the nuclear side of the envelope is lined by the nuclear lamina, a netlike array of protein filaments (intermediate filaments) that maintains the shape of the nucleus. There is also much evidence for a nuclear matrix, a framework of fibers extending throughout the nuclear interior. (We will examine possible functions of the nuclear lamina and matrix in Chapter 19.)
+
+Within the nucleus, the DNA is organized along with proteins into a fibrous material called chromatin. Stained chromatin usually appears through both light microscopes and electron microscopes as a diffuse mass. As a cell prepares to divide (reproduce), however, the thin chromatin fibers coil up (condense), becoming thick enough to be discerned as separate structures called chromosomes. Each eukaryotic species has a characteristic number of chromosomes. A typical human cell, for example, has 46 chromosomes in its nucleus; the exceptions are the sex cells (eggs and sperm), which have only 23 chromosomes in humans.
+
+A prominent structure within the nondividing nucleus is the nucleolus, which appears through the electron microscope as a mass of densely stained granules and fibers adjoining part of the chromatin. Here a special type of RNA called ribosomal RNA is synthesized and assembled with proteins imported from the cytoplasm into the main components of ribosomes, called ribosomal subunits. These subunits then pass through the nuclear pores to the cytoplasm, where they can combine to form ribosomes. Sometimes there are two or more nucleoli; the number depends on the species and the stage in the cell's reproductive cycle.
+
+As we saw in FIGURE 5.28, the nucleus directs protein synthesis by synthesizing messenger RNA (mRNA) and sending it to the cytoplasm via the nuclear pores. The mRNA is made according to instructions provided by the DNA (as is ribosomal RNA). Once an mRNA molecule reaches the cytoplasm, ribosomes translate its genetic message into the primary structure of a specific polypeptide. This process of translating genetic information is described in detail in Chapter 17.
+
+
+
+
+
+ Ribosomes build a cell's proteins
+
+Ribosomes, particles made of ribosomal RNA and protein, are the organelles that carry out protein synthesis; each is composed of two subunits (FIGURE 7.10). Cells that have high rates of protein synthesis have a particularly large number of ribosomes. For example, a human pancreas cell has a few million ribosomes. Not surprisingly, cells active in protein synthesis also have prominent nucleoli. (Keep in mind that both nucleoli and ribosomes, unlike most other organelles, are not enclosed in membrane.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-10. Ribosomes. (a) This electron micrograph of part of a pancreas cell shows many ribosomes, both free (in the cytosol) and bound (to the endoplasmic reticulum). The bound ribosomes of pancreas cells make a number of secretory proteins, including the hormone insulin and digestive enzymes. Bound ribosomes also make proteins destined for insertion into membranes or the interiors of other organelles. Free ribosomes mainly make proteins that remain dissolved in the cytosol. Bound and free ribosomes are identical and can alternate between these two roles. (b) This simplified diagram of a ribosome shows its two subunits.
+
+Ribosomes build proteins in two cytoplasmic locales (see FIGURE 7.10). Free ribosomes are suspended in the cytosol, while bound ribosomes are attached to the outside of the endoplasmic reticulum or nuclear envelope. Most of the proteins made by free ribosomes will function within the cytosol; examples are enzymes that catalyze the first steps of sugar breakdown. Bound ribosomes generally make proteins that are destined either for insertion into membranes, for packaging within certain organelles such as lysosomes, or for export from the cell (secretion). Cells that specialize in protein secretion--for instance, the cells of the pancreas and other glands that secrete digestive enzymes--frequently have a high proportion of bound ribosomes. Bound and free ribosomes are structurally identical and can alternate between the two roles; the cell adjusts the relative numbers of each as its metabolism changes. You will learn more about ribosome structure and function in Chapter 17.
+
+
+
+
+
+ The endoplasmic reticulum manufactures membranes and performs many other biosynthetic functions
+
+The endoplasmic reticulum (ER) is a membranous labyrinth so extensive that it accounts for more than half the total membrane in many eukaryotic cells. (The word endoplasmic means "within the cytoplasm," and reticulum is Latin for "little net.") The ER consists of a network of membranous tubules and sacs called cisternae (Latin, cisterna, a reservoir for a liquid). The ER membrane separates the internal compartment of the ER, called the cisternal space, from the cytosol. And because the ER membrane is continuous with the nuclear envelope, the space between the two membranes of the envelope is continuous with the cisternal space of the ER (FIGURE 7.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-11. Endoplasmic reticulum (ER). A membranous system of interconnected tubules and flattened sacs called cisternae, the ER is also continuous with the nuclear envelope. (The drawing is a cutaway view.) The membrane of the ER encloses a compartment called the cisternal space. Rough ER, which is studded on its outer surface with ribosomes, can be distinguished from smooth ER in the electron micrograph (TEM).
+
+There are two distinct, though connected, regions of ER that differ in structure and function: smooth ER and rough ER. Smooth ER is so named because its cytoplasmic surface lacks ribosomes. Rough ER appears rough through the electron microscope because ribosomes stud the cytoplasmic surface of the membrane. As already mentioned, ribosomes are also attached to the cytoplasmic side of the nuclear envelope's outer membrane, which is confluent with rough ER.
+
+Functions of Smooth ER
+
+The smooth ER of various cell types functions in diverse metabolic processes, including synthesis of lipids, metabolism of carbohydrates, and detoxification of drugs and poisons.
+
+Enzymes of the smooth ER are important to the synthesis of lipids, including oils, phospholipids, and steroids. Among the steroids produced by the smooth ER in animal cells are the sex hormones of vertebrates and the various steroid hormones secreted by the adrenal glands. The cells that actually synthesize and secrete these hormones--in the testes and ovaries, for example--are rich in smooth ER, a structural feature that fits the function of these cells.
+
+Liver cells provide one example of the role of smooth ER in carbohydrate metabolism. Liver cells store carbohydrate in the form of glycogen, a polysaccharide. The hydrolysis of glycogen leads to the release of glucose from the liver cells, which is important in the regulation of sugar concentration in the blood. However, the first product of glycogen hydrolysis is glucose phosphate, an ionic form of the sugar that cannot exit the cell and enter the blood. An enzyme embedded in the membrane of the liver cell's smooth ER removes the phosphate from the glucose, which can then leave the cell.
+
+Enzymes of the smooth ER help detoxify drugs and poisons, especially in liver cells. Detoxification usually involves adding hydroxyl groups to drugs, making them more soluble and easier to flush from the body. The sedative phenobarbital and other barbiturates are examples of drugs metabolized in this manner by smooth ER in liver cells. In fact, barbiturates, alcohol, and many other drugs induce the proliferation of smooth ER and its associated detoxification enzymes. This, in turn, increases tolerance to the drugs, meaning that higher doses are required to achieve a particular effect, such as sedation. Also, because some of the detoxification enzymes have relatively broad action, the proliferation of smooth ER in response to one drug can increase tolerance to other drugs as well. Barbiturate abuse, for example, may decrease the effectiveness of certain antibiotics and other useful drugs.
+
+Muscle cells exhibit still another specialized function of smooth ER. The ER membrane pumps calcium ions from the cytosol into the cisternal space. When a muscle cell is stimulated by a nerve impulse, calcium rushes back across the ER membrane into the cytosol and triggers contraction of the muscle cell.
+
+Rough ER and the Synthesis of Secretory Proteins
+
+Many types of specialized cells secrete proteins produced by ribosomes attached to rough ER. For example, certain cells in the pancreas secrete the protein insulin, a hormone, into the bloodstream (see FIGURE 7.10a). As a polypeptide chain grows from a bound ribosome, it is threaded into the cisternal space through a pore formed by a protein in the ER membrane. As it enters the cisternal space, the new protein folds into its native conformation. Most secretory proteins are glycoproteins, proteins that are covalently bonded to carbohydrates. The carbohydrate is attached to the protein in the ER by specialized molecules built into the ER membrane. The carbohydrate appendage of a glycoprotein is an oligosaccharide, the term for a relatively small polymer of sugar units.
+
+Once secretory proteins are formed, the ER membrane keeps them separate from the proteins, produced by free ribosomes, that will remain in the cytosol. Secretory proteins depart from the ER wrapped in the membranes of vesicles that bud like bubbles from a specialized region called transitional ER. Such vesicles in transit from one part of the cell to another are called transport vesicles, and we will soon learn their fate.
+
+Rough ER and Membrane Production
+
+In addition to making secretory proteins, rough ER is a membrane factory that grows in place by adding proteins and phospholipids. As polypeptides destined to be membrane proteins grow from the ribosomes, they are inserted into the ER membrane itself and are anchored there by their hydrophobic portions. The rough ER also makes its own membrane phospholipids; enzymes built into the ER membrane assemble phospholipids from precursors in the cytosol. The ER membrane expands and can be transferred in the form of transport vesicles to other components of the endomembrane system.
+
+
+
+
+
+ The Golgi apparatus finishes, sorts, and ships cell products
+
+After leaving the ER, many transport vesicles travel to the Golgi apparatus. We can think of the Golgi as a center of manufacturing, warehousing, sorting, and shipping. Here, products of the ER are modified and stored and then sent to other destinations. Not surprisingly, the Golgi apparatus is especially extensive in cells specialized for secretion.
+
+The Golgi apparatus consists of flattened membranous sacs--cisternae--looking like a stack of pita bread (FIGURE 7.12). A cell may have several or even hundreds of these stacks. The membrane of each cisterna in a stack separates its internal space from the cytosol. Vesicles concentrated in the vicinity of the Golgi apparatus are engaged in the transfer of material between the Golgi and other structures.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-12. The Golgi apparatus. The Golgi apparatus consists of stacks of flattened sacs, or cisternae, which, unlike ER cisternae, are not physically connected. (The drawing is a cutaway view.) A Golgi stack receives and dispatches transport vesicles and the products they contain. Materials received from the ER are modified and stored in the Golgi and eventually shipped to the cell surface or other destinations. Note the vesicles joining and leaving the cisternae. A Golgi stack has a structural and functional polarity, with a cis face that receives vesicles containing ER products and a trans face that dispatches vesicles (at right, TEM).
+
+A Golgi stack has a distinct polarity, with the membranes of cisternae at opposite ends of the stack differing in thickness and molecular composition. The two poles of a Golgi stack are referred to as the cis face and the trans face; these act, respectively, as the receiving and shipping departments of the Golgi apparatus. The cis face is usually located near the ER. Transport vesicles move material from the ER to the Golgi. A vesicle that buds from the ER will add its membrane and the contents of its lumen (cavity) to the cis face by fusing with a Golgi membrane. The trans face gives rise to vesicles, which pinch off and travel to other sites.
+
+Products of the ER are usually modified during their transit from the cis pole to the trans pole of the Golgi. Proteins and phospholipids of membranes may be altered. For example, various Golgi enzymes modify the oligosaccharide portions of glycoproteins. Oligosaccharides are first added to proteins in the rough ER, often during the process of polypeptide synthesis. The resulting glycoprotein is then modified as it passes through the rest of the ER and the Golgi. The Golgi removes some sugar monomers and substitutes others, producing a large variety of oligosaccharides.
+
+In addition to its finishing work, the Golgi apparatus manufactures certain macromolecules by itself. Many polysaccharides secreted by cells are Golgi products, including pectins and certain other noncellulose polysaccharides made by plant cells and incorporated along with cellulose into their cell walls. (Cellulose is made by enzymes located within the plasma membrane, which directly deposit this polysaccharide on the outside surface.) Golgi products that will be secreted depart from the trans face of the Golgi inside transport vesicles that eventually fuse with the plasma membrane.
+
+The Golgi manufactures and refines its products in stages, with different cisternae between the cis and trans ends containing unique teams of enzymes. Products in various stages of processing seem to be transferred from one cisterna to the next by vesicles.
+
+Before a Golgi stack dispatches its products by budding vesicles from the trans face, it sorts these products and targets them for various parts of the cell. Molecular identification tags, such as phosphate groups that have been added to the Golgi products, aid in sorting. Finally, transport vesicles budded from the Golgi may have external molecules on their membranes that recognize "docking sites" on the surface of specific organelles or on the plasma membrane.
+
+
+
+
+
+ Lysosomes are digestive compartments
+
+A lysosome is a membrane-bounded sac of hydrolytic enzymes that the cell uses to digest macromolecules (FIGURE 7.13). There are lysosomal enzymes that can hydrolyze proteins, polysaccharides, fats, and nucleic acids--all the major classes of macromolecules. These enzymes work best in an acidic environment, at about pH 5. The lysosomal membrane maintains this low internal pH by pumping hydrogen ions from the cytosol into the lumen of the lysosome. If a lysosome breaks open or leaks its contents, the released enzymes are not very active, because the cytosol has a neutral pH. However, excessive leakage from a large number of lysosomes can destroy a cell by autodigestion. From this example we can see once again how important compartmental organization is to the functions of the cell: The lysosome provides a space where the cell can digest macromolecules safely, without the general destruction that would occur if hydrolytic enzymes roamed at large.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-13. Lysosomes. (a) In this white blood cell from a rat, the lysosomes are very dark because of a specific stain that reacts with one of the products of digestion within the lysosome. This type of white blood cell ingests bacteria and viruses and destroys them in the lysosomes (TEM). (b) In the cytoplasm of this rat liver cell, an autophagic lysosome has engulfed two disabled organelles, a mitochondrion and a peroxisome (TEM).
+
+Hydrolytic enzymes and lysosomal membrane are made by rough ER and then transferred to the Golgi apparatus for further processing. At least some lysosomes probably arise by budding from the trans face of the Golgi apparatus (FIGURE 7.14, p. 122). Proteins of the inner surface of the lysosomal membrane and the digestive enzymes themselves are probably spared from destruction by having three-dimensional conformations that protect vulnerable bonds from enzymatic attack.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-14. The formation and functions of lysosomes. The ER and Golgi apparatus generally cooperate in the production of lysosomes containing active hydrolytic enzymes. Lysosomes digest (hydrolyze) materials taken into the cell and recycle materials from intracellular refuse. This figure shows one lysosome fusing with a food vacuole and another engulfing a damaged mitochondrion.
+
+Lysosomes carry out intracellular digestion in a variety of circumstances. Amoebas and many other protists eat by engulfing smaller organisms or other food particles, a process called phagocytosis (from the Greek phagein, to eat, and kytos, vessel, referring here to the cell). The food vacuole formed in this way then fuses with a lysosome, whose enzymes digest the food (see FIGURE 7.14). Digestion products, including simple sugars, amino acids, and other monomers, pass into the cytosol and become nutrients for the cell. Some human cells also carry out phagocytosis. Among them are macrophages, cells that help defend the body by destroying bacteria and other invaders (see FIGURE 7.13a).
+
+Lysosomes also use their hydrolytic enzymes to recycle the cell's own organic material, a process called autophagy.This occurs when a lysosome engulfs another organelle or a small amount of cytosol (see FIGURE 7.13b). The lysosomal enzymes dismantle the ingested material, and the organic monomers are returned to the cytosol for reuse. With the help of lysosomes, the cell continually renews itself. A human liver cell, for example, recycles half of its macromolecules each week.
+
+Programmed destruction of cells by their own lysosomal enzymes is important in the development of many multicellular organisms. During the transforming of a tadpole into a frog, for instance, lysosomes in the cells of the tail destroy these cells. And the hands of human embryos are webbed until lysosomes digest the tissue between the fingers.
+
+A variety of inherited disorders called lysosomal storage diseases affect lysosomal metabolism. A person afflicted with a storage disease lacks a functioning version of a hydrolytic enzyme normally present in lysosomes. The lysosomes become engorged with indigestible substrates, which begin to interfere with other cellular activities. In Pompe's disease, for example, the liver is damaged by an accumulation of glycogen due to the absence of a lysosomal enzyme needed to break down that polysaccharide. In Tay-Sachs disease, a lipid-digesting enzyme is missing or inactive, and the brain becomes impaired by an accumulation of lipids in the cells. Fortunately, storage diseases are rare in the general population. In the future, it may be possible to cure such a disorder by inserting genes (DNA) for the missing enzyme into the appropriate cells (see Chapter 20).
+
+
+
+
+
+ Vacuoles have diverse functions in cell maintenance
+
+Vacuoles and vesicles are both membrane-bounded sacs within the cell, but vacuoles are larger than vesicles. Vacuoles have various functions. Food vacuoles, formed by phagocytosis, have already been mentioned (see FIGURE 7.14). Many freshwater protists have contractile vacuoles that pump excess water out of the cell (see FIGURE 8.13). Mature plant cells generally contain a large central vacuole (FIGURE 7.15) enclosed by a membrane called the tonoplast, which is part of their endomembrane system. The central vacuole develops by the coalescence of smaller vacuoles, themselves derived from the endoplasmic reticulum and Golgi apparatus. The vacuole is in this way an integral part of the endomembrane system. Like all cellular membranes, the tonoplast is selective in transporting solutes; therefore, the solution inside the vacuole, called cell sap, differs in composition from the cytosol.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-15. The plant cell vacuole. The central vacuole is usually the largest compartment in a plant cell, comprising 80%  or more of a mature cell. The rest of the cytoplasm is generally confined to a narrow zone between the vacuolar membrane (tonoplast) and the plasma membrane. Functions of the vacuole include storage, waste disposal, protection, and growth (TEM).
+
+The plant cell's central vacuole is a versatile compartment. It can hold reserves of important organic compounds, such as the proteins stockpiled in the vacuoles of storage cells in seeds. It is also the plant cell's main repository of inorganic ions, such as potassium and chloride. Many plant cells use their vacuoles as disposal sites for metabolic by-products that would endanger the cell if they accumulated in the cytosol. Some vacuoles contain pigments that color the cells, such as the red and blue pigments of petals that help attract pollinating insects to flowers. Vacuoles may also help protect the plant against predators by containing compounds that are poisonous or unpalatable to animals. The vacuole has a major role in the growth of plant cells, which elongate as their vacuoles absorb water, enabling the cell to become larger with a minimal investment in new cytoplasm. And because the cytosol often occupies only a thin layer between the plasma membrane and the tonoplast, the ratio of membrane surface to cytosolic volume is great, even for a large plant cell.
+
+FIGURE 7.16 reviews the endomembrane system, showing the flow of membranes through the various organelles. As the membrane moves from the ER to the Golgi and then elsewhere, its molecular composition and metabolic functions are modified. The endomembrane system is a complex and dynamic player in the cell's compartmental organization.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-16. Review: relationships among organelles of the endomembrane system. The red arrows show some of the pathways of membrane migration. The nuclear envelope is connected to the rough ER, which is also confluent with smooth ER. Membrane produced by the ER flows in the form of transport vesicles to the Golgi, which in turn pinches off vesicles that give rise to lysosomes and vacuoles. Even the plasma membrane expands by the fusion of vesicles born in the ER and Golgi. Coalescence of vesicles with the plasma membrane also releases secretory proteins and other products to the outside of the cell.
+
+We'll continue our tour of the cell with some membranous organelles that are not closely related to the endomembrane system.
+
+
+
+
+
+ Mitochondria and chloroplasts are the main energy transformers of cells
+
+Organisms are open systems that transform the energy they acquire from their surroundings. In eukaryotic cells, mitochondria and chloroplasts are the organelles that convert energy to forms that cells can use for work. Mitochondria (singular, mitochondrion) are the sites of cellular respiration, the catabolic process that generates ATP by extracting energy from sugars, fats, and other fuels with the help of oxygen. Chloroplasts, found only in plants and algae, are the sites of photosynthesis. They convert solar energy to chemical energy by absorbing sunlight and using it to drive the synthesis of organic compounds from carbon dioxide and water.
+
+Although mitochondria and chloroplasts are enclosed by membranes, they are not part of the endomembrane system. Their membrane proteins are made not by the ER, but by free ribosomes in the cytosol and by ribosomes contained within the mitochondria and chloroplasts themselves. Not only do these organelles have ribosomes, but they also contain a small amount of DNA. It is this DNA that programs the synthesis of the proteins made on the organelle's own ribosomes. (Proteins imported from the cytosol--constituting most of the organelle's proteins--are programmed by nuclear DNA.) Mitochondria and chloroplasts are semiautonomous organelles that grow and reproduce within the cell. In Chapters 9 and 10, we will focus on how mitochondria and chloroplasts function. We will consider the evolution of these organelles in Chapter 28. Here we are concerned mainly with the structure of these energy transformers.
+
+Mitochondria
+
+Mitochondria are found in nearly all eukaryotic cells, including those of plants, animals, fungi, and protists. Some cells have a single large mitochondrion, but more often a cell has hundreds or even thousands of mitochondria; the number is correlated with the cell's level of metabolic activity. Mitochondria are about 1-10 mm long. Time-lapse films of living cells reveal mitochondria moving around, changing their shapes, and dividing in two, unlike the static cylinders seen in electron micrographs of dead cells.
+
+The mitochondrion is enclosed by two membranes, each a phospholipid bilayer with a unique collection of embedded proteins (FIGURE 7.17). The outer membrane is smooth, but the inner membrane is convoluted, with infoldings called cristae. The inner membrane divides the mitochondrion into two internal compartments. The first is the intermembrane space, the narrow region between the inner and outer membranes. The second compartment, the mitochondrial matrix, is enclosed by the inner membrane. The matrix contains many different enzymes as well as the mitochondrial DNA and ribosomes. Some of the metabolic steps of cellular respiration are catalyzed by enzymes in the matrix. Other proteins that function in respiration, including the enzyme that makes ATP, are built into the inner membrane. The cristae give the inner mitochondrial membrane a large surface area that enhances the productivity of cellular respiration, another example of structure fitting function.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-17. The mitochondrion, site of cellular respiration. The two membranes of the mitochondrion are evident in the drawing and micrograph (TEM). The cristae are infoldings of the inner membrane. The cutaway drawing shows the two compartments bounded by the membranes: the intermembrane space and the mitochondrial matrix.
+
+Chloroplasts
+
+The chloroplast is a specialized member of a family of closely related plant organelles called plastids. Amyloplasts are colorless plastids that store starch (amylose), particularly in roots and tubers. Chromoplasts have pigments that give fruits and flowers their orange and yellow hues. Chloroplasts contain the green pigment chlorophyll, along with enzymes and other molecules that function in the photosynthetic production of sugar. These lens-shaped organelles, measuring about 2 mm by 5 mm, are found in leaves and other green organs of plants and in algae (FIGURE 7.18).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-18. The chloroplast, site of photosynthesis. Chloroplasts are enclosed by two membranes separated by a narrow intermembrane space that constitutes an outer compartment. The inner membrane encloses a second compartment, containing a fluid called stroma. The stroma surrounds a third compartment, the thylakoid space, delineated by the thylakoid membrane. Thylakoid sacs (thylakoids) are stacked to form structures called grana, which are connected by thin tubules between individual thylakoids (TEM).
+
+The contents of a chloroplast are partitioned from the cytosol by an envelope consisting of two membranes separated by a very narrow intermembrane space. Inside the chloroplast is another membranous system in the form of flattened sacs called thylakoids. In some regions, thylakoids are stacked like poker chips; each stack is called a granum (plural, grana). The fluid outside the thylakoids is the stroma, which contains the chloroplast DNA and ribosomes as well as many enzymes. Note that the thylakoid membrane divides the interior of the chloroplast into two compartments: the thylakoid space and the stroma. In Chapter 10, you will learn how this compartmental organization enables the chloroplast to convert light energy to chemical energy during photosynthesis.
+
+As with mitochondria, the static and rigid appearance of chloroplasts in micrographs is not true to their dynamic behavior in the living cell. Their shapes are plastic, and they grow and occasionally pinch in two, reproducing themselves. They are mobile and move around the cell with mitochondria and other organelles along tracks of the cytoskeleton.
+
+
+
+
+
+ Peroxisomes generate and degrade H2O2 in performing various metabolic functions
+
+The peroxisome is a specialized metabolic compartment bounded by a single membrane (FIGURE 7.19). Peroxisomes contain enzymes that transfer hydrogen from various substrates to oxygen, producing hydrogen peroxide (H2O2) as a by-product, from which the organelle derives its name. These reactions may have many different functions. Some peroxisomes use oxygen to break fatty acids down into smaller molecules that can then be transported to mitochondria as fuel for cellular respiration. Peroxisomes in the liver detoxify alcohol and other harmful compounds by transferring hydrogen from the poisons to oxygen. The H2O2 formed by peroxisome metabolism is itself toxic, but the organelle contains an enzyme that converts the H2O2 to water. Enclosing in the same space both the enzymes that produce hydrogen peroxide and those that dispose of this toxic compound is another example of how the cell's compartmental structure is crucial to its functions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-19. Peroxisomes. Peroxisomes are roughly spherical and often have a granular or crystalline core that is probably a dense collection of enzyme molecules. This peroxisome is in a leaf cell. Notice its proximity to two chloroplasts and a mitochondrion. These organelles cooperate with peroxisomes in certain metabolic functions (TEM).
+
+Specialized peroxisomes called glyoxysomes are found in the fat-storing tissues of plant seeds. These organelles contain enzymes that initiate the conversion of fatty acids to sugar, which the emerging seedling can use as an energy and carbon source until it is able to produce its own sugar by photosynthesis.
+
+Unlike lysosomes, peroxisomes do not bud from the endomembrane system. They grow by incorporating proteins and lipids made in the cytosol, and they increase in number by splitting in two when they reach a certain size.
+
+
+
+
+
+ Providing structural support to the cell, the cytoskeleton also functions in cell motility and regulation
+
+The most obvious function of the cytoskeleton is to give mechanical support to the cell and maintain its shape. This is especially important for animal cells, which lack walls. The remarkable strength and resilience of the cytoskeleton as a whole is based on its architecture. Like a geodesic dome, the cytoskeleton is stabilized by a balance between opposing forces exerted by its elements. And just as the skeleton of an animal helps fix the positions of other body parts, the cytoskeleton provides anchorage for many organelles and even cytosolic enzyme molecules. The cytoskeleton is more dynamic than an animal skeleton, however. It can be quickly dismantled in one part of the cell and reassembled in a new location, changing the shape of the cell.
+
+The cytoskeleton is also involved in several types of cell motility (movement). The term cell motility encompasses both changes in cell location and more limited movements of parts of the cell. Cell motility generally requires the interaction of the cytoskeleton with proteins called motor molecules (FIGURE 7.21). Examples of such cell motility abound. Motor molecules of the cytoskeleton bring about the movements of cilia and flagella by allowing components of the cytoskeleton to slide past each other. The same mechanism causes muscle cells to contract. Vesicles often travel to their destinations in the cell along "monorails" provided by the cytoskeleton. For example, as discussed in the interview with George Langford (pp. 106-107), this is how vesicles containing neurotransmitter molecules migrate to the tips of axons, the long extensions of nerve cells that release these molecules as chemical signals to adjacent nerve cells. It is the cytoskeleton that manipulates the plasma membrane to form food vacuoles during phagocytosis. The streaming of cytoplasm that circulates materials within many large plant cells is yet another kind of cellular movement brought about by components of the cytoskeleton.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-21. Motor molecules and the cytoskeleton. The microtubules and microfilaments of the cytoskeleton function in motility by interacting with proteins called motor molecules. Motor molecules work by changing their shapes, moving back and forth something like microscopic legs. ATP powers these conformational changes. With each cycle of shape change, the motor molecule releases at its free end and then grips at a site farther along a microtubule or microfilament.
+
+The most recent addition to the list of possible cytoskeletal functions is the regulation of biochemical activities in the cell. Mounting evidence suggests that the cytoskeleton can transmit mechanical forces from the surface of the cell to its interior--and even, via other fibers, into the nucleus. In one experiment, investigators used a micromanipulation device to pull on certain plasma membrane proteins attached to the cytoskeleton. A video microscope captured almost instantaneous rearrangements of nucleoli and other structures in the nucleus. In this way, the transmission of naturally occurring mechanical signals by the cytoskeleton may help regulate cell function.
+
+Now let's look more closely at the three main types of fibers that make up the cytoskeleton (TABLE 7.2). Microtubules are the thickest of the three types; microfilaments (also called actin filaments) are the thinnest; and intermediate filaments are fibers with diameters in a middle range.
+
+Table 7-2. The Structure and Function of the Cytoskeleton
+
+PropertyMicrotubulesMicrofilaments (Actin Filaments)Intermediate FilamentsStructureHollow tubes; wall consists of 13 columns of tubulin moleculesTwo intertwined strands of actinFibrous proteins supercoiled into thicker cablesDiameter25 nm with 15-nm lumen7 nm8-12 nmProtein subunitsTubulin, consisting of a-tubulin and b-tubulinActinOne of several different proteins of the keratin family, depending on cell typeMain functionsMaintenance of cell shape (compression-resisting "girders")Maintenance of cell shape (tension-bearing elements)Maintenance of cell shape (tension-bearing elements)Cell motility (as in cilia or flagella)Changes in cell shapeAnchorage of nucleus and certain other organellesChromosome movements in cell divisionMuscle contractionFormation of nuclear laminaOrganelle movementsCytoplasmic streamingCell motility (as in pseudopodia)Cell division (cleavage furrow formation)
+
+
+
+SOURCE: Adapted from W. M. Becker, L. J. Kleinsmith, and J. Hardin, The World of the Cell, 4th ed. (San Francisco, CA: Benjamin Cummings, 2000), p. 753.Microtubules
+
+Microtubules are found in the cytoplasm of all eukaryotic cells. They are hollow rods measuring about 25 mm in diameter and from 200 nm to 25 mm in length. The wall of the hollow tube is constructed from a globular protein called tubulin. Each tubulin molecule is a dimer consisting of two slightly different polypeptide subunits, a-tubulin and b-tubulin. A microtubule grows in length by adding tubulin dimers to its ends. Microtubules can be disassembled and their tubulin used to build microtubules elsewhere in the cell.
+
+Microtubules shape and support the cell and also serve as tracks along which organelles equipped with motor molecules can move (see FIGURE 7.21). For example, microtubules guide secretory vesicles from the Golgi apparatus to the plasma membrane. Microtubules are also responsible for the separation of chromosomes during cell division (see Chapter 12).
+
+Centrosomes and Centrioles. In many cells, microtubules grow out from a centrosome, a region often located near the nucleus. These microtubules function as compression-resisting girders of the cytoskeleton. Within the centrosome of an animal cell are a pair of centrioles, each composed of nine sets of triplet microtubules arranged in a ring (FIGURE 7.22). Before a cell divides, the centrioles replicate. Although centrioles may help organize microtubule assembly, they are not essential for this function in all eukaryotes; centrosomes of most plants lack centrioles altogether.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-22. Centrosome containing a pair of centrioles. An animal cell has a pair of centrioles within its centrosome, the region near the nucleus where the cell's microtubules are initiated. The centrioles, each about 250 nm (0.25 mm) in diameter, are arranged at right angles to each other, and each is made up of nine sets of three microtubules. The blue portions of the drawing represent nontubulin proteins that connect the microtubule triplets (TEM).
+
+Cilia and Flagella. In eukaryotes, a specialized arrangement of microtubules is responsible for the beating of flagella and cilia, locomotor appendages that protrude from some cells. Many unicellular eukaryotic organisms are propelled through water by cilia or flagella, and the sperm of animals, algae, and some plants are flagellated. If cilia or flagella extend from cells that are held in place as part of a tissue layer, they function to move fluid over the surface of the tissue. For example, the ciliated lining of the windpipe sweeps mucus containing trapped debris out of the lungs (see FIGURE 7.2).
+
+Cilia usually occur in large numbers on the cell surface. They are about 0.25 mm in diameter and about 2-20 mm in length. Flagella are the same diameter but longer than cilia, measuring 10-200 mm in length. Also, flagella are usually limited to just one or a few per cell.
+
+Flagella and cilia also differ in their beating patterns (FIGURE 7.23). A flagellum has an undulating motion that generates force in the same direction as the flagellum's axis. In contrast, cilia work more like oars, with alternating power and recovery strokes generating force in a direction perpendicular to the cilium's axis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-23. A comparison of the beating of flagella and cilia.
+
+Though different in length, number per cell, and beating pattern, cilia and flagella share a common ultrastructure. A cilium or flagellum has a core of microtubules sheathed in an extension of the plasma membrane (FIGURE 7.24). Nine doublets of microtubules, the members of each pair sharing part of their walls, are arranged in a ring. In the center of the ring are two single microtubules. This arrangement, referred to as the "9 + 2" pattern, is found in nearly all eukaryotic flagella and cilia. (The flagella of motile prokaryotes, which will be discussed in Chapter 27, are entirely different.) Flexible "wheels" of proteins, evenly spaced along the length of the cilium or flagellum, connect the outer doublets to each other and to the two central microtubules (note the radial spokes in FIGURE 7.24c). Each outer doublet also has pairs of side-arms spaced along its length and reaching toward the neighboring doublet; these are motor molecules. The microtubule assembly of a cilium or flagellum is anchored in the cell by a basal body, which is structurally identical to a centriole. In fact, in many animals (including humans), the basal body of the fertilizing sperm's flagellum enters the egg and becomes a centriole.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-24. Ultrastructure of a eukaryotic flagellum or cilium.
+
+The motor molecules extending from each microtubule doublet to the next are made of a large protein called dynein. These dynein arms are responsible for the bending movements of cilia and flagella. A dynein arm performs a complex cycle of movements caused by changes in the conformation of the protein, with ATP providing the energy for these changes.
+
+The mechanics of dynein "walking" are reminiscent of a cat climbing a tree by attaching its claws, moving its legs, releasing its front claws, and grabbing again farther up the tree. Similarly, the dynein arms of one doublet attach to an adjacent doublet and pull so that the doublets slide past each other in opposite directions. The arms then release from the other doublet and reattach a little farther along its length. Without any restraints on the movement of the microtubule doublets, one doublet would continue to "walk" along the surface of the other, elongating the cilium or flagellum rather than bending it (see FIGURE 7.21a). For lateral movement of a cilium or flagellum, the dynein "walking" must have something to pull against, as when the muscles in your leg pull against your bones to move your knee. In cilia and flagella, the microtubule doublets seem to be held in place by the protein cross-links between the doublets, the radial spokes, and the other structural elements. Thus, neighboring doublets cannot slide past each other very far. Instead, the forces exerted by the dynein arms cause the doublets to curve, bending the cilium or flagellum (FIGURE 7.25).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-25. How dynein "walking" moves cilia and flagella. Powered by ATP, the dynein arms of one microtubule doublet grip the adjacent doublet, pull, release, and then grip again. The doublets cannot slide far because they are physically restrained within the cilium or flagellum, so they bend. For clarity, the two central microtubules and the radial spokes are omitted here.
+
+Microfilaments (Actin Filaments)
+
+Microfilaments are solid rods about 7 nm in diameter. They are also called actin filaments, because they are built from molecules of actin, a globular protein. A microfilament is a twisted double chain of actin subunits (see TABLE 7.2). Microfilaments seem to be present in all eukaryotic cells.
+
+In contrast to the compression-resisting role of microtubules, the structural role of microfilaments in the cytoskeleton is to bear tension (pulling forces). In combination with other proteins, they often form a three-dimensional network just inside the plasma membrane, helping support the cell's shape. This network gives the cortex (outer cytoplasmic layer) of such a cell the semisolid consistency of a gel, in contrast with the more fluid (sol) state of the interior cytoplasm. In animal cells specialized for transporting materials across the plasma membrane, bundles of microfilaments make up the core of microvilli, delicate projections that increase the cell surface area (FIGURE 7.26).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-26. A structural role of microfilaments. The surface area of this nutrient-absorbing intestinal cell is increased by its many microvilli, cellular extensions reinforced by bundles of microfilaments. These actin filaments are anchored to a network of intermediate filaments (TEM).
+
+Microfilaments are well known for their role in cell motility, particularly as part of the contractile apparatus of muscle cells. Thousands of actin filaments are arranged parallel to one another along the length of a muscle cell, interdigitated with thicker filaments made of a protein called myosin (FIGURE 7.27a). Myosin acts as a motor molecule by means of projections (arms) that "walk" along the actin filaments. Contraction of the muscle cell results from the actin and myosin filaments sliding past one another in this way, shortening the cell. In other kinds of cells, actin filaments are associated with myosin in miniature and less elaborate versions of the arrangement in muscle cells. These actin-myosin aggregates are responsible for localized contractions of cells. For example, a contracting belt of microfilaments forms a cleavage furrow that pinches a dividing animal cell into two daughter cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-27. Microfilaments and motility. In the three examples shown in this figure, cell nuclei and most other organelles have been omitted.
+
+Localized contraction brought about by actin and myosin also plays a role in amoeboid movement (FIGURE 7.27b), in which a cell crawls along a surface by extending and flowing into cellular extensions called pseudopodia (from the Greek pseudes, false, and pod, foot). Pseudopodia extend and contract through the reversible assembly of actin subunits into microfilaments and of microfilaments into networks that convert cytoplasm from sol to gel. According to a widely accepted model, filaments near the cell's trailing end interact with myosin, causing contraction. Like squeezing on a toothpaste tube, this contraction forces the interior fluid into the pseudopodium, where the actin network has been weakened. The pseudopodium extends until the actin reassembles into a network. Not only do amoebas move by crawling, but so do many cells in the animal body, such as white blood cells.
+
+In plant cells, both actin-myosin interactions and sol-gel transformations brought about by actin may be involved in cytoplasmic streaming, a circular flow of cytoplasm within cells (FIGURE 7.27c). This movement, which is especially common in large plant cells, speeds the distribution of materials within the cell.
+
+Intermediate Filaments
+
+Intermediate filaments are named for their diameter, which, at 8-12 nm, is larger than the diameter of microfilaments but smaller than that of microtubules (see TABLE 7.2 and FIGURE 7.26). Specialized for bearing tension (like microtubules), intermediate filaments are a diverse class of cytoskeletal elements. Each type is constructed from a different molecular subunit belonging to a family of proteins called keratins. Microtubules and microfilaments, in contrast, are consistent in diameter and composition in all eukaryotic cells.
+
+Intermediate filaments are more permanent fixtures of cells than are microfilaments and microtubules, which are often disassembled and reassembled in various parts of a cell. Chemical treatments that remove microfilaments and microtubules from the cytoplasm leave a web of intermediate filaments that retains its original shape. Such experiments suggest that intermediate filaments are especially important in reinforcing the shape of a cell and fixing the position of certain organelles. For example, the nucleus commonly sits within a cage made of intermediate filaments, fixed in location by branches of the filaments that extend into the cytoplasm. Other intermediate filaments make up the nuclear lamina that lines the interior of the nuclear envelope (see FIGURE 7.9). In cases where the shape of the entire cell is correlated with function, intermediate filaments support that shape. For instance, the long extensions (axons) of nerve cells that transmit impulses are strengthened by one class of intermediate filament. The various kinds of intermediate filaments may function as the framework of the entire cytoskeleton.
+
+
+
+
+
+ Plant cells are encased by cell walls
+
+The cell wall is one of the features of plant cells that distinguishes them from animal cells. The wall protects the plant cell, maintains its shape, and prevents excessive uptake of water. On the level of the whole plant, the strong walls of specialized cells hold the plant up against the force of gravity. Prokaryotes, fungi, and some protists also have cell walls, but we will postpone discussion of them until Unit Five.
+
+Plant cell walls are much thicker than the plasma membrane, ranging from 0.1 mm to several micrometers. The exact chemical composition of the wall varies from species to species and from one cell type to another in the same plant, but the basic design of the wall is consistent. Microfibrils made of the polysaccharide cellulose (see FIGURE 5.8) are embedded in a matrix of other polysaccharides and protein. This combination of materials, strong fibers in a "ground substance" (matrix), is the same basic architectural design found in steel-reinforced concrete and in fiberglass.
+
+A young plant cell first secretes a relatively thin and flexible wall called the primary cell wall (FIGURE 7.28). Between primary walls of adjacent cells is the middle lamella, a thin layer rich in sticky polysaccharides called pectins. The middle lamella glues the cells together (pectin is used as a thickening agent in jams and jellies). When the cell matures and stops growing, it strengthens its wall. Some plant cells do this simply by secreting hardening substances into the primary wall. Other cells add a secondary cell wall between the plasma membrane and the primary wall. The secondary wall, often deposited in several laminated layers, has a strong and durable matrix that affords the cell protection and support. Wood, for example, consists mainly of secondary walls.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-28. Plant cell walls. Plant cells first construct thin primary walls, often adding stronger secondary walls to the inside of the primary wall when the cell's growth ceases. A sticky middle lamella cements adjacent cells together. Thus, the multilayered partition between these cells consists of adjoining walls individually secreted by the cells. The walls do not isolate the cells: The cytoplasm of one cell is continuous with the cytoplasm of its neighbors via plasmodesmata, channels through the walls (TEM).
+
+
+
+
+
+ The extracellular matrix (ECM) of animal cells functions in support, adhesion, movement, and regulation
+
+Although animal cells lack walls akin to those of plant cells, they do have an elaborate extracellular matrix (ECM) (FIGURE 7.29). The main ingredients of the ECM are glycoproteins secreted by the cells. (Recall that glycoproteins are proteins with covalently bonded carbohydrate, usually short chains of sugars.) The most abundant glycoprotein in the ECM of most animal cells is collagen, which forms strong fibers outside the cells. In fact, collagen accounts for about half of the total protein in the human body. The collagen fibers are embedded in a network woven from proteoglycans, which are glycoproteins of another class. Proteoglycan molecules are especially rich in carbohydrate--up to 95% --and they can form large complexes, as shown in FIGURE 7.29. Some cells are attached to the ECM by still other kinds of glycoproteins, most commonly fibronectins. Fibronectins bind to receptor proteins called integrins that are built into the plasma membrane. Integrins span the membrane and bind on their cytoplasmic side to microfilaments of the cytoskeleton. Thus, integrins are in a position to transmit changes in the ECM to the cytoskeleton, and vice versa--to integrate changes occurring outside and inside the cell.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-29. Extracellular matrix (ECM) of an animal cell. The molecular composition and structure of the ECM varies from one cell type to another. In this example, three different types of glycoproteins are present: proteoglycan, collagen, and fibronectin. Collagen fibers are embedded in proteoglycan complexes, which consist of proteoglycan molecules extending like little trees from long polysaccharide molecules. Fibronectin molecules are the adhesive that attaches the ECM to the plasma membrane of the cell, by connecting to membrane proteins called integrins.
+
+Current research on fibronectins and integrins is revealing the influential role of the extracellular matrix in the lives of cells. Communicating with a cell through integrins, the ECM can regulate a cell's behavior. For example, some cells in a developing embryo migrate along specific pathways by matching the orientation of their microfilaments to the "grain" of fibers in the extracellular matrix. Researchers are also learning that the extracellular matrix around a cell can influence the activity of genes in the nucleus. Information about the ECM probably reaches the nucleus by a combination of mechanical and chemical signaling pathways. Mechanical signaling involves fibronectins, integrins, and the cytoskeleton. Changes in the cytoskeleton may in turn trigger chemical signaling pathways inside the cell. In this way, the extracellular matrix of a particular tissue could help coordinate the behavior of all the cells within that tissue. Direct connections between cells also function in this coordination, as we discuss next.
+
+
+
+
+
+ Intercellular junctions help integrate cells into higher levels of structure and function
+
+The many cells of an animal or plant are organized into tissues, organs, and organ systems. Neighboring cells often adhere, interact, and communicate through special patches of direct physical contact.
+
+It might seem that the nonliving cell walls of plants would isolate cells from one another. In fact, as already mentioned, plant cell walls are perforated with channels called plasmodesmata (singular, plasmodesma; from the Greek desmos, to bind). Cytosol passes through the plasmodesmata and connects the living contents of adjacent cells (see FIGURES 7.8 and 7.28). This unifies most of the plant into one living continuum. The plasma membranes of adjacent cells are continuous through a plasmodesma; the membrane lines the channel. Water and small solutes can pass freely from cell to cell, and recent experiments have shown that in certain circumstances, particular proteins and RNA molecules can also do this. The macromolecules to be transported to neighboring cells seem to reach the plasmodesmata by moving along fibers of the cytoskeleton.
+
+In animals, there are three main types of intercellular junctions: tight junctions, desmosomes, and gap junctions. All three types are especially common in epithelial tissue, which lines the internal surfaces of the body. FIGURE 7.30 uses epithelial cells of the intestinal lining to illustrate the junctions. Each kind of junction has a structure well adapted for its function. At tight junctions, the membranes of neighboring cells are actually fused. Forming continuous belts around the cells, these junctions prevent leakage of extracellular fluid across a layer of epithelial cells. In our example, the tight junctions of the intestinal epithelium keep the contents of the intestine separate from the body fluid on the opposite side of the epithelium. Desmosomes (also called anchoring junctions) function like rivets, fastening cells together into strong sheets. Intermediate filaments made of the sturdy protein keratin reinforce desmosomes. Gap junctions (also called communicating junctions) provide cytoplasmic channels between adjacent animal cells. Special membrane proteins surround each pore, which is wide enough for salt ions, sugars, amino acids, and other small molecules to pass. In the muscle tissue of the heart, the flow of ions through gap junctions coordinates the contractions of the cells. Gap junctions are especially common in animal embryos, in which chemical communication between cells is essential for development.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-30. Intercellular junctions in animal tissues. Epithelial cells lining the intestine illustrate the three main kinds of intercellular junctions (TEMs).
+
+
+
+
+
+ The cell is a living unit greater than the sum of its parts
+
+From our panoramic view of the cell's overall compartmental organization to our closeup inspection of each organelle's architecture, this tour of the cell has provided many opportunities to correlate structure with function. (This would be a good time to review cell structure by returning to FIGURES 7.7 and 7.8 on pages 114 and 115.) But even as we dissect the cell, remember that none of its organelles works alone. As an example of cellular integration, consider the microscopic scene in FIGURE 7.31. The large cell is a macrophage. It helps defend the body against infections by ingesting bacteria (the smaller yellow cells). The macrophage crawls along a surface and reaches out to the bacteria with thin pseudopodia ("filopodia"). Actin filaments interact with other elements of the cytoskeleton in these movements. After the macrophage engulfs the bacteria, they are destroyed by lysosomes. The elaborate endomembrane system, which includes the ER and the Golgi apparatus, produces the lysosomes. The digestive enzymes of the lysosomes and the proteins of the cytoskeleton are all made on ribosomes. And the synthesis of these proteins is programmed by genetic messages dispatched from the DNA in the nucleus. All these processes require energy, which mitochondria supply in the form of ATP. Cellular functions arise from cellular order: The cell is a living unit greater than the sum of its parts.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-31. The emergence of cellular functions from the cooperation of many organelles. The ability of this macrophage (brown) to recognize, apprehend, and destroy bacteria (yellow) is a coordinated activity of the whole cell. Its cytoskeleton, lysosomes, and plasma membrane are among the components that function in phagocytosis. This and other cellular functions are emergent properties that depend on interactions of the cell's parts (colorized SEM).
+
+
+
+

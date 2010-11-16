@@ -1,0 +1,52 @@
+
+ Differences in water potential drive water transport in plant cells
+
+The survival of plant cells depends on their ability to balance water uptake and loss. The net uptake or loss of water by a cell occurs by osmosis, the passive transport of water across a membrane (see FIGURE 8.11). How can we predict the direction of osmosis when a cell is surrounded by a particular solution? In the case of an animal cell, it is enough to know whether the extracellular solution is hypotonic (has a lower solute concentration) or hypertonic (has a higher solute concentration) relative to the cell; water will move by osmosis in the hypotonic  hypertonic direction. But in the case of a plant cell, the presence of a cell wall adds a second factor affecting osmosis: physical pressure. The combined effects of these two factors--solute concentration and pressure--are incorporated into a single measurement called water potential, abbreviated by the Greek letter psi (y).
+
+The most important thing for you to learn about water potential is that water will move across a membrane from the solution with the higher water potential to the solution with the lower water potential. For example, if a plant cell is immersed in a solution having a higher water potential than the cell, osmotic uptake of the water will cause the cell to swell. By moving, water can perform work (expanding a cell, for instance). The potential in water potential refers to this potential energy, the capacity to perform work when water moves from a region of higher y to a region of lower y. It is a special case of the general tendency of systems to change spontaneously to a state of lowest free energy (see FIGURE 6.5).
+
+Plant biologists measure y in units of pressure called megapascals (abbreviated MPa), where 1 MPa is equal to about 10 atmospheres of pressure. (An atmosphere is the pressure exerted at sea level by an imaginary column of air--about 1 kg of pressure per square centimeter.) A couple of nonbiological examples will give you some idea of the magnitude of a megapascal: A car tire is usually inflated to a pressure of about 0.2 MPa; the water pressure in home plumbing is about 0.25 MPa.
+
+How Solutes and Pressure Affect Water Potential
+
+Let's see how solute concentration and pressure affect water potential. For purposes of comparison, the water potential of pure water in a container open to the atmosphere is zero (y = 0 MPa). The addition of solutes lowers the water potential. This is because the water molecules that form shells around a solute have less freedom to move than they do in pure water. Because y is standardized as 0 MPa for pure water, any solution at atmospheric pressure has a negative water potential owing to the presence of solutes. For instance, a 0.1-molar (M) solution of any solute has a water potential of -20.23 MPa. If this solution is separated from pure water by a selectively permeable membrane, water will move by osmosis into the solution, from the region of higher y (0 MPa) to the region of lower y (-20.23 MPa). But to predict the direction of water movement, we also have to consider the influence of physical pressure on y.
+
+In contrast to the inverse relationship of y to solute concentration, water potential is directly proportional to pressure; increasing pressure raises y. Remember that y measures the relative tendency for water to leave one location in favor of another. Physical pressure--pressing the plunger of a syringe filled with water, for example--causes water to escape via any available exit. If a solution is separated from pure water by a selectively permeable membrane, external pressure on the solution can counter its tendency to take up water due to the presence of solutes. In fact, even greater pressure will force water across the membrane from the solution to the compartment containing pure water. It is also possible to create a negative pressure, or tension, on water or solutions. For example, if you pull up on the plunger of a syringe, the negative pressure within the syringe draws a solution through the needle.
+
+Quantitative Analysis of Water Potential
+
+The combined effects of pressure and solute concentration on water potential are incorporated into the following equation:  where yP is the pressure potential (physical pressure on a solution) and yS is the solute potential, which is proportional to the solute concentration of a solution. (yS is also called osmotic potential.)
+
+Let's see how this equation works with the help of FIGURE 36.3. A 0.1 M solution has a yS of -20.23 MPa. Thus, in the absence of a physical pressure (yP = 0), water potential, as stated earlier, is -20.23 MPa for a 0.1 M solution:  Water would move into this solution from a compartment of pure water separated from the solution by a selectively permeable membrane (FIGURE 36.3a). But if we now apply a physical pressure of +10.23 MPa to this solution, we raise its water potential from a negative value to 0 MPa (y = 0.23 -0.23). There will now be no net flow of water between this pressurized solution and the compartment of water (FIGURE 36.3b). In fact, if we increase yP to +10.3 MPa, then the solution has a water potential of +10.07 MPa (y = 0.3 - 0.23), and this solution will actually lose water to a compartment containing pure water (FIGURE 36.3c). Finally, imagine using a plunger to pull upward on the water instead of pushing downward on the solution. A negative pressure (tension) of -0.3 MPa on the water compartment would be sufficient to draw water from the solution, which has a water potential of -0.23 MPa (FIGURE 36.3d). In dissecting water potential to see these opposing effects of pressure and solutes, it is important to remember the key point: Water will move across a membrane in the direction of lower (more negative) water potential.
+
+
+
+Click image to enlarge
+
+
+
+Fig 36-3. Water potential and water movement: a mechanical model. In this U-shaped apparatus, a selectively permeable membrane separates pure water from a 0.1 molar (M) solution containing a particular solute that cannot pass freely across the membrane. Water moves across a selectively permeable membrane from where water potential is higher to where it is lower. The water potential (y) of pure water at atmospheric pressure is 0 MPa. If we know the values of pressure potential (yP) and solute potential (yS), we can calculate water potential: (y = yP + yS). The values for y and yS in the left and right arms of the U-tube are given for initial conditions, before any net movement of water. (a) The addition of solutes reduces water potential (to a negative value). (b, c) Application of physical pressure increases water potential. (d) A negative pressure (tension) decreases water potential.
+
+Let's now apply what we have learned about water potential to the uptake and loss of water by plant cells. First, imagine a flaccid cell, one that has a yP of 0 and is therefore not firm. Let's bathe this flaccid cell in a solution of higher solute concentration than the cell itself (FIGURE 36.4a). Since the external solution has the lower (more negative) water potential, water will leave the cell by osmosis, and the cell will plasmolyze, or shrink and pull away from its wall. Now let's place the same flaccid cell in pure water (y =0; FIGURE 36.4b). The cell has a lower water potential because of the presence of solutes, and water enters the cell by osmosis. The cell begins to swell and push against the wall, producing a turgor pressure. The partially elastic wall pushes back against the pressurized cell. When this wall pressure is great enough to offset the tendency for water to enter because of the solutes in the cell, then yP and yS are equal in magnitude and thus y -0. This matches the water potential of the extracellular environment--in this example, 0 MPa. A dynamic equilibrium has been reached, and there is no further net movement of water, although an equal exchange of water across the membrane continues.
+
+
+
+Click image to enlarge
+
+
+
+Fig 36-4. Water relations of plant cells. In these experiments, identical cells, initially flaccid, are placed in two different environments. (The protoplasts of flaccid cells are in contact with their walls but lack turgor pressure.) The blue arrows indicate the initial direction of water movement.
+
+In contrast to a flaccid cell, a walled cell that has a greater solute concentration than its surroundings will be turgid, referring to the turgor pressure that keeps it firm. Healthy plant cells are turgid most of the time. Their turgor contributes to support in nonwoody parts of the plant. You can see the consequences of turgor loss in a wilted tomato plant, which has flaccid cells (FIGURE 36.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 36-5. A watered tomato plant regains its turgor.
+
+
+
+

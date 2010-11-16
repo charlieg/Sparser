@@ -1,0 +1,38 @@
+
+ Taxonomy employs a hierarchical system of classification
+
+The Linnaean system has two main characteristics: a two-part name for each species and a hierarchical classification of species into broader and broader groups of organisms.
+
+The Binomial
+
+Taxonomists assign to each species a two-part latinized name, or binomial. The first part of a binomial is the genus (plural, genera) to which the species belongs. The second part of a binomial, the specific epithet, refers to one species within the genus. An example of a binomial is Panthera pardus, the scientific name for the large cat we commonly call the leopard. Notice that the first letter of the genus is capitalized and that the whole binomial is italicized and latinized. (You can name a bug you discover after a friend, but you must add the appropriate Latin ending.)
+
+Common names--such as cat, bear, finch, and lilac--often work well in informal communication, but they can be ambiguous because there are many species of each of these kinds of organisms. When biologists publish their research, they refer to the organisms they have studied with scientific names (binomials) to avoid ambiguity. Many of the scientific names in use today date back to Linnaeus, who assigned binomials to over 11,000 species of plants and animals. In fact, perhaps in a show of optimism, Linnaeus assigned to humans the scientific name Homo sapiens, which means "wise man."
+
+Hierarchical Classification
+
+In addition to identifying and naming species, a major objective of systematics is to group species into broader taxonomic categories. The first step of such a hierarchical classification is built into the binomial for a species. We group species that are closely related into the same genus. For example the leopard, Panthera pardus, belongs to a genus that also includes the African lion (Panthera leo) and the tiger (Panthera tigris). Grouping species is natural for us--a way for us to structure our view of the world. We lump together several trees we know as oaks and distinguish them from several other species of trees we call maples. Indeed, oaks and maples belong to separate genera. Biology's taxonomic scheme formalizes our tendency to group related objects.
+
+Beyond the grouping of species within genera, taxonomy extends to progressively broader categories of classification. It places related genera in the same family, puts families into orders, orders into classes, classes into phyla (singular, phylum), phyla into kingdoms, and kingdoms into domains. Each taxonomic level is more comprehensive than the previous one. All species of cats are mammals, but not all mammals are cats. The named taxonomic unit at any level is called a taxon (plural, taxa). For example, Pinus is a taxon at the genus level, the generic name for the various species of pine trees. Mammalia, a taxon at the class level, includes all the many orders of mammals. Only the genus name and specific epithet are italicized, and all taxa at the genus level and beyond are capitalized.
+
+FIGURE 25.7 places the leopard in this taxonomic scheme of groups within groups. Classifying a species by kingdom, phylum, and so on, is analogous to sorting mail, first by zip code and then by street, house number, and specific member of the household. The phylogenetic trees that systematists construct reflect the hierarchical classification of taxonomic groups nested within more inclusive groups. FIGURE 25.8 illustrates the connection between phylogeny and classification with a simplified tree that includes the leopard.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-7. Hierarchical classification. The taxonomic scheme classifies species into groups belonging to more comprehensive groups. The leopard (Panthera pardus) belongs to the genus Panthera, which also includes the African lion and tiger. These wild felines belong to the cat family (Felidae), along with the genus Felis, which includes the domestic cat and several closely related wild cats, such as the lynx. Family Felidae belongs to the order Carnivora, which also includes the dog family, Canidae, and several other families. Order Carnivora, the carnivores, is grouped with many other orders in the class Mammalia, the mammals. Mammalia is one of several classes belonging to the phylum Chordata in the kingdom Animalia. The domain is an even broader taxonomic level. Domain Eukarya includes Kingdom Animalia and all other eukaryotic organisms.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-8. The connection between classification and phylogeny. Hierarchical classification is reflected in the finer and finer branching of phylogenetic trees. This tree suggests possible evolutionary relationships among some of the taxa within the order Carnivora, itself a branch of the class Mammalia.
+
+
+
+

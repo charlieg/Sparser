@@ -1,0 +1,56 @@
+
+ The three levels of biodiversity are genetic diversity, species diversity, and ecosystem diversity
+
+Biodiversity--short for biological diversity--has three main components, or levels (FIGURE 55.1).
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-1. Three levels of biodiversity. (The oversized chromosomes in the voles symbolize the genetic variation within the population.)
+
+Loss of Genetic Diversity
+
+The first level of biodiversity is genetic variation. In addition to the individual variation within a population, there is also genetic variation between populations, associated with adaptations to local conditions (see Chapter 23). If one local population becomes extinct, then a species has lost some of the genetic diversity that makes adaptation possible. This erosion of genetic diversity is, of course, detrimental to the overall adaptive prospects of the species. But the loss of genetic diversity throughout the biosphere also has implications for human welfare. For example, wild populations of plants closely related to our agricultural species are genetic resources for improving certain crop qualities through plant breeding.
+
+Loss of Species Diversity
+
+The second level of biodiversity is the variety of species in an ecosystem or throughout the entire biosphere--what we called species richness in Chapter 53. Much of the popular and political discussion of the biodiversity crisis centers on species. The U.S. Endangered Species Act (ESA) defines an endangered species as one that is "in danger of extinction throughout all or a significant portion of its range." Also defined for protection by the ESA, threatened species are those that are likely to become endangered in the foreseeable future throughout all or a significant portion of their range.
+
+Here are just a few examples of why conservation biologists are so concerned about species loss:
+
+According to the International Union for Conservation of Nature and Natural Resources (IUCN), 13%  of the 9,040 known bird species in the world are threatened with extinction. That's 1,183 species! In the past 40 years, population densities of migratory songbirds in the mid-Atlantic United States dropped 50% .
+
+A recent survey conducted by the Center for Plant Conservation showed that of the approximately 20,000 known plant species in the United States, 200 species have become extinct since such records have been kept. Another 730 plant species in the United States are endangered or threatened with extinction.
+
+About 20%  of the known freshwater fishes in the world have either become extinct during historical times or are seriously threatened. One of the largest rapid extinction events yet recorded is the ongoing loss of freshwater fishes in Lake Victoria in East Africa. About 200 of the 300 species of cichlids in the lake have been lost, mainly as a result of the recent introduction by Europeans of an exotic predator, the Nile perch.
+
+Since 1900, 123 freshwater vertebrate and invertebrate species have become extinct in North America, and hundreds more species are threatened. Extinction rates for North American freshwater fauna are about five times higher than those for terrestrial animals. About 4%  of the known freshwater species will become extinct each decade unless habitat loss and degradation are reversed.
+
+Harvard biologist Edward O. Wilson has compiled what he grimly calls the Hundred Heartbeat Club. The species that belong are those animals that number fewer than 100 individuals and so are only that many heartbeats away from extinction (FIGURE 55.2).
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-2. A hundred heartbeats from extinction. These are just three of the many members of what E. O. Wilson calls the Hundred Heartbeat Club, species with fewer than 100 individuals remaining on Earth.
+
+Several researchers estimate that at the current rate of destruction, over half of all plant and animal species will be gone by the end of this new century.
+
+Extinction of species may be local; for example, a species may be lost in one river system but survive in an adjacent one. Global extinction of a species means that it is lost from all its locales. Extinction is often an unseen process. To know for certain that a given species is extinct, we must know its exact distribution. But millions of the world's species have not even been identified. Arthropods (especially insects), nematodes, fungi, protists, and prokaryotes head the list of taxa with great numbers of undiscovered species. But even well-studied taxa, such as birds and mammals, are not completely known. In the past decade, scientists have increased the list of known mammals by about 15% . Without a more complete catalog of species diversity and knowledge of the geographic distribution and ecological roles of Earth's species, our efforts to understand the structure and function of ecosystems on which our survival depends will remain incomplete.
+
+Loss of Ecosystem Diversity
+
+The variety of the biosphere's ecosystems is the third level of biological diversity. Within each ecosystem, the biological community has a network of interactions among populations of different species. The local extinction of one species--say, a keystone predator--can have a negative impact on the overall species richness of the community (see FIGURE 53.14). More broadly, each ecosystem can have an important impact on the whole biosphere. Be it a rain forest, peat bog, or expanse of open ocean, an ecosystem has characteristic patterns of energy flow and chemical cycling. For example, the productive "pastures" of phytoplankton in the oceans may help moderate the greenhouse effect by consuming massive quantities of CO2 for photosynthesis and for building shells made of bicarbonate.
+
+Some ecosystems are being erased from Earth at an astonishing pace. For example, the cumulative area of all tropical rain forests on the planet is about the size of the 48 contiguous United States, and we lose an area equal to the state of West Virginia each year.
+
+The biodiversity crisis is most often equated to species extinctions, but conservation biologists now realize that the disappearance of a species is often the result of losses in diversity at other levels, including the loss of genetic diversity and ecosystem diversity.
+
+
+
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TempEval>
+
+
+
+ WSJ891102-0086 
+ = 891102 
+ 891102-0086. 
+ Financing Business:
+@  Rogers Communications Inc. 
+ <TIMEX3 tid="t26" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ RCI.B 
+
+   <s>ROGERS COMMUNICATIONS Inc. <EVENT eid="e1" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> it <EVENT eid="e2" class="I_STATE" stem="plan" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">plans</EVENT> to <EVENT eid="e4" class="OCCURRENCE" stem="raise" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">raise</EVENT> 175 million to 180 million Canadian dollars (US$148.9 million to $153.3 million) through a private <EVENT eid="e5" class="OCCURRENCE" stem="placement" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">placement</EVENT> of perpetual preferred shares.</s> 
+<s>Perpetual preferred shares aren't retractable by the holders, the company <EVENT eid="e7" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT>.</s> 
+<s>Rogers <EVENT eid="e8" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> the shares will be <EVENT eid="e27" class="OCCURRENCE" stem="convertible" aspect="NONE" tense="FUTURE" polarity="POS" pos="ADJECTIVE">convertible</EVENT> into Class B shares, but that the company <EVENT eid="e29" class="STATE" stem="have" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">has</EVENT> the <EVENT eid="e11" class="I_STATE" stem="option" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">option</EVENT> to <EVENT eid="e13" class="OCCURRENCE" stem="redeem" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">redeem</EVENT> the shares before a <EVENT eid="e14" class="OCCURRENCE" stem="conversion" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">conversion</EVENT> <EVENT eid="e16" class="OCCURRENCE" stem="take" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">takes</EVENT> place.</s> 
+<s>A spokesman for the Toronto cable television and telecommunications concern <EVENT eid="e17" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> the coupon rate has n't yet been <EVENT eid="e18" class="OCCURRENCE" stem="fix" aspect="PERFECTIVE" tense="PRESENT" polarity="NEG" pos="VERB">fixed</EVENT>, but will probably be <EVENT eid="e20" class="OCCURRENCE" stem="set" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">set</EVENT> at around 8%.</s> 
+<s>He <EVENT eid="e21" class="I_ACTION" stem="decline" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">declined</EVENT> to <EVENT eid="e23" class="OCCURRENCE" stem="discuss" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">discuss</EVENT> other terms of the issue.</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" eventID="e2" relatedToTime="t26" task="B"/>
+<TLINK lid="l2" relType="UNKNOWN" eventID="e1" relatedToTime="t26" task="B"/>
+<TLINK lid="l3" relType="UNKNOWN" eventID="e7" relatedToTime="t26" task="B"/>
+<TLINK lid="l4" relType="UNKNOWN" eventID="e16" relatedToTime="t26" task="B"/>
+<TLINK lid="l5" relType="UNKNOWN" eventID="e29" relatedToTime="t26" task="B"/>
+<TLINK lid="l6" relType="UNKNOWN" eventID="e8" relatedToTime="t26" task="B"/>
+<TLINK lid="l7" relType="UNKNOWN" eventID="e20" relatedToTime="t26" task="B"/>
+<TLINK lid="l8" relType="UNKNOWN" eventID="e17" relatedToTime="t26" task="B"/>
+<TLINK lid="l9" relType="UNKNOWN" eventID="e21" relatedToTime="t26" task="B"/>
+</TempEval>

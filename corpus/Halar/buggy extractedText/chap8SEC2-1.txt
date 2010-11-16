@@ -1,0 +1,48 @@
+
+ Membrane models have evolved to fit new data
+
+Scientists began building molecular models of the membrane decades before membranes were first seen with the electron microscope in the 1950s. In 1895, Charles Overton hypothesized that membranes are made of lipids, based on his observations that substances that dissolve in lipids enter cells much more rapidly than substances that are insoluble in lipids. Twenty years later, membranes isolated from red blood cells were chemically analyzed and found to be composed of lipids and proteins.
+
+In 1917, Irving Langmuir made artificial membranes by adding phospholipids dissolved in benzene (an organic solvent) to water. After the benzene evaporated, the phospholipids remained as a film covering the surface of the water, with only the hydrophilic heads of the phospholipids immersed in the water (FIGURE 8.1a). In 1925, two Dutch scientists, E. Gorter and F. Grendel, reasoned that cell membranes must actually be phospholipid bilayers, two molecules thick. Such a bilayer could exist as a stable boundary between two aqueous compartments because the molecular arrangement shelters the hydrophobic tails of the phospholipids from water while exposing the hydrophilic heads to water (FIGURE 8.1b). Gorter and Grendel measured the phospholipid content of membranes isolated from red blood cells and found just enough of the lipid to cover the cells with two layers. (Ironically, Gorter and Grendel underestimated both the phospholipid content and the surface area of the cells, but the two errors canceled each other. Thus, what turned out to be a correct conclusion was based on flawed measurements.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-1. Artificial membranes (cross sections).
+
+If we assume that a phospholipid bilayer is the main fabric of the membrane, where do we place the proteins? Although the heads of phospholipids are hydrophilic, the surface of an artificial membrane consisting of a phospholipid bilayer adheres less strongly to water than does the surface of an actual biological membrane. This difference could be accounted for if the membrane were coated on both sides with hydrophilic proteins. In 1935, Hugh Davson and James Danielli proposed a sandwich model: a phospholipid bilayer between two layers of globular protein (FIGURE 8.2a).
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-2. Two generations of membrane models.
+
+When researchers first used electron microscopes to study cells in the 1950s, the pictures seemed to support the Davson-Danielli model. In electron micrographs of cells stained with atoms of heavy metals, the plasma membrane is triple-layered, having two dark (stained) bands separated by an unstained layer (see FIGURE 7.6a). Most early electron microscopists assumed that the stain adhered to the proteins and hydrophilic heads of the phospholipids, leaving the hydrophobic core of the membrane unstained. By the 1960s, the Davson-Danielli sandwich had become widely accepted as the structure not only of the plasma membrane, but of all the internal membranes of the cell. However, by the end of that decade, many cell biologists recognized two problems with the model.
+
+First, the generalization that all membranes of the cell are identical was challenged. Not all membranes look alike through the electron microscope. For example, whereas the plasma membrane is 7-8 nm thick and has the three-layered structure, the inner membrane of the mitochondrion is only 6 nm thick and in electron micrographs looks like a row of beads. Mitochondrial membranes also have a substantially greater percentage of proteins than plasma membranes, and there are differences in the specific kinds of phospholipids and other lipids. Membranes with different functions differ in chemical composition and structure. A second, more serious problem with the sandwich model is in the placement of the proteins. Unlike proteins dissolved in the cytosol, membrane proteins are not very soluble in water. Membrane proteins have hydrophobic regions as well as hydrophilic regions (that is, they are amphipathic). If such proteins were layered on the surface of the membrane, their hydrophobic parts would be in an aqueous environment.
+
+In 1972, S. J. Singer and G. Nicolson advocated a revised membrane model that placed the proteins in a location compatible with their amphipathic character. They proposed that membrane proteins are dispersed and individually inserted into the phospholipid bilayer, with only their hydrophilic regions protruding far enough from the bilayer to be exposed to water (FIGURE 8.2b). This molecular arrangement would maximize contact of hydrophilic regions of proteins and phospholipids with water while providing their hydrophobic parts with a nonaqueous environment. According to this model, the membrane is a mosaic of protein molecules bobbing in a fluid bilayer of phospholipids--hence the term fluid mosaic model.
+
+A method of preparing cells for electron microscopy called freeze-fracture has demonstrated visually that proteins are indeed embedded in the phospholipid bilayer of the membrane (FIGURE 8.3). Freeze-fracture splits a membrane along the middle of the phospholipid bilayer. When the halves of the fractured membrane are viewed in the electron microscope, the interior of the bilayer appears cobblestoned, with protein particles interspersed in a smooth matrix, as in the fluid mosaic model. Other kinds of evidence further support this arrangement.
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-3. Freeze-fracture and freeze-etch. With this method, the two-layer plasma membrane (or other cell membrane) can be split into its two layers. When the separated layers are examined with an electron microscope, the ultrastructure of the membrane's interior is revealed.
+
+Models are proposed by scientists as hypotheses, ways of organizing and explaining existing information. Replacing one model of membrane structure with another does not imply that the original model was worthless. The acceptance or rejection of a model depends on how well it fits observations and explains experimental results. A good model also makes predictions that shape future research. Models inspire experiments, and few models survive these tests without modification. New findings may make a model obsolete; even then, it may not be totally scrapped, but revised to incorporate the new observations. The fluid mosaic model is continually being refined and may one day undergo major revision.
+
+Now let's take a closer look at membrane structure, beginning with the word fluid.
+
+
+
+

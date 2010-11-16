@@ -1,0 +1,16 @@
+
+ Blue-light photoreceptors are a heterogeneous group of pigments
+
+The action spectra of many plant processes, including phototropism (the bending toward or away from light), the light-induced slowing of hypocotyl elongation when a seedling breaks ground during germination (see FIGURE 38.14), and the light-induced opening of stomata (see FIGURE 36.13), show that blue light is most effective in initiating these diverse responses. (FIGURE 39.17 illustrates phototropism as an example.) The biochemical identity of the blue-light photoreceptor was so elusive that in the 1970s plant physiologists began to refer to this putative receptor as cryptochrome (from the Greek kryptos, hidden, and chrom, pigment). In the 1990s, molecular biologists analyzing Arabidopsis mutants found that plants actually use at least three completely different types of pigments to detect blue light: cryptochromes (for the inhibition of hypocotyl elongation), phototropin (for phototropism), and a carotenoid-based photoreceptor called zeaxanthin (for stomatal opening).
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-17. Action spectrum for blue-light-stimulated phototropism. (a) Phototropic bending toward light is controlled by the blue-light photoreceptor called phototropin. In this action spectrum for phototropism in maize (Zea mays) coleoptiles, you can see that only light of wavelengths below 500 nm (blue and ultraviolet) are effective in inducing curvature. (b) The upper photograph in each pair was taken at the beginning of the experiment; the lower photos were taken after a 90-minute exposure to side lighting of the indicated colors.
+
+
+
+

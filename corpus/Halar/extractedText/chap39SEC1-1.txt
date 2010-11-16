@@ -1,0 +1,16 @@
+
+SIGNAL TRANSDUCTION AND PLANT RESPONSES
+
+ 
+
+ Signal-transduction pathways link internal and environmental signals to cellular responses
+
+
+
+All organisms, including plants, have the ability to receive specific environmental and internal signals and respond to them in ways that enhance survival and reproductive success. Bees, which possess UV-sensitive photoreceptors in their eyes, can discern nectar-guiding patterns on flower petals--patterns that are completely invisible to humans. A dog sniffing a fire hydrant receives information about its olfactory world, the nature of which we, with our inferior sense of smell, can only surmise. Plants, too, have cellular receptors that they use to detect important changes in their environment, whether the change is an increase in the concentration of a growth hormone, an injury from a caterpillar munching on leaves, or a decrease in day length as winter approaches.
+
+In order for an internal or external stimulus to elicit a physiological response, certain cells within the organism must possess an appropriate receptor, a molecule that is sensitive to and affected by the specific stimulus. For example, our blindness to UV-reflecting floral patterns is due to our eyes lacking the necessary UV photoreceptors. Upon receiving a stimulus, a receptor initiates a specific series of biochemical steps, a signal transduction pathway, which couples reception of the stimulus to the response of the organism. As you will learn, plants are sensitive to a wide range of internal and external stimuli, and each of these stimuli initiates a specific signal transduction pathway. We introduced general concepts of signal transduction in cells in Chapter 11. Here, we apply those concepts to specific examples in plants.
+
+
+
+

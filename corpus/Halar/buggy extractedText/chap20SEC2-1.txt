@@ -1,0 +1,30 @@
+
+ DNA technology makes it possible to clone genes for basic research and commercial applications: an overview
+
+Most methods for cloning pieces of DNA share certain general features. In FIGURE 20.1, an overview of gene cloning and its applications, we consider an approach that uses bacteria and their plasmids. Recall from Chapter 18 that plasmids are small, circular DNA molecules that replicate within bacterial cells, separate from the bacterial chromosome. For cloning genes or other pieces of DNA, plasmids are first isolated from bacterial cells. FIGURE 20.1 follows one plasmid as a foreign gene is inserted into it. The plasmid is now a recombinant DNA molecule, combining DNA from two sources. The plasmid is returned to a bacterial cell, which then reproduces to form a cell clone. The foreign gene carried by the plasmid is "cloned" at the same time, for the dividing bacteria continue to replicate the recombinant plasmid and pass it on to their descendants. Under suitable conditions, the bacterial clone will make the protein encoded by the foreign gene.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-1. An overview of how bacterial plasmids are used to clone genes. 
+			  
+		 A scientist isolates plasmid DNA from bacteria and DNA carrying a gene of interest from cells of another organism, such as an animal. 
+			  
+		 A piece of DNA containing the gene is inserted into a plasmid, producing recombinant DNA, and 
+			  
+		 the recombinant plasmid is returned to a bacterial cell. 
+			  
+		 This cell is then grown in culture, forming a clone of cells. The foreign DNA spliced into the plasmid is replicated with the rest of the plasmid as the host cell multiplies. In this way, the gene of interest is "cloned."
+			  
+		 A critical step in gene cloning is the identification of the bacterial clone carrying the gene of interest. 
+			  
+		 The drawings show some current applications of gene cloning in bacteria. In the examples on the left, a gene that originated in one organism is used to give another organism a new metabolic capability. In the cases on the right, useful protein products are harvested in large quantities from bacterial cultures. In this and later figures, the bacterial chromosomes and plasmids are not to scale; relative to the cells, the chromosomes are actually much larger and the plasmids much smaller.
+
+The potential uses of cloned genes fall into two general categories. The goal may be to produce a protein product, either for study or for some practical use. For example, pharmaceutical companies use bacteria carrying the gene for human growth hormone to produce large quantities of the hormone for treating stunted growth. Alternatively, the goal may be to prepare many copies of the gene itself. A scientist may want to determine the gene's nucleotide sequence or use the gene to endow an organism with a new metabolic capability. For example, a cloned gene for pest resistance originating in one species of crop plant might be transferred into plants of another species. Most genes exist in only one copy per genome--something on the order of one part per million of DNA--so the ability to clone such rare DNA fragments is extremely valuable. In the remainder of this chapter, we take a closer look at the steps in FIGURE 20.1 and at related methods.
+
+
+
+

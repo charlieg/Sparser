@@ -1,0 +1,28 @@
+
+ A virus is a genome enclosed in a protective coat
+
+The tiniest viruses are only 20 nm in diameter--smaller than a ribosome. Millions could easily fit on a pinhead. Even the largest viruses can barely be resolved with the light microscope. Stanley's discovery that some viruses could be crystallized was exciting and puzzling news. Not even the simplest of cells can aggregate into regular crystals. But if viruses are not cells, then what are they? They are infectious particles consisting of nucleic acid enclosed in a protein coat and, in some cases, a membranous envelope. Let's examine the structure of viruses more closely; then we'll look at how viruses replicate.
+
+Viral Genomes
+
+We usually think of genes as being made of double-stranded DNA--the conventional double helix--but many viruses defy this convention. Their genomes may consist of double-stranded DNA, single-stranded DNA, double-stranded RNA, or single-stranded RNA, depending on the specific type of virus. A virus is called a DNA virus or an RNA virus, according to the kind of nucleic acid that makes up its genome. In either case, the genome is usually organized as a single linear or circular molecule of nucleic acid. The smallest viruses have only four genes, while the largest have several hundred.
+
+Capsids and Envelopes
+
+The protein shell that encloses the viral genome is called a capsid. Depending on the type of virus, the capsid may be rod-shaped (more precisely, helical), polyhedral, or more complex in shape. Capsids are built from a large number of protein subunits called capsomeres, but the number of different kinds of proteins is usually small. Tobacco mosaic virus, for example, has a rigid, rod-shaped capsid made from over a thousand molecules of a single type of protein (FIGURE 18.2a, p. 330). Adenoviruses, which infect the respiratory tracts of animals, have 252 identical protein molecules arranged into a polyhedral capsid with 20 triangular facets--an icosahedron (FIGURE 18.2b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 18-2. Viral structure. Viruses are made up of nucleic acid (DNA or RNA) enclosed in a protein coat (the capsid) and sometimes further wrapped in a membranous envelope. The individual protein subunits making up the capsid are called capsomeres. Although viruses are diverse in size and shape, there are common structural motifs, most of which appear in the four examples shown here. (All the micrographs are TEMs.)
+
+Some viruses have accessory structures that help them infect their hosts. Influenza viruses, as well as many other viruses found in animals, have viral envelopes, membranes cloaking their capsids (FIGURE 18.2c). These envelopes are derived from membrane of the host cell, but in addition to host cell phospholipids and proteins, they also contain proteins and glycoproteins of viral origin (glycoproteins are proteins with carbohydrate covalently attached). Some viruses carry a few viral enzyme molecules within their capsids.
+
+The most complex capsids are found among viruses that infect bacteria. As you learned in Chapter 16, bacterial viruses are called bacteriophages, or simply phages. The first phages studied included seven that infect the bacterium Escherichia coli. These seven phages were named type 1 (T1), type 2 (T2), and so forth, in the order of their discovery. By coincidence, the three T-even phages--T2, T4, and T6--turned out to be very similar in structure. Their capsids have elongated 20-sided heads that enclose their DNA. Attached to the head is a protein tail piece with tail fibers that the phages use to attach to a bacterium (FIGURE 18.2d).
+
+
+
+

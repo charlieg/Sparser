@@ -1,0 +1,44 @@
+
+ Diverse excretory systems are variations on a tubular theme
+
+Protonephridia: Flame-Bulb Systems
+
+Flatworms (phylum Platyhelminthes) have excretory systems called protonephridia. A protonephridium is a network of dead-end tubules lacking internal openings (FIGURE 44.18). The tubules branch throughout the body, and the smallest branches are capped by a cellular unit called a flame bulb. The flame bulb has a tuft of cilia projecting into the tubule. The beating of the cilia draws water and solutes from the interstitial fluid through the flame bulb (filtration) into the tubule system, and then moves the urine outward through the tubules until they empty to the external environment through openings called nephridiopores. Excreted urine is very dilute in freshwater flatworms, helping balance the osmotic uptake of water from the environment. Apparently, the tubules reabsorb most solutes before the urine exits the body.
+
+The flame-bulb systems of freshwater flatworms seem to function mainly in osmoregulation; most metabolic wastes diffuse out of the animal across the body surface or are excreted into the gastrovascular cavity and eliminated through the mouth (see Chapter 33). However, in some parasitic flatworms, which are isoosmotic to the surrounding fluids of their host organisms, protonephridia function mainly to dispose of nitrogenous wastes. This difference in function shows how structures common to a group of organisms can be adapted in diverse ways by evolution in different environments. Protonephridia are also found in rotifers, some annelids, the larvae of mollusks, and lancelets, which are invertebrate chordates. (See Chapters 33 and 34 to review these animal phyla.)
+
+Metanephridia
+
+Another type of tubular excretory system, the metanephridium, has internal openings that collect body fluids (FIGURE 44.19). Metanephridia are found in most annelids, including earthworms. Each segment of a worm has a pair of metanephridia, which are immersed in coelomic fluid and enveloped by a capillary network. The internal opening of a metanephridium is surrounded by a ciliated funnel, the nephrostome, which collects fluid from the coelom.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-19. Metanephridia of an earthworm. Each segment of the worm contains a pair of metanephridia (shown in green and blue), which collect coelomic fluid from the adjacent anterior segment. Fluid enters the nephrostome and passes through the coiled collecting tubule, which includes a storage bladder that opens to the outside through the nephridiopore. Nitrogenous wastes remain in the fluid and are excreted, but certain salts are pumped back into the blood. An earthworm's urine is very dilute, with this loss of water balancing osmotic uptake of water through the skin.
+
+An earthworm's metanephridia have both excretory and osmoregulatory functions. As urine moves along the tubule, the transport epithelium bordering the lumen reabsorbs most solutes and returns them to the blood in the capillaries. Nitrogenous wastes remain in the tubule and are dumped to the outside. Earthworms inhabit damp soil and usually experience a net uptake of water by osmosis. Their metanephridia balance the water influx by producing dilute urine (hypoosmotic to the body fluids).
+
+Malpighian Tubules
+
+Insects and other terrestrial arthropods have organs called Malpighian tubules that remove nitrogenous wastes and also function in osmoregulation (FIGURE 44.20). Malpighian tubules open into the digestive tract and dead-end at tips that are immersed in hemolymph (circulatory fluid). The transport epithelium lining the tubules secretes certain solutes, including nitrogenous wastes, from the hemolymph into the lumen of the tubule. Water follows the solutes into the tubule by osmosis, and the fluid then passes into the rectum, where most solutes are pumped back into the hemolymph. Water again follows the solutes, and the nitrogenous wastes (mainly insoluble uric acid) are eliminated as nearly dry matter along with the feces. The insect excretory system--highly effective in conserving water--is one of several key adaptations that contributed to the tremendous success of these animals on land.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-20. Malpighian tubules of insects. Malpighian tubules are outfoldings of the digestive tract. The tubules secrete nitrogenous wastes and salts from the hemolymph into the tubule lumen, and water follows these solutes by osmosis. Most of the salts and water are reabsorbed across the epithelium of the rectum, and the nearly dry nitrogenous wastes are eliminated with the feces.
+
+Vertebrate Kidneys
+
+The kidneys of vertebrates usually function in both osmoregulation and excretion. Like the excretory organs of most animal phyla, kidneys are built of tubules. The osmoconforming hagfishes, which are among the most primitive living vertebrates, have kidneys with segmentally arranged excretory tubules, and it is likely that the excretory structures of vertebrate ancestors were also segmented. However, the kidneys of most vertebrates are compact, nonsegmented organs containing numerous tubules arranged in a highly organized manner. A dense network of capillaries intimately associated with the tubules, along with ducts and other structures that carry urine out of the tubules and kidney and eventually out of the body, are also integral parts of the vertebrate excretory system.
+
+We will focus first on the mammalian version of the vertebrate excretory system, using humans as our example. We will then compare the excretory organs of the various vertebrate classes to see evolutionary modifications that function in different environments.
+
+
+
+

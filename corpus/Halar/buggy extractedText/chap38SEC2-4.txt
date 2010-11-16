@@ -1,0 +1,42 @@
+
+ Plants have various mechanisms that prevent self-fertilization
+
+Some flowers self-fertilize (this is called "selfing"), but the majority of angiosperms have mechanisms that make it difficult or impossible for a flower to fertilize itself. The various barriers that prevent self-fertilization contribute to genetic variety by ensuring that sperm and eggs come from different parents. (The evolutionary and ecological importance of sexual reproduction is discussed in Chapter 23.) Dioecious plants, of course, cannot self-fertilize because they are unisexual, being either staminate or carpellate. In some plants with bisexual flowers, the stamens and carpels mature at different times or are structurally arranged in such a way that it is unlikely that an animal pollinator could transfer pollen from the anthers to the stigma of the same flower (FIGURE 38.6). However, the most common anti-selfing mechanism in flowering plants is self-incompatibility, the ability of a plant to reject its own pollen and the pollen of closely related individuals. If a pollen grain from an anther happens to land on a stigma of a flower on the same plant, a biochemical block prevents the pollen from completing its development and fertilizing an egg.
+
+
+
+Click image to enlarge
+
+
+
+Fig 38-6. "Pin" and "thrum" flower types reduce self-fertilization. Some species, such as primrose (Oenothera biennis), produce two types of flowers: "pins," which have long styles and short stamens, and "thrums," which have short styles and long stamens. An insect foraging for nectar would collect pollen on different parts of its body; pin pollen would be deposited on thrum stigmas, and vice versa.
+
+Researchers are unraveling the molecular mechanisms of self-incompatibility. This plant response is analogous to the immune response of animals, in the sense that both are based on the ability of organisms to distinguish the cells of "self" from those of "nonself." The key difference is that the animal immune system rejects nonself, as when the system mounts a defense against a pathogen or attempts to reject a transplanted organ. Self-incompatibility in plants, in contrast, is a rejection of self.
+
+Recognition of "self" pollen is based on genes for self-incompatibility, called S-genes (FIGURE 38.7). In a particular plant population, as many as 50 different alleles can occur at the S-locus. If a pollen grain and the carpel's stigma upon which it lands have matching alleles at the S-locus, then the pollen grain fails to initiate or complete formation of a pollen tube, and thus no fertilization occurs. The pollen grain is haploid, and it will be recognized as "self" if its one S-allele matches either of the two S-alleles of the diploid stigma.
+
+
+
+Click image to enlarge
+
+
+
+Fig 38-7. Genetic basis of self-incompatibility. In the gene pool of a plant population, there can be dozens of alleles of the S-gene. If a pollen grain has an allele that matches an allele of the stigma upon which it lands, then a pollen tube fails to grow.
+
+Although self-incompatibility genes are all referred to as S-loci, such genes have actually evolved independently in various plant families. As a consequence, self-recognition blocks pollen tube growth by different molecular mechanisms. In some cases, the block occurs in the pollen grain itself; this is called gametophytic self-incompatibility. For example, in some members of the tobacco, rose, and bean (legume) families, self-recognition leads to enzymatic destruction of RNA within a rudimentary pollen tube. The RNA-hydrolyzing enzymes, or RNases, are present in the style of the carpel, but apparently they can enter a pollen tube and attack its RNA only if the pollen is of a "self" type.
+
+In other cases, the block is a response by the cells of the carpel's stigma; this is called sporophytic self-incompatibility (because the carpel is part of the sporophyte). In members of the mustard family, for example, self-recognition activates a signal-transduction pathway in epidermal cells of the stigma that prevents germination of the pollen grain (FIGURE 38.8). Recent research suggests that one of the responses of the stigma to self-pollen is the opening of aquaporins, membrane proteins that function in water transport (see Chapter 36). Uptake of additional water by the stigma cell might block pollen germination by preventing the stigma from hydrating the relatively dry pollen, a step required for growth of a pollen tube. This model of self-incompatibility will certainly evolve as researchers learn more about how certain plants reject their own pollen.
+
+
+
+Click image to enlarge
+
+
+
+Fig 38-8. A possible mechanism of sporophytic self-incompatibility. In plants of the mustard family, there are at least two protein products of the S-locus. (The genes coding for these proteins are so tightly linked that they are inherited as though a single gene.) One of the protein products, labeled R in this diagram, is a receptor protein located in the extracellular matrix (wall) of the stigma epidermal cell. Another product of the S-locus is a protein kinase (K) embedded in the plasma membrane of the stigma cell. (A protein kinase, recall from Chapter 11, is an enzyme that activates other proteins by phosphorylating them.) These proteins interact according to the steps in this diagram of a hypothetical mechanism for self-incompatibility.
+
+Basic research on mechanisms of self-incompatibility may lead to agricultural applications. Plant breeders sometimes hybridize different varieties of a crop plant to combine the best traits of the varieties and counter the loss of vigor that can result from excessive inbreeding (see Chapter 14). Many agriculturally important plants are self-compatible. To maximize the number of hybrid seeds, breeders currently must prevent self-fertilization by laboriously removing the anthers from the parent plants that provide the seeds. Eventually, it may be possible instead to impose self-incompatibility on crop species that are normally self-compatible.
+
+
+
+

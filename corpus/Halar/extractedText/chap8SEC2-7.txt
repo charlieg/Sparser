@@ -1,0 +1,20 @@
+
+ Osmosis is the passive transport of water
+
+In comparing two solutions of unequal solute concentration, the solution with a higher concentration of solutes is said to be hypertonic. The solution with a lower solute concentration is hypotonic. (Hyper and hypo mean "more" and "less," respectively, referring here to solute concentration.) These are relative terms that are meaningful only in a comparative sense. For example, tap water is hypertonic to distilled water but hypotonic to seawater. In other words, tap water has a higher solute concentration than distilled water, but a lower concentration than seawater. Solutions of equal solute concentration are said to be isotonic (iso means "the same").
+
+Picture a U-shaped vessel with a selectively permeable membrane separating two sugar solutions of different concentrations (FIGURE 8.11). Pores in this synthetic membrane are too small for sugar molecules to pass but large enough for water molecules to cross the membrane. In effect, the solution with higher solute concentration (hypertonic) has a lower water concentration. Therefore the water will diffuse across the membrane from the hypotonic solution to the hypertonic solution. This diffusion of water across a selectively permeable membrane is a special case of passive transport called osmosis.*
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-11. Osmosis. Two sugar solutions of different concentrations are separated by a porous membrane that is permeable to the solvent (water) but not to the solute (sugar). Water diffuses from the less concentrated (hypotonic) solution to the more concentrated (hypertonic) solution. This passive transport of water, or osmosis, reduces the difference in sugar concentrations.
+
+The direction of osmosis is determined only by a difference in total solute concentration. Water moves from a hypotonic to a hypertonic solution even if the hypotonic solution has more kinds of solutes. Seawater, which has a great variety of solutes, will lose water to a very concentrated solution of a single sugar because the total solute concentration of the seawater is lower. If two solutions are isotonic, water moves across a membrane separating the solutions at an equal rate in both directions; that is, there is no net osmosis between isotonic solutions. (In Chapters 36 and 44, we will look at osmosis in a more quantitative way.)
+
+
+
+

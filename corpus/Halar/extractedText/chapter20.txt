@@ -1,0 +1,676 @@
+
+Chapter 20: DNA TECHNOLOGY AND GENOMICS
+
+DNA CLONING
+
+   DNA technology makes it possible to clone genes for basic research and commercial applications: an overview
+
+   Restriction enzymes are used to make recombinant DNA
+
+   Genes can be cloned in recombinant DNA vectors: a closer look
+
+   Cloned genes are stored in DNA libraries
+
+   The polymerase chain reaction (PCR) clones DNA entirely in vitro
+
+
+
+DNA ANALYSIS AND GENOMICS
+
+   Restriction fragment analysis detects DNA differences that affect restriction sites
+
+   Entire genomes can be mapped at the DNA level
+
+   Genome sequences provide clues to important biological questions
+
+
+
+PRACTICAL APPLICATIONS OF DNA TECHNOLOGY
+
+   DNA technology is reshaping medicine and the pharmaceutical industry
+
+   DNA technology offers forensic, environmental, and agricultural applications
+
+   DNA technology raises important safety and ethical questions
+
+The photo on this page shows a room of machines that are sequencing human DNA at the rate of 350,000 nucleotides per machine per day. The mapping and sequencing of the human genome, one of the great achievements of modern science, has been made possible by advances in DNA technology, starting with the invention of methods for making recombinant DNA. This is DNA in which genes from two different sources--often different species--are combined in vitro into the same molecule.
+
+The methods for making recombinant DNA are also central to genetic engineering, the direct manipulation of genes for practical purposes. Applications include the manufacture of hundreds of products. Using DNA technology, scientists can make recombinant DNA and then introduce it into cultured cells that replicate the DNA and may express its genes, yielding a desired protein. The bacterium E. coli is often used as a "host" organism for recombinant DNA because it is easy to grow and its biochemistry is well understood.
+
+DNA technology has launched a revolution in biotechnology. In broad terms, biotechnology is the manipulation of organisms or their components to make useful products. Practices that go back centuries, such as the use of microbes to make wine and cheese and the selective breeding of livestock, are examples of biotechnology. Natural genetic processes, such as mutation and genetic recombination, have always been involved. But biotechnology based on the manipulation of DNA in vitro differs from earlier practices by enabling scientists to modify specific genes and move them between organisms as distinct as bacteria, plants, and animals.
+
+DNA technology is now applied in areas ranging from agriculture to criminal law, but its most important achievements have been in basic research. DNA technology has stimulated discoveries in virtually all fields of biology by giving researchers new tools for tackling age-old questions. And it is providing us with detailed knowledge of the genomes of humans and many other organisms, knowledge largely inaccessible only a few decades ago.
+
+In this chapter, we describe the main techniques of DNA manipulation, discuss how genomes are analyzed at the DNA level, and survey the practical applications of DNA technology. In a concluding section, we consider some of the social and ethical issues that arise as DNA technology becomes more pervasive in our lives.
+
+
+
+
+
+DNA CLONING
+
+ 
+
+ DNA technology makes it possible to clone genes for basic research and commercial applications: an overview
+
+
+
+ 
+
+ Restriction enzymes are used to make recombinant DNA
+
+
+
+ 
+
+ Genes can be cloned in recombinant DNA vectors: a closer look
+
+
+
+ 
+
+ Cloned genes are stored in DNA libraries
+
+
+
+ 
+
+ The polymerase chain reaction (PCR) clones DNA entirely in vitro
+
+
+
+The molecular biologist studying a particular gene faces a challenge. Naturally occurring DNA molecules are very long, and a single molecule usually carries many genes. Moreover, genes may occupy only a small proportion of the chromosomal DNA, the rest being noncoding nucleotide sequences. A human gene, for example, might constitute only 1/100,000 of a chromosomal DNA molecule. As a further complication, the distinctions between a gene and the surrounding DNA are subtle, consisting only of differences in nucleotide sequence. To work directly with specific genes, scientists needed to develop methods for preparing well-defined, gene-sized pieces of DNA in multiple identical copies. In other words, they needed techniques for gene cloning.
+
+
+
+
+
+DNA ANALYSIS AND GENOMICS
+
+ 
+
+ Restriction fragment analysis detects DNA differences that affect restriction sites
+
+
+
+ 
+
+ Entire genomes can be mapped at the DNA level
+
+
+
+ 
+
+ Genome sequences provide clues to important biological questions
+
+
+
+Once we have techniques for preparing homogeneous samples of DNA, each containing large numbers of identical segments of a genome, we can begin to ask some far-ranging questions. Suppose we have cloned a DNA segment carrying a human gene of interest. Does the gene differ in different people, and are there certain alleles associated with a hereditary disorder? Where in the body and when is the gene expressed? What is the location of the gene within the genome? We can also address evolutionary questions by asking how the gene differs from species to species.
+
+To answer such questions fully, we will eventually need to know the complete nucleotide sequence of the gene and its counterparts in other individuals and species. And ultimately, we want to have the sequences of entire genomes available so that we can use them as the basis for studying whole sets of genes and their interactions--an approach called genomics. But we can start by analyzing cloned DNA by means of more indirect methods that can rapidly provide useful comparative information. Most of these methods, and DNA sequencing as well, make use of a technique called gel electrophoresis. This technique, described in FIGURE 20.8 (p. 384), separates macromolecules--nucleic acids or proteins--on the basis of size, electrical charge, and other physical properties. For linear molecules of DNA, separation depends mainly on size. Gel electrophoresis sorts a mixture of DNA molecules into bands, each consisting of DNA molecules of the same length.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-8. Gel electrophoresis of macromolecules. Gel electrophoresis separates macromolecules on the basis of their rate of movement through a gel in an electric field. For DNA, the migration rate--how far a molecule travels while the current is on--is inversely proportional to molecular size. Nucleic acids carry negative charges (on phosphate groups) proportional to their lengths, but the thicket of polymer fibers in the gel impedes longer fragments more than it does shorter ones.
+
+
+
+
+
+PRACTICAL APPLICATIONS OF DNA TECHNOLOGY
+
+ 
+
+ DNA technology is reshaping medicine and the pharmaceutical industry
+
+
+
+ 
+
+ DNA technology offers forensic, environmental, and agricultural applications
+
+
+
+ 
+
+ DNA technology raises important safety and ethical questions
+
+
+
+Hardly a day goes by that DNA technology is not in the news. More often than not, the topic of the story is a new and promising application to a medical problem.
+
+
+
+
+
+ DNA technology makes it possible to clone genes for basic research and commercial applications: an overview
+
+Most methods for cloning pieces of DNA share certain general features. In FIGURE 20.1, an overview of gene cloning and its applications, we consider an approach that uses bacteria and their plasmids. Recall from Chapter 18 that plasmids are small, circular DNA molecules that replicate within bacterial cells, separate from the bacterial chromosome. For cloning genes or other pieces of DNA, plasmids are first isolated from bacterial cells. FIGURE 20.1 follows one plasmid as a foreign gene is inserted into it. The plasmid is now a recombinant DNA molecule, combining DNA from two sources. The plasmid is returned to a bacterial cell, which then reproduces to form a cell clone. The foreign gene carried by the plasmid is "cloned" at the same time, for the dividing bacteria continue to replicate the recombinant plasmid and pass it on to their descendants. Under suitable conditions, the bacterial clone will make the protein encoded by the foreign gene.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-1. An overview of how bacterial plasmids are used to clone genes. 
+			  
+		 A scientist isolates plasmid DNA from bacteria and DNA carrying a gene of interest from cells of another organism, such as an animal. 
+			  
+		 A piece of DNA containing the gene is inserted into a plasmid, producing recombinant DNA, and 
+			  
+		 the recombinant plasmid is returned to a bacterial cell. 
+			  
+		 This cell is then grown in culture, forming a clone of cells. The foreign DNA spliced into the plasmid is replicated with the rest of the plasmid as the host cell multiplies. In this way, the gene of interest is "cloned."
+			  
+		 A critical step in gene cloning is the identification of the bacterial clone carrying the gene of interest. 
+			  
+		 The drawings show some current applications of gene cloning in bacteria. In the examples on the left, a gene that originated in one organism is used to give another organism a new metabolic capability. In the cases on the right, useful protein products are harvested in large quantities from bacterial cultures. In this and later figures, the bacterial chromosomes and plasmids are not to scale; relative to the cells, the chromosomes are actually much larger and the plasmids much smaller.
+
+The potential uses of cloned genes fall into two general categories. The goal may be to produce a protein product, either for study or for some practical use. For example, pharmaceutical companies use bacteria carrying the gene for human growth hormone to produce large quantities of the hormone for treating stunted growth. Alternatively, the goal may be to prepare many copies of the gene itself. A scientist may want to determine the gene's nucleotide sequence or use the gene to endow an organism with a new metabolic capability. For example, a cloned gene for pest resistance originating in one species of crop plant might be transferred into plants of another species. Most genes exist in only one copy per genome--something on the order of one part per million of DNA--so the ability to clone such rare DNA fragments is extremely valuable. In the remainder of this chapter, we take a closer look at the steps in FIGURE 20.1 and at related methods.
+
+
+
+
+
+ Restriction enzymes are used to make recombinant DNA
+
+Gene cloning and genetic engineering were made possible by the discovery of enzymes that cut DNA molecules at a limited number of specific locations. These enzymes, called restriction enzymes, were discovered in the late 1960s by researchers studying bacteria. In nature, these enzymes protect the bacteria against intruding DNA from other organisms, such as phages or other bacterial cells. They work by cutting up the foreign DNA, a process called restriction. Most restriction enzymes are very specific, recognizing short nucleotide sequences in DNA molecules and cutting at specific points within these sequences. The bacterial cell protects its own DNA from restriction by adding methyl groups (CH3) to adenines or cytosines within the sequences recognized by the restriction enzyme. Hundreds of different restriction enzymes have been identified and isolated.
+
+The top of FIGURE 20.2 is a diagram of a DNA molecule containing a recognition sequence, or restriction site, for a particular restriction enzyme. As shown in this example, most restriction sites are symmetrical: The same 5&#39; 3&#39; sequence of four to eight nucleotides (here, six) is found on both strands, thus running in opposite directions (antiparallel). Restriction enzymes cut covalent phosphodiester bonds of both strands, often in a staggered way, as indicated in the diagram. Because the target sequence usually occurs (by chance) many times in a long DNA molecule, an enzyme will make many cuts. Copies of a DNA molecule always yield the same set of restriction fragments when exposed to that enzyme. In other words, a restriction enzyme cuts a DNA molecule in a reproducible way. (Later you will learn how the different fragments can be separated.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-2. Using a restriction enzyme and DNA ligase to make recombinant DNA. The restriction enzyme in this example (called EcoRI) recognizes a specific six-base-pair sequence and makes staggered cuts in the sugar-phosphate backbone within this sequence. Complementary "sticky ends" will attach to each other by hydrogen bonding, transiently rejoining fragments in their original combinations or in new, recombinant arrangements. DNA ligase can then catalyze the formation of covalent bonds, joining their ends. If the fragments are from different sources, the result is recombinant DNA.
+
+Notice in FIGURE 20.2 that the restriction fragments are double-stranded DNA fragments with at least one single-stranded end, called a sticky end. These short extensions will form hydrogen-bonded base pairs with complementary single-stranded stretches on other DNA molecules cut with the same enzyme. The unions formed in this way are only temporary, because only a few hydrogen bonds hold the fragments together. The DNA fusions can be made permanent, however, by the enzyme DNA ligase, which seals the strands by catalyzing the formation of phosphodiester bonds. (Recall from Chapter 16 that DNA ligase is a key enzyme in DNA replication and repair.) We now have recombinant DNA, DNA that has been spliced together from two different sources.
+
+
+
+
+
+ Genes can be cloned in recombinant DNA vectors: a closer look
+
+With a restriction enzyme and DNA ligase in our toolkit, we can make the recombinant plasmid depicted in step 2 of FIGURE 20.1. The original plasmid is called a cloning vector, defined as a DNA molecule that can carry foreign DNA into a cell and replicate there. Bacterial plasmids are widely used as cloning vectors. Recombinant plasmids produced by splicing restriction fragments from foreign DNA into plasmids isolated from bacteria can be returned relatively easily to bacteria. Then, as a bacterium carrying a recombinant plasmid reproduces, the plasmid replicates within it. The resulting cell clone, which appears as a colony on solid nutrient medium, contains multiple copies--a "clone"--of the foreign DNA.
+
+Bacteria are the most commonly used host cells for gene cloning, primarily because of the ease with which DNA can be isolated from and reintroduced into such cells. Bacterial cultures also grow quickly, rapidly replicating any foreign genes they carry.
+
+Procedure for Cloning a Eukaryotic Gene in a Bacterial Plasmid
+
+Suppose we want to clone a particular eukaryotic gene using the method sketched out in steps 1-5 of FIGURE 20.1. The more detailed diagram in FIGURE 20.3 shows one way we might proceed. The step numbers in the text that follows correspond to the numbers in the figure.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-3. Cloning a human gene in a bacterial plasmid: a closer look. In this figure, double-stranded DNA is represented as a single band. (Refer to FIGURE 20.2 to see steps 2a-2c in more detail.) The circled numbers correspond to numbered steps in the text. The diagram focuses on a fragment of human DNA carrying a gene of interest (black), but steps 2a-2c actually produce an enormous variety of recombinant plasmids, each of which shows up as a separate colony in step 4. The method used to identify the clones of interest (step 4b) relies on the ampR and lacZ genes of the vector used here; other vectors and identification methods can also be used. Identifying the desired colony, step 5, is often the greatest challenge in this "shotgun" procedure.
+
+
+			  
+		Isolation of vector and gene-source DNA. We begin by preparing two kinds of DNA: the bacterial plasmid we'll use as a vector and DNA containing the gene of interest. This latter DNA comes from human tissue cells that we have grown in laboratory culture. The plasmid comes from the bacterium E. coli and carries two genes that will later prove useful: ampR, conferring resistance to the antibiotic ampicillin on its E. coli host cell, and lacZ, encoding the enzyme b-galactosidase, which catalyzes the hydrolysis of the sugar lactose. The plasmid has a single recognition sequence for the restriction enzyme used, and the sequence lies within the lacZ gene.
+
+
+			  
+		Insertion of DNA into the vector. In step 2a, we digest both the plasmid and the human DNA with the same restriction enzyme. The enzyme cuts the plasmid DNA at its single restriction site, disrupting the lacZ gene. It also cuts the human DNA, generating many thousands of fragments; one of these fragments carries the gene we want. In making the cuts, the restriction enzyme creates compatible sticky ends on both the human DNA fragments and the plasmid. For simplicity, FIGURE 20.3 shows the step-by-step processing of one human DNA fragment and one plasmid; but actually, millions of copies of the plasmid and a heterogeneous mixture of millions of human DNA fragments are treated simultaneously.
+
+In step 2b, we mix the fragments of human DNA with the clipped plasmids. The sticky ends of a plasmid base-pair with the complementary sticky ends of the human DNA fragment we are following. (Many other combinations form as well, such as two plasmids together or a plasmid with several DNA fragments; and re-formed, nonrecombinant plasmids are also common.) In step 2c, we use the enzyme DNA ligase to join the DNA molecules by covalent bonds. The result is a mixture of recombinant DNA molecules, some of which are like the one shown.
+
+
+			  
+		Introduction of the cloning vector into cells. In this step, bacterial cells take up the recombinant plasmids by transformation (the uptake of naked DNA from the surrounding solution; see pp. 341-342). The bacteria are lacZ- a mutation in gene lacZ makes them unable to hydrolyze lactose. Some of the bacteria acquire the desired recombinant plasmid DNA; many other cells take up other DNA, both recombinant and nonrecombinant.
+
+
+			  
+		Cloning of cells (and foreign genes). Finally, we arrive at the actual cloning step. We plate out the transformed bacteria on solid nutrient medium containing ampicillin and a sugar called X-gal (step 4a). Each reproducing bacterium forms a cell clone that appears as a colony on the nutrient medium. In the process, any human genes carried by recombinant plasmids are also cloned. We take advantage of the plasmid's own genes to select colonies of cells that carry recombinant plasmids. The ampicillin in the medium ensures that only plasmid-containing cells grow, for only they have the ampR gene conferring ampicillin resistance. The X-gal in the medium makes it easy to identify colonies of bacteria whose plasmids carry foreign DNA. X-gal is hydrolyzed by b-galactosidase to yield a blue product, so bacterial colonies containing plasmids with intact b-galactosidase genes will be blue. But if a plasmid has foreign DNA inserted into its lacZ gene, then a colony of cells containing it will be white, because the cells cannot produce b-galactosidase. In summary, with this method, bacteria with recombinant plasmids carrying foreign DNA will form white colonies on medium containing ampicillin and X-gal (step 4b).
+
+Our procedure to this point will have cloned many different human DNA fragments, not just the one that interests us. The next step, screening colonies for the desired human gene, is the most difficult.
+
+
+			  
+		Identification of cell clones carrying the gene of interest. How can we distinguish the colony containing our gene of interest from the many thousands of colonies carrying other pieces of human DNA? We can look either for the gene itself or for its protein product. All the methods for detecting the DNA of a gene directly depend on base pairing between the gene and a complementary sequence on another nucleic acid molecule, a process called nucleic acid hybridization. The complementary molecule, a short, single-stranded nucleic acid that can be either RNA or DNA, is called a nucleic acid probe. If we know at least part of the nucleotide sequence of our gene (perhaps from knowledge of the protein it encodes), we can synthesize a probe complementary to it.
+
+We trace the probe, which will hydrogen-bond specifically to complementary single strands of the desired gene, by labeling it with a radioactive isotope or a fluorescent tag. FIGURE 20.4 (p. 380) shows how a number of bacterial clones, growing as colonies on a plate of solid medium (agar), can be simultaneously screened for the presence of DNA complementary to a DNA probe. An essential step is the denaturation of the cells' DNA--that is, the separation of its two strands. As with protein denaturation, DNA denaturation is routinely accomplished with chemicals or heat. The labeled probe tags the colonies carrying the targeted gene.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-4. Using a nucleic acid probe to identify a cloned gene. This technique depends on the fact that complementary nucleotide sequences will base-pair, stuck together by hydrogen bonds. Here the cloned gene of interest is carried on a bacterial plasmid, and the probe is a short length of radioactive single-stranded DNA complementary to part of the gene. 
+			  
+		 Bacterial colonies on agar are pressed against special filter paper, transferring cells to the filter. 
+			  
+		 The filter is treated to break open the cells and denature their DNA; the resulting single-stranded DNA molecules stick to the filter. 
+			  
+		 A solution of probe molecules is incubated with the filter. The probe DNA hybridizes (base-pairs) with any complementary DNA on the filter; excess DNA is rinsed off. 
+			  
+		 The filter is laid on photographic film, allowing any radioactive areas to expose the film (autoradiography). 
+			  
+		 The developed film, an autoradiograph, is compared with the master culture plate to determine which colonies carry the desired gene.
+
+Once we've identified a cell clone carrying the desired gene, we can grow the cells in liquid culture in a large tank and then easily isolate large amounts of the gene. Also, we can use the cloned gene itself as a probe to identify similar or identical genes in DNA from other sources.
+
+If the cells containing a desired gene translate the gene into protein, then it is sometimes possible to identify them by screening all clones for the protein. Detection of the protein can be based on either its activity (as with an enzyme) or its structure, using antibodies that bind specifically to it. However, for bacterial cells to make a eukaryotic protein, we need to take special measures, as discussed next.
+
+Cloning and Expressing Eukaryotic Genes: Problems and Solutions
+
+Getting a cloned eukaryotic gene to function in a prokaryotic setting can be difficult because certain details of gene expression are different in the two kinds of cells. To overcome differences in promoters and other DNA control sequences, scientists usually employ an expression vector, a cloning vector that contains the requisite prokaryotic promoter just upstream of a restriction site where the eukaryotic gene can be inserted. The bacterial host cell will then recognize the promoter and proceed to express the foreign gene that has been linked to it. Expression vectors allow the synthesis of many eukaryotic proteins in bacterial cells.
+
+Another problem with cloning and expressing eukaryotic DNA in bacteria is the presence of long noncoding regions (introns) in most eukaryotic genes. Introns can make a eukaryotic gene very long and unwieldy, and they prevent correct expression of the gene by bacterial cells, which do not have RNA-splicing machinery. Fortunately, we can make artificial eukaryotic genes that lack introns (FIGURE 20.5). The starting material for this procedure is fully processed mRNA, which has been stripped of introns in the eukaryotic cell nucleus. We can extract this mRNA from cells and then use the enzyme reverse transcriptase (obtained from retroviruses) to make DNA transcripts of this RNA. Each DNA molecule produced carries the complete coding sequence for a gene but no introns. This DNA is called complementary DNA, or cDNA, and can be attached to vector DNA for replication inside a cell. Bacteria can express a eukaryotic cDNA gene if the vector provides a bacterial promoter and any other control elements necessary for the gene's transcription and translation.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-5. Making complementary DNA (cDNA) for a eukaryotic gene. Complementary DNA is DNA made in vitro using mRNA as a template and the enzyme reverse transcriptase. The synthesis and splicing of an mRNA molecule in a cell nucleus is shown in steps 
+			  
+		 and 
+			  
+		. In step 
+			  
+		, we isolate the mRNA molecules from the cell and add reverse transcriptase, which makes a DNA strand using the RNA as a template. We provide 
+			  
+		 another enzyme to degrade the RNA and 
+			  
+		 DNA polymerase to synthesize a second DNA strand. The result is cDNA, which carries the complete coding sequence of the gene but no introns.
+
+Molecular biologists can avoid eukaryotic-prokaryotic incompatibility by using eukaryotic cells rather than bacteria as hosts for cloning and/or expressing eukaryotic genes of interest. Yeast cells, single-celled fungi, offer two advantages: They are as easy to grow as bacteria, and they have plasmids, a rarity among eukaryotes. Scientists have even constructed recombinant plasmids that combine yeast and bacterial DNA and can replicate in either type of cell. Scientists have also constructed vectors called yeast artificial chromosomes (YACs) that combine the essentials of a eukaryotic chromosome--an origin for DNA replication, a centromere, and two telomeres--with foreign DNA. These chromosomes behave normally in mitosis, cloning the foreign DNA as the yeast cell divides. A YAC can carry much more DNA than can a plasmid vector, enabling very long pieces of DNA to be cloned.
+
+Another reason to use eukaryotic host cells for expressing a cloned eukaryotic gene is that many eukaryotic proteins will not function unless they are modified after translation, for example by the addition of carbohydrate or lipid groups. Bacterial cells cannot carry out these modifications, and if the gene product requiring such processing is from a mammal, even yeast cells will not be able to modify the protein correctly. The use of host cells from an animal or plant cell culture may therefore be necessary.
+
+Like bacteria, many kinds of eukaryotic cells can take up DNA from their surroundings but sometimes not very efficiently. To deal with this problem, scientists have developed a variety of more aggressive methods for introducing recombinant DNA into cells. In electroporation, they apply a brief electrical pulse to a solution containing cells. The electricity creates a temporary hole in the cell's plasma membrane, through which DNA can enter. (This technique is now commonly used for bacteria as well.) Alternatively, scientists can inject DNA directly into single eukaryotic cells using microscopically thin needles. And in a technique used primarily for plant cells, they can attach DNA to microscopic particles of metal and fire the particles into cells with a gun (see FIGURE 38.17). Once inside the cell, the DNA has a chance to be incorporated into the cell's DNA by natural genetic recombination.
+
+
+
+
+
+ Cloned genes are stored in DNA libraries
+
+Because the gene-cloning procedure in FIGURE 20.3 starts with a mixture of fragments from the entire genome of an organism, it is called a "shotgun" approach--no single gene is targeted for cloning. Thousands of different recombinant plasmids are actually produced in step 2 of FIGURE 20.3, and a clone of each ends up in a (white) colony in step 4. The complete set of thousands of recombinant plasmid clones, each carrying copies of a particular segment from the initial genome, is referred to as a genomic library (FIGURE 20.6a). A researcher can save such a library and use it as a source of other genes of interest or for genome mapping (as we'll discuss later).
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-6. Genomic libraries. A genomic library is a collection of many bacterial or phage clones, each containing copies of a particular DNA segment from a foreign genome. In a complete genomic library, the foreign DNA segments represented cover the entire genome of an organism. This diagram shows parts of two genomic libraries.
+
+In addition to plasmids, certain bacteriophages are also common cloning vectors for making genomic libraries. Fragments of foreign DNA can be spliced into a phage genome, as into a plasmid, by using a restriction enzyme and ligase. The recombinant phage DNA is then packaged into capsids in vitro and introduced into a bacterial cell through the normal infection process. Once inside the cell, the phage DNA replicates and produces new phage particles, each carrying the foreign DNA. A genomic library made using phage is stored as collections of phage clones (FIGURE 20.6b). Whatever the cloning vector, restriction enzymes do not respect gene boundaries in cutting up genomic DNA, so some genes in a genomic library may be divided up among two or more clones.
+
+Researchers can make a more limited kind of gene library by using complementary DNA (cDNA). When they first isolate mRNA from cells (step 3 in FIGURE 20.5), they actually obtain a mixture of all the mRNA molecules in the cell, transcribed from a number of different genes. Therefore, the cDNA that is made is a library containing a collection of genes. Such a cDNA library represents only part of a cell's genome--only the genes that were transcribed in the starting cells. This is an advantage if a researcher wants to study the genes responsible for specialized functions of a particular kind of cell, such as a brain or liver cell. Also, by making cDNA from cells of the same type at different times in the life of an organism, one can trace changes in patterns of gene expression.
+
+
+
+
+
+ The polymerase chain reaction (PCR) clones DNA entirely in vitro
+
+DNA cloning in cells remains the best method for preparing large quantities of a particular gene or other DNA sequence. However, when the source of DNA is scanty or impure, a method called PCR is quicker and more selective. PCR, the polymerase chain reaction, is a technique by which any piece of DNA can be quickly amplified (copied many times) without using cells (FIGURE 20.7). The DNA is incubated in a test tube with a special kind of DNA polymerase, a supply of nucleotides, and short pieces of synthetic single-stranded DNA that serve as primers for DNA synthesis. (Recall from FIGURE 16.14 that DNA polymerases need primers because they can add nucleotides only to a preexisting nucleotide chain.) With automation, PCR can make billions of copies of a targeted segment of DNA in a few hours, significantly faster than the days it takes to clone a piece of DNA by making a recombinant plasmid and letting it replicate within bacteria. Amplifying a tiny DNA sample a billionfold does not produce much DNA, but it can be enough for some purposes, such as DNA fingerprinting for a murder trial.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-7. The polymerase chain reaction (PCR). PCR is a method for making many copies of a specific segment of DNA. It is much faster than gene cloning using a plasmid or phage vector and is performed completely in vitro. A PCR machine repeats the three-step cycle shown in this figure again and again, until the targeted sequence has been duplicated many times.
+
+In the PCR procedure (see FIGURE 20.7), a three-step cycle brings about a chain reaction that produces an exponentially growing population of DNA molecules. The key to easy PCR automation is an unusual DNA polymerase that was first isolated from bacteria living in hot springs. Unlike most proteins, this enzyme can withstand the heat needed to separate the DNA strands at the start of each cycle.
+
+Just as impressive as the speed of PCR is its specificity. By their complementarity to sequences bracketing the targeted sequence, the primers determine the DNA sequence that is amplified. (In fact, PCR requires knowledge of such sequences.) PCR can be used, for example, to amplify a specific gene prior to further cloning in cells. The PCR makes the gene by far the most abundant DNA fragment, thus simplifying the later task of finding a clone carrying that gene. In fact, PCR is so specific and powerful that its starting material does not even have to be purified DNA. Only minute amounts of DNA need be present in the starting material, and this DNA can be in a partially degraded state. Note, however, that PCR cannot substitute for gene cloning in cells when large amounts of a gene are desired. Occasional errors during PCR replication impose limits on the number of good copies that can be made by this method.
+
+Devised in 1985, PCR has had a major impact on biological research and biotechnology. PCR has been used to amplify DNA from a wide variety of sources: fragments of ancient DNA from a 40,000-year-old frozen woolly mammoth; DNA from tiny amounts of blood, tissue, or semen found at the scenes of violent crimes; DNA from single embryonic cells for rapid prenatal diagnosis of genetic disorders; and DNA of viral genes from cells infected with such difficult-to-detect viruses as HIV. We'll return to applications of PCR later in the chapter.
+
+
+
+
+
+ Restriction fragment analysis detects DNA differences that affect restriction sites
+
+Restriction fragment analysis indirectly detects certain differences in the nucleotide sequences of DNA molecules. In this method, we use gel electrophoresis to sort by size the DNA fragments that result from treating a long DNA molecule with a restriction enzyme. Just viewing the stained pattern of bands on the gel can provide scientifically useful information. When the mixture of restriction fragments from a particular DNA molecule undergoes electrophoresis, it yields a band pattern characteristic of the starting molecule and the restriction enzyme used. In fact, the relatively small DNA molecules of viruses and plasmids can be identified simply by their restriction fragment patterns. (Larger DNA molecules, such as those of eukaryotic chromosomes, yield too many fragments to appear as distinct bands.) Because DNA can be recovered undamaged from gels, the procedure also provides a way to prepare pure samples of individual fragments.
+
+Let's use restriction fragment analysis to compare two different DNA molecules representing, for example, different alleles of a gene. We start by digesting each DNA sample with the same restriction enzyme. Because the two alleles must differ slightly in DNA sequence, they may differ in one or more restriction sites. Thus, the collections of restriction fragments from the two alleles may produce different band patterns in gel electrophoresis. FIGURE 20.9 (p. 384) shows how restriction fragment analysis by electrophoresis can distinguish between two alleles of a gene that differ in sequence by only one base pair if a restriction site is affected.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-9. Using restriction fragment patterns to distinguish DNA from different alleles.
+
+The starting materials in FIGURE 20.9 are samples of cloned and purified genes. However, by combining gel electrophoresis with nucleic acid hybridization, we can make the same comparison without preliminary gene cloning. We can start with DNA of the whole genome. Although electrophoresis will yield too many bands to distinguish individually, we can use nucleic acid hybridization with a specific probe to label discrete bands that derive from our gene of interest.
+
+The principle is the same as for the nucleic acid hybridization in FIGURE 20.4: A radioactive single-stranded nucleic acid probe selectively hydrogen-bonds with a targeted, complementary DNA sequence, which is then detected by autoradiography. Now, however, we use a probe in combination with an additional technique called Southern hybridization or Southern blotting.FIGURE 20.10 outlines the entire procedure and demonstrates how it can be used to compare DNA samples from three individuals. This method goes beyond FIGURE 20.4 by revealing not only whether a particular sequence is present in a sample of DNA but also the restriction fragments that contain the sequence.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-10. Restriction fragment analysis by Southern blotting. This procedure enables researchers to detect and analyze particular DNA sequences. The basis for detecting specific sequences is nucleic acid hybridization. The results can show not only whether certain sequences exist in different samples but also the number of such sequences within a genome and the size of the restriction fragments that contain them. In this way, it is possible to compare the DNA of different individuals or even species. Because of the selective power of nucleic acid hybridization, the starting material for analysis can be the entire genome of an organism. This huge length of DNA will produce so many restriction fragments that if all were made visible (with a dye, for example), they would appear as a smear in gel electrophoresis, rather than as discrete bands. Instead, only the DNA bands of interest are made visible by using a labeled probe. Before hybridization, the DNA being tested is transferred by capillary action (blotting) from the gel to a solid support, a sheet of nitrocellulose or nylon paper. The entire hybridization procedure is known as Southern blotting, after E.M. Southern, who developed it in 1975. The sensitivity of the hybridization can be adjusted either to detect only those sequences that are perfectly complementary to the probe or to detect similar (homologous) sequences as well.
+
+Southern blotting proved invaluable when biologists turned their attention to noncoding DNA, which comprises most of the DNA of animal and plant genomes. Are there differences in noncoding DNA sequences analogous to the differences in alleles of genes? Using noncoding DNA in procedures like that of FIGURE 20.9, researchers were excited to discover many differences in band patterns. Differences in DNA sequence on homologous chromosomes that can result in different restriction fragment patterns turn out to be scattered abundantly throughout genomes, including the human genome. Such differences have been named restriction fragment length polymorphisms (RFLPs, pronounced "Riflips"). This type of difference is conceptually the same as a difference in coding sequence; it, too, can serve as a genetic marker for a particular location (locus) in the genome. A given RFLP marker frequently occurs in numerous variants in a population. (The word polymorphisms comes from the Greek for "many forms.")
+
+RFLPs are detected and analyzed by Southern blotting. The example shown in FIGURE 20.10 could as easily represent the detection of a RFLP in noncoding DNA as a difference in the coding sequences of two alleles. Because of the sensitivity of DNA hybridization, the entire genome can be used as the DNA starting material. (Samples of human DNA are typically obtained from white blood cells.) The result of the procedure shown in FIGURE 20.10 indicates that individuals I and II carry the same version of the marker (RFLP or gene), but individual III carries a different version.
+
+Because RFLP markers are inherited in a Mendelian fashion, they can serve as genetic markers for making linkage maps. The geneticist uses the same reasoning you saw applied in FIGURE 15.6: The frequency with which two RFLP markers--or a RFLP marker and a certain allele for a gene--are inherited together is a measure of the closeness of the two loci on a chromosome. The discovery of RFLPs greatly increased the number of markers available for mapping the human genome. No longer were geneticists limited to genetic variations that lead to obvious phenotypic differences (such as genetic diseases) or even to differences in protein products.
+
+
+
+
+
+ Entire genomes can be mapped at the DNA level
+
+As early as 1980, molecular biologist David Botstein and colleagues proposed that the DNA variations reflected in RFLPs could serve as the basis for an extremely detailed map of the entire human genome. Since then, researchers have in fact used such markers for mapping the genomes of a number of organisms. For some organisms, they have already succeeded in bringing the map to the ultimate level of detail: the entire sequence of nucleotides in the DNA. Along the way, they have taken advantage of all the tools and techniques discussed in this chapter--restriction enzymes, DNA cloning, gel electrophoresis, labeled probes, and so forth.
+
+The most ambitious research project made possible by DNA technology has been the Human Genome Project, officially begun in 1990. This is an effort to map the entire human genome, ultimately by determining the complete nucleotide sequence of the DNA of each human chromosome (the 22 autosomes and the X and Y sex chromosomes). As organized by an international, publicly funded consortium of 20 groups of researchers at universities and research institutes, the project has proceeded through three stages that focus on the DNA more and more closely: genetic (or linkage) mapping, physical mapping, and DNA sequencing. We'll describe these stages shortly.
+
+In addition to mapping human DNA, the Human Genome Project includes mapping the genomes of other species important in biological research, including E. coli and other prokaryotes, Saccharomyces cerevisiae (yeast), Caenorhabditis elegans (nematode), Drosophila melanogaster (fruit fly), and Mus musculus (mouse). These genomes are of great interest in their own right and are also providing important insights of general biological significance, as we'll discuss later. In addition, the early work on these genomes was useful for developing the strategies, methods, and new technologies necessary for deciphering the human genome, which is much larger. The technological power for this daunting task has come in large part from advances in automation and from utilization of electronic technology, including computer software.
+
+Genetic (Linkage) Mapping
+
+In mapping a large genome, the first stage is to construct a linkage map of several thousand genetic markers spaced evenly throughout the chromosomes. As you learned in Chapter 15, the order of the markers on such a map and the relative distances between them are based on recombination frequencies. The markers can be genes (as in Chapter 15) or any other identifiable sequences in the DNA, such as RFLPs or the short repetitive sequences called microsatellites (see TABLE 19.1). Relying primarily on microsatellites, which are abundant in the human genome and have various "alleles" differing in length, researchers completed in a few years a human genetic map with some 5,000 markers. Such a map enables them to locate other markers, including genes, by testing for genetic linkage to the known markers. It is also valuable as a framework for organizing more detailed maps of particular regions.
+
+Physical Mapping: Ordering DNA Fragments
+
+In a physical map, the distances between markers are expressed in some physical measure, usually the number of nucleotides along the DNA. For whole-genome mapping, a physical map is made by cutting the DNA of each chromosome into a number of identifiable restriction fragments and then determining the original order of the fragments in the chromosomal DNA. The key is to make fragments that overlap and then use probes or automated nucleotide sequencing of the ends to find the overlaps. A method called chromosome walking, which uses probes, has been very useful (FIGURE 20.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-11. Chromosome walking. The researcher starts with a known gene or other DNA segment--one that has already been cloned, mapped, and sequenced--&gt;and "walks" along the chromosomal DNA from that locus, producing a map of overlapping restriction fragments. To prepare the fragments, the scientist cuts two samples of chromosomal DNA with different restriction enzymes and then clones both sets of fragments to form two libraries. This and other methods of ordering DNA fragments involve determining the nucleotide sequences of short, unique segments within each fragment. The resulting physical map is thus a linear array of fragments, each identifiable by two or more sequenced regions. All the DNA in this diagram is shown as single strands.
+
+Supplies of the DNA fragments used for physical mapping are prepared by cloning. In working with large genomes, researchers carry out several rounds of DNA cutting, cloning, and physical mapping. The first cloning vector is often a yeast artificial chromosome (YAC), which can carry inserted fragments a million base pairs long, or a bacterial artificial chromosome (BAC), an artificial version of a bacterial chromosome that can carry inserts of 100,000 to 500,000 base pairs. The scientists determine the order of these long fragments (by chromosome walking, for instance) and then cut each fragment into smaller pieces, which are cloned and ordered in turn. The final sets of fragments, cloned in plasmids or phage, are only about 1,000 base pairs long, short enough to be sequenced easily.
+
+DNA Sequencing
+
+The complete nucleotide sequence of a genome is the ultimate map. To repeat a key point, it is the technology for cloning fragments of DNA that has made possible the sequencing of the very long DNA molecules of genomes. Starting with a pure preparation of many copies of a relatively short DNA fragment, the nucleotide sequence of the fragment can be determined by a sequencing machine (see the photograph opening this chapter). The usual sequencing technique, described in FIGURE 20.12 (p. 388), combines DNA labeling, DNA synthesis involving special chain-terminating nucleotides, and high-resolution gel electrophoresis. But even with automation, the sequencing of all 3.2 billion nucleotide pairs in a haploid set of human chromosomes is a formidable challenge. In fact, a major thrust of the Human Genome Project has been the development of technology for faster sequencing, along with more sophisticated computer software for analyzing and assembling the partial sequences.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-12. Sequencing of DNA by the Sanger method. Developed by British scientist Frederick Sanger, this method for determining the nucleotide sequence of DNA molecules involves synthesizing in vitro DNA strands complementary to one of the strands of the DNA being sequenced. The method is based on the random incorporation of a modified nucleotide, a dideoxyribonucleotide, which terminates a growing DNA chain because it lacks a 3&#39;--OH for attachment of the next nucleotide (see FIGURE 16.11). DNA strands are synthesized that reflect all possible positions of the dideoxynucleotides and thus ultimately the entire DNA sequence. The molecules that are sequenced are cloned restriction fragments, typically several hundred nucleotides long. Most of the work of DNA sequencing is now automated. Instead of labeling the fragments with radioactive primers, modern sequencing machines use fluorescent dyes to tag the dideoxyribonucleotides, one color for each of the four types of nucleotide. This approach allows the four reactions to be performed in a single tube; the dideoxy ends of the reaction product DNA strands can be distinguished by the color of their fluorescence (see chapter-opening photo).
+
+FIGURE 20.13a (p. 389) reviews the three-stage, hierarchical approach to genome mapping that we've discussed so far. In practice, the three stages have overlapped in a way that our simplified version does not portray, but they have remained the overarching strategy of the public consortium of researchers.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-13. Alternative strategies for sequencing an entire genome. In both cases, the arrangement of DNA fragments in order depends on their having overlapping regions.
+
+Alternative Approaches to Whole-Genome Sequencing
+
+In 1992, emboldened by advances in sequencing machines and computer technology, molecular biologist J. Craig Venter came up with an alternative approach to the sequencing of whole genomes. His idea was essentially to skip the genetic mapping and physical mapping stages and start directly with the sequencing of random DNA fragments. Powerful computer programs would then assemble the resulting very large number of overlapping short sequences into a single continuous one (FIGURE 20.13b). Despite the skepticism of many other scientists, Venter left the public consortium to follow his vision. The worth of his approach was demonstrated in 1995, at least for prokaryotic genomes, when he and colleagues reported the first complete sequence of an organism, the bacterium Hemophilus influenzae. In May 1998, he set up a company, Celera Genomics, and promised a completed human sequence in three years. His whole-genome shotgun approach to sequencing was further validated in March 2000 by the sequence of Drosophila melanogaster, carried out in collaboration with academic scientists. As promised, in February 2001, Celera announced the sequencing of over 90%  of the human genome--simultaneously with a similar announcement by the public consortium.
+
+Representatives of the public consortium have pointed out that Celera made heavy use of their maps and sequence data, which are all--unlike Celera's data--made immediately available for free use, and assert that the infrastructure established by their approach will greatly facilitate the finishing-up phase of the project. Venter, on the other hand, argues for the efficiency and economy of Celera's methods; and indeed, the public consortium has made some use of them. What is clear is that both approaches are valuable and that the competition between the two groups has hastened progress. (See FIGURE 20.13 to review the two strategies.)
+
+As of mid-2001, the genomes of about 50 species have been completely (or almost completely) sequenced. Most are prokaryotes, including E. coli, a number of other bacteria (including ones of medical importance), and about 10 archaea. The yeast Saccharomyces cerevisiae was the first eukaryote to be completed, and the nematode C. elegans, a simple worm, the first multicellular organism. The plant Arabidopsis thaliana, another important research organism, has also been completed. Finally, the human genome is well on its way to completion, although there are still many gaps in the sequence. Because of the presence of repetitive DNA and for other poorly understood reasons, certain parts of the chromosomes of multicellular organisms resist detailed mapping by the usual methods. However, as sequences for more organisms are assembled, the job gets easier. For example, the sequencing of the mouse genome, which is about 85%  identical to the human genome, is being greatly aided by what is now known of the human sequence.
+
+On one level these sequences are simply dry lists of nucleotide bases--millions of A's, T's, C's, and G's in mind-numbing succession. But on another level, reached with the help of computer analysis, these sequences are already the basis of some exciting discoveries, which we discuss next.
+
+
+
+
+
+ Genome sequences provide clues to important biological questions
+
+Genomics, the study of genomes based on their DNA sequences, is yielding new insights into fundamental questions about genome organization, the control of gene expression, growth and development, and evolution. The beauty of DNA technology is that it enables geneticists to study genes directly, without having to infer genotype from phenotype as in classical genetics. But the newer approach poses the opposite problem, determining the phenotype from the genotype. Starting with a long DNA sequence, how does one recognize genes and determine their function?
+
+Analyzing DNA Sequences
+
+DNA sequences are being collected in computer data banks that are available to researchers all over the world via the Internet. Scientists use software to scan the sequences for the telltale signs of protein-coding genes, such as start and stop signals for transcription and translation (promoters, for example) and sequences associated with RNA-splicing sites. The software also looks for sequences similar to those found in known genes. (Thousands of such sequences, called expressed sequence tags, or ESTs, are cataloged in computer databases.) In this way, researchers come up with a list of gene candidates.
+
+Surprisingly Few Genes in the Human Genome. The most surprising--and humbling--result to date from the Human Genome Project is the small number of putative genes. The estimated number, 30,000 to 40,000, is much lower than the 50,000 to 100,000 expected and only two to three times the number found in the fruit fly and nematode worm (TABLE 20.1). Relative to the other organisms studied so far, a much smaller fraction of human DNA is genes. Much of the enormous amount of noncoding DNA in the human genome is repetitive DNA, but unusually long introns also contribute significantly. Human introns are typically ten times longer than those of the fly or worm.
+
+Table 20-1. Genome Sizes and Numbers of Genes
+
+EstimatedGenesGenomeNumberperOrganismSizeof GenesMb*H. influenzae1.8 Mb*1,700950(bacterium)S. cerevisiae12 Mb6,000500(yeast)C. elegans97 Mb19,000200(nematode)A. thaliana100 Mb25,000200(plant)D. melanogaster180 Mb13,000100(fruit fly)H. sapiens3,200 Mb30,000-40,00010(human)So what makes humans--and vertebrate animals in general--more complex than flies or worms? For one thing, compared with those of other organisms, our genome "gets more bang for the buck" out of its coding sequences because the RNA transcripts of human genes are more subject to alternative splicing (see FIGURE 19.11). The typical human gene probably specifies at least two or three different polypeptides by using different combinations of exons. This would bring the total number of different human polypeptides to about 90,000, without even beginning to consider the additional polypeptide diversity brought about by post-translational processing, such as cleavage or the addition of carbohydrate groups.
+
+Furthermore, the human DNA sequence (as well as other kinds of data) suggests that our polypeptides tend to be more complicated than those of invertebrates. Recall that many polypeptides consist of more than one domain, which is a discrete section with a particular structure and function (for some examples, see FIGURE 19.10). Although humans do not seem to have more types of domains than invertebrates, the domains are put together in many more combinations.
+
+In summary, the human genome seems to do more mixing and matching of modular elements--exons and protein domains--than simpler organisms, and this is undoubtedly a feature of vertebrates in general.
+
+Studying and Comparing Genes. About half of the human genes were already known before the Human Genome Project, but what of the others? Scientists compare the sequences of new gene candidates with those of known genes from various organisms. In some cases, a newly determined gene sequence will match, at least partially, a gene whose function is well known. For example, part of a new gene may match a known gene that encodes a protein kinase, suggesting that the new gene does, too. In other cases, the new gene sequence will be similar to a sequence encountered before but of unknown function. In still other cases, the sequence may be entirely unlike anything ever seen before. In the organisms that have been sequenced so far, many of the gene candidate sequences are entirely new to science. For example, about a third of the genes of E. coli, the best-studied of research organisms, are new to us!
+
+Despite the high complexity of the human genome and the proteins it encodes, comparisons of genome sequences confirm very strongly the evolutionary connections between even distantly related organisms and the relevance of research on simpler organisms to our understanding of human biology. Similarities between genes of disparate organisms can be surprising, to the point that one researcher has said that he now views fruit flies as "little people with wings." Yeast, for example, has a number of genes close enough to the human versions that they can substitute for them in a human cell. In fact, researchers can sometimes work out what a human disease gene does by studying its normal counterpart in yeast. Bacterial sequences reveal unsuspected metabolic pathways that may have industrial or medical uses. Moreover, comparisons of the completed genome sequences of bacteria, archaea, and eukarya strongly support the theory that these are the three fundamental domains of life.
+
+Studying Gene Expression
+
+We study genomes not only to learn about individual genes and their evolution but to learn how genes act together to produce and maintain a functioning organism. A major part of the answer to how we get along with so few genes is likely to be unusually complex networks of interactions among genes and their products. While some scientists are laboring to sequence and analyze their structure, others are using the genome sequences already obtained to study patterns of gene expression from a new, global perspective. These researchers are asking which genes are transcribed in different situations. Their basic strategy is to isolate the mRNA made in particular cells, use these molecules as templates for making a cDNA library by reverse transcription, and then compare this cDNA with other collections of DNA by hybridization. Researchers can see what genes are active at different stages of development, in different tissues, or in tissues in different states of health.
+
+DNA technology makes such gene expression studies possible; automation allows them to be easily performed on a large scale. Scientists can now detect and measure the expression of thousands of genes at one time. A revolutionary new method, described in FIGURE 20.14, uses DNA microarray assays. Tiny amounts of a large number of single-stranded DNA fragments representing different genes are fixed to a glass slide in a tightly spaced array (grid). (The array is also called a DNA chip by analogy to a computer chip.) Ideally, these fragments represent all the genes of an organism, as is already possible for organisms whose genomes have been completely sequenced. The fragments are tested for hybridization with various samples of cDNA molecules, which have been labeled with fluorescent dyes. An early test of this method compared the genes expressed in the roots and leaves of Arabidopsis. The researchers went on to sequence the genes that were more highly expressed in one tissue than in the other. The results were as predicted; genes encoding known photosynthetic enzymes, for instance, were turned on in the leaves but not in the roots. But more important than confirming predictions is the method's potential for uncovering new genes and gene interactions and providing clues to gene function. For example, DNA microarray assays are being used to compare cancerous with noncancerous tissues. Studying the differences in gene expression may lead researchers to new diagnostic techniques and biochemically targeted treatments, as well as a fuller understanding of cancer. Ultimately, information from microarray assays should provide us a grander view: how ensembles of genes interact to form a living organism.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 20-14. DNA microarray assay for gene expression. With this method, a researcher can simultaneously test all the genes expressed in a particular tissue for hybridization with an array of short DNA sequences representing thousands of genes, even all the genes of the organism. The cDNA molecules made in part (a) step 2 and added to every well of the microarray in step 3 represent the genes that were active in the tissue. In step 4, the spots where any of the cDNA hybridizes fluoresce with an intensity indicating the relative amount of the mRNA that was in the tissue. Molecules of cDNA representing more than one tissue or the same kind of tissue under different conditions can be tested together by using a different colored label for each.
+
+Determining Gene Function
+
+Perhaps the most interesting genes discovered in genome sequencing and gene expression studies are those whose functions are completely mysterious. How do researchers discover the functions of these genes? The main idea is to disable the gene in some way and hope that the consequences in the cell or organism will provide clues to the gene's normal function. One powerful approach is in vitro mutagenesis, a technique that can be used to introduce specific changes into the sequence of a cloned gene. Such mutations can alter or destroy the function of the protein product. Then, when the mutated gene is returned to a cell, it may be possible to determine the function of the missing normal protein by examining the phenotype of the mutant. Researchers can even put such a mutated gene into cells from the early embryo of a multicelled organism (such as a mouse) to study the role of the gene in the development and functioning of the whole organism.
+
+Some researchers working with nonmammalian organisms have recently begun using a simpler and faster method to silence the expression of selected genes. Called RNA interference (RNAi), the method uses synthetic double-stranded RNA molecules matching the sequence of a particular gene to trigger breakdown of the gene's messenger RNA. How the double-stranded RNA brings about this effect in the cell is still largely a mystery, but the process is a natural one that probably evolved to protect cells from viruses and restrain the movement of retrotransposons (which can disrupt essential genes). Scientists have only recently achieved some success in using the method to silence genes in mammalian cells, but in other kinds of organisms, such as the nematode, RNAi has already proved valuable.
+
+Future Directions in Genomics
+
+The success in mapping and sequencing genomes is encouraging scientists to move ahead to proteomics, the systematic study of the full protein sets (proteomes) encoded by genomes. Proteomics is a new kind of challenge. Because of alternative splicing of RNA and modifications of proteins after translation, the number of proteins in humans and our close relatives is likely to far exceed the number of genes. And collecting all the proteins will be difficult because a cell's proteins differ with the cell type and its state. Moreover, unlike DNA, proteins are extremely varied in structure and chemical and physical properties. However, because proteins are the molecules that actually carry out the activities of the cell, we must study them to learn how cells and organisms function. Ongoing technical advances, such as the recent development of protein micro-arrays for studying protein interactions, will be necessary to meet the challenge.
+
+Genomics and proteomics are giving biologists an increasingly global perspective on the study of life. In an essay in Science, noted MIT biologists Eric Lander and Robert Weinberg predict that the availability of "complete parts lists of organisms"--that is, catalogs of genes and proteins--will change the discipline of biology dramatically:
+
+The 21st century discipline will focus increasingly on the study of entire biological systems, by attempting to understand how component parts collaborate to create a whole. For the first time in a century, reductionists [are yielding] ground to those trying to gain a holistic view of cells and tissues.*
+
+Advances in bioinformatics, the application of computer science and mathematics to genetic and other biological information, will play a crucial role in dealing with the enormous masses of data involved.
+
+As Landers and Weinberg point out elsewhere in their essay, we are now poised to understand the spectrum of genetic variation in humans. Because the history of the human species is so short--we are probably all descended from a small population living in Africa 150,000 to 200,000 years ago--the amount of DNA variation in humans is small compared to that of other species. Most of our diversity seems to be in the form of single nucleotide polymorphisms (SNPs, pronounced "snips"), which are single base-pair variations in the genome.*
+
+In the human genome, SNPs occur on average about once in 1,000 base pairs. In other words, if you could compare your personal DNA sequence with that of the person sitting next to you--or with that of someone on the other side of the world--you would find them to be 99.9%  identical.
+
+Scientists are already well on their way to identifying the locations of the 3 million or so SNP sites in the human genome. These will be useful genetic markers for studying human evolution, the differences between human populations, and the migratory routes that led from Africa to the other continents. They will also be valuable markers for identifying disease genes and genes that affect our health in more subtle ways by influencing susceptibility to certain diseases or sensitivities to environmental toxins or drugs. This is likely to change the practice of medicine later in the 21st century. However, applications of DNA research and technology are already affecting our lives in many ways. We devote the rest of the Chapter to a discussion of some of these applications and related issues.
+
+
+
+
+
+ DNA technology is reshaping medicine and the pharmaceutical industry
+
+Modern biotechnology is making enormous contributions to medicine, both in the diagnosis of diseases and in the develop ment of pharmaceutical products. One obvious benefit of DNA technology and of the Human Genome Project is the identification of genes whose mutation is responsible for genetic diseases, for these discoveries could lead to ways of diagnosing, treating, and perhaps even preventing those conditions.
+
+Equally important are the potential benefits of DNA technology for dealing with other kinds of diseases, from arthritis to AIDS. Susceptibility to many "nongenetic" diseases is influenced by a person's genes. Furthermore, diseases of all sorts involve changes in gene expression within the affected cells and often within the patient's immune system. By using DNA micro-array assays or other techniques to compare gene expression in healthy and diseased tissues, researchers hope to find many of the genes that are turned on or off in particular diseases. These genes and their products are potential targets for prevention or therapy.
+
+Diagnosis of Diseases
+
+A new Chapter in the diagnosis of infectious diseases has been opened by DNA technology, in particular the use of PCR and labeled nucleic acid probes to track down certain pathogens. For example, because the sequence of HIV DNA is known, PCR can be used to amplify, and thus detect, HIV DNA in blood or tissue samples. This is often the best way to detect an otherwise elusive infection.
+
+Medical scientists can now diagnose hundreds of human genetic disorders using DNA technology. Increasingly, they can identify individuals with genetic diseases before the onset of symptoms, even before birth. It is also possible to identify symptomless carriers of potentially harmful recessive alleles. Genes have been cloned for many human diseases, including hemophilia, cystic fibrosis, and Duchenne muscular dystrophy.
+
+Hybridization analysis makes it possible to detect abnormal allelic forms of genes present in DNA samples. Even in cases where the gene has not yet been cloned, the presence of an abnormal allele can be diagnosed with reasonable accuracy if a closely linked RFLP marker has been found (FIGURE 20.15). Alleles for Huntington's disease and a number of other genetic diseases were first detected in this indirect way. The underlying principle is that the closeness of the marker to the gene itself makes it very unlikely that crossing over will occur between the marker and the gene during gamete formation; therefore, the marker and gene will almost always stay together in inheritance. (The same principle obviously applies to all kinds of markers, including the SNPs that may soon come into diagnostic use.) Once a gene is mapped precisely, it can be cloned for study and for use as a probe for finding identical or similar DNA, as is now the case for Huntington's disease, cystic fibrosis, and many other diseases.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-15. RFLP markers close to a gene. Even if a disease-causing allele has not been cloned and its precise locus is unknown, its presence can sometimes be detected with high (though not perfect) accuracy by testing for the presence of RFLP markers that are very close to the gene in question. This diagram depicts homologous segments of DNA from a family in which some members have a genetic disease. In this family, different versions of a RFLP marker are associated with the different alleles, allowing the test to be applied. If a family member has inherited the version of the RFLP marker with two restriction sites (rather than one), there is a high probability that the individual has also inherited the disease-causing allele.
+
+Human Gene Therapy
+
+Techniques for gene manipulating DNA hold great potential for treating a variety of diseases by gene therapy--the alteration of an afflicted individual's genes. In people with disorders traceable to a single defective gene, it should theoretically be possible to replace or supplement the defective gene with a normal allele. The new allele could be inserted into the somatic cells of the tissue affected by the disorder.
+
+For gene therapy of somatic cells to be permanent, the cells that receive the normal allele must be ones that multiply throughout the patient's life. Bone marrow cells, which include the stem cells that give rise to all the cells of the blood and immune system, are prime candidates. FIGURE 20.16 outlines one possible procedure for a situation in which bone marrow cells are failing to produce a vital enzyme because of a single defective gene. Some bone marrow cells are removed from the patient, the normal allele inserted by a viral vector, and the modified cells returned to the patient. If the procedure succeeds, the cells will multiply throughout the patient's life and express the normal gene. The engineered cells will supply the missing protein, and the patient will be cured.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-16. One type of gene therapy procedure. A retrovirus vector that has been rendered harmless is used to introduce a normal allele of a gene into the cells of a patient who lacks it. The method takes advantage of the fact that a retrovirus inserts a DNA transcript of its RNA genome into the chromosomal DNA of its host cell (see FIGURE 18.7). If the viral nucleic acid includes a foreign gene and that gene is expressed, the cell and its descendants will possess the gene product and may be cured. Cells that reproduce throughout life, such as bone marrow cells, are ideal candidates for gene therapy.
+
+But despite "hype" in the news media over the past decade, there has been very little scientifically strong evidence of effective gene therapy reported. Even when genes are successfully and safely transferred and are being expressed in their new host, their activity typically diminishes after a short period.
+
+For this reason and because of concerns about safety, most of the current gene therapy trials now under way in humans are not aimed at correcting genetic defects. Instead, researchers are looking for ways to use gene therapy in the fight against major killers such as heart disease and cancer. The most promising trials are those in which a very limited period of activity by the transferred genes is not only sufficient but desirable. For example, one idea is to help treat coronary artery disease by introducing into the heart muscle a gene encoding a growth factor that stimulates new blood vessels to grow around blocked arteries. After success with pigs, two groups of researchers are now carrying out preliminary trials designed to assess safety in humans. One group is using the same vector used in the pig studies: an adenovirus (a major cause of the common cold) modified so it cannot cause disease; the other group is injecting the naked growth factor gene directly into the muscle. The viral vectors are rapidly destroyed by the immune system, and the direct injection method is very inefficient. But the goal is simply to get the heart cells to produce enough growth factor to trigger a brief period of blood vessel growth. Preliminary results are encouraging.
+
+Many technical questions are posed by gene therapy. For example, how can the activity of the transferred gene be controlled so that cells make appropriate amounts of the gene product at the right time and in the right place? How can we be sure that the insertion of the therapeutic gene does not harm some other necessary cell function? Information about DNA control elements from genome sequencing and large-scale gene expression studies that teach us about gene interactions may help answer such questions.
+
+Gene therapy raises some difficult ethical and social questions. Some critics suggest that tampering with human genes in any way, even in somatic cells and even to treat individuals who have life-threatening diseases, is wrong. They argue that it will inevitably lead to the practice of eugenics, a deliberate effort to control the genetic makeup of human populations. Other observers see no fundamental difference between genetic engineering of somatic cells and other conventional medical interventions to save lives. They compare the transplantion of genes to the transplantation of organs.
+
+The most difficult ethical question is whether we should try to treat human germ-line cells in the hope of correcting the defect in future generations. In laboratory mice at least, transferring foreign genes into the germ line (egg cells) is now a routine procedure. Thus, despite the challenges, it is clear that the technical problems relating to similar genetic engineering in humans will eventually be solved. We will then have to face the question of whether it is advisable, under any circumstances, to alter the genomes of human germ lines or embryos. Should we interfere with evolution in this way? From a biological perspective, the elimination of unwanted alleles from the gene pool could backfire. Genetic variety is a necessary ingredient for the survival of a species as environmental conditions change with time. Genes that are damaging under some conditions may be advantageous under other conditions (one example is the sickle-cell allele, discussed in Chapter 14). Are we willing to risk making genetic changes that could be detrimental to our species in the future? We may have to face this question soon.
+
+Pharmaceutical Products
+
+DNA technology has been used to create many useful pharmaceutical products, mostly proteins. By transferring the gene for a desired protein product into a bacterium, yeast, or other kind of cell that is easy to grow in culture, one can produce large quantities of proteins that are present naturally in only minute amounts.
+
+Using DNA technology to put highly active promoters (and other gene control elements) into vector DNA, scientists create expression vectors that enable the host cell to make large amounts of the product of a gene inserted into the vector. In addition, host cells can be engineered to secrete a protein as it is made, thereby simplifying the task of purifying it by traditional biochemical methods.
+
+One of the first practical applications of gene splicing was the production of mammalian hormones and other mammalian regulatory proteins in bacteria. Human insulin and human growth hormone (HGH) were among the earliest examples. The insulin produced in this way has greatly benefited the 2 million diabetics in the United States who depend on insulin treatment to control their disease; previously they had to rely on insulin from pigs and cattle, which is not identical to human insulin. Human growth hormone has been a boon to children born with hypopituitarism, a form of dwarfism caused by inadequate amounts of HGH, and may prove to have other uses, such as the healing of injuries.
+
+Another important pharmaceutical product produced by genetic engineering is tissue plasminogen activator (TPA). This protein helps dissolve blood clots and reduces the risk of subsequent heart attacks if administered very shortly after an initial attack. However, TPA illustrates a problem with many genetically engineered products: Because the development costs were high and the market is relatively limited, it is expensive.
+
+The most recent developments in pharmaceutical products involve truly novel ways to fight certain diseases that do not respond to traditional drug treatments. One approach is the use of genetically engineered proteins that either block or mimic surface receptors on cell membranes. One such experimental drug mimics a receptor protein that HIV binds to in entering white blood cells. The HIV binds to the drug molecules instead and fails to enter the blood cells.
+
+For many viral diseases for which there are no effective drug treatments, prevention by vaccination is virtually the only way to fight the disease. A vaccine is a harmless variant or derivative of a pathogen that stimulates the immune system to fight the pathogen. Traditional vaccines for viral diseases are of two types: particles of a virulent virus that have been inactivated by chemical or physical means, and active virus particles of an attenuated (nonpathogenic) viral strain. In both cases, the virus particles are similar enough to the active pathogen to trigger an immune response (see Chapter 43).
+
+Recombinant DNA techniques can generate large amounts of a specific protein molecule normally found on the surface of a pathogen. If the protein, referred to as a subunit, is one that triggers an immune response against the intact pathogen, then it can be used as a vaccine. Alternatively, genetic engineering methods can be used to modify the genome of the pathogen to attenuate it. A vaccine consisting of an attenuated microbe is often more effective than a subunit vaccine because it usually triggers a greater response by the immune system. Pathogens attenuated by gene-splicing techniques may be safer than the natural mutants traditionally used.
+
+A completely new development in the use of recombinant DNA technology by the pharmaceutical industry is the genetic modification of plants to produce vaccines and rare human proteins of medical importancee. We'll discuss this application, often called "pharming," in the next section.
+
+
+
+
+
+ DNA technology offers forensic, environmental, and agricultural applications
+
+Forensic Uses of DNA Technology
+
+In violent crimes, blood or small amounts of other tissue may be left at the scene or on the clothes or other possessions of the victim or assailant. If rape is involved, small amounts of semen may be recovered from the victim's body. If enough tissue or semen is available, forensic laboratories can determine the blood type or tissue type by using antibodies to test for specific cell surface proteins. However, such tests require fairly fresh tissue in relatively large amounts. Also, because there are many people in the population with the same blood or tissue type, this approach can only exclude a suspect; it cannot provide strong evidence of guilt.
+
+DNA testing, on the other hand, can identify the guilty individual with a much higher degree of certainty, because the DNA sequence of every person is unique (except for identical twins). RFLP analysis by Southern blotting is a powerful method for the forensic detection of similarities and differences in DNA samples and requires only tiny amounts of blood or other tissue (about 1,000 cells). In a murder case, for example, this method can be used to compare DNA samples from the suspect, the victim, and a small amount of blood found at the crime scene. Radioactive probes mark the electrophoresis bands that contain certain RFLP markers. The forensic scientist usually tests for about five markers; in other words, only a few selected portions of the DNA are tested. However, even such a small set of markers from an individual can provide a DNA fingerprint, or specific pattern of bands, that is of forensic use, because the probability that two people (who are not identical twins) would have the exact same set of RFLP markers is very small. The autoradiograph in FIGURE 20.17 resembles the type of evidence presented (with explanation) to juries in murder trials.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-17. DNA fingerprints from a murder case. As revealed by RFLP analysis, DNA from bloodstains on the defendant's clothes matches the DNA fingerprint of the victim but differs from the DNA fingerprint of the defendant. This is evidence that the blood on the defendant's clothes came from the victim, not the defendant. Ten different RFLP markers appear at different positions on this one "autorad" (autoradiograph). It is now more common to make separate autorads for each marker tested. The DNA bands resulting from electrophoresis are exposed to various probes in succession, with the previous probe washed off before the next one is applied.
+
+The forensic use of DNA fingerprinting extends beyond violent crimes, For instance, comparing the DNA of a mother, her child, and the purported father can conclusively settle a question of paternity. Sometimes paternity is of historical interest: Recently, DNA fingerprinting provided strong evidence that Thomas Jefferson fathered at least one of the children of his slave Sally Hemings.
+
+Today, instead of RFLPs, variations in the lengths of satellite DNA are increasingly used as markers for DNA fingerprinting. Recall from Chapter 19 that satellite DNA consists of tandemly repeated base sequences within the genome. The most useful satellite sequences for forensic purposes are microsatellites, which are roughly 10 to 100 base pairs long, have repeating units of only a few base pairs, and are highly variable from person to person. For example, one individual may have the unit ACA repeated 65 times at one genome locus, 118 times at a second locus, and so on, whereas another individual is likely to have different numbers of repeats at these loci. Such polymorphic genetic loci are usually called simple tandem repeats (STRs). Restriction fragments containing STRs vary in size among individuals because of differences in STR lengths, rather than because of different numbers of restriction sites within that region of the genome, as in RFLP analysis. The greater the number of markers examined in a DNA sample, the more likely it is that the DNA fingerprint is unique to one individual. PCR is often used to selectively amplify particular STRs or other markers before electrophoresis. Because of its selective power, PCR is especially valuable when the DNA is in poor condition or available only in minute quantities. A tissue sample as small as 20 cells can be sufficient for PCR.
+
+Just how reliable is DNA fingerprinting? The DNA fingerprint of an individual would be truly unique if it were feasible to perform restriction fragment analysis on the person's entire genome. In practice, as already mentioned, forensic DNA tests focus on only about five tiny regions of the genome. However, the DNA regions chosen are ones known to be highly variable from one person to another. In most forensic cases, the probability of two people having identical DNA fingerprints is between one chance in 100,000 and one in a billion. The exact figure depends on the number of markers compared and on the frequency of those markers in the population. Information on how common various markers are in different ethnic groups is key because these marker frequencies may be very different from frequencies in the population as a whole. Such data now enable forensic scientists to make extremely accurate statistical calculations. Thus, despite problems that can still arise from insufficient statistical data, human error, or flawed evidence, DNA fingerprints are now accepted as compelling evidence by legal experts and scientists alike. Many argue that DNA evidence is more reliable than eyewitnesses in placing a suspect at the scene of a crime.
+
+Environmental Uses of DNA Technology
+
+Increasingly, genetic engineering is being applied to environmental work. The ability of microorganisms to transform chemicals is remarkable, and scientists are now engineering these metabolic capabilities into organisms that will help cope with some environmental problems. For example, many bacteria can extract heavy metals, such as copper, lead, and nickel, from their environments and incorporate the metals into compounds such as copper sulfate or lead sulfate, which are readily recoverable. Genetically engineered microbes may become important in both mining minerals (especially as ore reserves are depleted) and cleaning up highly toxic mining wastes.
+
+The metabolic diversity of microbes is also employed in dealing with wastes from other sources. Sewage treatment plants rely on the ability of microbes to degrade many organic compounds into nontoxic form. However, an increasing number of potentially harmful compounds being released into the environment are not readily degraded by naturally occurring microbes; chlorinated hydrocarbons are a prime example. Biotechnologists are trying to engineer microbes to degrade these compounds. These microbes could be used in wastewater treatment plants or by manufacturers before the compounds are ever released into the environment.
+
+A related research area is the identification and engineering of microbes capable of detoxifying specific toxic wastes found in spills and waste dumps. For example, bacterial strains have been developed that can degrade some of the compounds released during oil spills. The ability to move the genes responsible for these transformations into different organisms allows the development of strains that can survive the harsh conditions of these environmental disasters and still help detoxify the wastes.
+
+Agricultural Uses of DNA Technology
+
+Scientists are working to learn more about the genomes of agriculturally important plants and animals, and for a number of years they have been using DNA technology to try to improve agricultural productivity.
+
+Animal Husbandry and "Pharm" Animals. DNA technology is now routinely used to make vaccines and growth hormones for treating farm animals and, on a still largely experimental ba sis, to make transgenic organisms, whose genomes carry genes from another species. The goals of creating a transgenic animal are often the same as the goals of traditional breeding--for instance, to make a sheep with better quality wool, a pig with leaner meat, or a cow that will mature in a shorter time. Scientists might, for example, identify and clone a gene that causes the development of larger muscles (muscles make up most of the meat we eat) in one variety of cattle and transfer it to other cattle or even to sheep.
+
+Another type of transgenic animal is one engineered to be a pharmaceutical "factory"--a producer of a large amount of an otherwise rare biological substance for medical use (FIGURE 20.18). In most cases to date, a gene for a desired human protein, such as a hormone or blood-clotting factor, has been added to the genome of a farm mammal in such a way that the gene's product is secreted in the animal's milk. It can then be purified, usually more easily than from a cell culture or a transgenic plant.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-18. Pharm" animals. These transgenic sheep carry a gene for a human blood protein, which they secrete in their milk. This protein inhibits an enzyme that contributes to lung damage in patients with cystic fibrosis and some other chronic respiratory diseases. Easily purified from the sheep's milk, the protein is currently being tested as a treatment for cystic fibrosis.
+
+Human proteins produced by farm animals may or may not be structurally identical to the natural human protein, so they have to be tested very carefully to make sure they will not cause allergic reactions or other adverse effects in patients receiving them. Also, the health and welfare of farm animals carrying genes from humans and other foreign species are important issues; problems such as low fertility or increased susceptibilty to disease are not uncommon.
+
+How is a transgenic animal created? Scientists first remove egg cells from a female and fertilize them in vitro. Meanwhile, they clone the desired gene from another organism. They then inject the cloned DNA directly into the nuclei of the eggs. Some of the cells integrate the foreign DNA into their genomes and are able to express the foreign gene. The engineered eggs are then surgically implanted in a surrogate mother. If an embryo develops successfully, the result is a transgenic animal, containing a gene from a third "parent" that may even be of another species.
+
+Genetic Engineering in Plants. Agricultural scientists have already provided a number of crop plants with genes for desirable traits, such as delayed ripening and resistance to spoilage and disease. In one striking way, plants are easier to engineer than most animals. For many plant species, a single tissue cell grown in culture can give rise to an adult plant (see FIGURE 21.5). Thus, genetic manipulations can be performed on a single cell and the cell then used to generate an organism with new traits.
+
+The vector used to introduce new genes into plant cells is most often a plasmid from the soil bacterium Agrobacterium tumefaciens. This is the Ti plasmid, so called because in nature it induces tumors (called crown galls) in plants infected by the bacterium. The Ti plasmid integrates a segment of its DNA, known as T DNA, into the chromosomal DNA of its host plant cells. For vector purposes, researchers work with a version of the plasmid that does not cause disease.
+
+Foreign genes can be inserted into the Ti plasmid using recombinant DNA techniques. The recombinant plasmid is either put back into Agrobacterium, which can then be used to infect plant cells growing in culture, or introduced directly into plant cells, where it inserts itself into the plant's chromosomes. Then, taking advantage of the capacity of those cells to regenerate whole plants, it is possible to produce plants that contain and express the foreign gene and pass it on to their offspring (FIGURE 20.19).
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-19. Using the Ti plasmid as a vector for genetic engineering in plants.
+
+A major drawback to using the Ti plasmid as a vector is that only dicots (plants with two seed leaves) are susceptible to infection by Agrobacterium. Monocots, including agriculturally important grasses such as corn and wheat, cannot be infected by Agrobacterium. Fortunately, scientists can use newer techniques, such as electroporation and DNA guns (see FIGURE 38.17), to get DNA into the cells of these plants.
+
+Genetic engineering is quickly replacing traditional plant-breeding programs, especially in cases where useful traits are determined by one or only a few genes. In the past few years, roughly half of the American crops of soybeans and corn have been grown from genetically modified seed. Many of the transgenic plants now being grown have received genes for herbicide resistance. For example, the development of cotton plants that carry a bacterial gene that makes the plants resis-tant to weed-killing herbicides have made it easier to grow crops while still ensuring that weeds are destroyed. In addition, a number of crop plants are being engineered to resist infectious microbes and pest insects. Growing insect-resistant plants reduces the use of chemical insecticides.
+
+Scientists are also using gene transfer to improve the nutritional value of crop plants. One exciting recent advance has been the development of a transgenic rice plant that produces yellow rice grains containing beta-carotene, which our body uses to make vitamin A (FIGURE 20.20). This rice could help prevent vitamin A deficiency in the half of the world's population that depend on rice as a staple food. Vitamin A deficiency is a common problem. Currently, 70%  of children under the age of 5 in Southeast Asia suffer from this condition, which leads to vision impairment and increases susceptibility to disease.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-20. "Golden" rice contrasted with ordinary rice. Beta-carotene in the golden rice kernels in this photograph is responsible for both their color and their increased nutritional value. The genes that give the plant its ability to make this vitamin inside its kernels come from daffodils and a bacterium. The vector was the Ti plasmid of Agrobacterium fascians.(b) Enlarged photo of a microarray representing 2,400 human genes
+
+An important potential use of DNA technology in improving the nutrition of the world's population involves nitrogen fixation. Nitrogen fixation is the conversion of atmospheric nitrogen gas, which plants cannot use, to nitrogen compounds that plants can convert to essential nitrogen-containing molecules, such as amino acids. In nature, nitrogen fixation is performed by certain bacteria that live in the soil or in plant roots. Even so, the level of nitrogen compounds in the soil is often so low that fertilizers must be applied for crops to grow. Nitrogen providing fertilizers are costly and contribute to water pollution. DNA technology offers ways to increase bacterial nitrogen fixation and eventually, perhaps, to engineer crop plants to fix nitrogen themselves.
+
+Finally, we arrive at the surprising new alliance between the pharmaceutical industry and agriculture mentioned earlier. The pharmaceutical industry has long made use of plants as sources of drugs. Now, however, DNA technology has made it possible to create plants that produce human proteins for medical use and viral proteins for use as vaccines. Several such "pharm" products are now being tested in clinical trials, including vaccines for hepatitis B and an antibody produced in transgenic tobacco plants that blocks the bacteria that cause tooth decay. Large amounts of these proteins might be made more economically by plants than by cultured cells.
+
+
+
+
+
+ DNA technology raises important safety and ethical questions
+
+As soon as scientists realized the power of DNA technology, they began to worry about potential dangers. Early concerns focused on the possibility that recombinant DNA technology might create hazardous new pathogens. What might happen, for instance, if cancer cell genes were transferred into bacteria or viruses? Scientists developed a set of guidelines that in the United States and some other countries have become formal government regulations.
+
+One type of safety measure is a set of strict laboratory procedures designed to protect researchers from infection by engineered microbes and to prevent the microbes from accidentally leaving the laboratory. In addition, strains of micro-organisms to be used in recombinant DNA experiments are genetically crippled to ensure that they cannot survive outside the laboratory. Finally, certain obviously dangerous experiments have been banned. Today, most public concern about possible hazards centers not on recombinant microbes but on genetically modified (GM) organisms used in agriculture. In common parlance, a "GM organism" is one that has acquired one or more genes by artificial means; the gene need not be from another species.
+
+Animals that have been genetically modified by artificial means are still not part of our food supply, but GM crop plants are. In 1999, controversy about the safety of these foods exploded in the United Kingdom--where one of the more extreme headlines warned of "the mad forces of genetic darkness"--and soon spread through Europe. In response to these concerns, the European Union suspended the introduction of new GM crops pending new legislation and started considering the possibility of banning the import of all GM foodstuffs. In the United States and other countries where the GM revolution had been proceeding more quietly, the labeling of GM foods as such is now being debated.
+
+Early in 2000, negotiators from 130 countries (including the United States) agreed on a Biosafety Protocol that requires exporters to identify GM organisms present in bulk food shipments and allows importing countries to decide whether they pose environmental or health risks. This agreement has been hailed as a breakthrough by environmentalists.
+
+Advocates of a cautious approach fear that crops carrying genes from other species might somehow be hazardous to human health or cause ecological harm to the environment. A major concern is that transgenic plants might pass their new genes to close relatives in nearby wild areas. We know that lawn and crop grasses, for example, commonly exchange genes with wild relatives via pollen transfer. If domestic plants carrying genes for resistance to herbicides, diseases, or insect pests pollinated wild ones, the offspring might become "super-weeds" very difficult to control. However, researchers may be able to prevent the escape of such plant genes by engineering plants so that they cannot hybridize. In April 2000, the U.S. National Academy of Sciences released a study finding no scientific evidence that crops genetically modified to resist pests pose any special health or environmental risks, but the authors of the study also recommended more stringent regulations than now exist. To date, there is little good data on either side; more study is needed.
+
+Today, governments and regulatory agencies throughout the world are grappling with how to facilitate the use of biotechnology in argiculture, industry, and medicine while ensuring that new products and procedures are safe. In the United States, all projects are evaluated for potential risks by various regulatory agencies, including the Food and Drug Administration, the Environmental Protection Agency, the National Institutes of Health, and the Department of Agriculture. These agencies are under increasing pressure from some consumer groups. Meanwhile, these same agencies must consider some of the ethical questions revised by the new biotechnology.
+
+As with all new technologies, developments in DNA technology have ethical overtones. Obtaining a complete map of the human genome, for example, opens the door to significant ethical questions. Who should have the right to examine someone else's genes? How should that information be used? Should a person's genome be a factor in suitability for a job or eligibility for insurance? Ethical considerations, as well as concerns about potential environmental and health hazards, will likely slow the application of the products of the new biotechnology. There is always a danger that too much regulation will stifle basic research and its potential benefits. However, the power of DNA technology and genetic engineering--our ability to profoundly and rapidly alter species that have been evolving for millennia--demands that we proceed with humility and caution.
+
+
+
+

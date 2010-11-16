@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+ WSJ891102-0161 
+ = 891102 
+ 891102-0161. 
+ Montedison Bid for Erbamont 
+ <TIMEX3 tid="t13" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ MNT ERB 
+ TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+DRUG MANUFACTURERS (DRG) 
+ NEW YORK  
+
+   <s>Italian chemical giant Montedison S.p.A., through its Montedison Acquisition N.V. indirect unit, <EVENT eid="e1" mainevent="YES" class="ASPECTUAL" stem="begin" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">began</EVENT> its $37-a-share tender <EVENT eid="e2" mainevent="NO" class="OCCURRENCE" stem="offer" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offer</EVENT> for all the common shares outstanding of Erbamont N.V., a maker of pharmaceuticals incorporated in the Netherlands.</s> 
+
+   <s>The <EVENT eid="e4" mainevent="NO" class="OCCURRENCE" stem="offer" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offer</EVENT>, <EVENT eid="e5" mainevent="NO" class="OCCURRENCE" stem="advertise" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">advertised</EVENT> in <TIMEX3 tid="t19" type="DATE" value="1989-11-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">today</TIMEX3>'s editions of The Wall Street Journal, is <EVENT eid="e6" mainevent="YES" class="I_ACTION" stem="schedule" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">scheduled</EVENT> to <EVENT eid="e8" mainevent="NO" class="OCCURRENCE" stem="expire" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">expire</EVENT> at the <TIMEX3 tid="t18" type="TIME" value="1989-11" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">the end of November</TIMEX3>.</s> 
+
+   <s>Montedison <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">currently</TIMEX3> <EVENT eid="e20" mainevent="YES" class="STATE" stem="own" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">owns</EVENT> about 72% of Erbamont's common shares outstanding.</s> 
+
+   <s>The <EVENT eid="e10" mainevent="NO" class="OCCURRENCE" stem="offer" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offer</EVENT> is being <EVENT eid="e11" mainevent="YES" class="I_ACTION" stem="launch" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">launched</EVENT> pursuant to a <TIMEX3 tid="t21" type="TIME" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">previously</TIMEX3> <EVENT eid="e22" mainevent="NO" class="REPORTING" stem="announced" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">announced</EVENT> <EVENT eid="e12" mainevent="NO" class="OCCURRENCE" stem="agreement" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">agreement</EVENT> between the companies.</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e20" eventID="e6" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e11" eventID="e20" task="C"/>
+
+</TempEval>

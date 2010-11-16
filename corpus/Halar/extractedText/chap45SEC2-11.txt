@@ -1,0 +1,62 @@
+
+ The adrenal medulla and adrenal cortex help the body manage stress
+
+The adrenal glands are adjacent to the kidneys. In mammals, each adrenal gland is actually made up of two glands with different cell types, functions, and embryonic origins: the adrenal cortex, or outer portion, and the adrenal medulla, or central part. Nonmammalian vertebrates have quite different arrangements of the same tissues.
+
+The adrenal medulla has close developmental and functional ties with the nervous system. Secretory cells of the adrenal medulla are derived from cells of the neural crest (see FIGURE 34.6). Some of the neural crest cells in the abdominal region of a vertebrate embryo may differentiate into either endocrine cells of the adrenal medulla or neurons, depending on chemical signals in the vicinity (FIGURE 45.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 45-11. Derivation of endocrine cells of the adrenal medulla and neurons from neural crest cells. Studies of neural crest cells in laboratory cultures indicate that the fate of these cells in embryonic vertebrates depends on chemical signals. Embryonic chicken neural crest cells that have migrated to the region of the body where the adrenal glands develop may differentiate into hormone-secreting cells of the adrenal medulla if they are given glucocorticoids (hormones secreted by the adrenal cortex). If the same neural crest cells are exposed to nerve growth factor (NGF), they develop into nerve cells called sympathetic neurons (you'll learn about the function of these neurons in Chapter 48).
+
+What makes your heart beat faster and your skin develop goose bumps when you sense danger or approach a stressful situation, like speaking in public? These reactions are part of the fight-or-flight response stimulated by two hormones of the adrenal medulla, epinephrine (also known as adrenaline) and norepinephrine (noradrenaline). These hormones are members of a class of compounds, the catecholamines, that are synthesized from the amino acid tyrosine (FIGURE 45.12).
+
+
+
+Click image to enlarge
+
+
+
+Fig 45-12. The synthesis of catecholamine hormones. Cells in the adrenal medulla synthesize the catecholamines norepinephrine and epinephrine from the amino acid tyrosine.
+
+Epinephrine, norepinephrine, and other catecholamines are secreted in response to positive or negative stress--everything from extreme pleasure to increased cold to life-threatening danger. Their release into the blood gives the body a rapid bioenergetic boost, increasing the basal metabolic rate and having dramatic effects on several targets. Epinephrine and norepinephrine increase the rate of glycogen breakdown in the liver and skeletal muscles and glucose release into the blood by liver cells. They also stimulate the release of fatty acids from fat cells. The fatty acids may be used by cells for energy. In addition to increasing the availability of energy sources, epinephrine and norepinephrine have profound effects on the cardiovascular and respiratory systems. For example, they increase both the rate and the stroke volume of the heartbeat and dilate the bronchioles in the lungs, effects that increase the rate of oxygen delivery to body cells. (This is why doctors prescribe epinephrine as a heart stimulant and to open breathing tubes during asthma attacks.) The catecholamines also cause smooth muscles of some blood vessels to contract and muscles of other vessels to relax, with an overall effect of shunting blood away from the skin, digestive organs, and kidneys while increasing the blood supply to the heart, brain, and skeletal muscles.
+
+What causes the release of catecholamines during the response to stress? The adrenal medulla is under the control of nerve cells from the sympathetic division of the autonomic nervous system (discussed in Chapter 48). When nerve cells are excited by some form of stressful stimulus, they release the neurotransmitter acetylcholine in the adrenal medulla. Acetylcholine combines with receptors on the cells, stimulating the release of epinephrine. Norepinephrine is released independently of epinephrine. Its functions are similar to those of epinephrine, but its primary role is in sustaining blood pressure, while epinephrine generally has a stronger effect on heart and metabolic rates. Norepinephrine also functions as an important neurotransmitter in the nervous system, as we will see in Chapter 48.
+
+The adrenal cortex, like the adrenal medulla, reacts to stress. But it responds to endocrine signals rather than to nervous input. Stressful stimuli cause the hypothalamus to secrete a releasing hormone that stimulates the anterior pituitary to release the tropic hormone ACTH. When it reaches its target via the bloodstream, ACTH stimulates cells of the adrenal cortex to synthesize and secrete a family of steroids called corticosteroids. In another case of negative feedback, elevated levels of corticosteroids in the blood suppress the secretion of ACTH.
+
+Many corticosteroids have been isolated from the adrenal cortex. The two main types in humans are the glucocorticoids, such as cortisol, and the mineralocorticoids, such as aldosterone (FIGURE 45.13).
+
+
+
+Click image to enlarge
+
+
+
+Fig 45-13. Steroid hormones from the adrenal cortex and gonads. (a) Cortisol (a glucocorticoid) and aldosterone (a mineralocorticoid), both made in the adrenal cortex, are structurally similar to (b) the sex hormones testosterone (an androgen), estradiol (an estrogen), and progesterone (a progestin). The precursor for the synthesis of all steroid hormones is cholesterol (see FIGURE 5.14). Most of the androgens (male hormones) that circulate in the blood are made by the testes, and most of the estrogens and progestins (female hormones) are produced by the ovaries; however, small amounts of these sex hormones are also made by the adrenal cortex.
+
+The primary effect of glucocorticoids is on bioenergetics, specifically on glucose metabolism. Augmenting the fuel-mobilizing effects of glucagon from the pancreas, glucocorticoids promote the synthesis of glucose from noncarbohydrate sources, such as proteins, making more glucose available as fuel. Glucocorticoids act on skeletal muscle, causing a breakdown of muscle proteins. The resulting carbon skeletons are transported to the liver and kidney, where they are converted to glucose and released into the blood. The synthesis of glucose from muscle proteins is a homeostatic mechanism providing circulating fuel when body activities require more than the liver can mobilize from its glycogen stores. It can also be part of a broader role of the glucocorticoids, that of helping the body withstand long-term environmental challenge.
+
+Abnormally high doses of glucocorticoids administered as medication suppress certain components of the body's immune system--for example, the inflammatory reaction that occurs at the site of an infection. Glucocorticoids are used to treat diseases in which excessive inflammation is a problem. Cortisone, for instance, was once thought to be a miracle drug that could cure serious inflammatory conditions such as arthritis. It has become clear, however, that long-term use of corticosteroids can result in increased susceptibility to infection and disease because of the immunosuppressive effects of these powerful drugs.
+
+Mineralocorticoids have their major effects on salt and water balance. Aldosterone, for example, stimulates cells in the kidney to reabsorb sodium ions and water from the filtrate, raising blood pressure and volume. Aldosterone (of the renin-angiotensin-aldosterone system, or RAAS), ADH from the posterior pituitary, and atrial natriuretic factor (ANF) from the heart form a regulatory complex with multiple feedback loops that underlie the kidney's ability to maintain the ion and water homeostasis of the blood (see FIGURE 44.21). Aldosterone secretion is largely regulated by the RAAS itself in response to changes in plasma ion concentration. However, when an individual is under severe stress, the hypothalamus tends to secrete more releasing hormones that increase the rate of secretion of ACTH by the anterior pituitary. The rise in ACTH in the blood then increases the rate of secretion of aldosterone by the adrenal cortex.
+
+Evidence is mounting that both glucocorticoids and mineralocorticoids help maintain homeostasis when the body experiences stress over an extended period of time. FIGURE 45.14 compares the long-term stress-induced actions of corticosteroids with the short-term ones of epinephrine and norepinephrine.
+
+
+
+Click image to enlarge
+
+
+
+Fig 45-14. Stress and the adrenal gland. Stressful stimuli cause the hypothalamus to activate the adrenal medulla via nerve impulses and the adrenal cortex via hormonal signals. The adrenal medulla mediates short-term responses to stress by secreting the catecholamine hormones epinephrine and norepinephrine. The adrenal cortex controls more prolonged responses by secreting steroid hormones.
+
+A third group of corticosteroids are sex hormones, mainly androgens (male hormones) similar to testosterone produced by the testes and small amounts of estrogens and progesterone (female hormones). There is evidence that adrenal androgens account for the sex drive in adult females, but otherwise the physiological roles of the adrenal sex hormones are not well understood. We will discuss the sex hormones from the gonads in the next section.
+
+
+
+

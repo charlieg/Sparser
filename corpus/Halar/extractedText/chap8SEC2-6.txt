@@ -1,0 +1,22 @@
+
+ Passive transport is diffusion across a membrane
+
+Molecules have intrinsic kinetic energy called thermal motion (heat). One result of thermal motion is diffusion, the tendency for molecules of any substance to spread out into the available space. Each molecule moves randomly, yet diffusion of a population of molecules may be directional. For example, imagine a membrane separating pure water from a solution of a dye in water. Assume that this membrane is permeable to the dye molecules (FIGURE 8.10a). Each dye molecule wanders randomly, but there will be a net movement of the dye molecules across the membrane to the side that began as pure water. The spreading of the dye across the membrane will continue until both solutions have equal concentrations of the dye. Once that point is reached, there will be a dynamic equilibrium, with as many dye molecules crossing the membrane in one direction as in the other each second.
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-10. The diffusion of solutes across membranes.
+
+We can now state a simple rule of diffusion: In the absence of other forces, a substance will diffuse from where it is more concentrated to where it is less concentrated. Put another way, any substance will diffuse down its concentration gradient. No work must be done to make this happen; diffusion is a spontaneous process because it decreases free energy (see FIGURE 6.5b). Recall that in any system there is a tendency for entropy, or disorder, to increase. Diffusion of a solute in water increases entropy by producing a more random mixture than exists when there are localized concentrations of the solute. It is important to note that each substance diffuses down its own concentration gradient, unaffected by the concentration differences of other substances (FIGURE 8.10b).
+
+Much of the traffic across cell membranes occurs by diffusion. When a substance is more concentrated on one side of a membrane than on the other, there is a tendency for the substance to diffuse across the membrane down its concentration gradient (assuming that the membrane is permeable to that substance). One important example is the uptake of oxygen by a cell performing cellular respiration. Dissolved oxygen diffuses into the cell across the plasma membrane. As long as cellular respiration consumes the O2 as it enters, diffusion into the cell will continue, because the concentration gradient favors movement in that direction.
+
+The diffusion of a substance across a biological membrane is called passive transport because the cell does not have to expend energy to make it happen. The concentration gradient itself represents potential energy and drives diffusion. Remember, however, that membranes are selectively permeable and therefore affect the rates of diffusion of various molecules. Thanks to the widespread presence of the necessary transport protein, one molecule that diffuses freely across most membranes is water, a fact that has important consequences for cells.
+
+
+
+

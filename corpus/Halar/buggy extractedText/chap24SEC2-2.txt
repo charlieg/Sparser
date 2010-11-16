@@ -1,0 +1,60 @@
+
+ Prezygotic and postzygotic barriers isolate the gene pools of biological species
+
+Any factor that impedes two species from producing viable, fertile hybrids contributes to reproductive isolation. No single barrier may be completely impenetrable to genetic exchange, but many species are genetically sequestered by more than one type of barrier. Here, we are considering only biological barriers to reproduction, which are intrinsic to the organisms. Of course, if two species are geographically segregated, they cannot possibly interbreed, but a geographic barrier is not what biologists mean by reproductive isolation because it is not intrinsic to the organisms themselves. Reproductive isolation prevents populations belonging to different species from interbreeding, even if their ranges overlap.
+
+Clearly, a fly will not mate with a frog or a fern, but what prevents biological species that are very similar--that is, closely related--from interbreeding? The various reproductive barriers that isolate the gene pools of species can be categorized as prezygotic or postzygotic, depending on whether they function before or after the formation of zygotes, or fertilized eggs.
+
+Prezygotic Barriers
+
+Prezygotic barriers impede mating between species or hinder the fertilization of ova if members of different species attempt to mate.
+
+Habitat Isolation.Two species that live in different habitats within the same area may encounter each other rarely, if at all, even though they are not technically geographically isolated. For example, two species of garter snakes in the genus Thamnophis occur in the same areas, but one lives mainly in water and the other is primarily terrestrial. Habitat isolation also affects parasites, which are generally confined to certain plant or animal host species. Two species of parasites living on different hosts will not have a chance to mate.
+
+Behavioral Isolation.Special signals that attract mates, as well as elaborate behavior unique to a species, are probably the most important reproductive barriers among closely related animals. Male fireflies of various species signal to females of their kind by blinking their lights in particular rhythms. The females respond only to signals characteristic of their own species, flashing back and attracting the males. The eastern and western meadowlarks shown in FIGURE 24.2a are almost identical in shape, coloration, and habitat, and their ranges overlap in the central United States. Yet they remain two separate biological species, partly because of the differences in their songs, which enable them to recognize individuals of their own kind. Behavioral isolation often depends on the elaborate courtship rituals of a particular species (FIGURE 24.3).
+
+
+
+Click image to enlarge
+
+
+
+Fig 24-3. Courtship ritual as a behavioral barrier between species. These blue-footed boobies, inhabitants of the Gal&aacute;pagos, will mate only after a specific ritual of courtship displays. Part of the "script" calls for the male to high-step, a behavior that advertises the bright blue feet characteristic of the species.
+
+Temporal Isolation.Two species that breed during different times of the day, different seasons, or different years cannot mix their gametes. The geographic ranges of the western spotted skunk (Spilogale gracilis) and the eastern spotted skunk (Spilogale putorius) overlap, but these two very similar species do not interbreed because S. gracilis mates in late summer and S. putorius mates in late winter. Three species of the orchid genus Dendrobium living in the same rain forest do not hybridize because they flower on different days. Pollination of each species is limited to a single day because the flowers open in the morning and wither that evening.
+
+Mechanical Isolation.Closely related species may attempt to mate but fail to consummate the act because they are anatomically incompatible. For example, mechanical barriers contribute to reproductive isolation of flowering plants that are pollinated by insects or other animals. Floral anatomy is often adapted to certain pollinators that transfer pollen only among plants of the same species. In another example of mechanical isolation, if insects of closely related species attempt to mate, the male and female copulatory organs may not fit together and no sperm would be transferred.
+
+Gametic Isolation.Even if the gametes of different species meet, they rarely fuse to form a zygote. For animals whose eggs are fertilized within the female reproductive tract (internal fertilization), the sperm of one species may not be able to survive in the environment of the female reproductive tract of another species. Many aquatic animals release their gametes into the surrounding water, where the eggs are fertilized (external fertilization). Even when two closely related species release their gametes at the same time in the same place, cross-specific fertilization is uncommon. Gamete recognition may be based on the presence of specific molecules on the coats around the egg, which adhere only to complementary molecules on sperm cells of the same species. A similar mechanism of molecular recognition enables a flower to discriminate between pollen of the same species and pollen of different species.
+
+Postzygotic Barriers
+
+If a sperm cell from one species does fertilize an ovum of another species, then postzygotic barriers usually prevent the hybrid zygote from developing into a viable, fertile adult.
+
+Reduced Hybrid Viability.When prezygotic barriers are crossed and hybrid zygotes are formed, genetic incompatibility between the two species may abort development of the hybrid at some embryonic stage. Of the numerous species of frogs belonging to the genus Rana, some live in the same regions and habitats, where they may occasionally hybridize. But the hybrids generally do not complete development, and those that do are frail.
+
+Reduced Hybrid Fertility.Even if two species mate and produce hybrid offspring that are vigorous, reproductive isolation is intact if the hybrids are completely or largely sterile. Since the infertile hybrid cannot backbreed with either parental species, genes cannot flow freely between the species. One cause of this barrier is a failure of meiosis to produce normal gametes in the hybrid if chromosomes of the two parent species differ in number or structure. A familiar case of a sterile hybrid is the mule, a robust cross between a horse and a donkey; horses and donkeys remain distinct species because, except very rarely, mules cannot backbreed with either species (FIGURE 24.4).
+
+
+
+Click image to enlarge
+
+
+
+Fig 24-4. Hybrid sterility, a postzygotic barrier. Horses and donkeys remain separate species because their hybrid offspring, mules, are sterile.
+
+Hybrid Breakdown.In some cases when species cross-mate, the first-generation hybrids are viable and fertile, but when these hybrids mate with one another or with either parent species, offspring of the next generation are feeble or sterile. For example, different cotton species can produce fertile hybrids, but breakdown occurs in the next generation when offspring of the hybrids die as seeds or grow into weak and defective plants.
+
+FIGURE 24.5 summarizes the reproductive barriers between closely related species.
+
+
+
+Click image to enlarge
+
+
+
+Fig 24-5. A summary of reproductive barriers between closely related species.
+
+
+
+

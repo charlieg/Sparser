@@ -1,0 +1,100 @@
+
+ The Origin of Species developed two main points: the occurrence of evolution and natural selection as its mechanism
+
+Darwinism has a dual meaning. It refers to evolution as the explanation for life's unity and diversity, and it also refers to the Darwinian concept of natural selection as the cause of adaptive evolution.
+
+Descent with Modification
+
+In the first edition of The Origin of Species, Darwin did not use the word evolution until the last paragraph, referring instead to descent with modification, a phrase that condensed his view of life. Darwin perceived unity in life, with all organisms related through descent from some unknown ancestor that lived in the remote past. As the descendants of that ancestral organism spilled into various habitats over millions of years, they accumulated diverse modifications, or adaptations, that fit them to specific ways of life.
+
+In the Darwinian view, the history of life is like a tree, with multiple branching and rebranching from a common trunk all the way to the tips of the youngest twigs, symbolic of the diversity of living organisms. At each fork of the evolutionary tree is an ancestor common to all lines of evolution branching from that fork. Closely related species, such as the Asian elephant and the African elephant, are very similar because they share the same line of descent until a relatively recent divergence from a common ancestor (FIGURE 22.7). Most branches of evolution, even some major ones, are dead ends; about 99%  of all species that have ever lived are extinct.
+
+
+
+Click image to enlarge
+
+
+
+Fig 22-7. Descent with modification. This evolutionary tree of the elephant family is based mainly on evidence from fossils--their anatomy, their order of appearance in geologic time, and their geographic distribution. (Timeline not to scale.)
+
+Ironically, Linnaeus, who apparently believed that species are fixed, provided Darwin with a connection to evolution by recognizing that the great diversity of organisms could be ordered into "groups subordinate to groups" (Darwin's phrase). FIGURE 1.10 introduced the major taxonomic categories; let's review them here: kingdom &gt; phylum &gt; class &gt; order &gt; family &gt; genus &gt; species.
+
+To Darwin, the natural hierarchy of the Linnaean scheme reflected the branching history of the tree of life, with organisms at the different taxonomic levels related through descent from common ancestors. Two species, such as lions and tigers, that are grouped in the same family (family Felidae) share a more recent common ancestor than two species, such as lions and elephants, that belong to different families within the same class (class Mammalia).
+
+Natural Selection and Adaptation
+
+How does natural selection work? And how does natural selection explain adaptation? Evolutionary biologist Ernst Mayr has dissected the logic of Darwin's theory of natural selection into three inferences based on five observations:*
+
+OBSERVATION #1: All species have such great potential fertility that their population size would increase exponentially if all individuals that are born reproduced successfully (FIGURE 22.8).
+
+
+
+Click image to enlarge
+
+
+
+Fig 22-8. Overproduction of offspring. A cloud of millions of spores is exploding from this puffball, a type of fungus. The wind will disperse the spores far and wide. Only a tiny fraction of the spores will actually give rise to offspring that survive and reproduce.
+
+OBSERVATION #2: Populations tend to remain stable in size, except for seasonal fluctuations.
+
+OBSERVATION #3: Environmental resources are limited.
+
+INFERENCE #1: Production of more individuals than the environment can support leads to a struggle for existence among individuals of a population, with only a fraction of offspring surviving each generation.
+
+OBSERVATION #4: Individuals of a population vary extensively in their characteristics; no two individuals are exactly alike (FIGURE 22.9).
+
+
+
+Click image to enlarge
+
+
+
+Fig 22-9. A few of the color variations in a population of Asian lady beetles.
+
+OBSERVATION #5: Much of this variation is heritable.
+
+INFERENCE #2: Survival in the struggle for existence is not random, but depends in part on the hereditary constitution of the individuals. Those individuals whose inherited traits best fit them to their environment are likely to leave more offspring than less fit individuals.
+
+INFERENCE #3: This unequal ability of individuals to survive and reproduce will lead to a gradual change in a population, with favorable characteristics accumulating over the generations.
+
+
+
+We can summarize Darwin's main ideas as follows:
+
+Natural selection is differential success in reproduction (unequal ability of individuals to survive and reproduce).
+
+Natural selection occurs through an interaction between the environment and the variability inherent among the individual organisms making up a population.
+
+The product of natural selection is the adaptation of populations of organisms to their environment (FIGURE 22.10, p. 436).
+
+Let's elaborate on the important connections Darwin perceived between natural selection, the struggle for existence, and the capacity of organisms to "overreproduce." Darwin appparently began to recognize the struggle for existence after he read an essay on human population written in 1798 by Thomas Malthus (see FIGURE 22.1). Malthus contended that much of human suffering--disease, famine, homelessness, and war--was the inescapable consequence of the potential for the human population to increase faster than food supplies and other resources. The capacity to overproduce seems to be characteristic of all species. Of the many eggs laid, young born, and seeds spread, only a tiny fraction complete their development and leave offspring of their own (see FIGURE 22.8). The rest are eaten, frozen, starved, diseased, unmated, or unable to reproduce for some other reason.
+
+In each generation, environmental factors filter heritable variations, favoring some over others. Differential reproduction--whereby organisms with traits favored by the environment produce more offspring than do organisms without those traits--results in the favored traits being disproportionately represented in the next generation. This increasing frequency of the favored traits in a population is evolution.
+
+Darwin illustrated the power of selection as a force in evolution with examples from artificial selection, the breeding of domesticated plants and animals. Humans have modified other species over many generations by selecting individuals with the desired traits as breeding stock. The plants and animals we grow for food often bear little resemblance to their wild ancestors (FIGURE 22.11). The power of selective breeding is especially apparent in our pets, which have been bred more for fancy than for utility.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 22-11. Artificial selection.
+
+If so much change can be achieved by artificial selection in a relatively short period of time, Darwin reasoned, then natural selection should be capable of considerable modification of species over hundreds or thousands of generations. Even if the advantages of some heritable traits over others are slight, the advantageous variations will accumulate in the population after many generations of natural selection, eliminating less favorable variations.
+
+Darwin incorporated gradualism, a concept so important in Lyell's geology, into evolutionary theory. He envisioned life as evolving by a gradual accumulation of minute changes, and he postulated that natural selection operating in varying contexts over vast spans of time could account for the entire diversity of life.
+
+We can now summarize the two main features of the Darwinian view of life: (1) The diverse forms of life have arisen by descent with modification from ancestral species and (2) the mechanism of modification has been natural selection working over enormous tracts of time.
+
+Some Subtleties of Natural Selection. At this point, we need to emphasize several subtleties of natural selection. One is the importance of populations in evolution. For now, we will define a population as a group of interbreeding individuals belonging to a particular species and sharing a common geographic area. A population is the smallest unit that can evolve. Natural selection occurs through interactions between individual organisms and their environment, but individuals do not evolve. Evolution can be measured only as changes in relative proportions of heritable variations in a population over a succession of generations.
+
+Another key point about natural selection is that it can amplify or diminish only heritable variations. As we have seen, an organism may become modified through its own experiences during its lifetime, and such acquired characteristics may even adapt the organism to its environment, but there is no evidence that characteristics acquired during a lifetime can be inherited. We must distinguish between adaptations an organism acquires by its own actions and inherited adaptations that evolve in a population over many generations as a result of natural selection.
+
+It must also be emphasized that the specifics of natural selection are situational; environmental factors vary from place to place and from time to time. An adaptation in one situation may be useless or even detrimental in different circumstances. Some examples will reinforce this situational quality of natural selection.
+
+
+
+

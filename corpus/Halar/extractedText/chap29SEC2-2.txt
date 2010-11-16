@@ -1,0 +1,24 @@
+
+ Charophyceans are the green algae most closely related to land plants
+
+How can we define land plants? What features do bryophytes, pteridophytes, gymnosperms, and angiosperms have in common that distinguish them from other organisms? Plants are multicellular, eukaryotic, photosynthetic autotrophs. However, red seaweeds and brown seaweeds also fit this description (see Chapter 28). Cell walls made of cellulose and the presence of chlorophylls a and b within chloroplasts are often cited as defining characteristics of plants. But cellulose walls are also present in several algal groups, including dinoflagellates and brown algae. And even those green algae that are not closely related to land plants have chloroplasts with both chlorophylls a and b, as do the euglenoids and some dinoflagellates. So we must look to other features to distinguish land plants from algae.
+
+An electron microscopic view of cells reveals two key ultrastructural features that land plants share only with the green algae that are their closest relatives, the algal group called the charophyceans (FIGURE 29.2). First, the plasma membranes of land plants and charophyceans are equipped with rose-shaped arrays of proteins that synthesize the cellulose microfibrils of the cell walls. These rosette cellulose-synthesizing complexes contrast with the linear arrays of cellulose-producing proteins characteristic of noncharophycean algae. This distinction suggests that the cellulose walls of an ancestor common to charophyceans and land plants evolved independently of the cellulose walls of other algae, including most green algae (except charophyceans).
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-2. Charophyceans, closest algal relatives of the plant kingdom.
+
+A second derived homology in charophyceans and land plants is a match in the enzymes contained within the organelles called peroxisomes, which are often closely associated with chloroplasts (see FIGURE 7.19). These peroxisome enzymes help minimize the loss of organic product due to photorespiration (see Chapter 10). Except for the charophyceans, algal peroxisomes lack these enzymes.
+
+Two additional derived homologies link land plants to the charophycean algae. In those land plants that have flagellated sperm cells, the structure of the sperm closely resembles the sperm of charophyceans. And certain details of cell division are common only to land plants and the most complex of the charophycean algae, such as Chara and Coleochaete, shown in FIGURE 29.2. For example, the synthesis of new cross-walls (cell plates) during cell division involves the formation of a phragmoplast, an alignment of cytoskeletal elements and Golgi-derived vesicles across the midline of the dividing cell (see FIGURE 12.9).
+
+Clearly, we are starting to build a case for a close relationship between charophycean algae and land plants, and we will strengthen our case when we explore the origin of land plants later in the chapter. But for now we search for features unique to land plants--characteristics that distinguish land plants from their closest relatives--for those are the plant features most likely to be associated with terrestrial adaptation.
+
+
+
+

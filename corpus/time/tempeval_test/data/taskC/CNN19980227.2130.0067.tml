@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+ CNN<TIMEX3 tid="t92" type="DATE" value="1998-02-27" temporalFunction="false" functionInDocument="CREATION_TIME">19980227</TIMEX3>.2130.0067 
+ NEWS STORY 
+
+
+
+
+
+ <s>Live from Atalanta, good evening Lynne Russell, CNN headline news.</s>
+ <s>New evidence is <EVENT eid="e4" mainevent="YES" class="I_STATE" stem="suggest" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">suggesting</EVENT> that a series of <EVENT eid="e91" mainevent="NO" class="OCCURRENCE" stem="bombings" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">bombings</EVENT> in Atalanta and <TIMEX3 tid="t93" type="DATE" value="1998-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">last month</TIMEX3>'s
+ <EVENT eid="e6" mainevent="NO" class="OCCURRENCE" stem="explosion" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">explosion</EVENT> at an Alabama women's clinic might be <EVENT eid="e8" mainevent="NO" class="STATE" stem="related" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">related</EVENT>.</s>
+ <s>Pierre Thomas has the latest.</s>
+
+
+ <s>Atlanta <TIMEX3 tid="t95" type="DATE" value="1996" temporalFunction="false" functionInDocument="NONE">nineteen ninety-six</TIMEX3>.</s> <s>A bomb <EVENT eid="e138" mainevent="NO" class="OCCURRENCE" stem="blast" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">blast</EVENT> <EVENT eid="e11" mainevent="YES" class="OCCURRENCE" stem="shock" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">shocks</EVENT> the Olympic games.</s>
+ <s>One person is <EVENT eid="e12" mainevent="YES" class="OCCURRENCE" stem="kill" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">killed</EVENT>.</s>
+
+
+ <s><TIMEX3 tid="t96" type="DATE" value="1997-01" temporalFunction="false" functionInDocument="NONE">January nineteen ninety-seven</TIMEX3>.</s> <s>Atlanta again.</s>
+ <s>This time a <EVENT eid="e149" mainevent="YES" class="OCCURRENCE" stem="bomb" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">bomb</EVENT> at an abortion clinic.</s>
+ <s>More people are <EVENT eid="e16" mainevent="YES" class="OCCURRENCE" stem="hurt" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">hurt</EVENT>.</s>
+ <s>And just <TIMEX3 tid="t97" type="DATE" value="1998-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">last month</TIMEX3>, an off duty policeman is <EVENT eid="e17" mainevent="YES" class="OCCURRENCE" stem="kill" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">killed</EVENT> when a bomb <EVENT eid="e98" mainevent="NO" class="OCCURRENCE" stem="explode" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">explodes</EVENT>
+ at another abortion clinic.</s>
+ <s>Location, Birmingham, Alabama.</s>
+
+ <s>This man, Eric Rudolph has already been <EVENT eid="e22" mainevent="YES" class="OCCURRENCE" stem="charge" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">charged</EVENT> in the Birmingham <EVENT eid="e23" mainevent="NO" class="OCCURRENCE" stem="bombing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">bombing</EVENT>.</s>
+ <s><TIMEX3 tid="t178" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">Now</TIMEX3> officials are <EVENT eid="e25" mainevent="YES" class="I_ACTION" stem="investigate" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">investigating</EVENT> whether, Rudolph, who remains at large, is <EVENT eid="e27" mainevent="NO" class="STATE" stem="link" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">linked</EVENT> to all three <EVENT eid="e28" mainevent="NO" class="OCCURRENCE" stem="attack" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">attacks</EVENT>.</s>
+ <s>The reason, authorities have <EVENT eid="e30" mainevent="YES" class="OCCURRENCE" stem="discover" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">discovered</EVENT> tantalizing new evidence.</s>
+
+ <s>Steel plates <EVENT eid="e33" mainevent="NO" class="OCCURRENCE" stem="recover" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">recovered</EVENT> at the Olympic park bombing <EVENT eid="e34" mainevent="YES" class="I_STATE" stem="appear" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">appear</EVENT> to <EVENT eid="e36" mainevent="NO" class="OCCURRENCE" stem="match" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">match</EVENT> those
+ <EVENT eid="e37" mainevent="NO" class="OCCURRENCE" stem="find" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">found</EVENT> at the abortion clinic <EVENT eid="e38" mainevent="NO" class="OCCURRENCE" stem="bombing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">bombing</EVENT> in Atlanta.</s>
+ <s>Those plates may have <EVENT eid="e42" mainevent="YES" class="OCCURRENCE" stem="come" tense="NONE" aspect="PERFECTIVE" polarity="POS" pos="ADJECTIVE">come</EVENT> from a machine shop in north Carolina, where a
+ friend of Rudolph <EVENT eid="e44" mainevent="NO" class="OCCURRENCE" stem="work" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">worked</EVENT>.</s>
+
+ <s>And nails <EVENT eid="e45" mainevent="YES" class="OCCURRENCE" stem="find" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">found</EVENT> in the Atlanta abortion clinic <EVENT eid="e101" mainevent="NO" class="OCCURRENCE" stem="bombing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">bombing</EVENT> are identical to
+ those <EVENT eid="e46" mainevent="NO" class="OCCURRENCE" stem="discover" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">discovered</EVENT> at Rudolph's storage shed in north Carolina.</s>
+ <s>A senior law enforcement source <EVENT eid="e49" mainevent="YES" class="REPORTING" stem="tell" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">tells</EVENT> CNN, there is a lot of
+ circumstantial <EVENT eid="e50" mainevent="NO" class="OCCURRENCE" stem="evidence" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">evidence</EVENT> and it would be <EVENT eid="e102" mainevent="NO" class="I_STATE" stem="extraordinary" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">extraordinary</EVENT> to <EVENT eid="e53" mainevent="NO" class="STATE" stem="have" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">have</EVENT> all these
+ bits and pieces and there not be a <EVENT eid="e104" mainevent="NO" class="STATE" stem="connection" tense="PRESENT" aspect="NONE" polarity="NEG" pos="NOUN">connection</EVENT>.</s>
+
+ <s>And law enforcement sources <EVENT eid="e54" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">say</EVENT> they ca n't <EVENT eid="e55" mainevent="NO" class="OCCURRENCE" stem="ignore" tense="NONE" aspect="NONE" polarity="NEG" pos="VERB">ignore</EVENT> letters penned under the
+ name army of god.</s>
+ <s>Army of god is a secret organization that hates abortion providers,
+ homosexuals and the US government.</s>
+
+ <s>Army of god letters <EVENT eid="e105" mainevent="YES" class="I_ACTION" stem="claim" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">claim</EVENT> <EVENT eid="e60" mainevent="NO" class="I_STATE" stem="responsibility" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">responsibility</EVENT> for the Atlanta abortion clinic
+ <EVENT eid="e106" mainevent="NO" class="OCCURRENCE" stem="bombing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">bombing</EVENT>, a <TIMEX3 tid="t107" type="DATE" value="1997" temporalFunction="false" functionInDocument="NONE">nineteen ninety-seven</TIMEX3> <EVENT eid="e61" mainevent="NO" class="OCCURRENCE" stem="attack" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">attack</EVENT> on a gay lounge and the Birmingham <EVENT eid="e63" mainevent="NO" class="OCCURRENCE" stem="assault" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">assault</EVENT>.</s>
+
+ <s>An intense <EVENT eid="e64" mainevent="NO" class="OCCURRENCE" stem="manhunt" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">manhunt</EVENT> conducted by the FBI and the bureau of alcohol, tobacco
+ and firearms <EVENT eid="e66" mainevent="YES" class="ASPECTUAL" stem="continue" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">continues</EVENT> for Rudolph in the wilderness of western north
+ Carolina.</s>
+ <s>And <TIMEX3 tid="t108" type="DATE" value="1998-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">this week</TIMEX3>, FBI director Louie Freeh <EVENT eid="e109" mainevent="YES" class="OCCURRENCE" stem="assign" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">assigned</EVENT> more agents to the
+ <EVENT eid="e67" mainevent="NO" class="OCCURRENCE" stem="search" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">search</EVENT>.</s>
+
+ <s>Freeh also <EVENT eid="e68" mainevent="YES" class="I_ACTION" stem="order" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">ordered</EVENT> the <EVENT eid="e69" mainevent="NO" class="OCCURRENCE" stem="investigation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">investigation</EVENT> consolidate information under the
+ Atlanta task force, another indication officials <EVENT eid="e72" mainevent="NO" class="I_STATE" stem="suspect" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">suspect</EVENT> a <EVENT eid="e110" mainevent="NO" class="STATE" stem="link" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">link</EVENT> between all
+ the <EVENT eid="e73" mainevent="NO" class="OCCURRENCE" stem="bombings" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">bombings</EVENT>.</s>
+ <s>Privately, authorities <EVENT eid="e74" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">say</EVENT> Rudolph has <EVENT eid="e76" mainevent="NO" class="OCCURRENCE" stem="become" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">become</EVENT> a focus of their
+ <EVENT eid="e77" mainevent="NO" class="OCCURRENCE" stem="investigation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">investigation</EVENT>.</s>
+ <s>Publicly, they are <EVENT eid="e111" mainevent="YES" class="I_STATE" stem="unwilling" tense="PRESENT" aspect="NONE" polarity="POS" pos="ADJECTIVE">unwilling</EVENT> to <EVENT eid="e79" mainevent="NO" class="OCCURRENCE" stem="make" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">make</EVENT> any sweeping <EVENT eid="e80" mainevent="NO" class="OCCURRENCE" stem="assertion" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">assertion</EVENT>.</s>
+ <s>The reason, they <EVENT eid="e82" mainevent="YES" class="OCCURRENCE" stem="remember" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">remember</EVENT> Richard Jewell.</s>
+ <s>pierre thomas, CNN, Washington.</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e74" eventID="e68" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e66" eventID="e105" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e82" eventID="e111" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e25" eventID="e22" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e54" eventID="e49" task="C"/>
+<TLINK lid="l6" relType="UNKNOWN" relatedToEvent="e68" eventID="e109" task="C"/>
+<TLINK lid="l7" relType="UNKNOWN" relatedToEvent="e34" eventID="e30" task="C"/>
+<TLINK lid="l8" relType="UNKNOWN" relatedToEvent="e16" eventID="e149" task="C"/>
+<TLINK lid="l9" relType="UNKNOWN" relatedToEvent="e45" eventID="e42" task="C"/>
+<TLINK lid="l10" relType="UNKNOWN" relatedToEvent="e49" eventID="e45" task="C"/>
+<TLINK lid="l11" relType="UNKNOWN" relatedToEvent="e109" eventID="e66" task="C"/>
+<TLINK lid="l12" relType="UNKNOWN" relatedToEvent="e17" eventID="e16" task="C"/>
+<TLINK lid="l13" relType="UNKNOWN" relatedToEvent="e111" eventID="e74" task="C"/>
+<TLINK lid="l14" relType="UNKNOWN" relatedToEvent="e42" eventID="e34" task="C"/>
+<TLINK lid="l15" relType="UNKNOWN" relatedToEvent="e30" eventID="e25" task="C"/>
+<TLINK lid="l16" relType="UNKNOWN" relatedToEvent="e12" eventID="e11" task="C"/>
+
+</TempEval>

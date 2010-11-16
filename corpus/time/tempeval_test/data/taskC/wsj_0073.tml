@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+ WSJ891102-0119 
+ = 891102 
+ 891102-0119. 
+ Integra-A Rights Offering 
+ <TIMEX3 tid="t21" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ ITGR HWG 
+ IRVING, Texas  
+
+   <s>Integra-A Hotel amp Restaurant Co. <EVENT eid="e1" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> its <EVENT eid="e2044" mainevent="NO" class="STATE" stem="planned" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">planned</EVENT> rights <EVENT eid="e1995" mainevent="NO" class="I_ACTION" stem="offering" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offering</EVENT>  to <EVENT eid="e2" mainevent="NO" class="OCCURRENCE" stem="raise" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">raise</EVENT> about $9 million  was <EVENT eid="e3" mainevent="NO" class="I_ACTION" stem="declare" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">declared</EVENT> effective and the company  will <EVENT eid="e4" mainevent="NO" class="ASPECTUAL" stem="begin" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">begin</EVENT> <EVENT eid="e1996" mainevent="NO" class="OCCURRENCE" stem="mail" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">mailing</EVENT> materials to shareholders at <TIMEX3 tid="t23" type="DATE" value="1989-W44" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">the end of this week</TIMEX3>.</s> 
+
+   <s>Under the <EVENT eid="e1997" mainevent="NO" class="I_ACTION" stem="offer" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offer</EVENT>, shareholders  will <EVENT eid="e5" mainevent="YES" class="OCCURRENCE" stem="receive" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">receive</EVENT> one right for each 105 common shares <EVENT eid="e6" mainevent="NO" class="STATE" stem="own" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">owned</EVENT>.</s> 
+<s>Each <EVENT eid="e2000" mainevent="NO" class="I_STATE" stem="right" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">right</EVENT> <EVENT eid="e7" mainevent="YES" class="I_STATE" stem="entitle" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">entitles</EVENT> the shareholder  to <EVENT eid="e8" mainevent="NO" class="OCCURRENCE" stem="buy" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">buy</EVENT> $100 face amount of 13.5% bonds due <TIMEX3 tid="t24" type="DATE" value="1993" temporalFunction="false" functionInDocument="NONE">1993</TIMEX3> and <EVENT eid="e1998" mainevent="NO" class="I_ACTION" stem="warrant" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">warrants</EVENT>  to <EVENT eid="e9" mainevent="NO" class="OCCURRENCE" stem="buy" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">buy</EVENT> 23.5 common shares at 30 cents a share.</s> 
+<s>The <EVENT eid="e2001" mainevent="NO" class="I_STATE" stem="right" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">rights</EVENT>, which <EVENT eid="e10" mainevent="YES" class="OCCURRENCE" stem="expire" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">expire</EVENT> <TIMEX3 tid="t25" type="DATE" value="1989-11-21" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t21">Nov. 21</TIMEX3>, can  be exercised for $100 each.</s> 
+
+   <s>Integra, which owns and operates hotels, <EVENT eid="e15" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> that Hallwood Group Inc.  has <EVENT eid="e16" mainevent="NO" class="I_ACTION" stem="agree" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">agreed</EVENT>  to <EVENT eid="e17" mainevent="NO" class="OCCURRENCE" stem="exercise" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">exercise</EVENT> any rights that are n't <EVENT eid="e18" mainevent="NO" class="OCCURRENCE" stem="exercise" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" pos="VERB">exercised</EVENT> by other shareholders.</s> 
+<s>Hallwood, a Cleveland merchant bank, <EVENT eid="e2002" mainevent="YES" class="STATE" stem="own" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">owns</EVENT> about 11% of Integra.</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e15" eventID="e10" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e10" eventID="e7" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e2002" eventID="e15" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e7" eventID="e5" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e5" eventID="e1" task="C"/>
+
+</TempEval>

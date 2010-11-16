@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+
+
+
+<TempEval>
+
+
+
+ APW19980301.0720 
+ NEWS STORY 
+ <TIMEX3 tid="t122" type="TIME" value="1998-03-01T14:11:00" temporalFunction="false" functionInDocument="CREATION_TIME">03/01/1998 14:11:00</TIMEX3> 
+
+w1219 Cx1f wstm-
+u i Cx13  Cx11  BC-Israel-Lebanon     03-01 0570
+
+
+ BC-Israel-Lebanon 
+
+Political momentum gathers for Israeli pullout from Lebanon
+
+UR Eds: INCORPORATES Israel-Syria; ADDS background and additional
+comment Sunday QL
+
+
+<s>JERUSALEM (AP) _ Top Israeli officials <EVENT eid="e1" class="OCCURRENCE" stem="send" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">sent</EVENT> strong new <EVENT eid="e124" class="I_ACTION" stem="signal" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">signals</EVENT>
+<TIMEX3 tid="t123" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">Sunday</TIMEX3> that Israel <EVENT eid="e3" class="I_STATE" stem="want" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">wants</EVENT> to <EVENT eid="e5" class="OCCURRENCE" stem="withdraw" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">withdraw</EVENT> from southern Lebanon, where a
+costly <EVENT eid="e6" class="OCCURRENCE" stem="war" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">war</EVENT> of attrition has been steadily <EVENT eid="e7" class="I_ACTION" stem="claim" aspect="PERFECTIVE_PROGRESSIVE" tense="PRESENT" polarity="POS" pos="VERB">claiming</EVENT> soldiers' lives.</s>
+<s>Prime Minister Benjamin Netanyahu <EVENT eid="e8" class="REPORTING" stem="tell" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">told</EVENT> his Cabinet on <TIMEX3 tid="t125" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">Sunday</TIMEX3>
+that Israel was <EVENT eid="e1990" class="I_STATE" stem="will" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">willing</EVENT> to <EVENT eid="e10" class="OCCURRENCE" stem="withdraw" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">withdraw</EVENT> from southern Lebanon provided
+Israel's northern frontier could be <EVENT eid="e12" class="OCCURRENCE" stem="secure" aspect="NONE" tense="NONE" polarity="POS" pos="VERB">secured</EVENT>.</s>
+<s>``If the Lebanese government will <EVENT eid="e14" class="OCCURRENCE" stem="cooperate" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">cooperate</EVENT> with us in <EVENT eid="e16" class="OCCURRENCE" stem="make" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">making</EVENT>
+appropriate security arrangements in south Lebanon, we will be
+happy to <EVENT eid="e18" class="OCCURRENCE" stem="get" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">get</EVENT> out of Lebanon in the framework of implementation of
+U.N. Resolution 425,'' Netanyahu <EVENT eid="e20" class="REPORTING" stem="tell" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">told</EVENT> his ministers.</s>
+<s>That <TIMEX3 tid="t128" type="DATE" value="1978" temporalFunction="false" functionInDocument="NONE">1978</TIMEX3> <EVENT eid="e21" class="OCCURRENCE" stem="resolution" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">resolution</EVENT> <EVENT eid="e22" class="OCCURRENCE" stem="call" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">calls</EVENT> for Israel's unconditional <EVENT eid="e23" class="OCCURRENCE" stem="withdrawal" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">withdrawal</EVENT>
+from the self-declared security zone it <EVENT eid="e24" class="OCCURRENCE" stem="occupy" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">occupies</EVENT> in south Lebanon,
+and for the <EVENT eid="e25" class="OCCURRENCE" stem="deployment" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">deployment</EVENT> of the Lebanese army and U.N. forces to <EVENT eid="e27" class="OCCURRENCE" stem="ensure" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">ensure</EVENT> security along the Lebanese-Israeli border.</s>
+<s>On <TIMEX3 tid="t127" type="DATE" value="1998-02-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">Friday</TIMEX3>, Netanyahu <EVENT eid="e29" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> he <EVENT eid="e30" class="OCCURRENCE" stem="have" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">had</EVENT> ``no qualms'' about
+<EVENT eid="e32" class="OCCURRENCE" stem="implement" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">implementing</EVENT> the U.N. resolution, as long as Israel <EVENT eid="e33" class="OCCURRENCE" stem="have" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">had</EVENT> ``the
+necessary security safeguards.''</s>
+<s>Cabinet minister Michael Eitan <EVENT eid="e35" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> <TIMEX3 tid="t129" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">Sunday</TIMEX3> that Netanyahu's
+<EVENT eid="e36" class="OCCURRENCE" stem="remark" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">remarks</EVENT> <EVENT eid="e37" class="OCCURRENCE" stem="mark" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">marked</EVENT> a substantive <EVENT eid="e38" class="OCCURRENCE" stem="change" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">change</EVENT> in Israel's position.</s>
+<s>``We will <EVENT eid="e39" class="OCCURRENCE" stem="defend" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">defend</EVENT> our north from the international border,'' <EVENT eid="e40" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT>
+Eitan, the science minister.</s> <s>``No one <EVENT eid="e41" class="I_STATE" stem="want" aspect="NONE" tense="PRESENT" polarity="NEG" pos="VERB">wants</EVENT> to <EVENT eid="e43" class="OCCURRENCE" stem="stay" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">stay</EVENT> in Lebanon;
+thus we <EVENT eid="e44" class="I_STATE" stem="think" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">think</EVENT> it <EVENT eid="e131" class="I_STATE" stem="better" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">better</EVENT> to <EVENT eid="e46" class="OCCURRENCE" stem="withdraw" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">withdraw</EVENT>.''</s>
+<s>Uri Lubrani, Israel's top official for Lebanon affairs, also <EVENT eid="e47" class="OCCURRENCE" stem="suggest" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">suggested</EVENT> Israel was <EVENT eid="e132" class="I_STATE" stem="will" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">willing</EVENT> to <EVENT eid="e49" class="OCCURRENCE" stem="modify" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">modify</EVENT> its political goals in
+Lebanon.</s>
+<s>``This is a new thing...it means that we are <EVENT eid="e133" class="I_STATE" stem="will" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">willing</EVENT> to <EVENT eid="e54" class="OCCURRENCE" stem="talk" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">talk</EVENT>
+<TIMEX3 tid="t134" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">today</TIMEX3> _ full stop _ about security,'' Lubrani <EVENT eid="e57" class="REPORTING" stem="tell" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">told</EVENT> Israel's Channel
+One.</s> <s>``We have <EVENT eid="e58" class="OCCURRENCE" stem="get" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">gotten</EVENT> off the issue of peace, off the issue of
+normalization.''</s>
+<s>As the death toll in Lebanon has <EVENT eid="e60" class="OCCURRENCE" stem="mount" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">mounted</EVENT>, the Israeli government
+has been <EVENT eid="e61" class="OCCURRENCE" stem="face" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">faced</EVENT> with a growing grassroots <EVENT eid="e62" class="OCCURRENCE" stem="movement" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">movement</EVENT> <EVENT eid="e63" class="OCCURRENCE" stem="call" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">calling</EVENT> for
+Israel's unilateral <EVENT eid="e64" class="OCCURRENCE" stem="withdrawal" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">withdrawal</EVENT> from Lebanon.</s>
+<s>Since <TIMEX3 tid="t1979" type="DATE" value="1985" temporalFunction="false" functionInDocument="NONE">1985</TIMEX3> _ when the Israelis <EVENT eid="e66" class="OCCURRENCE" stem="create" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">created</EVENT> a security buffer zone
+southern Lebanon _ nearly 200 Israeli soldiers have been <EVENT eid="e67" class="OCCURRENCE" stem="kill" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">killed</EVENT>
+<EVENT eid="e68" class="OCCURRENCE" stem="fight" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">fighting</EVENT> Hezbollah and other guerrillas.</s> <s><TIMEX3 tid="t1980" type="DATE" value="1998-W08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">Last week</TIMEX3>, Hezbollah
+fighters <EVENT eid="e69" class="OCCURRENCE" stem="kill" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">killed</EVENT> three Israeli soldiers and seriously <EVENT eid="e70" class="OCCURRENCE" stem="wound" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">wounded</EVENT> six
+others.</s>
+<s>The Israelis <EVENT eid="e71" class="OCCURRENCE" stem="suffer" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">suffered</EVENT> a record 39 <EVENT eid="e73" class="OCCURRENCE" stem="death" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">deaths</EVENT> in southern Lebanon
+<TIMEX3 tid="t1981" type="DURATION" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">last year</TIMEX3>.</s> <s>In addition, 73 soldiers were <EVENT eid="e75" class="OCCURRENCE" stem="kill" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">killed</EVENT> en route to Lebanon
+when two military helicopters <EVENT eid="e77" class="OCCURRENCE" stem="crash" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">crashed</EVENT> <TIMEX3 tid="t1982" type="DATE" value="1997-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">last February</TIMEX3>.</s>
+<s>The Maariv newspaper <EVENT eid="e78" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> <TIMEX3 tid="t1983" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">Sunday</TIMEX3> that Netanyahu's <EVENT eid="e79" class="OCCURRENCE" stem="comment" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">comments</EVENT> <TIMEX3 tid="t1985" type="DATE" value="1998-W08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">last
+week</TIMEX3> were in response to <EVENT eid="e80" class="OCCURRENCE" stem="signal" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">signals</EVENT> from Syria that it <EVENT eid="e81" class="I_STATE" stem="want" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">wants</EVENT> to <EVENT eid="e83" class="ASPECTUAL" stem="renew" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">renew</EVENT>
+the long-stalled peace <EVENT eid="e84" class="OCCURRENCE" stem="talk" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">talks</EVENT> between the two countries.</s>
+<s>The newspaper, <EVENT eid="e85" class="OCCURRENCE" stem="quote" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">quoting</EVENT> ``secret <EVENT eid="e86" class="OCCURRENCE" stem="report" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">reports</EVENT>,'' <EVENT eid="e87" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> Syria had <EVENT eid="e88" class="I_ACTION" stem="indicate" aspect="PERFECTIVE" tense="PAST" polarity="POS" pos="VERB">indicated</EVENT> its interest in <EVENT eid="e90" class="OCCURRENCE" stem="resume" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">resuming</EVENT> <EVENT eid="e91" class="OCCURRENCE" stem="talk" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">talks</EVENT> in <EVENT eid="e92" class="OCCURRENCE" stem="remark" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">remarks</EVENT> <EVENT eid="e94" class="OCCURRENCE" stem="make" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">made</EVENT> <TIMEX3 tid="t1986" type="DATE" value="1998-W08" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">last week</TIMEX3>
+by the Syrian ambassador to Washington, Walid Mualem, in a <EVENT eid="e95" class="OCCURRENCE" stem="lecture" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">lecture</EVENT>
+to a closed forum in Baltimore.</s>
+<s>Two top aides to Netanyahu, political adviser Uzi Arad and
+Cabinet Secretary Danny Naveh, <EVENT eid="e97" class="OCCURRENCE" stem="leave" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">left</EVENT> for Europe on <TIMEX3 tid="t1987" type="DATE" value="1998-03-01" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">Sunday</TIMEX3>,
+apparently to <EVENT eid="e98" class="I_ACTION" stem="investigate" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">investigate</EVENT> the Syrian issue, the newspaper <EVENT eid="e99" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT>.</s>
+<s>Israel-Syrian <EVENT eid="e100" class="OCCURRENCE" stem="talk" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">talks</EVENT> have been <EVENT eid="e101" class="OCCURRENCE" stem="cut" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">cut</EVENT> off for <TIMEX3 tid="t1988" type="DURATION" value="P2Y" mod="EQUAL_OR_LESS" temporalFunction="false" functionInDocument="NONE">nearly two years</TIMEX3>.</s>
+<s>Defense Minister Yitzhak Mordechai was the first senior Israeli
+official to <EVENT eid="e102" class="OCCURRENCE" stem="refer" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">refer</EVENT> to U.N. resolution 425 in a <EVENT eid="e103" class="OCCURRENCE" stem="speech" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">speech</EVENT> <TIMEX3 tid="t1989" type="DATE" value="1998-W02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t122">six weeks ago</TIMEX3>,
+<EVENT eid="e105" class="REPORTING" stem="say" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">saying</EVENT> at the <TIMEX3 tid="t1993" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t1989">time</TIMEX3> he was <EVENT eid="e1994" class="I_STATE" stem="will" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">willing</EVENT> to <EVENT eid="e109" class="OCCURRENCE" stem="withdraw" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">withdraw</EVENT> troops in <EVENT eid="e110" class="OCCURRENCE" stem="exchange" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">exchange</EVENT>
+for <EVENT eid="e112" class="OCCURRENCE" stem="guarantee" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">guarantees</EVENT> that Israel would not be <EVENT eid="e113" class="OCCURRENCE" stem="attack" aspect="NONE" tense="NONE" polarity="POS" pos="VERB">attacked</EVENT>.</s>
+
+UR (pvs-dh-lk)
+(PROFILE
+(WS SL:BC-Israel-Lebanon; CT:i;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+
+
+<s>AP-NY-03-01-98 1411EST</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" eventID="e3" relatedToTime="t123" task="A"/>
+<TLINK lid="l2" relType="UNKNOWN" eventID="e6" relatedToTime="t123" task="A"/>
+<TLINK lid="l3" relType="UNKNOWN" eventID="e8" relatedToTime="t125" task="A"/>
+<TLINK lid="l4" relType="UNKNOWN" eventID="e22" relatedToTime="t128" task="A"/>
+<TLINK lid="l5" relType="UNKNOWN" eventID="e29" relatedToTime="t127" task="A"/>
+<TLINK lid="l6" relType="UNKNOWN" eventID="e33" relatedToTime="t127" task="A"/>
+<TLINK lid="l7" relType="UNKNOWN" eventID="e30" relatedToTime="t127" task="A"/>
+<TLINK lid="l8" relType="UNKNOWN" eventID="e35" relatedToTime="t129" task="A"/>
+<TLINK lid="l9" relType="UNKNOWN" eventID="e38" relatedToTime="t129" task="A"/>
+<TLINK lid="l10" relType="UNKNOWN" eventID="e54" relatedToTime="t134" task="A"/>
+<TLINK lid="l11" relType="UNKNOWN" eventID="e57" relatedToTime="t134" task="A"/>
+<TLINK lid="l12" relType="UNKNOWN" eventID="e78" relatedToTime="t1983" task="A"/>
+<TLINK lid="l13" relType="UNKNOWN" eventID="e78" relatedToTime="t1985" task="A"/>
+<TLINK lid="l14" relType="UNKNOWN" eventID="e84" relatedToTime="t1983" task="A"/>
+<TLINK lid="l15" relType="UNKNOWN" eventID="e84" relatedToTime="t1985" task="A"/>
+<TLINK lid="l16" relType="UNKNOWN" eventID="e81" relatedToTime="t1983" task="A"/>
+<TLINK lid="l17" relType="UNKNOWN" eventID="e81" relatedToTime="t1985" task="A"/>
+<TLINK lid="l18" relType="UNKNOWN" eventID="e94" relatedToTime="t1986" task="A"/>
+<TLINK lid="l19" relType="UNKNOWN" eventID="e91" relatedToTime="t1986" task="A"/>
+<TLINK lid="l20" relType="UNKNOWN" eventID="e86" relatedToTime="t1986" task="A"/>
+<TLINK lid="l21" relType="UNKNOWN" eventID="e87" relatedToTime="t1986" task="A"/>
+<TLINK lid="l22" relType="UNKNOWN" eventID="e97" relatedToTime="t1987" task="A"/>
+<TLINK lid="l23" relType="UNKNOWN" eventID="e99" relatedToTime="t1987" task="A"/>
+<TLINK lid="l24" relType="UNKNOWN" eventID="e100" relatedToTime="t1988" task="A"/>
+<TLINK lid="l25" relType="UNKNOWN" eventID="e105" relatedToTime="t1989" task="A"/>
+<TLINK lid="l26" relType="UNKNOWN" eventID="e105" relatedToTime="t1993" task="A"/>
+<TLINK lid="l27" relType="UNKNOWN" eventID="e3" relatedToTime="t122" task="B"/>
+<TLINK lid="l28" relType="UNKNOWN" eventID="e6" relatedToTime="t122" task="B"/>
+<TLINK lid="l29" relType="UNKNOWN" eventID="e8" relatedToTime="t122" task="B"/>
+<TLINK lid="l30" relType="UNKNOWN" eventID="e20" relatedToTime="t122" task="B"/>
+<TLINK lid="l31" relType="UNKNOWN" eventID="e16" relatedToTime="t122" task="B"/>
+<TLINK lid="l32" relType="UNKNOWN" eventID="e22" relatedToTime="t122" task="B"/>
+<TLINK lid="l33" relType="UNKNOWN" eventID="e29" relatedToTime="t122" task="B"/>
+<TLINK lid="l34" relType="UNKNOWN" eventID="e33" relatedToTime="t122" task="B"/>
+<TLINK lid="l35" relType="UNKNOWN" eventID="e30" relatedToTime="t122" task="B"/>
+<TLINK lid="l36" relType="UNKNOWN" eventID="e35" relatedToTime="t122" task="B"/>
+<TLINK lid="l37" relType="UNKNOWN" eventID="e38" relatedToTime="t122" task="B"/>
+<TLINK lid="l38" relType="UNKNOWN" eventID="e40" relatedToTime="t122" task="B"/>
+<TLINK lid="l39" relType="UNKNOWN" eventID="e41" relatedToTime="t122" task="B"/>
+<TLINK lid="l40" relType="UNKNOWN" eventID="e44" relatedToTime="t122" task="B"/>
+<TLINK lid="l41" relType="UNKNOWN" eventID="e54" relatedToTime="t122" task="B"/>
+<TLINK lid="l42" relType="UNKNOWN" eventID="e57" relatedToTime="t122" task="B"/>
+<TLINK lid="l43" relType="UNKNOWN" eventID="e63" relatedToTime="t122" task="B"/>
+<TLINK lid="l44" relType="UNKNOWN" eventID="e78" relatedToTime="t122" task="B"/>
+<TLINK lid="l45" relType="UNKNOWN" eventID="e84" relatedToTime="t122" task="B"/>
+<TLINK lid="l46" relType="UNKNOWN" eventID="e81" relatedToTime="t122" task="B"/>
+<TLINK lid="l47" relType="UNKNOWN" eventID="e94" relatedToTime="t122" task="B"/>
+<TLINK lid="l48" relType="UNKNOWN" eventID="e91" relatedToTime="t122" task="B"/>
+<TLINK lid="l49" relType="UNKNOWN" eventID="e86" relatedToTime="t122" task="B"/>
+<TLINK lid="l50" relType="UNKNOWN" eventID="e87" relatedToTime="t122" task="B"/>
+<TLINK lid="l51" relType="UNKNOWN" eventID="e97" relatedToTime="t122" task="B"/>
+<TLINK lid="l52" relType="UNKNOWN" eventID="e99" relatedToTime="t122" task="B"/>
+<TLINK lid="l53" relType="UNKNOWN" eventID="e100" relatedToTime="t122" task="B"/>
+<TLINK lid="l54" relType="UNKNOWN" eventID="e105" relatedToTime="t122" task="B"/>
+</TempEval>

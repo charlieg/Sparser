@@ -1,0 +1,62 @@
+
+ Blood is a connective tissue with cells suspended in plasma
+
+We now shift our focus from the tubes and pumps of circulatory systems to the fluids being circulated. In invertebrates with open circulations, blood (hemolymph) is not different from interstitial fluid. However, blood in the closed circulatory systems of vertebrates is a specialized connective tissue consisting of several kinds of cells suspended in a liquid matrix called plasma. If a blood sample is taken, the cells can be separated from plasma by spinning the whole blood in a centrifuge (an anticoagulant must be added to prevent the blood from clotting). The cellular elements (cells and cell fragments), which occupy about 45%  of the volume of blood, settle to the bottom of the centrifuge tube, forming a dense red pellet. Above this cellular pellet is the transparent, straw-colored plasma (FIGURE 42.14).
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-14. The composition of mammalian blood.
+
+Plasma
+
+Blood plasma is about 90%  water. Among its many solutes are inorganic salts in the form of dissolved ions, sometimes referred to as blood electrolytes. The combined concentration of these ions is important in maintaining osmotic balance of the blood. Some ions also help buffer the blood, which normally has a pH of 7.4 in humans. And the normal functioning of muscles and nerves depends on the concentration of key ions in the interstitial fluid, which reflects their concentration in plasma. The kidney maintains plasma electrolytes at precise concentrations, an example of homeostasis.
+
+Another important class of solutes is the plasma proteins, which have many functions. Collectively, they act as buffers against pH changes, help maintain the osmotic balance between blood and interstitial fluid, and contribute to the blood's viscosity (thickness). The various types of plasma proteins also have specific functions. Some are escorts for lipids, which are insoluble in water and can travel in blood only when bound to proteins. Another class of proteins, the immunoglobulins or antibodies, help combat viruses and other foreign agents that invade the body (see Chapter 43). And the plasma proteins called fibrinogens are clotting factors that help plug leaks when blood vessels are injured. Blood plasma that has had these clotting factors removed is called serum.
+
+Plasma also contains a wide variety of substances in transit from one part of the body to another, including nutrients, metabolic wastes, respiratory gases, and hormones. Blood plasma and interstitial fluid are similar in composition, except that plasma has a much higher protein concentration (capillary walls, remember, are not very permeable to proteins).
+
+Cellular Elements
+
+Suspended in blood plasma are two classes of cells: red blood cells, which transport oxygen, and white blood cells, which function in defense. A third cellular element, platelets, are pieces of cells that are involved in clotting.
+
+Red blood cells, or erythrocytes, are by far the most numerous blood cells. Each cubic millimeter of human blood contains 5 to 6 million red cells, and there are about 25 trillion of these cells in the body's 5 L of blood.
+
+Red blood cells are an excellent example of the close relationship between structure and function. Their main function of oxygen transport depends on rapid diffusion of oxygen across the red cells' plasma membranes. Human erythrocytes are small biconcave disks (about 7-8.5 mm in diameter), thinner in the center than at the edges. Their small size and biconcave shape create a large surface area for the total population of red cells, and the greater the total area of red cell membrane in a given volume of blood, the more rapidly oxygen diffusion can occur. Mammalian erythrocytes lack nuclei, an unusual characteristic that leaves more space in the tiny cells for hemoglobin, the iron-containing protein that transports oxygen (see FIGURE 5.23b). Red blood cells also lack mitochondria and generate their ATP exclusively by anaerobic metabolism. Oxygen transport by erythrocytes would be less efficient if their own metabolism were aerobic and consumed some of the oxygen they carry.
+
+Despite its small size, an erythrocyte contains about 250 million molecules of hemoglobin. Since each hemoglobin binds up to four molecules of O2, an erythrocyte can transport about a billion oxygen molecules. Researchers have recently found that hemoglobin binds the gaseous molecule nitric oxide (NO) as well as O2. As red blood cells pass through the capillary beds of lungs, gills, or other respiratory organs, oxygen diffuses into the erythrocytes and hemoglobin binds O2 and NO. In the systemic capillaries, hemoglobin unloads oxygen, and it then diffuses into body cells. The NO relaxes the capillary walls, allowing them to expand, which probably helps deliver O2 to the cells.
+
+There are five major types of white blood cells, or leukocytes: monocytes, neutrophils, basophils, eosinophils, and lymphocytes (see FIGURE 42.14). Their collective function is to fight infections. For example, monocytes and neutrophils are phagocytes, which engulf and digest bacteria and debris from our own dead cells. As we will see in Chapter 43, lymphocytes develop into specialized B cells and T cells, which produce the immune response against foreign substances. White blood cells spend most of their time outside the circulatory system, patrolling through interstitial fluid and the lymphatic system, where most of the battles against pathogens are waged. Normally, a cubic millimeter of human blood has about 5,000 to 10,000 leukocytes, but their numbers increase temporarily whenever the body is fighting an infection.
+
+The third cellular element of blood, platelets, are fragments of cells about 2 to 3 mm in diameter. They have no nuclei and originate as pinched-off cytoplasmic fragments of large cells in the bone marrow. Platelets then enter the blood and function in the important process of blood clotting.
+
+Stem Cells and the Replacement of Cellular Elements
+
+The cellular elements of blood (erythrocytes, leukocytes, and platelets) wear out and are replaced constantly throughout a person's life. Erythrocytes, for example, usually circulate for only about 3 to 4 months and then are destroyed by phagocytic cells in the liver and spleen. Enzymes digest the old cell's macromolecules, and biosynthetic processes construct new macromolecules using many of the monomers, such as amino acids, obtained from old blood cells, as well as new materials and energy from food. Many of the iron atoms derived from the hemoglobin in old red blood cells are built into new hemoglobin molecules.
+
+Erythrocytes, leukocytes, and platelets all develop from a common source, a single population of cells called pluripotent stem cells in the red marrow of bones, particularly the ribs, vertebrae, breastbone, and pelvis (FIGURE 42.15, p. 884). "Pluripotent" means these cells have the potential to differentiate into any type of blood cell or into cells that produce platelets. Pluripotent stem cells arise in the early embryo, and the population renews itself while replenishing the blood with cellular elements. (See Chapter 21 for a more general discussion of stem cells.)
+
+A negative-feedback mechanism, sensitive to the amount of oxygen reaching the tissues via the blood, controls erythrocyte production. If the tissues do not receive enough oxygen, the kidney converts a plasma protein to a hormone called erythropoietin, which stimulates production of erythrocytes. If blood is delivering more oxygen than the tissues can use, the level of erythropoietin is reduced, and erythrocyte production slows.
+
+Recently, researchers have been able to isolate pluripotent stem cells and grow these cells in laboratory cultures. Purified pluripotent stem cells may soon provide an effective treatment for a number of human diseases, such as leukemia. A person with leukemia has a cancerous line of the stem cells that produce leukocytes. The cancerous stem cells crowd out cells that make red blood cells and produce an unusually high number of leukocytes, many of which are abnormal. One strategy now being used experimentally for treating leukemia is to remove pluripotent stem cells from a patient, destroy the bone marrow, and restock it with noncancerous pluripotent cells. As few as 30 of these cells can completely repopulate the bone marrow.
+
+Blood Clotting
+
+We all get cuts and scrapes from time to time, yet we do not bleed to death because blood contains a self-sealing material that plugs leaks. The sealant is always present in an inactive form called fibrinogen. A clot forms only when this plasma protein is converted to its active form, fibrin, which aggregates into threads that form the framework of the clot. The clotting mechanism usually begins with the release of clotting factors from platelets and involves a complex chain of reactions that ultimately transforms fibrinogen to fibrin (FIGURE 42.16). More than a dozen clotting factors have been discovered, and the mechanism is still not fully understood. An inherited defect in any step of the clotting process causes hemophilia, a disease characterized by excessive bleeding from even minor cuts and bruises.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-16. Blood clotting.
+
+Anticlotting factors in the blood normally prevent spontaneous clotting in the absence of injury. Sometimes, however, platelets clump and fibrin coagulates within a blood vessel, blocking the flow of blood. Such a clot is called a thrombus. These potentially dangerous clots are more likely to form in individuals with cardiovascular diseases, diseases of the heart and blood vessels.
+
+
+
+

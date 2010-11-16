@@ -1,0 +1,185 @@
+;;; -*- Package: co; Base: 10; Syntax: Common-Lisp -*-
+(in-package :co)
+
+;;;
+;;;			   BBN Technologies
+;;;		    A Division of BBN Corporation
+;;;			      Copyright
+;;;			 All Rights Reserved
+;;;				 1999-2009
+;;;
+
+;;; THIS FILE CONTAINS THE FLAVOR DEFINITIONS AND BASIC METHODS FOR SLOT-HANDLING-MIXIN...
+
+;; (4/30/09 ddm) Removed duplicated instance of defined-slot-for-role
+
+(defclass slot-handling-mixin (named-object-mixin)
+  ((defined-slots :initform nil :initarg :defined-slots :accessor defined-slots)
+   (slots :initform nil :initarg :slots :accessor slots)
+   (inverse-slots :initform nil :initarg :inverse-slots :accessor inverse-slots)
+   (slot-order :initform nil :initarg :slot-order :accessor slot-order)))
+
+(proclaim '(inline role-names-of-slots))
+(defun role-names-of-slots (slots)
+  (loop for slot in slots
+      collect (role-name slot)))
+
+(eval-when (compile load eval)
+  (export '(defined-slots role-names-of-slots) :co))
+
+(proclaim '(inline role-instances-of-slots))
+(defun role-instances-of-slots (slots)
+  (loop for slot in slots
+	collect (role-object slot)))
+
+(defmethod all-roles-of ((self slot-handling-mixin))
+  (role-names-of-slots (slots self)))
+
+(defmethod defined-roles-of ((self slot-handling-mixin))
+  (role-names-of-slots (defined-slots self)))
+
+(defmethod all-role-instances ((self slot-handling-mixin))
+  (role-instances-of-slots (slots self)))
+
+(defmethod defined-role-instances ((self slot-handling-mixin))
+  (role-instances-of-slots (defined-slots self)))
+
+(defmethod has-role? ((self slot-handling-mixin) role-name)
+  (member role-name (role-names-of-slots (slots self))))
+
+(defmethod slot-names-of-role-type ((self slot-handling-mixin) role)
+  (loop for s in (slots self)
+	when (of-role-type s role)
+	  collect (role-name s)))
+
+
+
+;;; OWNED slots are the set of slots added to the concept in question.
+
+(defmethod own-slot-p ((self inheritance-handling-mixin) slot)
+  (loop for abstraction in (abstractions self)
+	with role-name = (role-name slot)
+	when (has-role? (concept abstraction) role-name)
+	  return nil
+	finally (return t)))
+
+
+(defmethod own-slots ((self slot-handling-mixin))
+  (loop for slot in (defined-slots self)
+	when (own-slot-p self slot)
+	  collect slot))
+
+
+;;;LOCAL slots are those whose defining-concept is the concept in question.
+(proclaim '(inline local-slots-of))
+(defun local-slots-of (slots name)
+  (loop for slot in slots
+	when (local-to slot name)
+	  collect slot))
+
+(defmethod local-effective-slots ((self slot-handling-mixin))
+  (with-slots (slots name) self
+    (local-slots-of slots name)))
+
+(defmethod all-local-slots ((self slot-handling-mixin))
+  (with-slots (defined-slots slots name) self
+    (union defined-slots (local-slots-of slots name))))
+
+(defmethod induced-slots ((self slot-handling-mixin))
+  (with-slots (defined-slots slots name) self
+    (filter-out defined-slots (local-slots-of slots name))))
+
+(defmethod local-role-names ((self slot-handling-mixin))
+  (with-slots (slots name) self
+    (role-names-of-slots (local-slots-of slots name))))
+
+(proclaim '(inline find-slot-for-role))
+(defun find-slot-for-role (role-name slots)
+  (loop for slot in slots
+	when (eq (role-name slot) role-name)
+	  return slot))
+
+(defmethod slot-for-role ((self slot-handling-mixin) role-name)
+  (find-slot-for-role role-name (slots self)))
+
+(defmethod defined-slot-for-role ((self slot-handling-mixin) role-name)
+  (find-slot-for-role role-name (defined-slots self)))
+
+(defmethod vr-for-role ((self slot-handling-mixin) role-name &aux slot)
+  (and (setq slot (find-slot-for-role role-name (slots self)))
+       (value-restriction slot)))
+
+(defmethod default-for-role ((self slot-handling-mixin) role-name &aux slot)
+  (and (setq slot (find-slot-for-role role-name (slots self)))
+       (default slot)))
+
+(defmethod defined-default-for-role ((self slot-handling-mixin) role-name &aux slot)
+  (and (setq slot (find-slot-for-role role-name (defined-slots self)))
+       (default slot)))
+
+(eval-when (compile load eval)
+  (export '(slot-for-role defined-slot-for-role 
+	    default-for-role defined-default-for-role vr-for-role) :co))
+
+
+;;; +++These are from old SFL -- they are pretty useless in textual interface VSFL but
+;;; +++are left in for use by a future editor.
+#+ignore
+(defmethod delete-defined-slot ((self slot-handling-mixin) slot)
+  (with-slots (defined-slots) self
+    (setq defined-slots (delete slot defined-slots))))
+#+ignore
+(defmethod remove-corresponding-defined-slot ((self slot-handling-mixin) slot)
+  (with-slots (defined-slots) self
+    (setq defined-slots (delete (find-slot-for-role (role-name slot) defined-slots)
+				defined-slots))))
+#+ignore
+(defmethod add-local-slot :around ((self slot-handling-mixin) slot &optional maybe-delete-p)
+  (let ((old-slot (find-slot-for-role (role-name slot) (defined-slots self))))
+    (call-next-method)
+    (notify-related-concepts slot old-slot)))
+#+ignore
+(defmethod add-local-slot ((self slot-handling-mixin) slot &optional maybe-delete-p)
+  (with-slots (defined-slots) self
+    (resolve-vr slot)
+    (if maybe-delete-p
+	(let ((original-slot (find-slot-for-role (role-name slot) defined-slots)))
+	  (if original-slot
+	      (nsubstitute slot original-slot defined-slots)
+	      (nadd-on slot defined-slots)))
+	(nadd-on slot defined-slots))))
+
+
+
+
+(defmethod slot-names ((self slot-handling-mixin))
+  (mapcar #'name (slots self)))
+
+(defmethod slot-names ((self symbol))
+  (mapcar #'name (slots (obj self))))
+
+
+
+;;; for redefine -- check defined slots for exact order and equivalence -- role-name,
+;;; nr,vr,default and description -- if anything is different we go through
+;;; completion.
+
+(defmethod equal-defined-slots ((self slot-handling-mixin) other-slots)
+  (with-slots (defined-slots) self
+    (and (= (length defined-slots)
+	    (length other-slots))
+	 (loop for slot in defined-slots
+	       for other in other-slots 
+	       when (or (null other)
+			(null (eql (role-name slot) (role-name other)))
+			(not (equivalent-to slot other)))
+		 return nil
+	       finally (return t)))))
+
+
+(defun slots-for-concepts (concepts)
+  (loop for concept in concepts
+	with roles
+	do (loop for role in (role-instances-of-slots (slots concept))
+		 do (pushnew role roles))
+	finally (return roles)))

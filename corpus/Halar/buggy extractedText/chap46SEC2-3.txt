@@ -1,0 +1,38 @@
+
+ Reproductive cycles and patterns vary extensively among animals
+
+Most animals show definite cycles in reproductive activity, often related to changing seasons. The periodic nature of reproduction allows animals to conserve resources and reproduce when more energy is available than is needed for maintenance and when environmental conditions favor the survival of offspring. Ewes (female sheep), for example, have 15-day reproductive cycles and ovulate at the midpoint of each cycle. These cycles generally occur during fall and early winter, so lambs are usually born in the late winter or spring. Even animals that live in apparently stable habitats, such as the tropics or the ocean, generally reproduce only at certain times of the year. Reproductive cycles are controlled by a combination of hormonal and environmental cues, the latter including such factors as seasonal temperature, rainfall, day length, and lunar cycles (see the discussion of the pineal gland in Chapter 45).
+
+Animals may reproduce asexually or sexually exclusively, or they may alternate between the two modes. In aphids, rotifers, and the freshwater crustacean Daphnia, each female can produce eggs of two types, depending on environmental conditions such as the time of year. One type of egg is fertilized, but the other type develops by parthenogenesis, a process in which the egg develops without being fertilized. The adults produced by parthenogenesis are often haploid, and eggs are formed without meiosis. In the case of Daphnia, the switch from sexual to asexual reproduction is often related to season. Asexual reproduction occurs under favorable conditions and sexual reproduction during times of environmental stress.
+
+Parthenogenesis has a role in the social organization of certain species of bees, wasps, and ants. Male honeybees, or drones, are produced parthenogenetically, whereas females, both sterile workers and reproductive females (queens), develop from fertilized eggs.
+
+Among vertebrates, several genera of fishes, amphibians, and lizards reproduce exclusively by a complex form of parthenogenesis that involves the doubling of chromosomes after meiosis to create diploid "zygotes." For example, there are about 15 species of whiptail lizards (genus Cnemidophorus) that reproduce exclusively by parthenogenesis. There are no males in these species, but the lizards imitate courtship and mating behavior typical of sexual species of the same genus. During the breeding season, one female of each mating pair mimics a male (FIGURE 46.2a). The roles change two or three times during the season, female behavior occurring when the level of the female sex hormone estrogen is high prior to ovulation (the release of eggs), and male behavior occurring after ovulation when the level of estrogen drops (FIGURE 46.2b). In fact, ovulation is more likely to occur if one individual is mounted by another during the critical time of the hormone cycle; isolated lizards lay fewer eggs than those that go through the motions of sex. Apparently, these parthenogenetic lizards, which evolved from species having two sexes, still require certain sexual stimuli for maximum reproductive success.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 46-2. Sexual behavior in parthenogenetic lizards. The desert-grassland whiptail lizard (Cnemidophorus uniparens) is an all-female species. These reptiles reproduce by parthenogenesis; eggs undergo a chromosome doubling after meiosis and develop into lizards without being fertilized. However, ovulation is enhanced by courtship and mating rituals that imitate the behavior of closely related species that reproduce sexually.
+
+Sexual reproduction presents a special problem for sessile or burrowing animals or for parasites, such as tapeworms, which may have difficulty encountering a member of the opposite sex. One solution to this problem is hermaphroditism, in which each individual has both male and female reproductive systems (the term is derived from Hermes and Aphrodite, names of a Greek god and goddess). Although some hermaphrodites fertilize themselves, most must mate with another member of the same species. When this occurs, each animal serves as both male and female, donating and receiving sperm, as we saw for earthworms. Each individual encountered is a potential mate, resulting in twice as many offspring than if only one individual's eggs were fertilized.
+
+Another remarkable reproductive pattern is sequential hermaphroditism, in which an individual reverses its sex during its lifetime. In some species, the sequential hermaphrodite is protogynous (female first), while other species are protandrous (male first). In various species of reef fishes called wrasses, sex reversal is associated with age and size. For example, the Caribbean bluehead wrasse is a protogynous species in which only the largest (usually the oldest) individuals change from female to male (FIGURE 46.3). These fish live in harems consisting of a single male and several females. If the male dies or is removed in experiments, the largest female in the harem changes sex and becomes the new male. Within a week, the transformed individual is producing sperm instead of eggs. In this species, the male defends the harem against intruders, and thus larger size may give a greater reproductive advantage to males than it does to females. In contrast, there are protandrous animals that change from male to female when size increases. In such cases, greater size may increase the reproductive success of females more than it does males. For example, the production of huge numbers of gametes is an important asset for sedentary animals, such as oysters, that release their gametes into the surrounding water. Egg cells are generally much larger than sperm cells, so females produce fewer gametes than males. Larger females tend to produce more eggs than smaller ones, and species of oysters that are sequential hermaphrodites are generally protandrous.
+
+
+
+Click image to enlarge
+
+
+
+Fig 46-3. Sex reversal in a sequential hermaphrodite. In many species of reef fishes called wrasses, sex can change during the animal's life. Sex reversal is often correlated with size. In this scene, a male Caribbean bluehead wrasse and two smaller females are feeding on a sea urchin. All wrasses of this species are born females, but the oldest, largest individuals change sex and complete their lives as males.
+
+The diverse reproductive cycles and patterns we observe in the animal kingdom are adaptations that have evolved by natural selection. We will see many other examples as we survey the various mechanisms of sexual reproduction.
+
+
+
+

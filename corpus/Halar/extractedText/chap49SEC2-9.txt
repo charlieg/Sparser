@@ -1,0 +1,20 @@
+
+ The inner ear also contains the organs of equilibrium
+
+Several organs in the inner ear of humans and most other mammals detect body position and balance. Behind the oval window is a vestibule that contains two chambers, the utricle and saccule. The utricle opens into three semicircular canals that complete the apparatus for equilibrium (FIGURE 49.19a).
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-19. Organs of balance in the inner ear. (a) Three structures of the inner ear--the utricle and saccule in the vestibule and the semicircular canals--contain hair cells sensitive to balance and body position. The saccule and utricle tell the brain which way is up and also inform it of the body's fixed position in space or of any linear acceleration associated with movement. The semicircular canals are arranged in the three spatial planes. (b) Each canal has at its base a swelling called an ampulla, which contains a cluster of hair cells with hairs projecting into a gelatinous cap called the cupula. (c) When the head changes its rate of rotation, inertia prevents the endolymph in the semicircular canals from moving with the head, so the fluid presses against the cupula, bending the hair cells. The bending increases the frequency of action potentials in the sensory neurons in direct proportion to the amount of rotational acceleration. The mechanism adjusts quickly if rotation continues at a constant speed: The endolymph begins moving with the head, and the pressure on the cupula is reduced. If rotation stops suddenly, however, the fluid continues to flow through the semicircular canals and again stimulates the hair cells. This new stimulus can cause dizziness.
+
+Sensations related to body position are generated much like sensations of sound in humans and most other mammals. Hair cells in the utricle and saccule respond to changes in head position with respect to gravity and movement in one direction. The hair cells are arranged in clusters, and all the hairs project into a gelatinous material containing many small calcium carbonate particles called otoliths ("ear stones"). Because this material is heavier than the endolymph within the utricle and saccule, gravity is always pulling downward on the hairs of the receptor cells, sending a constant series of action potentials along the sensory neurons of the vestibular branch of the auditory nerve.
+
+Different body angles cause different hair cells and their sensory neurons to be stimulated. When the position of the head changes with respect to gravity (as when the head bends forward), the force on the hair cell changes, and it increases (or decreases--see FIGURE 49.4) its output of neurotransmitter. The brain interprets the resulting changes in impulse production by the sensory neurons to determine the position of the head. By a similar mechanism, the semicircular canals, arranged in the three spatial planes, detect changes in the rate of rotation or angular movements of the head (FIGURE 49.19b and c).
+
+
+
+

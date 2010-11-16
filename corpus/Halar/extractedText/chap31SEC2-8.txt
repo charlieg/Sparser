@@ -1,0 +1,92 @@
+
+ Phylum Basidiomycota: Club fungi have long-lived dikaryotic mycelia
+
+Approximately 25,000 fungi, including mushrooms, shelf fungi, puffballs, and rusts, are classified in the phylum Basidiomycota (FIGURE 31.11). The name derives from the basidium (L., "little pedestal"), a transient diploid stage in the organism's life cycle. The clublike shape of the basidium also gives rise to the common name club fungus.
+
+
+
+Click image to enlarge
+
+
+
+Fig 31-11. Basidiomycetes (club fungi). These photographs showcase diverse basidiocarps, the fruiting bodies that produce sexual spores.
+
+Basidiomycetes are important decomposers of wood and other plant material. The phylum also includes mycorrhiza-forming mutualists and plant parasites. Of all fungi, the saprobic basidiomycetes are best at decomposing the complex polymer lignin, an abundant component of wood. Many shelf fungi (FIGURE 31.11b) break down the wood of weak or damaged trees and continue to decompose the wood after the trees die. Two groups of basidiomycetes, the rusts and smuts, include particularly destructive plant parasites.
+
+The life cycle of a club fungus usually includes a long-lived dikaryotic mycelium (FIGURE 31.12). Periodically, in response to environmental stimuli, this mycelium reproduces sexually by producing elaborate fruiting bodies called basidiocarps (see FIGURE 31.11). The numerous basidia of a basidiocarp are the sources of sexual spores. Asexual reproduction in basidiomycetes is much less common than in ascomycetes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 31-12. The life cycle of a mushroom-forming basidiomycete. 
+			  
+		Two haploid mycelia of opposite mating type undergo plasmogamy, 
+			  
+		creating a dikaryotic mycelium that grows faster than, and ultimately crowds out, the parent haploid mycelia. 
+			  
+		Environmental cues such as rain or temperature changes induce the dikaryotic mycelium to form compact masses that develop into basidiocarps (mushrooms, in this case). Cytoplasm streaming in from the mycelium swells the hyphae of mushrooms, causing them to "pop up" overnight. The dikaryotic mycelia of basidiomycetes are long-lived, generally producing a new crop of basidiocarps each year. 
+			  
+		The surfaces of the basidiocarp's gills are lined with terminal dikaryotic cells called basidia. 
+			  
+		Karyogamy produces diploid nuclei, which then undergo meiosis, 
+			  
+		each yielding four haploid nuclei. Each basidium grows four appendages, and one haploid nucleus enters each appendage and develops into a basidiospore (SEM inset). 
+			  
+		When mature, the basidiospores are propelled slightly (by electrostatic forces) into the spaces between the gills. After the spores drop below the cap, they are dispersed by the wind. 
+			  
+		The haploid basidiospores germinate in a suitable environment and grow into short-lived haploid mycelia.
+
+A mushroom is an example of a basidiocarp. The cap of the mushroom supports and protects a large surface area of basidia on gills; each common, store-bought mushroom has a gill surface area of about 200 cm2. Such a mushroom may release a billion basidiospores, which drop beneath the cap and are blown away.
+
+By concentrating growth in the hyphae of mushrooms, a basidiomycete mycelium can erect the fruiting structures in just a few hours. A ring of mushrooms, popularly called a fairy ring, may appear on a lawn overnight (FIGURE 31.13). Although the grass in the center of the ring is normal, you may notice after a few days that the grass beneath the ring is stunted and the grass just outside the garland of mushrooms is especially lush. As the underground mycelium grows outward, its center portion and the mushrooms above the center portion die because the mycelium has consumed all the available nutrients. Thus, the living mycelium is an expanding ring that produces mushrooms above it. The grass beneath the mushrooms is stunted because it cannot compete for minerals with the active mycelium. But the advancing mycelium secretes digestive agents ahead of it that decompose the organic matter in the soil, producing a lush growth of grass that absorbs the minerals that have become available. The fairy ring slowly increases in diameter as the mycelium advances at a rate of about 30 cm per year. Some giant fairy rings may be centuries old.
+
+
+
+Click image to enlarge
+
+
+
+Fig 31-13. A fairy ring. The legendary explanation of these circles of fungi is that mushrooms spring up where fairies have danced in a ring on moonlit nights. Afterward, the tired fairies sit down on the mushrooms, but some of the mushrooms are sat on by toads. The mushrooms the fairies choose are edible by humans, but the "toadstools" are poisonous. See the text on page 624 to read an alternate explanation of fairy rings.
+
+TABLE 31.1 on page 626 reviews the four phyla of fungi. Let's now turn to a different way of classifying certain fungi.
+
+Table 31-1. Review of Fungal Phyla
+
+PhylumKey Reproductive FeatureChytridiomycota (chytrids)Motile spores with flagella
+
+
+
+
+
+
+
+Zygomycota (zygote fungi)Resistant zygosporangium as sexual stage
+
+
+
+
+
+
+
+Ascomycota (sac fungi)Sexual spores borne internally in sacs called asci
+
+
+
+
+
+
+
+Basidiomycota (club fungi)Sexual spores borne externally on club-shaped structures called basidia
+
+
+
+
+
+
+
+
+
+

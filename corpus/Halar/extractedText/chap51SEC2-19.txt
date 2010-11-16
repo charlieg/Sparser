@@ -1,0 +1,70 @@
+
+ The concept of inclusive fitness can account for most altruistic behavior
+
+Many social behaviors are selfish, meaning that they benefit the individual at the expense of others, especially competitors. A bird that establishes a territory deprives other individuals of one, and if there is not enough habitat, these other individuals may be unable to breed. Even in species in which individuals do not engage in agonistic behavior, most adaptations that benefit one individual will indirectly harm others. For example, superior foraging ability by one individual may leave less food for others. It is easy to understand the pervasive nature of selfishness if natural selection shapes behavior. Behavior that maximizes an individual's reproductive success will be favored by selection, regardless of how much damage such behavior does to another individual, a local population, or even an entire species.
+
+How, then, can we explain observed examples of what appears to be altruism, or unselfish behavior? On occasion, animals do behave in ways that reduce their individual fitness and increase the fitness of the recipient of the behavior; this is our functional definition of altruism. Consider the Belding ground squirrel, which lives in some mountainous regions of the western United States and is vulnerable to predators such as coyotes and hawks (FIGURE 51.28). If a predator approaches, one of the squirrels often gives a high-pitched alarm call. This alerts unaware individuals, who then retreat to their burrows. Careful observations have confirmed that the conspicuous alarm behavior increases the risk of being killed, because it identifies the caller's location.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-28. Altruistic behavior in the Belding ground squirrel. By sounding an alarm call, this Belding ground squirrel warns others of danger, such as an approaching predator. Nearly all alarm calls are given by females.
+
+Another example of altruistic behavior occurs in bee societies, in which the workers are sterile. The workers themselves will never reproduce, but they labor on behalf of a single fertile queen. Furthermore, the workers sting intruders, a behavior that helps defend the hive but results in the death of the worker.
+
+Still another example of altruism is seen in mole rats, highly social rodents that live in underground chambers and tunnels in southern and northeastern Africa (FIGURE 51.29). The naked mole rat (Heterocephalus glaber) is almost hairless and nearly blind and lives in colonies of 75 to 250 or more individuals. The common mole rat (Cryptomys hottentotus) has hair and generally lives in smaller colonies. In both species, each colony has only one reproducing female, called the queen, who mates with one to three males, called kings. The rest of the colony consists of nonreproductive females and males who forage for underground roots and tubers and care for the queen, the kings, and new offspring still dependent on the queen. The nonreproductive individuals may sacrifice their own lives in trying to protect the queen or kings from snakes or other predators that invade the colony.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-29. Two species of colonial mammals. (a) Naked mole rats (Heterocephalus glaber) live in underground colonies made up of a single queen, several kings, and often hundreds of nonreproductive individuals. In this photograph, several nonreproductive individuals, who perform all the maintenance activities of the colony, huddle around the queen and her young. Members of each colony are a closely related family unit. (b) The common mole rat (Cryptomys hottentotus), widespread in southern Africa, is also colonial with only a queen and several kings reproducing. Compared to naked mole rats, however, common mole rat colonies are smaller and more genetically diverse.
+
+Inclusive Fitness
+
+How can a naked mole rat, a worker bee, or a Belding ground squirrel enhance its fitness by aiding other members of the population, which are apt to be its closest competitors? How can altruistic behavior be maintained by evolution if it does not enhance--and in fact may even reduce--the reproductive success of the self-sacrificing individuals? Natural selection favors anatomical, physiological, and behavioral traits that increase reproductive success, which in turn propagates the genes responsible for those traits. When parents sacrifice their own personal well-being to produce and aid offspring, this actually increases the fitness of the parents, because it maximizes their genetic representation in the population. But what about helping other close relatives? Like parents and offspring, siblings have half of their genes in common. Therefore, selection might also favor helping one's parents produce more siblings or even helping siblings directly. Evolutionary biologist William Hamilton was the first to realize that selection could result in an animal's increasing its genetic representation in the next generation by "altruistically" helping close relatives other than its own offspring. This realization led to the concept of inclusive fitness, which describes the total effect an individual has on proliferating its genes by producing its own offspring and by providing aid that enables other close relatives to increase the production of their offspring.
+
+Hamilton's Rule and Kin Selection
+
+Hamilton proposed a quantitative measure for predicting when natural selection would favor altruistic acts among related individuals. The three key variables in an act of altruism are the benefit to the recipient (B), the cost to the altruist (C), and the coefficient of relatedness (r). The benefit and cost measure the change in the average number of offspring produced by the recipient and altruist, respectively, resulting from the altruistic act. Thus, B, the benefit, is the average number of extra offspring that the beneficiary of an altruistic act produces; and C, the cost, is how many fewer offspring the altruist produces. Suppose, for example, that members of a human population average two children each. Now consider two brothers who are close in age, reproductively mature, equally fertile, but not yet fathers. One of these young men is close to drowning in heavy surf, and his brother risks his own life to swim out and pull his sibling to safety. The benefit to the almost-drowned brother, the recipient of this altruistic act, is two offspring. Had he drowned, his reproductive output would have been zero. But now, if we use the average, the rescued brother can father two children. The cost to the heroic brother depends on the risk to his own life he took to save his sibling. Let's say that in this kind of surf, an average swimmer has a 5%  chance of drowning. Thus, the cost of the altruistic act is 5%  the number of offspring we would expect if the altruist had not taken the risky plunge. The cost is 0.05 &#160;X&#160; 2, or 0.1.
+
+We now know that B = 2.0 and C = 0.1 for this hypothetical act of altruism, but what about r, the coefficient of relatedness? The coefficient of relatedness equals the probability that a particular gene present in one individual will also be inherited from a common parent or ancestor in a second individual. Between two siblings, such as our imaginary brothers at the beach, any gene in one brother has a 50%  chance of also being present in the other brother. Thus, for siblings, r is 0.5. One way to see this is to review the segregation of homologous chromosomes that occurs when parents produce gametes by meiosis (FIGURE 51.30; also see Chapter 13).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-30. The coefficient of relatedness between siblings is 0.5. The red band marks a particular gene on a chromosome of a homologous chromosome pair in one parent. As it is the only gene we will follow, the corresponding chromosomes in the other parent are ignored in calculating r, the coefficient of relatedness. Sibling 1 has inherited the gene we are tracing from parent A. There is a probability of 1/2 that sibling 2 will also inherit this gene from parent A. The coefficient of relatedness between the two siblings is 1/2, or 0.5.
+
+We can now use values of B, C, and r to evaluate whether natural selection would favor the altruistic act in our imaginary scenario. Natural selection favors altruism if  This inequality is called Hamilton's rule. For natural selection to favor an altruistic act, the benefit to the recipient devalued (multiplied) by the coefficient of relatedness must exceed the cost to the altruist. For our surfing brothers, rB = 0.5 &#160;X&#160; 2 = 1 and C = 0.1. This satisfies Hamilton's rule; thus, natural selection would favor this altruistic act of one brother saving another. Any particular gene in the altruist will, on average, be passed on to more offspring if that brother risks the rescue than if he does not. (And among those genes may be some that actually contribute to the altruistic behavior, so these genes, too, are propagated.) The natural selection that favors this kind of altruistic behavior by enhancing reproductive success of relatives is specifically called kin selection.
+
+Kin selection weakens with hereditary distance. While siblings have an r of 0.5, r = 0.25 (1/4) between an aunt and her niece, and r = 0.125 (1/8) between first cousins. Notice that as the degree of relatedness decreases, the rB term in the Hamilton inequality also decreases. Would natural selection favor our strong-swimming surfer rescuing his cousin? For this altruistic act, rB = 0.125 &#160;X&#160; 2 = 0.25, which, luckily for this drowning cousin, is still much smaller than C = 0.1, the cost to the altruist. Of course, the degree of risk the altruist takes comes into play, too. If the potential rescuer is a poor swimmer, he may have a 50%  chance of drowning instead of the 5%  chance for a strong swimmer. In this case, the cost to the altruist would be 0.5 &#160;X&#160; 2 = 1. That's greater than the rB of 0.25 we calculated for the drowning cousin, who better hope a lifeguard is near.
+
+The British geneticist J. B. S. Haldane anticipated the concepts of inclusive fitness and kin selection by jokingly saying that he would lay down his life for two brothers or eight cousins. In today's terms, we would say that he would do this because either two brothers or eight cousins would result in as much representation of Haldane's genes as would two of his own offspring.
+
+If kin selection explains altruism, then the examples of unselfish behavior we observe among diverse animal species should involve close relatives. This expectation is met, but often in complex ways. Like most mammals, female Belding ground squirrels (see FIGURE 51.28) settle close to their site of birth, while males settle at distant sites. Thus, only females are likely to live near close relatives, and nearly all alarm calls are given by females (FIGURE 51.31). However, if all of a female's close relatives are dead, she rarely gives alarm calls. In the case of worker bees, the individuals are sterile, and anything they do to help the entire hive benefits the only permanent member who is reproductively active--the queen, who is their mother.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-31. Kin selection and altruism in the Belding ground squirrel. This graph helps explain the male-female difference in altruistic behavior of ground squirrels. After they are weaned, males disperse much farther from their birthplaces than do females. Therefore, females are more likely to live near close relations, and alarm calls that warn these relatives increase the inclusive fitness of the altruist.
+
+In the case of naked mole rats, DNA analyses have shown that all the individuals in a colony are closely related. Genetically, the queen appears to be a sibling, daughter, or mother of the kings, and the nonreproductive rats are the queen's direct descendants or her siblings (see FIGURE 51.29a). Hence, when a nonreproductive individual enhances a queen's or king's chances of reproducing, it increases the chances that some genes identical to its own will be passed to the next generation. The scenario for the common mole rat seems to be different (see FIGURE 51.29b). Some individuals may move from one colony to another, making its colonial groups more genetically diverse and decreasing the opportunities for kin selection.
+
+Some researchers posit that only by living in cooperative groups can mole rats obtain enough food to survive where resources are in short supply. For both the common mole rat and the naked mole rat, cooperative behavior enhances tunneling and underground foraging for roots and tubers, factors that may enable these two species to inhabit arid regions. Three other species of mole rats, which are not colonial, are found only where water and other resources are relatively plentiful. Thus, resource limitation may underlie the evolution of colonial life among these mammals and perhaps the evolution of the kind of altruistic behavior seen in the naked mole rat.
+
+Some animals occasionally behave altruistically toward others who are not relatives. A baboon may help an unrelated companion in a fight, or a wolf may offer food to another wolf even though they share no kinship. Such behavior can be adaptive if the aided individual returns the favor in the future. This sort of exchange of aid is called reciprocal altruism and is commonly invoked to explain altruism in humans. Reciprocal altruism is rare in other animals; it is limited largely to species with social groups stable enough that individuals have many chances to exchange aid. It is likely that all behavior that seems altruistic actually has at least the potential to increase fitness in some way.
+
+
+
+

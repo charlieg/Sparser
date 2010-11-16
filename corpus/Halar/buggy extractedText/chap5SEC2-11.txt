@@ -1,0 +1,26 @@
+
+ A nucleic acid strand is a polymer of nucleotides
+
+Nucleic acids are polymers of monomers called nucleotides. Each nucleotide is itself composed of three parts: an organic molecule called a nitrogenous base, a pentose (five-carbon sugar), and a phosphate group (FIGURE 5.29a).
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-29. The components of nucleic acids. (a) Nucleotides, the monomers of nucleic acids, are themselves composed of three smaller molecular building blocks: a nitrogenous base (either a purine or a pyrimidine), a pentose sugar, (either deoxyribose or ribose), and a phosphate group. RNA has ribose as its sugar, and DNA has deoxyribose. Also, RNA has uracil, and DNA has thymine. (b) The three components of a nucleotide are linked together as shown here. (c) In polynucleotides, each nucleotide monomer has its phosphate group bonded to the sugar of the next nucleotide. The polymer has a regular sugar-phosphate backbone with variable appendages, the four kinds of nitrogenous bases. RNA usually exists in the form of a single polynucleotide, like the one shown here.
+
+There are two families of nitrogenous bases: pyrimidines and purines. A pyrimidine has a six-membered ring of carbon and nitrogen atoms. (The nitrogen atoms tend to take up H+ from solution, which explains the term nitrogenous base.) The members of the pyrimidine family are cytosine (C), thymine (T), and uracil (U). Purines are larger, with the six-membered ring fused to a five-membered ring. The purines are adenine (A) and guanine (G). The specific pyrimidines and purines differ in the functional groups attached to the rings. Adenine, guanine, and cytosine are found in both types of nucleic acid. Thymine is found only in DNA and uracil only in RNA.
+
+The pentose connected to the nitrogenous base is ribose in the nucleotides of RNA and deoxyribose in DNA. The only difference between these two sugars is that deoxyribose lacks an oxygen atom on its number 2 carbon--hence its name.
+
+So far, we have built a nucleoside, which is a nitrogenous base joined to a sugar. To complete the construction of a nucleotide, we attach a phosphate group to the number 5 carbon of the sugar (FIGURE 5.29b). The molecule is now a nucleoside monophosphate, better known as a nucleotide.
+
+In a nucleic acid polymer, or polynucleotide, nucleotides are joined by covalent bonds called phosphodiester linkages between the phosphate of one nucleotide and the sugar of the next. This bonding results in a backbone with a repeating pattern of sugar-phosphate units (FIGURE 5.29c). All along this sugar-phosphate backbone are appendages consisting of the nitrogenous bases.
+
+The sequence of bases along a DNA (or mRNA) polymer is unique for each gene. Because genes are hundreds to thousands of nucleotides long, the number of possible base sequences is effectively limitless. A gene's meaning to the cell is encoded in its specific sequence of the four DNA bases. For example, the sequence AGGTAACTT means one thing, whereas the sequence CGCTTTAAC has a different translation. (Real genes, of course, are much longer.) The linear order of bases in a gene specifies the amino acid sequence--the primary structure--of a protein, which in turn specifies that protein's three-dimensional conformation and function in the cell.
+
+
+
+

@@ -1,0 +1,40 @@
+
+ An ecosystem's energy budget depends on primary production
+
+Most primary producers use light energy to synthesize energy-rich organic molecules, which can subsequently be broken down to generate ATP (see Chapter 10). Consumers acquire their organic fuels secondhand (or even third- or fourthhand) through food webs. Therefore, the extent of photosynthetic production sets the spending limit for the energy budget of the entire ecosystem.
+
+The Global Energy Budget
+
+Every day, Earth is bombarded by about 1022 joules of solar radiation (1 J = 0.239 cal). This is the energy equivalent of 100 million atomic bombs. As described in Chapter 50, the intensity of the solar energy striking Earth and its atmosphere varies with latitude, with the tropics receiving the highest input. Most solar radiation is absorbed, scattered, or reflected by the atmosphere in an asymmetrical pattern determined by variations in cloud cover and the quantity of dust in the air over different regions. The amount of solar radiation reaching the surface of the globe ultimately limits the photosynthetic output of ecosystems.
+
+Much of the solar radiation that reaches the biosphere lands on bare ground and bodies of water that either absorb or reflect the incoming energy. Only a small fraction actually strikes algae, photosynthetic prokaryotes, and plant leaves, and only some of this is of wavelengths suitable for photosynthesis. Of the visible light that does reach photosynthetic organisms, only about 1%  is converted to chemical energy by photosynthesis, and this efficiency varies with the type of organism, light level, and other factors. Although the fraction of the total incoming solar radiation that is ultimately trapped by photosynthesis is very small, primary producers on Earth collectively create about 170 billion tons of organic material per year--an impressive quantity.
+
+Gross and Net Primary Production
+
+Total primary production is known as gross primary production (GPP)--the amount of light energy that is converted to chemical energy by photosynthesis per unit time. Not all of this production is stored as organic material in the growing plants, because the plants use some of the molecules as fuel in their own cellular respiration. Net primary production (NPP) is equal to gross primary production minus the energy used by the primary producers for respiration (R): 
+
+Net primary production is the measurement of greatest interest to ecologists because it represents the storage of chemical energy that will be available to consumers in an ecosystem. In forests, net production may be as little as one-fourth that of gross production. Trees have larger masses of stems, branches, and roots to support through respiration than do herbs; thus, less energy is lost to respiration in herbaceous and crop communities than in forests.
+
+Primary production can be expressed in terms of energy per unit area per unit time (J/m2/yr) or as biomass (weight) of vegetation added to the ecosystem per unit area per unit time (g/m2/yr). Biomass is usually expressed in terms of the dry weight of organic material because water molecules contain no usable energy and because the water content of plants varies over short periods of time. An ecosystem's primary production should not be confused with the total biomass of photosynthetic autotrophs present at a given time, called the standing crop. Primary production is the amount of new biomass added in a given period of time. Although a forest has a very large standing crop biomass, its primary production may actually be less than that of some grasslands, which do not accumulate vegetation because animals consume the plants rapidly and because some of the plants are annuals.
+
+Different ecosystems vary considerably in their production as well as in their contribution to the total production on Earth (FIGURE 54.3). Tropical rain forests are among the most productive terrestrial ecosystems, and because they cover a large portion of Earth, they contribute a large proportion of the planet's overall production. Estuaries and coral reefs also have very high production, but their total contribution to global production is relatively small because these ecosystems are not very extensive. The open ocean contributes more primary production than any other ecosystem, but this is because of its very large size; production per unit area is relatively low. Deserts and tundra also have low production. Satellite images of the globe now provide a means of studying global patterns of primary production (FIGURE 54.4, p. 1202). The most striking impression from these global satellite maps is how unproductive most of the oceans are, in contrast to the high production of tropical forest regions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-3. Primary production of different ecosystems. (a) The geographic extent and (b) the production per unit area of different ecosystems determine their total contribution to (c) worldwide primary production. Open ocean, for example, contributes a lot to the planet's production despite its low production per unit area because of its large size, whereas tropical rain forest contributes a lot because of its high production. (Aquatic ecosystems are color-coded blue in these histographs; terrestrial ecosystems are green.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-4. Regional annual net primary production for Earth. The image is based on data, such as chlorophyll density, collected by satellites. The values on the color key are grams of carbon per square meter per year. Ocean data are averages from 1978 to 1983. Land averages are from 1982 to 1990. Of total global primary production, the ocean contributes 46%  and the land 54% .
+
+
+
+

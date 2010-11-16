@@ -1,0 +1,754 @@
+
+Chapter 54: ECOSYSTEMS
+
+THE ECOSYSTEM APPROACH TO ECOLOGY
+
+   Trophic relationships determine the routes of energy flow and chemical cycling in an ecosystem
+
+   Decomposition connects all trophic levels
+
+   The laws of physics and chemistry apply to ecosystems
+
+
+
+PRIMARY PRODUCTION IN ECOSYSTEMS
+
+   An ecosystem's energy budget depends on primary production
+
+   In aquatic ecosystems, light and nutrients limit primary production
+
+   In terrestrial ecosystems, temperature, moisture, and nutrients limit primary production
+
+
+
+SECONDARY PRODUCTION IN ECOSYSTEMS
+
+   The efficiency of energy transfer between trophic levels is usually less than 20% 
+
+   Herbivores consume a small percentage of vegetation: the green world hypothesis
+
+
+
+THE CYCLING OF CHEMICAL ELEMENTS IN ECOSYSTEMS
+
+   Biological and geologic processes move nutrients among organic and inorganic compartments
+
+   Decomposition rates largely determine the rates of nutrient cycling
+
+   Nutrient cycling is strongly regulated by vegetation
+
+
+
+HUMAN IMPACT ON ECOSYSTEMS AND THE BIOSPHERE
+
+   The human population is disrupting chemical cycles throughout the biosphere
+
+   Combustion of fossil fuels is the main cause of acid precipitation
+
+   Toxins can become concentrated in successive trophic levels of food webs
+
+   Human activities may be causing climate change by increasing carbon dioxide concentration in the atmosphere
+
+   Human activities are depleting atmospheric ozone
+
+An ecosystem consists of all the organisms living in a community as well as all the abiotic factors with which they interact. As with populations and communities, the boundaries of ecosystems are usually not discrete. Ecosystems can range from a microcosm, such as the terrarium you see here, to lakes and forests. Many ecologists regard the entire biosphere as a global ecosystem, a composite of all the local ecosystems on Earth. The biosphere, or whole-earth ecosystem, is the most inclusive level in the hierarchy of biological organization (seeFIGURE 1.2).
+
+The dynamics of an ecosystem involve two processes that cannot be fully described at lower organizational levels: energy flow and chemical cycling. Energy enters most ecosystems in the form of sunlight. It is then converted to chemical energy by autotrophic organisms, passed to heterotrophs in the organic compounds of food, and dissipated in the form of heat. Chemical elements such as carbon and nitrogen are cycled between abiotic and biotic components of the ecosystem. Photosynthetic organisms assimilate these elements in inorganic form from the air, soil, and water and incorporate them into organic molecules, some of which are consumed by animals. The elements are returned in inorganic form to the air, soil, and water by the metabolism of plants and animals and by other organisms, such as bacteria and fungi, that break down organic wastes and dead organisms. The movements of energy and matter through ecosystems are related because both occur by the transfer of substances through photosynthesis and feeding relationships. However, because energy, unlike matter, cannot be recycled, an ecosystem must be powered by a continuous influx of new energy from an external source (the sun). Energy flows through ecosystems, while matter cycles within them.
+
+This chapter describes the dynamics of energy flow and chemical cycling in ecosystems and considers some of the consequences of human intrusions into these processes.
+
+
+
+
+
+THE ECOSYSTEM APPROACH TO ECOLOGY
+
+ 
+
+ Trophic relationships determine the routes of energy flow and chemical cycling in an ecosystem
+
+
+
+ 
+
+ Decomposition connects all trophic levels
+
+
+
+ 
+
+ The laws of physics and chemistry apply to ecosystems
+
+
+
+Ecosystem ecologists view ecosystems as energy machines and matter processors. By grouping the species in a community into trophic levels of feeding relationships, we can follow the transformation of energy in the whole ecosystem and map the movements of chemical elements as they are used by the biotic community. As we discussed in Chapter 53, ecologists divide species into trophic levels on the basis of their main source of nutrition and energy.
+
+
+
+
+
+PRIMARY PRODUCTION IN ECOSYSTEMS
+
+ 
+
+ An ecosystem's energy budget depends on primary production
+
+
+
+ 
+
+ In aquatic ecosystems, light and nutrients limit primary production
+
+
+
+ 
+
+ In terrestrial ecosystems, temperature, moisture, and nutrients limit primary production
+
+
+
+The amount of light energy converted to chemical energy (organic compounds) by an ecosystem's autotrophs during a given time period is called primary production. This photosynthetic product is the starting point for studies of ecosystem metabolism and energy flow.
+
+
+
+
+
+SECONDARY PRODUCTION IN ECOSYSTEMS
+
+ 
+
+ The efficiency of energy transfer between trophic levels is usually less than 20% 
+
+
+
+ 
+
+ Herbivores consume a small percentage of vegetation: the green world hypothesis
+
+
+
+The amount of chemical energy in consumers' food that is converted to their own new biomass during a given time period is called the secondary production of the ecosystem. Consider the transfer of organic matter from producers to herbivores, the primary consumers. In most ecosystems, herbivores manage to eat only a small fraction of the plant material produced. And they cannot digest all the plant material that they do eat, as anyone who has walked through a dairy farm will attest. Thus, much of primary production is not used by consumers. Let us analyze this process of energy transfer more closely.
+
+
+
+
+
+THE CYCLING OF CHEMICAL ELEMENTS IN ECOSYSTEMS
+
+ 
+
+ Biological and geologic processes move nutrients between organic and inorganic compartments
+
+
+
+ 
+
+ Decomposition rates largely determine the rates of nutrient cycling
+
+
+
+ 
+
+ Nutrient cycling is strongly regulated by vegetation
+
+
+
+Although ecosystems receive an essentially inexhaustible influx of solar energy, chemical elements are available only in limited amounts. (The meteorites that occasionally strike Earth are the only extraterrestrial source of matter.) Life on Earth therefore depends on the recycling of essential chemical elements. Even while an individual organism is alive, much of its chemical stock is rotated continuously as nutrients are assimilated and waste products released. Atoms present in the complex molecules of an organism at its time of death are returned as simpler compounds to the atmosphere, water, or soil by the action of decomposers. This decomposition replenishes the pools of inorganic nutrients that plants and other autotrophs use to build new organic matter. Because nutrient circuits involve both biotic and abiotic components of ecosystems, they are also called biogeochemical cycles.
+
+
+
+
+
+HUMAN IMPACT ON ECOSYSTEMS AND THE BIOSPHERE
+
+ 
+
+ The human population is disrupting chemical cycles throughout the biosphere
+
+
+
+ 
+
+ Combustion of fossil fuels is the main cause of acid precipitation
+
+
+
+ 
+
+ Toxins can become concentrated in successive trophic levels of food webs
+
+
+
+ 
+
+ Human activities may be causing climate change by increasing carbon dioxide concentration in the atmosphere
+
+
+
+ 
+
+ Human activities are depleting atmospheric ozone
+
+
+
+As the human population has grown in size, our activities and technological capabilities have intruded in one way or another into the dynamics of most ecosystems. Even where we have not completely destroyed a natural system, our actions have disrupted the trophic structure, energy flow, and chemical cycling of ecosystems in most areas of the world. The effects are sometimes local or regional, but the ecological impact of humans can be widespread or even global. For example, acidic gases may be carried by prevailing winds and fall as acid rain hundreds or thousands of miles from the smokestacks emitting the gases.
+
+
+
+
+
+ Trophic relationships determine the routes of energy flow and chemical cycling in an ecosystem
+
+The trophic level that ultimately supports all others in an ecosystem consists of autotrophs, the primary producers of the ecosystem. Most autotrophs are photosynthetic organisms that use light energy to synthesize sugars and other organic compounds, which they then use as fuel for cellular respiration and as building material for growth. Plants, algae, and photosynthetic prokaryotes are the biosphere's main autotrophs, although chemoautotrophic prokaryotes are the primary producers in certain ecosystems, such as deep-sea hydrothermal vents (see FIGURE 50.23).
+
+Organisms in trophic levels above the primary producers are heterotrophs, which directly or indirectly depend on the photosynthetic output of primary producers. Herbivores, which eat primary producers (plants or algae), are the primary consumers. Carnivores that eat herbivores are secondary consumers, and carnivores that eat other carnivores are tertiary consumers. Another important group of heterotrophs consists of the detritivores. Detritivores, or decomposers, are consumers that get their energy from detritus, which is nonliving organic material, such as the remains of dead organisms, feces, fallen leaves, and wood. Decomposers play a central role in material cycling (FIGURE 54.1).
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-1. An overview of ecosystem dynamics. This generalized scheme traces energy flow (broken red lines) and material cycling (solid blue lines) in ecosystems. Energy flow starts from the sun as solar radiation, moves as chemical energy transfers in the food web, and finishes as heat radiated into space. Materials flow through the trophic levels eventually to detritus and then cycle back to the primary producers.
+
+
+
+
+
+ Decomposition connects all trophic levels
+
+The fungi, bacteria, invertebrates, and vertebrates that feed as detritivores often form a major link between the primary producers and the consumers in an ecosystem. In streams, for example, much of the organic material that is used by consumers is supplied by terrestrial plants and enters the ecosystem as leaves and other debris that fall into the water or are washed in by runoff. A crayfish might feed on this plant detritus and associated bacteria and fungi at the bottom of a stream and then be eaten by a fish. In a forest, birds might feed on earthworms that have been feeding on leaf litter and its associated bacteria and fungi in the soil. But even more important than this channeling of resources from producers to consumers is the role that detritivores play in making vital chemical elements available to producers.
+
+The organic material that makes up the living organisms in an ecosystem gets recycled. Detritivores break down (decompose) the organic material and recycle the chemical elements in inorganic forms to abiotic reservoirs such as soil, water, and air. Plants and other producers can then reassimilate these elements into organic matter. All organisms perform some decomposition, breaking down organic molecules during cellular respiration, for example. But an ecosystem's main decomposers are prokaryotes and fungi, which secrete enzymes that digest organic material and then absorb the breakdown products (FIGURE 54.2). Accounting for most of the conversion of organic materials from all trophic levels into inorganic compounds usable by autotrophs, decomposition by prokaryotes and fungi links all trophic levels. Decomposition is the most unappreciated of all ecological processes because prokaryotes and most fungi are not readily visible to the human eye. Yet if decomposition stopped, all life on Earth would cease. The interconnectedness of trophic levels is one of ecosystem ecology's important lessons.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-2. Fungi decomposing a log.
+
+
+
+
+
+ The laws of physics and chemistry apply to ecosystems
+
+Much of an ecologist's analysis of ecosystem dynamics comes from well-established laws of physics and chemistry. The law of conservation of energy states that energy cannot be created or destroyed but only transformed (see Chapter 6). This means that for all ecosystems, we can potentially trace energy exactly from its input as solar radiation to its release as heat from organisms. Plants and other photosynthetic organisms convert solar energy to chemical energy, but the total amount of energy does not change. The total amount of energy stored in organic molecules plus the amount reflected and dissipated as heat must equal the total incident energy in the form of sunlight. One important objective of ecosystem ecology is to compute such energy budgets and trace the energy flow in particular ecosystems.
+
+The second law of thermodynamics tells us that energy conversions cannot be completely efficient--that some energy will be lost; as heat in any conversion process (see Chapter 6). This idea suggests that we can measure the efficiency of ecological energy conversions in the same way we measure the efficiency of light bulbs and car engines.
+
+While energy in ecosystems is dissipated ultimately as heat into outer space, chemical elements are continually recycled. A unit of energy moves through the trophic structure of an ecosystem only once, and without the sun providing continuous energy to Earth, ecosystems would vanish. In contrast, a carbon or nitrogen atom moves from trophic level to trophic level and eventually to the decomposers and then back again in endless cycles. Elements are not lost on a global scale, although they may move out of one ecosystem and into another. The measurement and analysis of these cycles of chemical elements in ecosystems and in the entire biosphere are an important part of ecosystem ecology.
+
+Now that we have considered energy flow and material cycling in the context of trophic structures, let's take a closer look at these dynamics, beginning with the producers.
+
+
+
+
+
+ An ecosystem's energy budget depends on primary production
+
+Most primary producers use light energy to synthesize energy-rich organic molecules, which can subsequently be broken down to generate ATP (see Chapter 10). Consumers acquire their organic fuels secondhand (or even third- or fourthhand) through food webs. Therefore, the extent of photosynthetic production sets the spending limit for the energy budget of the entire ecosystem.
+
+The Global Energy Budget
+
+Every day, Earth is bombarded by about 1022 joules of solar radiation (1 J = 0.239 cal). This is the energy equivalent of 100 million atomic bombs. As described in Chapter 50, the intensity of the solar energy striking Earth and its atmosphere varies with latitude, with the tropics receiving the highest input. Most solar radiation is absorbed, scattered, or reflected by the atmosphere in an asymmetrical pattern determined by variations in cloud cover and the quantity of dust in the air over different regions. The amount of solar radiation reaching the surface of the globe ultimately limits the photosynthetic output of ecosystems.
+
+Much of the solar radiation that reaches the biosphere lands on bare ground and bodies of water that either absorb or reflect the incoming energy. Only a small fraction actually strikes algae, photosynthetic prokaryotes, and plant leaves, and only some of this is of wavelengths suitable for photosynthesis. Of the visible light that does reach photosynthetic organisms, only about 1%  is converted to chemical energy by photosynthesis, and this efficiency varies with the type of organism, light level, and other factors. Although the fraction of the total incoming solar radiation that is ultimately trapped by photosynthesis is very small, primary producers on Earth collectively create about 170 billion tons of organic material per year--an impressive quantity.
+
+Gross and Net Primary Production
+
+Total primary production is known as gross primary production (GPP)--the amount of light energy that is converted to chemical energy by photosynthesis per unit time. Not all of this production is stored as organic material in the growing plants, because the plants use some of the molecules as fuel in their own cellular respiration. Net primary production (NPP) is equal to gross primary production minus the energy used by the primary producers for respiration (R): 
+
+Net primary production is the measurement of greatest interest to ecologists because it represents the storage of chemical energy that will be available to consumers in an ecosystem. In forests, net production may be as little as one-fourth that of gross production. Trees have larger masses of stems, branches, and roots to support through respiration than do herbs; thus, less energy is lost to respiration in herbaceous and crop communities than in forests.
+
+Primary production can be expressed in terms of energy per unit area per unit time (J/m2/yr) or as biomass (weight) of vegetation added to the ecosystem per unit area per unit time (g/m2/yr). Biomass is usually expressed in terms of the dry weight of organic material because water molecules contain no usable energy and because the water content of plants varies over short periods of time. An ecosystem's primary production should not be confused with the total biomass of photosynthetic autotrophs present at a given time, called the standing crop. Primary production is the amount of new biomass added in a given period of time. Although a forest has a very large standing crop biomass, its primary production may actually be less than that of some grasslands, which do not accumulate vegetation because animals consume the plants rapidly and because some of the plants are annuals.
+
+Different ecosystems vary considerably in their production as well as in their contribution to the total production on Earth (FIGURE 54.3). Tropical rain forests are among the most productive terrestrial ecosystems, and because they cover a large portion of Earth, they contribute a large proportion of the planet's overall production. Estuaries and coral reefs also have very high production, but their total contribution to global production is relatively small because these ecosystems are not very extensive. The open ocean contributes more primary production than any other ecosystem, but this is because of its very large size; production per unit area is relatively low. Deserts and tundra also have low production. Satellite images of the globe now provide a means of studying global patterns of primary production (FIGURE 54.4, p. 1202). The most striking impression from these global satellite maps is how unproductive most of the oceans are, in contrast to the high production of tropical forest regions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-3. Primary production of different ecosystems. (a) The geographic extent and (b) the production per unit area of different ecosystems determine their total contribution to (c) worldwide primary production. Open ocean, for example, contributes a lot to the planet's production despite its low production per unit area because of its large size, whereas tropical rain forest contributes a lot because of its high production. (Aquatic ecosystems are color-coded blue in these histographs; terrestrial ecosystems are green.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-4. Regional annual net primary production for Earth. The image is based on data, such as chlorophyll density, collected by satellites. The values on the color key are grams of carbon per square meter per year. Ocean data are averages from 1978 to 1983. Land averages are from 1982 to 1990. Of total global primary production, the ocean contributes 46%  and the land 54% .
+
+
+
+
+
+ In aquatic ecosystems, light and nutrients limit primary production
+
+What controls primary production in ecosystems? To ask this question another way, what factors could we change to increase or decrease primary production for a given ecosystem? We will look first at the factors that limit production in aquatic ecosystems, beginning with marine ecosystems.
+
+Production in Marine Ecosystems
+
+Light is the first variable one might expect to control primary production in oceans, since solar radiation drives photosynthesis. The depth to which light penetrates the ocean affects primary production throughout the photic zone (see FIGURE 50.22). More than half of the solar radiation is absorbed in the first meter of water. Even in "clear" water, only 5-10%  of the radiation may reach a depth of 20 m.
+
+If light is the primary variable limiting primary production in the ocean, we would expect production to increase along a gradient from the poles toward the equator, which receives the greatest intensity of light (see FIGURE 50.11). However, you can see that there is no such gradient by reexamining FIGURE 54.4. Some parts of the tropics and subtropics, such as the Sargasso Sea, the Indian Ocean, and the central part of the North Pacific, are very unproductive. In contrast, the North Atlantic, the Gulf of Alaska, and the Southern Ocean off New Zealand are relatively productive areas.
+
+Why are tropical oceans less productive than we would expect from their high year-round intensity of illumination? It is actually nutrients more than light that limit primary production in different geographic regions of the ocean. Ecologists use the term limiting nutrient for the nutrient that must be added for production to increase. And two elements, nitrogen and phosphorus, are the nutrients that most often limit marine production. In the open ocean, nitrogen and phosphorus concentrations are very low in the photic (upper) zone, where phytoplankton live. Ironically, the nutrient supply is much better in deeper water, where it is too dark for photosynthesis (FIGURE 54.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-5. Vertical distribution of temperature, nutrients, and production in the upper layer of the central North Pacific during summer. The curves are composites of several vertical profiles made over a two-day period at a single location (28&#176;N, 155&#176;W). Chlorophyll is a measure of phytoplankton density. The broken line illustrates the depth of 1%  of surface light (the traditional definition of the depth of the photic zone). Note that nitrate has been depleted to undetectable levels in the photic zone, but that most of the primary production (measured from 14C uptake) takes place in that nutrient-depleted zone because of the requirement for light.
+
+Nitrogen is the one nutrient that limits phytoplankton growth in many parts of the ocean. FIGURE 54.6 illustrates an experimental test of nitrogen versus phosphorus as the limiting factor for production in coastal waters off the south shore of Long Island, New York. Pollution from duck farms along the bays of Long Island adds both nitrogen and phosphorus to the coastal water; but unlike phosphorus, the nitrogen is immediately taken up by algae, and no trace of free nitrogen can be measured in the coastal waters. Nutrient enrichment experiments confirmed that nitrogen was limiting phytoplankton growth. The addition of nitrogen (in the form of ammonium) caused a heavy algal growth in bay water, but the addition of phosphate did not induce algal growth. There are some practical applications of this work, including the prevention of algal blooms caused by pollution that fertilizes the phytoplankton. If nitrogen is the factor now limiting phytoplankton production in the coastal zone, the elimination of phosphates from sewage will not help the problem of coastal pollution unless we first control nitrogen pollution.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-6. Experiments on nutrient limitations to phytoplankton production in coastal waters of Long Island.
+
+Although nitrogen availability generally limits primary production in marine ecosystems, there are some anomalies. Several large areas of the ocean have low phytoplankton densities in spite of relatively high nitrogen concentrations. For example, in the Sargasso Sea, a subtropical region of the Atlantic Ocean, the water is among the most transparent in the world because of a very low density of phytoplankton. When researchers conducted a series of nutrient enrichment experiments, they found that it was availability of the micronutrient iron that limited primary production, not nitrogen or phosphorus (TABLE 54.1).
+
+Table 54-1. Nutrient Enrichment Experiment for Sargasso Sea Samples
+
+Natrients Added to Experimental Culture *Relative Uptake of 14C by Cultures*None (controls)1.00N + P only1.10N + P + metals (exculding iron)1.08N + P + metals (including iron)12.90N + P + iron12.00*N = nitrogen: P = phosphorus.*14 uptake by cultures measures primary production.SOURCE: Data from Menzel and Ryther, Deep Sea Research 7(1961):276-281.Evidence that iron limits production in some oceanic ecosystems encouraged marine ecologists to try two large-scale field experiments in the tropical Pacific in 1993 and 1995. The researchers spread low concentrations of dissolved iron over 72 km2 of ocean and then measured the change in phytoplankton density over a seven-day period. A massive phytoplankton bloom occurred, as indicated by a 27-fold increase in chlorophyll concentration in water samples from the test sites.
+
+Why are iron concentrations naturally low in certain oceanic regions? Windblown dust from the land is the main process delivering iron to the ocean, and relatively little dust reaches the central Pacific and central Atlantic Oceans.
+
+The iron factor in marine ecosystems is actually related to the nitrogen factor. Where iron is limiting, additions stimulate growth of cyanobacteria that fix nitrogen, converting atmospheric N2 to nitrogenous minerals (see Chapter 27). These nitrogenous nutrients in turn stimulate proliferation of eukaryotic phytoplankton: 
+
+Areas of upwelling in the ocean are the main exceptions to primary production being limited by nutrients. The largest area of upwelling occurs in the Antarctic Ocean, where nutrient-rich deep waters circulate to the surface near the Antarctic continent. Other areas of upwelling are the coastal waters off Peru and California. Because the steady supply of nutrients stimulates phytoplankton production at the base of food webs, areas of upwelling are prime fishing locations.
+
+Marine ecologists are just beginning to piece together the interplay of factors that determine primary production in the oceans. One of the most important technical breakthroughs is the remote sensing of primary production data collected by satellites (FIGURE 54.7).
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-7. Remote sensing of primary production in oceans. This 1995 satellite image maps locations of high primary production in the Pacific region around Vancouver Island, British Columbia. A spectral instrument estimates chlorophyll concentrations in surface waters and converts the data to contrasting artificial colors. The areas that are green, red, or white in the color-enhanced photo are the richest in chlorophyll and hence phytoplankton. Note the phytoplankton bloom off the west coast of Vancouver Island. The second big bloom, in the sound between the island and the mainland, is due to a plume of nutrient-rich water from the Fraser River.
+
+Production in Freshwater Ecosystems
+
+Solar radiation limits primary production on a day-to-day basis in lakes, and within any given lake, you can predict the daily primary production from the solar radiation for that day. Temperature is closely linked with light intensity in freshwater systems and is difficult to evaluate as a separate factor. Nutrient limitations are also common in freshwater lakes.
+
+During the 1970s, interest in what controls primary production in freshwater lakes became associated with the environmental issue of increasing water pollution. Sewage and fertilizer runoff from farms and yards added nutrients to lakes. This shifted many lakes from having phytoplankton communities dominated by diatoms or green algae to having phytoplankton communities dominated by cyanobacteria. This process, eutrophication, has generally undesirable impacts from a human perspective, including the eventual loss of fish from lakes (see FIGURE 50.19b). Controlling eutrophication requires knowing which polluting nutrient enables the cyanobacteria to bloom. Unlike the situation in marine ecosystems, nitrogen is rarely the limiting factor for primary production in lakes. In the 1970s, David Schindler, whom you met in the interview on p. 1190, conducted a series of whole-lake experiments that pointed to phosphorus as the limiting nutrient that stimulated the cyanobacterial blooms (FIGURE 54.8). His research led to the use of phosphate-free detergents and other water quality reforms.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-8. The experimental eutrophication of a lake. The far basin of this lake was separated from the near basin by a plastic curtain and fertilized with inorganic sources of carbon, nitrogen, and phosphorus. Within two months, the fertilized basin was covered with a cyanobacterial bloom, which appears white in the photograph. The near basin, which was treated with only carbon and nitrogen, remained unchanged. In this case, phosphorus was the key limiting nutrient, and its addition stimulated the explosive growth of cyanobacteria.
+
+
+
+
+
+ In terrestrial ecosystems, temperature, moisture, and nutrients limit primary production
+
+Of course, water availability varies more among terrestrial ecosystems than among aquatic ones, but terrestrial ecosystems also vary more in temperature. On a large geographic scale, temperature and moisture are the key factors controlling primary production in ecosystems. Note again in FIGURE 54.3b that tropical rain forests, with their warm, wet conditions that promote plant growth, are the most productive of all terrestrial ecosystems.
+
+On a more local scale, mineral nutrients in the soil can play key roles in limiting primary production in terrestrial ecosystems. Primary production removes soil nutrients, sometimes faster than they are replaced. At some point, a nutrient deficiency may cause plant growth to slow or cease. It is unlikely that all nutrients will be exhausted simultaneously. If a limiting nutrient controls production, adding a nonlimiting nutrient to the soil will not stimulate production. For example, if nitrogen is limiting, then adding phosphorus, even if it, too, is in relatively short supply, will not stimulate production. But if we add nitrogen, this will stimulate plant growth until some other nutrient--say, phosphorus--becomes limiting. In fact, either nitrogen or phosphorus is the soil nutrient that most commonly limits terrestrial production (FIGURE 54.9).
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-9. Nutrient addition experiments in a Hudson Bay salt marsh. Note that experimental plots receiving phosphorus (P) alone do not outproduce the unfertilized control plots. But adding nitrogen (N) boosts production. Nitrogen is the limiting nutrient, at least until late summer. At this point, phosphorus may become limiting. (What is the basis for this inference?)
+
+Scientific studies relating nutrients to production have practical applications in agriculture. Farmers maximize their crop yields by using fertilizers with the right balance of nutrients for the local soil and the type of crop.
+
+
+
+
+
+ The efficiency of energy transfer between trophic levels is usually less than 20% 
+
+Production Efficiency
+
+One way to start thinking about secondary production is to examine the process in individual organisms. Caterpillars feed on plant leaves, and FIGURE 54.10 is a simplified diagram of how the energy a caterpillar obtains from food is partitioned. Out of 200 J (48 cal) consumed by a caterpillar, only about 33 J (one-sixth) is used for growth. The caterpillar passes the rest as feces or uses it for cellular respiration. The energy contained in the feces is not lost from the ecosystem, as it will be consumed by detritivores. However, the energy used for respiration is lost from the ecosystem as heat. Energy pours into an ecosystem as solar radiation and drains away as respiratory heat loss. This is why energy is said to flow through, not cycle within, ecosystems. Only the chemical energy stored as growth (or the production of offspring) by herbivores is available as food to secondary consumers. And our example actually overestimates the conversion of primary production to secondary production because we did not account for all the plant material that herbivores do not even consume. The greenness of terrestrial landscapes due to an abundance of plant material indicates that most net primary production is not converted over the short term to secondary production.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-10. Energy partitioning within a link of the food chain. Less than 17%  of the caterpillar's food is actually converted to caterpillar biomass.
+
+If we view animals as energy transformers, we can ask questions about their relative efficiencies. This is the efficiency measure we'll use: 
+
+Net secondary production is the energy stored in biomass represented by growth and reproduction. Assimilation consists of the total energy taken in and used for growth, reproduction, and respiration. In other words, production efficiency is the fraction of food energy that is not used for respiration. For the caterpillar in FIGURE 54.10, production efficiency is 33% ; 67 J of the 100 J of assimilated energy is used for respiration (note that energy lost as undigestible material in feces does not count as assimilation). Birds and mammals have low production efficiencies, ranging from 1-3% , because they use so much energy to maintain a warm body temperature. Fishes, which are ectotherms (see Chapter 40), have a production efficiency around 10% . Insects are even more efficient, with production efficiencies averaging 40% .
+
+Trophic Efficiency and Ecological Pyramids
+
+Let's scale up now from the production efficiencies of individual consumers to the flow of energy through whole trophic levels.
+
+Trophic efficiency is the percentage of production transferred from one trophic level to the next. Put another way, trophic efficiency is the fraction of net production at one trophic level as a percent of net production at the level below. Trophic efficiencies must always be less than production efficiencies because they take into account not only the energy lost through respiration and materials in feces, but also the energy in organic material in a lower trophic level that is not consumed by the next trophic level. Trophic efficiencies usually range from 5-20% , depending on the type of ecosystem. In other words, 80-95%  of the energy available at one trophic level never transfers to the next. And this loss is multiplied over the length of a food chain. If 10%  of energy is transferred from primary producers to primary consumers, and 10%  of that energy is transferred to secondary consumers, then only 1%  of net primary production is available to secondary consumers (10%  of 10% ).
+
+Pyramids of Production. This multiplicative loss of energy from a food chain can be represented by a pyramid of production, in which the trophic levels are stacked in blocks, with primary producers forming the foundation of the pyramid. The size of each block is proportional to the production of each trophic level (FIGURE 54.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-11. An idealized pyramid of net production. This example is based on a trophic efficiency of 10%  for each link in the food chain. Notice that primary producers convert only about 1%  of the energy in the sunlight available to them into net primary production.
+
+Pyramids of Biomass. One important ecological consequence of low trophic efficiencies can be represented in a biomass pyramid, in which each tier represents the standing crop (the total dry weight of all organisms) in a trophic level. Most biomass pyramids narrow sharply from primary producers at the base to top-level carnivores at the apex because energy transfers between trophic levels are so inefficient (FIGURE 54.12a). Some aquatic ecosystems, however, have inverted biomass pyramids, with primary consumers outweighing producers. In the waters of the English Channel, for example, the biomass of zooplankton (consumers) is five times the weight of phytoplankton (producers) (FIGURE 54.12b). Such inverted biomass pyramids occur because the zooplankton consume the phytoplankton so quickly that the producers never develop a large population size, or standing crop. Instead, the phytoplankton grow, reproduce, and are consumed rapidly. Phytoplankton have a short turnover time, which means they have a small standing crop biomass compared to their production:  Because the phytoplankton continue to replace their biomass at such a rapid rate, they can support a biomass of zooplankton bigger than their own biomass. Nevertheless, the pyramid of production for this ecosystem is upright, like the one in FIGURE 54.11, because phytoplankton have a much higher production than zooplankton.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-12. Pyramids of biomass (standing crop). Numbers denote the dry weight (g/m2) for all organisms at a trophic level.
+
+Pyramids of Numbers. The multiplicative loss of energy from food chains severely limits the overall biomass of top-level carnivores that any ecosystem can support. Only about one one-thousandth of the chemical energy fixed by photosynthesis can flow all the way through a food web to a tertiary consumer, such as a hawk, snake, or shark (see FIGURE 54.11). This explains why food webs usually include only about four or five trophic levels (see Chapter 53).
+
+Because predators are usually larger than the prey they eat, top-level predators tend to be fairly large animals. Thus, the limited biomass at the top of an ecological pyramid is concentrated in a relatively small number of large individuals. This phenomenon is reflected in a pyramid of numbers, in which the size of each block is proportional to the number of individual organisms present in each trophic level (FIGURE 54.13). Populations of top predators are typically small, and the animals may be widely spaced within their habitats. As a result, many predators are highly susceptible to extinction (as well as to the evolutionary consequences of small population size discussed in Chapter 23).
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-13. A pyramid of numbers. In this pyramid of numbers for a bluegrass field in Michigan, only three top carnivores are supported in an ecosystem based on production by nearly 6 million plants.
+
+The dynamics of energy flow through ecosystems have important implications for the human population. Eating meat is a relatively inefficient way of tapping photosynthetic production. A human obtains far more calories by eating grains directly as a primary consumer than by processing that same amount of grain through another trophic level and eating grain-fed animals (beef, chicken, pork, lamb, farm fish). Worldwide agriculture could, in fact, successfully feed many more people than it does today if we all consumed only plant material, feeding more efficiently as primary consumers (FIGURE 54.14).
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-14. Food energy available to the human population at different trophic levels. Most humans have a diet between these two extremes.
+
+
+
+
+
+ Herbivores consume a small percentage of vegetation: the green world hypothesis
+
+With so many primary consumers (herbivores) munching away on plants, how can we explain why most terrestrial ecosystems are actually quite green, boosting large standing crops of vegetation? According to the green world hypothesis, herbivores consume relatively little plant biomass because they are held in check by a variety of factors, including predators, parasites, and disease.
+
+Let's look at some of the numbers that account for a green world. There is a total of about 83 &#160;X&#160; 1010 metric tons of carbon stored in the plant biomass of terrestrial ecosystems. And the global rate of terrestrial primary production is about 5 &#160;X&#160; 1010 metric tons of plant biomass per year. (If you return to the equation on p. 1207, you can now calculate the global turnover rate for Earth's vegetation.) On a global scale, herbivores consume less than 17%  of the total net annual production by plants. Thus, in general, herbivores are only a minor nuisance to plants. We do know that some herbivores have the potential to completely strip local vegetation over the short term; an example is the occasional ability of exploding gypsy moth populations to defoliate areas of forest in the northeastern United States. Such exceptions only heighten our curiosity about why Earth is so green.
+
+The green world hypothesis proposes several factors that keep herbivores in check:
+
+Plants have defenses against herbivores. These defenses include noxious chemicals, as we discussed in Chapter 39.
+
+Nutrients, not energy supply, usually limit herbivores. Animals need certain nutrients, such as organic nitrogen (protein), that plants often supply in relatively small amounts. Even in a world of plentiful green energy, the growth and reproduction of many herbivores is limited by availability of essential nutrients, not by energy (calories; see Chapter 41).
+
+Abiotic factors limit herbivores. Unfavorable seasonal changes in temperature and moisture are examples of abiotic factors that can set a carrying capacity for herbivores far below the number that would strip vegetation.
+
+Intraspecific competition can limit herbivore numbers. Territorial behavior and other consequences of competition may maintain herbivores' population densities below what the vegetation could support with food.
+
+Interspecific interactions check herbivore densities. The green world hypothesis postulates that predators, parasites, and disease are the most important factors limiting the growth of herbivore populations. This applies the top-down model of community structure (Chapter 53).
+
+The relationship of herbivores to plants emphasizes the importance of trophic structure for understanding the dynamics of an ecosystem. We now redirect our focus from energy flow to the cycling of nutrients in ecosystems.
+
+
+
+
+
+ Biological and geologic processes move nutrients between organic and inorganic compartments
+
+A chemical's specific route through a biogeochemical cycle varies with the particular element and the trophic structure of the ecosystem. We can, however, recognize two general categories of biogeochemical cycles. Gaseous forms of carbon, oxygen, sulfur, and nitrogen occur in the atmosphere, and cycles of these elements are essentially global. For example, some of the carbon and oxygen atoms a plant acquires from the air as CO2 may have been released into the atmosphere by the respiration of a plant or animal in some distant locale. Other elements that are less mobile in the environment, including phosphorus, potassium, calcium, and the trace elements, generally cycle on a more localized scale, at least over the short term. Soil is the main abiotic reservoir of these elements, which are absorbed by plant roots and eventually returned to the soil by decomposers, usually in the same general vicinity.
+
+A General Model of Chemical Cycling
+
+Before examining the details of individual cycles, let's look at a general model of nutrient cycling that shows the main reservoirs, or compartments, of elements and the processes that transfer elements between reservoirs (FIGURE 54.15). Most nutrients accumulate in four reservoirs, each of which is defined by two characteristics: whether it contains organic or inorganic materials and whether or not the materials are directly available for use by organisms. One compartment of organic materials is composed of the living organisms themselves and detritus; these nutrients are available to other organisms when consumers feed and when detritivores consume nonliving organic matter. The second organic compartment includes "fossilized" deposits of once-living organisms (coal, oil, and peat), from which nutrients cannot be assimilated directly. Material moved from the living organic compartment to the fossilized organic compartment long ago, when organisms died and were buried by sedimentation over millions of years to become coal, oil, or peat.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-15. A general model of nutrient cycling. The biological and geologic processes that move nutrients from one compartment reservoir to another are indicated on the arrows.
+
+Nutrients also occur in two inorganic compartments, one in which they are available for use by organisms and one in which they are not. The available inorganic compartment includes matter (elements and compounds) that is dissolved in water or present in soil or air. Organisms assimilate materials from this compartment directly and return chemicals to it through the fairly rapid processes of cellular respiration, excretion, and decomposition. Elements in the unavailable inorganic compartment are tied up in rocks. Although organisms cannot tap into this compartment directly, nutrients slowly become available through weathering and erosion. Similarly, unavailable organic materials move into the available compartment of inorganic nutrients through erosion or when fossil fuels are burned and the exhaust enters the atmosphere.
+
+Describing biogeochemical cycles in general is much simpler than actually tracing elements through these cycles, especially since ecosystems exchange elements with other ecosystems. Even in a pond, which has discrete boundaries, several processes add and remove key nutrients. Minerals dissolved in rainwater or runoff from the neighboring land are added to the pond, as are nutrient-rich pollen, fallen leaves, and other airborne material. And of course, carbon, oxygen, and nitrogen cycle between the pond and the atmosphere. Birds may feed on fish or the aquatic larvae of insects, which derived their store of nutrients from the pond, and some of those nutrients may then be excreted or eliminated on land far from the pond's drainage area. Keeping track of the inflow and outflow is even more challenging in less clearly delineated terrestrial ecosystems. Nevertheless, ecologists have worked out the schemes for chemical cycling in several ecosystems, often by adding tiny amounts of radioactive tracers that enable the researchers to follow chemical elements through the various biotic and abiotic components of the ecosystems.
+
+One important cycle, the water cycle, does not fit the generalized scheme of FIGURE 54.15 very well. Although organisms are mostly made of water, very little of the water that cycles through ecosystems is chemically altered by either the biotic or abiotic components. The main exception is the water that is split into hydrogen and oxygen during photosynthesis, but that involves a very tiny fraction of the total water passing through a plant or any other organism. The water cycle is more a physical process than a chemical one; it mainly involves changes between the liquid and gaseous states and the transport of the liquid water and water vapor (FIGURE 54.16). Contrast the water cycle in FIGURE 54.16 with the carbon cycle (FIGURE 54.17), which fits the generalized scheme of biogeochemical cycles much better. Now let's take a closer look at two specific biogeochemical cycles: the nitrogen cycle and the phosphorus cycle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-16. The water cycle. On a global scale, evaporation exceeds precipitation over the oceans. The result is a net movement of water vapor, carried by the winds, from the ocean to the land. The excess of precipitation over evaporation on land results in the formation of surface and groundwater systems that flow back to the sea, completing the major part of the cycle. Over the sea, evaporation forms most water vapor. On land, however, 90%  or more of the vaporization is due to plant transpira-tion, which together with other types of evaporation is referred to as evapotranspiration. The numbers in this diagram indicate water flow in billion billion (1018) grams per year.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-17. The carbon cycle. The reciprocal processes of photosynthesis and cellular respiration are responsible for the major transformations and movements of carbon. A seasonal pulse in atmospheric CO2 is caused by decreased photosynthetic activity during the Northern Hemisphere's winter. On a global scale, the return of CO2 to the atmosphere by respiration closely balances its removal by photosynthesis. However, the burning of wood and fossil fuels adds more CO2 to the atmosphere; as a result, the amount of atmospheric CO2 is steadily increasing.
+
+The Nitrogen Cycle
+
+Although Earth's atmosphere is almost 80%  nitrogen, it is mostly in the form of nitrogen gas (N2), which is unavailable to plants and hence to consumers of plants.
+
+Nitrogen enters ecosystems via two natural pathways, the relative importance of which varies greatly from ecosystem to ecosystem. The first, atmospheric deposition, accounts for approximately 5-10%  of the usable nitrogen that enters most ecosystems. In this process, NH4+ and NO3-, the two forms of nitrogen available to plants, are added to soil by being dissolved in rain or by settling as part of fine dust or other particulates. Some plants, such as the epiphytic bromeliads found in the canopy of tropical rain forests, have aerial roots that can take up NH4+ and NO3- directly from the moist atmosphere.
+
+The other natural pathway for nitrogen to enter ecosystems is via nitrogen fixation. Only certain prokaryotes can fix nitrogen--that is, convert N2 to minerals that can be used to synthesize nitrogenous organic compounds such as amino acids. Indeed, prokaryotes are vital links at several points in the nitrogen cycle (FIGURE 54.18). Nitrogen is fixed in terrestrial ecosystems by free-living (nonsymbiotic) soil bacteria as well as by symbiotic bacteria (Rhizobium) in the root nodules of legumes and certain other plants (see Chapter 37). Some cyanobacteria fix nitrogen in aquatic ecosystems. Organisms that fix nitrogen are, of course, fulfilling their own metabolic requirements, but the excess ammonia (NH3) they release becomes available to other organisms.
+
+In addition to these natural sources of usable nitrogen, industrial fixation of nitrogen for fertilizer now makes a major contribution to the pool of nitrogenous minerals in terrestrial and aquatic ecosystems.
+
+The direct product of nitrogen fixation is ammonia (NH3). However, most soils are at least slightly acidic, and NH3 released into the soil picks up a hydrogen ion (H+) to form ammonium, NH4+, which can be used directly by plants. Because NH3 is a gas, it can evaporate back to the atmosphere from soils with a pH close to 7 (such as those in the midwestern United States). This NH3 lost from the soil may then form NH4+ in the atmosphere. As a result, NH4+ concentrations in rainfall are correlated with soil pH over large regions. This local recycling of nitrogen by atmospheric deposition can be especially pronounced in agricultural areas where both nitrogen fertilizers and lime (a base that decreases soil acidity) are used extensively.
+
+Although plants can use ammonium directly, most of the ammonium in soil is used by certain aerobic bacteria as an energy source; their activity oxidizes ammonium to nitrite (NO2-) and then to nitrate (NO3-), a process called nitrification. Nitrate released from these bacteria can then be assimilated by plants and converted to organic forms, such as amino acids and proteins. Animals can assimilate only organic nitrogen, and they do this by eating plants or other animals. Some bacteria can obtain the oxygen they need for metabolism from nitrate rather than from O2 under anaerobic conditions. As a result of this denitrification process, some nitrate is converted back to N2, returning to the atmosphere. The decomposition of organic nitrogen back to ammonium, a process called ammonification, is carried out mainly by bacterial and fungal decomposers. This process recycles large amounts of nitrogen to the soil.
+
+Overall, most of the nitrogen cycling in natural systems involves the nitrogenous compounds in soil and water, not atmospheric N2. Although nitrogen fixation is important in the buildup of a pool of available nitrogen, it contributes only a tiny fraction of the nitrogen assimilated annually by total vegetation. Nevertheless, many common species of plants depend on their association with nitrogen-fixing bacteria to provide this essential nutrient in a form they can assimilate. The amount of N2 returned to the atmosphere by denitrification is also relatively small. The important point is that although nitrogen exchanges between soil and atmosphere are significant over the long term, the majority of nitrogen in most ecosystems is recycled locally by decomposition and reassimilation.
+
+The Phosphorus Cycle
+
+Organisms require phosphorus as a major constituent of nucleic acids, phospholipids, and ATP and other energy shuttles and as a mineral constituent of bones and teeth.
+
+In some respects, the phosphorus cycle is simpler than either the carbon or nitrogen cycle. Phosphorus cycling does not include movement through the atmosphere because there are no significant phosphorus-containing gases. In addition, phosphorus occurs in only one biologically important inorganic form, phosphate (PO43-), which plants absorb and use for organic synthesis. The weathering of rocks gradually adds phosphate to soil (FIGURE 54.19). After producers incorporate phosphorus into biological molecules, it is transferred to consumers in organic form and then added back to the soil by the excretion of phosphate by animals and by the action of bacterial and fungal decomposers on detritus.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-19. The phosphorus cycle. Phosphorus, which does not have an atmospheric component, tends to cycle locally (yellow arrows). Generally, small losses from terrestrial systems caused by leaching are balanced by gains from the weathering of rocks. In aquatic systems, as in terrestrial systems, phosphorus is cycled through food webs. Some phosphorus is lost from the ecosystem through chemical precipitation or through settling of detritus to the bottom, where sedimentation may lock away some of the nutrient before biological processes can reclaim it. On a much longer time scale, this phosphorus may become available to ecosystems again through geologic processes such as uplifting (gold arrows).
+
+Humus and soil particles bind phosphate, so that the recycling of phosphorus tends to be quite localized in ecosystems. However, phosphorus does leach into the water table, gradually draining from terrestrial ecosystems to the sea. Severe erosion can hasten this drain, but the weathering of rocks generally keeps pace with the loss of phosphate. Phosphate that reaches the ocean gradually accumulates in sediments and becomes incorporated into rocks that may later be included in terrestrial ecosystems as a result of geologic processes that raise the seafloor or lower sea level at a particular location. Thus, most phosphate recycles locally among soil, plants, and consumers on the scale of ecological time, while a parallel sedimentary cycle removes and restores terrestrial phosphorus over geologic time. The same general pattern applies to other nutrients that lack atmospheric forms.
+
+FIGURE 54.20 reviews chemical cycling in ecosystems in their most general form. Note again the key role that detritivores (decomposers) play.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-20. Review: Generalized scheme for biogeochemical cycles.
+
+
+
+
+
+ Decomposition rates largely determine the rates of nutrient cycling
+
+The rates at which nutrients cycle in different ecosystems are extremely variable, mostly as a result of differences in rates of decomposition. In tropical rain forests, most organic material decomposes in a few months to a few years, while in temperate forests, decomposition takes, on average, four to six years. In the tundra, decomposition can take 50 years, and in aquatic ecosystems, where most decomposition occurs in anaerobic bottom muds, it may occur even more slowly. The temperature and the availability of water and O2 all affect rates of decomposition and thus nutrient cycling times. Other factors that can influence nutrient cycling are local soil chemistry and the frequency of fires.
+
+In some parts of a tropical rain forest, key nutrients such as phosphorus occur in the soil at levels far below those typical of a temperate forest. At first this might seem paradoxical because tropical forests generally have very high production. The key to this apparent riddle is rapid decomposition in tropical areas because of the warm temperatures and abundant precipitation. In addition, the immense biomass of these forests creates a high demand for nutrients, which are absorbed almost as soon as they become available through the action of decomposers. As a result of rapid decomposition, relatively little organic material accumulates as leaf litter on the floor of tropical rain forests; about 75%  of the nutrients in the ecosystem are present in the woody trunks of trees, and about 10%  are contained in the soil. Thus, the relatively low concentrations of some nutrients in the soil of tropical rain forests result from a fast cycling time, not an overall scantiness of these elements in the ecosystem.
+
+In temperate forests, where decomposition is much slower, the soil may contain 50%  of all the organic material in the ecosystem. The nutrients present in temperate forest detritus and soil may remain there for fairly long periods of time before being assimilated by plants.
+
+In aquatic ecosystems, bottom sediments are comparable to the detritus layer in terrestrial ecosystems, but algae and aquatic plants usually assimilate nutrients directly from the water. Thus, these sediments often constitute a nutrient sink, and aquatic ecosystems can only be very productive if there is interchange between the bottom layers of water and the surface (see FIGURE 50.16).
+
+
+
+
+
+ Nutrient cycling is strongly regulated by vegetation
+
+Many research groups are conducting long-term ecological research (LTER) to monitor the dynamics of natural ecosystems over long periods of time. Let's examine one example of LTER that has helped ecologists understand the key role plants play in regulating nutrient cycles.
+
+Since 1963, a team of scientists has been conducting a long-term study of nutrient cycling in a forest ecosystem. The study site is the Hubbard Brook Experimental Forest, in the White Mountains of New Hampshire. It is a deciduous forest with several valleys, each drained by a small creek that is a tributary of Hubbard Brook. Bedrock impenetrable to water is close to the surface of the soil, and each valley constitutes a watershed that can drain only through its creek.
+
+The research team first determined the mineral budget for each of six valleys by measuring the inflow and outflow of several key nutrients. They collected rainfall at several sites to measure the amount of water and dissolved minerals added to the ecosystem. To monitor the loss of water and minerals, they constructed a small concrete dam with a V-shaped spillway across the creek at the bottom of each valley (FIGURE 54.21a, p. 1214). About 60%  of the water added to the ecosystem as rainfall and snow exits through the stream, and the remaining 40%  is lost by transpiration from plants, evaporation from other organisms, and evaporation from the soil.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-21. Nutrient cycling in the Hubbard Brook Experimental Forest: an example of long-term ecological research. (a) Concrete dams built across streams at the bottom of watersheds enabled researchers to monitor the outflow of water and nutrients from the ecosystem. (b) Some watersheds were completely logged to study the effects of the loss of vegetation on drainage and nutrient cycling. (c) The concentration of nitrate in runoff from the deforested watershed was 60 times greater than in a control (unloged) watershed.
+
+Preliminary studies confirmed that internal cycling within a terrestrial ecosystem conserves most of the mineral nutrients. Mineral inflow and outflow balanced and were relatively small compared with the quantity of minerals being recycled within the forest ecosystem. For example, only about 0.3%  more Ca2+ left a valley via its creek than was added by rainwater, and this small net loss was probably replaced by chemical decomposition of the bedrock. During most years, the forest actually registered small net gains of a few mineral nutrients, including nitrogenous ones.
+
+In 1966, one of the valleys, with an area of 15.6 hectares, was completely logged and then sprayed with herbicides for three years to prevent regrowth of plants (FIGURE 54.21b). All the original plant material was left in place to decompose. The inflow and outflow of water and minerals in the experimentally altered watershed were compared with the inflow and outflow in a control watershed for three years. Water runoff from the altered watershed increased by 30-40% , apparently because there were no plants to absorb and transpire water from the soil. Net losses of minerals from the altered watershed were huge. The concentration of Ca2+ in the creek increased fourfold, for example, and the concentration of K+ increased by a factor of 15. Most remarkable was the loss of nitrate, which increased in concentration in the creek 60-fold (FIGURE 54.21c). Not only was this vital mineral nutrient drained from the ecosystem, but nitrate in the creek reached a level considered unsafe for drinking water.
+
+This study demonstrated that the amount of nutrients leaving an intact forest ecosystem is controlled by the plants themselves; when plants are not present to retain them, nutrients are lost from the system. These effects are almost immediate, occurring within a few months of logging, and continue as long as plants are absent.
+
+After 35 years, data from Hubbard Brook point to some other long-term trends. It now appears that none of the watersheds was undisturbed by human activity even when the study began. For instance, before and during the study, acid precipitation seems to have caused an increase in the levels of Ca2+ in stream water. Apparently, since the 1950s, acid rain and snow have dissolved most of the Ca2+ from the forest soil, and the streams have carried it away. By the 1990s, forest plants at Hubbard Brook had virtually stopped adding new growth, apparently because of a lack of Ca2+.
+
+Although the Hubbard Brook study and several other LTER projects were designed to assess natural ecosystem dynamics, the results continue to provide important insight into the mechanisms by which human activities affect these processes. In this chapter's last section, we will examine how human intrusions in ecosystem dynamics are altering the biosphere.
+
+
+
+
+
+ The human population is disrupting chemical cycles throughout the biosphere
+
+Human activity often intrudes in nutrient cycles by removing nutrients from one part of the biosphere and adding them to another. This may result in the depletion of key nutrients in one area, excesses in another place, and the disruption of the natural chemical cycles in both locations. For example, nutrients in the soil of croplands soon appear in the wastes of humans and livestock. Then they appear in streams and lakes through runoff from fields and sewage discharge. Someone eating a piece of broccoli in Washington, DC, is consuming nutrients that only days before might have been in the soil in California; and a short time later, some of these nutrients will be in the Potomac River on their way to the sea, having passed through an individual's digestive system and the local sewage facilities.
+
+Humans have intruded on nutrient cycles to such an extent that it is no longer possible to understand any cycle without taking human effects into account. In addition to transporting nutrients from one location to another, we have added entirely new materials, many of them toxic, to ecosystems. Let's examine a few specific examples of how humans are impacting the biosphere's chemical dynamics.
+
+Agricultural Effects on Nutrient Cycling
+
+After natural vegetation is cleared from an area, crops may be grown for some time using the existing reserve of nutrients in the soil; nutrient supplementation isn't required. However, in agricultural ecosystems, a substantial fraction of these nutrients is not recycled but is exported from the area in the form of crop biomass (FIGURE 54.22). The "free" period for crop production--when there is no need to add nutrients to the soil--varies greatly. When some of the early North American prairie lands were first tilled, for example, good crops could be produced for many years because the large store of organic materials in the soil continued to decompose and provide nutrients. By contrast, some cleared land in the tropics can be farmed for only one or two years because so few of the ecosystems' nutrients are contained in the soil (see p. 1213). Eventually, in any area under intensive agriculture, the natural store of nutrients becomes exhausted. When this happens, fertilizer must be added. The industrially synthesized fertilizers used extensively today come from oil and are produced at considerable expense of both money and energy.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-22. Agricultural impact on soil nutrients. Transport of harvested plant biomass to market removes mineral nutrients that would otherwise be cycled back to the local soil. To replace the lost nutrients, farmers must apply fertilizers--either organic fertilizers, such as manure or mulch, or manufactured fertilizers.
+
+Agriculture has a great impact on the nitrogen cycle. Cultivation--breaking up and mixing the soil--increases the rate of decomposition of organic matter, releasing usable nitrogen that is then removed from the ecosystem when crops are harvested. As we saw in the case of Hubbard Brook, ecosystems from which living plants are removed lose nitrogen not only because it is removed with the plants themselves, but because without plants to take them up, nitrates continue to be leached from the ecosystem. Industrially synthesized fertilizer is used to make up for the loss of usable nitrogen from agricultural ecosystems.
+
+Recent studies indicate that human activities have approximately doubled the globe's supply of fixed nitrogen available to primary producers. The main cause is industrial nitrogen fixation for fertilizers, but increased cultivation of legumes, with their nitrogen-fixing symbionts, and burning are also important. (Fire releases nitrogen compounds stored in soil and vegetation, thereby enhancing the cycling of nitrogen compounds available to photosynthesizers.) In addition to its effects on local soil and water chemistry, the excessive supplements of fixed nitrogen are also associated with a greater release of N2 and nitrogen oxides into the air by denitrifying bacteria (see FIGURE 54.18). Nitrogen oxides can contribute to atmospheric warming, to the depletion of atmospheric ozone, and in some ecosystems to acid precipitation.
+
+Critical Load and Nutrient Cycles
+
+Excesses of nitrogenous minerals in the soil eventually leach into groundwater or run off directly into freshwater and marine ecosystems. Many rivers contaminated with nitrates and ammonium from agricultural runoff and sewage drain into the North Atlantic Ocean, with the highest nitrogen inputs to the ocean coming from northern Europe. Throughout the Northern Hemisphere, nitrate concentrations in rivers are rising in proportion to human population along the rivers. For example, nitrate levels in the Mississippi River have more than doubled since 1965. Groundwater concentrations of nitrate are also increasing in agricultural areas, sometimes exceeding the maximum level considered safe for drinking water (10 mg of nitrate per liter).
+
+In certain situations, the addition of nitrogen to ecosystems by human activities can actually have positive effects, at least from the human perspective. Adding nitrogenous fertilizers can offset the nitrogen limitation of primary production that is common in terrestrial ecosystems. For example, in Swedish forests, which are nitrogen limited, agricultural runoff of nitrates and ammonia and emissions of nitrogenous compounds from factories are correlated with a 30%  boost in the growth rates of trees during the past 50 years. In other words, humans have been inadvertently fertilizing the forests.
+
+The key issue seems to be critical load, the amount of added nitrogen that can be absorbed by plants without damaging ecosystem integrity. It is the nitrogen that exceeds critical load that turns up in groundwater and aquatic ecosystems such as lakes, a problem we examine in more detail next.
+
+Accelerated Eutrophication of Lakes
+
+As we discussed in Chapter 50, lakes are classified on a scale of increasing nutrient availability as oligotrophic, mesotrophic, or eutrophic (see FIGURE 50.19). In an oligotrophic lake, primary productivity is relatively low because the mineral nutrients required by phytoplankton are scarce. In other lakes, basin and watershed characteristics result in the addition of more nutrients. These nutrients are captured by the primary producers and then continuously recycled through the lake's food webs. Thus, the overall productivity is higher in mesotrophic lakes and highest in eutrophic (from the Greek, meaning "well nourished") ones.
+
+Human intrusion has disrupted freshwater ecosystems by what is termed cultural eutrophication. Sewage and factory wastes; runoff of animal waste from pastures and stockyards; and the leaching of fertilizer from agricultural, recreational, and urban areas has overloaded many streams, rivers, and lakes with inorganic nutrients. This enrichment often results in an explosive increase in the density of photosynthetic organisms (see FIGURE 54.8). Shallower areas become weed choked, making boating and fishing impossible. Large "blooms" of algae and cyanobacteria become common, sometimes resulting in increased oxygen production during the day but reduced oxygen levels at night because of respiration by these large populations of organisms. As the photosynthetic organisms die and organic material accumulates at the lake bottom, detritivores use all the oxygen in the deeper waters. All these effects may make it impossible for some organisms to survive. For example, cultural eutrophication of Lake Erie wiped out commercially important fishes such as blue pike, whitefish, and lake trout by the 1960s. Since then, tighter regulations on the dumping of wastes into the lake have enabled some fish populations to rebound, but many of the native species of fishes and invertebrates have not recovered. Government policies to ensure better water quality should be a high priority in all countries.
+
+
+
+
+
+ Combustion of fossil fuels is the main cause of acid precipitation
+
+The burning of wood and the combustion of coal and other fossil fuels release oxides of sulfur and nitrogen that react with water in the atmosphere to form sulfuric and nitric acid, respectively. The acids eventually fall back to Earth's surface as acid precipitation. Acid precipitation is defined as rain, snow, or fog that has a pH less than 5.6 (see FIGURE 3.9). It lowers the pH of aquatic ecosystems and affects the soil chemistry of terrestrial ecosystems.
+
+Although acid precipitation due to fuel combustion has been occurring ever since the Industrial Revolution, emissions have increased during the past hundred years, mainly as a result of ore smelters and electrical generating plants. Ecologists first brought the environmental impact of acid precipitation to public attention in the 1960s, when they began to document damage to forests and lakes in Europe and eastern North America. It is clearly a regional or even a global problem, not a local one. To counter local pollution problems, smelters and generating plants are built with very tall exhaust stacks (over 300 m high). This reduces pollution at ground level, but exports the problem far downwind. The nitrogenous and sulfurous pollutants from fuel combustion can drift hundreds of kilometers before falling as acid precipitation. Ecologists began to realize that lakes in eastern Canada were dying because of air pollution from factories in the midwest. Lakes in southern Norway were losing fish because of acid rain from pollutants generated in Great Britain. By 1980, precipitation in large areas of Europe and North America averaged pH 4.0-4.5, with "record" storms occasionally dropping rain as acidic as pH 3.0 (FIGURE 54.23).
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 54-23. Distribution of acid precipitation in North America and Europe. (a) In these maps of North America and Europe with 1980 data superimposed, the numbers such as 10&#160;X&#160; identify the acidity of precipitation in those areas compared to a normal rainwater pH of 5.6. In an area marked 10&#160;X&#160;, precipitation was, on average, ten times more acidic than normal (which means the pH in those areas averaged 4.6). Other areas had precipitation 20&#160;X&#160; or 30&#160;X&#160; the normal rainfall acidity. (b) This U.S. map profiles pH averages for precipitation in 1999.
+
+In terrestrial ecosystems, such as the deciduous forests of New England, the change in soil pH due to acid precipitation causes calcium and other nutrients to leach from the soil. The nutrient deficiencies affect the health of plants and limit their growth.
+
+Freshwater ecosystems are particularly sensitive to acid precipitation. The lakes in North America and northern Europe that are most readily damaged by acid precipitation are those underlain by granite bedrock. Such lakes generally have relatively poor buffering capacity because the water is "soft," meaning the concentration of bicarbonate, an important buffer, is low. Fish populations have declined in thousands of such lakes in Norway and Sweden, where the pH of the water has dropped below 5.0. In Canada, newly hatched lake trout die when the pH drops below 5.4. Lake trout are keystone predators in many Canadian lakes, and when they are replaced by acid-tolerant fish such as yellow perch, the dynamics of food webs change dramatically (see FIGURE 53.14 to review keystone predators).
+
+Environmental regulations and new industrial technologies have enabled many developed countries, including the United States, to reduce sulfur dioxide emissions during the past 30 years. In the United States, for example, sulfur dioxide emissions were reduced 25%  between 1990 and 1996. The water chemistry in the streams and freshwater lakes of New England is slowly improving after decades of severe acid precipitation. However, ecologists estimate that it will take another 10 to 20 years for these ecosystems to recover, even if sulfur dioxide emissions continue to decrease.
+
+
+
+
+
+ Toxins can become concentrated in successive trophic levels of food webs
+
+Humans produce an immense variety of toxic chemicals, including thousands of synthetics previously unknown in nature, that are dumped into ecosystems with little regard for the ecological consequences. Many of these poisons cannot be degraded by microorganisms and consequently persist in the environment for years or even decades. In other cases, chemicals released into the environment may be relatively harmless but are converted to more toxic products by reaction with other substances or by the metabolism of microorganisms. For example, mercury, a by-product of plastic production, was once routinely expelled into rivers and the sea in an insoluble form. Bacteria in the bottom mud converted the waste to methyl mercury, an extremely toxic soluble compound that then accumulated in the tissues of organisms, including humans who consumed fish from the contaminated waters.
+
+Organisms acquire toxic substances from the environment along with nutrients and water. Some of the poisons are metabolized and excreted, but others accumulate in specific tissues, especially fat. An example of a class of industrially synthesized compounds that act in this manner are the chlorinated hydrocarbons, which include many pesticides, such as DDT, and the industrial chemicals called PCBs (polychlorinated biphenols). Current research is implicating many of these compounds and others in endocrine system disruption in a large number of animal species, including humans. One of the reasons these toxins are so harmful is that they become more concentrated in successive trophic levels of a food web, a process called biological magnification. Magnification occurs because the biomass at any given trophic level is produced from a much larger biomass ingested from the level below. Thus, top-level carnivores tend to be the organisms most severely affected by toxic compounds that have been released into the environment.
+
+A well-known example of biological magnification involves DDT, which has been used to control insects such as mosquitoes and agricultural pests. In the decade after World War II, the chemical industry promoted the benefits of DDT before anybody really understood the ecological consequences (FIGURE 54.24). By the 1950s, scientists began to understand that DDT persists in the environment and is transported by water to areas far from where it is applied. But by then, the poison had already become a global problem.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-24. We've changed our tune. In this 1947 Time magazine advertisement, a chorus line sings the praises of a pesticide that was banned in the United States 25 years later.
+
+Because DDT is soluble in lipids, it collects in the fatty tissues of animals, and its concentration is magnified in higher trophic levels (FIGURE 54.25). Traces of DDT have been found in nearly every organism tested; it has even been found in human breast milk throughout the world. One of the first signs that DDT was a serious environmental problem was a decline in the populations of pelicans, ospreys, and eagles, birds that feed at the top of food chains. The accumulation of DDT (and DDE, a product of its partial breakdown) in the tissues of these birds interfered with the deposition of calcium in their eggshells, a trend that may have already begun because of other environmental contaminants. When these birds tried to incubate their eggs, the weight of the parents broke the shells of affected eggs, resulting in catastrophic declines in their reproduction rates. Rachel Carson's Silent Spring helped bring the problem to public attention in the 1960s (see Chapter 50), and DDT was banned in the United States in 1971. A dramatic recovery in populations of the affected bird species followed. The pesticide is still used in many other parts of the world, however.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-25. Biological magnification of DDT in a food chain. DDT concentration in a Long Island Sound food chain was magnified by a factor of about 10 million, from just 0.000003 part per million (ppm) as a pollutant in seawater to a concentration of about 25 ppm in the fish-eating osprey, a bird at the top of this food pyramid.
+
+
+
+
+
+ Human activities may be causing climate change by increasing carbon dioxide concentration in the atmosphere
+
+Many human activities release a variety of gaseous waste products. We once thought that the vastness of the atmosphere could absorb these materials without significant consequences, but we now know that the finite volume of the atmosphere means that human intrusions can cause fundamental changes in its composition and its interactions with the rest of the biosphere. One pressing problem is the rising level of carbon dioxide in the atmosphere.
+
+Rising Atmospheric CO2
+
+Since the Industrial Revolution, the concentration of CO2 in the atmosphere has been increasing as a result of the combustion of fossil fuels and the burning of enormous quantities of wood removed by deforestation. Various methods of measurement have estimated that the average carbon dioxide concentration in the atmosphere before 1850 was about 274 parts per million (ppm). When a monitoring station on Hawaii's Mauna Loa peak began making very accurate measurements in 1958, the CO2 concentration was 316 ppm (FIGURE 54.26). Today, the concentration of CO2 in the atmosphere exceeds 370 ppm, an increase of about 14%  since the measurements began. If CO2 emissions continue to increase at the present rate, by the year 2075, the atmospheric concentration of this gas will be double what it was at the start of the Industrial Revolution.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-26. The increase in atmospheric carbon dioxide and average temperatures from 1958 to 2000. In addition to normal seasonal fluctuations in CO2 levels, this graph shows a steady increase in the total amount of CO2 in the atmosphere (black). These measurements are being taken at a relatively remote site in Hawaii, where the air is free from the variable short-term effects that occur near large urban areas. Though average temperatures over the same time period fluctuate a great deal (red), there is a warming trend. Climatologists predict that temperatures could rise about 2&#176;C over the next 100 years if atmospheric CO2 levels continue to rise at the current rate.
+
+An increased productivity by vegetation is one predictable consequence of increasing CO2 levels. In fact, when CO2 concentrations are raised in experimental chambers such as greenhouses, most plants respond with increased growth. However, because C3 plants are more limited than C4 plants by CO2 availability (see Chapter 10), one effect of increasing CO2 concentrations on a global scale may be the spread of C3 species into terrestrial habitats previously favoring C4 plants. This may have important agricultural implications. For example, corn, a C4 plant and the most important grain crop in the United States, may be replaced on farms by wheat and soybeans, C3 crops that will outproduce corn in a CO2-enriched environment. However, it is not yet possible to predict accurately the gradual and complex effects that rising CO2 levels will have on species composition in nonagricultural communities.
+
+The Greenhouse Effect
+
+One factor that complicates predictions about the long-term effects of rising atmospheric CO2 concentration is its possible influence on Earth's heat budget. Much of the solar radiation that strikes the planet is reflected back into space. Although CO2 and water vapor in the atmosphere are transparent to visible light, they intercept and absorb much of the reflected infrared radiation, re-reflecting some of it back toward Earth. This process retains some of the solar heat. If it were not for this greenhouse effect, the average air temperature at Earth's surface would be -18&#176;C, and most life as we know it could not exist. The marked increase in atmospheric CO2 concentrations during the last 150 years concerns many ecologists and environmentalists because of its potential to increase global temperature.
+
+Global Warming
+
+Scientists continue to construct mathematical models in attempts to predict how increasing levels of atmospheric CO2 will affect global temperatures. To date, no models are sophisticated enough to include all the biotic and abiotic factors that can influence atmospheric gas concentrations and temperature (for example, cloud cover, CO2 uptake by photosynthetic organisms, and the effects of particles in the air). However, a number of studies predict a doubling of CO2 concentration by the end of the twenty-first century and an associated average temperature increase of about 2&#176;C. Supporting these models is a correlation between CO2 levels and temperatures in prehistoric times. Climatologists can actually measure CO2 levels in bubbles trapped in glacial ice at different times in Earth's history. Prehistoric temperatures are inferred by several methods, including analysis of past vegetation based on fossils.
+
+An increase of only 1.3&#176;C would make the world warmer than at any time in the past 100,000 years. A worst-case scenario suggests that the warming would be greatest near the poles; the resultant melting of polar ice might raise sea level by an estimated 100 m, gradually flooding coastal areas 150 km (or more) inland from the current coastline. New York, Miami, Los Angeles, and many other cities would then be under water. A warming trend would also alter the geographic distribution of precipitation, making major agricultural areas of the central United States much drier. However, the various mathematical models disagree about the details of how climate in each region will be affected. By studying how past periods of global warming and cooling affected plant communities, ecologists are trying to predict the consequences of future temperature changes. Analysis of fossilized pollen provides evidence that plant communities change dramatically with changes in temperature. Past climate changes occurred gradually, and plant and animal populations could migrate into areas where abiotic conditions allowed them to survive. A major concern is the projected high rates of climate change--by some estimates, higher than at any time in the past 10,000 years. Many organisms, especially plants that cannot disperse rapidly over long distances, will probably not be able to survive such rapid changes.
+
+Coal, natural gas, gasoline, wood, and other organic fuels central to modern life cannot be burned without releasing CO2. The apparent warming of the planet that is now under way as a result of the addition of CO2 to the atmosphere is a problem of uncertain consequences and no simple solutions. Given the importance of combustion to our increasingly industrialized societies, stabilizing CO2 emissions will require concerted international effort and the acceptance of dramatic changes in both personal lifestyles and industrial processes. Many ecologists believe that this effort suffered a major setback in 2001, when the United States pulled out of the Kyoto Protocol, a 1997 pledge by the industrialized nations to reduce their CO2 output by about 5%  over a ten-year period.
+
+
+
+
+
+ Human activities are depleting atmospheric ozone
+
+Life on Earth is protected from the damaging effects of ultraviolet (UV) radiation by a protective layer of ozone molecules (O3) that is present in the lower stratosphere between 17 and 25 km above Earth's surface. Ozone absorbs UV radiation, preventing much of it from contacting organisms in the biosphere. Satellite studies of the atmosphere suggest that the ozone layer has been gradually "thinning" since 1975 (FIGURE 54.27).
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 54-27. Erosion of Earth's ozone shield. (a) Ozone hole. The ozone hole over the Antarctic is visible as the blue patch in this image based on atmospheric data (b) Thickness of the ozone layer. This graph tracks the thickness of the ozone layer in units called Dobsons. (c) Exposure to UV radiation. Australia, home to these sun lovers, already has the world's highest rate of skin cancer. More intense UV radiation through an eroded ozone shield increases the cancer risk.
+
+The destruction of atmospheric ozone probably results mainly from the accumulation of chlorofluorocarbons, chemicals used for refrigeration, as propellants in aerosol cans, and in certain manufacturing processes. When the breakdown products from these chemicals rise to the stratosphere, the chlorine they contain reacts with ozone, reducing it to molecular O2. Subsequent chemical reactions liberate the chlorine, allowing it to react with other ozone molecules in a catalytic chain reaction. The effect is most apparent over Antarctica, where cold winter temperatures facilitate these atmospheric reactions. Scientists first described the "ozone hole" over Antarctica in 1985 and have since documented that it is a seasonal phenomenon that grows and shrinks in an annual cycle. However, the magnitude of ozone depletion and the size of the ozone hole have generally increased in recent years, and the hole sometimes extends as far as the southernmost portions of Australia, New Zealand, and South America. At the more heavily populated middle latitudes, ozone levels have decreased 2-10%  during the past 20 years.
+
+The consequences of ozone depletion for life on Earth may be quite severe. Some scientists expect increases in both lethal and nonlethal forms of skin cancer and in cataracts among humans, as well as unpredictable effects on crops and natural communities, especially the phytoplankton that are responsible for a large proportion of Earth's primary production. The danger posed by ozone depletion is so great that many nations have agreed to end the production of chlorofluorocarbons within a decade. Unfortunately, even if all chlorofluorocarbons were totally banned today, chlorine molecules that are already in the atmosphere will continue to influence stratospheric ozone levels for at least a century.
+
+The human impact on Earth's ozone shield is just one more example of how far our technological tentacles reach in disrupting the dynamics of ecosystems and the entire biosphere. How are human activities affecting Earth's biodiversity? In the last chapter of this book, we explore that question and highlight how progress in conservation biology may help slow the loss of species.
+
+
+
+

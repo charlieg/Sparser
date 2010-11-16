@@ -1,0 +1,10 @@
+
+ Innate behavior is developmentally fixed
+
+If behavior has both genetic and environmental underpinnings, what do we mean when we say a particular behavior is innate? For example, newly hatched, still-blind birds of many species beg for food by raising their heads, opening their mouths, and cheeping loudly when a parent lands on the side of the nest. This behavior is often attributed to genetic programming without any environmental influence. However, it is imprecise to say that any behavior is due solely to genes. All genes, including those whose expression underlies innate behavior, require an environment (a physical body) to be expressed. The key point about innate behavior is that the range of environmental differences among individuals does not appear to alter the behavior. Although usage of the term innate varies, in behavioral biology it refers to behavior that is developmentally fixed; all individuals exhibit virtually the same behavior despite the inevitable environmental differences within and outside their bodies during development and throughout life.
+
+How did innate behavior evolve? Performing certain behaviors automatically, without having any specific experience, may have maximized fitness to the point that genes for variant behavior were lost. For example, there are some things that a young animal has to get right on the first try if it is to stay alive. Kittiwakes are gulls that nest on cliff ledges. Uniquely among gull species, kittiwakes show an innate aversion to cliff edges; they turn away from the edge. Kittiwake chicks in earlier generations that did not show the edge-aversion response failed to become ancestors to modern kittiwakes.
+
+
+
+

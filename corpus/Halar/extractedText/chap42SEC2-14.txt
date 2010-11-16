@@ -1,0 +1,24 @@
+
+ Control centers in the brain regulate the rate and depth of breathing
+
+We can hold our breath voluntarily for a short while or consciously breathe faster and deeper, but most of the time automatic mechanisms regulate our breathing. This ensures that the work of the respiratory system is coordinated with that of the cardiovascular system, and with the body's metabolic demands for gas exchange.
+
+Our breathing control centers are located in two regions of the brain, the medulla oblongata and the pons (FIGURE 42.26). Aided by the control center in the pons, the medulla's center sets the basic breathing rhythm. When we take deep breaths, a negative-feedback mechanism prevents our lungs from overexpanding; stretch sensors in the lung tissue send nerve impulses back to the medulla, inhibiting its breathing control center.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-26. Automatic control of breathing.
+
+The medulla's control center monitors the CO2 level of the blood and regulates breathing activity appropriately. Its main cues about CO2 concentration come from slight changes in the pH of the blood and tissue fluid (cerebrospinal fluid) bathing the brain. Carbon dioxide reacts with water to form carbonic acid, which lowers the pH. When the medulla's control center registers a slight drop in pH (increase in CO2) of the cerebrospinal fluid or blood, it increases the depth and rate of breathing, and the excess CO2 is eliminated in exhaled air. This occurs when we exercise.
+
+Oxygen concentrations in the blood usually have little effect on the breathing control centers. However, when the O2 level is severely depressed--at high altitudes, for instance, O2 sensors in the aorta and carotid arteries in the neck send alarm signals to the breathing control centers, which respond by increasing the breathing rate. Normally, a rise in CO2 concentration is a good indication of a fall in O2 concentration, because CO2 is produced by the same process that consumes O2--cellular respiration. However, it is possible to trick the breathing center by hyperventilating. Excessively deep, rapid breathing purges the blood of so much CO2 that the breathing center temporarily ceases to send impulses to the rib muscles and diaphragm. Breathing stops until CO2 levels increase (or O2 levels decrease) enough to switch the breathing center back on.
+
+The breathing center responds to a variety of nervous and chemical signals and adjusts the rate and depth of breathing to meet the changing demands of the body. However, breathing control is only effective if it is coordinated with control of the circulatory system, so that there is a good match between lung ventilation and the amount of blood flowing through alveolar capillaries. During exercise, for instance, increased cardiac output is matched to the increased breathing rate, which enhances O2 uptake and CO2 removal as blood flows through the lungs.
+
+
+
+

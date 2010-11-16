@@ -1,0 +1,508 @@
+;;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base:10; -*-
+;;; $Id$
+;;; Copyright (c) 2006-2007 BBNT Solutions LLC. All Rights Reserved
+
+(in-package :ddm-util)
+
+;;;------------------------------------------------------------
+;;;        nice routines from the lispmachine world
+;;;   (to save us the trouble of converting that part of the
+;;;    code to commonlisp -- bringing the mountain to Mahomed)
+;;;------------------------------------------------------------
+
+(defmacro defsubst (subst-name lambda-list &body body)
+  `(progn (proclaim '(inline ,subst-name))
+	  (defun ,subst-name ,lambda-list ,@body)
+	  ',subst-name))
+
+
+(defmacro then (&body forms) `(progn ,@forms))
+(defmacro else (&body forms) `(progn ,@forms))
+
+(defun d (o)
+  (describe o)
+  o)
+
+
+
+;;; ============================================================================
+;;; Random stuff
+
+(defmacro deff (symbol functional-value)
+  `(setf (symbol-function ',symbol) ,functional-value))
+
+(deff substring #'subseq)
+
+(defun append-list (list1 list2)
+  (append list1 (list list2)))
+
+(defun list-of-symbols? (x)
+  (or (null x)
+      (and (listp x)
+	   (every #'symbolp x))))
+
+(defun make-unbound (symbol)
+  "Just a renaming of MAKUNBOUND, since that's an ugly name."
+  (makunbound symbol))
+
+(defmacro comment (&rest text)
+  (declare (ignore text))
+  :comment)
+
+
+;;; ============================================================================
+;;;  STRING-APPEND
+
+(defun string-append (&rest list-of-strings)
+  (let ( strings )
+    (dolist (s list-of-strings)
+      (push (typecase s
+	      (string s)
+	      (symbol (format nil "~a" (symbol-name s)))
+	      (number (format nil "~a" s))
+	      (pathname
+	       (format nil "~a" (namestring s)))
+	      (otherwise
+	       (break "concat - new type: ~a~%~a"
+		      (type-of s) s)))
+	    strings))
+    (apply #'concatenate 'string (nreverse strings))))
+
+(defun concat (&rest list-of-strings)
+  ;;/// how would we specify the package given that we're
+  ;; using &rest ?
+  (intern (apply #'string-append list-of-strings)))
+
+
+
+;;;  from Lispm
+
+
+(defmacro let-with-dynamic-extent (bindings &body body)
+  `(let ,bindings
+     (declare (special ,@(mapcar #'car bindings)))
+     ,@body))
+
+(defmacro let*-with-dynamic-extent (bindings &body body)
+  `(let* ,bindings
+     (declare (special ,@(mapcar #'car bindings)))
+     ,@body))
+
+(defmacro let-with-dynamic-extent-unless-bound (bindings &body body)
+  (let ((v1 (caar bindings)))
+    `(if (boundp ',v1)
+       ,@body
+       (let ,bindings
+	 (declare (special ,@(mapcar #'car bindings)))
+	 ,@body))))
+
+(defmacro dbind (lambda-list argument &body body)
+  `(apply #'(lambda ,lambda-list . ,body)
+	  ,argument))
+
+
+;;; ============================================================================
+;;; This form temporarily inhibits fdefine warnings--just the right thing when
+;;; you're defining a function that you KNOW will be overriding some earlier
+;;; function, and you don't want the loader or evaluator to complain (the
+;;; compiler never will).
+;;;
+;;; The obvious implementation
+;;
+;; (comment
+;;   (defmacro temporarily-inhibit-fdefine-warnings (form)
+;;     `(let ((ccl:*warn-if-redefine* t))
+;;        (declare (special ccl:*warn-if-redefine*))
+;;        ,form)))
+;;
+;;; doesn't work because the form is not seen to be top-level by the compiler,
+;;; which means that if it's a function definition, it won't get compiled.
+
+(defmacro temporarily-inhibit-fdefine-warnings (&rest forms)
+  (let ((save-variable  (gensym)))
+    `(progn
+       (setq ,save-variable #+ccl ccl:*warn-if-redefine*
+	                    #+allegro excl:*redefinition-warnings*)
+       #+ccl (setq ccl:*warn-if-redefine* t)
+       #+allegro (setq excl:*redefinition-warnings*
+		       nil)
+       ,@forms
+       (setq #+ccl ccl:*warn-if-redefine*
+	      #+allegro excl:*redefinition-warnings*
+	     ,save-variable))))
+
+
+(defmacro until (test retval &body body)
+  `(do ()
+     (,test
+      ,retval)
+     . ,body))
+
+;; from Zeta-Lisp:
+(defmacro cond-every (&body body)
+   "Executes all the clauses of a pseudo-COND that have successful tests.  
+    Emulates the COND-EVERY macro of Zeta LISP"
+   `(let ((cond-every%already-fired nil)
+	  (cond-every%result nil))
+      (ignore cond-every%already-fired cond-every%result)
+      ,@(mapcar #'(lambda (clause)
+		   (let ((test (car clause))
+			 (body (cdr clause)))
+		     `(when ,(if (eq test :always)
+				 't
+				 (if (eq test :otherwise)
+				     '(not cond-every%already-fired)
+				     test))
+			(setq cond-every%already-fired t)
+			(setq cond-every%result (progn . ,body))
+			)))
+	       body)
+      cond-every%result))
+
+
+
+(defmacro push-new (value place)
+  ;; forgot that pushnew is in CL -- and I tend to spell it this
+  ;; way by instinct. Maybe it was spelled that way in MacLisp.
+  `(when (not (member ,value ,place))
+    (push ,value ,place)))
+
+(defun append-new (&rest lists)
+  (let ((output-list (nreverse (copy-list (car lists))))
+	(appended-lists-in-order (cdr lists)))
+    (dolist (sublist appended-lists-in-order)
+      (dolist (item sublist)
+	(push-new item output-list)))
+    (nreverse output-list)))
+
+;;; ============================================================================
+;;; Association lists
+
+;;; This function should be generalized in the direction of the Common-Lisp
+;;; style, with a :test keyword argument giving the predicate for matching the
+;;; key with the association.
+
+(defmacro apush (key value a-list)
+  "A macro which adds a new association to the front of an association-list 
+  [a-list].  Returns the new list.
+   This name is by analogy to  cons =>  push &  pushnew,
+                           so acons => apush & apushnew."
+  `(push (cons ,key ,value) ,a-list))
+
+(defun add-association (key value a-list)
+  "Adds a new association to an association-list (a-list).  If the key is
+   already in the list (the predicate is EQL), then the new value replaces
+   the former value, reusing the old cons cell by (setf (cdr ...) value).
+   Returns the new list, but (as with DELETE and similar functions, will
+   not necessarily be side-effecting.  It's side-effecting when it replaces
+   the old value and non-side-effecting when adding the new association
+   to the front of the list."
+  (let ((association   (assoc key a-list)))
+    (if association
+	(then (setf (cdr association) value)
+	      a-list)
+	(else (acons key value a-list)))))
+
+(defun remove-association (key a-list)
+  "Returns a new a-list with the appropriate associations removed."
+  (remove key a-list :key #'car))
+
+(defun delete-association (key a-list)
+  "Modifies the a-list so that the appropriate associations are deleted.  
+   Returns the modified a-list."
+  (delete key a-list :key #'car))
+
+
+
+(defun assq (item alist)
+  (assoc item alist :test #'eq))
+;; these ought to be substitution macros, but I don't know
+;; if we can do that
+(defun memq (item list)
+  (member item list :test #'eq))
+	
+
+(defun split-list-on-first-keyword (list)
+  (let ( before after-including-keyword ) 
+    (do ((item (car list) (car rest))
+	 (rest (cdr list) (cdr rest)))
+	((null item))
+      (if (keywordp item)
+	(then (setq after-including-keyword (cons item rest))
+	      (return))
+	(push item before)))
+    (values (nreverse before)
+	    after-including-keyword)))
+
+
+(defun gensymbol (symbol) ;;/// add package
+  ;; The braincells are working overtime, but I seem to recall that there
+  ;; was a version of gensym that took a symbol and incf'd (from 0) on
+  ;; that symbol.
+  (let ((entry (assoc symbol *gensym-symbol-alist*)))
+    (if entry
+      (let ((count (incf (cdr entry))))
+	(rplacd entry count)
+	(_gensymbol symbol count))
+      (else
+	(push `(,symbol . 1) *gensym-symbol-alist*)
+	(_gensymbol symbol 1)))))
+
+(defun _gensymbol (symbol count)
+  (intern (string-append (symbol-name symbol) "-" (format nil "~a" count))))
+
+(defparameter *gensym-symbol-alist* nil)
+
+
+
+(defun string->list-of-symbols (string)
+  (let ((start 0)
+	(end (position #\space string))
+	(rest string)
+	symbols  )
+    (if (null end)
+      (intern string)
+      (else
+	(loop
+	   while end
+	   do
+	     (let ((substring (subseq rest start end)))
+	       (push (intern substring)
+		     symbols)
+	       (setq rest (subseq rest (1+ end)))
+	       (setq end (position #\space rest))))
+	(push (intern rest)
+	      symbols)
+	(nreverse symbols)))))
+
+(defun string->Java-style-symbol (string)
+  (let* ((symbols (string->list-of-symbols string))
+	 (capitalized-strings 
+	  (mapcar #'(lambda (symbol)
+		      (string-capitalize (symbol-name symbol)))
+		  symbols)))
+    (apply #'concat capitalized-strings)))
+
+(defun sexp->string (sexp)
+  (with-output-to-string (s)
+    (format s "(")
+    (sexp-to-string1 s sexp)
+    (format s ")")))
+
+(defun sexp-to-string1 (s sexp)
+  (let ((first (car sexp))
+	(rest (cdr sexp)))
+    (when first
+      (etypecase first
+	(symbol (format s "~a " (symbol-name first)))
+	(cons (format s "(")	 
+	      (sexp-to-string1 s first)
+	      (format s ") "))))
+    (when rest
+      (sexp-to-string1 s rest)))) 
+
+
+(defun launder-sexp-symbols-package (sexp new-package)
+  (typecase sexp
+    (symbol 
+     (intern (symbol-name sexp) new-package))
+    (cons
+     (let ((first (launder-sexp-symbols-package (car sexp) new-package))
+	   (rest (launder-sexp-symbols-package (cdr sexp) new-package)))
+       (cons first rest)))
+    (otherwise ;; numbers, structs, class-instances, ...
+     sexp)))
+
+;;; ============================================================================
+;;; FORMAT
+
+;;; This is where the ~\ds\ FORMAT directive comes from.  Someday, need to
+;;; re-write DESCRIBE-DEFSTRUCT so that it takes a stream as an argument.  I
+;;; don't know if binding standard-output will always work--it seems to, so far.
+;;; Actually, this may be obsolete, given that the default way that structures
+;;; print in Common Lisp subsumes the Zetalisp DESCRIBE-DEFSTRUCT.
+;;
+;;#+ lispm
+;(format::defformat format::ds (:one-arg) (argument parameters)
+;	   (ignore parameters)
+;	   (let ((standard-output  format::*format-output*))
+;	     (declare (special standard-output))
+;	     (describe-defstruct argument)))
+
+
+;;; ============================================================================
+;;; TABBED-FORMAT 
+
+(defparameter *tabbed-format-column* 10
+  "The column that TABBED-FORMAT tries to print things beyond.  That is, it
+tries to arrange that everything is tabbed to this column.")
+
+
+(defun tabbed-format (stream format-string &rest format-args)
+  "This is just like FORMAT, except that it tries to tab things over."
+  (apply #'format
+	 stream
+	 (modify-format-string format-string)
+	 format-args))
+
+(defun tilde? (ch)  ;; had been defstubst, but only for +ccl
+  (eql ch #\~))
+
+(defun return-char? (ch) ;; ditto
+  (find ch "%&"))
+
+
+(defun insert-tab (str)
+  (let ((tab-string (if (= *tabbed-format-column* 40)
+			"~40T"
+			(format nil "~~~dT" *tabbed-format-column*))))
+    (dotimes (i (length tab-string))
+      (vector-push (char tab-string i) str))))
+
+
+(defun modify-format-string (old)
+  "Non-destructive modification of the string so that it has `~40T' (or
+   something similar, based on *tabbed-format-column* inserted in the string
+   after each `~n%' and `~n&' and also at the beginning."
+  (let* ((insert   (format nil "~~~dT" *tabbed-format-column*))
+	 (add-len  (* (length insert) (+ 1 (count #\% old) (count #\& old))))
+	 (old-len  (length old))
+	 (new-len  (+ old-len add-len))
+	 (new-str  (make-array new-len
+			       :element-type 'string-char
+			       :fill-pointer 0)))
+    (macrolet ((return-char? (ch)
+		 `(or (eql ,ch #\%) (eql ,ch #\&)))
+	       (tilde? (ch)
+		 `(eql ,ch #\~))
+	       )
+      (insert-tab new-str)
+      (do* ((index           0             (1+ index))
+	    (i               nil                    j)
+	    (j               nil                    k)
+	    (k     (char old index)  (char old index)))
+	   ;; This exit condition will NOT process the last char, and that's OK.
+	   ;; We don't want to leave the cursor in column 40, in case the person
+	   ;; next calls FORMAT and wants things on the left margin.
+	   ((= index (1- old-len))
+	    (vector-push k new-str))
+	(vector-push k new-str)
+	(when (and (return-char? k)
+		   (or (tilde? j)
+		       (and (digit-char-p j)
+			    (tilde? i))))
+	  (insert-tab new-str))))
+    new-str))
+
+
+(defun format-fully-qualified (stream fstring &rest args)
+   "Output FSTRING and ARGS onto STREAM -- all objects formatted with the ~S
+    directive are fully qualified.  (this ought to be an option to ~S)"
+   (let-with-dynamic-extent
+      ((*package* nil))
+      (apply #'format stream fstring args)))
+
+
+
+
+;;; ============================================================================
+;;; ADD1 and SUB1 -- I think these are sometimes easier to read than 1+ and 1-,
+;;; especially the latter.
+
+(defun add1 (number) "Synonym for 1+" (1+ number)) ;; had been defsubst's
+(defun sub1 (number) "Synonym for 1-" (1- number))
+
+
+;;; ============================================================================
+;;; NEWLINE -- a much better name than TERPRI
+
+(deff newline #'terpri)
+
+
+;;; ============================================================================
+;;; BOOLEAN type and BOOLEAN?
+
+;; code preceeds ansii which includes this now
+;(deftype boolean () `(member t nil))
+;(export 'boolean)
+
+(defun boolean? (x)  ;; had been defsubst
+  (typep x 'boolean))
+
+
+
+;;; ============================================================================
+;;; LIST-HASH-TABLE
+
+(defun list-hash-table (ht &optional (keys-and-values? t))
+  "Returns the contents of a hashtable as a list.  If the optional argument
+   is true (the default), it returns an association list of keys and values.
+   If false, it just returns a list of the values."
+  (check-type keys-and-values? boolean)
+  (let ((elements  ()))
+    (flet ((collect-both  (key value)
+	     (push (cons key value) elements))
+	   
+	   (collect-value (key value)
+	     (declare (ignore key))
+	     (push value elements))
+	   )
+      (if keys-and-values?
+	  (maphash #'collect-both ht)
+	  (maphash #'collect-value ht)))
+    elements))
+
+
+;;; ==========================================================================
+;;; MBUG and MBREAK
+
+(defmacro mbug (format-string &rest arguments)
+  `(cerror " "
+	   ,format-string ,@arguments) )
+
+(defmacro mbreak (format-string &rest arguments)
+  `(break ,format-string ,@arguments))
+
+
+(defun sorry (string)
+  (break "~a" string))
+
+    
+;;;=========================== exports ===========================
+
+(eval-when (:execute :load-toplevel :compile-toplevel)
+ (export '(defsubst
+	  then else
+	  d
+	  deff
+	  substring ;; == subseq
+	  append-list
+	  list-of-symbols?
+	  make-unbound
+	  dbind
+	  comment
+	  string-append concat
+	  let-with-dynamic-extent let-with-dynamic-extent-unless-bound
+	  let*-with-dynamic-extent
+	  temporarily-inhibit-fdefine-warnings
+	  until
+	  cond-every
+	  push-new append-new
+	  apush add-association remove-association delete-association
+	  assq memq
+	  split-list-on-first-keyword
+	  gensymbol
+	  string->list-of-symbols string->Java-style-symbol
+	  sexp->string
+	  launder-sexp-symbols-package
+	  *tabbed-format-column* tabbed-format modify-format-string
+	  tilde? return-char? insert-tab
+	  format-fully-qualified-string
+	  add1 sub1
+	  newline
+	  boolean?
+	  list-hash-table
+	  mbug mbreak sorry)
+	(find-package :ddm-util))
+)
+

@@ -1,0 +1,55 @@
+9
+
+dir
+357
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Mumble/interface/bundles/applications
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+INTERFACE-UTILITIES.LISP
+file
+
+
+
+
+1995-02-16T23:30:12.000000Z
+e9b4e4ea23df2d74e5b4b99f9161618c
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+object-to-spec-table.lisp
+file
+
+
+
+
+1995-02-16T23:42:13.000000Z
+c85ad59ebd9f9e156a71faa00c84f00c
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+INSTANTIATING-SPECS.LISP
+file
+
+
+
+
+1995-05-31T20:32:28.000000Z
+3a4fbf998de15634e0078269271b3006
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+

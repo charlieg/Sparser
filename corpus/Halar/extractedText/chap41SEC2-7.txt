@@ -1,0 +1,44 @@
+
+ Digestion occurs in specialized compartments
+
+How do animals apply their digestive processes to food without digesting their own cells and tissues? After all, digestive enzymes hydrolyze the same biological materials (such as proteins, lipids, and carbohydrates) that animals are made of, and it is obviously important to avoid digesting oneself! Most animals reduce the risk of self-digestion by processing food in specialized compartments.
+
+Intracellular Digestion
+
+Food vacuoles--organelles in which hydrolytic enzymes break down food without digesting the cell's own cytoplasm--are the simplest digestive compartments. Heterotrophic protists digest their meals in food vacuoles, usually after engulfing food by phagocytosis or pinocytosis (see FIGURE 8.19a). Newly formed food vacuoles fuse with lysosomes, which are organelles containing hydrolytic enzymes. This mixes the food with the enzymes, allowing digestion to occur safely within a compartment that is enclosed by a protective membrane. This is termed intracellular digestion (FIGURE 41.10). Sponges are unusual among animals in that they digest their food entirely by the intracellular mechanism, as do heterotrophic protists (which are not animals) (see FIGURE 33.3).
+
+
+
+Click image to enlarge
+
+
+
+Fig 41-10. Intracellular digestion in Paramecium.
+
+Extracellular Digestion
+
+In most animals, at least some hydrolysis occurs by extracellular digestion, the breakdown of food outside cells. Extracellular digestion occurs within compartments that are continuous with the outside of the animal's body. Having an extracellular cavity for digestion enables an animal to devour much larger prey than can be ingested by phagocytosis and digested intracellularly.
+
+Many animals with simple body plans have digestive sacs with single openings. These pouches, called gastrovascular cavities, function in both digestion and distribution of nutrients throughout the body (hence, the vascular part of the term). The cnidarians called hydras provide a good example of how a gastrovascular cavity works. Hydras are carnivores that sting prey with specialized organelles called nematocysts and then use tentacles to stuff the food through the mouth into the gastrovascular cavity (FIGURE 41.11). With food in the cavity, specialized cells of the gastrodermis, the tissue layer that lines the cavity, secrete digestive enzymes that break the soft tissues of the prey into tiny pieces. Gastrodermal cells then engulf the food particles, and most of the actual hydrolysis of macromolecules occurs intracellularly, as in Paramecium and sponges. After a hydra has digested its meal, undigested materials remaining in the gastrovascular cavity, such as the exoskeletons of small crustaceans, are eliminated through the single opening, which functions in the dual role of mouth and anus. Many flatworms also have a gastrovascular cavity with a single opening (see FIGURE 33.10).
+
+
+
+Click image to enlarge
+
+
+
+Fig 41-11. Extracellular digestion in a gastrovascular cavity. The outer epidermis of the cnidarian hydra has protective and sensory functions, whereas the inner gastrodermis is specialized for digestion. Digestion begins in the gastrovascular cavity and is completed intracellularly after small food particles are engulfed by the gastrodermal cells.
+
+In contrast to cnidarians and flatworms, most animals--including nematodes, annelids, mollusks, arthropods, echinoderms, and chordates--have digestive tubes extending between two openings, a mouth and an anus. These tubes are called complete digestive tracts or alimentary canals. Because food moves along the canal in one direction, the tube can be organized into specialized regions that carry out digestion and nutrient absorption in a stepwise fashion (FIGURE 41.12). Food ingested through the mouth and pharynx passes through an esophagus that leads to a crop, gizzard, or stomach, depending on the species. Crops and stomachs usually serve as food storage organs (although some digestion may occur there), whereas gizzards grind and fragment food. The food next enters the intestine, where digestive enzymes hydrolyze the food molecules, and nutrients are absorbed across the lining of the tube into the blood. Undigested wastes are eliminated through the anus. Another advantage of a complete digestive tract is the ability to ingest additional food before earlier meals are completely digested--which may be difficult or inefficient for animals with gastrovascular cavities.
+
+
+
+Click image to enlarge
+
+
+
+Fig 41-12. Alimentary canals.
+
+
+
+

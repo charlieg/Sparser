@@ -1,0 +1,48 @@
+
+ Membranes are mosaics of structure and function
+
+Now we come to the word mosaic. A membrane is a collage of different proteins embedded in the fluid matrix of the lipid bilayer (FIGURE 8.6). The lipid bilayer is the main fabric of the membrane, but proteins determine most of the membrane's specific functions. The plasma membrane and the membranes of the various organelles each have unique collections of proteins. More than 50 kinds of proteins have been found so far in the plasma membrane of red blood cells, for example.
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-6. The detailed structure of an animal cell's plasma membrane, in cross section. See FIGURE 7.29 for details of the ECM.
+
+Notice in FIGURE 8.6 that there are two major populations of membrane proteins. Integral proteins penetrate the hydrophobic core of the lipid bilayer. Many are transmembrane proteins, which completely span the membrane. The hydrophobic regions of an integral protein consist of one or more stretches of nonpolar amino acids (see FIGURE 5.15), usually coiled into a helices (FIGURE 8.7). The hydrophilic parts of the molecule are exposed to the aqueous solutions on either side of the membrane. Peripheral proteins are not embedded in the lipid bilayer at all; they are appendages loosely bound to the surface of the membrane, often to the exposed parts of integral proteins (see FIGURE 8.6).
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-7. The structure of a transmembrane protein. This ribbon model highlights the a-helical secondary structure of the hydrophobic parts of the protein, which lie mostly within the hydrophobic core of the membrane. This particular protein, bacteriorhodopsin, has seven transmembrane helices (outlined with cylinders for emphasis). The nonhelical hydrophilic segments of the protein are in contact with the aqueous solutions on either side of the membrane. Bacteriorhodopsin is a specialized transport protein found in certain bacteria.
+
+On the cytoplasmic side of the plasma membrane, some membrane proteins are held in place by attachment to the cytoskeleton. And on the exterior side, certain membrane proteins are attached to fibers of the extracellular matrix (see FIGURE 7.29; integrins are one particular type of integral protein). These attachments combine to give animal cells a stronger external framework than the plasma membrane itself could provide.
+
+Membranes have distinct inside and outside faces. The two lipid layers may differ in specific lipid composition, and each protein has directional orientation in the membrane. The plasma membrane also has carbohydrates, which are restricted to the exterior surface. This asymmetrical distribution of proteins, lipids, and carbohydrates is determined as the membrane is being built by the endoplasmic reticulum. Molecules that start out on the inside face of the ER end up on the outside face of the plasma membrane (FIGURE 8.8).
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-8. Sidedness of the plasma membrane. The plasma membrane has distinct cytoplasmic and extracellular sides, or faces. The extracellular face is topologically equivalent to the inside face of ER, Golgi, and vesicle membranes. Vesicle fusion with the plasma membrane is responsible for enlarging the membrane and for secretion of cell products (purple). Carbohydrates on the extracellular surface (green) are synthesized in the ER and modified in the Golgi.
+
+FIGURE 8.9 (p. 144) gives an overview of six major functions exhibited by proteins of the plasma membrane. A single cell may have membrane proteins performing several of these functions, and a single protein may have multiple functions. Thus, the membrane is a functional mosaic as well as a structural one.
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-9. Some functions of membrane proteins. In many cases, a single protein performs some combination of these tasks.
+
+
+
+

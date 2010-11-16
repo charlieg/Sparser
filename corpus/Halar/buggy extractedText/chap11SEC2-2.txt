@@ -1,0 +1,34 @@
+
+ Communicating cells may be close together or far apart
+
+Like microbes, cells in a multicellular organism usually communicate by releasing chemical messengers targeted for cells that may not be immediately adjacent. Some messengers travel only short distances: The transmitting cell secretes molecules of a local regulator, a substance that influences cells in the vicinity (FIGURE 11.3a). One class of local regulators in animals, growth factors, are compounds that stimulate nearby target cells to grow and multiply. Numerous cells can simultaneously receive and respond to the molecules of growth factor produced by a single cell in their vicinity. This type of local signaling in animals is called paracrine signaling.
+
+
+
+Click image to enlarge
+
+
+
+Fig 11-3. Local and long-distance cell communication in animals. In both local and long-distance signaling, only specific target cells recognize and respond to a given chemical signal.
+
+Another, more specialized type of local signaling occurs in the animal nervous system. Here a nerve cell produces a chemical signal, a neurotransmitter, that diffuses to a single target cell that is almost touching the first cell. An electrical signal transmitted the length of the nerve cell triggers the secretion of neurotransmitter molecules into the synapse, the narrow space between the nerve cell and its target cell (often another nerve cell). Because specific nerve cells are so close together at synapses, a nerve signal can travel along a series of nerve cells from your brain to your big toe, for example, without causing unwanted responses in other parts of your body.
+
+Local signaling in plants is not as well understood. Because of their cell walls, plants must use mechanisms different from those operating locally in animals.
+
+Both animals and plants use chemicals called hormones for signaling at greater distances. In hormonal signaling in animals, also known as endocrine signaling, specialized cells release hormone molecules into vessels of the circulatory system, by which they travel to target cells in other parts of the body (FIGURE 11.3b). In plants, hormones sometimes travel in vessels but more often reach their targets by moving through cells (see FIGURE 39.6) or by diffusion through the air as a gas. Hormones range widely in molecular size and type, as do local regulators. For instance, the plant hormone ethylene, a gas that promotes fruit ripening and helps regulate growth, is a hydrocarbon of only six atoms (C2H4). In contrast, the mammalian hormone insulin, which regulates sugar levels in the blood, is a protein with thousands of atoms.
+
+Cells may also communicate by direct contact, as we saw in Chapters 7 and 8. Both animals and plants have cell junctions that, where present, directly connect the cytoplasms of adjacent cells (FIGURE 11.4a on p. 200). In these cases, signaling substances dissolved in the cytosol can pass freely between adjacent cells. Moreover, animal cells may communicate via direct contact between molecules on their surfaces (FIGURE 11.4b on p. 200). This sort of signaling is important in embryonic development and in the operation of the immune system.
+
+
+
+Click image to enlarge
+
+
+
+Fig 11-4. Communication by direct contact between cells.
+
+What happens when a cell encounters a signal? The signal must be recognized by a specific receptor molecule, and the information it carries must be changed into another form--transduced--inside the cell before the cell can respond. The remainder of the chapter discusses this process, primarily as it occurs in animal cells.
+
+
+
+

@@ -1,0 +1,20 @@
+
+ Signal peptides target some eukaryotic polypeptides to specific destinations in the cell
+
+In electron micrographs of eukaryotic cells active in protein synthesis, two populations of ribosomes (and polyribosomes) are evident: free and bound (see FIGURE 7.10). Free ribosomes are suspended in the cytosol and mostly synthesize proteins that dissolve in the cytosol and function there. In contrast, bound ribosomes are attached to the cytosolic side of the endoplasmic reticulum (ER). They make proteins of the endomembrane system (the nuclear envelope, ER, Golgi apparatus, lysosomes, vacuoles, and plasma membrane) as well as proteins secreted from the cell. Insulin is an example of a secretory protein. The ribosomes themselves are identical and can switch their status from free to bound.
+
+What determines whether a ribosome will be free in the cytosol or bound to rough ER at any particular time? The synthesis of all proteins begins in the cytosol, when a free ribosome starts to translate an mRNA molecule. There the process continues to completion--unless the growing polypeptide itself cues the ribosome to attach to the ER. The polypeptides of proteins destined for the endomembrane system or for secretion are marked by a signal peptide, which targets the protein to the ER (FIGURE 17.21). The signal peptide, a sequence of about 20 amino acids at or near the leading (amino) end of the polypeptide, is recognized as it emerges from the ribosome by a protein-RNA complex called a signal-recognition particle (SRP). This particle functions as an adapter that brings the ribosome to a receptor protein built into the ER membrane. This receptor is part of a multiprotein complex. Polypeptide synthesis continues there, and the growing polypeptide snakes across the membrane into the cisternal space via a protein pore. The signal peptide is usually removed by an enzyme. The rest of the completed polypeptide, if it is to be a secretory protein, is released into solution within the cisternal space (as in FIGURE 17.21). Alternatively, if the polypeptide is to be a membrane protein, it remains partially embedded in the ER membrane.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-21. The signal mechanism for targeting proteins to the ER. A polypeptide destined for the endomembrane system or for secretion from the cell begins with a signal peptide, a series of amino acids that targets it for the ER. This figure shows the synthesis of a secretory protein and its simultaneous import into the ER. In the ER and then in the Golgi, the protein is further processed. Finally, a transport vesicle conveys it to the plasma membrane for release from the cell (see FIGURE 8.8).
+
+Other kinds of signal peptides are used to target polypeptides to mitochondria, chloroplasts, the interior of the nucleus, and other organelles that are not part of the endomembrane system. The critical difference in these cases is that translation is completed in the cytosol before the polypeptide is imported into the organelle. The mechanisms of translocation also vary, but in all cases studied to date, the "postal" codes that address proteins to cellular locations are signal peptides of some sort.
+
+
+
+

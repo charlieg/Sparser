@@ -1,0 +1,139 @@
+
+ A protein's function depends on its specific conformation
+
+The term polypeptide is not quite synonymous with protein. The relationship is somewhat analogous to that between a long strand of yarn and a sweater of particular size and shape that one can knit from the yarn. A functional protein is not just a polypeptide chain, but one or more polypeptides precisely twisted, folded, and coiled into a molecule of unique shape (FIGURE 5.17). It is the amino acid sequence of a polypeptide that determines what three-dimensional conformation the protein will take. Many proteins are globular (roughly spherical), while others are fibrous in shape. However, within these broad categories, countless variations are possible.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-17. Conformation of a protein, the enzyme lysozyme. Present in our sweat, tears, and saliva, lysozyme is an enzyme that helps prevent infection by binding to and destroying specific molecules on the surface of many kinds of bacteria. The groove is the part of the protein that recognizes and binds to the target molecules on bacterial walls. (In the ribbon model, the yellow lines represent one type of chemical bond that stabilizes the protein's shape.)
+
+A protein's specific conformation determines how it works. In almost every case, the function of a protein depends on its ability to recognize and bind to some other molecule. For instance, an antibody binds to a particular foreign substance that has invaded the body, and an enzyme recognizes and binds to its substrate, the substance the enzyme works on. In Chapter 2, you learned that one nerve cell in the brain signals another by dispatching specific molecules that have a unique shape. The receptor molecules on the surface of the receiving cell are proteins that fit the signal molecules something like a lock and key (see FIGURE 2.18).
+
+Four Levels of Protein Structure
+
+When a cell synthesizes a polypeptide, the chain generally folds spontaneously to assume the functional conformation for that protein. This folding is driven and reinforced by the formation of a variety of bonds between parts of the chain. Thus, the function of a protein--the ability of a receptor protein to identify and associate with a particular chemical messenger, for instance--is an emergent property resulting from exquisite molecular order. In the complex architecture of a protein, we can recognize three superimposed levels of structure, known as primary, secondary, and tertiary structure. A fourth level, quaternary structure, arises when a protein consists of two or more polypeptide chains.
+
+Primary Structure. The primary structure of a protein is its unique sequence of amino acids. As an example, we will examine the primary structure of lysozyme, the antibacterial enzyme illustrated in its three-dimensional form in FIGURE 5.17. Lysozyme is a relatively small protein, its single polypeptide chain only 129 amino acids long. In FIGURE 5.18, the polypeptide chain is unraveled for a closer look at its primary structure. A specific one of the 20 amino acids occupies each of the 129 positions along the chain. The primary structure is like the order of letters in a very long word. If left to chance, there would be 20129 different ways of arranging amino acids into a polypeptide chain of this length. However, the precise primary structure of a protein is determined not by the random linking of amino acids, but by inherited genetic information.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-18. The primary structure of a protein. This is the unique amino acid sequence, or primary structure, of the enzyme lysozyme. The names of the amino acids are given as their three-letter abbreviations. The chain was drawn in this serpentine fashion to make the entire sequence readily visible. The actual shape of lysozyme is shown in FIGURE 5.17.
+
+Even a slight change in primary structure can affect a protein's conformation and ability to function. For instance, the substitution of one amino acid for another at a particular position in the primary structure of hemoglobin, the protein that carries oxygen in red blood cells, causes sickle-cell disease, an inherited blood disorder. Normal red blood cells are disk-shaped, but in sickle-cell disease, the abnormal hemoglobin molecules tend to crystallize, deforming some of the cells into a sickle shape (FIGURE 5.19). The life of someone with the disease is punctuated by "sickle-cell crises," which occur when the angular cells clog tiny blood vessels, impeding blood flow.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-19. A single amino acid substitution in a protein causes sickle-cell disease.
+
+The pioneer in determining the primary structure of proteins was Frederick Sanger, who, with his colleagues at Cambridge University in England, worked out the amino acid sequence of the hormone insulin in the late 1940s and early 1950s. His approach was to use protein-digesting enzymes and other catalysts that break polypeptides at specific places rather than completely hydrolyzing the chains. Treatment with one of these agents cleaves a polypeptide into fragments that can be separated by a technique called chromatography. Hydrolysis with another agent breaks the polypeptide at different sites, yielding a second group of fragments. Sanger used chemical methods to determine the sequence of amino acids in these small fragments. Then he searched for overlapping regions among the pieces obtained by hydrolyzing with the different agents. Consider, for instance, two fragments with the following sequences:
+We can deduce from the overlapping regions that the intact polypeptide contains in its primary structure the following segment:
+
+Just as we could reconstruct this sentence from a collection of fragments with overlapping sequences of letters, Sanger and his co-workers were able, after years of effort, to reconstruct the complete primary structure of insulin. Since then, most of the steps involved in sequencing a polypeptide have been automated. However, it was Sanger's analysis of insulin that first demonstrated what is now a fundamental axiom of molecular biology: A protein has a unique primary structure, a precise sequence of amino acids.
+
+Secondary Structure. Most proteins have segments of their polypeptide chain repeatedly coiled or folded in patterns that contribute to the protein's overall conformation. These coils and folds, collectively referred to as secondary structure, are the result of hydrogen bonds at regular intervals along the polypeptide backbone (FIGURE 5.20). Only the atoms of the backbone are involved, not the amino acid side chains. Both the oxygen and the nitrogen atoms of the backbone are electronegative, with partial negative charges (see Chapter 2). The weakly positive hydrogen atom attached to the nitrogen atom has an affinity for the oxygen atom of a nearby peptide bond. Individually, these hydrogen bonds are weak, but because they are repeated many times over a relatively long region of the polypeptide chain, they can support a particular shape for that part of the protein. One such secondary structure is the a helix, a delicate coil held together by hydrogen bonding between every fourth amino acid. The regions of a helix in the enzyme lysozyme are evident in FIGURE 5.20, where one a helix is enlarged to show the hydrogen bonds. Lysozyme is fairly typical of a globular protein in that it has a few stretches of a helix separated by nonhelical regions. In contrast, some fibrous proteins, such as a-keratin, the structural protein of hair, have the a-helix formation over most of their length.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-20. The secondary structure of a protein. Two types of secondary structure, the a helix and the b pleated sheet, can both be found in the protein lysozyme. Both patterns depend on hydrogen bonding between * groups along the polypeptide backbone. The R groups of the amino acids are omitted in these diagrams, as are the hydrogen atoms not involved in hydrogen bonding.
+
+The other main type of secondary structure is the b pleated sheet, in which two or more regions of the polypeptide chain lie parallel to each other. Hydrogen bonds between the parts of the backbone in the parallel regions hold the structure together. Pleated sheets make up the core of many globular proteins, and we can see one such region in lysozyme in FIGURE 5.20. Also, pleated sheets dominate some fibrous proteins, including the silk produced by many insects and spiders (FIGURE 5.21). The silk protein of a spider's web contains many regions of b pleated sheet. The teamwork of so many hydrogen bonds makes each silk fiber stronger than steel.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-21. Spider silk: a structural protein. The silk protein owes its strength and resilience largely to its secondary structure: It contains many regions of b pleated sheets. When an insect is unfortunate enough to fly into the web, the silk fibers first uncoil and stretch, absorbing the shock, and then rewind, trapping the prey.
+
+Tertiary Structure. Superimposed on the patterns of secondary structure is a protein's tertiary structure, consisting of irregular contortions from interactions between side chains (R groups) of the various amino acids (FIGURE 5.22). One of the types of interaction that contributes to tertiary structure is--somewhat misleadingly--called a hydrophobic interaction. As a polypeptide folds into its functional conformation, amino acids with hydrophobic (nonpolar) side chains usually end up in clusters at the core of the protein, out of contact with water. Thus, what we call a hydrophobic interaction is actually caused by the action of water molecules, which exclude nonpolar substances as they hydrogen-bond to one another and to hydrophilic parts of the protein. Once nonpolar amino acid side chains are close together, van der Waals interactions help hold them together. Meanwhile, hydrogen bonds between polar side chains and ionic bonds between positively and negatively charged side chains also help stabilize tertiary structure. These are all weak interactions, but their cumulative effect helps give the protein a specific shape.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-22. Examples of interactions contributing to the tertiary structure of a protein. Hydrophobic side chains usually end up in the interior of a protein, away from water. Along with this clustering of hydrophobic groups, misleadingly called hydrophobic interactions, hydrogen bonds, ionic bonds, and van der Waals interactions are all weak interactions (weak bonds) between side chains that collectively hold the protein in a specific conformation. Much stronger are the disulfide bridges, covalent bonds between the side chains of two cysteine amino acids. This diagram shows only one small part of a hypothetical protein.
+
+The conformation of a protein may be reinforced further by strong, covalent bonds called disulfide bridges. Disulfide bridges form where two cysteine monomers, amino acids with sulfhydryl groups (--SH) on their side chains, are brought close together by the folding of the protein. The sulfur of one cysteine bonds to the sulfur of the second, and the disulfide bridge (--S--S--) rivets parts of the protein together. (The yellow lines in FIGURES 5.17 and 5.20 represent disulfide bridges.) All of these different kinds of bonds can occur in one protein, as shown diagramatically in FIGURE 5.22.
+
+Quaternary Structure. As mentioned previously, some proteins consist of two or more polypeptide chains aggregated into one functional macromolecule. Quaternary structure is the overall protein structure that results from the aggregation of these polypeptide subunits. For example, collagen is a fibrous protein that has helical subunits supercoiled into a larger triple helix (FIGURE 5.23a). This supercoiled organization of collagen, which is similar to the construction of a rope, gives the long fibers great strength. This suits collagen fibers to their function as the girders of connective tissue in skin, bone, tendons, ligaments, and other body parts. Hemoglobin, the oxygen-binding protein of red blood cells, is an example of a globular protein with quaternary structure (FIGURE 5.23b). It consists of two kinds of polypeptide chains, with two of each kind per hemoglobin molecule.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-23. The quaternary structure of proteins. At this level of structure, two or more polypeptide subunits associate to form a functional protein. (a) Collagen is a fibrous protein consisting of three helical polypeptides that are supercoiled to form a ropelike structure of great strength. Accounting for 40%  of the protein in the human body, collagen strengthens connective tissue throughout the body. (b) Hemoglobin is a globular protein with four polypeptide subunits, two of one kind (a chains) and two of another kind (b chains). Both a and b subunits consist primarily of a-helical secondary structure, represented by the thicker cylindrical sections of the polypeptides in this model. (Each subunit has a nonpolypeptide component, called heme, with an iron atom that binds oxygen.)
+
+We have taken the reductionist approach in dissecting proteins to their four levels of structural organization. However, it is the overall product, a macromolecule with a unique shape, that works in a cell. The specific function of a protein is an emergent property that arises from the architecture of the molecule. FIGURE 5.24 reviews the levels of protein structure.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-24. Review: the four levels of protein structure. You can identify the structural levels in these diagrams of transthyretin, a blood protein that transports certain hormones and vitamins. Transthyretin consists of four identical polypeptide subunits.
+
+What Determines Protein Conformation?
+
+You've learned that unique conformation endows each protein with a specific function, but what are the key factors determining conformation? You already know most of the answer: A polypeptide chain of a given amino acid sequence can spontaneously arrange itself into a three-dimensional shape determined and maintained by the interactions responsible for secondary and tertiary structure. This normally occurs as the protein is being synthesized within the cell. However, protein conformation also depends on the physical and chemical conditions of the protein's environment. If the pH, salt concentration, temperature, or other aspects of its environment are altered, the protein may unravel and lose its native conformation, a change called denaturation (FIGURE 5.25). Because it is misshapen, the denatured protein is biologically inactive. Most proteins become denatured if they are transferred from an aqueous environment to an organic solvent, such as ether or chloroform; the protein turns inside out, its hydrophobic regions changing places with its hydrophilic portions. Other denaturation agents include chemicals that disrupt the hydrogen bonds, ionic bonds, and disulfide bridges that maintain a protein's shape. Denaturation can also result from excessive heat, which agitates the polypeptide chain enough to overpower the weak interactions that stabilize conformation. The white of an egg becomes opaque during cooking because the denatured proteins are insoluble and solidify.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-25. Denaturation and renaturation of a protein. High temperatures or various chemical treatments will denature a protein, causing it to lose its conformation and hence its ability to function. If the denatured protein remains dissolved, it can often renature when the chemical and physical aspects of its environment are restored to normal.
+
+When a protein in a test-tube solution has been denatured by heat or chemicals, it will often return to its functional shape when the denaturing agent is removed. We can conclude that the information for building specific shape is intrinsic in the protein's primary structure. The sequence of amino acids determines conformation--where an a helix can form, where b pleated sheets can occur, where disulfide bridges are located, where ionic bonds can form, and so on. However, in the crowded environment inside a cell, correct folding may be more of a problem than it is in a test tube.
+
+The Protein-Folding Problem
+
+Biochemists now know the amino acid sequences of more than 100,000 proteins and the three-dimensional shapes of about 10,000. One would think that by correlating the primary structures of many proteins with their conformations, it would be relatively easy to discover the rules of protein folding. Unfortunately, the protein-folding problem is not that simple. Most proteins probably go through several intermediate states on their way to a stable conformation, and looking at the "mature" conformation does not reveal the stages of folding that are required to achieve that form. However, biochemists have developed methods for tracking a protein through its intermediate stages of folding. Researchers have also discovered chaperonins (also called chaperone proteins), protein molecules that assist the proper folding of other proteins. Chaperonins do not actually specify the correct final structure of a polypeptide. Instead they work by keeping the new polypeptide segregated from "bad influences" in the cytoplasmic environment while it folds spontaneously. One well-studied chaperonin, from the bacterium E. coli, is a giant multiprotein complex shaped like a hollow cylinder. The cavity provides a shelter for folding polypeptides of various types (FIGURE 5.26).
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-26. A chaperonin in action. The computer graphic shows a large chaperonin protein "complex" with an interior space that provides a shelter for the proper folding of newly made polypeptides. The complex consists of two proteins, with a total of 21 polypeptide subunits and a mass of almost 900,000 daltons! One protein is a hollow cylinder; the other is a cap that can fit on either end.
+
+Beyond the reach of today's computers, the simulation of protein folding is the goal of a five-year project at the IBM Corporation. Scientists at IBM aim to develop an extraordinarily powerful supercomputer, to be called Blue Gene, able to generate the three-dimensional structure of any protein starting from its amino acid sequence (or from the gene sequence that encodes the amino acid sequence). Among the practical benefits of this project may be the discovery of protein-folding principles that can be used to design custom proteins for medical and other uses.
+
+Determining the Structure of a Protein
+
+Even when scientists have an actual protein in hand, determining its exact three-dimensional structure is not simple, for a single protein molecule is built of thousands of atoms. FIGURE 5.27 describes X-ray crystallography, the main method used for the task. X-ray crystallography depends on the diffraction (deflection) of an X-ray beam by the individual atoms in a crystal of the protein. After the spatial coordinates of the atoms are determined in this way, a model of the protein is built. Linus Pauling and other pioneers of molecular biology built models from wood, wire, and plastic model sets. Computers have made it possible to build models much more quickly.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-27. X-ray crystallography. This series of illustrations (from the Department of Biochemistry at the University of California, Riverside) shows how scientists determine the three-dimensional structure of a protein using X-ray crystallography. The protein here is an enzyme called ribonuclease, whose function involves binding to a nucleic acid molecule. Before X-ray crystallography can be carried out, the protein must be crystallized, in this case in combination with a short strand of nucleic acid. Computer analysis of the results of X-ray crystallography result in a map of all the atoms of the molecules in three-dimensional space. Finally, the scientists use other computer software to generate a three-dimensional model of the enzyme and nucleic acid.
+
+
+
+

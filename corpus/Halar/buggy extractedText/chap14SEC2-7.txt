@@ -1,0 +1,22 @@
+
+ Pedigree analysis reveals Mendelian patterns in human inheritance
+
+Unable to manipulate the mating patterns of people, geneticists must analyze the results of matings that have already occurred. As much information as possible is collected about a family's history for a particular trait, and this information is assembled into a family tree describing the interrelationships of parents and children across the generations--the family pedigree. A simple example of a pedigree appears in FIGURE 14.14a, which traces the occurrence of widow's peak (a pointed contour of the hairline on the forehead). The trait is due to a dominant allele, which we symbolize as W.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-14. Pedigree analysis. In these family trees, squares symbolize males and circles represent females. A horizontal line connecting a male and female (--) indicates a mating, with offspring listed below in their order of birth, from left to right. Shaded symbols stand for individuals with the trait being traced.
+
+We know that all individuals in this family who lack a widow's peak are homozygous recessive, and thus we can fill in their genotypes on the pedigree (ww). We also know that both grandparents with widow's peaks are heterozygous (Ww); if they were homozygous dominant (WW), then all of their offspring would have widow's peaks. The offspring in this second generation who do have widow's peaks must also be heterozygous, because they are the products of Ww&#160;X&#160;ww matings. The third generation in this pedigree consists of two sisters. The one who has a widow's peak could be either homozygous (WW) or heterozygous (Ww), given what we know about the genotypes of her parents (both Ww).
+
+FIGURE 14.14b is a pedigree of the same family, but this time we focus on a recessive trait, attached earlobes. We'll use f for the recessive allele and F for the dominant allele, which results in free earlobes. As you work your way through the pedigree, notice once again that you can apply what you have learned about Mendelian inheritance to fill in the genotypes for most individuals. (As you may have already guessed, the ears shown in FIGURE 14.14b do not actually belong to the women shown in FIGURE 14.14a. However, their earlobes would resemble those in the photographs.)
+
+A pedigree not only helps us understand the past; it also helps us predict the future. Suppose that the couple represented in the second generation of FIGURE 14.14 decide to have one more child. What is the probability that the child will have a widow's peak? This is a Mendelian F1 cross (Ww&#160;X&#160;Ww), and thus the probability that a child will exhibit the dominant phenotype (widow's peak) is 3/4. What is the probability that the child will have attached earlobes? Again, we can treat this as a monohybrid cross (Ff&#160;X&#160;Ff), but this time we want to know the chance that the offspring will be homozygous recessive. The probability is 1/4. What is the chance that the child will have a widow's peak and attached earlobes? If the two pairs of alleles assort independently in this dihybrid problem (WwFf&#160;X&#160;WwFf), then we can use the rule of multiplication: 3/4 (chance of widow's peak) &#160;X&#160; 1/4 (chance of attached earlobes) = 3/16 (chance of widow's peak and attached earlobes).
+
+
+
+

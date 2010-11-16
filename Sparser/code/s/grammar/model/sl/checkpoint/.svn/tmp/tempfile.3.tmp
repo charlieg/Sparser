@@ -1,0 +1,127 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER COMMON-LISP) -*-
+;;; Copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
+;;; $Id:$
+
+;;;    File: "rules"
+;;;  Module: "grammar/model/sl/checkpoint/
+;;; version: June 2009
+
+;; Initiated 4/28/09. Elaborated through 6/25/09
+
+(in-package :sparser)
+
+;;--- simple locations based on all np's being labeled 'individual'
+
+(def-cfr location (spatial-orientation ;; a preposition
+		   individual)
+  :form pp
+  :referent (:instantiate-individual relative-location
+	     :with (functor left-edge
+		    place right-edge)))
+
+;; for handling "back in the car" etc.
+(def-cfr location (direction location)
+  :form pp
+  :referent (:instantiate-individual relative-location
+	     :with (functor left-edge
+		    place right-edge)))
+
+;;--- swallowing location adjuncts 
+
+(def-cfr event (event location) 
+  :form vp
+  :referent (:head left-edge
+             :bind (location . right-edge)))
+
+(def-cfr event (event relative-location) 
+  :form vp
+  :referent (:head left-edge
+             :bind (location . right-edge)))
+
+(def-cfr event (event deictic-location) ;; here, there
+  :form vp
+  :referent (:head left-edge
+             :bind (location . right-edge)))
+
+
+
+
+;;--- throwing away anticipated subjects ("you")
+  
+(def-form-rule (pronoun/second verb)
+  :form s
+  :new-category event
+  :referent (:daughter right-edge))
+
+(def-form-rule (pronoun/second vg)
+  :form s
+  :new-category event
+  :referent (:daughter right-edge))
+
+(def-cfr event (pronoun/second event)
+  :form s
+  :referent (:daughter right-edge))
+
+
+;;--- Reframing "me" as in "come with me"
+
+<<<<<<< .mine
+;(def-csr pronoun/first/singular individual
+;  :left-context vg
+;  :form np)
+;; When run on "come with me" dies in ref/binding because the right-referent is nil
+=======
+;;--- allows for "come with me" etc.
+>>>>>>> .r215
+
+<<<<<<< .mine
+
+
+=======
+(def-form-rule ("with" np)
+  :form pp
+  :new-category with-np
+  :referent (:daughter right-edge))
+
+(def-form-rule ("with" possessive/np)
+  :form pp
+  :new-category with-np
+  :referent (:daughter right-edge))
+
+(def-form-rule (verb with-np)
+  :form vp
+  :referent (:head left-edge))
+
+(def-cfr event (event with-np) 
+  :form s
+  :referent (:head left-edge
+             :bind (location . left-edge)))
+
+
+;; Needed because "where" doesn't seem to be
+;; picked up by WH in all cases?
+
+(def-cfr event ("where" event) 
+  :form s
+  :referent (:head right-edge
+             :bind (location . left-edge)))
+
+
+;; Haphazard treatment of inversions of the form
+;; "tell me" etc.
+
+(define-category inversion
+  :binds ((functor) 
+	  (content)))
+
+(def-form-rule (verb "me")
+  :form vp
+  :new-category inversion
+  :referent (:instantiate-individual inversion
+	     :with (functor left-edge
+		    content right-edge)))
+
+(def-cfr event (inversion event) 
+  :form s
+  :referent (:head left-edge
+             :bind (location . right-edge)))>>>>>>> .r215

@@ -1,0 +1,18 @@
+
+ Species richness is related to a community's geographic size
+
+One of the earliest biodiversity patterns that scientists recognized is called the species-area curve, which quantifies what probably seems obvious: The larger the geographic area of a community we sample, the greater the number of species. Alexander von Humboldt first described this relationship in 1807, based on his explorations. The probable explanation for species-area curves is that larger areas offer a greater diversity of habitats and microhabitats (see Chapter 50). In conservation biology, developing species-area curves for key taxa in a community makes it possible to predict how loss of a certain area of habitat is likely to affect biodiversity.
+
+FIGURE 53.25 (p. 1194) is a species-area curve for the breeding birds of North America. The slope indicates the extent to which species richness increases with community area. The slopes of different species-area curves vary, depending on the taxon being sampled in the biodiversity survey and the type of community. But the basic concept of increasing diversity with increasing area applies in a variety of situations, from surveys of ant diversity in New Guinea to the number of plant species on islands of different sizes. In fact, island biogeography provides some of the best examples of species-area curves.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-25. Species-area curve for North American birds. Both area and number of species are plotted on a logarithmic scale. The data points range from a 0.5-acre plot with three species in Pennsylvania to the whole United States and Canada (4.6 billion acres) with 625 species.
+
+
+
+

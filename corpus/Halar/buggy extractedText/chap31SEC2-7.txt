@@ -1,0 +1,54 @@
+
+ Phylum Ascomycota: Sac fungi produce sexual spores in saclike asci
+
+
+
+
+
+Mycologists have described over 60,000 species of ascomycetes, or sac fungi, from a variety of marine, freshwater, and terrestrial habitats. They range in size and complexity from unicellular yeasts to minute leaf-spot fungi to elaborate cup fungi and morels (FIGURE 31.9). Ascomycetes include some of the most devastating plant pathogens, which will be discussed later in the chapter. However, many are important saprobes, particularly of plant material. About half the ascomycete species live with algae in the mutualistic associations called lichens. Some ascomycetes form mycorrhizae with plants. Others live between mesophyll cells in leaves, apparently helping to protect the plant tissues from insects by releasing toxic compounds.
+
+
+
+Click image to enlarge
+
+
+
+Fig 31-9. Ascomycetes (sac fungi). The "fruiting" (sexual) structures of ascomycetes are called ascocarps.
+
+The defining feature of the Ascomycota is the production of sexual spores in saclike asci (singular, ascus). Unlike the zygote fungi, most sac fungi bear their sexual stages in macroscopic fruiting bodies, or ascocarps. The spore-forming asci are found in the ascocarps.
+
+Ascomycetes reproduce asexually by producing enormous numbers of asexual spores, which are often dispersed by wind. The asexual spores are produced externally at the tips of specialized hyphae called conidiophores, often in long chains or clusters. These spores are not formed inside sporangia, as in the Zygomycota. Such naked spores are called conidia, from the Greek for "dust."
+
+Compared to zygomycetes, ascomycetes are characterized by a more extensive heterokaryotic stage, which is associated with the formation of ascocarps (FIGURE 31.10). Plasmogamy between specialized regions of two parental hyphae produces a heterokaryotic bulge called the ascogonium. The coenocytic ascogonium extends hyphae partitioned by septa into dikaryotic cells, each with two haploid nuclei representing the two parental mycelia. It is the cells at the tips of these dikaryotic hyphae that develop into asci. Within an ascus, karyogamy combines the two parental genomes, and then meiosis forms four genetically varied ascospores. One mitotic division doubles the ascospore number to eight. In many asci, the eight ascospores are lined up in a row in the order in which they formed from a single zygotic nucleus. This arrangement provides geneticists with a unique opportunity to study genetic recombination. Genetic differences between mycelia grown from ascospores taken from one ascus reflect crossing over and independent assortment of chromosomes during meiosis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 31-10. The life cycle of an ascomycete. (In this case, the key to color coding relates to structures rather than to portions of the life cycle.) 
+			  
+		 Haploid mycelia of opposite mating types become intertwined and form an ascogonium and an antheridium. 
+			  
+		A cytoplasmic bridge forms, allowing plasmogamy (cytoplasmic fusion) to occur. The ascogonium acts as a "female," receiving haploid nuclei from the "male" antheridium. The ascogonium then has a pool of nuclei from both parents, but karyogamy (fusion of nuclei) does not occur at this time. 
+			  
+		 The ascogonium gives rise to dikaryotic hyphae that are incorporated into an ascocarp, the cup of a cup fungus (see FIGURE 31.9a). 
+			  
+		The tips of the ascocarp's dikaryotic hyphae are partitioned into asci (singular, ascus). 
+			  
+		Karyogamy occurs within these asci, and the diploid nucleus divides by meiosis, 
+			  
+		yielding four haploid nuclei. 
+			  
+		Each of these haploid nuclei divides once by mitosis, and the ascus now contains eight nuclei. Cell walls develop around these nuclei to form ascospores. (The LM shows a mature ascus with eight ascospores.) 
+			  
+		When mature, all ascospores in an ascus are dispersed at once out the end of the ascus. A collapsing ascus jars neighboring asci and causes them to release their spores. The chain reaction releases a visible cloud of spores with an audible hiss. 
+			  
+		Germinating ascospores give rise to new haploid mycelia. 
+			  
+		Ascomycetes can also reproduce asexually by producing airborne spores called conidia.
+
+
+
+

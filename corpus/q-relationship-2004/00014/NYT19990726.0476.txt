@@ -1,0 +1,40 @@
+KANSAS CITY , Mo. --
+It 's tough enough trying to repair all the nation 's computer systems without having to worry about Y2K criminals .
+But lawmakers , police and businesses are beginning to turn their attention to those with sinister motives .
+Criminals , they fear , could either take advantage of the enormous attention being focused on fixing the Y2K problem or capitalize on Y2K chaos in January .
+Police departments across Kansas and Missouri , along with the Mid - America Regional Council , are planning for problems .
+Some counties are conducting elaborate response drills that include terrorist scenarios .
+`` Everybody 's starting to worry about terrorism-type situations , '' said Don Eatherton , Kansas City 's Y2K coordinator .
+A U.S. Senate committee has scheduled a hearing for Thursday to address high-tech threats linked to Y2K .
+Those threats include terrorism -- both international and domestic -- and theft .
+In fact , one leading worldwide research firm goes so far as to predict a $ 1 billion electronic theft .
+`` The Y2K experience has opened our eyes as a society to how vulnerable we are , '' said Robert Bennett , a Utah Republican who is chairman of the U.S. Senate 's Special Committee of the Year 2000 Technology Problem .
+`` If -LRB- Y2K -RRB- can cause this kind of disruption by accident , what kind of disruption could we have if someone sought to do us harm on purpose ? ''
+Bennett and John Koskinen , chairman of the President 's Year 2000 Conversion Council , both have said the time for crisis management is now , and agencies are beginning to respond .
+Big business is also alert .
+`` We have to worry about the threat of domestic terrorism , '' said Doug Morgan , vice president for information and development with Kansas City Power & Light .
+`` We live in a crazy world . ''
+Agencies and businesses are hesitant to outline their specific plans for fear of tipping off criminals .
+Nationally , the Federal Bureau of Investigation is assessing the threat of domestic terrorism on or around Jan. 1 , 2000 .
+Not everyone is convinced Y2K will ignite a wave of terror .
+Kazim Isfahani , an analyst with Giga Information Services in Cambridge , Mass. , said warnings about such Y2K crime in the United States and other countries amount to `` fear-mongering . ''
+Bennett concedes he has no information that any terrorist group is planning an attack on the United States .
+But , he says , experience shows terrorists often seek to exploit chaotic situations .
+That 's why his committee on Thursday will hear testimony about threats from cyberterrorists -- who could range from individual hackers to international groups .
+Others speculate that chaos caused by Y2K could create an atmosphere ripe for the old-fashioned type of terrorism , such as bombings .
+`` There are people who would like nothing more than to try to do something showy , if not dangerous , toward the end of the year , '' said Dave Higgins , a computer analyst with the Ken Orr Institute in Topeka .
+The FBI , Higgins and others see domestic threats from millennialist and survivalist groups that have fixated on the advent of the year with three zeros .
+Some of those groups may want to tear down institutions so they can begin rebuilding society according to their own design , experts speculate .
+Experts also fear Y2K thefts , including a startling prediction from the world 's leading Year 2000 firm , the Gartner Group of Stamford , Conn .
+Researchers at Gartner predict that within five years there will be a $ 1 billion electronic heist directly attributable to Y2K .
+They base those predictions on the study of more than 1,000 of their worldwide clients .
+By making Y2K fixes with off-the-shelf software rather than software unique to a corporation , researchers say , a company runs the risk of theft .
+Hostile programmers could exploit unintended bugs in standard software and clandestinely control a company , they say .
+Many firms also are relying on outside contractors to make fixes to sensitive systems .
+Some of those programmers leave behind `` trap doors '' for easy access to a company 's programming code , an accepted practice that could be abused .
+`` Y2K remediation , by definition , creates and increases the opportunity for theft and fraud , '' said analyst Joe Pucciarelli with the Gartner Group .
+`` When you ask the king 's soldiers to rebuild the king 's castle , the royal army has more opportunity to steal . ''
+Experts caution that such thefts are not likely to occur in community banks or small and midsize businesses , only large companies that transfer big sums of money .
+In Canada , too , the Royal Canadian Mounted Police are investigating whether crime groups , terrorists and others are taking advantage of the Y2K crisis .
+`` We 're talking about the threat that could be posed by terrorism-extremism , organized crime or criminal sponsors of civil unrest , '' said Sgt. Chuck Waring , who heads Project Solstice , a team of intelligence officers and high-tech sleuths .
+`` If we 've thought of it , why would n't they ? ''

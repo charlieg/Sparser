@@ -1,0 +1,20 @@
+
+ Plant taxonomists are reevaluating the boundaries of the plant kingdom
+
+From our chapters on prokaryotes and protists (see Chapters 27 and 28), you are already aware that there is a revolution under way in how biologists view taxonomy as an outcome of phylogenetic analysis. That taxonomic turmoil also applies to the plant kingdom. Plant taxonomists are combining molecular systematics with cladistic analysis of the molecular data, as well as data from comparing the morphology, life cycles, and cell ultrastructure of organisms, to reevaluate the classification of plants. One international initiative, called "deep green," is focusing on the deepest phylogenetic branching within the plant kingdom to identify and name the major plant clades (monophyletic groups). For the most part, these clades correspond to the ten phyla we will survey in these chapters on plant diversity.
+
+Even "deeper" down the phylogenetic tree of plants is the branching of the whole land plant clade from its algal relatives. Because a phylogenetic tree consists of clades nested within clades, a debate about where to draw boundaries in a hierarchical taxonomy is inevitable. In particular, which clades do we want to include in a plant kingdom?
+
+FIGURE 29.14 contrasts three versions of the plant kingdom. The traditional one equates the plant kingdom with the clade of embryophytes, or plants with embryos--what we have been calling land plants: bryophytes, pteridophytes, gymnosperms, and angiosperms. But some plant biologists now argue that the boundaries of the plant kingdom should be expanded to include the green algae most closely related to plants--the charophyceans and a few related groups. Kingdom Streptophyta is the name that has been proposed for this version of a plant kingdom. And an even broader definition of plants includes chlorophytes (the noncharophycean green algae) in a kingdom Viridiplantae (see Chapter 28). Exercising caution while the experts continue to debate, this text adopts the traditional embryophyte definition of the plant kingdom, and we'll use kingdom Plantae as the formal name for the taxon.
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-14. Three clades that are candidates for designation as the plant kingdom. This textbook adopts the embryophyte definition of plants and uses the name Plantae for the kingdom.
+
+
+
+

@@ -1,0 +1,34 @@
+
+ Viruses can reproduce only within a host cell: an overview
+
+Viruses are obligate intracellular parasites; that is, they can reproduce only within a host cell. An isolated virus is unable to reproduce--or do anything else, for that matter, except infect an appropriate host cell. Viruses lack the enzymes for metabolism and have no ribosomes or other equipment for making their own proteins. Thus, isolated viruses are merely packaged sets of genes in transit from one host cell to another.
+
+Each type of virus can infect and parasitize only a limited range of host cells, called its host range. This host specificity depends on the evolution of recognition systems by the virus. Viruses identify their host cells by a "lock-and-key" fit between proteins on the outside of the virus and specific receptor molecules on the surface of the cell. (Presumably, the receptors first evolved because they carried out functions of benefit to the organism.) Some viruses have host ranges broad enough to include several species. Swine flu virus, for example, can infect both hogs and humans, and the rabies virus can infect a number of mammalian species, including raccoons, skunks, dogs, and humans. In other cases, viruses have host ranges so narrow that they infect only a single species. For instance, there are several phages that can parasitize only E. coli.
+
+Viruses of eukaryotes are usually tissue specific. Human cold viruses infect only the cells lining the upper respiratory tract, ignoring other tissues. And the AIDS virus binds to a specific receptor on certain types of white blood cells.
+
+A viral infection begins when the genome of a virus makes its way into a host cell (FIGURE 18.3). The mechanism by which this nucleic acid enters the cell varies, depending on the type of virus. For example, the T-even phages use their elaborate tail apparatus to inject DNA into a bacterium (see the chapter-opening drawing on p. 328). Once inside, the viral genome can commandeer its host, reprogramming the cell to copy the viral nucleic acid and manufacture viral proteins. Most DNA viruses use the DNA polymerases of the host cell to synthesize new genomes along the templates provided by the viral DNA. In contrast, to replicate their genomes, RNA viruses must use special virus-encoded polymerases, ones that can use RNA as a template. (Cells generally have no native enzymes for carrying out such a process.) We will describe the replication of DNA and RNA viruses in more detail later in the chapter.
+
+
+
+Click image to enlarge
+
+
+
+Fig 18-3. A simplified viral reproductive cycle. A virus is an obligate intracellular parasite that uses the equipment of its host cell to reproduce. In this simplest of viral cycles, the parasite is a DNA virus with a capsid consisting of a single type of protein. 
+			  
+		 After entering the cell, the viral DNA uses host nucleotides and enzymes to replicate itself. 
+			  
+		 The viral DNA uses other host resources to produce its capsid proteins by transcription and translation. 
+			  
+		 The new viral DNA and capsid proteins assemble into new virus particles, which leave the cell.
+
+Regardless of the type of viral genome, the parasite diverts its host's resources for viral production. The host provides the nucleotides for nucleic acid synthesis. It also provides enzymes, ribosomes, tRNAs, amino acids, ATP, and other components needed for making the viral proteins dictated by viral genes.
+
+After the viral nucleic acid molecules and capsomeres are produced, their assembly into new viruses is often a spontaneous process, a process of self-assembly. In fact, the RNA and capsomeres of TMV can be separated in the laboratory and then reassembled to form complete viruses simply by mixing the components together again. The simplest type of viral reproductive cycle is completed when hundreds or thousands of viruses emerge from the infected host cell. The cell is often destroyed in the process. In fact, some of the symptoms of human viral infections, such as colds and influenza, result from cellular damage and death and from the body's responses to this destruction. The viral progeny that exit a cell have the potential to infect additional cells, spreading the viral infection.
+
+There are many variations on the simplified viral reproductive cycle we have traced in this overview. We will see several examples as we take a closer look at some bacterial viruses (phages), animal viruses, and plant viruses.
+
+
+
+

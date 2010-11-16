@@ -1,0 +1,16 @@
+
+ The control of gene expression can occur at any step in the pathway from gene to functional protein: an overview
+
+FIGURE 19.7 is an overview of the entire process of gene expression in a eukaryotic cell. The figure highlights key stages in the expression of a protein-coding gene, from chromatin changes that unpack the DNA, through transcription, RNA processing, and translation, to various alterations of the protein product. The expression of a given gene will not necessarily involve every stage shown; for example, not every polypeptide is cleaved. The main lesson is that each stage is a potential control point where gene expression can be turned on or off, speeded up, or slowed down. The figure omits details and does not convey the web of control that connects different genes and their products. In the following three sections, we'll examine some of the important control points more closely.
+
+
+
+Click image to enlarge
+
+
+
+Fig 19-7. Opportunities for the control of gene expression in eukaryotic cells. The nuclear envelope separating transcription from translation in eukaryotic cells offers opportunity for post-transcriptional control in the form of RNA processing that is absent in bacteria. In addition, eukaryotes have a greater variety of control mechanisms operating before transcription and after translation. In this diagram, the processes that offer opportunities for regulation are highlighted by white or yellow boxes. As in prokaryotes, transcription initiation is the most important control point.
+
+
+
+

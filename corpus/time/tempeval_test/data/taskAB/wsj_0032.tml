@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+
+
+
+<TempEval>
+
+
+
+ WSJ891102-0161 
+ = 891102 
+ 891102-0161. 
+ Montedison Bid for Erbamont 
+ <TIMEX3 tid="t13" type="DATE" value="1989-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">11/02/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ MNT ERB 
+ TENDER OFFERS, MERGERS, ACQUISITIONS (TNM)
+DRUG MANUFACTURERS (DRG) 
+ NEW YORK  
+
+   <s>Italian chemical giant Montedison S.p.A., through its Montedison Acquisition N.V. indirect unit, <EVENT eid="e1" class="ASPECTUAL" stem="begin" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">began</EVENT> its $37-a-share tender <EVENT eid="e2" class="OCCURRENCE" stem="offer" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">offer</EVENT> for all the common shares outstanding of Erbamont N.V., a maker of pharmaceuticals incorporated in the Netherlands.</s> 
+
+   <s>The <EVENT eid="e4" class="OCCURRENCE" stem="offer" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">offer</EVENT>, <EVENT eid="e5" class="OCCURRENCE" stem="advertise" aspect="NONE" tense="PASTPART" polarity="POS" pos="VERB">advertised</EVENT> in <TIMEX3 tid="t19" type="DATE" value="1989-11-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">today</TIMEX3>'s editions of The Wall Street Journal, is <EVENT eid="e6" class="I_ACTION" stem="schedule" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">scheduled</EVENT> to <EVENT eid="e8" class="OCCURRENCE" stem="expire" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">expire</EVENT> at the <TIMEX3 tid="t18" type="TIME" value="1989-11" mod="END" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">the end of November</TIMEX3>.</s> 
+
+   <s>Montedison <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">currently</TIMEX3> <EVENT eid="e20" class="STATE" stem="own" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">owns</EVENT> about 72% of Erbamont's common shares outstanding.</s> 
+
+   <s>The <EVENT eid="e10" class="OCCURRENCE" stem="offer" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">offer</EVENT> is being <EVENT eid="e11" class="I_ACTION" stem="launch" aspect="PROGRESSIVE" tense="PRESENT" polarity="POS" pos="VERB">launched</EVENT> pursuant to a <TIMEX3 tid="t21" type="TIME" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t13">previously</TIMEX3> <EVENT eid="e22" class="REPORTING" stem="announced" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">announced</EVENT> <EVENT eid="e12" class="OCCURRENCE" stem="agreement" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">agreement</EVENT> between the companies.</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" eventID="e4" relatedToTime="t18" task="A"/>
+<TLINK lid="l2" relType="UNKNOWN" eventID="e4" relatedToTime="t19" task="A"/>
+<TLINK lid="l3" relType="UNKNOWN" eventID="e10" relatedToTime="t21" task="A"/>
+<TLINK lid="l4" relType="UNKNOWN" eventID="e12" relatedToTime="t21" task="A"/>
+<TLINK lid="l5" relType="UNKNOWN" eventID="e2" relatedToTime="t13" task="B"/>
+<TLINK lid="l6" relType="UNKNOWN" eventID="e1" relatedToTime="t13" task="B"/>
+<TLINK lid="l7" relType="UNKNOWN" eventID="e4" relatedToTime="t13" task="B"/>
+<TLINK lid="l8" relType="UNKNOWN" eventID="e10" relatedToTime="t13" task="B"/>
+<TLINK lid="l9" relType="UNKNOWN" eventID="e12" relatedToTime="t13" task="B"/>
+</TempEval>

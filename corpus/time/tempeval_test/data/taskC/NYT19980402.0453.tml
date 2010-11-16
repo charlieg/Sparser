@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+ NYT19980402.0453 
+ NEWS STORY 
+ <TIMEX3 tid="t43" type="TIME" value="1998-04-02T22:52:00" temporalFunction="false" functionInDocument="CREATION_TIME">04/02/1998 22:52:00</TIMEX3> 
+
+A0786 ampCx1f taf-z
+u a ampCx13  ampCx11  BC-NJ-WOMEN-MURDER-PROBE     04-02 0319
+
+
+ BC-NJ-WOMEN-MURDER-PROBE-NYT 
+
+TASK FORCE TO STUDY CASES OF 14 SLAIN WOMEN
+
+(lb) ampQL
+ampUR By DAVID M. HERSZENHORN ampLR  ampQC  ampQL
+ampUR c.1998 N.Y. Times News Service ampLR  ampQC  ampQL
+
+
+<s>NEWARK, N.J. _ A new Essex County task force <EVENT eid="e1" mainevent="NO" class="ASPECTUAL" stem="begin" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">began</EVENT> <EVENT eid="e45" mainevent="YES" class="OCCURRENCE" stem="delve" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">delving</EVENT>
+<TIMEX3 tid="t46" type="DATE" value="1998-04-02" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">Thursday</TIMEX3> into the <EVENT eid="e2" mainevent="NO" class="OCCURRENCE" stem="slaying" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">slayings</EVENT> of 14 black women over <TIMEX3 tid="t48" type="DURATION" value="P5Y" temporalFunction="true" functionInDocument="NONE" endPoint="t43">the last five
+years</TIMEX3> in the Newark area, as law-enforcement officials <EVENT eid="e4" mainevent="NO" class="REPORTING" stem="acknowledge" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">acknowledged</EVENT>
+that they <EVENT eid="e5" mainevent="NO" class="I_STATE" stem="need" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">needed</EVENT>  to <EVENT eid="e6" mainevent="NO" class="I_ACTION" stem="work" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">work</EVENT> harder  to <EVENT eid="e7" mainevent="NO" class="OCCURRENCE" stem="solve" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">solve</EVENT> the cases of <EVENT eid="e67" mainevent="NO" class="OCCURRENCE" stem="murdered" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">murdered</EVENT>
+women.</s>
+<s>The police and prosecutors <EVENT eid="e8" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> they  had <EVENT eid="e9" mainevent="NO" class="OCCURRENCE" stem="identify" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="VERB">identified</EVENT> different
+suspects in six of the cases and had yet to <EVENT eid="e10" mainevent="NO" class="OCCURRENCE" stem="find" tense="INFINITIVE" aspect="NONE" polarity="NEG" pos="VERB">find</EVENT> any pattern
+linking the <EVENT eid="e50" mainevent="NO" class="OCCURRENCE" stem="killing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">killings</EVENT> or the victims, several of whom  were <EVENT eid="e12" mainevent="NO" class="I_STATE" stem="believe" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">believed</EVENT>
+to be <EVENT eid="e51" mainevent="NO" class="STATE" stem="prostitute" tense="PRESENT" aspect="NONE" polarity="POS" pos="NOUN">prostitutes</EVENT>.</s>
+<s>State, county and local law-enforcement officials  have <EVENT eid="e13" mainevent="YES" class="REPORTING" stem="express" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">expressed</EVENT>
+concerns in <TIMEX3 tid="t52" type="DURATION" value="PXM" temporalFunction="true" functionInDocument="NONE" endPoint="t43">recent months</TIMEX3> about a possible pattern of <EVENT eid="e53" mainevent="NO" class="OCCURRENCE" stem="murdered" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">murdered</EVENT>
+women and a disproportionate number of <EVENT eid="e54" mainevent="NO" class="STATE" stem="unsolved" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">unsolved</EVENT> cases.</s>
+<s><EVENT eid="e2025" mainevent="NO" class="REPORTING" stem="citing" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">Citing</EVENT> an example, Sgt. Derek Glenn, a spokesman for the Newark
+Police Department, <EVENT eid="e14" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> that of nine women who  had  been <EVENT eid="e15" mainevent="NO" class="OCCURRENCE" stem="kill" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="VERB">killed</EVENT> <TIMEX3 tid="t64" type="DATE" value="1997" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">last
+year</TIMEX3>, suspects  had  been <EVENT eid="e17" mainevent="NO" class="OCCURRENCE" stem="arrest" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="VERB">arrested</EVENT> in only four <EVENT eid="e18" mainevent="NO" class="OCCURRENCE" stem="case" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">cases</EVENT>.</s> <s>But over all,
+<EVENT eid="e59" mainevent="NO" class="OCCURRENCE" stem="arrest" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">arrests</EVENT>  were <EVENT eid="e2065" mainevent="NO" class="OCCURRENCE" stem="make" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">made</EVENT> in more than 60 percent of <EVENT eid="e2060" mainevent="NO" class="OCCURRENCE" stem="murder" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">murder</EVENT> cases, he <EVENT eid="e21" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>.</s>
+<s>Eight of the 14 <EVENT eid="e2072" mainevent="NO" class="OCCURRENCE" stem="killing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">killings</EVENT> since <TIMEX3 tid="t63" type="DATE" value="1993" temporalFunction="false" functionInDocument="NONE">1993</TIMEX3> were already under
+<EVENT eid="e2093" mainevent="NO" class="STATE" stem="investigation" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">investigation</EVENT> by the Newark Police Department, Glenn <EVENT eid="e22" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>.</s> <s>Of the
+eight victims, three  were <EVENT eid="e23" mainevent="NO" class="OCCURRENCE" stem="stab" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">stabbed</EVENT>, two  were <EVENT eid="e24" mainevent="NO" class="OCCURRENCE" stem="strangle" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">strangled</EVENT>, two  were <EVENT eid="e25" mainevent="NO" class="I_ACTION" stem="beat" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">beaten</EVENT> to death and one  was <EVENT eid="e26" mainevent="NO" class="OCCURRENCE" stem="asphyxiate" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">asphyxiated</EVENT>, he <EVENT eid="e27" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>, and these
+different methods of killing and other evidence <EVENT eid="e29" mainevent="NO" class="PERCEPTION" stem="seem" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">seem</EVENT>  to <EVENT eid="e30" mainevent="NO" class="REPORTING" stem="indicate" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">indicate</EVENT>
+that the eight <EVENT eid="e2148" mainevent="NO" class="OCCURRENCE" stem="case" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">cases</EVENT> are not <EVENT eid="e31" mainevent="NO" class="STATE" stem="related" tense="PRESENT" aspect="NONE" polarity="NEG" pos="ADJECTIVE">related</EVENT>.</s>
+<s>But with the task-force <EVENT eid="e66" mainevent="NO" class="OCCURRENCE" stem="investigation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">investigation</EVENT> just <EVENT eid="e33" mainevent="NO" class="ASPECTUAL" stem="get" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">getting</EVENT> under way,
+officials have been <EVENT eid="e2164" mainevent="YES" class="I_STATE" stem="careful" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="ADJECTIVE">careful</EVENT> not to <EVENT eid="e34" mainevent="NO" class="REPORTING" stem="draw" tense="INFINITIVE" aspect="NONE" polarity="NEG" pos="VERB">draw</EVENT> any firm conclusions,
+<EVENT eid="e35" mainevent="NO" class="OCCURRENCE" stem="leave" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">leaving</EVENT> open the possibility of a serial killer in some of the
+cases.</s> <s>There have been no <EVENT eid="e36" mainevent="YES" class="OCCURRENCE" stem="arrest" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" pos="NOUN">arrests</EVENT> in any of the <EVENT eid="e65" mainevent="NO" class="OCCURRENCE" stem="slaying" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">slayings</EVENT>.</s>
+<s>``I have n't <EVENT eid="e38" mainevent="NO" class="PERCEPTION" stem="see" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" pos="VERB">seen</EVENT> a pattern yet ,  '' <EVENT eid="e40" mainevent="YES" class="REPORTING" stem="said" tense="PAST" aspect="NONE" polarity="POS" pos="ADJECTIVE">said</EVENT> Patricia Hurt, the Essex
+County prosecutor, who <EVENT eid="e41" mainevent="NO" class="OCCURRENCE" stem="create" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">created</EVENT> the task force on <TIMEX3 tid="t61" type="DATE" value="1998-03-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t43">Tuesday</TIMEX3>.</s> <s>``The
+type of lifestyle these women <EVENT eid="e60" mainevent="NO" class="STATE" stem="have" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">have</EVENT> is extremely dangerous,'' she
+<EVENT eid="e42" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>.</s>
+
+
+
+<s>NYT-04-02-98 2252EST</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e21" eventID="e14" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e36" eventID="e2164" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e2164" eventID="e27" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e40" eventID="e36" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e27" eventID="e22" task="C"/>
+<TLINK lid="l6" relType="UNKNOWN" relatedToEvent="e22" eventID="e21" task="C"/>
+<TLINK lid="l7" relType="UNKNOWN" relatedToEvent="e42" eventID="e40" task="C"/>
+<TLINK lid="l8" relType="UNKNOWN" relatedToEvent="e8" eventID="e45" task="C"/>
+<TLINK lid="l9" relType="UNKNOWN" relatedToEvent="e13" eventID="e8" task="C"/>
+<TLINK lid="l10" relType="UNKNOWN" relatedToEvent="e14" eventID="e13" task="C"/>
+
+</TempEval>

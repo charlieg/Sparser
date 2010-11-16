@@ -1,0 +1,30 @@
+
+ Systematists are identifying the angiosperm clades
+
+All angiosperms are placed in a single phylum, the phylum Anthophyta (from the Greek antho, flower). If you return to FIGURE 30.4, you'll find a division into different angiosperm lineages that contrasts sharply with what we would have diagrammed three years ago. Until the late 1990s, most plant taxonomists divided the angiosperms into two main classes, the monocots and the dicots, which differ in several anatomical and morphological details. For example, most monocots have leaves with veins running parallel (think of a grass blade), while most dicots have netlike venation in their leaves (think of an oak leaf). A combination of molecular systematics and cladistic analysis has upheld the monocots as a monophyletic group--a clade. Examples of monocots are lilies, orchids, yuccas, palms, and grasses, including lawn grasses, sugar cane, and grain crops (corn, wheat, rice, and others). However, comparisons of DNA revealed that not all plants having the dicot type of anatomy fall into a single monophyletic group. One clade, the eudicots, does include the majority of dicots. Examples of eudicots are roses, peas, buttercups, sunflowers, oaks, and maples. But some of the other dicots actually belong to angiosperm lineages that diverged earlier than the origin of either monocots or eudicots. For example, the branch in FIGURE 30.4 labeled "other early angiosperm lines" includes a dicot called the star anise. And the water lilies belong to an even older angiosperm lineage. But the oldest angiosperm branch of all is represented by a single species, Amborella trichopoda (FIGURE 30.11b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 30-11. Representatives of major angiosperm clades. (a) Hypothetical tree of flowering plants. (b) Amborella is the only survivor of a branch at the very base of the angiosperm tree. (c) Water lilies, such as this Nymphaea carulea, are modern members of a clade predated only by the Amborella lineage. (d) Other early angiosperm lineages include species such as this Illicium floridanum, or star anise. (e) This orchid (Paphiopedilum furheyo) is an example of a monocot. There are about 65,000 species of monocots. (f) The California poppy (Eschscholzia californica) is just one of 165,000 species of eudicots.
+
+Amborella was an unlikely candidate to become the center of attention among biologists interested in plant phylogeny. A small shrub with tiny flowers and tiny fruit, Amborella is found only on New Caledonia, a South Pacific island. In 1999, four independent research teams published evidence that Amborella is the most "primitive" known angiosperm--primitive in the sense that the molecular evidence places it on the oldest branch of angiosperm evolution. A plant most botanists didn't know existed a few years ago has become a focal point in research efforts to trace the evolution of flowering plants.
+
+What evolutionary "innovations" contributed most to the enormous success of angiosperms? Refinements in vascular tissue, especially xylem, probably played a role in the spread of angiosperms into diverse terrestrial habitats. Like gymnosperms, angiosperms are equipped with xylem cells called tracheids. These are long, tapered cells that function in both mechanical support and water transport (FIGURE 30.12). In addition to these tracheids, the xylem of angiosperms also has fiber cells, which are specialized for support. A third type of xylem cell, called a vessel element, is also found in most angiosperms. Compared to tracheids, vessel elements are shorter and wider, and they are arranged end-to-end into continuous tubes--xylem vessels--that are more efficient than tracheids in transporting water. Amborella has tracheids, but not vessels, suggesting that true vessel elements evolved in angiosperms after Amborella branched off as a distinct lineage.
+
+
+
+Click image to enlarge
+
+
+
+Fig 30-12. Xylem cells in angiosperms.
+
+Whatever roles evolutionary refinements in vascular tissue and other structural characteristics played in plant history, it was probably the reproductive adaptations associated with flowers and fruits that contributed most to making angiosperms so successful.
+
+
+
+

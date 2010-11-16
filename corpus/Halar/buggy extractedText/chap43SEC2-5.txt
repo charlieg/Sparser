@@ -1,0 +1,44 @@
+
+ Lymphocyte development gives rise to an immune system that distinguishes self from nonself
+
+Lymphocytes, like all blood cells, originate from pluripotent stem cells in the bone marrow or liver of a developing fetus. Early lymphocytes are all alike, but they later develop into T cells or B cells, depending on where they continue their maturation (FIGURE 43.8). Lymphocytes that migrate from the bone marrow to the thymus, a gland in the thoracic cavity above the heart, develop into T cells ("T" for thymus). Lymphocytes that remain in the bone marrow and continue their maturation there become B cells. The "B" actually stands for the bursa of Fabricius, an organ unique to birds where avian B cells mature, and the place where B lymphocytes were first discovered. But since the B cells of all other vertebrates develop in bone marrow, you can equate "B" with "bone" as well as with "bursa."
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-8. The development of lymphocytes. Like other blood cells, lymphocytes differentiate from pluripotent stem cells in bone marrow (see FIGURE 42.14). Lymphocytes that continue their maturation in bone marrow develop into B cells, while lymphocytes that move to the thymus and complete their maturation there differentiate into T cells. When mature, lymphocytes of both classes migrate to the other lymphatic organs, where they encounter antigens (see FIGURE 43.4).
+
+Immune Tolerance for Self
+
+While B cells and T cells are maturing in the bone marrow and thymus, their antigen receptors are tested for potential self-reactivity. For the most part, lymphocytes bearing receptors specific for molecules already present in the body are either rendered nonfunctional or destroyed by apoptosis (programmed cell death; see FIGURE 21.18), leaving only lymphocytes that react to foreign molecules. This capacity to distinguish self from nonself continues to develop even as the cells migrate to lymphatic organs. Thus, the body normally has no mature lymphocytes that react against self components: The immune system exhibits the critical feature of self-tolerance. Failure of self-tolerance can lead to autoimmune diseases such as multiple sclerosis. As you will see in the next section, certain body cell surface molecules are essential in the development of T cell self-tolerance as well as in T cell activity.
+
+The Role of Cell Surface Markers in T Cell Function and Development
+
+Lymphocytes do not react to most self antigens, but T cells do have a crucial interaction with one important group of native molecules. These are a collection of cell surface glycoproteins (proteins with attached sugar chains) encoded by a family of genes called the major histocompatibility complex (MHC). In humans, the MHC glycoproteins are also known as the HLA (for human leukocyte antigens). Two main classes of MHC molecules mark body cells as "self."Class I MHC molecules are found on almost all nucleated cells--that is, on almost every cell of the body. Class II MHC molecules are restricted to a few specialized cell types, including macrophages, B cells, activated T cells, and the cells that make up the interior of the thymus.
+
+For a vertebrate species, there are numerous different possible alleles for each class I and class II MHC gene; the MHC proteins are the most polymorphic known. As a result of the large number of different alleles in the human population, for example, most of us are heterozygous for every one of our MHC genes. Moreover, it is extremely unlikely that any two people, except identical twins, will have exactly the same set of MHC molecules. Thus, the major histocompatibility complex provides a biochemical fingerprint virtually unique to each individual. In fact, the discovery of the MHC occurred in the process of studying the phenomena of skin graft rejection and acceptance; the histo in histocompatibility refers to tissues.
+
+The MHC and its role in the body's rejection of tissue grafts initially puzzled scientists: Why would the vertebrate body have evolved markers that prevent members of the same species from sharing tissues? We now know that MHC molecules are varied from person to person because of their central role in the immune response. Through a process known as antigen presentation, an MHC molecule cradles a fragment of an intracellular protein antigen in its hammocklike groove, carries it to the cell surface, and "presents" it to an antigen receptor on a nearby T cell. Thus T cells are alerted to an infectious agent after it has been internalized by a cell (through phagocytosis or receptor-mediated endocytosis), or after it has entered and replicated within a cell (through virus infection). There are two main types of T cells, and each responds to one of the two classes of MHC molecule. Cytotoxic T cells (TC) have antigen receptors that bind to protein fragments (peptides) displayed by the body's class I MHC molecules (FIGURE 43.9a). Helper T cells (TH) have receptors that bind to peptides displayed by the body's class II MHC molecules (FIGURE 43.9b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-9. The interaction of T cells with MHC molecules. Molecules of the major histocompatibility complex (MHC) on the surfaces of body cells "present" antigen fragments to T cells. (a) Cytotoxic T cells have receptors for antigen-bearing class I MHC molecules. (b) Helper T cells have receptors for antigen-bearing class II MHC molecules.
+
+Whether or not T cells respond to a pathogen, then, depends on the ability of MHC molecules to present a fragment of it. Fortunately, any one MHC molecule can present a variety of peptides that are structurally similar, and, because of the heterozygosity of our MHC genes, we each make two different MHC polypeptides per gene. So chances are good that at least one of our MHC molecules will be able to present at least one fragment of a particular pathogen to our T cells--and generate an immune response against it. In addition, human populations benefit from having hundreds of different MHC alleles in the gene pool, so that individual collections of MHC molecules vary from person to person. This polymorphism is adaptive because it increases the likelihood that at least some individuals of a population will survive an epidemic.
+
+Let's look at the distribution and roles of class I and class II MHC molecules in the body, in terms of how they defend us against infection. Class I MHC molecules, found in almost all cells, are poised to present fragments of proteins made by infecting microbes, usually viruses, to cytotoxic T cells. As we will see in detail later, cytotoxic T cells respond by killing the infected cells. Because all of our cells are vulnerable to infection by one or another virus, the wide distribution of class I MHC molecules is critical to our health. Class II MHC molecules, on the other hand, are made by only a few cell types, chiefly macrophages and B cells. These cells, called antigen-presenting cells (APCs) in this context, ingest bacteria (and viruses) and then destroy them. Class II MHC molecules in these cells collect peptide remnants of this degradation and present them to helper T cells. In response, the helper T cells send out chemical signals that incite other cell types to fight the pathogen.
+
+MHC proteins also play a key role in the development of T-cell self-tolerance. During the development of T cells in the thymus, developing T cells interact with other thymic cells, which have high levels of both class I and class II MHC molecules. Only T cells bearing receptors with affinity for self MHC proteins reach maturity. Developing T cells having receptors with affinity for class I MHC become cytotoxic T cells. Those having receptors with affinity for class II MHC become helper T cells.
+
+Now let's review what you've learned so far about the immune system: The immune responses of B and T lymphocytes exhibit four attributes that characterize the immune system as a whole: specificity, diversity, memory, and the capacity to distinguish self from nonself. A critical component of the immune response is the MHC: Proteins encoded by this gene complex display a combination of self (MHC molecule) and nonself (antigen fragment) that is recognized by specific T cells. In the following section you will learn more about how lymphocytes recognize and respond to foreign substances, and how they generate immunity.
+
+
+
+

@@ -1,0 +1,22 @@
+
+ Biotic factors affect the distribution of organisms
+
+Frequently, a species cannot complete its full life cycle if transplanted to an area it did not originally occupy. One reason for this inability to survive and reproduce may be negative interactions with other organisms through predation, disease, and competition. Or there may be an absence of other species upon which the transplanted species depends, such as the absence of specific pollinators in the case of a transplanted plant species.
+
+In predation we find some of the clearest cases of biotic limitation on geographic distribution. Carnivorous predators, such as wolves, kill their prey. And herbivores, such as grazing mammals and most insects, also function as predators, eating parts of plants or whole plants.
+
+Let's examine a specific case of a predator limiting the distribution of a prey species. In certain marine ecosystems, there is often an inverse relationship between the abundance of sea urchins and the abundance of seaweeds (large algae, such as kelp). Where sea urchins that graze on kelp are common, kelp cannot become established. Thus, the local distribution of kelp can be limited by sea urchins. This kind of interaction can be tested by "removal and addition" experiments. If the hypothesis that sea urchins are a biotic factor limiting kelp distribution is correct, then kelp should invade an area from which sea urchins have been removed. Conversely, if urchins are added to an area rich in kelp, the kelp should be eliminated. One complication is that there are often several other herbivores in addition to sea urchins; thus, careful manipulative experiments are needed to determine the reasons for the kelp being absent. You can see the results of some careful predator-removal experiments in FIGURE 50.9.
+
+
+
+Click image to enlarge
+
+
+
+Fig 50-9. Predator-removal experiments. Researchers tested the effects of two herbivores, sea urchins and limpets (mollusks), on the abundance of seaweeds in adjacent subtidal areas near Sydney, Australia. In areas where both sea urchins and limpets were present (red line), there was virtually no algal cover present. Predator-removal experiments in areas adjacent to the control site supported the hypothesis that sea urchins are the main herbivores limiting distribution of the seaweeds.
+
+Many organisms are limited in their local distribution by the presence of food resources, predators, diseases, and competitors. Unfortunately, some of the most dramatic cases occur when humans introduce (either accidentally or intentionally) exotic predators or diseases into new areas and wipe out native species. We will see examples of these impacts in Chapter 55 when we discuss conservation ecology.
+
+
+
+

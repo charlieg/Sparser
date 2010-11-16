@@ -1,0 +1,150 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/model/core
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2010-03-15T13:47:53.359309Z
+354
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c8849605-d826-0410-9f5d-9d9903a7241f
+
+category-preferences.lisp
+file
+
+
+
+
+2009-06-18T20:59:16.000000Z
+dadb2d9b197a6d3fbd566efc77a104cd
+2009-06-18T20:59:16.233936Z
+207
+cgreenba
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2975
+
+pronouns
+dir
+
+people
+dir
+
+amounts
+dir
+
+money
+dir
+
+grammar-switch-settings.lisp
+file
+
+
+
+
+2009-06-18T20:59:16.000000Z
+34606a5ffdefa030f8e091fdd4ffe64f
+2009-06-18T20:59:16.233936Z
+207
+cgreenba
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+455
+
+time
+dir
+
+names
+dir
+
+finance
+dir
+
+titles
+dir
+
+places
+dir
+
+kinds
+dir
+
+autodef-tableau.lisp
+file
+
+
+
+
+2007-01-04T03:28:24.000000Z
+0fb02b01670d7832deaebee14e1928e0
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+adjuncts
+dir
+
+numbers
+dir
+
+companies
+dir
+
+collections
+dir
+

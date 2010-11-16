@@ -1,0 +1,870 @@
+
+Chapter 51: BEHAVIORAL BIOLOGY
+
+INTRODUCTION TO BEHAVIOR AND BEHAVIORAL ECOLOGY
+
+   What is behavior?
+
+   Behavior has both proximate and ultimate causes
+
+   Behavior results from both genes and environmental factors
+
+   Innate behavior is developmentally fixed
+
+   Classical ethology presaged an evolutionary approach to behavioral biology
+
+   Behavioral ecology emphasizes evolutionary hypotheses
+
+
+
+LEARNING
+
+   Learning is experience-based modification of behavior
+
+   Imprinting is learning limited to a sensitive period
+
+   Bird song provides a model system for understanding the development of behavior
+
+   Many animals can learn to associate one stimulus with another
+
+   Practice and exercise may explain the ultimate bases of play
+
+
+
+ANIMAL COGNITION
+
+   The study of cognition connects nervous system function with behavior
+
+   Animals use various cognitive mechanisms during movement through space
+
+   The study of consciousness poses a unique challenge for scientists
+
+
+
+SOCIAL BEHAVIOR AND SOCIOBIOLOGY
+
+   Sociobiology places social behavior in an evolutionary context
+
+   Competitive social behaviors often represent contests for resources
+
+   Natural selection favors mating behavior that maximizes the quantity or quality of mating partners
+
+   Social interactions depend on diverse modes of communication
+
+   The concept of inclusive fitness can account for most altruistic behavior
+
+   Sociobiology connects evolutionary theory to human culture
+
+The study of animal behavior is undoubtedly one of the oldest branches of biology. Tens of thousands of years ago, behavioral knowledge was essential to human survival. By learning the habits of the animals around them, early humans increased their chances of securing a meal and decreased their chances of becoming a meal. Thus, our ancestors' awareness of animal behavior ultimately enhanced their Darwinian fitness. More generally, our own behavior, as well as that of other animals, has its ultimate basis in evolution.
+
+Consider the male magnolia warbler in the photograph on this page. To our ears, his song is a musical "weete, weete, weetchew," with the last note slurring upward. However, as one experienced birder is fond of telling novices, "It's not music to a bird's ears. Birds sing for practical reasons--to attract mates, to let other males or females know where they are, to hold a territory where they can raise and feed their young. For birds, singing is about survival and passing genes to the next generation."
+
+Bird song provides an excellent introduction to the subject of behavior. For one thing, bird song is amenable to modern experimental methods. As a result, biologists are beginning to understand a great deal about development, functions, and consequences of bird song. Bird song is also attractive to researchers because of several striking parallels between bird song and human speech. It has also become a model system for animal behavior research because it demonstrates a very important generalization: Behavior is influenced by both genetic and environmental factors. The study of bird song has provided guideposts for the study of other complex behaviors that are less understood.
+
+Studying an animal's behavior is essential to understanding the animal's evolution and ecological interactions. This chapter emphasizes the nature of animal behavior, how biologists study it, and the function of behavior in the relationship between an animal and its environment.
+
+
+
+
+
+INTRODUCTION TO BEHAVIOR AND BEHAVIORAL ECOLOGY
+
+ 
+
+ What is behavior?
+
+
+
+ 
+
+ Behavior has both proximate and ultimate causes
+
+
+
+ 
+
+ Behavior results from both genes and environmental factors
+
+
+
+ 
+
+ Innate behavior is developmentally fixed
+
+
+
+ 
+
+ Classical ethology presaged an evolutionary approach to behavioral biology
+
+
+
+ 
+
+ Behavioral ecology emphasizes evolutionary hypotheses
+
+
+
+
+
+
+
+LEARNING
+
+ 
+
+ Learning is experience-based modification of behavior
+
+
+
+ 
+
+ Imprinting is learning limited to a sensitive period
+
+
+
+ 
+
+ Bird song provides a model system for understanding the development of behavior
+
+
+
+ 
+
+ Many animals can learn to associate one stimulus with another
+
+
+
+ 
+
+ Practice and exercise may explain the ultimate bases of play
+
+
+
+
+
+
+
+ANIMAL COGNITION
+
+ 
+
+ The study of cognition connects nervous system function with behavior
+
+
+
+ 
+
+ Animals use various cognitive mechanisms during movement through space
+
+
+
+ 
+
+ The study of consciousness poses a unique challenge for scientists
+
+
+
+What does an animal's brain do with the information it obtains about the outside world? If a chimpanzee is placed in an area with a banana hung high out of reach and several boxes on the floor, the chimp can "size up" the situation and stack the boxes, enabling it to reach the food. Such novel problem-solving behavior is highly developed in some mammals, especially primates and dolphins, and notable examples have also been observed in some bird species, especially crows, ravens, and jays. Ravens, for example, exhibit marked individual variation in their attempts to solve some of the problems imposed on them by experimenters (FIGURE 51.13).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-13. Problem solving. Behavioral biologist Bernd Heinrich placed ravens in an experimental situation in which they had to solve the problem of obtaining food hanging from a string. The raven shown here solved the problem by using one foot to pull the string in increments and the other foot to secure the string so the food didn't just drop again. Of interest was the tremendous individual variation in behavior that Heinrich observed. Some ravens never learned to get at the food, while others solved the problem in different ways.
+
+Watching an animal solve a problem makes us aware that its nervous system has a substantial ability to process information. An expanding research effort on animal cognition seeks to understand information processing at all levels, from the nervous system activities that underlie sophisticated behavior, such as problem solving, to the internal representations animals have about physical objects in their surroundings.
+
+
+
+
+
+SOCIAL BEHAVIOR AND SOCIOBIOLOGY
+
+ 
+
+ Sociobiology places social behavior in an evolutionary context
+
+
+
+ 
+
+ Competitive social behaviors often represent contests for resources
+
+
+
+ 
+
+ Natural selection favors mating behavior that maximizes the quantity or quality of mating partners
+
+
+
+ 
+
+ Social interactions depend on diverse modes of communication
+
+
+
+ 
+
+ The concept of inclusive fitness can account for most altruistic behavior
+
+
+
+ 
+
+ Sociobiology connects evolutionary theory to human culture
+
+
+
+
+
+
+
+ What is behavior?
+
+Most of what we call behavior consists of an animal's muscular activity that is externally visible. In some cases, it is the whole body that moves, as when a predator chases its prey. In other cases, the behavior is a movement of a body part, even though the animal stays in place, as when we signal a direction by extending our arm and pointing a finger. There are also examples of behavior in which muscular activity is less obvious, as when a bird sings by using muscles to force air from its lungs and shape the sounds in its throat. And there are even some nonmuscular activities that count as behavior, as when an animal secretes a sex attractant. Finally, we might include learning as a behavioral process, even when any observable behavior it produces occurs only later. For example, a young bird may memorize a song that it hears an adult of its species singing. But the first observable muscular activity based on this memory may not occur until months later, when the bird begins to sing the song for itself. Thus, in addition to studying observable behaviors, mainly in the form of muscle-powered activities, behavioral biologists also study the mechanisms underlying those behaviors, which may not involve muscles at all. Put another way, we can think of behavior as what an animal does and how it does it, a definition broad enough to include nonmotor components of behavior such as learning and memory.
+
+
+
+
+
+ Behavior has both proximate and ultimate causes
+
+When we observe a certain behavior, we are apt to ask both proximate and ultimate questions. In the study of animal behavior, proximate questions are mechanistic, concerned with the environmental stimuli, if any, that trigger a behavior, as well as the genetic and physiological mechanisms underlying a behavioral act. Ultimate questions address the evolutionary significance of a behavior. To emphasize the distinction (and also the connection) between proximate and ultimate causation, consider the observation that the magnolia warbler, like many animals, breeds in spring and early summer. In terms of proximate causation, a reasonable hypothesis is that breeding is triggered by the effect of increased day length on an animal's photoreceptors. Many animals can be stimulated to begin breeding by experimentally lengthening their daily exposure to light. This stimulus results in neural and hormonal changes that induce behavior associated with reproduction, such as singing and nest building in birds.
+
+In contrast to proximate questions, ultimate questions take such forms as, Why did natural selection favor this behavior and not a different one? Hypotheses addressing "why" questions propose that the behavior maximizes fitness in some particular way. A reasonable hypothesis for why many animals reproduce in spring and early summer is that this is when breeding is most productive or adaptive. For warblers and many other birds, an abundant supply of insects in the spring provides ample food for rapidly growing offspring. Individuals that attempt to breed at other times would be at a selective disadvantage. Increased day length itself has little adaptive significance, but since it is the most reliable indicator of time of year, there has been selection for a proximate mechanism that depends on increased day length. In brief, proximate mechanisms produce behaviors that ultimately evolved because they reflect Darwinian fitness in some particular way. Behavioral biologists also use the comparative methods of phylogenetic biology (see Chapter 25) to formulate hypotheses about the evolution of behavior. Phylogenetic trees based on molecular, morphological, or behavioral data and illustrating the most likely evolutionary history of a closely related group of species enable researchers to estimate when a particular behavior arose in a lineage, whether it arose once or repeatedly, and which kinds of behavior occurred in ancestors.
+
+
+
+
+
+ Behavior results from both genes and environmental factors
+
+A myth that is still perpetuated by the popular media is that behavior is due either to genes (nature) or to environmental influences (nurture). In biology, however, the nature-versus-nurture issue is not about either/or; it is about how both the genes and the environment influence the development of phenotypes, including behavioral phenotypes. If we consider the development of any behavioral trait, we find a series of environmental and genetic influences. As we discussed in Chapter 14, phenotype depends on both genes and the environment; behavioral traits have genetic and environmental components, as do all of an animal's anatomical and physiological features.
+
+Thus, we can move from the question of whether behavior is genetic or environmental to ask how different factors influence a particular behavior. One approach to the question is in terms of the norm of reaction (see Chapter 14); we measure, for a particular genotype, what behavioral phenotypes develop in a range of environments. In some cases, much the same behavior develops in all environments; in other cases, the behavior is variable, depending on the environmental experience. It takes thorough research on each case to describe the genetic and environmental influences, as the case study in FIGURE 51.1 illustrates.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-1. Genetic and environmental components of behavior: a case study.
+
+In a few cases, researchers have been able to link behaviors to specific genes. For instance, Marla Sokolowski, of Toronto University, studied a genetic polymorphism in a gene called dg2 in fruit flies (Drosophila). The gene influences the level of a protein that functions in signaling within cells. One allele of dg2 causes a relatively low level of the protein. This results in a behavioral phenotype called "sitter," in which the fly moves less than average. A different allele causes a higher level of the protein and a "rover" behavioral phenotype, in which the fly moves about more than average. In this example, a simple difference in one gene changes the behavioral phenotype. However, a complete account of the development of movement patterns in flies would require a look at many more genes in addition to dg2. The dg2 gene interacts with other genes, and environmental conditions are also influential. Most behavioral traits are polygenic, with environmental variables producing broad norms of reaction.
+
+So what do the media reports of newly discovered genes for complex human behavioral traits, such as depression, violence, or alcoholism, really mean? According to Robert Plomin, director of the Center for Developmental and Health Genetics at Pennsylvania State University, research into the heritability of behavior is the best demonstration of the importance of environment. As Plomin puts it, genes and nongenetic environmental factors "build on each other."
+
+The environmental factors that affect behavior are all conditions in which the genes underlying behavior are expressed. This includes the chemical environment within cells, as well as all the hormonal and other chemical and physical conditions experienced by a developing animal within an egg or womb. It also includes the multiple interactions among components of an animal's nervous system and effectors, as well as the varied chemical, visual, auditory, or tactile interactions with other organisms.
+
+
+
+
+
+ Innate behavior is developmentally fixed
+
+If behavior has both genetic and environmental underpinnings, what do we mean when we say a particular behavior is innate? For example, newly hatched, still-blind birds of many species beg for food by raising their heads, opening their mouths, and cheeping loudly when a parent lands on the side of the nest. This behavior is often attributed to genetic programming without any environmental influence. However, it is imprecise to say that any behavior is due solely to genes. All genes, including those whose expression underlies innate behavior, require an environment (a physical body) to be expressed. The key point about innate behavior is that the range of environmental differences among individuals does not appear to alter the behavior. Although usage of the term innate varies, in behavioral biology it refers to behavior that is developmentally fixed; all individuals exhibit virtually the same behavior despite the inevitable environmental differences within and outside their bodies during development and throughout life.
+
+How did innate behavior evolve? Performing certain behaviors automatically, without having any specific experience, may have maximized fitness to the point that genes for variant behavior were lost. For example, there are some things that a young animal has to get right on the first try if it is to stay alive. Kittiwakes are gulls that nest on cliff ledges. Uniquely among gull species, kittiwakes show an innate aversion to cliff edges; they turn away from the edge. Kittiwake chicks in earlier generations that did not show the edge-aversion response failed to become ancestors to modern kittiwakes.
+
+
+
+
+
+ Classical ethology presaged an evolutionary approach to behavioral biology
+
+Modern behavioral biology has its roots in a research field known as ethology, which originated in the 1930s with naturalists who tried to understand how a variety of animals behave in their natural habitats (FIGURE 51.2). Foremost among these naturalists were Karl von Frisch, Konrad Lorenz, and Niko Tinbergen, who shared a Nobel Prize in 1973 for their discoveries. How animals can carry out many behaviors without ever having seen them performed was one of the major subjects of early ethological research. Ethologists focused on proximate mechanisms, but with an eye toward the genetic links to behavior and the adaptive nature of behavior, an orientation that helped connect behavioral biology with evolution and ecology.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-2. Niko Tinbergen's experiments on the digger wasp's nest-locating behavior.
+
+Early ethologists developed the concept of a fixed action pattern (FAP), a sequence of behavioral acts that is essentially unchangeable and usually carried to completion once initiated. A FAP is triggered by an external sensory stimulus known as a sign stimulus. In many cases, the sign stimulus is some feature of another species. For example, some moths instantly fold their wings and drop to the ground in response to the ultrasonic signals sent out by predatory bats (see the introduction to Chapter 49). The ultrasonic signals are the cue that triggers avoidance behavior in the moths.
+
+A classic case of sign stimuli and FAPs is seen in the male three-spined stickleback fish, which attacks other males that invade his territory. The stimulus for the attack behavior is the red belly of the intruder. The stickleback will not attack an invading fish lacking a red underside, but will readily attack nonfishlike models as long as some red is present (FIGURE 51.3). Tinbergen, who first reported these findings, was inspired to look into the matter by his casual observation that his fish responded aggressively when a red truck passed their tank. As it turns out, red coloration of body parts tends to trigger either aggressive or sexual behavior in many species that have color vision.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-3. Classic demonstration of innate behavior. Aggression in a male three-spined stickleback fish is triggered by a simple visual cue. The realistic model at the top without a red underside produces no response. All the others produce strong responses because they have the required red underside.
+
+Classic experiments on FAPs and sign stimuli have shown that many animals tend to use a relatively limited subset of the sensory information available to them and to behave stereotypically in many situations. In contrast, humans often tend to respond to an entire situation, and we generally base our actions on more diverse information. If a stickleback processed information like a human, it would realize that the models in FIGURE 51.3 are not real fish, despite their red bellies. Actually, relatively simple, stereotypical behaviors seem to occur in all animals, including humans. Human infants grasp strongly with their hands in response to a tactile stimulus. An infant's smile could also be considered a FAP; it is readily induced by simple stimuli, such as a sound or a figure consisting of two dark spots on a white circle, a kind of rudimentary representation of a face.
+
+A sign stimulus is a key feature in an animal's environment, leading the animal to respond quickly and appropriately. However, because the animal responds to the sign rather than to the whole environmental context, the animal can often be tricked into inappropriate behavior, as in the stickleback's response to the models in FIGURE 51.3. In some cases, such misdirected responses can be detrimental. For example, mayflies swarm and mate above water, and females then deposit their eggs on the water surface. The breeding mayflies detect a water surface by the polarization pattern of the light reflected from it. Unfortunately, roads can produce a similar polarization pattern in reflected light, and mayflies now often lay their eggs on roads, where the eggs perish (FIGURE 51.4). Many mayfly species are endangered, and their behavioral mechanism for detecting water may drive them to extinction in environments where roads are becoming more abundant than standing water. Given the potential of sign stimuli to mislead animals into maladaptive behavior, we might ask why animals use them at all. Some ethologists have suggested that FAPs triggered by simple cues prevent an animal from wasting time processing or integrating a wide variety of inputs.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-4. Mayflies laying eggs on human-made surfaces. Mayflies normally lay their eggs on water, but the pattern of polarized light that they use to find water is also produced by reflections from black plastic sheets and roads. (a) Female mayfly ovipositing (egg-laying) on black plastic sheet used in agriculture (b) Male mayfly attracted to a dry asphalt road
+
+Although some simple behavior patterns can be understood in terms of sign stimuli and fixed action patterns, the concept is too simplistic to account for much of animal behavior. Though historically important in the development of behavioral biology, sign stimuli and fixed action patterns are not major focuses of behavioral research today.
+
+
+
+
+
+ Behavioral ecology emphasizes evolutionary hypotheses
+
+Evolution is the core theme of biology, and the study of behavior in an ecological context emphasizes evolutionary (ultimate) explanations. Behavioral ecology is the research field that views behavior as an evolutionary adaptation to the natural ecological conditions of animals. Natural selection will favor behavioral patterns that enhance survival and reproductive success. Thus, an animal showing optimal behavior maximizes its reproductive fitness. However, most animal behavior is less than optimal; for instance, environmental change or constraints on an animal's sensory powers may result in suboptimal behavior. Therefore, although we can expect animal behavior to be well adapted, it may not be optimally adapted.
+
+In the remainder of this section, we will explore some examples of research in behavioral ecology.
+
+Songbird Repertoires
+
+Many songbirds have a repertoire of song types. Some of these songs sound identical to us but can be easily distinguished when analyzed with an instrument called a sound spectrograph (FIGURE 51.5). Why has natural selection favored this multisong behavior over the expert vocalization of a single tune?
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-5. The repertoire of a songbird. These sonograms, or "voiceprints," show a graph of a sound's frequency (perceived as pitch) versus time. Four distinct song types of one male brown-headed cowbird are illustrated. Individual cowbirds generally have three to six song types, but other species have dozens or even hundreds of types.
+
+Following the approach of behavioral ecology, you could formulate several testable hypotheses, all starting with "A repertoire increases fitness because&#160;...&#160;" You might postulate that a repertoire increases fitness because it makes an older, more experienced male more attractive to females. For this hypothesis to be true, it must be the case that (1) males learn more song types as they get older, making repertoire size a reliable indicator of age, and (2) females prefer to mate with males having large repertoires. Thus, your hypothesis makes two clearly testable predictions.
+
+To test the first prediction, you can determine whether there is a correlation between a male's age and the size of his song repertoire. If there is not, your hypothesis will be invalidated, which would be informative although perhaps disappointing. As it turns out, some songbird species show this correlation, while others do not. Next, you can determine whether females are more sexually stimulated by a large song repertoire than by a small one. This can be done by playing tape-recorded male songs to females that have been made especially receptive by the temporary administration of a female hormone. Such females indicate their song preferences by assuming a copulatory posture, even though there is no male around. FIGURE 51.6 shows another way to assess female responses. All this work may lead to an evolutionary explanation: Large bird-song repertoires result in females mating more often or earlier in the season with experienced males, who will give their offspring a better chance to survive.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-6. Female warblers prefer males with large song repertoires. Male sedge warblers with large repertoires attract females to pair with them earlier in the breeding season, as well as more often, than males with small repertoires. Males with large repertoires, as well as the females that prefer large repertoires, benefit from pairing early because breeding early tends to be more successful than breeding late in the season.
+
+Now suppose you did not use evolutionary principles to guide your research on song repertoires. Without an approach that generates testable hypotheses and predictions, you would probably record observations of numerous aspects of singing behavior. Although these efforts may produce interesting data, they would not explain the behavior. Alternatively, you might hypothesize that repertoires have nothing to do with fitness, but that male birds simply find variety more pleasurable than singing the same boring song over and over again. The method for testing such a hypothesis would not be clear, emphasizing again how much more productive it is to use evolutionary principles as a guide to behavioral research.
+
+Cost-Benefit Analysis of Foraging Behavior
+
+Because adequate nutrition is so essential to an animal's survival and reproductive success, we should expect natural selection to refine behaviors that enhance the efficiency of feeding. Food-obtaining behavior includes not only eating, but also any mechanisms an animal uses to recognize, search for, and capture food items. The term foraging encompasses this full set of behaviors. Optimal foraging theory views foraging behavior as a compromise between feeding costs and feeding benefits. How do foraging behaviors balance the benefits of nutrition against the costs of obtaining food? Some behavioral ecologists are applying cost-benefit analysis to study the proximate and ultimate causes of diverse foraging strategies.
+
+Reto Zach, of the University of British Columbia, conducted a classic cost-benefit analysis of feeding behavior in crows of the Pacific Northwest. Crows are opportunistic feeders that avail themselves of a variety of food items. On Mandarte Island, off British Columbia, crows search the rocky tide pools for gastropod mollusks called whelks. The bird grasps its prey in its beak, then flies upward and drops the whelk onto the rocks to break the shell. If successful, the crow can dine on the mollusk's soft parts. If the shell doesn't break, the crow flies up and drops the shell again and again until the shell breaks. Of course, the higher the bird flies before dropping a whelk, the fewer the number of drops required to break the shell. But there is an energy cost correlated with the height of the crow's ascent. Zach predicted that crows would, on average, fly to a height that would provide the most food relative to the amount of total energy required to break the whelk shells. To determine the optimal height, Zach erected a 15 m pole and then dropped shells of relatively uniform size onto rocks from different heights along the pole. He then tabulated the data and calculated the average total effort required to break shells by dropping them from different heights:
+
+Height of Drops (m)Average Number of Drops Required to Break ShellTotal Flight Height (Number of Drops &#160;X&#160; Height per Drop)255110313395630753515460Note that a height of about 5 m is optimal for breaking shells with the least amount of work. Although dropping the shells from 7 or 15 m resulted in breakage with fewer drops, that advantage was small compared with the effort it would take to fly that high. When Zach measured the average flight height for crows in their whelk-eating behavior, it was 5.23 m, very close to the prediction based on an optimal trade-off between energy gained (food) versus energy expended.
+
+The feeding behavior of the bluegill sunfish provides further support for optimal foraging theory. These animals feed on small crustaceans called Daphnia, generally selecting larger individuals, which supply the most energy. However, smaller prey will be selected if larger prey are too far away (FIGURE 51.7a, p. 1128). The optimal foraging approach predicts that the proportion of small to large prey eaten will also vary with the overall density of prey. At very low prey densities, bluegill sunfish should exhibit little size selectivity, because all the prey encountered are needed to meet energy requirements. At higher prey densities, it is more efficient to concentrate on larger crustaceans. In actual experiments, bluegill sunfish did become more selective at higher prey densities, though not to the extent that would theoretically maximize efficiency (FIGURE 51.7b). Young bluegill sunfish forage fairly efficiently, but not as close to the optimum as older individuals, who are apparently able to make more complex distinctions. It may be that younger fish judge size and distance less accurately because their vision is not yet completely developed; learning may also be involved.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-7. Feeding by young bluegill sunfish.
+
+Behavioral ecologists recognize that energy costs and benefits are not the only factors affecting foraging behavior. Animals require not only calories, but also essential nutrients, and this, too, affects an animal's choices of food items. Moreover, foraging behavior tends to minimize the risk of the predator becoming the prey while foraging. As the following example shows, there is more to analyzing foraging behavior than weighing energy costs versus energy benefits.
+
+The smallmouth bass readily consumes both minnows and crayfish. The fact that it does not show an overall preference suggests that the trade-offs balance, with minnows being the optimal prey in some situations and crayfish in others. Minnows contain more usable energy per unit weight (the crayfish has a lot of hard-to-digest exoskeleton), but they may require a greater energy expenditure to pursue. However, even though crayfish may be easier to catch, their large claws and aggressive resistance make them harder to subdue. Trade-offs also include the relative abundance and size of each type of prey. The brain of the smallmouth bass is somehow able to integrate all the relevant variables and formulate responses resulting in a highly efficient foraging behavior that involves switching between minnows and crayfish as conditions change. The proximate mechanisms responsible for this process are not known, but we might predict that they include specific cues that trigger innate as well as mainly experience-based behavior, to which we turn next.
+
+
+
+
+
+ Learning is experience-based modification of behavior
+
+Analyzing the genetic and environmental underpinnings of behavior can help scientists understand the extent to which behavior can vary among individuals of a species. In this section, we examine various forms of learning, which is the modification of behavior resulting from specific experiences. As we have said, even though an animal need not witness a developmentally fixed (innate) behavior to perform it, experience is still involved. Most innate behaviors improve with performance as animals learn to carry them out more efficiently. Conversely, it might seem that some things, such as the different human languages, are completely learned. It is true that the ability to speak a specific language, such as English or Spanish, has little or no genetic basis. However, the ability to learn a language is a function of a complex brain that develops in a particular environmental context under the guidance of a human genome.
+
+The alarm calls of vervet monkeys (Cercopithecus aethiops) provide an example of how animals improve their performance of a behavior by means of learning. Dorothy Cheney and Richard Seyfarth, of the University of Pennsylvania, studied vervet monkeys in Amboseli National Park, Kenya. The vervets there give distinct alarm calls when they see leopards, eagles, or snakes. When a vervet sees a leopard, it gives a loud barking sound; when it sees an eagle, it gives a short double-syllabled cough; and the snake alarm call is a "chutter." Leopards, eagles, and snakes all eat vervet monkeys, which are about the size of domestic cats. Upon hearing a particular alarm call, the other members of the vervet group behave in an appropriate way: They run up a tree on hearing the alarm call for a leopard (vervets are nimbler than leopards in the trees); look up on hearing the alarm call for an eagle; and look down on hearing the alarm call for a snake (FIGURE 51.8).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-8. Vervet monkeys learn correct use of alarm calls. Vervet monkeys give different alarm calls on seeing different sources of danger. For example, on seeing a python, vervets give a distinct "snake" alarm call (inset), and the members of the group stand upright and look down. Vervets probably learn when to use appropriate calls from the behavior of other members of their group.
+
+Infant vervet monkeys give alarm calls, but in a relatively undiscriminating way. For example, they give the "eagle" alarm call on seeing any bird, including harmless birds such as bee-eaters. With age, the monkeys improve their accuracy. In fact, adult vervet monkeys give the eagle alarm only on seeing an eagle belonging to either of the two species that eat vervets. The mechanism by which infants learn how to give the right call probably includes experiencing the behavior of other members of the group. For instance, if the infant gives the call on the right occasion--an eagle alarm when there is an eagle overhead, for example--another member of the group will also give the eagle call almost immediately. But if the infant gives the call when there is only a bee-eater flying by, the adults in the group are silent. The social confirmation of the infant's call probably helps it to learn when to give each call. Thus, vervet monkeys have an initial, unlearned tendency to give calls on seeing potentially threatening objects in the environment. Learning then fine-tunes the call such that adults only give calls in response to genuine dangers.
+
+Learning Versus Maturation
+
+Learning often affects innate (developmentally fixed) behavior, but changes in innate behaviors are not always due to learning. For instance, behavior may change because of ongoing developmental changes in neuromuscular systems, a process called maturation. We commonly speak of birds "learning" to fly, and you may have seen fledgling birds awkwardly fluttering about as if they were practicing. However, young birds have been experimentally reared in restrictive devices so that they could never flap their wings until an age when their normal kin were already flying. Such birds flew immediately and normally when released. Thus, the improvement must have resulted from neuromuscular maturation, not from learning.
+
+In many cases, the distinction between learning and maturation is less obvious. When an adult herring gull brings food to its chick, the adult bends its head down and moves its beak, which has a red spot. The chick pecks the beak, stimulating the adult to regurgitate the food. Experiments have shown that the red spot swung horizontally at the end of a beak is the signal that elicits the chick's pecking. However, newly hatched chicks are indiscriminate and will peck at a wide variety of objects, whereas chicks a week or two old show their strongest response to accurate models of their parents' beaks. Would you predict that this change in the chick's behavior results from maturation or learning? Experiments involving herring gulls and laughing gulls show that maturation is not involved. A laughing gull chick that has been reared by a herring gull will respond more strongly to its foster parent's beak type than to the beak of its own species. The reverse is true for a herring gull chick cross-fostered by laughing gulls. This is an example of how learning can modify a behavior that is basically developmentally fixed.
+
+Habituation
+
+Habituation is a very simple type of learning that involves a loss of responsiveness to stimuli that convey little or no information. Examples are widespread. A hydra contracts when disturbed by a slight touch; it stops responding, however, if disturbed repeatedly by such a stimulus. Many mammals and birds recognize alarm calls of members of their species, but they eventually stop responding if these calls are not followed by an actual attack (the "cry-wolf" effect). In terms of ultimate causation, habituation may increase fitness by allowing an animal's nervous system to focus on stimuli that signal food, mates, or real danger instead of wasting time or energy on a vast number of other stimuli that are irrelevant to the animal's survival and reproduction.
+
+
+
+
+
+ Imprinting is learning limited to a sensitive period
+
+Some of the most interesting cases where learning interacts closely with innate behavior involve the phenomenon known as imprinting, learning that is limited to a specific time period in an animal's life and that is generally irreversible. You may have seen young ducks or geese following their mother. Mother-offspring bonding in species with parental care is a critical part of the reproductive cycle. If bonding fails to happen, the parent will not initiate care of the infant. The result is certain death for the offspring and loss of reproductive fitness for the parent. But how do the young know whom--or what--to follow? In his most famous study, Konrad Lorenz divided a clutch of graylag goose eggs, leaving some with the mother and putting the rest in an incubator. The young reared by the mother showed normal behavior, following her about as goslings and eventually growing up to interact and mate with other geese. When the artificially incubated eggs hatched, the geese spent their first few hours with the researcher instead of with their mother. From that day on, they steadfastly followed Lorenz and showed no recognition of their own mother or other adults of their own species (FIGURE 51.9). As adults, the birds continued to prefer the company of Lorenz and other humans over that of their own species, and they sometimes even initiated courtship behavior with humans.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-9. Imprinting. Konrad Lorenz was "mother" to these imprinted geese.
+
+Apparently, graylag geese have no innate sense of "mother" or "I am a goose, you are a goose." Instead, they simply respond to and identify with the first object they encounter that has certain key characteristics. What is innate in these birds is the ability or tendency to respond; the outside world provides the imprinting stimulus, something to which the response will be directed. The most important imprinting stimulus in Lorenz's graylag geese was movement of an object away from the young, although the effect was greater if the object emitted some sound. The sound did not have to be that of a goose, however; Lorenz found that a box with a ticking clock in it was readily and permanently accepted as "mother."
+
+In contrast to other types of learning, imprinting is distinguished by a sensitive period, a limited phase in an animal's development when learning of particular behaviors can take place. Lorenz found, for example, that geese totally isolated from any moving objects during the first two days after hatching, which is the sensitive period for imprinting on parents, failed to imprint on anything afterward. Imprinting has commonly been thought of as involving very young animals and rather short sensitive periods. But it is now clear that a similar learning process occurs in older animals and that the sensitive period may be of various durations. For example, just as a young bird requires imprinting to "know" its parents, the adults must also imprint to recognize their young. For a day or two after their young hatch, adult herring gulls will accept and even defend a strange chick introduced into their nesting territory. After imprinting, which is probably based largely on individually variable cues, such as the call notes of chicks, the adults will kill and eat any strange chick.
+
+By imprinting on their parents, young birds first learn who will care for them and subsequently learn species identity and the kind of bird they should mate with later in life. Not only does this sexual imprinting occur later, but the sensitive period lasts longer. For example, in one study involving two closely related species of finches, young males of one species were reared first with members of their own species, then with members of the other species during their several-week-long sensitive period for sexual identity. Later, when exposed to females of their own species, they mated quite reluctantly. They readily mated with females of the other species, however, even when they had not seen any members of that species for as long as eight years. Identification with the second species had been permanently imprinted. Although a sensitive period and irreversibility characterize imprinting, these phenomena are not always rigidly fixed. For example, the cross-fostered finches did eventually mate with females of their own species.
+
+
+
+
+
+ Bird song provides a model system for understanding the development of behavior
+
+A considerable amount of research on how animals learn has focused on bird songs. Some relatively simple bird calls, such as the crowing of a rooster, seem to develop and improve without any type of learning. Thus, researchers interested in learning have focused on the songbirds, such as the sparrows and canaries, especially on the development of elaborate calls by the males. Such research has revealed that the learning techniques for mastering calls vary, depending on the songbird species.
+
+Some songbirds have a sensitive period for developing their songs. In white-crowned sparrows, for example, the sensitive period occurs during the first 50 days of life. Although the young bird does not sing during this phase, it memorizes the song of its own species by listening to other white-crowned sparrows sing. Behavioral biologists call this memorized song a template. In laboratory experiments, sparrows can form this template by listening to tape recordings during the 50-day sensitive period. But if a bird is isolated throughout this sensitive period, unable to hear either real sparrows or recordings, it fails to develop the adult song typical of its species.
+
+The sensitive period when a white-crowned sparrow forms a song template is followed by a second learning phase, when the juvenile bird sings some tentative notes that researchers call a subsong. With practice, the sparrow's subsong gradually improves until it sounds like the fully developed adult song of the species. During this practice phase, the juvenile bird hears its own singing and compares that vocal output with the template that was memorized during the sensitive learning period. In fact, sparrows that are experimentally deafened at the end of the sensitive phase fail to improve on their subsong, which they continue to sing into adulthood. During normal song development, once a sparrow's song matches the memorized template, it "crystallizes" as the final song, and the bird sings only the adult white-crowned sparrow song for the rest of its life (FIGURE 51.10a).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-10. Two kinds of bird-song development.
+
+Additional experiments revealed even more complexity in how birds learn their songs. When isolated white-crowned sparrows more than 50 days old were exposed to live singing adults of another species, they learned the song of the other species. Because a young bird can interact socially with a live singing adult, the live model provides a much stronger and more diverse set of stimuli than a taped song. These strong stimuli can overcome the developmentally fixed tendency to acquire only a white-crowned sparrow song. Again we see that an innate tendency can be modified by experience and is not necessarily inflexible. Furthermore, the sensitive period proved to be longer when the stimulus was a live bird than when it was a taped song.
+
+We humans also have a sensitive period for learning vocalizations. It is well known that foreign languages are learned most easily up until the teen years. Of course, this sensitive period is not rigidly fixed. Adults can learn new languages, but adults usually require much more time and effort to become fluent than a child does. Also, adults are much less flexible than children at learning to produce new sounds.
+
+Until recently, researchers assumed that all birds had to listen to themselves to develop a specific song. But eastern phoebes experimentally deafened early in life, well before they began to sing, developed normal songs of their species. Thus, there are important exceptions to the song-learning scenario seen in white-crowned sparrows. In fact, in certain songbirds, including canaries, a more open-ended development of song occurs (FIGURE 51.10b). Canaries have no sensitive period for song learning. A young canary begins with a subsong, but the full song it develops is not crystallized, as it is in white-crowned sparrows. Each year, an adult male canary learns a new song. Between breeding seasons, the song becomes flexible again. During this "plastic song" stage, the male creates a new, more elaborate song by adding syllables. The male sings the new song during the next breeding season, after which a plastic song stage leads to still another vocal version. And so on, year after year.
+
+Biologist Fernando Nottebohm identified the region of the forebrain responsible for song learning in canaries. He found that this region in male canaries shows dramatic individual variation in size according to the season and the complexity of an individual male's song. Brains are largest during the breeding season and in males with the most elaborate songs. The shrinking of this brain region at the end of the breeding season may be a mechanism for erasing unneeded songs. Subsequent regeneration of neurons in the brain during the plastic song phase provides a way for new song learning to take place. From an adaptive perspective, the ability of male canaries to learn new songs more than once in their lifetime must be critically important to their fitness, as this adaptation requires a considerable investment of energy. Nottebohm's findings illustrate the important results that can be gleaned from studies melding neurobiology and behavioral ecology.
+
+By analyzing the development of bird song, we can see why a simple division between innate and learned components of behavior has little value. There are both innate and learned influences in bird song development, but the interplay of these factors belies an innate/learned dichotomy.
+
+
+
+
+
+ Many animals can learn to associate one stimulus with another
+
+Many traditional studies in behavioral science were concerned with the proximate causes of associative learning, the ability of many animals to learn to associate one stimulus with another. Well known from the laboratory studies of Russian physiologist Ivan Pavlov in the early 1900s, a type of associative learning called classical conditioning involves learning to associate an arbitrary stimulus with a reward or punishment. Pavlov sprayed powdered meat into dogs' mouths, causing them to salivate (primarily a physiological rather than a behavioral response). Just before the spraying, however, he exposed the dogs to a sound, such as a ringing bell or a clicking metronome. Eventually, the dogs salivated readily in response to the sound alone, which they had learned to associate with the normal stimulus. Similar types of conditioning experiments have been carried out with other animals.
+
+Another type of associative learning is operant conditioning, also called trial-and-error learning. Here, an animal learns to associate one of its own behaviors with a reward or punishment and then tends to repeat or avoid that behavior. For example, predators quickly learn to associate certain kinds of potential prey with painful experiences and modify their behavior accordingly (FIGURE 51.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-11. Operant conditioning. A young coyote has probably learned from receiving a face full of painful quills to be wary of porcupines.
+
+The best-known laboratory studies involving operant conditioning date from the 1930s work of American psychologist B. F. Skinner. A rat or other animal placed in a "Skinner box" finds and manipulates a lever in the box, usually by accident, and is rewarded by the release of food. The animal quickly learns to associate manipulation of the lever with a food reward. Such learning is the basis for most of the animal training done by humans, in which the trainer typically encourages a behavior by rewarding the animal. Eventually, the animal performs the behavior on command, without always receiving a reward.
+
+
+
+
+
+ Practice and exercise may explain the ultimate bases of play
+
+Many mammals and some birds engage in behavior that can best be described as play. Such behavior has no apparent external goal but involves movements closely associated with goal-directed behaviors. For example, playful stalking and attacking of conspecifics (other members of the same species) occurs in many predator species, such as those of the cat and dog families (FIGURE 51.12). Although this behavior does not usually involve painful bites, the animals grab and mouth one another, using movements similar to those used to capture and kill prey. A study of bottlenose dolphins in Australia revealed that young dolphins spend long periods away from their mothers in groups of juveniles engaged in a full range of social and sexual play. African lions and dolphins are social animals, and a social lifestyle is one of the hallmarks of mammalian species that routinely engage in play.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-12. Play behavior. The roughhousing behavior of these lion cubs evolved in spite of the energy it consumes and the risks it poses. Practicing survival behavior (such as capturing prey), experimenting with social roles, and building a healthy body through exercise are three possible benefits of play.
+
+Another common feature of play is that it is potentially dangerous or costly. Baboons sometimes kill and eat juvenile vervet monkeys, and they are most successful in doing so when the monkeys are playing in groups away from adults. In a study of caged ibex, a type of wild goat, play resulted in at least 5 out of 14 kids sustaining injuries that produced limps. "Horsing around" often produces similar injuries in human kids.
+
+Play obviously consumes energy, and the risks to life and limb result in significant additional costs. What could be the ultimate adaptive basis for such seemingly pointless behavior? The "practice hypothesis" suggests that play is a type of learning that allows animals to perfect behaviors needed in functional circumstances. This hypothesis is supported by the observation that play is most common in young animals. However, movements used in play show little improvement after their first few practices. An equally likely ultimate explanation for play is the "exercise hypothesis," which suggests that play is adaptive because it keeps the muscular and cardiovascular systems in top condition. The exercise hypothesis also predicts that play should be especially common in young animals, because they typically do not have to exert themselves in useful activities while under the protection and care of their parents. However, recent studies of beluga whales and several species of dolphins indicate that play, such as creating complex air bubbles, is also common in adults, at least in captivity.
+
+
+
+
+
+ The study of cognition connects nervous system function with behavior
+
+The term cognition is variously defined. In a narrow sense, it is synonymous with consciousness, or awareness. In a broad sense--the way we use the term in this book--cognition is the ability of an animal's nervous system to perceive, store, process, and use information gathered by sensory receptors. The study of animal cognition, called cognitive ethology, examines the connection between an animal's nervous system and its behavior. Cognitive ethology includes, but is not limited to, the study of animal consciousness, or awareness.
+
+One area of research in cognitive ethology investigates how an animal's brain represents physical stimuli from the environment. For instance, what kind of calculations, if any, does the brain of a dog make about where a Frisbee will land? What is the nature of the dog's internal representation of the spatial relationships between the spinning Frisbee and other objects in the immediate environment? Questions such as these, concerned with internal representations of an animal's physical surroundings, are separate and distinct from questions about consciousness.
+
+
+
+
+
+ Animals use various cognitive mechanisms during movement through space
+
+Directed movement enables animals to avoid predators or poisons, migrate to a more favorable environment, obtain food, and find mates and nest sites. The mechanisms animals use for "finding their way" vary with the spatial scale of the trip and the kind of animal. We will survey three kinds of movement that use mechanisms of increasing cognitive complexity: kinesis and taxis, use of landmarks, and cognitive maps.
+
+Kinesis and Taxis
+
+The simplest mechanisms of movement are kineses and taxes. A kinesis is a simple change in activity or turning rate in response to a stimulus. Sow bugs, or wood lice, become more active in dry areas and less active in humid areas, a simple behavior that tends to keep these animals in moist environments. The animals do not move toward or away from specific conditions, but since they slow down in a favorable environment, they tend to stay there. In contrast, a taxis is a more or less automatic, oriented movement toward or away from some stimulus. For example, housefly larvae are negatively phototactic after feeding, automatically moving away from light; this simple response presumably ensures that the flies remain in an area where they are harder for predators to detect. Trout exhibit positive rheotaxis (from the Greek rheos, current); they automatically swim or orient themselves in an upstream direction, which keeps them from being swept away.
+
+Use of Landmarks Within a Familiar Area
+
+In FIGURE 51.2, we looked at a classic experiment on how digger wasps find their nest entrances. Tinbergen moved a circle of pinecones that had previously surrounded a nest entrance and observed that the wasp landed in the center of the pinecones, even though the nest entrance wasn't there. The wasp was using the pinecones as a landmark. The use of landmarks is a more complex cognitive mechanism than a taxis or kinesis. The wasp flies toward a stimulus (the center of the pinecones), as in a taxis, but the pinecone circle is an arbitrary landmark the animal must learn. One nest entrance may have pinecones around it, while another may be next to a pile of stones. Each wasp has to learn the unique landmarks of each individual nest site.
+
+Many animals learn the particular set of landmarks in their area and use those landmarks to find their way within the area. Honeybees, for example, keep track of the nectar supplies from their local flowers and concentrate their foraging on the flowers that are currently most nectar-rich. The bees use landmarks, among other mechanisms, to revisit the most productive flowers. In 2000, a team of biologists reported that they had tracked the foraging movements of honeybees by fitting the insects with tiny transponders (FIGURE 51.14a). Four-day-old honeybees made only short, nonforaging trips out of the hive (FIGURE 51.14b). Slightly older bees, six days old, made longer exploratory trips, but did not yet forage. Only older, fully mature bees foraged, and they moved in a "bee line," back and forth between the hive and nectar-rich flower fields. The earlier exploratory excursions were apparently required to learn a complex set of landmarks throughout the local area.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 51-14. Electronic surveillance of honeybees.
+
+Cognitive Maps
+
+An animal can move around its environment in a flexible and efficient manner using landmark orientation alone. Honeybees, for instance, might learn ten or so landmarks and locate their hive and flowers in relation to those landmarks. A more powerful mechanism is a cognitive map. A cognitive map is an internal representation, or code, of the spatial relationships among objects in an animal's surroundings. It is actually very difficult to distinguish experimentally between an animal that is simply using landmarks and one that is using an internal map. The best evidence for cognitive maps comes from research on birds called jays. A jay stores food in caches, from which the bird can retrieve the food later. An individual jay may store food in thousands of caches. It not only relocates each cache, but also keeps track of food quality, bypassing caches in which the food was relatively perishable and would have decayed. Research by Alan Kamil, of the Universty of Nebraska, suggests that jays use cognitive maps to memorize the locations of their food caches.
+
+Migration Behavior
+
+The most extensive studies of how animal cognition functions in movement have involved animals that exhibit migration, regular movement over relatively long distances. Migrating animals generally make one round trip between two regions each year, although there is considerable variation among species. The most notable examples are the migrations of birds, whales, a few butterfly species, and certain oceangoing fish. How is it, for example, that birds called golden plovers find their way over 13,000 km from their arctic breeding grounds to southeastern South America? Even more remarkable, some populations of these birds return to the Hawaiian and Marquesas Islands, small pieces of land in a vast expanse of ocean (FIGURE 51.15).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-15. Migration routes of the golden plover. These birds navigate vast expanses of ocean to the relatively small Hawaiian and Marquesas Islands (yellow). The ground-nesting plovers migrate from warm winter feeding areas to seasonally rich, essentially predator-free Arctic breeding grounds during the short Arctic summer.
+
+Migrating animals use one of three mechanisms (or some combination of the three) to find their way. In piloting, an animal moves from one familiar landmark to another until it reaches its destination. Piloting is used mostly for short-distance movements. In orientation, an animal detects compass directions and travels in a particular straight-line path for a certain distance or until it reaches its destination. The most complex process is navigation, in which an animal determines its present location relative to other locations in addition to detecting compass direction (orientation). If you were dropped off at an unfamiliar spot and told that your home was directly to the north, you could use a compass and straight-line travel to get home; that is, you could use orientation. But a compass alone would not be adequate if you were not told which way to go; to choose the right direction, you would need to determine where you were in relation to home. You would need a complex mental picture of your surroundings, a so-called map sense. FIGURE 51.16 reinforces this distinction between orientation and navigation.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-16. Orientation versus navigation in juvenile and adult starlings. Researchers captured about 11,000 starlings in the Netherlands during the birds' migration from their breeding grounds in northeastern Europe to their wintering grounds in Great Britain, Ireland, and northern France. After being transported to Switzerland (red arrow) and released, juvenile starlings, which had never made the journey before, continued to fly west and southwest (blue arrows), which brought them to Spain. Adults, all of whom had made the trip at least once before, flew northwest (green arrow), an atypical direction but one that took them to their usual wintering grounds. Members of both age-groups were able to detect direction, but only the adults exhibited true navigation because they had developed a "map sense" and could determine where their original goal was relative to the site to which they were transported.
+
+What sorts of cues do animals use for orientation and navigation? Some species of birds and other animals commonly use a combination of compass references: Earth's magnetic field, the sun (for daytime travel), and the stars (for nighttime travel). Calibrated against one another, these indicators provide excellent, albeit complex, cues to direction.
+
+Cognitive ethologists are interested in how animals utilize cues in moving from place to place. Orienting by the sun or stellar constellations requires an internal timing device to compensate for the continuous daily movement of celestial objects. Consider what would happen if you started walking one day, orienting yourself by keeping the sun on your left. In the morning, you would be heading south; but by evening, you would be heading back north, having made a circle and gotten nowhere. The stars also shift their apparent position as Earth rotates. One night-migrating bird, the indigo bunting, avoids the need for a timing mechanism by doing what ancient human navigators did: fixing on the North Star, which moves little. Many migrants, however, use an internal clock. For example, if an experimental sun is held in a constant position, starlings change their orientation steadily at a rate of about 15&#176; per hour. This normally compensates for the change in the sun's position as Earth rotates on its axis. The calibration problem is very complex because the apparent location of the sun shifts at a variable rate, being fastest at midday. Furthermore, the apparent position of celestial objects changes as the animal moves over its migration route. Recently, Kenneth and Mary Able, of the State University of New York at Albany, discovered that for one long-distance migrant--the Savannah sparrow--the magnetic and celestial compasses are reset during brief stopovers along the migration route.
+
+
+
+
+
+ The study of consciousness poses a unique challenge for scientists
+
+A simple but profound question is whether nonhuman animals are consciously aware of themselves and of the world around them. An equally profound question is whether the study of consciousness (awareness) is within the purview of science.
+
+Many people who have spent a lot of time with pets or wild animals argue that these animals are not behaving like sophisticated robots. But is a dog aware of itself when it is chasing a Frisbee? Do animals "feel" pleasure or sadness as we do? To date, we have no way of answering such questions directly, because conscious awareness is known only to the individual that experiences it, and unlike phenomena that can be studied objectively, it is not associated with any observable behavioral or physiological change.
+
+Donald Griffin, of Princeton University, is a foremost proponent of the view that conscious thinking is an inherent and essential part of the behavior of many nonhuman animals. Griffin argues that if other animals behave in ways we associate with conscious processing in ourselves, perhaps it makes sense to assume that they have the same underlying awareness. In her famous field studies, Jane Goodall has described cognitive decision making in chimpanzees. Griffin suggests that such abilities may extend to many nonprimate branches of the phylogenetic tree as well. He argues, for example, that conscious processes are at the heart of such behaviors as the injury-feigning "strategy" of some species of ground-nesting birds (FIGURE 51.17).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-17. Injury-feigning display. This killdeer uses deception to defend her nest against predators or human disturbance. When danger threatens, she leaves the nest, which is usually concealed, and begins an elaborate display as though she has a broken wing. This behavior has the effect of leading the potential predator away from the nest. As the predator gets close to her, she simply flies away. She returns to the nest only after the danger has passed. Killdeers show extraordinary individual variation in the form and use of this display. In addition, individual killdeers use multiple variations of the display, depending on the type of threat to the nest and whether or not they have experienced the threat before. Some cognitive ethologists point to versatile behavior such as this to support the hypothesis that nonhuman animals are conscious, thinking beings.
+
+Because of the difficulty of scientifically testing questions about consciousness, some researchers assume the most conservative position--that most animals are not aware. There are, of course, intermediate positions within the argument, and no behavioral biologist would argue that all animals behave in ways that indicate consciousness. Moreover, other animals may lack the ability to consciously integrate information (to "think") to the same extent as humans do, but is this a matter of degree--a continuum of abilities--or are humans fundamentally different in some behavioral respect? Ultimately, the answers we find about animal consciousness may profoundly affect how we interact with other animals--and how we view ourselves as well.
+
+
+
+
+
+ Sociobiology places social behavior in an evolutionary context
+
+Social behavior, broadly defined, is any kind of interaction between two or more animals, usually of the same species. Although most sexually reproducing species must be social for part of their life cycle in order to reproduce, some species spend most of their lives in close association with conspecifics. Social interactions have long been a research focus for scientists who study behavior. The complexity of behavior increases dramatically when interactions among individuals are considered. Aggression, courtship, cooperation, and even deception are part of the range of social behavior.
+
+Social behavior raises particularly interesting questions about evolutionary adaptation. In morphology and physiology, it is often obvious how some feature of an organism is beneficial. Wings, for instance, are adaptations for flight. But with social behavior, the answers are sometimes less intuitive. As we will see, males and females in some species may have long, complicated courtship periods, which raises the question of why mating could not be done more simply. And some animals behave altruistically (unselfishly), in ways that appear to reduce the number of offspring they produce. Thus, social behavior can appear inefficient or even counterproductive to reproductive success. Nevertheless, extensive research is beginning to reveal how these behaviors are adaptive and how they could have evolved by natural selection.
+
+The discipline of sociobiology applies evolutionary theory to the study and interpretation of social behavior. Much of the evolutionary theory underlying the modern study of social behavior was conceived by the late British biologist William Hamilton, who considered how natural selection acts on the social behavior of individuals. The evolutionary emphasis of Hamilton's work underlies sociobiology and the more general field of behavioral ecology as it is practiced today. The development of sociobiology into a coherent method of analysis and interpretation was further catalyzed in 1975 with the publication of E. O. Wilson's watershed book Sociobiology: The New Synthesis.
+
+
+
+
+
+ Competitive social behaviors often represent contests for resources
+
+Because members of a population have a common niche, there is a strong potential for conflict, especially among members of species that normally maintain densities near what the environment can sustain. Sometimes social behavior seems to involve cooperation, as when a group carries out behavior more efficiently than is possible for a single individual (FIGURE51.18). Keep in mind, however, that even when behavior requires some cooperation and seems to be mutually beneficial to interacting individuals, as in mating behavior, each participant usually acts in a way that will maximize its benefits, even if this is at a cost to the other participant. In this section, we examine competitive social interactions, where this "selfish" aspect of behavior is most obvious. Subsequent sections focus on social behaviors involving cooperation.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-18. Cooperative prey capture. (a) African wild dogs. This pack of African wild dogs is killing a wildebeest much larger than themselves. (b) White pelicans. This line of white pelicans is moving toward a school of fish. This cooperative behavior makes it more difficult for fish to escape by swimming around the birds.
+
+Agonistic Behavior
+
+In agonistic behavior, a contest involving both threatening and submissive behavior determines which competitor gains access to some resource, such as food or a mate. Sometimes the encounter involves tests of strength. More commonly, the contestants engage in threat displays that make them look large or fierce, often with exaggerated posturing and vocalizations. Eventually, one individual stops threatening and presents a submissive or appeasement display, in effect surrendering. Much of this behavior includes ritual, the use of symbolic activity, with no serious harm done to either combatant (FIGURE 51.19). Dogs and wolves show aggression by baring their teeth; erecting their ears, tail, and fur; standing upright; and looking directly at their opponent--all of which make the animal appear large and threatening. The eventual loser, on the other hand, sleeks its fur, tucks its tail, and looks away.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-19. Ritual wrestling by rattlesnakes. The rattlesnakes attempt to pin each other to the ground, but they never use their deadly fangs in such combat.
+
+The degree to which combat is ritualized depends on the scarcity of the resource and the likelihood that the resource will be available again. For example, male ground squirrels often inflict severe injury upon, or even kill, each other when battling for access to sexually receptive females. In this case, the females for which the ground squirrels are competing are in estrus and receptive to male courtship for only a few hours each year; thus, a male's entire reproductive fitness may depend on his ability to compete against other males that one day.
+
+In animals that live in fairly permanent social groups, there are often conflicts in which there is no clear winner and loser; although one of the animals may win a particular face-off, that individual would still benefit from having friendly relations with the "loser." In this case, there is usually some kind of reconciliation behavior between the conflicting individuals following the conflict itself. For example, a chimpanzee that has threatened another member of its group may invite reconciliation by a hand gesture, leading to a bout of friendly grooming (FIGURE 51.20). Social primates seem to spend substantial time in reconciliation and pacification-type behavior.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-20. Reconciliation in chimpanzees. This photo shows two male chimpanzees 10 minutes after a conflict between them. The male at left had threatened the male at right, who had eventually run up a tree. Now the male at left initiates reconciliation by a hand gesture and by making eye contact. Soon after, the two males descended to the ground and groomed each other.
+
+Dominance Hierarchies
+
+Many animals live in social groups maintained by agonistic behavior. Chickens are an example. If several hens who are unfamiliar with one another are put together, they respond by skirmishing and pecking each other. Eventually, the group establishes a clear "pecking order"--a more or less linear dominance hierarchy. Within a group, the alpha (top-ranked) hen controls the behavior of all the others, often by mere threats rather than actual pecking. The beta (second-ranked) hen similarly subdues all others except the alpha, and so on down the line to the omega, or lowest-ranking, animal. The advantage to the top-ranked bird is obvious; it is assured access to resources, such as food. And for lower-ranked animals, the system ensures that they do not waste energy or risk harm in futile combat.
+
+Territoriality
+
+A territory is an area that an individual defends, usually excluding other members of its own species. Territories are typically used for feeding, mating, and rearing young. A territory is usually fixed in location, its size varying with the species, the territory's function, and the amount of resources available. Song sparrow pairs, for example, may have territories of about 3,000 m2, in which they carry out all activities during the several months of their breeding season. Gannets and most other seabirds, in contrast, mate and nest in territories of only a few square meters or less and feed away from their territories (FIGURE 51.21). Bull sea lions defend small territories used only for mating, whereas red squirrels have rather large territories apparently based on feeding patterns. In many species that defend their territories only during the breeding season, individuals may form social groups at other times. Chickadees, for instance, form monogamous breeding pairs that defend small territories in the summer. In the winter, they form larger flocks, enabling the birds to forage more efficiently and benefit from the increased protection from predators that results from membership in a large group.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-21. Territories. Gannets nest virtually only a peck apart and defend their territories by calling and pecking at each other. This is a population of Australian gannets in New Zealand.
+
+Note that there is a distinction between a territory and a home range, which is simply the area in which an animal roams about and which is often not defended. In some species, such as breeding song sparrows, territory and home range are the same; but for other species, such as gannets, a territory is considerably smaller than the home range. The distinction is not always clear. Gray squirrels, for example, typically have home ranges that overlap extensively, but one individual may defend part of the range from competitors.
+
+Territories are established and defended through agonistic behavior, and an individual that has gained a territory is often difficult to dislodge. Why do owners usually win? One explanation in behavioral ecology is that a territory is worth more to an owner than to an intruder because the owner is already familiar with it. Thus, because it has more to gain from a territory, an owner is more likely to escalate a battle than is an intruder. In addition, established territory holders are likely to be older and more experienced at engaging in agonistic interactions.
+
+Natural selection does not always favor territoriality, and not all species are territorial. However, for those animals that are, the territory can provide exclusive access to food supplies, breeding areas, and places to raise young. Moreover, familiarity with a specific area may help individuals avoid predators. In a territorial species, such benefits outweigh the energy costs of defending the territory and thereby increase fitness.
+
+Ownership of a territory is usually continually proclaimed; this is a primary function of most familiar bird songs, as well as the noisy bellowing of sea lions and the chatter of red squirrels. Other animals may use scent marks or frequent patrols to warn potential invaders (FIGURE 51.22). Gray wolves, which live in packs in huge territories (hundreds of square kilometers), use multiple strategies to advertise territorial boundaries, including scent marking and howling. Multiple signals help dispel any ambiguities as to the boundaries of a territory, thereby minimizing the risk that one group will accidentally stray into the territory of a rival pack. This is especially important for wolves because actual face-to-face meetings between groups are often violent.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-22. Staking out territory with chemical markers. (a) This male cheetah, a resident of Africa's Serengeti National Park, is spray-urinating on a tree. The odor will serve as a chemical "No Trespassing" sign to other males. (b) Another male cheetah snifts a marked rock. With their keen olfactory sense, cheetahs can distinguish their own marks from those left by others. These signals help prevent face-to-face meetings that could escalate into violence.
+
+Defense of territory is usually directed only at conspecifics; a white-crowned sparrow may live within a song sparrow's territory because a different species usually occupies a different niche, or role in the environment, and is less likely to be a direct competitor. Another adaptive reason for concentrating defense on conspecifics is that they are likely to mate with a territory holder's mate.
+
+Although dominance hierarchies and territoriality evolved as a result of their advantages to individuals, such systems have important consequences at the population level because they tend to stabilize density. If resources were allocated evenly among all members of a population, the "fair share" that each individual received might not be enough to sustain anyone, leading to occasional population crashes. With dominance and territoriality, at least some individuals receive an adequate amount of a resource. In fact, if a resource such as food becomes scarce, territories often expand somewhat. In addition, there are usually individuals low in the hierarchy or lacking territories that are ready to move up or step in if one of the successful individuals dies. The result may be relatively stable populations from year to year.
+
+
+
+
+
+ Natural selection favors mating behavior that maximizes the quantity or quality of mating partners
+
+Reproductive behavior includes seeking mates, choosing among potential mates, competing for mates, and, in some species, caring for offspring. Behavioral ecology and its offshoot, sociobiology, seek to explain mating behaviors as outcomes of natural selection reinforcing those variations that enhance reproductive success.
+
+Courtship
+
+Courtship consists of behavior patterns that lead up to copulation (or to gamete release in species with external fertilization; see Chapter 46). In many species, courtship consists of a series of displays and movements by either the male, the female, or both. The elaborate courtship behavior of stickleback fish provides a classic example (FIGURE 51.23). Stickleback courtship lasts only a few minutes, but some animal species court for days or even months. Of what possible benefit to the individual is such elaborate courtship behavior? Put another way, how can natural selection explain the evolution of courtship behavior? Part of the answer is that courtship enables animals to identify potential mates of the same species. This would explain why courtship patterns are often especially elaborate and distinct when two closely related species occupy the same area. Also, courtship can help establish that a potential mate is physiologically ready to reproduce. In sticklebacks, for example, courtship succeeds only if the female displays a swollen belly, which is full of eggs, and the male demonstrates that he has built a nest (see FIGURE 51.23). But if courtship were only a matter of identifying a potential partner that is physiologically competent to reproduce, then such behavior could be much simpler than it is in many species. Much of courtship behavior apparently evolved because of sexual selection, an evolutionary process that we introduced in Chapter 23.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-23. Courtship behavior in the three-spined stickleback. Males are strongly territorial, defending an area in which they have built a nest. If a gravid (egg-carrying) female approaches, her swollen belly inhibits the male's aggressive behavior and elicits zigzag swimming in the male. This entices the female to swim closer, which in turn stimulates the male to swim to the nest and stick his snout inside. This action stimulates the female to wriggle into the tunnel. The male then nuzzles her tail, which stimulates her to spawn, after which she swims out the other end of the nest. The male then enters and deposits sperm on the eggs, after which he immediately and quite aggressively drives the female out of the area, apparently because she lacks the swollen belly that would inhibit his aggression.
+
+The hypothesis that a courtship behavior is an evolutionary product of sexual selection predicts a basic difference between the mating behaviors of males and females. The difference follows from the potential partners' relative amounts of parental investment in offspring. Parental investment refers to the time and resources an individual must spend to produce and nurture offspring. Eggs are generally much larger than sperm and are thus more energetically expensive to produce. Eutherian (placental) mammals produce relatively small eggs (though still much bigger than sperm), but the mother invests considerable time and resources in carrying and nourishing the offspring before their birth. In most species, a male's lower investment per offspring, compared to a female's, means that he can maximize his reproductive output by fertilizing the eggs of many females. Thus, a male's reproductive success is often proportional to his number of partners. This explains why competition among males for mates is common in the animal kingdom. In contrast, the reproductive success of females is less often dependent on the number of partners than it is on the vigor of the limited number of offspring she can produce. This explains why the females of many animal species are so selective in their choices of mates. Healthy mates provide the best opportunity for producing healthy offspring.
+
+This distinction based on parental investment--male competition/female choice--can account for many of the differences between males and females in their morphology and courtship behavior. In some cases, male competition has probably contributed to the evolution of agonistic behaviors and even weapons such as deer antlers, which the males use to compete for mates. But female choice seems to have an even more powerful effect in shaping the secondary sexual characteristics and courtship behaviors of males. For example, the showy displays of peacocks and other male birds during mating season have little to do with direct male-male competition and much to do with advertising robust health to choosy females (see FIGURE 23.16).
+
+As another example of how female choice affects the evolution of males, consider the courtship behavior of stalk-eyed flies (FIGURE 51.24). The eyes of these insects are at the tips of stalks, which are longer in males than in females. During courtship, a male presents himself to a female, front end on. Researchers have documented that females are more likely to mate with those males that have relatively long eyestalks; thus, female choice has been a strong selection factor in the evolution of long eyestalks in males. But why would the females favor this seemingly arbitrary trait? Behavioral ecologists have correlated certain genetic disorders in the male flies with an inability to develop long eyestalks. Such studies support the hypothesis that females are basing their mate choices on characteristics that are indicators of male quality.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-24. Male stalk-eyed fly. These Malaysian insects have eyes at the end of elongated stalks. Females usually select mates with relatively long eyestalks. The stalks are shorter in males with certain genetic disorders.
+
+Of course, the distinction between male competition and female choice becomes blurry if you consider that males compete by vying for female choice and not just by engaging in male-male confrontations. And in some species, it is the females who compete directly for mates and the males who are the more selective sex in choosing mates. This is common in species where males provide most of the care for offspring, which raises their parental investment. In the case of sticklebacks, both partners are heavily invested in offspring--the female in her costly production of eggs and the male in his investment in the building and protection of the nest. If you take another look at FIGURE 51.23, you will see that the female choice focuses on courtship signals that advertise a male's ability to provide parental care.
+
+Thus, the specifics of courtship behavior are tied to the natural history of the particular species. But the fascinating variety of dance steps, songs, and display organs are all connected by a comprehensive theory of courtship as an evolutionary product of sexual selection. According to this theory, specific courtship behaviors, like other social behaviors, evolve because they are practiced by the most reproductively successful individuals, which increases the representation of the genes for these behaviors in populations.
+
+Mating Systems
+
+The mating relationship between males and females varies a great deal from species to species. In many species, mating is promiscuous, with no strong pair-bonds or lasting relationships. In species where the mates remain together for a longer period, the relationship may be monogamous (one male mating with one female) or polygamous (an individual of one sex mating with several of the other). Polygamous relationships most often involve a single male and many females, called polygyny, which can be explained in terms of a difference in parental investment. However, in some species, a single female mates with several males, a relationship called polyandry.
+
+The needs of the young are an important ultimate factor in the evolution of mating systems. Most newly hatched birds cannot care for themselves and require a large, continuous food supply that one parent may not be able to provide. In such cases, a male may ultimately leave more viable offspring by helping a single mate than by going off to seek more mates. This may explain why most birds are monogamous. In birds with young that feed and care for themselves almost immediately after hatching, there is less need for parents to stay together. Males of these species can maximize their reproductive success by seeking other mates, and polygyny is relatively common in such birds. In the case of mammals, the lactating female is often the only food source for the young; males usually play no role. And in species where the males protect the females and young, they typically take care of many at once in a harem.
+
+Another factor that influences mating systems and parental care is certainty of paternity. Young born or eggs laid by a female definitely contain the female's genes. But even within a normally monogamous relationship, these young may have been fathered by a male other than the female's usual mate. The certainty of paternity is relatively low in most species with internal fertilization because the acts of mating and birth (or mating and egg laying) are separated over time. This could explain why exclusively male parental care occurs in very few species of birds and mammals. However, certainty of paternity is much higher when egg laying and mating occur together, as in external fertilization. This may explain why parental care in aquatic invertebrates, fishes, and amphibians, when it occurs at all, is at least as likely to be by males as by females (FIGURE 51.25). Male parental care occurs in only 2 out of 28 (7% ) fish and amphibian families with internal fertilization, but in 61 out of 89 (69% ) families with external fertilization. In fish, even when parental care is given exclusively by males, the mating system is often polygynous, with several females laying eggs in a nest tended by one male.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-25. Paternal care by a sea spider. In many species of marine arthropods called pycnogonids, or sea spiders, a male uses one pair of appendages to carry a ball of eggs that he has fertilized after their release from a mate. The male may mate with a few females, adding the bundle of eggs to those already under his care. The pycnogonid species in this photograph is unusual in that males continue to carry and protect their offspring for some time after hatching.
+
+It is important to point out that when behavioral ecologists use such terms as certainty of paternity, they do not mean that animals are aware of those factors when they behave a certain way. Parental behavior correlated with certainty of paternity exists because it has been reinforced over generations by natural selection.
+
+
+
+
+
+ Social interactions depend on diverse modes of communication
+
+Defining Animal Signals and Communication
+
+Much of what we have discussed under the topics of competitive social interactions and mating behaviors involves animals transmitting information by special behaviors called displays, or signals. In behavioral ecology, a signal is a behavior that causes a change in behavior in another animal. The transmission of, reception of, and response to signals make up what we call communication. Note that physically forcing another individual to behave in a certain way does not qualify as signaling. For example, if you were to push a sprinter out of the starting blocks at a track meet, the sprinter's behavior would change, but your action would not count as a signal. A signal would be shouting "Ready, set, go!" It is characteristic of signals that they are very efficient in energy costs. It takes less energy to shout "Go!" than it does to push someone down the track.
+
+Singing by male birds is an example of signaling. It transmits the information, "This is my territory. Keep out!" and has the effect that other males are less likely to encroach on the male's territory. This is almost certainly an important message of singing; if we play the tape-recorded songs of another male in a male bird's territory, he becomes highly agitated, approaching and sometimes even attacking the speaker. Another bird has not only ignored his warning but has claimed the territory for himself. This simple experiment is so infallible that some bird-watchers routinely use it to find and see secretive birds that would otherwise stay hidden. This "prerecorded message" procedure makes another important point. We cannot get into an animal's brain to determine whether it has received a message sent by another individual. How, then, do we know when communication has occurred? We usually say that communication has occurred when an act by a sender produces a detectable change in the behavior of another individual, the receiver. Bird song is communication because it produces a response.
+
+Animals communicate using visual, auditory, chemical (olfactory), tactile, and electrical signals. Which mode is used to transmit information is closely related to an animal's basic lifestyle. Most terrestrial mammals are nocturnal, which makes visual displays relatively ineffective. But olfactory and auditory signals work as well in the dark as in the light, and most mammalian species emphasize these signals. Birds, by contrast, are mostly diurnal and use mostly visual and auditory signals. They almost never use olfactory signals, probably because they can fly faster than chemical signals can travel. (It is hard to imagine a system in which it would be adaptive for a messenger to arrive before its message.) Unlike most mammals, humans are diurnal and in common with birds use mainly visual and auditory communication. Therefore, we can detect the songs and bright colors that birds use to communicate with each other. This may explain why bird-watching is so popular. If humans had the well-developed olfactory abilities of most mammals and could detect their rich world of chemical cues, mammal-sniffing might be as popular as bird-watching.
+
+Pheromones
+
+Animals that communicate by odors emit chemical signals called pheromones. These are especially common among mammals and insects and often relate to reproductive behavior. Female silkworm moths, for example, emit a pheromone that can attract males from several kilometers away. Once the moths are together, pheromones also trigger specific courtship behaviors. Another example is the familiar trailing behavior of ants, in which scouts release scents that guide other ants to the food (FIGURE 51.26).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-26. Fire ants following a pheromone trail. When a worker fire ant of the species Solenopsis invicta finds food on a scouting venture, she deposits a scent trail on her trip back to the ant colony. Other workers can then follow this pheromone trail to the food source.
+
+One of the most complex communication systems--certainly among invertebrates--is that of social, or hive, bees. Pheromones produced by a hive's queen and her daughters, the workers, maintain the social order of honeybee colonies. Recent studies indicate that varied blends of two fatty acids, rather than single chemicals, underlie the social behavior and reproduction of honeybees. The context of a chemical signal can be as important as the chemical itself. When male honeybees (drones) are outside the hive (where they can mate with a queen), they are attracted to her pheromone; however, when drones are inside the hive, they are unaffected by the queen's pheromone.
+
+The Dance of the Honeybee
+
+For maximum foraging efficiency, worker bees must convey to one another the location of good food sources, which may change frequently as various flowers bloom or new patches are discovered. How do bees communicate? The study of honeybee communication has a long and rich tradition of experimental research that continues to reveal new elements of the bees' language. The problem was first studied in the 1940s by Karl von Frisch, who carefully watched individual European honeybees (Apis mellifera carnica) as they returned to special observation hives. A returning bee would quickly become the center of attention by other bees, called followers (FIGURE 51.27a, p. 1144). The returning bee would go through a repetitive behavior that von Frisch called a dance. If the food source was close to the hive (less than 50 m away), the returning bee moved in tight circles while waggling its abdomen from side to side (FIGURE 51.27b). This dance was usually accompanied by the bee's regurgitating some of the acquired nectar. This behavior, which von Frisch called the "round dance," had the effect of exciting the follower bees and motivating them to leave the hive and search for food that was nearby.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-27. Communication in bees: one hypothesis. (a) Worker bees cluster around one of their sisters, recently returned from a foraging trip. (b) The round dance indicates that food is near but may provide no information on directionality or specific distance. (c) The waggle dance is performed when food is distant. This dance pattern resembles a figure eight, with a straight run between two semicircular movements. According to von Frisch's hypothesis, the waggle dance indicates both distance and direction. Distance is indicated by the duration of each waggle run or dance and the number of abdominal waggles performed per waggle run. Direction is indicated by the angle (in relation to the vertical surface of the hive) of the straight run that forms part of the dance itself. 
+			  
+		 For instance, if the straight run is directly upward, this signals that food is in the same direction as the sun. 
+			  
+		 If the straight run is directly downward, the food is in the direction opposite the sun. 
+			  
+		 If the angle is 30&#176; to the right of vertical, the food is 30&#176; to the right of the horizontal direction of the sun. And so forth. Odor cues (pheromones) and sound may also convey information about the location and type of food.
+
+However, bees often forage at great distances from the hive, sometimes in excess of 5 km. In such cases, the round dance is insufficient, lacking both directionality and distance cues necessary for the followers to locate the food source efficiently. A worker returning from a longer distance does a "waggle dance" (FIGURE 51.27c): a half-circle swing in one direction, followed by a straight run and then a half-circle swing in the other direction. This dance seems to indicate both direction and distance. The angle of the straight run in relation to the vertical surface of the open hive is the same as the horizontal angle of the food in relation to the sun. For example, if the bee runs at a 30&#176; angle to the right of vertical, the other workers will fly 30&#176; to the right of the horizontal direction of the sun. Distance to the food is indicated by a variety of elements of the waggle dance. For example, a longer straight run during the dance, and hence an increasing number of abdominal waggles per run, indicates a greater distance to the food source. During waggle dances, the bee also regurgitates nectar; thus, when bees leave to forage, they already "know" the type of food to seek, its distance, and its direction. There is also evidence that the sounds and odors emanating from the dancing bee provide information about the food source.
+
+
+
+
+
+ The concept of inclusive fitness can account for most altruistic behavior
+
+Many social behaviors are selfish, meaning that they benefit the individual at the expense of others, especially competitors. A bird that establishes a territory deprives other individuals of one, and if there is not enough habitat, these other individuals may be unable to breed. Even in species in which individuals do not engage in agonistic behavior, most adaptations that benefit one individual will indirectly harm others. For example, superior foraging ability by one individual may leave less food for others. It is easy to understand the pervasive nature of selfishness if natural selection shapes behavior. Behavior that maximizes an individual's reproductive success will be favored by selection, regardless of how much damage such behavior does to another individual, a local population, or even an entire species.
+
+How, then, can we explain observed examples of what appears to be altruism, or unselfish behavior? On occasion, animals do behave in ways that reduce their individual fitness and increase the fitness of the recipient of the behavior; this is our functional definition of altruism. Consider the Belding ground squirrel, which lives in some mountainous regions of the western United States and is vulnerable to predators such as coyotes and hawks (FIGURE 51.28). If a predator approaches, one of the squirrels often gives a high-pitched alarm call. This alerts unaware individuals, who then retreat to their burrows. Careful observations have confirmed that the conspicuous alarm behavior increases the risk of being killed, because it identifies the caller's location.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-28. Altruistic behavior in the Belding ground squirrel. By sounding an alarm call, this Belding ground squirrel warns others of danger, such as an approaching predator. Nearly all alarm calls are given by females.
+
+Another example of altruistic behavior occurs in bee societies, in which the workers are sterile. The workers themselves will never reproduce, but they labor on behalf of a single fertile queen. Furthermore, the workers sting intruders, a behavior that helps defend the hive but results in the death of the worker.
+
+Still another example of altruism is seen in mole rats, highly social rodents that live in underground chambers and tunnels in southern and northeastern Africa (FIGURE 51.29). The naked mole rat (Heterocephalus glaber) is almost hairless and nearly blind and lives in colonies of 75 to 250 or more individuals. The common mole rat (Cryptomys hottentotus) has hair and generally lives in smaller colonies. In both species, each colony has only one reproducing female, called the queen, who mates with one to three males, called kings. The rest of the colony consists of nonreproductive females and males who forage for underground roots and tubers and care for the queen, the kings, and new offspring still dependent on the queen. The nonreproductive individuals may sacrifice their own lives in trying to protect the queen or kings from snakes or other predators that invade the colony.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-29. Two species of colonial mammals. (a) Naked mole rats (Heterocephalus glaber) live in underground colonies made up of a single queen, several kings, and often hundreds of nonreproductive individuals. In this photograph, several nonreproductive individuals, who perform all the maintenance activities of the colony, huddle around the queen and her young. Members of each colony are a closely related family unit. (b) The common mole rat (Cryptomys hottentotus), widespread in southern Africa, is also colonial with only a queen and several kings reproducing. Compared to naked mole rats, however, common mole rat colonies are smaller and more genetically diverse.
+
+Inclusive Fitness
+
+How can a naked mole rat, a worker bee, or a Belding ground squirrel enhance its fitness by aiding other members of the population, which are apt to be its closest competitors? How can altruistic behavior be maintained by evolution if it does not enhance--and in fact may even reduce--the reproductive success of the self-sacrificing individuals? Natural selection favors anatomical, physiological, and behavioral traits that increase reproductive success, which in turn propagates the genes responsible for those traits. When parents sacrifice their own personal well-being to produce and aid offspring, this actually increases the fitness of the parents, because it maximizes their genetic representation in the population. But what about helping other close relatives? Like parents and offspring, siblings have half of their genes in common. Therefore, selection might also favor helping one's parents produce more siblings or even helping siblings directly. Evolutionary biologist William Hamilton was the first to realize that selection could result in an animal's increasing its genetic representation in the next generation by "altruistically" helping close relatives other than its own offspring. This realization led to the concept of inclusive fitness, which describes the total effect an individual has on proliferating its genes by producing its own offspring and by providing aid that enables other close relatives to increase the production of their offspring.
+
+Hamilton's Rule and Kin Selection
+
+Hamilton proposed a quantitative measure for predicting when natural selection would favor altruistic acts among related individuals. The three key variables in an act of altruism are the benefit to the recipient (B), the cost to the altruist (C), and the coefficient of relatedness (r). The benefit and cost measure the change in the average number of offspring produced by the recipient and altruist, respectively, resulting from the altruistic act. Thus, B, the benefit, is the average number of extra offspring that the beneficiary of an altruistic act produces; and C, the cost, is how many fewer offspring the altruist produces. Suppose, for example, that members of a human population average two children each. Now consider two brothers who are close in age, reproductively mature, equally fertile, but not yet fathers. One of these young men is close to drowning in heavy surf, and his brother risks his own life to swim out and pull his sibling to safety. The benefit to the almost-drowned brother, the recipient of this altruistic act, is two offspring. Had he drowned, his reproductive output would have been zero. But now, if we use the average, the rescued brother can father two children. The cost to the heroic brother depends on the risk to his own life he took to save his sibling. Let's say that in this kind of surf, an average swimmer has a 5%  chance of drowning. Thus, the cost of the altruistic act is 5%  the number of offspring we would expect if the altruist had not taken the risky plunge. The cost is 0.05 &#160;X&#160; 2, or 0.1.
+
+We now know that B = 2.0 and C = 0.1 for this hypothetical act of altruism, but what about r, the coefficient of relatedness? The coefficient of relatedness equals the probability that a particular gene present in one individual will also be inherited from a common parent or ancestor in a second individual. Between two siblings, such as our imaginary brothers at the beach, any gene in one brother has a 50%  chance of also being present in the other brother. Thus, for siblings, r is 0.5. One way to see this is to review the segregation of homologous chromosomes that occurs when parents produce gametes by meiosis (FIGURE 51.30; also see Chapter 13).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-30. The coefficient of relatedness between siblings is 0.5. The red band marks a particular gene on a chromosome of a homologous chromosome pair in one parent. As it is the only gene we will follow, the corresponding chromosomes in the other parent are ignored in calculating r, the coefficient of relatedness. Sibling 1 has inherited the gene we are tracing from parent A. There is a probability of 1/2 that sibling 2 will also inherit this gene from parent A. The coefficient of relatedness between the two siblings is 1/2, or 0.5.
+
+We can now use values of B, C, and r to evaluate whether natural selection would favor the altruistic act in our imaginary scenario. Natural selection favors altruism if  This inequality is called Hamilton's rule. For natural selection to favor an altruistic act, the benefit to the recipient devalued (multiplied) by the coefficient of relatedness must exceed the cost to the altruist. For our surfing brothers, rB = 0.5 &#160;X&#160; 2 = 1 and C = 0.1. This satisfies Hamilton's rule; thus, natural selection would favor this altruistic act of one brother saving another. Any particular gene in the altruist will, on average, be passed on to more offspring if that brother risks the rescue than if he does not. (And among those genes may be some that actually contribute to the altruistic behavior, so these genes, too, are propagated.) The natural selection that favors this kind of altruistic behavior by enhancing reproductive success of relatives is specifically called kin selection.
+
+Kin selection weakens with hereditary distance. While siblings have an r of 0.5, r = 0.25 (1/4) between an aunt and her niece, and r = 0.125 (1/8) between first cousins. Notice that as the degree of relatedness decreases, the rB term in the Hamilton inequality also decreases. Would natural selection favor our strong-swimming surfer rescuing his cousin? For this altruistic act, rB = 0.125 &#160;X&#160; 2 = 0.25, which, luckily for this drowning cousin, is still much smaller than C = 0.1, the cost to the altruist. Of course, the degree of risk the altruist takes comes into play, too. If the potential rescuer is a poor swimmer, he may have a 50%  chance of drowning instead of the 5%  chance for a strong swimmer. In this case, the cost to the altruist would be 0.5 &#160;X&#160; 2 = 1. That's greater than the rB of 0.25 we calculated for the drowning cousin, who better hope a lifeguard is near.
+
+The British geneticist J. B. S. Haldane anticipated the concepts of inclusive fitness and kin selection by jokingly saying that he would lay down his life for two brothers or eight cousins. In today's terms, we would say that he would do this because either two brothers or eight cousins would result in as much representation of Haldane's genes as would two of his own offspring.
+
+If kin selection explains altruism, then the examples of unselfish behavior we observe among diverse animal species should involve close relatives. This expectation is met, but often in complex ways. Like most mammals, female Belding ground squirrels (see FIGURE 51.28) settle close to their site of birth, while males settle at distant sites. Thus, only females are likely to live near close relatives, and nearly all alarm calls are given by females (FIGURE 51.31). However, if all of a female's close relatives are dead, she rarely gives alarm calls. In the case of worker bees, the individuals are sterile, and anything they do to help the entire hive benefits the only permanent member who is reproductively active--the queen, who is their mother.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-31. Kin selection and altruism in the Belding ground squirrel. This graph helps explain the male-female difference in altruistic behavior of ground squirrels. After they are weaned, males disperse much farther from their birthplaces than do females. Therefore, females are more likely to live near close relations, and alarm calls that warn these relatives increase the inclusive fitness of the altruist.
+
+In the case of naked mole rats, DNA analyses have shown that all the individuals in a colony are closely related. Genetically, the queen appears to be a sibling, daughter, or mother of the kings, and the nonreproductive rats are the queen's direct descendants or her siblings (see FIGURE 51.29a). Hence, when a nonreproductive individual enhances a queen's or king's chances of reproducing, it increases the chances that some genes identical to its own will be passed to the next generation. The scenario for the common mole rat seems to be different (see FIGURE 51.29b). Some individuals may move from one colony to another, making its colonial groups more genetically diverse and decreasing the opportunities for kin selection.
+
+Some researchers posit that only by living in cooperative groups can mole rats obtain enough food to survive where resources are in short supply. For both the common mole rat and the naked mole rat, cooperative behavior enhances tunneling and underground foraging for roots and tubers, factors that may enable these two species to inhabit arid regions. Three other species of mole rats, which are not colonial, are found only where water and other resources are relatively plentiful. Thus, resource limitation may underlie the evolution of colonial life among these mammals and perhaps the evolution of the kind of altruistic behavior seen in the naked mole rat.
+
+Some animals occasionally behave altruistically toward others who are not relatives. A baboon may help an unrelated companion in a fight, or a wolf may offer food to another wolf even though they share no kinship. Such behavior can be adaptive if the aided individual returns the favor in the future. This sort of exchange of aid is called reciprocal altruism and is commonly invoked to explain altruism in humans. Reciprocal altruism is rare in other animals; it is limited largely to species with social groups stable enough that individuals have many chances to exchange aid. It is likely that all behavior that seems altruistic actually has at least the potential to increase fitness in some way.
+
+
+
+
+
+ Sociobiology connects evolutionary theory to human culture
+
+Recall that the main premise of sociobiology is that certain behavioral characteristics exist because they are expressions of genes that have been perpetuated by natural selection. In the last chapter of Sociobiology: The New Synthesis, E. O. Wilson speculated about the evolutionary basis of certain kinds of social behavior, including culture, in humans. The debate about the connection between biological evolution and human culture remains heated today.
+
+The spectrum of possible human social behaviors may be circumscribed by our genetic potential, but this is very different from saying that genes are rigid determinants of behavior. This is at the core of the debate about sociobiology. Opponents fear that a sociobiological interpretation of human behavior can be used to justify the status quo in human society, thus rationalizing current social injustices. Sociobiologists argue that this is a gross oversimplification and misunderstanding of what the data tell us about human biology. Sociobiology does not reduce us to robots stamped out of rigid genetic molds. Individuals vary extensively in anatomical features, and we should expect inherent variations in behavior as well. Furthermore, though we are locked into our genotypes, our nervous systems are not "hardwired." Environment intervenes in the pathway from genotype to phenotype for physical traits and even more so for behavioral traits. And because of our capacity for learning and versatility, human behavior is probably more plastic than that of any other animal. Over our recent evolutionary history, we have built up a diversity of structured societies with governments, laws, cultural values, and religions that define what is acceptable behavior and what is not, even when unacceptable behavior might enhance an individual's Darwinian fitness. Perhaps it is our social and cultural institutions that make us truly unique and that provide the only feature in which there is no continuum between humans and other animals (FIGURE 51.32).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-32. Both genes and culture build human nature. Teaching of the younger generation by the older is one of the basic ways in which all cultures are transmitted. Sociobiologists see mentoring as an innate tendency with adaptive value that has evolved in the human species.
+
+In this chapter, we have examined the role of behavior in the relationship between animals and their environment. We have focused on the proximate mechanisms underlying behavior and on how particular behavior patterns contribute to an animal's survival and reproductive success. In studying an animal's behavior, we are watching it perform on an ecological stage, a setting where evolution by natural selection determines which individuals contribute the greatest number of genes to a population's gene pool. In the next chapter, we take a closer look at populations as ecological and evolutionary units.
+
+
+
+

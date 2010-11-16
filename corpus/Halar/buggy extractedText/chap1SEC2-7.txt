@@ -1,0 +1,58 @@
+
+ Diversity and unity are the dual faces of life on Earth
+
+Diversity is a hallmark of life. Biologists have identified and named about 1.5 million species, including over 280,000 plants, almost 50,000 vertebrates (animals with backbones), and more than 750,000 insects. Thousands of newly identified species are added to the list each year. Estimates of the total diversity of life range from about 5 million to over 30 million species.
+
+Grouping Species: The Basic Concept
+
+Biological diversity is something to relish and preserve, but it can also be a bit overwhelming (FIGURE 1.9). Confronted with complexity, humans are inclined to categorize diverse items into a smaller number of groups. Grouping species that are similar is natural for us. We may speak of squirrels and butterflies, though we recognize that many different species belong to each group. We may even sort groups into broader categories, such as rodents (which include squirrels) and insects (which include butterflies). Taxonomy, the branch of biology that names and classifies species, formalizes this hierarchical ordering (FIGURE 1.10). You will learn more about this taxonomic scheme in Chapter 25. For now, we focus on kingdoms and domains, the broadest units of classification.
+
+
+
+Click image to enlarge
+
+
+
+Fig 1-9. A small sample of biological diversity. Shown here are just some of the tens of thousands of species in the butterfly and moth collection at the National Museum of Natural History in Washington, D.C. As diverse as the species are, they are all variations on a common anatomical theme. One of biology's major goals is to explain how such diversity arises while also accounting for characteristics common to different species.
+
+
+
+Click image to enlarge
+
+
+
+Fig 1-10. Classifying life. The taxonomic scheme classifies species into groups nested within more comprehensive groups. Species that are very closely related are placed in the same genus, genera are grouped into families, and so on, each level of classification being more comprehensive than those it includes. This example classifies the species Canis lupus, the wolf.
+
+The Three Domains of Life
+
+Until the past decade, most biologists divided the diversity of life into five main groups, or kingdoms. (The most familiar two are the plant and animal kingdoms.) But new methods, such as comparisons of DNA among organisms, have led to an ongoing reassessment of the number and boundaries of kingdoms. Various classification schemes are now based on six, eight, or more kingdoms. But as the debate continues on the kingdom level, there is broader consensus that the kingdoms of life can now be assigned to three even higher levels of classification called domains.
+
+The three domains are named Bacteria, Archaea, and Eukarya (FIGURE 1.11). The first two domains, Bacteria and Archaea, recognize two very different groups of organisms that both have prokaryotic cells. In the five-kingdom system, these prokaryotes were combined in a single kingdom. But newer evidence suggests that the organisms known as archaea may be more closely related to eukaryotes than they are to bacteria.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 1-11. Three domains of life. The domains Bacteria, Archaea, and Eukarya represent three fundamentally different kinds of organisms. The domains Bacteria and Archaea consist of organisms, mostly unicellular, with prokaryotic cells (see FIGURE 1.4). The more traditional five-kingdom system of classification recognized all prokaryotes as members of one kingdom, Monera, plus the four kingdoms in the domain Eukarya (organisms with eukaryotic cells) shown here.
+
+All the eukaryotes (organisms with eukaryotic cells) are grouped into at least four kingdoms in the domain Eukarya. Kingdom Protista consists of eukaryotic organisms that are generally single-celled--for example, the microscopic protozoans, such as the amoebas. Many biologists extend the boundaries of the kingdom Protista to include certain multicellular forms, such as seaweeds, that seem to be closely related to the unicellular protists. Other biologists split the protists into multiple kingdoms. The remaining three eukaryotic kingdoms--Plantae, Fungi, and Animalia--consist of multicellular eukaryotes. These three kingdoms are distinguished partly by their modes of nutrition. Plants produce their own sugars and other foods by photosynthesis. Fungi are mostly decomposers that absorb nutrients by breaking down dead organisms and organic wastes, such as leaf litter and animal feces. Animals obtain food by ingestion, which is the eating and digesting of other organisms. It is, of course, the kingdom to which we belong.
+
+Unity in the Diversity of Life
+
+If life is so diverse, how can biology have any unifying themes at all? What, for instance, can a tree, a mushroom, and a human possibly have in common? As it turns out, a great deal! Underlying the diversity of life is a striking unity, especially at the lower levels of biological organization. We have already seen one example: the universal genetic language of DNA. That ubiquitous feature connects all kingdoms of life, even uniting prokaryotes such as bacteria with eukaryotes such as humans. And among eukaryotes, unity is evident in many of the details of cell structure (FIGURE 1.12). Above the cellular level, however, organisms are so variously adapted to their ways of life that describing and classifying biological diversity remains an important goal of biology. It is the process called evolution that accounts for this combination of unity and diversity in life.
+
+
+
+Click image to enlarge
+
+
+
+Fig 1-12. An example of unity underlying the diversity of life: the architecture of eukaryotic cilia. Eukaryotic organisms as diverse as the single-celled Paramecium and animals possess cilia, locomotor "hairs" that extend from cells. Comparing cross sections of cilia from diverse eukaryotes reveals a common structural organization. Such striking similarity in complex components contributes to the evidence that organisms as different as Paramecium and humans are, to some degree, related.
+
+
+
+

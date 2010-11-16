@@ -1,0 +1,48 @@
+
+ Each level of biological organization has emergent properties
+
+A basic characteristic of life is a high degree of order. You can see it in the intricate pattern of veins throughout a leaf or in the colorful pattern of a bird's feathers. Biological order exists at all levels, even those invisible to the unaided eye.
+
+A Hierarchy of Organization
+
+Biological organization is based on a hierarchy of structural levels, each level building on the levels below it (FIGURE 1.2). Starting at the lowest level, atoms, the chemical building blocks of all matter, are ordered into complex biological molecules. Many of the molecules of life are arranged into minute structures called organelles, which are in turn the components of cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 1-2. The hierarchy of biological organization. This sequence of images takes us all the way from atoms to a biological community of many interacting species.
+
+Cells are subunits of organisms, and organisms are the units of life. Some organisms, such as amoebas, consist of single cells, but others are multicellular aggregates of many specialized types of cells. What an amoeba accomplishes with a single cell--the uptake and processing of nutrients, excretion of wastes, response to environmental stimuli, reproduction, and other functions--a human or other multicellular organism accomplishes with a division of labor among specialized cells. Unlike the amoeba, none of your cells could live for long on its own. The organism we recognize as an animal or plant is not a random collection of individual cells, but a multi cellular cooperative.
+
+Multicellular organisms exhibit three major structural levels above the cell: Similar cells are grouped into tissues; specific arrangements of different tissues form organs; and organs are grouped into organ systems. For example, the signals (nerve impulses) that coordinate your movements are transmitted along specialized cells called neurons. The nervous tissue within your brain has billions of neurons organized into a communications network of spectacular complexity. The brain, however, is not pure nervous tissue; it is an organ built of many different tissues, including a type called connective tissue that forms the protective covering of the brain. The brain is itself part of the nervous system, which also includes the spinal cord and the many nerves that transmit messages between the spinal cord and other parts of the body. The nervous system is only one of several organ systems characteristic of humans and other complex animals.
+
+In the hierarchy of biological organization, there are tiers beyond the individual organism. A population is a localized group of organisms belonging to the same species; populations of different species living in the same area make up a biological community; and community interactions that include nonliving features of the environment, such as soil and water, form an ecosystem.
+
+Investigating biological organization at its many levels is fundamental to the study of life. This text essentially follows such an organization, beginning with the chemistry of life and ending with the study of ecosystems and the biosphere, the sum of all Earth's ecosystems. However, we will also see that biological processes often involve several levels of biological organization. For example, when a rattlesnake explodes from its coiled posture and strikes a mouse, the snake's coordinated movements result from complex interactions at the molecular, cellular, tissue, and organ levels within its body. This behavior also affects the biological community in which the snake and its prey live. Such episodes of predation can have an important cumulative impact on the sizes of both the mouse and the rattlesnake populations. Most biologists specialize in the study of life at a particular level, but they gain broader perspective when they integrate their discoveries with processes occurring at lower and higher levels.
+
+Emergent Properties
+
+With each step upward in the hierarchy of biological order, novel properties emerge that were not present at the simpler levels of organization. These emergent properties result from interactions between components. A molecule such as a protein has attributes not exhibited by any of its component atoms, and a cell is certainly much more than a bag of molecules. If the intricate organization of the human brain is disrupted by a head injury, that organ will cease to function properly, even though all its parts may still be present. And an organism is a living whole greater than the sum of its parts.
+
+This theme of emergent properties accents the importance of structural arrangement and applies to inanimate material as well as to life. By itself, neither the head nor the handle of a hammer is very useful for driving nails; but put these parts together in a certain way, and the functional properties of a hammer emerge. Diamonds and graphite are both made of carbon, but they have different properties because their carbon atoms are arranged differently. The emergent properties of life are not supernatural, but simply reflect a hierarchy of structural organization without counterpart among inanimate objects.
+
+Life resists a simple, one-sentence definition because it is associated with numerous emergent properties. Yet almost any child perceives that a dog or a bug or a tree is alive and a rock is not. We recognize life by what living things do. FIGURE 1.3 illustrates and describes some of the properties and processes we associate with the state of being alive.
+
+
+
+Click image to enlarge
+
+
+
+Fig 1-3. Some properties of life.
+
+Reductionism in Biology
+
+Because the properties of life emerge from complex organization, scientists seeking to understand biological processes confront a dilemma. One horn of the dilemma is that we cannot fully explain a higher level of order by breaking it down into its parts. A dissected animal no longer functions; a cell reduced to its chemical ingredients is no longer a cell. Disrupting a living system interferes with the meaningful explanation of its processes. The other horn of the dilemma is the futility of trying to analyze something as complex as an organism or a cell without taking it apart. Reductionism--reducing complex systems to simpler components that are more manageable to study--is a powerful strategy in biology. For example, by studying the molecular structure of a substance called DNA that had been extracted from cells, James Watson and Francis Crick deduced, in 1953, how this molecule could serve as the chemical basis of inheritance. The central role of DNA was better understood, however, when it was possible to study its interactions with other substances in the cell. Biology balances the reductionist strategy with the longer-range objective of understanding emergent properties--how the parts of cells, organisms, and higher levels of order, such as ecosystems, are functionally integrated.
+
+
+
+

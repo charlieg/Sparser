@@ -1,0 +1,40 @@
+
+ Paleontologists use a variety of methods to date fossils
+
+Fossils are reliable historical data only if we can determine their ages. Here we examine the methods for de termining where fossils fit on the geologic time scale.
+
+Relative Dating
+
+The trapping of dead organisms in sediments freezes fossils in time. Thus, the fossils in each stratum of sedimentary rock are a local sample of the organisms that existed at the time that sediment was deposited. Because younger sediments are superimposed upon older ones, this book of sedimentary pages tells the relative ages of fossils.
+
+The strata at one location can often be correlated with strata at another location by the presence of similar fossils, known as index fossils. The best index fossils for correlating strata that are far apart are the shells of sea animals that were widespread. At any one location where a roadcut or canyon wall reveals layered rocks, there are likely to be gaps in the sequence. That area may have been above sea level during different periods, and thus no sedimentation occurred; or some of the sedimentary layers that were deposited when the area was submerged may have been scraped away by subsequent periods of erosion.
+
+By studying many different sites, geologists have established a geologic time scale with a consistent sequence of historical periods (TABLE 25.1). These periods are grouped into four eras: the Precambrian, Paleozoic, Mesozoic, and Cenozoic eras. Each era represents a distinct age in the history of Earth and its life. For example, the Mesozoic era is sometimes called the "age of reptiles" because of its abundance of reptilian fossils, including dinosaurs. The boundaries between the eras correspond to times of mass extinctions, when many forms of life disappeared and were replaced by diversification of the survivors. Lesser extinctions also mark the boundaries of many of the periods that make up each era. The periods within each era are further subdivided into finer intervals called epochs (only the epochs of the current era, the Cenozoic, appear in TABLE 25.1). The timeline to the left of TABLE 25.1 shows that the geologic eras were not equal in duration. The periods also varied in length. For example, the Jurassic period lasted almost twice as long as the Triassic period. Scientists have not divided geologic time in an arbitrary manner, but have located boundaries in the record of the rocks that correspond to times of great change.
+
+Table 25-1. The Geologic Time Scale
+
+
+
+
+
+The record of the rocks is a serial that chronicles the relative ages of fossils; it tells us the order in which groups of species present in a sequence of strata evolved. However, the series of sedimentary rocks does not tell us the absolute ages of the embedded fossils. The difference is analogous to peeling the layers of wallpaper from the walls of a very old house that has been inhabited by many owners. You could determine the sequence in which the papers had been applied, but not the year that each layer was added.
+
+Absolute Dating
+
+"Absolute" dating does not mean errorless dating, but only that age is given in years instead of relative terms such as before and after, early and late. Radiometric dating, the measurement of certain radioactive isotopes in fossils or rocks, is the method most often used to determine the ages of rocks and fossils on a scale of absolute time. Fossils contain isotopes of elements that accumulated in the organisms when they were alive. For example, the carbon in a living organism includes both the most common carbon isotope, carbon-12, and a less common radioactive isotope, carbon-14, in the same ratio as is present in the atmosphere. Once an organism dies, it stops accumulating carbon. The radioactive carbon-14 that it contained at the time of death slowly decays and becomes another element, nitrogen-14, causing the proportion of carbon-14 to total carbon content to decline. Each radioactive isotope has a fixed rate of decay. An isotope's half-life, the number of years it takes for 50%  of the original sample to decay, is unaffected by temperature, pressure, and other environmental variables (FIGURE 25.2). Carbon-14 has a half-life of 5,730 years, a reliable rate of decay that can be used to date relatively young fossils. Thus, by measuring either the amount of nitrogen-14 in a fossil or the amount of carbon-14 remaining, we can determine the fossil's age.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-2. Radiometric dating. The graph plots the decay of "parent" isotopes, usually radioactive isotopes, to form "daughter" isotopes. An example is the clocklike decay of carbon-14 to form nitrogen-14. Each type of radioactive isotope has a set half-life, the time required for 50%  of the isotope to decay. For example, carbon-14 has a half-life of 5,730 years; uranium-238 has a half-life of 4.5 billion years. Paleontologists use such radiometric clocks as one method to date fossils or to infer the ages of fossils by dating surrounding rock.
+
+Paleontologists use radioactive isotopes with longer half-lives to date older fossils. For example, uranium-238, which has a half-life of 4.5 billion years, has been used as a radiometric clock to infer the ages of fossils in rocks of the Cambrian period (see TABLE 25.1). Unlike carbon-14, uranium-238 is not present in living organisms. It occurs in molten lava and the volcanic rock that forms as the lava cools. After the volcanic rock forms, no more uranium-238 is incorporated, and the rock's original stock of the isotope decays slowly into lead-206 atoms. Thus, researchers can use the concentration of lead-206 to date volcanic rocks. And paleontologists can use these measurements to date very old fossils found near the volcanic rocks. For example, if fossils of animals are found in a rock layer sandwiched between two layers of volcanic rock that are 530 and 520 million years old, respectively, we can infer that the animals lived about 525 million years ago.
+
+Methods other than radiometric dating can be used on some fossils. Amino acids exist in two isomers with either left-handed or right-handed symmetry, designated the L and D forms, respectively. Organisms synthesize only L-amino acids, which are incorporated into proteins. After an organism dies, however, its population of L-amino acids is slowly converted, resulting in a mixture of L- and D-amino acids. In a fossil, the ratio of L- and D-amino acids can be measured. Knowing the rate at which this chemical conversion, called racemization, takes place, we can determine how long the organism has been dead. For instance, archaeologists have used this method to date ostrich eggshells found along with fossils of early humans. The humans probably ate the eggs and used the shells for water bowls. Racemization, unlike radioactive decay, is temperature sensitive, meaning that past changes in climate made the racemization clock run faster or slower. But for fossils found in locations where climate apparently has not changed significantly since the fossils formed, the two dating methods agree closely on the age of the fossils.
+
+
+
+

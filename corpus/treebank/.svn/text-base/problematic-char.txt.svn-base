@@ -1,0 +1,69 @@
+(S
+  (NP
+    (PRP they))
+  (VP
+    (VBP make)
+    (NP
+      (DT the)
+      (NN argument))
+    (PP
+      (IN in)
+      (NP
+        (NP
+          (NNS letters))
+        (PP
+          (TO to)
+          (NP
+            (DT the)
+            (NN agency)))
+        (PP
+          (IN about)
+          (NP
+            (NP
+              (NN rule)
+              (NNS changes))
+            (VP
+              (VBD proposed)
+              (NP
+                (DT this)
+                (JJ past)
+                (DATE
+                  (NN summer))))
+            (SBAR
+              (WHNP
+                (IN that))
+              (, ,)
+              (S
+                (PP
+                  (IN among)
+                  (NP
+                    (JJ other)
+                    (NNS things)))
+                (, ,)
+                (VP
+                  (MD would)
+                  (VP
+                    (VB exempt)
+                    (NP
+                      (JJ many)
+                      (JJ middle-management)
+                      (NNS executives))
+                    (PP
+                      (IN from)
+                      (S
+                        (VP
+                          (VBG reporting)
+                          (NP
+                            (NP
+                              (NNS trades))
+                            (PP
+                              (IN in)
+                              (NP
+                                (NP
+                                  (PRP$ their)
+                                  (JJ own)
+                                  (NNS companies)
+                                  (POS ')
+)
+                                (NNS shares))))))))))))))))
+  (. .))

@@ -1,0 +1,34 @@
+
+ Researchers are identifying a great diversity of archaea in extreme environments and in the oceans
+
+Note again in FIGURE 27.13 the very early divergence into two main prokaryotic lineages that are now designated the domains Archaea and Bacteria. TABLE 27.2 (p. 537) summarizes some differences between these two main prokaryotic groups. The table includes the third domain of life, Eukarya, to reinforce the point made earlier that the archaea have at least as much in common with eukaryotes as they do with bacteria. However, the archaea also have many unique characteristics, which we would expect of a taxon that has followed a separate evolutionary path for so long.
+
+Table 27-2. A Comparison of the Three Domains of Life
+
+DOMAINCHARACTERISTICBacteriaArchaeaEukaryaNuclear envelopeAbsentAbsentPresentMembrane-enclosedAbsentAbsentPresentPeptidoglycan in cell wallPresentAbsentAbsentMembrane lipidsUnbranched hydrocarbonsSome branched hydrocarbonsUnbranched hydrocarbonsRNA polymeraseOne kindSeveral kindsSeveral kindsInitiator amino acid for start of protein synthesisFormyl- methionineMethionineMethionineIntrons (noncoding parts of genes)AbsentPresent in some genesPresentResponse to the antibiotics streptomycin and chloramphenicolGrowth inhibitedGrowth not inhibitedGrowth not inhibitedHistones associated with DNAAbsentPresentPresentCircular chromosomePresentPresentAbsentAbility to grow at temperatures &gt;100&#176;CNoSome speciesNoSystematists have sorted most of the known species of archaea into two major taxa, the Euryarchaeota and Crenarchaeota named in FIGURE 27.13. However, much of the research so far on the archaea has focused not on their phylogeny, but on their ecology--on the ability of many archaea to live where no other life can. We can think of these creatures as extremophiles,"lovers" of extreme environments, such as the hot-water geyser shown in FIGURE 27.1. In addition to phylogenetic classification, it is useful to classify the extremeophiles into three groups based on environmental criteria: methanogens, extreme halophiles, and extreme thermophiles.
+
+The methanogens are named for the unique way they obtain energy by using CO2 to oxidize H2, producing methane (CH4) as a waste product. Methanogens, among the strictest of anaerobes, are poisoned by oxygen. They live in swamps and marshes where other microbes have consumed all the oxygen; the methane that bubbles out at these sites is known as marsh gas. Methanogens are also important decomposers used in sewage treatment. Some farmers have experimented with the use of these microbes to convert garbage and dung to methane, a valuable fuel. Other species of methanogens inhabit the anaerobic environment within the guts of animals, playing an important role in the nutrition of cattle, termites, and other herbivores that subsist mainly on a diet of cellulose. This gas production does not normally bloat cows because the animals belch out large volumes of the methane. On a global scale, methanogens produce enough methane to play a major role in the greenhouse effect, an atmospheric phenomenon you will learn about in Chapter 54.
+
+The extreme halophiles (from the Greek halo, salt, and philos, lover) live in such saline places as the Great Salt Lake and the Dead Sea. Some species merely tolerate salinity, whereas others actually require an environment ten times saltier than seawater to grow (FIGURE 27.14). Colonies of halophiles form a purple-red scum that owes its color to bacteriorhodopsin, a photosynthetic pigment very similar to the visual pigments in the retinas of our eyes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 27-14. Extreme halophiles. The colors of these seawater evaporating ponds at the edge of San Francisco Bay result from a dense growth of extreme halophiles that thrive in the ponds when the water reaches a salinity of 15-20% . (Before evaporation, the salinity of seawater is about 3% .) The ponds are used for commercial salt production; the salt-loving archaea are harmless.
+
+As their name implies, the extreme thermophiles thrive in hot environments. The optimal conditions for most of these archaea are temperatures of 60-80&#176;C. Sulfolobus inhabits hot sulfur springs in Yellowstone National Park, obtaining its energy by oxidizing sulfur. Another sulfur-metabolizing thermophile lives in the 105&#176;C water near deep-sea hydrothermal vents.
+
+Some researchers postulate that the very earliest prokaryotes to evolve were extreme thermophiles that inhabited hot environments similar to deep-sea vents. This would make it more historically accurate to consider most forms of life, including humans, as "cold adapted," rather than viewing the thermophilic archaea, which have continued to inhabit hot environments, as "extreme."
+
+Until recently, researchers thought that archaea were prevalent organisms mainly in extreme environments where other life-forms were essentially absent. However, in the past decade, scientists have discovered that an abundance of marine archaea live among other forms of life in the more moderate habitats of the oceans.
+
+To return to the phylogenetic classification in FIGURE 27.13, all the methanogens and halophiles fit into Euryarchaeota. (The word root "eury" means "broad," a reference here to the variety and habitat range of these prokaryotes.) This archaean group also includes some thermophiles, though most of the thermophilic species belong to Crenarchaeota. (The word root "cren" means "spring," as in hydrothermal vents.) Each of these two taxa also includes some of the newly discovered marine archaea.
+
+Because bacteria have been the prokaryotic subjects of most research throughout the history of microbiology, much more is known about them than about the archaea. Now that the evolutionary and ecological importance of the archaea have come into focus, we can expect research on this domain to turn up many more surprises about the history of life and the roles of microbes in ecosystems.
+
+
+
+

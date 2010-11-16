@@ -1,0 +1,32 @@
+
+ Weak chemical bonds play important roles in the chemistry of life
+
+In living organisms, most of the strongest chemical bonds are covalent ones, which link atoms to form a cell's molecules. But bonding between molecules is also indispensable in the cell, where the properties of life emerge from molecular interactions. When two molecules in the cell make contact, they may adhere temporarily by types of chemical bonds that are much weaker than covalent bonds. The advantage of weak bonding is that the contact between the molecules can be brief; the molecules come together, respond to one another in some way, and then separate.
+
+The importance of weak bonding can be seen in the example of chemical signaling in the brain. One brain cell signals another by releasing molecules that use weak bonds to dock onto receptor molecules on the nearby surface of a receiving cell. The bonds last just long enough to trigger a momentary response by the receiving cell. If the signal molecules attached by stronger bonds, the receiving cell would continue to respond long after the transmitting cell ceased dispatching the message, with perhaps disastrous consequences. (Imagine what it would be like, for instance, if your brain continued to perceive the ringing sound of a bell for hours after nerve cells transmitted the information from the ears to the brain.)
+
+Several types of weak chemical bonds are important in living organisms. One is the ionic bond, which is relatively weak in the presence of water. Another type of weak bond, crucial to life, is known as a hydrogen bond.
+
+Hydrogen Bonds
+
+Among the various kinds of weak chemical bonds, hydrogen bonds are so important in the chemistry of life that they deserve special attention. A hydrogen bond forms when a hydrogen atom covalently bonded to one electronegative atom is also attracted to another electronegative atom. In living cells, the electronegative partners involved are usually oxygen or nitrogen atoms.
+
+Let's examine the simple case of hydrogen bonding between water (H2O) and ammonia (NH3) (FIGURE 2.16). You have seen how the polar covalent bonds of water result in the oxygen atom having a partial negative charge and the hydrogen atoms having a partial positive charge. A similar situation arises in the ammonia molecule, where an electronegative nitrogen atom has a partial negative charge because of its pull on the electrons it shares covalently with hydrogen. If a water molecule and an ammonia molecule are close together, a weak attraction will occur between the negatively charged nitrogen atom and a positively charged hydrogen atom of the adjacent water molecule. This attraction is a hydrogen bond.
+
+
+
+Click image to enlarge
+
+
+
+Fig 2-16. A hydrogen bond. Through a weak electrical attraction, a hydrogen atom covalently bonded to one electronegative atom weakly bonds to another electronegative atom.
+
+Van der Waals Interactions
+
+Even a molecule with nonpolar covalent bonds may have positively and negatively charged regions. Because electrons are in constant motion, they are not always symmetrically distributed in the molecule; at any instant, they may accumulate by chance in one part of the molecule or another. The results are ever-changing "hot spots" of positive and negative charge that enable all atoms and molecules to stick to one another. These van der Waals interactions are weak and occur only when atoms and molecules are very close together.
+
+Van der Waals interactions, hydrogen bonds, ionic bonds, and other weak bonds may form not only between molecules but also between different regions of a single large molecule, such as a protein. Although these bonds are individually weak, their cumulative effect is to reinforce the three-dimensional shape of a large molecule. You will learn more about the biological roles of weak bonds in Chapter 5.
+
+
+
+

@@ -1,0 +1,48 @@
+
+ Prokaryotes can be grouped into four categories according to how they obtain energy and carbon
+
+Nutrition refers here to how an organism obtains two resources from the environment: energy and a carbon source to build the organic molecules of cells. Species that use light energy are called phototrophs. Chemotrophs obtain their energy from chemicals taken from the environment. If an organism needs only the inorganic compound CO2 as a carbon source, it is called an autotroph. Heterotrophs require at least one organic nutrient--glucose, for instance--as a source of carbon for making other organic compounds. We can combine the phototroph-versus-chemotroph (energy source) and autotroph-versus-heterotroph (carbon source) criteria to group prokaryotes according to four major modes of nutrition:
+
+Photoautotrophs are photosynthetic organisms that harness light energy to drive the synthesis of organic compounds from carbon dioxide. Among the diverse groups of photoautotrophic prokaryotes are the cyanobacteria. All photosynthetic eukaryotes--plants and algae--also fit into this nutritional category.
+
+Chemoautotrophs need only CO2 as a carbon source, but instead of using light for energy, these prokaryotes obtain energy by oxidizing inorganic substances. Chemical energy is extracted from hydrogen sulfide (H2S), ammonia (NH3), ferrous ions (Fe2+), or some other chemical, depending on the species. This mode of nutrition is unique to certain prokaryotes. Some of the species that extract energy by oxidizing minerals in stone are "eating away" at some of the world's greatest statues.
+
+Photoheterotrophs can use light to generate ATP but must obtain their carbon in organic form. This mode of nutrition is restricted to certain prokaryotes.
+
+Chemoheterotrophs must consume organic molecules for both energy and carbon. This nutritional mode is found widely among prokaryotes, protists, fungi, animals, and even some parasitic plants.
+
+TABLE 27.1 reviews the four major modes of nutrition.
+
+Table 27-1. Major Nutritional Modes
+
+Mode of NutritionEnergy SourceCarbon SourceSource Types of OrganismsAutotrophPhoto-autotrophLightCO2Photosynthetic prokaryotes, including cyanobacteria; plants; certain protists (algae)Chemo-autotrophInorganic chemicalsCO2Certain prokaryotes (for example, Sulfolobus)HeterotrophPhoto-heterotrophLightOrganic com-poundsCertain prokaryotesChemo-heterotrophOrganic com-poundsOrganic com-poundsMany prokaryotes and protists; fungi; animals; pounds some parasitic plantsNutritional Diversity Among Chemoheterotrophs
+
+The majority of known prokaryotes are chemoheterotrophs. This category includes saprobes, decomposers that absorb their nutrients from dead organic matter, and parasites, which absorb their nutrients from the body fluids of living hosts.
+
+The specific organic nutrients needed for growth vary extensively among chemoheterotrophic prokaryotes. Some species are very exacting in their requirements; for example, bacteria of the genus Lactobacillus will grow well only in a medium containing all 20 amino acids, several vitamins, and other organic compounds. Among species less particular in their nutritional needs, E. coli can grow on a medium containing glucose as the only organic ingredient, and the organism's metabolism is so versatile that many other compounds can substitute for glucose as the sole organic nutrient.
+
+There is such a diversity of chemoheterotrophs that almost any organic molecule can serve as food for at least some species. For example, some bacteria are capable of metabolizing petroleum; they are used to clean up oil spills. Those few classes of synthetic organic compounds (including some kinds of plastics) that cannot be broken down by any chemohetero trophs are said to be nonbiodegradable.
+
+Nitrogen Metabolism
+
+Nitrogen metabolism is another area of nutritional diversity among prokaryotes. Nitrogen is an essential component of proteins and nucleic acids. While animals, plants, and other eukaryotes are limited in the forms of nitrogen they can use, diverse prokaryotes are able to metabolize most nitrogenous compounds.
+
+Key steps in the cycling of nitrogen through ecosystems are performed only by prokaryotes. (For an overview of the nitrogen cycle, see FIGURE 54.18.) Some chemoautotrophic bacteria in the soil, such as Nitrosomonas, convert ammonium (NH4+) to nitrite (NO2-). Other bacteria, such as a few species of Pseudomonas, "denitrify" soil nitrite or nitrate (NO3-), a metabolism that returns nitrogen gas (N2) to the atmosphere. And diverse species of prokaryotes, including some cyanobacteria, are able to use atmospheric nitrogen directly as a source of nitrogen. In this process, called nitrogen fixation, prokaryotes convert atmospheric nitrogen (N2) to ammonium (NH4+). Nitrogen fixation, unique to certain prokaryotes, is the only biological mechanism that makes atmospheric nitrogen available to organisms for incorporation into organic compounds. In terms of nutrition, nitrogen-fixing cyanobacteria are the most self-sufficient of all organisms. These photo autotrophs require only light energy, CO2, N2, water, and some minerals in order to grow (FIGURE 27.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 27-11. One of the most independent organisms on Earth. A photoautotroph that can use atmospheric nitrogen (N2) as its nitrogen source, Anabaena is an example of the metabolic virtuosity of cyanobacteria. The specialized cells with the enzymes for nitrogen fixation are called heterocysts (LM).
+
+Metabolic Relationships to Oxygen
+
+Another metabolic variation among prokaryotes is in the effect that oxygen has on growth (see Chapter 9). Obligate aerobes use O2 for cellular respiration and cannot grow without it. Facultative anaerobes will use O2 if it is present but can also grow by fermentation in an anaerobic environment. Obligate anaerobes are poisoned by O2. Some obligate anaerobes live exclusively by fermentation; other species extract chemical energy by anaerobic respiration, in which inorganic molecules other than O2 accept electrons at the "downhill" end of electron transport chains.
+
+Now that we have surveyed variation in nutrition and metabolism among prokaryotes, let's trace the evolutionary roots of this metabolic diversity.
+
+
+
+

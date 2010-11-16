@@ -1,0 +1,80 @@
+
+ Function correlates with structure in the tissues of animals
+
+Life is characterized by hierarchical levels of organization, each with emergent properties (see Chapter 1). Animals are multicellular organisms with their specialized cells grouped into tissues. In most animals, combinations of various tissues make up functional units called organs, and groups of organs that work together form organ systems. For example, the human digestive system consists of a stomach, small intestine, large intestine, and several other organs, each a composite of different kinds of tissues.
+
+Tissues are groups of cells with a common structure and function. Different types of tissues have different structures that are especially suited to their functions. A tissue may be held together by a sticky extracellular matrix that coats the cells (see FIGURE 7.29) or weaves them together in a fabric of fibers. Indeed, the term tissue is from a Latin word meaning "weave."
+
+Tissues are classified into four main categories: epithelial tissue, connective tissue, nervous tissue, and muscle tissue. These are present to some extent in all but the simplest animals; the following survey emphasizes the tissues of vertebrates.
+
+Epithelial Tissue
+
+Occurring in sheets of tightly packed cells, epithelial tissue covers the outside of the body and lines organs and cavities within the body (FIGURE 40.1, p. 836). The cells of an epithelium are closely joined, with little material between them. In many epithelia, the cells are riveted together by tight junctions (see FIGURE 7.30). This tight packing enables the epithelium to function as a barrier protecting against mechanical injury, invasive microorganisms, and fluid loss. The free surface of the epithelium is exposed to air or fluid, whereas the cells at the base of the barrier are attached to a basement membrane, a dense mat of extracellular matrix.
+
+
+
+Click image to enlarge
+
+
+
+Fig 40-1. The structure and function of epithelial tissues. The structure of an epithelium fits its function.
+
+Two criteria for classifying epithelia (plural) are the number of cell layers and the shape of the cells on the free surface. A simple epithelium has a single layer of cells, whereas a stratified epithelium has multiple tiers of cells. A pseudostratified epithelium is single-layered, but it appears to be stratified because the cells vary in length. The shape of the cells that are at the free surface of an epithelium may be cuboidal (like dice), columnar (like bricks on end), or squamous (flat like floor tiles). Combining the features of cell shape and number of layers, we get such terms as simple cuboidal epithelium and stratified squamous epithelium (see FIGURE 40.1).
+
+As well as protecting the organs they line, some epithelia, called glandular epithelia, absorb or secrete chemical solutions. For example, glandular epithelia lining tubules in the thyroid gland secrete a hormone that regulates the body's rate of fuel consumption. The glandular epthelia that line the lumen (cavity) of the digestive and respiratory tracts form a mucous membrane; they secrete a slimy solution called mucus that lubricates the surface and keeps it moist. The free epithelial surfaces of some mucous membranes have beating cilia that move the film of mucus along the surface. For example, the ciliated epithelium of our respiratory tubes helps keep our lungs clean by trapping dust and other particles and sweeping them back up the trachea (windpipe).
+
+Connective Tissue
+
+Connective tissue functions mainly to bind and support other tissues. In contrast to epithelia, with their tightly packed cells, connective tissues have a sparse population of cells scattered through an extracellular matrix. The matrix generally consists of a web of fibers embedded in a uniform foundation that may be liquid, jellylike, or solid. In most cases, the substances of the matrix are secreted by the cells of the connective tissue.
+
+Connective tissue fibers, which are made of protein, are of three kinds: collagenous fibers, elastic fibers, and reticular fibers. Collagenous fibers are made of collagen, probably the most abundant protein in the animal kingdom. Collagenous fibers are nonelastic and do not tear easily when pulled lengthwise. If you pinch and pull some skin on the back of your hand, it is mainly collagen that keeps the flesh from tearing away from the bone. Elastic fibers are long threads made of a protein called elastin. Elastic fibers provide a rubbery quality that complements the nonelastic strength of collagenous fibers. When you pinch the back of your hand and then let go, elastic fibers quickly restore your skin to its original shape. Reticular fibers are very thin and branched. Composed of collagen and continuous with collagenous fibers, they form a tightly woven fabric that joins connective tissue to adjacent tissues.
+
+The major types of connective tissue in vertebrates are loose connective tissue, adipose tissue, fibrous connective tissue, cartilage, bone, and blood (FIGURE 40.2). Each has a structure correlated with its specialized functions.
+
+The most widespread connective tissue in the vertebrate body is loose connective tissue. It binds epithelia to underlying tissues and functions as packing material, holding organs in place. This type of connective tissue gets its name from the loose weave of its fibers. Loose connective tissue has all three fiber types: collagenous, elastic, and reticular.
+
+Among the cells scattered in the fibrous mesh of loose connective tissue, two types predominate: fibroblasts and macrophages. Fibroblasts secrete the protein ingredients of the extracellular fibers. Macrophages are amoeboid cells that roam the maze of fibers, engulfing bacteria and the debris of dead cells by phagocytosis (see Chapter 8). They are weapons in an elaborate arsenal of defense you will learn more about in Chapter 43.
+
+Adipose tissue is a specialized form of loose connective tissue that stores fat in adipose cells distributed throughout its matrix. Adipose tissue pads and insulates the body and stores fuel as fat molecules (see FIGURE 4.5). Each adipose cell contains a large fat droplet that swells when fat is stored and shrinks when the body uses fat as fuel.
+
+Fibrous connective tissue is dense, due to its large numbers of collagenous fibers. The fibers are organized into parallel bundles, an arrangement that maximizes nonelastic strength. We find this type of connective tissue in tendons, which attach muscles to bones, and in ligaments, which join bones together at joints.
+
+Cartilage has an abundance of collagenous fibers embedded in a rubbery matrix made of a substance called chondroitin sulfate, a protein-carbohydrate complex. Chondroitin sulfate and collagen are secreted by cells called chondrocytes (see FIGURE 40.2). The composite of collagenous fibers and chondroitin sulfate makes cartilage a strong yet somewhat flexible support material. The skeleton of a shark is made of cartilage. Other vertebrates, including humans, have cartilaginous skeletons during the embryo stage, but most of the cartilage is replaced by bone as the embryo matures. We nevertheless retain cartilage as flexible support in certain locations, such as the nose, the ears, the rings that reinforce the windpipe, the discs that act as cushions between our vertebrae, and the caps on the ends of some bones.
+
+The skeleton supporting the body of most vertebrates is made of bone, a mineralized connective tissue. Bone-forming cells called osteoblasts deposit a matrix of collagen. Calcium, magnesium, and phosphate ions combine and harden within the matrix into the mineral hydroxyapatite. The combination of hard mineral and flexible collagen makes bone harder than cartilage without being brittle. The microscopic structure of hard mammalian bone consists of repeating units called osteons (or Haversian systems) (see FIGURE 40.2). Each osteon has concentric layers of the mineralized matrix, which are deposited around a central canal containing blood vessels and nerves that service the bone. Once osteoblasts become trapped in their own secretions, they are called osteocytes. (We will examine bones and skeletons in more detail in Chapter 49.)
+
+Although blood functions differently from other connective tissues, it does meet the criterion of having an extensive extracellular matrix. In this case, the matrix is a liquid called plasma, consisting of water, salts, and a variety of dissolved proteins. Suspended in the plasma are two classes of blood cells, erythrocytes (red blood cells) and leukocytes (white blood cells), and cell fragments called platelets. Red cells carry oxygen; white cells function in defense against viruses, bacteria, and other invaders; and platelets aid in blood clotting. Blood will be discussed in detail in Chapters 42 and 43.
+
+Nervous Tissue
+
+Nervous tissue senses stimuli and transmits signals from one part of the animal to another. The functional unit of nervous tissue is the neuron, or nerve cell, which is uniquely specialized to transmit signals called nerve impulses (FIGURE 40.3). It consists of a cell body and two or more extensions, or processes, called dendrites and axons, which may be as long as a meter in humans. Dendrites transmit impulses from their tips toward the rest of the neuron. Axons transmit impulses toward another neuron or toward an effector, a structure such as a muscle cell that carries out a body response. We will postpone a detailed discussion of the structure and function of neurons until Chapter 48.
+
+
+
+Click image to enlarge
+
+
+
+Fig 40-3. The basic structure of a neuron. This nerve cell from the spinal cord has a large cell body with multiple processes that transmit electrical signals called impulses (LM).
+
+Muscle Tissue
+
+Muscle tissue is composed of long cells called muscle fibers that are capable of contracting when stimulated by nerve impulses. Arranged in parallel within the cytoplasm of muscle fibers are large numbers of myofibrils made of the contractile proteins actin and myosin. Muscle is the most abundant tissue in most animals, and muscle contraction accounts for much of the energy-consuming cellular work in an active animal.
+
+In the vertebrate body, there are three types of muscle tissue: skeletal muscle, cardiac muscle, and smooth muscle (FIGURE 40.4). Attached to bones by tendons, skeletal muscle is responsible for voluntary movements of the body. Adults have a fixed number of muscle cells; weight lifting and other methods of building muscle do not increase the number of cells but simply enlarge those already present. Skeletal muscle is also called striated muscle because the arrangement of overlapping filaments gives the cells a striped (striated) appearance under the microscope.
+
+
+
+Click image to enlarge
+
+
+
+Fig 40-4. Three kinds of vertebrate muscle.
+
+Cardiac muscle forms the contractile wall of the heart. It is striated like skeletal muscle, but cardiac cells are branched. The ends of the cells are joined by structures called intercalated discs, which relay signals from cell to cell during a heartbeat.
+
+Smooth muscle, so named because it lacks striations, is found in the walls of the digestive tract, urinary bladder, arteries, and other internal organs. The cells are spindle-shaped. They contract more slowly than skeletal muscles but can remain contracted longer. Controlled by different kinds of nerves than those controlling skeletal muscles, smooth muscles are responsible for involuntary body activities, such as churning of the stomach or constriction of arteries. You will learn more about the control and contraction of muscles in Chapter 49.
+
+
+
+

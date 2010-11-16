@@ -1,0 +1,26 @@
+
+THE DISSOCIATION OF WATER MOLECULES
+
+ 
+
+ Organisms are sensitive to changes in pH
+
+
+
+ 
+
+ Acid precipitation threatens the fitness of the environment
+
+
+
+Occasionally, a hydrogen atom shared by two water molecules in a hydrogen bond shifts from one molecule to the other. When this happens, the hydrogen atom leaves its electron behind, and what is actually transferred is a hydrogen ion, a single proton with a charge of +1. The water molecule that lost a proton is now a hydroxide ion (OH-), which has a charge of -1. The proton binds to the other water molecule, making that molecule a hydronium ion (H3O+). We can picture the chemical reaction this way:
+
+Although this is what actually happens, we can think of the process in a simplified way, as the dissociation (separation) of a water molecule into a hydrogen ion and a hydroxide ion: 
+
+As the double arrows indicate, this is a reversible reaction that will reach a state of dynamic equilibrium when water dissociates at the same rate that it is being re-formed from H+ and OH-. At this equilibrium point, the concentration of water molecules greatly exceeds the concentrations of H+ and OH-. In fact, in pure water, only one water molecule in every 554 million is dissociated. The concentration of each ion in pure water is 10-7M (at 25&#176;C). This means that there is only one ten-millionth of a mole of hydrogen ions per liter of pure water and an equal number of hydroxide ions.
+
+Although the dissociation of water is reversible and statistically rare, it is exceedingly important in the chemistry of life. Hydrogen and hydroxide ions are very reactive. Changes in their concentrations can drastically affect a cell's proteins and other complex molecules. As we have seen, the concentrations of H+ and OH- are equal in pure water, but adding certain kinds of solutes, called acids and bases, disrupts this balance. Biologists use something called the pH scale to describe how acidic or basic (the opposite of acidic) a solution is. In the remainder of this chapter, you will learn about acids, bases, and pH and why changes in pH can adversely affect organisms.
+
+
+
+

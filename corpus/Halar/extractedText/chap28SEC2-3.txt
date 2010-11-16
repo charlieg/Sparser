@@ -1,0 +1,20 @@
+
+ Endomembranes contributed to larger, more complex cells
+
+The small size and relatively simple construction of a prokaryote confer many advantages but also impose limits on the number of different metabolic activities that can be handled at one time. The relatively small size of the prokaryotic genome limits the number of genes coding for the enzymes that control these activities. This is not to say that prokaryotes are less successful than eukaryotes. Prokaryotes have been evolving and adapting since the dawn of life, and they are the most widespread organisms even today.
+
+In at least some prokaryotic groups, increasing complexity--higher levels of organization with emergent properties--evolved. One trend was the evolution of multicellular prokaryotes, such as some filamentous cyanobacteria, where different cell types are specialized for different functions (see FIGURE 27.8). A second trend was the evolution of complex communities of prokaryotes, where each species benefited from the metabolic specialties of other species. A third trend was the compartmentalization of different functions within single cells, an evolutionary solution that contributed to the origin of eukaryotes.
+
+How did compartmental organization of the eukaryotic cell evolve from the simpler prokaryotic condition? In one process, the endomembrane system of eukaryotic cells--the nuclear envelope, endoplasmic reticulum, Golgi apparatus, and related structures--may have evolved from specialized infoldings of the prokaryotic plasma membrane (FIGURE 28.4). Another process, called endosymbiosis, probably led to mitochondria, plastids, and perhaps some of the other features of eukaryotic cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-4. A model of the origin of eukaryotes.
+
+
+
+

@@ -1,0 +1,84 @@
+
+ Molecular systematists are moving some branches around on the phylogenetic tree of animals
+
+Modern phylogenetic systematics is based on the identification of clades, which are monophyletic sets of taxa as defined by shared-derived characters unique to those taxa and their common ancestor (see Chapter 25). Based on cladistic methods, a phylogenetic tree takes shape as a hierarchy of clades nested within larger clades--the finer branches and major branches of the tree, respectively. The traditional phylogenetic tree of animals in FIGURE 32.4 is based on the assumption that grades in body plan are good indicators of clades, as long as the key anatomical and embryological homologies that define a grade are unique to the phyla placed on that evolutionary branch.
+
+Molecular systematics has added a new set of shared-derived characters in the form of unique monomer sequences within certain genes and their products. And these molecular data can be used to identify the clusters of monophyletic taxa that make up clades. There wouldn't be much of a story here if molecular systematics simply reinforced the traditional animal tree based on comparative anatomy and embryology. But that is not the case.
+
+The phylogenetic tree in FIGURE 32.8 is based on nucleotide sequences in the small subunit ribosomal RNA (SSU-rRNA), the gene product that is so commonly analyzed by molecular systematists (see, for example, Chapters 27 and 28). Researchers have also sequenced some of the Hox genes in various animals, and so far those sequences support the phylogenetic tree based on SSU-rRNA analysis. Let's examine how this tree agrees with the traditional one, and how the two trees differ.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-8. Animal phylogeny based on sequencing of SSU-rRNA. Note the two distinct clades of protostomes: Lophotrochozoa and Ecdysozoa. And note that these two clades include the acoelomates (Platyhelminthes), the pseudocoelomates (Nematoda and Rotifera), and the lophophorates (Bryozoa, Phoronida, and Brachiopoda).
+
+How Are the Two Views of Animal Phylogeny Alike?
+
+Agreement on the Deepest Branches.First, there is no dispute about the very deepest branches of animal phylogeny. Molecular systematics supports the traditional hypotheses of the Parazoa-Eumetazoa and Radiata-Bilateria dichotomies (see branch points 
+			  
+		 and 
+			  
+		 in FIGURE 32.4).
+
+Agreement on the Deuterostome Clade.Second, the molecular evidence reinforces the hypothesis that the deuterostomes, which include echinoderms such as sea stars and chordates such as vertebrates, make up a clade--a monophyletic sub-branch of the coelomate bilateria (see branch point 
+			  
+		 in FIGURE 32.4).
+
+How Are the Two Views of Animal Phylogeny Different?
+
+You can see where the traditional and molecular-based phylogenetic trees clash by focusing on the protostome branch of the bilateria as represented in FIGURE 32.8.
+
+Two Main Protostome Clades.First, note that the molecular evidence resolves two distinct clades within the protostomes: Lophotrochozoa, which includes the annelids (segmented worms) and the mollusks (such as clams and snails); and Ecdysozoa, which includes the arthropods. (We'll derive these very intimidating terms shortly.)
+
+Based on comparative anatomy and embryology alone, the relationships among the annelids, mollusks, and arthropods were uncertain. Some zoologists favored an annelid-arthropod lineage, partly because both annelids and arthropods have segmented bodies (think of an earthworm, which is an annelid, and the underside of the tail of a lobster, which is an arthropod). But other zoologists argued that certain features linked the annelids closer to the mollusks than to the arthropods. This hypothesis was based in part on the observation that many annelids and mollusks go through a similar larval stage called the trochophore larva (FIGURE 32.9). The molecular data add weight to the hypothesis of an annelid-mollusk clade.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-9. A trochophore larva.
+
+Relocation of the Acoelomates and Pseudocoelomates. In the grade-based phylogeny of FIGURE 32.4, the acoelomate phylum Platyhelminthes (flatworms) branches from the tree before the origin of body cavities. But the molecular data place the flatworms among the protostomes, specifically within the lophotrochozoan clade. If this turns out to be correct, the implication is that flatworms are not the primitive "pre-coelomate" animals of the traditional phylogeny, but are protostomes in which the body plan became simplified by loss of the coelom later in evolution. Similarly, the molecular-based phylogeny also places the pseudocoelomate phyla Rotifera (rotifers) and Nematoda (nematodes, or round worms) within the protostome clade. Rotifers cluster with the lophotrochozoan phyla, while nematodes fit among the ecdysozoans.
+
+The name Ecdysozoa refers to a characteristic shared by nematodes, arthropods, and some of the other ecdysozoan phyla (which are not included in our survey). These animals secrete external skeletons (exoskeletons)--the armor of a lobster is an example. As the animal grows, it molts, squirming out of its old exoskeleton and secreting a new, larger one. The shedding of the old exoskeleton is called ecdysis, the process for which the ecdysozoans are named (FIGURE 32.10). Though named for this characteristic, the clade is actually defined mainly by the molecular evidence for common ancestry.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-10. Ecdysis. This molting cricket is in the process of escaping from its old exoskeleton. The animal will secrete a new, larger exoskeleton.
+
+Assignment of the Lophophorate Phyla.Take one more look at the traditional tree in FIGURE 32.4. Among the coelomates are three phyla called the lophophorate phyla. The animals of these three phyla all have a structure called a lophophore, a horseshoe-shaped crown of ciliated tentacles used for feeding (FIGURE 32.11). The lophophorate phyla share certain characteristics with protostomes and other features with deuterostomes--hence the dashed line indicating uncertain phylogeny in the traditional tree. If the molecular data stand up, they settle debate about the affinities of the lophophorate phyla by placing them as protostomes among the lophotrochozoans. Thus, we can now dissect this long word as the name for a group that unites the lophophore-bearing phyla with phyla having a trochophore larva. Note, however, that while the name of this clade may be based on anatomical and developmental characteristics, the animals are grouped mainly because they share certain DNA sequences.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-11. A lophophorate. This bryozoan uses its lophophore, the crown of ciliated tentacles, for feeding.
+
+Summary of the Two Views of Animal Diversity
+
+We can summarize the differences between the traditional and molecular-based animal phylogenies this way: the molecular data recognize two distinct clades within the protostomes--Lophotrochozoa and Ecdysozoa--and distribute the acoelomates, pseudocoelomates, and lophophorate phyla among those two protostome clades. FIGURE 32.12 will help you review the two views of animal phylogeny.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-12. Comparing the molecular-based and grade-based trees of animal phylogeny. The color-coded blocks will help you compare the locations of the phyla in the two trees.
+
+Though we will base our survey of animal phyla in the next two chapters on the newer, molecular-based phylogeny, we do so with two caveats. First, we will not discard the concept of body-plan grades because it is still a very useful way to think about the diversity of animal forms that have evolved. Second, the phylogenetic tree of animals built from molecular data, like all such trees, represents a set of hypotheses about the history of life, and is thus tentative. The molecular phylogeny is based on just a very few genes--and mainly on one, the gene for SSU-rRNA. Many zoologists will probably stick with the grade-based phylogeny unless much more molecular evidence builds a convincing case for a new tree. In the meantime, the hypothetical tree based on molecules will inform continuing research, including additional studies of anatomy, embryology, cell structure, and other non-molecular analyses. Ideally, such research will eventually square the molecular data with the data from other approaches. Continued exploration of the fossil record, of course, will also help to reconstruct the history of the animal kingdom. But as we'll see in this chapter's last major section, there is a reason that it has not been possible so far for paleontologists to sort out the evolutionary relationships among the animal phyla.
+
+
+
+

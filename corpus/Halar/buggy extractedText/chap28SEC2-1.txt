@@ -1,0 +1,34 @@
+
+ Systematists have split protists into many kingdoms
+
+Molecular systematics and cladistics are combining to chip away at the traditional five-kingdom system of classification (see FIGURE 26.15). A single prokaryotic kingdom, Monera, is incompatible with the new three-domain system that divides the prokaryotes into two superkingdoms, or domains: the domain Bacteria and the domain Archaea (see Chapter 27). Within the third domain, Eukarya, we find all of the eukaryotes, which were divided in the five-kingdom system into four kingdoms: Protista, Plantae, Fungi, and Animalia. The plant, fungus, and animal kingdoms are surviving the taxonomic remodeling so far, though their boundaries have expanded somewhat to include certain groups formerly classified as protists. However, the kingdom Protista has been crumbled beyond repair by the methods of modern systematics.
+
+A protist kingdom was always a bit of a problem, even when the five-kingdom system was in its prime. Protista was defined partly by its members' structure--containing mostly unicellular eukaryotes--and partly by its role as a receptacle for all those eukaryotes that do not fit our definitions of plants, fungi, or animals. While most organisms classified as protists are single-celled and microscopic, the kingdom also included some relatively simple multicellular forms and even some relatively complex giants, such as seaweeds. Thus, organisms as diverse as amoebas and kelp (brown seaweeds) were classified in the same kingdom (FIGURE 28.1). The main thing they had in common was that they were not animals, fungi, or true plants (as we'll define them in the next chapter). The kingdom Protista was convenient, but it has not stood up to phylogenetic scrutiny. Certain protists are far less closely related to each other than plants are to animals. And certain protists are more closely related to plants, fungi, or animals than they are to other protists. To use the terminology of cladistics, the kingdom Protista was paraphyletic (FIGURE 28.2; also see FIGURE 25.9).
+
+a.
+
+b.
+
+c.
+
+d.
+
+Click image to enlarge
+
+
+
+Fig 28-1. Too diverse for one kingdom: a small sample of protists. Though systematists have split the five-kingdom system's Protista into many kingdoms, "protist" is still a convenient informal term for the great diversity of eukaryotes that are not plants, fungi, or animals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-2. The kingdom Protista problem. In this simplified tree of eukaryotes, the diverse lineages that were once combined in the kingdom Protista are highlighted by the yellow background. It was a paraphyletic taxon (see FIGURE 25.9).
+
+As biologists learned more about various groups of protists, the inclusion of such diverse lineages within a single kingdom became phylogenetically untenable. Systematists have split what was once the kingdom Protista into as many as 20 kingdoms. However, most biologists use "protist" as an informal term for this great diversity of eukaryotic kingdoms.
+
+
+
+

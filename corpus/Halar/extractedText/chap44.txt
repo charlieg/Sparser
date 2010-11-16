@@ -1,0 +1,58 @@
+
+Chapter 44: REGULATING THE INTERNAL ENVIRONMENT
+
+AN OVERVIEW OF HOMEOSTASIS
+
+   Regulating and conforming are the two extremes in how animals cope with environmental fluctuations
+
+   Homeostasis balances an animal's gains versus losses for energy and materials
+
+
+
+REGULATION OF BODY TEMPERATURE
+
+   Four physical processes account for heat gain or loss
+
+   Ectotherms have body temperatures close to environmental temperature; endotherms can use metabolic heat to keep body temperature warmer than their surroundings
+
+   Thermoregulation involves physiological and behavioral adjustments that balance heat gain and loss
+
+   Most animals are ectothermic, but endothermy is widespread
+
+   Torpor conserves energy during environmental extremes
+
+
+
+WATER BALANCE AND WASTE DISPOSAL
+
+   Water balance and waste disposal depend on transport epithelia
+
+   An animal's nitrogenous wastes are correlated with its phylogeny and habitat
+
+   Cells require a balance between osmotic gain and loss of water
+
+   Osmoregulators expend energy to control their internal osmolarity; osmoconformers are isoosmotic with their surroundings
+
+
+
+EXCRETORY SYSTEMS
+
+   Most excretory systems produce urine by refining a filtrate derived from body fluids: an overview
+
+   Diverse excretory systems are variations on a tubular theme
+
+   Nephrons and associated blood vessels are the functional units of the mammalian kidney
+
+   The mammalian kidney's ability to conserve water is a key terrestrial adaptation
+
+   Diverse adaptations of the vertebrate kidney have evolved in different habitats
+
+   Interacting regulatory systems maintain homeostasis
+
+One of the most remarkable characteristics of animals is that they can maintain physiologically favorable internal environments even as external conditions undergo dramatic shifts that would be lethal to individual cells. This ability of animals to regulate their internal environment is called homeostasis (see Chapters 1 and 40). An example is the regulation of body temperature. Humans may be exposed to substantial changes in outside temperatures but will die if their internal temperatures drift more than a few degrees above or below 3&#176;C. Another mammal, the arctic wolf you see in the photo above, is so effective at regulating body temperature that it survives winters when temperatures drop as low as -50&#176;C.
+
+This chapter focuses on: thermoregulation, how animals maintain internal temperature within a tolerable range; osmoregulation, how they regulate solute balance and the gain and loss of water; and excretion, how they get rid of the nitrogen-containing waste products of metabolism such as urea. But first, we'll develop a couple of general concepts that provide additional context for our study of homeostasis.
+
+
+
+

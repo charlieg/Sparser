@@ -1,0 +1,18 @@
+
+ Comparing protein synthesis in prokaryotes and eukaryotes: a review
+
+Although bacteria and eukaryotes carry out transcription and translation in very similar ways, we have noted certain differences in cellular machinery and in details of the processes. Prokaryotic and eukaryotic RNA polymerases are different, and those of eukaryotes depend on transcription factors. Transcription is terminated differently in the two kinds of cells. Also, prokaryotic and eukaryotic ribosomes are slightly different. The most important differences, however, arise from the eukaryotic cell's compartmental organization. Like a oneroom workshop, a prokaryotic cell ensures a streamlined operation. In the absence of a nucleus, it can simultaneously transcribe and translate the same gene (FIGURE 17.22), and the newly made protein can quickly diffuse to its site of function. In contrast, the eukaryotic cell's nuclear envelope segregates transcription from translation and provides a compartment for extensive RNA processing. This processing stage provides additional steps whose regulation can help coordinate the eukaryotic cell's elaborate activities (see Chapter 19). Finally, as we have seen, eukaryotic cells have complicated mechanisms for targeting proteins to the appropriate cellular compartment (organelle).
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-22. Coupled transcription and translation in bacteria. In prokaryotic cells, the translation of mRNA can begin as soon as the leading (5&#39;) end of the mRNA molecule peels away from the DNA template. The micrograph shows a strand of E. coli DNA being transcribed by RNA polymerase molecules. Attached to each RNA polymerase molecule is a growing strand of mRNA, which is already being translated by ribosomes. The newly synthesized polypeptides are not visible in the micrograph (TEM).
+
+Where did eukaryotes--and prokaryotes, for that matter--get the genes that encode the huge diversity of proteins they synthesize? For the past few billion years, the ultimate source of new genes has been the mutation of preexisting genes, the topic of the next section.
+
+
+
+

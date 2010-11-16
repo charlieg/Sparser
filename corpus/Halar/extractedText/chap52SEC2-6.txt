@@ -1,0 +1,74 @@
+
+ The logistic model of population growth incorporates the concept of carrying capacity
+
+The exponential growth model assumes unlimited resources, which is never the case in the real world. No population--neither bacteria nor elephants nor any other organisms--can grow exponentially indefinitely. As any population grows larger in size, its increased density may influence the ability of individuals to harvest sufficient resources for maintenance, growth, and reproduction. Populations subsist on a finite amount of available resources, and as the population becomes more crowded, each individual has access to an increasingly smaller share. Ultimately, there is a limit to the number of individuals that can occupy a habitat. Ecologists define carrying capacity as the maximum population size that a particular environment can support at a particular time with no degradation of the habitat. Carrying capacity, symbolized as K, is not fixed, but varies over space and time with the abundance of limiting resources. For example, the carrying capacity for bats may be high in a habitat where flying insects are abundant and there are caves for roosting but lower in a habitat where food is abundant but suitable shelters are less common. Energy limitation is one of the most significant determinants of carrying capacity, although other factors, such as shelters, refuges from predators, soil nutrients, water, and suitable nesting and roosting sites, can be limiting.
+
+Crowding and resource limitation can have a profound effect on the population growth rate. If individuals cannot obtain sufficient resources to reproduce, per capita birth rate will decline. If they cannot find and consume enough energy to maintain themselves, per capita death rates may also increase. A decrease in b or an increase in d results in a smaller r and a lower overall rate of population growth.
+
+The Logistic Growth Equation
+
+We can modify our mathematical model of population growth to incorporate changes in growth rate as the population size nears the carrying capacity (as N grows toward K). The logistic population growth model incorporates the effect of population density on the per capita rate of increase, allowing this rate to vary from a maximum at low population size to zero as carrying capacity is reached. When a population's size is below the carrying capacity, population growth is rapid, but as N approaches K, population growth slows down.
+
+Mathematically, we construct the logistic model by starting with the model of exponential population growth and creating an expression that reduces the rate of population increase as N increases (FIGURE 52.10). If the maximum sustainable population size is K, then K-N tells us how many additional individuals the environment can accommodate, and (K-N)/K tells us what fraction of K is still available for population growth. By multiplying the exponential rate of increase rmaxN by (K-N)/K, we reduce the actual growth rate of the population as N increases: 
+
+
+
+Click image to enlarge
+
+
+
+Fig 52-10. Reduction of population growth rate with increasing population size (N). The logistic model of population growth assumes that the population growth rate dN/dt decreases as N increases. When N is close to 0, the population grows rapidly. However, as N approaches K (the carrying capacity of the environment), the population growth rate approaches 0, and population growth slows. If N is greater than K, then the population growth rate is negative, and population size decreases. An equilibrium is reached at the white line when N = K.
+
+TABLE 52.3 shows hypothetical calculations for the rate of population increase and changes in N at various population sizes for a population growing according to the logistic model. Notice that when N is small compared to K, the term (K-N)/K is large, and the actual rate of population increase (dN/dt) is close to the intrinsic (maximum) rate of increase. But when N is large and resources are limiting, then (K-N)/K is small, and so is the rate of population increase. Zero population growth occurs when the numbers of births and deaths are equal--when N equals K.
+
+Table 52-3. A Hypothetical Example of Logistic Population Growth, Where K = 1,000 and r max = 0.05 per Individual per Year
+
+Population Size (N)Intrinsic Rate of Increase (rmax)
+
+
+
+Rate of Population Increase(dN/dt)DN*200.050.980.049+11000.050.900.045+52500.050.750.038+95000.050.500.025+137500.050.250.013+91,0000.050.000.0000*DN is rounded to the nearest whole number.The logistic model of population growth produces a sigmoid (S-shaped) growth curve when N is plotted over time (the red line in FIGURE 52.11, page 1162). New individuals are added to the population most rapidly at intermediate population sizes, when there is not only a breeding population of substantial size, but also lots of available space and other resources in the environment. The population growth rate slows dramatically as N approaches K.
+
+
+
+Click image to enlarge
+
+
+
+Fig 52-11. Population growth predicted by the logistic model. The logistic growth model assumes that there is a maximum population size that the environment can support--the carrying capacity K. The rate of population growth slows as the population approaches the carrying capacity of the environment. The red line shows logistic growth in a population where rmax = 1.0 and K = 1,500 individuals. For comparison, the blue line illustrates a population continuing to grow exponentially with the same rmax.
+
+Notice that we haven't said anything about what makes the population growth rate change as N approaches K. Either the birth rate b must decrease, the death rate d must increase, or both. Later in the chapter, we will go into some detail about some of the factors affecting b and d.
+
+How Well Does the Logistic Model Fit the Growth of Real Populations?
+
+The growth of laboratory populations of some small animals, such as beetles or crustaceans, and of microorganisms, such as paramecia, yeasts, and bacteria, fit S-shaped curves fairly well (FIGURE 52.12a, page 1162). These experimental populations are grown in a constant environment lacking predators and other species that may compete for resources, conditions that rarely occur in nature. Even under these laboratory conditions, not all populations show logistic growth patterns. Laboratory populations of water fleas (Daphnia), for example, show exponential growth and overshoot their carrying capacity before settling down to a relatively stable density (FIGURE 52.12b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 52-12. How well do these populations fit the logistic population growth model? The dots on these graphs are the actual data points.
+
+Most populations show some deviations from a smooth sigmoid curve. And while many natural populations increase in approximately logistic fashion, the stable carrying capacity is rarely observed. FIGURE 52.12c shows population changes in the song sparrow on a small island in southern British Columbia. The population increases rapidly but suffers periodic catastrophes in winter, so that there is no stable population size.
+
+Some of the basic assumptions built into the logistic model clearly do not apply to all populations. For example, the model incorporates the idea that even at low population levels, each individual added to the population has the same negative effect on population growth rate. Some populations, however, show an Allee effect (named after W. C. Allee, of the University of Chicago, who first described it), in which individuals may have a more difficult time surviving or reproducing if the population size is too small. For example, a single plant standing alone may suffer from excessive wind but would be protected in a clump of individuals. And some seabirds that breed in colonies require large numbers at their breeding grounds to provide the necessary social stimulation for reproduction. Moreover, conservation biologists fear that populations of solitary animals, such as rhinoceroses, may become so small that individuals will not be able to locate mates in the breeding season. In all these cases, a greater number of individuals in the population has a positive effect, up to a point, on population growth, rather than a negative effect as assumed by the logistic model.
+
+The logistic model also makes the assumption that populations adjust instantaneously and approach carrying capacity smoothly. In most natural populations, however, there is a lag time before the negative effects of an increasing population are realized. For example, as some important resource, such as food, becomes limiting for a population, reproduction will be reduced, but the birth rate may not be affected immediately because the organisms may use their energy reserves to continue producing eggs for a short time. This may cause the population to overshoot the carrying capacity. Eventually, deaths will exceed births, and the population may then drop below carrying capacity; even though reproduction begins again as numbers fall, there is a delay until new individuals actually appear. Many populations fluctuate strongly, which makes it difficult to define what is meant by carrying capacity (see FIGURE 52.12c). Others overshoot it at least once before attaining a relatively stable size (see FIGURE 52.12b). We will examine some possible reasons for these fluctuations later in the chapter.
+
+As you will see in the next section, some populations do not necessarily remain at, or even reach, levels where population density is an important factor. In many insects and other small, quickly reproducing organisms that are sensitive to environmental fluctuations, physical variables such as temperature or moisture usually reduce the population well before resources become limiting.
+
+Overall, the logistic model is a useful starting point for thinking about how populations grow and for constructing more complex models. Although it fits few, if any, real populations closely, the logistic model is useful in conservation biology and in pest control to estimate how rapidly a particular population might increase in numbers after it has been reduced to a small size. And like any good starting hypothesis, the logistic model has stimulated much research and many discussions that, whether they support the model or not, lead to a greater understanding of the factors affecting population growth.
+
+The Logistic Population Growth Model and Life Histories
+
+The logistic model predicts different growth rates for low-density populations and high-density populations, relative to the carrying capacity of the environment. At high densities, each individual has few resources available, and the population can grow slowly, if at all. At low densities, the opposite is true: Resources per capita are relatively abundant, and the population can grow rapidly. Different life history features will be favored under these different conditions. At high population density, selection favors adaptations that enable organisms to survive and reproduce with few resources. Thus, competitive ability and maximum efficiency of resource utilization should be favored in populations that are at or near their carrying capacity. At low population density, on the other hand, even in the same species, the "empty" environment should favor adaptations that promote rapid reproduction. Increased fecundity and earlier maturity, for example, would be selected for.
+
+Thus, the life history traits that natural selection favors may vary with population density and environmental conditions. Selection for life history traits that are sensitive to population density can be called K-selection, or density-dependent selection. In contrast, selection for life history traits that maximize reproductive success in uncrowded environments (low densities) can be called r-selection, or density-independent selection. These names follow from the variables of the logistic equation. K-selection tends to maximize population size and operates in populations living at a density near the limit imposed by their resources (the carrying capacity K). By contrast, r-selection tends to maximize r, the rate of increase, and occurs in variable environments in which population densities fluctuate well below carrying capacity or in open habitats where individuals are likely to face little competition.
+
+In laboratory experiments, researchers have shown that different populations of the same species may show a different balance of K-selected and r-selected traits, depending on conditions. For example, cultures of the fruit fly Drosophila melanogaster raised under crowded conditions with minimal food for 200 generations are more productive at high density than populations raised in uncrowded conditions with maximal food. Larvae from cultures selected for living in crowded conditions feed faster than larvae selected for living in uncrowded cultures. The fruit fly genotypes that are most fit at low density do not have high fitness at high density, as predicted by r- and K- selection theory.
+
+
+
+

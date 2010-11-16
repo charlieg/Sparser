@@ -1,0 +1,36 @@
+WASHINGTON --
+Bad news for Chinese generals : The U.S. Commerce Department has just determined that the new Sony Playstation II , available later this year , is powered by an American -made chip so powerful that Washington would have to be notified before it could be shipped to China .
+If the final destination were a company , institute or household linked to the Chinese military , a lengthy review would be required to make sure America 's most sophisticated technology does not fall into the hands of bomb makers .
+But any Chinese officer determined to play out his fantasies on a state-of-the-art Sony -- perhaps simulating a naval attack to retake Taiwan ? -- has other options .
+He could simply send his teen-agers over to shop at any of the five Toys `` R '' Us stores in Hong Kong , which is still considered a safe place to send advanced technology even though it reverted to China two years ago .
+The issue of the Playstation is bandied about a lot in Washington these days as one more example of how disconnected the politics of controlling high-tech exports is from the realities of a marketplace that reinvents itself every six months .
+In the wake of the disclosures about Chinese espionage , there has been daily talk on Capitol Hill about crackdowns on the export of American technology , not only nuclear secrets from the labs , which everyone agrees must be locked up , but also the computing power that would help the Chinese simulate nuclear explosions .
+The Playstation is only the tip of the chip .
+Over the next 12 months American computer and semiconductor makers are planning to roll out a series of new products , with code names like Willamette and Merced , that blow wildly past the limits Washington has used to define a supercomputer that needs to be guarded .
+By year 's end , says Andrew Grove , chairman of Intel Corp. , `` You 'll be spending $ 1,200 at CompUSA for a computer that , if the rules are n't changed , we may not be able to ship to China . ''
+Or to Israel , Russia , India or 50 other nations subject to strict controls .
+This leaves the Clinton administration in a bind .
+<ENAMEX TYPE="VITAL">Just as it is defending itself against charges of letting technology out the door , the computer industry 's top executives were visiting Capitol Hill and the White House last week asking for a relaxation of the export rules</ENAMEX> .
+Under their proposal , the definition of a high-performance computer requiring government approval for export to those 50 countries would be increased sixfold to 12,300 MTOPS -LRB- millions of theoretical operations per second -RRB- from 2,000 now .
+Otherwise , they warn , Europe and Japan will eat their lunch .
+Many in the Clinton administration agree that the current limits are too strict given today 's technology .
+The president could ease the restrictions with a stroke of his pen , but he must give Congress six months to review the decision .
+Nowadays , though , one White House official lamented , `` We 'd be giving ammo to anyone who believes that we are helping arm potential enemies . ''
+What the computer industry seeks is a fundamental rethinking of what kind of technology it makes sense to control .
+During the Cold War that issue seemed relatively straightforward : The most powerful Cray supercomputers and their Japanese rivals were clearly off limits for shipments to the likes of the old Soviet Union and China .
+But Crays were produced in limited numbers , and when they were sold to countries whose intentions might be less than honorable , part of the deal was that they would be accompanied by a full-time technical expert who , in theory , also served as a monitor .
+But the motto of last week 's Silicon Valley visitors , who included some big donors to Democratic and Republican causes , is `` Yesterday 's supercomputer is today 's laptop . ''
+They have a point : A $ 20 million Cray X - MP , state of the art in the mid-1980s , had about the power of a 1999 personal computer equipped with a relatively fast version of Intel 's Pentium II chip .
+That Pentium is , of course , passe .
+By the end of this year Intel projects that a high-end Pentium III chip will perform 1,600 MTOPS , well above the current limit for microprocessors that can be shipped to China and similar countries .
+Then come Willamette and Merced , chips that Dell , Compaq , IBM and others plan to put in clusters of two or four in forthcoming machines .
+<ENAMEX TYPE="OKAY">These computers would operate at upward of 12,000 MTOPS , or more than six times the current threshold for export controls</ENAMEX> .
+`` The fact is that there are going to be millions of these computers produced , '' said Lewis Platt , the president and chief executive of Hewlett - Packard , who led the lobbying effort here .
+`` There comes a moment when a technology is so widely available that the kind of limits that we put in place just a few years ago simply do n't make any sense anymore . ''
+<ENAMEX TYPE="OKAY">The two main authors of the report on China 's espionage efforts , Rep. Christopher Cox , R - Calif. , and Norm Dicks , D - Wash. , sympathize but insist it is time to revive the Cold War organization that limited exports , the Committee on Multilateral Export Controls</ENAMEX> .
+It went out of business in 1994 , replaced by a weak accord that allows most countries to ship whatever they want .
+`` <ENAMEX TYPE="OKAY">Export controls remain essential because even as China has stolen some of our most important secrets , it has not yet obtained everything it needs to exploit them , '' Cox and Dicks wrote last week in The Wall Street Journal</ENAMEX> .
+Europe and Japan , however , see the threat differently ; they worry more about America 's technological supremacy than about what happens when China gets the Merced .
+They are reluctant to re-institute cold-war controls .
+That 's understandable .
+The Gartner Group , a computer industry consulting group , projects that within three years the Chinese will be buying nearly 400,000 multi-processor personal computers a year , to say nothing of Sony Playstations .

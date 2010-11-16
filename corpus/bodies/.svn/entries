@@ -1,0 +1,80 @@
+9
+
+dir
+344
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/corpus/bodies
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+BBC_3-28.parses.lisp
+file
+
+
+
+
+2006-04-17T21:42:18.000000Z
+c3f949980cfcd17e5c34291a62a4ab52
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+BBC_3-28_bodies.txt
+file
+
+
+
+
+2006-04-07T16:18:54.000000Z
+faf940231c1cc18aea0257027b6f9967
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+BBC_3-29.parses.lisp
+file
+
+
+
+
+2006-04-17T21:22:56.000000Z
+49dc4bc3b05067eda287236028e6a206
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+
+BBC_3-29_bodies.txt
+file
+
+
+
+
+2006-04-07T16:20:54.000000Z
+cdc5dadc9d1bc9fd983853e5e5ac3844
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+BBC_3-29.parses
+file
+
+
+
+
+2006-04-07T21:32:12.000000Z
+9e979d57abec747c43148f84ee8b8639
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+

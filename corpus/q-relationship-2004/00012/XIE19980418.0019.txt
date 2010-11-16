@@ -1,0 +1,9 @@
+WASHINGTON , April 17 -LRB- Xinhua -RRB- -- The U.S. Federal Aviation Administration -LRB- FAA -RRB- has proposed changes in wiring and fuel vents on Boeing 737s in an effort to cut the risk of fuel tank explosion .
+The FAA order on Thursday would affect all but about 100 of the nearly 3,000 Boeing 737s in operation worldwide , including 1,140 registered in the United States , The Washington Post quoted Boeing officials as saying Friday .
+The proposals are similar to those made by the agency last November on 747s , the model of airplane used in the TWA 800 flight that exploded shortly after takeoff from New York Kennedy International Airport on July 17 , 1996 .
+The crash , killing all 230 people on board , was caused by an explosion in the center fuel tank , according to investigators .
+But investigators have yet found what caused the deadly spark .
+They have examined closely the wiring in fuel-monitoring systems used in both the 747 and the 737 .
+In a 1990 accident involving a Philippine Airlines 737 , the center fuel tank exploded shortly after the plane pushed back from the ramp at the Manila airport .
+The National Transportation Safety Board and the FAA agree that a possible source is low-voltage wires in the fuel quantity indicating system .
+Under Boeing 's design , low-voltage wires that connect fuel gauges in the cockpit with the fuel tank are bundled with hundreds of other wires , including some carrying high-voltage electricity , the Post said .

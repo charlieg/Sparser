@@ -1,0 +1,36 @@
+
+ Calcium ions and regulatory proteins control muscle contraction
+
+A skeletal muscle contracts only when stimulated by a motor neuron. When the muscle is at rest, the myosin binding sites on the actin molecules are blocked by the regulatory protein tropomyosin. Another set of regulatory proteins, the troponin complex, controls the position of tropomyosin on the thin filament (FIGURE 49.34). For a muscle cell to contract, the myosin binding sites on the actin must be uncovered. This occurs when calcium ions bind to troponin, altering the interaction between troponin and tropomyosin. The Ca2+ binding rearranges the tropomyosin-troponin complex, exposing the myosin binding sites on actin. When calcium is present, the sliding of thin and thick filaments can occur, and the muscle contracts. When calcium concentration in the cytosol falls, the binding sites of actin are covered, and contraction stops.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-34. Hypothetical mechanism for the control of muscle contraction. The thin filament has two strands of actin twisted into a helix. (a) When the muscle is at rest, a long, rodlike tropomyosin molecule blocks the myosin binding sites that are instrumental in forming cross-bridges. (b) When another protein complex, troponin, binds calcium ions, the binding sites on actin are exposed, cross-bridges with myosin can form, and the muscle contracts.
+
+Calcium concentration in the cytosol of the muscle cell is regulated by the sarcoplasmic reticulum, a specialized endoplasmic reticulum (FIGURE 49.35). The membrane of the sarcoplasmic reticulum actively transports calcium from the cytosol into the interior of the reticulum, which is thus an intracellular storehouse for calcium.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-35. The roles of the muscle fiber's sarcoplasmic reticulum and T tubules in contraction. Diffusing across the neuromuscular junction, acetylcholine depolarizes the plasma membrane of the muscle fiber, and action potentials (blue arrows) sweep across the fiber and deep into it along T (transverse) tubules. Within the muscle cell the action potentials trigger the release of Ca2+ (green dots) from the sarcoplasmic reticulum into the cytoplasm. The Ca2+ initiates the sliding of filaments by triggering the binding of myosin to actin.
+
+The stimulus leading to the contraction of a skeletal muscle cell is an action potential in a motor neuron that makes a synaptic connection with the muscle cell. The synaptic terminal of the motor neuron releases the neurotransmitter acetylcholine at the neuromuscular junction, depolarizing the postsynaptic muscle cell and triggering an action potential in the muscle cell. That action potential is the signal for contraction. The action potential spreads deep into the interior of the muscle cell along infoldings of the plasma membrane called T (transverse) tubules. Where the transverse tubules contact the sarcoplasmic reticulum, the action potential changes the permeability of the sarcoplasmic reticulum, causing it to release calcium ions. These calcium ions bind to troponin, allowing the muscle to contract. Muscle contraction stops when the sarcoplasmic reticulum pumps the calcium back out of the cytosol, and the tropomyosin-troponin complex again blocks the myosin binding sites as the concentration of calcium falls (FIGURE 49.36).
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-36. Review of skeletal muscle contraction.
+
+
+
+

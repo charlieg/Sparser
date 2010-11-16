@@ -1,0 +1,20 @@
+
+ The chemistry of life is organized into metabolic pathways
+
+We can think of a cell's metabolism as an elaborate road map of the thousands of chemical reactions that occur in that cell (FIGURE 6.1, p. 88). These reactions are arranged in intricately branched metabolic pathways that alter molecules by a series of steps. Enzymes route matter through the metabolic pathways by selectively accelerating each step. Analogous to the red, yellow, and green lights that control the flow of traffic and prevent snarls, mechanisms that regulate enzymes balance metabolic supply and demand, averting deficits and surpluses of chemicals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 6-1. The complexity of metabolism. This diagram traces only a few hundred of the thousands of metabolic reactions that occur in a cell. The dots represent molecules, and the lines represent the chemical reactions that transform them. The reactions proceed in stepwise sequences called metabolic pathways, in which each step is catalyzed by a specific enzyme. The inset shows the first two steps in the catabolic pathway that breaks down glucose. (You'll learn more about this pathway in Chapter 9.)
+
+As a whole, metabolism is concerned with managing the material and energy resources of the cell. Some metabolic pathways release energy by breaking down complex molecules to simpler compounds. These degradative processes are called catabolic pathways. A major thoroughfare of catabolism is cellular respiration, in which the sugar glucose and other organic fuels are broken down to carbon dioxide and water. Energy that was stored in the organic molecules becomes available to do the work of the cell. Anabolic pathways, in contrast, consume energy to build complicated molecules from simpler ones. An example of anabolism is the synthesis of a protein from amino acids. Catabolic and anabolic pathways are the downhill and uphill avenues of the metabolic map. The metabolic pathways intersect in such a way that energy released from the "downhill" reactions of catabolism can be used to drive the "uphill" reactions of the anabolic pathways. This transfer of energy from catabolism to anabolism is called energy coupling.
+
+In this chapter, we will focus on the mechanisms common to metabolic pathways. Because energy is fundamental to all metabolic processes, a basic knowledge of energy is necessary to understand how the living cell works. Although we will use some nonliving examples to study energy, keep in mind that the concepts demonstrated by these examples also apply to bioenergetics, the study of how organisms manage their energy resources. An understanding of energy is as important for students of biology as it is for students of physics, chemistry, and engineering.
+
+
+
+

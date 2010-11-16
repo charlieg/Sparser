@@ -1,0 +1,18 @@
+
+ Inheritance is based on replication of the DNA double helix
+
+The RNA molecules of cells consist of a single polynucleotide chain like the one shown in FIGURE 5.29. In contrast, cellular DNA molecules have two polynucleotides that spiral around an imaginary axis to form a double helix (FIGURE 5.30, p. 84). James Watson and Francis Crick, working at Cambridge University, first proposed the double helix as the three-dimensional structure of DNA in 1953. The two sugar-phosphate backbones are on the outside of the helix, and the nitrogenous bases are paired in the interior of the helix. The two polynucleotides, or strands, as they are called, are held together by hydrogen bonds between the paired bases and by van der Waals interactions between the stacked bases. Most DNA molecules are very long, with thousands or even millions of base pairs connecting the two chains. One long DNA double helix includes many genes, each one a particular segment of the molecule.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-30. The DNA double helix and its replication. The DNA molecule is usually double-stranded, with the sugar-phosphate backbone of the polynucleotides (symbolized here by blue ribbons) on the outside of the helix. In the interior are pairs of nitrogenous bases, holding the two strands together by hydrogen bonds. Hydrogen bonding between the bases is specific. As illustrated here with symbolic shapes for the bases, adenine (A) can pair only with thymine (T), and guanine (G) can pair only with cytosine (C). As a cell prepares to divide, the two strands of the double helix separate, and each serves as a template for the precise ordering of nucleotides into new complementary strands (orange). Each DNA strand in this figure is the structural equivalent of the polynucleotide diagrammed in FIGURE 5.29c.
+
+Only certain bases in the double helix are compatible with each other. Adenine (A) always pairs with thymine (T), and guanine (G) always pairs with cytosine (C). If we were to read the sequence of bases along one strand as we traveled the length of the double helix, we would know the sequence of bases along the other strand. If a stretch of one strand has the base sequence AGGTCCG, then the base-pairing rules tell us that the same stretch of the other strand must have the sequence TCCAGGC. The two strands of the double helix are complementary, each the predictable counterpart of the other. It is this feature of DNA that makes possible the precise copying of genes that is responsible for inheritance (FIGURE 5.30, p. 84). In preparation for cell division, each of the two strands of a DNA molecule serves as a template to order nucleotides into a new complementary strand. The result is two identical copies of the original double-stranded DNA molecule, which are then distributed to the two daughter cells. Thus, the structure of DNA accounts for its function in transmitting genetic information whenever a cell reproduces.
+
+
+
+

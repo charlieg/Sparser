@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+
+
+
+<TempEval>
+
+
+
+ APW19980306.1001 
+ NEWS STORY 
+ <TIMEX3 tid="t137" type="TIME" value="1998-03-06T13:19:00" temporalFunction="false" functionInDocument="CREATION_TIME">03/06/1998 13:19:00</TIMEX3> 
+
+w2188 Cx1f wstm-
+u i Cx13  Cx11  BC-Iraq 3rdLd-Writethru   03-06 0642
+
+
+ BC-Iraq, 3rd Ld-Writethru 
+
+American Ritter resumes inspections in Iraq
+
+UR Eds: AMs; RECASTS throughout with Ritter inspecting three sensitive
+sites; UN quotes QL
+UR By LEON BARKHO QC
+UR Associated Press Writer QC
+
+
+<s>BAGHDAD, Iraq (AP) _ An American leader of a U.N. weapons
+inspection team <EVENT eid="e1" class="ASPECTUAL" stem="resume" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">resumed</EVENT> <EVENT eid="e2" class="OCCURRENCE" stem="work" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">work</EVENT> in Iraq <TIMEX3 tid="t138" type="DATE" value="1998-03-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Friday</TIMEX3>, <TIMEX3 tid="t139" type="DURATION" value="P2M" mod="APPROX" temporalFunction="true" functionInDocument="NONE" endPoint="t138">nearly two months</TIMEX3>
+after his team was effectively <EVENT eid="e4" class="OCCURRENCE" stem="block" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">blocked</EVENT>.</s>
+<s>Scott Ritter <EVENT eid="e5" class="OCCURRENCE" stem="lead" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">led</EVENT> his team on a <TIMEX3 tid="t140" type="DURATION" value="PT10H" temporalFunction="false" functionInDocument="NONE">10-hour</TIMEX3> <EVENT eid="e6" class="OCCURRENCE" stem="tour" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tour</EVENT> of three suspected
+weapons sites classified as ``sensitive'' by the Iraqi authorities,
+U.N. spokesman Alan Dacey <EVENT eid="e9" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT>.</s>
+<s>``All sites were <EVENT eid="e10" class="OCCURRENCE" stem="inspect" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">inspected</EVENT> to the satisfaction of the inspection
+team and with full <EVENT eid="e11" class="OCCURRENCE" stem="cooperation" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">cooperation</EVENT> of Iraqi authorities,'' Dacey <EVENT eid="e12" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT>.</s>
+<s>At least one of the sensitive sites was a barracks of the elite
+Republican Guard, a well-placed source told The Associated Press.</s>
+<s><TIMEX3 tid="t1191" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Previously</TIMEX3> the Iraqis have <EVENT eid="e14" class="I_ACTION" stem="resist" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">resisted</EVENT> <EVENT eid="e15" class="I_ACTION" stem="attempt" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">attempts</EVENT> to <EVENT eid="e17" class="OCCURRENCE" stem="inspect" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">inspect</EVENT> such
+quarters.</s>
+<s>The U.N. Security Council has <EVENT eid="e18" class="I_ACTION" stem="charge" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">charged</EVENT> the inspectors with
+<EVENT eid="e19" class="I_ACTION" stem="verifying" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">verifying</EVENT> that Iraq has <EVENT eid="e20" class="OCCURRENCE" stem="destroy" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">destroyed</EVENT> its long-range missiles and
+weapons of mass destruction.</s>
+<s>It was the first time that Ritter, who <EVENT eid="e24" class="OCCURRENCE" stem="arrive" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">arrived</EVENT> <TIMEX3 tid="t141" type="DATE" value="1998-03-05" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Thursday</TIMEX3> with
+some 50 inspectors for a <EVENT eid="e25" class="OCCURRENCE" stem="tour" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">tour</EVENT> likely to <EVENT eid="e27" class="OCCURRENCE" stem="last" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">last</EVENT> <TIMEX3 tid="t143" type="DURATION" value="P1W" mod="MORE_THAN" temporalFunction="false" functionInDocument="NONE">over a week</TIMEX3>, had been <EVENT eid="e28" class="I_STATE" stem="allow" aspect="PERFECTIVE" tense="PAST" polarity="POS" pos="VERB">allowed</EVENT> to <EVENT eid="e30" class="OCCURRENCE" stem="carry" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">carry</EVENT> out an <EVENT eid="e31" class="OCCURRENCE" stem="inspection" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">inspection</EVENT> since <TIMEX3 tid="t1192" type="DATE" value="1998-01-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Jan. 13</TIMEX3>.</s>
+<s>Then the Baghdad government <EVENT eid="e32" class="ASPECTUAL" stem="stop" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">stopped</EVENT> <EVENT eid="e33" class="OCCURRENCE" stem="provide" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">providing</EVENT> Ritter's team with
+escorts, <EVENT eid="e35" class="I_ACTION" stem="make" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">making</EVENT> it impossible for him to <EVENT eid="e37" class="OCCURRENCE" stem="enter" aspect="NONE" tense="INFINITIVE" polarity="NEG" pos="VERB">enter</EVENT> any site.</s> <s>Iraq
+<EVENT eid="e38" class="I_ACTION" stem="allege" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">alleged</EVENT> Ritter was an American spy whose team had a
+disproportionately high number of Americans and Britons.</s>
+<s>The official Iraqi News Agency, which gives the daily tally of
+inspections, did not <EVENT eid="e42" class="OCCURRENCE" stem="mention" aspect="NONE" tense="PAST" polarity="NEG" pos="VERB">mention</EVENT> Ritter by name, but <EVENT eid="e45" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> <TIMEX3 tid="t144" type="DATE" value="1998-03-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Friday</TIMEX3> that
+team no. 225 _ which Ritter heads _ <EVENT eid="e48" class="OCCURRENCE" stem="make" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">made</EVENT> surprise <EVENT eid="e49" class="OCCURRENCE" stem="visit" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visits</EVENT> to a
+number of sites and was <EVENT eid="e50" class="OCCURRENCE" stem="assist" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">assisted</EVENT> by aerial surveillance.</s>
+<s>Five other U.N. inspection teams <EVENT eid="e52" class="OCCURRENCE" stem="visit" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">visited</EVENT> a total of nine other
+sites, the agency <EVENT eid="e53" class="REPORTING" stem="report" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">reported</EVENT>.</s>
+<s>An Iraqi official, <EVENT eid="e54" class="OCCURRENCE" stem="speak" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">speaking</EVENT> on customary condition of anonymity,
+<EVENT eid="e56" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> Ritter would not <EVENT eid="e57" class="I_ACTION" stem="try" aspect="NONE" tense="NONE" polarity="NEG" pos="VERB">try</EVENT> to <EVENT eid="e61" class="OCCURRENCE" stem="visit" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">visit</EVENT> any of the eight presidential
+sites that Baghdad had <EVENT eid="e62" class="OCCURRENCE" stem="place" aspect="PERFECTIVE" tense="PAST" polarity="POS" pos="VERB">placed</EVENT> off-limits to U.N. weapons
+inspectors.</s>
+<s>The official <EVENT eid="e63" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> these sites could only be <EVENT eid="e64" class="OCCURRENCE" stem="visit" aspect="NONE" tense="NONE" polarity="POS" pos="VERB">visited</EVENT> by a special
+team of U.N. monitors and diplomats as <EVENT eid="e67" class="OCCURRENCE" stem="lay" aspect="NONE" tense="PASTPART" polarity="POS" pos="VERB">laid</EVENT> down by the <TIMEX3 tid="t1193" type="DATE" value="1998-02-23" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Feb. 23</TIMEX3>
+accord <EVENT eid="e68" class="OCCURRENCE" stem="sign" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">signed</EVENT> by U.N. Secretary-General Kofi Annan and Iraqi Deputy
+Prime Minister Tariq Aziz.</s>
+<s>Ritter's <EVENT eid="e69" class="OCCURRENCE" stem="return" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">return</EVENT> is <EVENT eid="e70" class="I_STATE" stem="see" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">seen</EVENT> as something of a <EVENT eid="e71" class="OCCURRENCE" stem="test" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">test</EVENT> of that
+agreement, under which Iraq <EVENT eid="e73" class="I_ACTION" stem="agree" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">agreed</EVENT> to <EVENT eid="e75" class="OCCURRENCE" stem="give" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">give</EVENT> inspectors full access
+to eight of Saddam Hussein's presidential palaces.</s>
+<s>The United States had <EVENT eid="e76" class="OCCURRENCE" stem="move" aspect="PERFECTIVE" tense="PAST" polarity="POS" pos="VERB">moved</EVENT> additional troops and a naval armada
+into the Gulf and <EVENT eid="e77" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> it would <EVENT eid="e78" class="OCCURRENCE" stem="strike" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">strike</EVENT> Iraq unless it gave the U.N.
+arms inspectors unfettered access to all potential weapons sites,
+including Saddam's palaces.</s> <s>Iraq had <EVENT eid="e80" class="I_ACTION" stem="argue" aspect="PERFECTIVE" tense="PAST" polarity="POS" pos="VERB">argued</EVENT> the presidential sites
+should be <EVENT eid="e162" class="STATE" stem="off" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">off</EVENT> limits as symbols of sovereignty.</s>
+<s>A Pentagon spokesman <EVENT eid="e83" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> <TIMEX3 tid="t146" type="DATE" value="1998-03-05" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Thursday</TIMEX3> that the 38,000 U.S. troops
+in the Gulf will <EVENT eid="e84" class="STATE" stem="remain" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">remain</EVENT> until Iraq <EVENT eid="e157" class="OCCURRENCE" stem="comply" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">complies</EVENT> with the U.N. Security
+Council agreement over weapons inspections.</s>
+<s>``We are going to <EVENT eid="e88" class="STATE" stem="maintain" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">maintain</EVENT> our forces in the region for the
+foreseeable future,'' <EVENT eid="e89" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> spokesman Kenneth Bacon.</s>
+<s>The U.N.-Iraq accord was <EVENT eid="e90" class="OCCURRENCE" stem="work" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">worked</EVENT> out by U.N. Secretary-General
+Kofi Annan, who <EVENT eid="e91" class="OCCURRENCE" stem="appoint" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">appointed</EVENT> a retired Indian diplomat on <TIMEX3 tid="t1194" type="DATE" value="1998-03-05" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Thursday</TIMEX3> as
+his special representative to Iraq.</s> <s>Prakash Shah, 58, a former
+Indian ambassador to the United Nations, is part of an <EVENT eid="e159" class="I_ACTION" stem="effort" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">effort</EVENT> by
+Annan to <EVENT eid="e94" class="OCCURRENCE" stem="expand" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">expand</EVENT> contacts with the Iraqi leadership.</s>
+<s>Palace <EVENT eid="e97" class="OCCURRENCE" stem="inspection" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">inspections</EVENT> are not <EVENT eid="e98" class="I_STATE" stem="expect" aspect="NONE" tense="PRESENT" polarity="NEG" pos="VERB">expected</EVENT> to <EVENT eid="e101" class="ASPECTUAL" stem="start" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">start</EVENT> until the new
+agreement's procedures are in <EVENT eid="e161" class="STATE" stem="place" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">place</EVENT>.</s> <s>U.N. officials in New York on
+<TIMEX3 tid="t148" type="DATE" value="1998-03-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">Friday</TIMEX3> <EVENT eid="e106" class="ASPECTUAL" stem="finish" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">finished</EVENT> <EVENT eid="e107" class="OCCURRENCE" stem="draft" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">drafting</EVENT> the rules, in <EVENT eid="e108" class="OCCURRENCE" stem="consultation" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">consultation</EVENT> with Iraqi
+diplomats.</s> <s>The procedures are due to <EVENT eid="e112" class="OCCURRENCE" stem="go" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">go</EVENT> before the Security Council
+<TIMEX3 tid="t150" type="DATE" value="1998-W11" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t137">next week</TIMEX3>.</s>
+<s>The Security Council has <EVENT eid="e113" class="REPORTING" stem="say" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">said</EVENT> it will not <EVENT eid="e114" class="OCCURRENCE" stem="lift" aspect="NONE" tense="FUTURE" polarity="NEG" pos="VERB">lift</EVENT> the sweeping
+sanctions <EVENT eid="e117" class="OCCURRENCE" stem="impose" aspect="NONE" tense="PASTPART" polarity="POS" pos="VERB">imposed</EVENT> on Iraq after its <TIMEX3 tid="t151" type="DATE" value="1990" temporalFunction="false" functionInDocument="NONE">1990</TIMEX3> <EVENT eid="e118" class="OCCURRENCE" stem="invasion" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">invasion</EVENT> of Kuwait until
+the U.N. inspectors <EVENT eid="e121" class="OCCURRENCE" stem="certify" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">certify</EVENT> that Baghdad has <EVENT eid="e122" class="OCCURRENCE" stem="eliminate" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">eliminated</EVENT> its weapons
+of mass destruction.</s>
+
+UR lb-jbm
+(PROFILE
+(WS SL:BC-Iraq, 3rd Ld-Writethru; CT:i;
+(REG:MEST;)
+(REG:ENGL;)
+(REG:EURO;)
+(REG:BRIT;)
+(REG:SCAN;)
+(LANG:ENGLISH;))
+)
+
+
+<s>AP-NY-03-06-98 1319EST</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" eventID="e9" relatedToTime="t140" task="A"/>
+<TLINK lid="l2" relType="UNKNOWN" eventID="e48" relatedToTime="t144" task="A"/>
+<TLINK lid="l3" relType="UNKNOWN" eventID="e45" relatedToTime="t144" task="A"/>
+<TLINK lid="l4" relType="UNKNOWN" eventID="e63" relatedToTime="t1193" task="A"/>
+<TLINK lid="l5" relType="UNKNOWN" eventID="e84" relatedToTime="t146" task="A"/>
+<TLINK lid="l6" relType="UNKNOWN" eventID="e83" relatedToTime="t146" task="A"/>
+<TLINK lid="l7" relType="UNKNOWN" eventID="e112" relatedToTime="t150" task="A"/>
+<TLINK lid="l8" relType="UNKNOWN" eventID="e113" relatedToTime="t151" task="A"/>
+<TLINK lid="l9" relType="UNKNOWN" eventID="e9" relatedToTime="t137" task="B"/>
+<TLINK lid="l10" relType="UNKNOWN" eventID="e12" relatedToTime="t137" task="B"/>
+<TLINK lid="l11" relType="UNKNOWN" eventID="e18" relatedToTime="t137" task="B"/>
+<TLINK lid="l12" relType="UNKNOWN" eventID="e35" relatedToTime="t137" task="B"/>
+<TLINK lid="l13" relType="UNKNOWN" eventID="e48" relatedToTime="t137" task="B"/>
+<TLINK lid="l14" relType="UNKNOWN" eventID="e45" relatedToTime="t137" task="B"/>
+<TLINK lid="l15" relType="UNKNOWN" eventID="e53" relatedToTime="t137" task="B"/>
+<TLINK lid="l16" relType="UNKNOWN" eventID="e57" relatedToTime="t137" task="B"/>
+<TLINK lid="l17" relType="UNKNOWN" eventID="e56" relatedToTime="t137" task="B"/>
+<TLINK lid="l18" relType="UNKNOWN" eventID="e63" relatedToTime="t137" task="B"/>
+<TLINK lid="l19" relType="UNKNOWN" eventID="e75" relatedToTime="t137" task="B"/>
+<TLINK lid="l20" relType="UNKNOWN" eventID="e70" relatedToTime="t137" task="B"/>
+<TLINK lid="l21" relType="UNKNOWN" eventID="e73" relatedToTime="t137" task="B"/>
+<TLINK lid="l22" relType="UNKNOWN" eventID="e77" relatedToTime="t137" task="B"/>
+<TLINK lid="l23" relType="UNKNOWN" eventID="e76" relatedToTime="t137" task="B"/>
+<TLINK lid="l24" relType="UNKNOWN" eventID="e84" relatedToTime="t137" task="B"/>
+<TLINK lid="l25" relType="UNKNOWN" eventID="e83" relatedToTime="t137" task="B"/>
+<TLINK lid="l26" relType="UNKNOWN" eventID="e89" relatedToTime="t137" task="B"/>
+<TLINK lid="l27" relType="UNKNOWN" eventID="e98" relatedToTime="t137" task="B"/>
+<TLINK lid="l28" relType="UNKNOWN" eventID="e112" relatedToTime="t137" task="B"/>
+<TLINK lid="l29" relType="UNKNOWN" eventID="e113" relatedToTime="t137" task="B"/>
+</TempEval>

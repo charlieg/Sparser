@@ -1,0 +1,10 @@
+
+ Improving the protein yield of crops is a major goal of agricultural research
+
+The ability of plants to incorporate fixed nitrogen into proteins and other organic substances has a major impact on human welfare; the most common form of malnutrition in humans is protein deficiency. Either by choice or by economic necessity, the majority of people in the world--particularly in developing countries--have a predominantly vegetarian diet and thus depend mainly on plants for protein. Unfortunately, many plants have a low protein content, and the proteins that are present may be deficient in one or more of the amino acids that humans need from their diet. Improving the quality and quantity of proteins in crops is a major goal of agricultural research.
+
+Plant breeding has resulted in new varieties of corn, wheat, and rice that are enriched in protein. However, many of these "super" varieties have an extraordinary demand for nitrogen, which is usually supplied in the form of commercial fertilizer. The industrial production of ammonia and nitrate from atmospheric nitrogen is, like biological nitrogen fixation, very expensive in energy costs. A chemical factory making fertilizer consumes large quantities of fossil fuels. Generally, the countries that most need high-protein crops are the ones least able to afford to pay the fuel bill. The use of new catalysts based on the mechanism by which nitrogenase fixes nitrogen may make commercial fertilizer production less costly in the future. Biochemists determined the structure of Rhizobium nitrogenase several years ago, providing a model for chemical engineers to design catalysts by imitating nature. Another strategy that could potentially increase protein yields of crops is to improve the productivity of symbiotic nitrogen fixation, a process we examine in the next section.
+
+
+
+

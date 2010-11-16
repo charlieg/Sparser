@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+
+<TempEval>
+
+
+
+
+ PRI<TIMEX3 tid="t133" type="DATE" value="1998-03-03" temporalFunction="false" functionInDocument="CREATION_TIME">19980303</TIMEX3>.2000.2550 
+ NEWS STORY 
+
+
+
+
+
+ <s><TIMEX3 tid="t135" type="DATE" value="1998-03-04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">Tomorrow</TIMEX3> the board of supervisors of Loudon county, Virginia, will <EVENT eid="e136" mainevent="YES" class="I_ACTION" stem="vote" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">vote</EVENT> on
+ whether a school <TIMEX3 tid="t138" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">now</TIMEX3> <EVENT eid="e3" mainevent="NO" class="OCCURRENCE" stem="locate" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">located</EVENT> in Mount Vernon can <EVENT eid="e4" mainevent="NO" class="OCCURRENCE" stem="relocate" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">relocate</EVENT> to their county.</s>
+ <s>In some respects, that's typical county business, but <TIMEX3 tid="t139" type="DATE" value="1998-03-04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">tomorrow</TIMEX3>'s <EVENT eid="e8" mainevent="YES" class="OCCURRENCE" stem="vote" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">vote</EVENT> has
+ international <EVENT eid="e141" mainevent="NO" class="STATE" stem="implication" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">implications</EVENT>.</s> <s>The board will <EVENT eid="e10" mainevent="YES" class="I_ACTION" stem="decide" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">decide</EVENT> whether the Islamic Saudi
+ Academy, <EVENT eid="e11" mainevent="NO" class="STATE" stem="fund" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">funded</EVENT> by the government of Saudi Arabia, can <EVENT eid="e12" mainevent="NO" class="OCCURRENCE" stem="move" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">move</EVENT> to Ashburn village,
+ Virginia.</s> <s>But local residents have not exactly <EVENT eid="e14" mainevent="YES" class="I_ACTION" stem="lay" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" pos="VERB">laid</EVENT> out the
+ red carpet for their would be neighbors.</s> <s>The World's Nancy Marshalll has
+ our story.</s>
+
+
+
+
+ <s>Inside the Islamic Saudi academy in Mount Vernon, Virginia, many of the
+ girls wear head scarves and some of the neatly dressed children are in uniforms.</s>
+ <s>The instruction is in English for most classes, in Arabic for language and
+ religious studies.</s> <s>The school <EVENT eid="e23" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">says</EVENT> it <EVENT eid="e24" mainevent="NO" class="OCCURRENCE" stem="teach" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">teaches</EVENT> the children to be good
+ Muslims and good students.</s> <s>They're <EVENT eid="e26" mainevent="YES" class="OCCURRENCE" stem="learn" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">learning</EVENT> a civics lesson from the residents of
+ Loudon county.</s> <s>The Islamic Saudi Academy <EVENT eid="e28" mainevent="YES" class="STATE" stem="have" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">has</EVENT> twelve hundred mostly American
+ students but would <EVENT eid="e29" mainevent="NO" class="OCCURRENCE" stem="take" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">take</EVENT> thirty-five hundred if it <EVENT eid="e32" mainevent="NO" class="STATE" stem="have" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">had</EVENT> the room.</s>
+ <s>The academy <EVENT eid="e33" mainevent="YES" class="OCCURRENCE" stem="buy" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">bought</EVENT> a hundred acres in Loudon county, Virginia, and <EVENT eid="e34" mainevent="NO" class="I_ACTION" stem="ask" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">asked</EVENT> for <EVENT eid="e35" mainevent="NO" class="I_STATE" stem="permission" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">permission</EVENT>
+ to <EVENT eid="e37" mainevent="NO" class="OCCURRENCE" stem="build" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">build</EVENT> a fifty million dollar campus.</s> <s>In the nearby suburban housing
+ tracts, someone <EVENT eid="e38" mainevent="YES" class="OCCURRENCE" stem="drop" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">dropped</EVENT> off leaflets <EVENT eid="e39" mainevent="NO" class="I_ACTION" stem="warn" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">warning</EVENT> the school could <EVENT eid="e40" mainevent="NO" class="OCCURRENCE" stem="bring" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">bring</EVENT>
+ thousands of Middle Eastern strangers and terrorists.</s> <s>Some residents of the mostly
+ white, mostly middle class area <EVENT eid="e42" mainevent="YES" class="I_STATE" stem="become" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">became</EVENT> alarmed.</s> <s>James Zogby of the Arab
+ American Institute <EVENT eid="e147" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">says</EVENT> it's a familiar story.</s>
+
+
+ <s>There is, a- at a very deep level in our culture, um I <EVENT eid="e146" mainevent="YES" class="I_STATE" stem="think" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">think</EVENT>, a sense of, of
+ <EVENT eid="e148" mainevent="NO" class="STATE" stem="ignorance" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">ignorance</EVENT> about Islam, a <EVENT eid="e149" mainevent="NO" class="STATE" stem="fear" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">fear</EVENT> about who Muslims are and what they're doing.</s>
+
+
+ <s>Many local residents <EVENT eid="e50" mainevent="YES" class="I_ACTION" stem="denounce" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">denounced</EVENT> the <EVENT eid="e150" mainevent="NO" class="STATE" stem="bigotry" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">bigotry</EVENT>, but <EVENT eid="e51" mainevent="NO" class="OCCURRENCE" stem="opposition" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">opposition</EVENT> to the school
+ then <EVENT eid="e52" mainevent="NO" class="ASPECTUAL" stem="shift" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">shifted</EVENT>.</s> <s><TIMEX3 tid="t346" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">Now</TIMEX3> critics of the academy are <EVENT eid="e53" mainevent="YES" class="OCCURRENCE" stem="target" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">targeting</EVENT> its owner, the Saudi
+ government.</s> <s>Pastor James Allmen of the fellowship church and school in
+ Ashburn has <EVENT eid="e54" mainevent="YES" class="OCCURRENCE" stem="lead" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">led</EVENT> the anti-Saudi <EVENT eid="e55" mainevent="NO" class="OCCURRENCE" stem="campaign" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">campaign</EVENT>.</s> <s>James Allmen <EVENT eid="e56" mainevent="NO" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">says</EVENT> he <EVENT eid="e57" mainevent="NO" class="STATE" stem="have" tense="PRESENT" aspect="NONE" polarity="NEG" pos="VERB">has</EVENT> no problem with a
+ privately funded academy, but he <EVENT eid="e59" mainevent="YES" class="STATE" stem="have" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">has</EVENT> a big problem with a Saudi funded school.</s>
+
+
+ <s>The Saudi Arabian government has an atrocious record on human rights and is known to be one of the worst offending countries when it comes to religious
+ persecution.</s>
+
+
+
+
+ <s>That's correct.</s>
+
+
+ <s>And that is a condition of the application, then.</s>
+
+
+ <s>That is a condition of-</s>
+
+
+ <s>At a public <EVENT eid="e69" mainevent="NO" class="OCCURRENCE" stem="hearing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">hearing</EVENT> on the Islamic Saudi Academy's application, the <EVENT eid="e71" mainevent="YES" class="STATE" stem="split" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">split</EVENT>
+ in county opinion was obvious, supporters of the academy, including Ann
+ Robinson, <EVENT eid="e72" mainevent="NO" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the Saudis were just <EVENT eid="e73" mainevent="NO" class="OCCURRENCE" stem="provide" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">providing</EVENT> a service and it was <EVENT eid="e153" mainevent="NO" class="I_STATE" stem="unfair" tense="PAST" aspect="NONE" polarity="POS" pos="ADJECTIVE">unfair</EVENT>
+ to <EVENT eid="e76" mainevent="NO" class="OCCURRENCE" stem="penalize" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">penalize</EVENT> children.</s>
+
+
+ <s>We do not <EVENT eid="e155" mainevent="YES" class="OCCURRENCE" stem="further" tense="PRESENT" aspect="NONE" polarity="NEG" pos="VERB">further</EVENT> the purpose of human rights in the world by <EVENT eid="e78" mainevent="NO" class="OCCURRENCE" stem="violate" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">violating</EVENT>
+ the human rights under our own constitution.</s>
+
+
+ <s>But opponents <EVENT eid="e80" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the school might be a <EVENT eid="e82" mainevent="NO" class="I_STATE" stem="target" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">target</EVENT> for terrorist <EVENT eid="e83" mainevent="NO" class="OCCURRENCE" stem="attack" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">attacks</EVENT>,
+ <EVENT eid="e84" mainevent="NO" class="I_ACTION" stem="complain" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">complained</EVENT> about its tax exempt <EVENT eid="e157" mainevent="NO" class="STATE" stem="status" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">status</EVENT>, and <EVENT eid="e85" mainevent="NO" class="I_ACTION" stem="wonder" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">wondered</EVENT> why the Saudis are not <EVENT eid="e86" mainevent="NO" class="I_ACTION" stem="compel" tense="PRESENT" aspect="NONE" polarity="NEG" pos="VERB">compelled</EVENT> to <EVENT eid="e89" mainevent="NO" class="I_ACTION" stem="allow" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">allow</EVENT> Christians to <EVENT eid="e90" mainevent="NO" class="OCCURRENCE" stem="worship" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">worship</EVENT> in their country.</s> <s>Virginia Welch
+ <EVENT eid="e91" mainevent="YES" class="REPORTING" stem="deliver" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">delivered</EVENT> this message to the county board of supervisors.</s>
+
+
+ <s>I <EVENT eid="e94" mainevent="YES" class="I_ACTION" stem="urge" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">urge</EVENT> you to <EVENT eid="e96" mainevent="NO" class="OCCURRENCE" stem="do" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">do</EVENT> the right thing and <EVENT eid="e98" mainevent="NO" class="I_ACTION" stem="send" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">send</EVENT> a message to the Saudis that the
+ citizens of Loudon county <EVENT eid="e100" mainevent="NO" class="STATE" stem="embrace" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">embrace</EVENT> religious and human freedom.</s>
+
+
+ <s>Loudon county officials <EVENT eid="e101" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">say</EVENT> they'll <EVENT eid="e102" mainevent="NO" class="OCCURRENCE" stem="rule" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">rule</EVENT> on the application <EVENT eid="e106" mainevent="NO" class="STATE" stem="based" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">based</EVENT> only on
+ land use issues and <EVENT eid="e108" mainevent="NO" class="I_ACTION" stem="ignore" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">ignore</EVENT> all the other <EVENT eid="e109" mainevent="NO" class="OCCURRENCE" stem="objection" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">objections</EVENT>.</s> <s>What's really behind those
+ <EVENT eid="e110" mainevent="NO" class="OCCURRENCE" stem="objection" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">objections</EVENT>, some <EVENT eid="e111" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">say</EVENT>, is Loudon county's <EVENT eid="e112" mainevent="NO" class="OCCURRENCE" stem="collision" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">collision</EVENT> with a new reality in
+ America that the country is <EVENT eid="e160" mainevent="NO" class="OCCURRENCE" stem="change" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">changing</EVENT> religiously as surely as it is racially and ethnically.</s> <s><EVENT eid="e161" mainevent="NO" class="I_STATE" stem="according" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">According</EVENT> to the Arab American institute, Islam will <TIMEX3 tid="t163" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t133">one
+ day</TIMEX3> be the second largest <EVENT eid="e162" mainevent="YES" class="STATE" stem="religion" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">religion</EVENT> in the country.</s> <s>For an indication of the
+ problems that could face Muslims as they integrate into American life, one
+ need look no farther than Loudon county, Virginia.</s> <s>For The World, I'm
+ Nancy Marshalll.</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e91" eventID="e80" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e146" eventID="e147" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e26" eventID="e23" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e14" eventID="e10" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e10" eventID="e8" task="C"/>
+<TLINK lid="l6" relType="UNKNOWN" relatedToEvent="e8" eventID="e136" task="C"/>
+<TLINK lid="l7" relType="UNKNOWN" relatedToEvent="e53" eventID="e50" task="C"/>
+<TLINK lid="l8" relType="UNKNOWN" relatedToEvent="e147" eventID="e42" task="C"/>
+<TLINK lid="l9" relType="UNKNOWN" relatedToEvent="e59" eventID="e54" task="C"/>
+<TLINK lid="l10" relType="UNKNOWN" relatedToEvent="e38" eventID="e33" task="C"/>
+<TLINK lid="l11" relType="UNKNOWN" relatedToEvent="e50" eventID="e146" task="C"/>
+<TLINK lid="l12" relType="UNKNOWN" relatedToEvent="e101" eventID="e94" task="C"/>
+<TLINK lid="l13" relType="UNKNOWN" relatedToEvent="e111" eventID="e101" task="C"/>
+<TLINK lid="l14" relType="UNKNOWN" relatedToEvent="e42" eventID="e38" task="C"/>
+<TLINK lid="l15" relType="UNKNOWN" relatedToEvent="e80" eventID="e155" task="C"/>
+<TLINK lid="l16" relType="UNKNOWN" relatedToEvent="e28" eventID="e26" task="C"/>
+<TLINK lid="l17" relType="UNKNOWN" relatedToEvent="e162" eventID="e111" task="C"/>
+<TLINK lid="l18" relType="UNKNOWN" relatedToEvent="e155" eventID="e71" task="C"/>
+<TLINK lid="l19" relType="UNKNOWN" relatedToEvent="e54" eventID="e53" task="C"/>
+<TLINK lid="l20" relType="UNKNOWN" relatedToEvent="e94" eventID="e91" task="C"/>
+<TLINK lid="l21" relType="UNKNOWN" relatedToEvent="e33" eventID="e28" task="C"/>
+
+</TempEval>

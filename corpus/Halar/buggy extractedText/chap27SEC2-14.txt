@@ -1,0 +1,42 @@
+
+ Pathogenic prokaryotes cause many human diseases
+
+Most of us are well most of the time because our defenses check the growth of pathogens to which we are exposed. Occasionally, the balance shifts in favor of a pathogen, and we become ill. To be pathogenic, a parasite must invade the host, resist internal defenses long enough to begin growing, then harm the host in some way. Pathogenic prokaryotes cause about half of all human diseases (FIGURE 27.16).
+
+
+
+Click image to enlarge
+
+
+
+Fig 27-16. A very harmful "germ." The yellow rods are Haemophilus influenzae bacteria on skin cells lining the interior of a human nose (colorized SEM). These pathogens are transmitted through the air. H. influenzae, not to be confused with influenza (flu) viruses, causes pneumonia and other lung infections that kill about 4 million people worldwide per year. Most victims are children in developing countries, where malnutrition lowers resistance to all pathogens.
+
+Some pathogens are opportunistic, meaning they are normal residents of a host but can cause illness when the host's defenses are weakened by such factors as poor nutrition or a recent bout with the flu. For example, Streptococcus pneumoniae (a gram-positive bacter ium) lives in the throats of most healthy people, but this opportunist can multiply and cause pneumonia when the host's defenses are down.
+
+Louis Pasteur, Joseph Lister, and other scientists began linking disease to pathogenic microbes in the late 1800s. The first to actually connect certain diseases to specific bacteria was Robert Koch, a German physician who identified the bacteria responsible for anthrax and tuberculosis. His methods established four criteria, now called Koch's postulates, that are still the guidelines for medical microbiology. To establish that a specific pathogen is the cause of a disease, the researcher must (1) find the same pathogen in each diseased individual investigated, (2) isolate the pathogen from a diseased subject and grow the microbe in a pure culture, (3) induce the disease in experimental animals by transferring the pathogen from the culture, and (4) isolate the same pathogen from the experimental animals after the disease develops. The postulates work for most pathogens, but exceptions do occur. For example, no one has yet cultured the spirochete Treponema pallidum on artificial media, but circumstantial evidence leaves no doubt that this organism causes syphilis.
+
+How do pathogenic prokaryotes produce symptoms of disease? Some species, such as the gram-positive actinomycete that causes tuberculosis, disrupt the health of the host by invading tissues. More commonly, pathogens cause illness by producing poisons called exotoxins and endotoxins.
+
+Exotoxins are proteins secreted by prokaryotes. Exotoxins can produce disease symptoms even without the prokaryotes being present. For example, when the gram-positive bacterium Clostridium botulinum (see TABLE 27.3) grows anaerobically in improperly canned foods, one of the by-products of its fermentation is an exotoxin that causes the potentially fatal disease botulism. Some exotoxins are among the most potent poisons known; just 1 g of botulism toxin would be sufficient to kill a million people. Another exotoxin-producing species is the enteric proteobacterium Vibrio cholerae, which causes cholera, a dangerous disease characterized by severe diarrhea. Resulting from the consumption of water contaminated with human feces, cholera is often epidemic during wars and famines. Even E. coli can be an exotoxin-releasing culprit. Some cases of traveler's diarrhea result from toxins released by strains of E. coli obtained from another person via contaminated food or water.
+
+In contrast to exotoxins, endotoxins are components of the outer membranes of certain gram-negative bacteria. Examples of endotoxin-producing bacteria include nearly all members of the genus Salmonella, which are not normally present in healthy animals. Salmonella typhi causes typhoid fever, and several other species of Salmonella, some of which are commonly found in poultry, cause food poisoning.
+
+Since the discovery in the 19th century that "germs" cause disease, improved sanitation has significantly reduced infant mortality and extended life expectancy in developed countries. Antibiotics have also saved many lives and reduced disease incidence. More than half of our antibiotics (including streptomycin, neomycin, erythromycin, aureomycin, and tetracycline) come from soil bacteria of the genus Streptomyces (an actinomycete; see TABLE 27.3). In nature, these compounds prevent encroachment by competing microbes.
+
+Bacterial diseases are a continuing threat. Their general decline over the past century is probably due more to public health policies and education than to "wonder drugs." A case in point is Lyme disease, currently the most widespread pest-carried disease in the United States. The disease is caused by a spirochete bacterium carried by ticks that live on deer and field mice (FIGURE 27.17). Lyme disease usually starts as a red rash shaped like a bull's-eye around a tick bite. Antibiotics can cure the disease if administered within about a month after exposure. If untreated, Lyme disease can cause debilitating arthritis, heart disease, and nervous disorders. A vaccine is now available, but it does not give full protection. The best defense is public education about avoiding tick bites and seeking treatment if a rash develops. When walking through brush, it is advisable to use insect repellent and wear light-colored clothing to reduce contact with ticks.
+
+
+
+Click image to enlarge
+
+
+
+Fig 27-17. Lyme disease, a bacterial disease transmitted by ticks.
+
+Today, the rapid evolution of antibiotic-resistant strains of pathogenic bacteria is a serious health threat aggravated by imprudent and excessive antibiotic use.
+
+Although declared illegal by the United Nations, the selective culturing and stockpiling of deadly bacterial disease agents for use as biological weapons remains a threat to world peace.
+
+
+
+

@@ -1,0 +1,20 @@
+
+ Bacteria and archaea are the two main branches of prokaryote evolution
+
+In the traditional five-kingdom system of classification, prokaryotes make up the kingdom Monera, and the four eukaryotic kingdoms are Protista, Plantae, Fungi, and Animalia (see FIGURE 26.15). This scheme emphasizes the structural differences between the cells of prokaryotes and eukaryotes. In the past two decades, however, systematists have determined that a single kingdom incorporating all prokaryotes is not consistent with evolutionary history. By comparing ribosomal RNA and the completely sequenced genomes of several extant (living today) species, researchers have identified two major branches of prokaryote evolution. The names for these two groups are bacteria and archaea. The term archaea refers to the antiquity of the group's origin from the earliest cells (from the Greek archaio, ancient). Many species of archaea inhabit extreme environments, such as hot springs and salt ponds. Few, if any, other modern organisms can survive in these environments, which may resemble habitats on the early Earth. Archaea differ from bacteria in many key structural, biochemical, and physiological characteristics, differences that will be highlighted later in this chapter.
+
+When researchers led by Carl Woese, of the University of Illinois, first recognized the distinction between bacteria and archaea, they proposed a six-kingdom system: two prokaryotic kingdoms along with the four eukaryotic kingdoms. Because bacteria and archaea diverged so early in the history of life and are so fundamentally different, Woese and many other systematists now favor organizing the diversity of life into three domains, a taxonomic level above kingdom (FIGURE 27.2). In this view, prokaryotes account for two of the domains: domain Bacteria and domain Archaea.
+
+
+
+Click image to enlarge
+
+
+
+Fig 27-2. The three domains of life. This phylogenetic tree represents the hypothesis that the two major prokaryotic groups diverged very early and that Archaea is more closely related to Eukarya than to Bacteria. In Chapter 28, we'll see how new data are stimulating some remodeling of this hypothesis.
+
+Taxonomic issues aside, bacteria and archaea are both structurally organized at the prokaryotic level, which is the rationale for combining them in this chapter. The distinction between bacteria and archaea will become more apparent after we examine some of the structural, genetic, and metabolic adaptations that contribute to the pervasiveness of prokaryotes on Earth.
+
+
+
+

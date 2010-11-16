@@ -1,0 +1,28 @@
+The U.S. government said Thursday that an agreement had been reached in Vienna , Austria , that was expected to produce new international controls on the export of data-scrambling software and hardware , a long-contentious issue pitting individual privacy against national security in the information age .
+The new agreement by the 33 members of the Wassenaar Arrangement , a multilateral export-control group , is a compromise measure that places new restrictions on the exporting of mass-market software with numerical keys above 64 bits in length .
+The more bits used in a key , the stronger the encryption .
+But the increase is exponential , so that a 64-bit key is only marginally longer than a 56-bit key , but would take 256 times longer to break .
+The United States has long refused to allow American companies to export `` strong encryption '' -- that is , software that scrambles data so thoroughly that it is virtually impossible to decode without the key -- on the ground that it could be used by international terrorists to hide the plotting and execution of nefarious activities from the nation 's intelligence and police agencies .
+The administration has been eager to close what it considered a loophole in foreign export controls that permits companies outside the United States to freely export mass-market programs like Internet browsers , which in the United States routinely use 128-bit encryption to protect financial transactions .
+The United States argues that the 64-bit key is strong enough to protect data from almost all computer users today .
+But industry executives and technical experts say it is not beyond the code-breaking power of the supercomputers used by the National Security Agency and other intelligence organizations .
+U.S. government officials said Thursday that they thought the agreement would reduce some opposition from America 's high-technology industries , which say export controls increasingly put them at a disadvantage with foreign competitors .
+`` This levels the playing field between the U.S. and other countries , '' said Ambassador David Aaron , the president 's special envoy for cryptography .
+`` Companies in other countries were actually advertising : ` Buy our software .
+We do n't have export controls . '
+Now they will have export controls for strong encryption . ''
+But technology experts in the United States questioned that assertion .
+Though the new agreement was likely to lead to some new restrictions , it probably would do little to change the policy of nations like Germany and Finland , which have opposed any restrictions on the export of encryption software , they said .
+`` This is probably a mixed result for the U.S. , '' said Stewart Baker , a Washington lawyer who represents several high-technology companies .
+`` They 've eliminated record-keeping for low-level encryption , and what the U.S. got in exchange for that is that other countries now have clear authority to control the export of stronger forms of encryption . ''
+Other industry representatives predicted that the agreement would do little to halt the spread of encryption technology to terrorists or belligerent states .
+And whatever limits the nations enact , many experts have noted that the most advanced encryption software is neither esoteric nor costly and is easily within the grasp of most bright college students .
+Until last year , the United States placed controls on all exports with numerical key lengths greater than 40 bits .
+The key length for unrestricted exports was raised to 56 bits in July .
+But John Gilmore , a San Francisco privacy activist and entrepreneur , quickly demonstrated that it was possible to decode a message encrypted with a 56-bit key in just 56 hours with a custom-built computer assembled for less than $ 250,000 .
+And given the exponential increase in the per-dollar power of computer technology , many privacy advocates and security experts argue that the 56-bit and even 64-bit numerical keys permitted under the new agreement are not adequate protection .
+Typically , code cracking has employed brute-force attacks in which an ultrafast computer or group of processors systematically tests each of a huge number of possible keys .
+But there are also many more subtle and clever ways to crack encryption schemes , such as guessing at a computer user 's password .
+Although the United States places no domestic legal restrictions on encryption , the export controls alarm civil liberties groups , which see them as limits on private communications .
+Several representatives at U.S. companies said the new accord would help meet the federal government 's goal of restricting the export of strong cryptography .
+`` I personally believe that the governments will now have to exercise tighter controls , particularly on products where encryption exceeds 56 bits , '' said Lynn McNulty , government affairs director at RSA Data Security , a computer security company .

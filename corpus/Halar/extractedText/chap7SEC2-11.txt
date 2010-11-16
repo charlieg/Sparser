@@ -1,0 +1,40 @@
+
+ Mitochondria and chloroplasts are the main energy transformers of cells
+
+Organisms are open systems that transform the energy they acquire from their surroundings. In eukaryotic cells, mitochondria and chloroplasts are the organelles that convert energy to forms that cells can use for work. Mitochondria (singular, mitochondrion) are the sites of cellular respiration, the catabolic process that generates ATP by extracting energy from sugars, fats, and other fuels with the help of oxygen. Chloroplasts, found only in plants and algae, are the sites of photosynthesis. They convert solar energy to chemical energy by absorbing sunlight and using it to drive the synthesis of organic compounds from carbon dioxide and water.
+
+Although mitochondria and chloroplasts are enclosed by membranes, they are not part of the endomembrane system. Their membrane proteins are made not by the ER, but by free ribosomes in the cytosol and by ribosomes contained within the mitochondria and chloroplasts themselves. Not only do these organelles have ribosomes, but they also contain a small amount of DNA. It is this DNA that programs the synthesis of the proteins made on the organelle's own ribosomes. (Proteins imported from the cytosol--constituting most of the organelle's proteins--are programmed by nuclear DNA.) Mitochondria and chloroplasts are semiautonomous organelles that grow and reproduce within the cell. In Chapters 9 and 10, we will focus on how mitochondria and chloroplasts function. We will consider the evolution of these organelles in Chapter 28. Here we are concerned mainly with the structure of these energy transformers.
+
+Mitochondria
+
+Mitochondria are found in nearly all eukaryotic cells, including those of plants, animals, fungi, and protists. Some cells have a single large mitochondrion, but more often a cell has hundreds or even thousands of mitochondria; the number is correlated with the cell's level of metabolic activity. Mitochondria are about 1-10 mm long. Time-lapse films of living cells reveal mitochondria moving around, changing their shapes, and dividing in two, unlike the static cylinders seen in electron micrographs of dead cells.
+
+The mitochondrion is enclosed by two membranes, each a phospholipid bilayer with a unique collection of embedded proteins (FIGURE 7.17). The outer membrane is smooth, but the inner membrane is convoluted, with infoldings called cristae. The inner membrane divides the mitochondrion into two internal compartments. The first is the intermembrane space, the narrow region between the inner and outer membranes. The second compartment, the mitochondrial matrix, is enclosed by the inner membrane. The matrix contains many different enzymes as well as the mitochondrial DNA and ribosomes. Some of the metabolic steps of cellular respiration are catalyzed by enzymes in the matrix. Other proteins that function in respiration, including the enzyme that makes ATP, are built into the inner membrane. The cristae give the inner mitochondrial membrane a large surface area that enhances the productivity of cellular respiration, another example of structure fitting function.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-17. The mitochondrion, site of cellular respiration. The two membranes of the mitochondrion are evident in the drawing and micrograph (TEM). The cristae are infoldings of the inner membrane. The cutaway drawing shows the two compartments bounded by the membranes: the intermembrane space and the mitochondrial matrix.
+
+Chloroplasts
+
+The chloroplast is a specialized member of a family of closely related plant organelles called plastids. Amyloplasts are colorless plastids that store starch (amylose), particularly in roots and tubers. Chromoplasts have pigments that give fruits and flowers their orange and yellow hues. Chloroplasts contain the green pigment chlorophyll, along with enzymes and other molecules that function in the photosynthetic production of sugar. These lens-shaped organelles, measuring about 2 mm by 5 mm, are found in leaves and other green organs of plants and in algae (FIGURE 7.18).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-18. The chloroplast, site of photosynthesis. Chloroplasts are enclosed by two membranes separated by a narrow intermembrane space that constitutes an outer compartment. The inner membrane encloses a second compartment, containing a fluid called stroma. The stroma surrounds a third compartment, the thylakoid space, delineated by the thylakoid membrane. Thylakoid sacs (thylakoids) are stacked to form structures called grana, which are connected by thin tubules between individual thylakoids (TEM).
+
+The contents of a chloroplast are partitioned from the cytosol by an envelope consisting of two membranes separated by a very narrow intermembrane space. Inside the chloroplast is another membranous system in the form of flattened sacs called thylakoids. In some regions, thylakoids are stacked like poker chips; each stack is called a granum (plural, grana). The fluid outside the thylakoids is the stroma, which contains the chloroplast DNA and ribosomes as well as many enzymes. Note that the thylakoid membrane divides the interior of the chloroplast into two compartments: the thylakoid space and the stroma. In Chapter 10, you will learn how this compartmental organization enables the chloroplast to convert light energy to chemical energy during photosynthesis.
+
+As with mitochondria, the static and rigid appearance of chloroplasts in micrographs is not true to their dynamic behavior in the living cell. Their shapes are plastic, and they grow and occasionally pinch in two, reproducing themselves. They are mobile and move around the cell with mitochondria and other organelles along tracks of the cytoskeleton.
+
+
+
+

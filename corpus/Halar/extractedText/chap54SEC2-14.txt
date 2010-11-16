@@ -1,0 +1,30 @@
+
+ Toxins can become concentrated in successive trophic levels of food webs
+
+Humans produce an immense variety of toxic chemicals, including thousands of synthetics previously unknown in nature, that are dumped into ecosystems with little regard for the ecological consequences. Many of these poisons cannot be degraded by microorganisms and consequently persist in the environment for years or even decades. In other cases, chemicals released into the environment may be relatively harmless but are converted to more toxic products by reaction with other substances or by the metabolism of microorganisms. For example, mercury, a by-product of plastic production, was once routinely expelled into rivers and the sea in an insoluble form. Bacteria in the bottom mud converted the waste to methyl mercury, an extremely toxic soluble compound that then accumulated in the tissues of organisms, including humans who consumed fish from the contaminated waters.
+
+Organisms acquire toxic substances from the environment along with nutrients and water. Some of the poisons are metabolized and excreted, but others accumulate in specific tissues, especially fat. An example of a class of industrially synthesized compounds that act in this manner are the chlorinated hydrocarbons, which include many pesticides, such as DDT, and the industrial chemicals called PCBs (polychlorinated biphenols). Current research is implicating many of these compounds and others in endocrine system disruption in a large number of animal species, including humans. One of the reasons these toxins are so harmful is that they become more concentrated in successive trophic levels of a food web, a process called biological magnification. Magnification occurs because the biomass at any given trophic level is produced from a much larger biomass ingested from the level below. Thus, top-level carnivores tend to be the organisms most severely affected by toxic compounds that have been released into the environment.
+
+A well-known example of biological magnification involves DDT, which has been used to control insects such as mosquitoes and agricultural pests. In the decade after World War II, the chemical industry promoted the benefits of DDT before anybody really understood the ecological consequences (FIGURE 54.24). By the 1950s, scientists began to understand that DDT persists in the environment and is transported by water to areas far from where it is applied. But by then, the poison had already become a global problem.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-24. We've changed our tune. In this 1947 Time magazine advertisement, a chorus line sings the praises of a pesticide that was banned in the United States 25 years later.
+
+Because DDT is soluble in lipids, it collects in the fatty tissues of animals, and its concentration is magnified in higher trophic levels (FIGURE 54.25). Traces of DDT have been found in nearly every organism tested; it has even been found in human breast milk throughout the world. One of the first signs that DDT was a serious environmental problem was a decline in the populations of pelicans, ospreys, and eagles, birds that feed at the top of food chains. The accumulation of DDT (and DDE, a product of its partial breakdown) in the tissues of these birds interfered with the deposition of calcium in their eggshells, a trend that may have already begun because of other environmental contaminants. When these birds tried to incubate their eggs, the weight of the parents broke the shells of affected eggs, resulting in catastrophic declines in their reproduction rates. Rachel Carson's Silent Spring helped bring the problem to public attention in the 1960s (see Chapter 50), and DDT was banned in the United States in 1971. A dramatic recovery in populations of the affected bird species followed. The pesticide is still used in many other parts of the world, however.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-25. Biological magnification of DDT in a food chain. DDT concentration in a Long Island Sound food chain was magnified by a factor of about 10 million, from just 0.000003 part per million (ppm) as a pollutant in seawater to a concentration of about 25 ppm in the fish-eating osprey, a bird at the top of this food pyramid.
+
+
+
+

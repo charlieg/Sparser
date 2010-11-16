@@ -1,0 +1,20 @@
+
+ Life histories are highly diverse, but they exhibit patterns in their variability
+
+Because of varying environmental contexts for natural selection, life histories are very diverse. Pacific salmon, for example, hatch in the headwaters of a stream, then migrate to open ocean, where they require one to four years to mature. They eventually return to freshwater streams to spawn, producing thousands of small eggs in a single reproductive opportunity, and then they die. Ecologists call this big-bang reproduction. FIGURE 52.4 illustrates big-bang reproduction in agaves. The agave, or century plant, grows in arid climates with sparse and unpredictable rainfall. Agaves grow vegetatively for several years, then send up a large flowering stalk, produce seeds, and die. (We introduced the big-bang reproduction of century plants on the opening page of Chapter 38.) The shallow roots of agaves catch water after rain showers but are dry during droughts. This unpredictable water supply may prevent seed production or seedling establishment for several years at a time. By growing and storing nutrients until an unusually wet year and then putting all its resources into reproduction, the agave's big-bang strategy is a life history adaptation to erratic climate. In another example of big-bang reproduction, annual desert wildflowers generally germinate, grow, produce many small seeds, and then die, all in the span of a month after spring rains. Big-bang (one-time) reproduction is also called semelparity (from the Latin semel, once, and parito, to beget).
+
+
+
+Click image to enlarge
+
+
+
+Fig 52-4. An example of big-bang reproduction. Agaves, or century plants, grow without reproducing for several years and then produce a gigantic flowering stalk and many seeds. After this onetime reproductive effort, the plant dies.
+
+In contrast to big-bang reproduction, some lizards produce only a few large eggs during their second year of life, then repeat the reproductive act annually for several years. And some species of oaks do not reproduce until the tree is 20 years old, but then produce vast numbers of large seeds each year for a century or more. Ecologists call this repeated reproduction or iteroparity (from the Latin itero, to repeat).
+
+What factors contribute to the evolution of semelparity versus iteroparity? That is, how much will an individual gain in reproductive success through one strategy versus the other? The key demographic effect of big-bang reproduction is higher reproductive rates. Plants like agaves that reproduce only once typically produce two to five times as many seeds as closely related species that reproduce repeatedly. The critical factor in the evolutionary dilemma of big-bang versus repeated reproduction is the survival rate of the offspring. If their chance of survival is poor or inconsistent, repeated reproduction will be favored.
+
+
+
+

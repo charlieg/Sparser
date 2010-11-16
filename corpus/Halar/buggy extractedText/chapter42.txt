@@ -1,0 +1,794 @@
+
+Chapter 42: CIRCULATION AND GAS EXCHANGE
+
+CIRCULATION IN ANIMALS
+
+   Transport systems functionally connect the organs of exchange with the body cells: an overview
+
+   Most invertebrates have a gastrovascular cavity or a circulatory system for internal transport
+
+   Vertebrate phylogeny is reflected in adaptations of the cardiovascular system
+
+   Double circulation in mammals depends on the anatomy and pumping cycle of the heart
+
+   Structural differences of arteries, veins, and capillaries correlate with their different functions
+
+   Physical laws governing the movement of fluids through pipes affect blood flow and blood pressure
+
+   Transfer of substances between the blood and the interstitial fluid occurs across the thin walls of capillaries
+
+   The lymphatic system returns fluid to the blood and aids in body defense
+
+   Blood is a connective tissue with cells suspended in plasma
+
+   Cardiovascular diseases are the leading cause of death in the United States and most other developed nations
+
+
+
+GAS EXCHANGE IN ANIMALS
+
+   Gas exchange supplies oxygen for cellular respiration and disposes of carbon dioxide: an overview
+
+   Gills are respiratory adaptations of most aquatic animals
+
+   Tracheal systems and lungs are respiratory adaptations of terrestrial animals
+
+   Control centers in the brain regulate the rate and depth of breathing
+
+   Gases diffuse down pressure gradients in the lungs and other organs
+
+   Respiratory pigments transport gases and help buffer the blood
+
+   Deep-diving air-breathers stockpile oxygen and deplete it slowly
+
+Every organism must exchange materials and energy with its environment, and this exchange ultimately occurs at the cellular level. Cells live in aqueous surroundings; the resources they need, such as nutrients and oxygen, move across the plasma membrane into the cytoplasm, and metabolic wastes, such as carbon dioxide, move out of the cell.
+
+The feathery external gills projecting from the salmon shown above present an expansive surface area to the outside environment. A network of tiny blood vessels (capillaries) lies close to the outside surface of the gills. Oxygen dissolved in the surrounding water diffuses across the thin epithelium covering the gills and into the blood, while carbon dioxide diffuses out into the water.
+
+Salmon and most other animals have organ systems specialized for exchanging materials with the environment, and many have an internal transport system that conveys fluid (blood or interstitial fluid) throughout the body.
+
+In this chapter you will learn about mechanisms of internal transport in animals. You will also learn about one of the most important cases of chemical transfer between animals and their environment: the exchange of the gases oxygen (O2) and carbon dioxide (CO2), which is essential to cellular respiration and bioenergetics.
+
+
+
+
+
+CIRCULATION IN ANIMALS
+
+ 
+
+ Transport systems functionally connect the organs of exchange with the body cells: an overview
+
+
+
+ 
+
+ Most invertebrates have a gastrovascular cavity or a circulatory system for internal transport
+
+
+
+ 
+
+ Vertebrate phylogeny is reflected in adaptations of the cardiovascular system
+
+
+
+ 
+
+ Double circulation in mammals depends on the anatomy and pumping cycle of the heart
+
+
+
+ 
+
+ Structural differences of arteries, veins, and capillaries correlate with their different functions
+
+
+
+ 
+
+ Physical laws governing the movement of fluids through pipes affect blood flow and blood pressure
+
+
+
+ 
+
+ Transfer of substances between the blood and the interstitial fluid occurs across the thin walls of capillaries
+
+
+
+ 
+
+ The lymphatic system returns fluid to the blood and aids in body defense
+
+
+
+ 
+
+ Blood is a connective tissue with cells suspended in plasma
+
+
+
+ 
+
+ Cardiovascular diseases are the leading cause of death in the United States and most other developed nations
+
+
+
+
+
+
+
+GAS EXCHANGE IN ANIMALS
+
+ 
+
+ Gas exchange supplies oxygen for cellular respiration and disposes of carbon dioxide: an overview
+
+
+
+ 
+
+ Gills are respiratory adaptations of most aquatic animals
+
+
+
+ 
+
+ Tracheal systems and lungs are respiratory adaptations of terrestrial animals
+
+
+
+ 
+
+ Control centers in the brain regulate the rate and depth of breathing
+
+
+
+ 
+
+ Gases diffuse down pressure gradients in the lungs and other organs
+
+
+
+ 
+
+ Respiratory pigments transport gases and help buffer the blood
+
+
+
+ 
+
+ Deep-diving air-breathers stockpile oxygen and deplete it slowly
+
+
+
+
+
+
+
+ Transport systems functionally connect the organs of exchange with the body cells: an overview
+
+Diffusion alone is not adequate for transporting substances over long distances in animals--for example, for moving glucose from the digestive tract and oxygen from the lungs to the brain of a mammal. Diffusion is insufficient over distances of more than a few millimeters, because the time it takes for a substance to diffuse from one place to another is proportional to the square of the distance. For example, if it takes 1 second for a given quantity of glucose to diffuse 100 mm, it will take 100 seconds for the same quantity to diffuse 1 mm and almost three hours to diffuse 1 cm. The circulatory system solves this problem by ensuring that no substance must diffuse very far to enter or leave a cell. By rapidly transporting fluid in bulk throughout the body, it functionally connects the aqueous environment of the body cells to the organs that exchange gases, absorb nutrients, and dispose of wastes. In the lungs of a mammal, for example, oxygen from inhaled air diffuses across a thin epithelium and into the blood, while carbon dioxide diffuses in the opposite direction. Bulk fluid movement in the circulatory system, powered by the heart, then quickly carries the oxygen-rich blood to all parts of the body. As the blood streams through the tissues within microscopic vessels called capillaries, chemicals are transported between the blood and the interstitial fluid that directly bathes the cells.
+
+Internal transport and gas exchange are functionally related in most animals; thus, we focus on both the circulatory and respiratory systems in this chapter. We also highlight the role of these two organ systems in homeostasis (see Chapter 40)--for example, in regulating the interstitial fluid's content of nutrients and wastes. Let's turn first to some of the ways fluids circulate within animals.
+
+
+
+
+
+ Most invertebrates have a gastrovascular cavity or a circulatory system for internal transport
+
+Gastrovascular Cavities
+
+The body plan of a hydra and other cnidarians makes a circulatory system unnecessary. A body wall only two cells thick encloses a central gastrovascular cavity, which serves for both digestion and for distribution of substances throughout the body (see FIGURE 41.11). The fluid inside the cavity is continuous with the water outside through a single opening; thus, both inner and outer tissue layers are bathed by fluid. Thin branches of the gastrovascular cavity extend into the tentacles of a hydra, and some cnidarians have even more elaborate gastrovascular cavities (FIGURE 42.1). Since digestion begins in the cavity, only the cells of the inner layer have direct access to nutrients, but the nutrients have only a short distance to diffuse to the cells of the outer layer.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-1. Internal transport in the cnidarian Aurelia. The mouth leads to an elaborate gastrovascular cavity (shown in blue) that has branches radiating to and from a circular canal. Ciliated cells lining the canals circulate fluid in the directions indicated by the arrows. The animal is viewed here from its underside (oral surface).
+
+Planarians and most other flatworms also have gastrovascular cavities that exchange materials with the environment through a single opening (see FIGURE 33.10). The flat shape of the body and the branching of the gastrovascular cavity throughout the animal ensure that all cells are bathed by a suitable medium and diffusion distances are short.
+
+Open and Closed Circulatory Systems
+
+For animals with many cell layers, gastrovascular cavities are insufficient for internal transport because diffusion distances are too great for adequate exchange of nutrients and wastes. In these more complex animals, two types of circulatory systems that overcome the limitations of diffusion have evolved: open circulatory systems and closed circulatory systems. Both have three basic components: a circulatory fluid (blood), a set of tubes (blood vessels) through which the blood moves through the body, and a muscular pump (the heart). The heart powers circulation by using metabolic energy to elevate the hydrostatic pressure of the blood, which then flows down a pressure gradient through its circuit and then back to the heart. This blood pressure is the motive force for fluid movement in the circulatory system.
+
+In insects, other arthropods, and most mollusks, blood bathes the organs directly in an open circulatory system (FIGURE 42.2a). There is no distinction between blood and interstitial fluid, and the general body fluid is more correctly termed hemolymph. One or more hearts pump the hemolymph into an interconnected system of sinuses, which are spaces surrounding the organs. Here, chemical exchange occurs between the hemolymph and body cells. In insects and other arthropods, the heart is an elongated tube located dorsally. When the heart contracts, it pumps hemolymph through vessels out into sinuses. When the heart relaxes, it draws hemolymph into the circulatory system through pores called ostia. Body movements that squeeze the sinuses help circulate the hemolymph.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-2. Open and closed circulatory systems.
+
+In a closed circulatory system, blood is confined to vessels and is distinct from the interstitial fluid (FIGURE 42.2b). One or more hearts pump blood into large vessels that branch into smaller ones coursing through the organs. Here, materials are exchanged by diffusion between the blood and the interstitial fluid bathing the cells. Earthworms, squids, octopuses, and vertebrates have closed circulatory systems.
+
+
+
+
+
+ Vertebrate phylogeny is reflected in adaptations of the cardiovascular system
+
+Humans and other vertebrates have a closed circulatory system, often called the cardiovascular system. The heart has one atrium or two atria (plural), the chambers that receive blood returning to the heart, and one or two ventricles, the chambers that pump blood out of the heart. Arteries, veins, and capillaries are the three main kinds of blood vessels, which in the human body extend a total distance of about 100,000 km. Arteries carry blood away from the heart to organs throughout the body. Within organs, arteries branch into arterioles, small vessels that convey blood to the capillaries. Capillaries are microscopic vessels with very thin, porous walls. Networks of these vessels, called capillary beds, infiltrate each tissue. It is across the thin walls of capillaries that chemicals, including dissolved gases, are exchanged by diffusion between the blood and the interstitial fluid surrounding the cells. At their "downstream" end, capillaries converge into venules, and venules converge into veins, which return blood to the heart. Notice that arteries and veins are distinguished by the direction in which they carry blood, not by the characteristics of the blood they contain. All arteries carry blood from the heart toward capillaries, and veins return blood to the heart from capillaries. The cardiovascular systems of different vertebrate taxa are variations of this general scheme, but they have been modified by natural selection.
+
+Metabolic rate is an important factor in the evolution of cardiovascular systems. In general, animals with high metabolic rates have more complex circulatory systems and more powerful hearts than animals with low metabolic rates. Similarly, the complexity and number of blood vessels in a particular organ are correlated with that organ's metabolic requirements. Perhaps the most fundamental differences in cardiovascular adaptations are associated with gill breathing in aquatic vertebrates compared with lung breathing in terrestrial vertebrates.
+
+A fish heart has two main chambers, one atrium and one ventricle (FIGURE 42.3a). Blood pumped from the ventricle travels first to the gills (the gill circulation), where it picks up oxygen and disposes of carbon dioxide across capillary walls (see photo on p. 871). The gill capillaries converge into a vessel that carries oxygen-rich blood to capillary beds in all other parts of the body (the systemic circulation). Blood then returns in veins to the atrium of the heart. Notice that in a fish, blood must pass through two capillary beds during each circuit. When blood flows through a capillary bed, blood pressure--the motive force for circulation--drops substantially (for reasons that will be explained shortly). Therefore, oxygen-rich blood leaving the gills flows to the systemic circulation quite slowly (although the process is aided by body movements during swimming). This constrains the delivery of oxygen to body tissues, and hence the maximum aerobic metabolic rate of fishes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-3. Generalized circulatory schemes of vertebrates. Red symbolizes oxygen-rich blood, and blue represents oxygen-poor blood. (a) Fishes have a two-chambered heart and a single circuit of blood flow. (b) Amphibians have a three-chambered heart and two circuits of blood flow: pulmocutaneous and systemic. This double circulation delivers blood to systemic organs under high pressure. In the single ventricle, there is some mixing of oxygen-rich blood with oxygen-poor blood. (It is customary to illustrate cardiovascular systems with the right side of the heart on the left and the left side on the right, as if the body is facing you from the page.) (c) Mammals have a four-chambered heart and double circulation. Within the heart, oxygen-rich blood is kept completely segregated from oxygen-poor blood.
+
+Frogs and other amphibians have a three-chambered heart, with two atria and one ventricle (FIGURE 42.3b). The ventricle pumps blood into a forked artery that splits the ventricle's output into the pulmocutaneous and systemic circulations. The pulmocutaneous circulation leads to capillaries in the gas-exchange organs (the lungs and skin in a frog), where the blood picks up oxygen and releases CO2 before returning to the heart's left atrium. Most of the returning oxygen-rich blood is pumped into the systemic circulation, which supplies all body organs and then returns oxygen-poor blood to the right atrium via the veins. This scheme, called double circulation, provides a vigorous flow of blood to the brain, muscles, and other organs because the blood is pumped a second time after it loses pressure in the capillary beds of the lungs or skin. This is distinctly different from the single circulation in the fish, where blood flows directly from the respiratory organs (gills) to other organs under reduced pressure.
+
+In the ventricle of the frog, there is some mixing of oxygen-rich blood that has returned from the lungs with oxygen-poor blood that has returned from the rest of the body. However, a ridge within the ventricle diverts most of the oxygen-rich blood from the left atrium into the systemic circuit and most of the oxygen-poor blood from the right atrium into the pulmocutaneous circuit. Reptiles also have double circulation with pulmonary (lung) and systemic circuits, but there is even less mixing of oxygen-rich and oxygen-poor blood than in amphibians. Although the reptilian heart is three-chambered, the ventricle is partially divided.
+
+In one order of reptiles, the crocodilians (crocodiles and alligators), and in all birds and mammals, the ventricle is completely divided into separate right and left chambers (FIGURE 42.3c). In this arrangement the left side of the heart receives and pumps only oxygen-rich blood, while the right side handles only oxygen-poor blood. Oxygen delivery is enhanced because there is no mixing of oxygen-rich and oxygen-poor blood, and double circulation restores pressure to the systemic circuit after blood has passed through the lung capillaries.
+
+The evolution of a powerful four-chambered heart was an essential adaptation in support of the endothermic way of life characteristic of birds and mammals. Endotherms use about ten times as much energy as equal-sized ectotherms, and therefore their circulatory systems need to deliver about ten times as much fuel and oxygen to their tissues (and remove ten times as much CO2 and other wastes). This large traffic of substances is made possible by their separate and independent systemic and pulmonary circulations, and by having large and powerful hearts to pump the necessary volume of blood. Birds and mammals descended from different reptilian ancestors, and their powerful four-chambered hearts evolved independently--an example of convergent evolution.
+
+
+
+
+
+ Double circulation in mammals depends on the anatomy and pumping cycle of the heart
+
+A more detailed diagram of blood flow through the mammalian cardiovascular system is shown in FIGURE 42.4, which has numbers keyed to the circled numbers in this text discussion. Beginning our tour with the pulmonary (lung) circuit, 
+			  
+		the right ventricle pumps blood to the lungs via 
+			  
+		the pulmonary arteries. As the blood flows through 
+			  
+		capillary beds in the right and left lungs, it loads oxygen and unloads carbon dioxide. Oxygen-rich blood returns from the lungs via the pulmonary veins to 
+			  
+		the left atrium of the heart. Next, the oxygen-rich blood flows into 
+			  
+		the left ventricle, as the ventricle opens and the atrium contracts. The left ventricle pumps the oxygen-rich blood out to body tissues through the systemic circuit. Blood leaves the left ventricle via 
+			  
+		the aorta, which conveys blood to arteries leading throughout the body. The first branches from the aorta are the coronary arteries (not shown), which supply blood to the heart muscle itself. Then come branches leading to capillary beds 
+			  
+		in the head and arms (or forelimbs). The aorta continues in a posterior direction, supplying oxygen-rich blood to arteries leading to 
+			  
+		arterioles and capillary beds in the abdominal organs and legs. Within the capillaries, blood gives up much of its oxygen and picks up the carbon dioxide produced by cellular respiration. Capillaries rejoin to form venules, which convey blood to veins. Oxygen-poor blood from the head, neck, and forelimbs is channeled into a large vein called 
+			  
+		the anterior (or superior) vena cava. Another large vein called 
+			  
+		the posterior (or inferior) vena cava drains blood from the trunk and hind limbs. The two venae cavae empty their blood into 
+			  
+		the right atrium, from which the oxygen-poor blood flows into the right ventricle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-4. The mammalian cardiovascular system: an overview. The circled numbers are keyed to the discussion in the text. It is as though we are tracking a single blood cell as it flows first through the pulmonary circuit and then through the systemic circuit. However, if we consider the circulatory system as a whole instead of focusing on the path of an individual cell, it is important to understand that the dual circuits operate simultaneously, not in the serial fashion that the numbering in the diagram suggests. The two ventricles pump almost in unison; while some blood is traveling in the pulmonary circuit, the rest of the blood is flowing in the systemic circuit.
+
+The Mammalian Heart: A Closer Look
+
+A closer look at the mammalian heart (using the human heart as an example) provides a better understanding of how double circulation works (FIGURE 42.5, p. 876). Located beneath the breastbone (sternum), the human heart is about the size of a clenched fist and consists mostly of cardiac muscle (see FIGURE 40.4). The two atria have relatively thin walls and function as collection chambers for blood returning to the heart, pumping blood only the short distance to the ventricles. The ventricles have thicker walls and contract much more strongly than the atria--especially the left ventricle, which must pump blood to all body organs through the systemic circuit.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-5. The mammalian heart: a closer look. In this detailed view of the structure of the heart, notice the valves, which prevent backflow of blood within the heart, and the relative thickness of the walls of the heart chambers. The atria, which pump blood only into the ventricles, have thinner walls than the ventricles, which pump blood to the pulmonary and systemic circuits.
+
+The heart contracts and relaxes in a rhythmic cycle. When it contracts, it pumps blood; when it relaxes, its chambers fill with blood. One complete sequence of pumping and filling is called the cardiac cycle. The contraction phase of the cycle is called systole, and the relaxation phase is called diastole (FIGURE 42.6). The volume of blood per minute that the left ventricle pumps into the systemic circuit is called cardiac output. Cardiac output depends on two factors: the rate of contraction, or heart rate (number of beats per minute) and stroke volume, the amount of blood pumped by the left ventricle in each contraction. The average stroke volume for a human is about 75 mL. A person with this stroke volume and a heart rate during rest of 70 beats per minute has a cardiac output of 5.25 L/min. This is about equivalent to the total volume of blood in the human body. Cardiac output can increase about fivefold during heavy exercise. This is equivalent to pumping an amount of blood matching an average person's body weight every 2-3 minutes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-6. The cardiac cycle. The heart contracts (systole) and relaxes (diastole) in a rhythmic cycle. For an adult human at rest with a pulse of about 75 beats per minute, one complete cardiac cycle takes about 0.8 sec. 
+			  
+		 During a relaxation phase (atria and ventricles in diastole) lasting about 0.4 sec, blood returning from the large veins flows into the atria and ventricles. 
+			  
+		 A brief period (about 0.1 sec) of atrial systole then forces all remaining blood out of the atria into the ventricles. 
+			  
+		 During the remaining 0.3 sec of the cycle, ventricular systole pumps blood into the large arteries. Note that seven-eighths of the time--all but 0.1 sec of the cardiac cycle--the atria are relaxed and filling with blood returning in the veins.
+
+Four valves in the heart, each consisting of flaps of connective tissue, prevent backflow and keep blood moving in the correct direction (see FIGURE 42.5). Between each atrium and ventricle is an atrioventricular (AV) valve. The AV valves are anchored by strong fibers that prevent them from turning inside out. Pressure generated by the powerful contraction of the ventricles closes the AV valves, keeping blood from flowing back into the atria. Semilunar valves are located at the two exits of the heart, where the aorta leaves the left ventricle and the pulmonary artery leaves the right ventricle. These valves are forced open by pressure created by ventricular contraction. When the ventricles relax, blood starts to flow back toward the heart, closing the semilunar valves, which prevents blood from flowing back into the ventricles. The elastic walls of the arteries expand when they receive the blood expelled from the ventricles. By taking your pulse--the rhythmic stretching of arteries caused by the pressure of blood driven by the powerful contractions of the ventricles--you can measure your heart rate.
+
+The heart sounds we can hear with a stethoscope are caused by the closing of the valves. (Even without a stethoscope, you can hear these sounds by pressing your ear tightly against the chest of a friend--a close friend.) The sound pattern is "lub-dup, lub-dup, lub-dup." The first heart sound ("lub") is created by the recoil of blood against the closed AV valves. The second sound ("dup") is the recoil of blood against the semilunar valves.
+
+A defect in one or more of the valves causes a condition known as a heart murmur, which may be detectable as a hissing sound when a stream of blood squirts backward through a valve. Some people are born with heart murmurs, while others have their valves damaged by infection (from rheumatic fever, for instance). Most heart murmurs do not reduce the efficiency of blood flow enough to warrant surgery.
+
+Maintaining the Heart's Rhythmic Beat
+
+The timely delivery of oxygen to the body's organs is critical. For example, brain cells die within a few minutes if oxygen supply is interrupted. Thus, maintaining heart function is crucial for survival. Several mechanisms that assure the continuity and control of heartbeat have evolved.
+
+Certain cells of vertebrate cardiac muscle are self-excitable, meaning they contract without any signal from the nervous system, even if removed from the heart and placed in tissue culture. Each of these cells has its own intrinsic contraction rhythm. How are their contractions coordinated in the intact heart? A region of the heart called the sinoatrial (SA) node, or pacemaker, sets the rate and timing at which all cardiac muscle cells contract. Composed of specialized muscle tissue, the SA node is located in the wall of the right atrium, near the point where the superior vena cava enters the heart (FIGURE 42.7).
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-7. The control of heart rhythm. 
+			  
+		 The SA node, or pacemaker, sets the tempo of the heartbeat by generating electrical signals (gold) that 
+			  
+		 spread through both atria, making them contract simultaneously. The signals to contract are delayed at the AV node for about 0.1 sec, during which blood in the atria empties into the ventricles. 
+			  
+		 Specialized muscle fibers called bundle branches and Purkinje fibers then conduct the signals to the apex of the heart and 
+			  
+		 throughout the ventricular walls. The signals trigger powerful contractions of both ventricles from the apex toward the atria, driving blood into the large arteries. Gold color in the graphs at the bottom indicates the components of an electrocardiogram (ECG) corresponding to the sequence of electrical events in the heart. In step 4, the black portion of the ECG to the right of the gold "spike" represents electrical activity after the ventricles contract; during this phase of the ECG, the ventricles become re-primed electrically and thus are able to conduct the next round of contraction signals.
+
+The SA node generates electrical impulses much like those produced by nerve cells. Because cardiac muscle cells are electrically coupled (by the intercalated discs between adjacent cells; see FIGURE 40.4), impulses from the SA node spread rapidly through the walls of the atria, making them contract in unison. The impulses also pass to another region of specialized muscle tissue, a relay point called the atrioventricular (AV) node, located in the wall between the right atrium and right ventricle. Here the impulses are delayed for about 0.1 sec before spreading to the walls of the ventricles, which ensures that the atria empty completely before the ventricles contract.
+
+The impulses that travel through cardiac muscle during the heart cycle produce electrical currents that are conducted through body fluids to the skin, where the currents can be detected by electrodes and recorded as an electrocardiogram (ECG or EKG).
+
+The SA node sets the tempo for the entire heart, but is influenced by a variety of physiological cues. Two sets of nerves affect heart rate; one set speeds up the pacemaker, and the other set slows it down. Heart rate is a compromise regulated by the opposing actions of these two sets of nerves. The pacemaker is also influenced by hormones secreted into the blood by glands. For example, epinephrine, the "fight-or-flight" hormone from the adrenal glands, increases heart rate (see Chapter 45). Body temperature is another factor that affects the pacemaker. An increase of only 1&#176;C raises the heart rate by about 10 beats/min. This is the reason your pulse increases substantially when you have a fever. Heart rate also increases with exercise, an adaptation that enables the circulatory system to provide the additional oxygen needed by muscles hard at work.
+
+
+
+
+
+ Structural differences of arteries, veins, and capillaries correlate with their different functions
+
+All blood vessels are built of similar tissues. The walls of both arteries and veins, for instance, have three similar layers (FIGURE 42.8, p. 878). On the outside, a layer of connective tissue with elastic fibers allows the vessel to stretch and recoil. A middle layer contains smooth muscle and more elastic fibers. Lining the lumen of all blood vessels, including capillaries, is an endothelium, a single layer of flattened cells that provides a smooth surface that minimizes resistance to the flow of blood.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-8. The structure of blood vessels. In the micrograph (SEM), an artery can be seen next to a thinner-walled vein.
+
+Structural differences correlate with the different functions of arteries, veins, and capillaries. Capillaries lack the two outer layers, and their very thin walls consist only of endothelium and its basement membrane. This facilitates the exchange of substances between the blood and the interstitial fluid that bathes the cells. Arteries have thicker middle and outer layers than veins. Blood flows through the vessels of the circulatory system at uneven speeds and pressures. The thicker walls of arteries provide strength to accommodate blood pumped rapidly and at high pressure by the heart, and their elasticity helps maintain blood pressure even when the heart relaxes between contractions. The thinner-walled veins convey blood back to the heart at low velocity and pressure. Blood flows through the veins mainly as a result of muscle action; whenever we move, our skeletal muscles pinch our veins and squeeze blood through them. Within large veins, flaps of tissue act as one-way valves that allow blood to flow only toward the heart (FIGURE 42.9).
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-9. Blood flow in veins. Contracting skeletal muscles squeeze the veins. Flaps of tissue within the veins act as one-way valves that keep blood moving only toward the heart. If we sit or stand too long, the lack of muscular activity causes our feet to swell with stranded blood unable to return to the heart.
+
+
+
+
+
+ Physical laws governing the movement of fluids through pipes affect blood flow and blood pressure
+
+Blood Flow Velocity
+
+Blood travels over a thousand times faster in the aorta (about 30 cm/sec on average) than in capillaries (about 0.026 cm/sec). This velocity change follows from the law of continuity, which describes fluid movement through pipes. If a pipe's diameter changes over its length, a fluid will flow through narrower segments of the pipe faster than it flows through wider segments. The volume of flow per second must be constant through the entire pipe, so the fluid must flow faster as the cross-sectional area of the pipe narrows. For instance, compare the velocity of water squirted by a hose with and without a nozzle.
+
+Based on the law of continuity, it may seem that blood should travel faster through capillaries than through arteries, because the diameter of capillaries is very small. However, it is the total cross-sectional area of capillaries that determines flow rate. Each artery conveys blood to such an enormous number of capillaries that the total cross-sectional area is much greater in capillary beds than in any other part of the circulatory system. For this reason, the blood slows substantially as it enters the arterioles from arteries, and slows further in the capillary beds. Capillaries are the only vessels with walls thin enough to permit the transfer of substances between the blood and interstitial fluid, and the slower flow of blood through these tiny vessels enhances this exchange. As blood leaves the capillary beds and passes to the venules and veins, it speeds up again as a result of the reduction in total cross-sectional area (FIGURE 42.10).
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-10. The interrelationship of blood flow velocity, cross-sectional area of blood vessels, and blood pressure. Blood flow velocity decreases markedly in the arterioles and is slowest in the capillaries, owing to an increase in total cross-sectional area. Blood pressure, the main force driving blood from the heart to the capillaries, is highest in the arteries. Peaks in blood pressure corresponding to ventricular systole alternate with lower blood pressures corresponding to diastole (elasticity in arterial walls keeps diastolic pressure from falling to zero). Resistance to flow through the arterioles and capillaries, due to contact of the blood with a greater surface area of endothelium, reduces blood pressure and eliminates pressure peaks.
+
+Blood Pressure
+
+Fluids exert a force called hydrostatic pressure against surfaces they contact, and it is that pressure that drives fluids through pipes. Fluids always flow from areas of high pressure to areas of lower pressure. The hydrostatic force that blood exerts against the wall of a vessel and that propels blood is blood pressure. Blood pressure is much greater in arteries than in veins and is highest in arteries when the heart contracts during ventricular systole (systolic pressure; see FIGURE 42.10).
+
+When you take your pulse by placing your fingers on your wrist, you can feel an artery bulge with each heartbeat. The surge of pressure is partly due to the narrow openings of arterioles impeding the exit of blood from the arteries. Thus, when the heart contracts, blood enters the arteries faster than it can leave, and the vessels stretch from the pressure. The elastic walls of the arteries snap back during diastole, but the heart contracts again before enough blood has flowed into the arterioles to completely relieve pressure in the arteries. This impedance by the arterioles is called peripheral resistance. As a consequence of the elastic arteries working against peripheral resistance, there is a substantial blood pressure even during diastole (diastolic pressure), and blood flows into arterioles and capillaries continuously (see FIGURE 42.10). As shown in FIGURE 42.11 on page 880, the arterial blood pressure of a healthy resting human oscillates between about 120 mm Hg at systole and 70 mm Hg at diastole.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-11. Measurement of blood pressure. Blood pressure is recorded as two numbers separated by a slash; the first number is the systolic pressure; the second is the diastolic pressure.
+
+Blood pressure is determined partly by cardiac output and partly by peripheral resistance. Contraction of smooth muscles in the walls of the arterioles constricts the tiny vessels, increases peripheral resistance, and therefore increases blood pressure upstream in the arteries. When the smooth muscles relax, the arterioles dilate, blood flow through the arterioles increases, and pressure in the arteries falls. Nerve impulses, hormones, and other signals control these arteriole wall muscles. Stress, both physical and emotional, can raise blood pressure by triggering nervous and hormonal responses that will constrict blood vessels.
+
+Cardiac output is adjusted in concert with changes in peripheral resistance. This coordination of regulatory mechanisms maintains adequate blood flow as the demands on the circulatory system change. For example, during heavy exercise the arterioles in working muscles dilate. This response admits a greater flow of oxygen-rich blood to the muscles and also decreases peripheral resistance. By itself, this would cause a fall in blood pressure (and therefore blood flow) in the body as a whole. However, cardiac output increases, maintaining blood pressure and supporting the necessary increase in blood flow.
+
+In large land animals, another factor that affects blood pressure is gravity. Besides the force needed to overcome peripheral resistance, additional pressure is necessary if blood must be pushed above the level of the heart. In a standing human, blood must rise about 0.35 m to get from the heart to the brain. This demands an extra 27 mm Hg of pressure, which requires the heart to expend more energy in its contraction cycle. The pumping challenge is much greater for animals with long necks. Standing giraffes need to pump blood as much as 2.5 m above the heart. That requires about 190 mm Hg of additional blood pressure in the left ventricle, and a giraffe's normal systolic pressure near the heart is over 250 mm Hg. (Systolic pressure that high would be extremely dangerous in a human.) Special check valves and sinuses, along with feedback mechanisms that reduce cardiac output, prevent this high pressure from damaging the giraffe's brain when it puts its head down to drink--a body position that causes blood to flow downhill almost 2 m from the heart, adding an extra 150 mm Hg of blood pressure in the arteries leading to the brain. Some physiologists speculate about blood pressure and cardiovascular adaptations in dinosaurs--some of which had necks almost 10 m long, requiring a systolic pressure of 760 mm Hg just to pump blood to the brain when the head was fully raised.
+
+By the time blood reaches the veins, its pressure is not affected much by the action of the heart. This is because the blood encounters so much resistance as it passes through the millions of tiny arterioles and capillaries that the pressure generated by the pumping heart has been dissipated and can no longer propel the blood in the veins. How does blood return to the heart, especially when it must travel from the lower extremities against gravity? Rhythmic contractions of smooth muscles in the walls of venules and veins account for some movement of the blood. More importantly, the activity of skeletal muscles during exercise squeezes blood through the veins (see FIGURE 42.9). Also, when we inhale, the change in pressure within the thoracic (chest) cavity causes the venae cavae and other large veins near the heart to expand and fill with blood.
+
+
+
+
+
+ Transfer of substances between the blood and the interstitial fluid occurs across the thin walls of capillaries
+
+Blood Flow Through Capillary Beds
+
+At any given time, only about 5-10%  of the body's capillaries have blood flowing through them. However, each tissue has many capillaries, so every part of the body is supplied with blood at all times. Capillaries in the brain, heart, kidneys, and liver are usually filled to capacity, but in many other sites, the blood supply varies over time as blood is diverted from one destination to another. After a meal, for instance, blood supply to the digestive tract increases. During strenuous exercise, blood is diverted from the digestive tract and supplied more generously to skeletal muscles and skin. This is one reason heavy exercise immediately after eating a big meal may cause indigestion.
+
+Two mechanisms, both dependent on smooth muscles controlled by nerve signals and hormones, regulate the distribution of blood in capillary beds. In one mechanism, contraction of the smooth muscle layer in the wall of an arteriole constricts the vessel, decreasing blood flow through it to a capillary bed. When the muscle layer relaxes, the arteriole dilates, allowing blood to enter the capillaries. In the other mechanism, rings of smooth muscle, called precapillary sphincters because they are located at the entrance to capillary beds, control the flow of blood between arterioles and venules (FIGURE 42.12).
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-12. Blood flow in capillary beds. Precapillary sphincters regulate the passage of blood into capillary beds. Some blood flows directly from arterioles to venules through capillaries called thoroughfare channels, which are always open.
+
+Capillary Exchange
+
+The all-important exchange of substances between the blood and the interstitial fluid that bathes the cells takes place across the thin endothelial walls of the capillaries. Some substances may be carried across an endothelial cell in vesicles that form by endocytosis on one side of the cell (see FIGURE 8.19) and then release their contents by exocytosis on the opposite side; others simply diffuse between the blood and the interstitial fluid. Small molecules, such as oxygen and carbon dioxide, diffuse down concentration gradients across the endothelial cells. Diffusion can also occur through the clefts between adjoining cells. However, transport through these clefts occurs mainly by bulk flow due to fluid pressure. Blood pressure within the capillary pushes fluid (water and small solutes such as sugars, salts, oxygen, and urea) through the capillary clefts. This causes a net loss of fluid from the upstream end of the capillary (near an arteriole). Blood cells suspended in blood and most proteins dissolved in the blood are too large to pass readily through the endothelium and remain in the capillaries, causing an increase in blood osmolarity (solute concentration) as blood loses fluid during its passage through a capillary. The resulting osmotic gradient pulls water into the capillary by osmosis near the downstream (venule) end (FIGURE 42.13). About 85%  of the fluid that leaves the blood at the arterial end of a capillary bed reenters from the interstitial fluid at the venous end, and the remaining 15%  is eventually returned to the blood by the vessels of the lymphatic system.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-13. The movement of fluid between capillaries and the interstitial fluid. Fluid flows out of a capillary at the upstream end near an arteriole and reenters a capillary down-stream near a venule. The direction of fluid movement across the capillary wall at any point depends on the difference between two opposing forces: blood pressure and osmotic pressure.
+
+
+
+
+
+ The lymphatic system returns fluid to the blood and aids in body defense
+
+So much blood passes through the capillaries that the cumulative loss of fluid adds up to about 4 L per day. There is also some leakage of blood proteins, even though the capillary wall is not very permeable to large molecules. The lost fluid and proteins return to the blood via the lymphatic system. Fluid enters this system by diffusing into tiny lymph capillaries intermingled among capillaries of the cardiovascular system. Once inside the lymphatic system, the fluid is called lymph; its composition is about the same as that of interstitial fluid. The lymphatic system drains into the circulatory system near the junction of the venae cavae with the right atrium (see FIGURE 43.4).
+
+Lymph vessels, like veins, have valves that prevent the backflow of fluid toward the capillaries. Rhythmic contractions of the vessel walls help draw fluid into lymphatic capillaries. Also like veins, lymph vessels depend mainly on the movement of skeletal muscles to squeeze fluid toward the heart.
+
+Along a lymph vessel are organs called lymph nodes. By filtering the lymph and attacking viruses and bacteria, lymph nodes play an important role in the body's defense. Inside a lymph node is a honeycomb of connective tissue with spaces filled by white blood cells specialized for defense. When the body is fighting an infection, these cells multiply rapidly, and the lymph nodes become swollen and tender (which is why your doctor checks for swollen lymph nodes in your neck).
+
+The lymphatic system helps defend the body against infection and maintains the volume and protein concentration of the blood. You may also recall from Chapter 41 that the lymphatic system transports fats from the digestive tract to the circulatory system.
+
+
+
+
+
+ Blood is a connective tissue with cells suspended in plasma
+
+We now shift our focus from the tubes and pumps of circulatory systems to the fluids being circulated. In invertebrates with open circulations, blood (hemolymph) is not different from interstitial fluid. However, blood in the closed circulatory systems of vertebrates is a specialized connective tissue consisting of several kinds of cells suspended in a liquid matrix called plasma. If a blood sample is taken, the cells can be separated from plasma by spinning the whole blood in a centrifuge (an anticoagulant must be added to prevent the blood from clotting). The cellular elements (cells and cell fragments), which occupy about 45%  of the volume of blood, settle to the bottom of the centrifuge tube, forming a dense red pellet. Above this cellular pellet is the transparent, straw-colored plasma (FIGURE 42.14).
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-14. The composition of mammalian blood.
+
+Plasma
+
+Blood plasma is about 90%  water. Among its many solutes are inorganic salts in the form of dissolved ions, sometimes referred to as blood electrolytes. The combined concentration of these ions is important in maintaining osmotic balance of the blood. Some ions also help buffer the blood, which normally has a pH of 7.4 in humans. And the normal functioning of muscles and nerves depends on the concentration of key ions in the interstitial fluid, which reflects their concentration in plasma. The kidney maintains plasma electrolytes at precise concentrations, an example of homeostasis.
+
+Another important class of solutes is the plasma proteins, which have many functions. Collectively, they act as buffers against pH changes, help maintain the osmotic balance between blood and interstitial fluid, and contribute to the blood's viscosity (thickness). The various types of plasma proteins also have specific functions. Some are escorts for lipids, which are insoluble in water and can travel in blood only when bound to proteins. Another class of proteins, the immunoglobulins or antibodies, help combat viruses and other foreign agents that invade the body (see Chapter 43). And the plasma proteins called fibrinogens are clotting factors that help plug leaks when blood vessels are injured. Blood plasma that has had these clotting factors removed is called serum.
+
+Plasma also contains a wide variety of substances in transit from one part of the body to another, including nutrients, metabolic wastes, respiratory gases, and hormones. Blood plasma and interstitial fluid are similar in composition, except that plasma has a much higher protein concentration (capillary walls, remember, are not very permeable to proteins).
+
+Cellular Elements
+
+Suspended in blood plasma are two classes of cells: red blood cells, which transport oxygen, and white blood cells, which function in defense. A third cellular element, platelets, are pieces of cells that are involved in clotting.
+
+Red blood cells, or erythrocytes, are by far the most numerous blood cells. Each cubic millimeter of human blood contains 5 to 6 million red cells, and there are about 25 trillion of these cells in the body's 5 L of blood.
+
+Red blood cells are an excellent example of the close relationship between structure and function. Their main function of oxygen transport depends on rapid diffusion of oxygen across the red cells' plasma membranes. Human erythrocytes are small biconcave disks (about 7-8.5 mm in diameter), thinner in the center than at the edges. Their small size and biconcave shape create a large surface area for the total population of red cells, and the greater the total area of red cell membrane in a given volume of blood, the more rapidly oxygen diffusion can occur. Mammalian erythrocytes lack nuclei, an unusual characteristic that leaves more space in the tiny cells for hemoglobin, the iron-containing protein that transports oxygen (see FIGURE 5.23b). Red blood cells also lack mitochondria and generate their ATP exclusively by anaerobic metabolism. Oxygen transport by erythrocytes would be less efficient if their own metabolism were aerobic and consumed some of the oxygen they carry.
+
+Despite its small size, an erythrocyte contains about 250 million molecules of hemoglobin. Since each hemoglobin binds up to four molecules of O2, an erythrocyte can transport about a billion oxygen molecules. Researchers have recently found that hemoglobin binds the gaseous molecule nitric oxide (NO) as well as O2. As red blood cells pass through the capillary beds of lungs, gills, or other respiratory organs, oxygen diffuses into the erythrocytes and hemoglobin binds O2 and NO. In the systemic capillaries, hemoglobin unloads oxygen, and it then diffuses into body cells. The NO relaxes the capillary walls, allowing them to expand, which probably helps deliver O2 to the cells.
+
+There are five major types of white blood cells, or leukocytes: monocytes, neutrophils, basophils, eosinophils, and lymphocytes (see FIGURE 42.14). Their collective function is to fight infections. For example, monocytes and neutrophils are phagocytes, which engulf and digest bacteria and debris from our own dead cells. As we will see in Chapter 43, lymphocytes develop into specialized B cells and T cells, which produce the immune response against foreign substances. White blood cells spend most of their time outside the circulatory system, patrolling through interstitial fluid and the lymphatic system, where most of the battles against pathogens are waged. Normally, a cubic millimeter of human blood has about 5,000 to 10,000 leukocytes, but their numbers increase temporarily whenever the body is fighting an infection.
+
+The third cellular element of blood, platelets, are fragments of cells about 2 to 3 mm in diameter. They have no nuclei and originate as pinched-off cytoplasmic fragments of large cells in the bone marrow. Platelets then enter the blood and function in the important process of blood clotting.
+
+Stem Cells and the Replacement of Cellular Elements
+
+The cellular elements of blood (erythrocytes, leukocytes, and platelets) wear out and are replaced constantly throughout a person's life. Erythrocytes, for example, usually circulate for only about 3 to 4 months and then are destroyed by phagocytic cells in the liver and spleen. Enzymes digest the old cell's macromolecules, and biosynthetic processes construct new macromolecules using many of the monomers, such as amino acids, obtained from old blood cells, as well as new materials and energy from food. Many of the iron atoms derived from the hemoglobin in old red blood cells are built into new hemoglobin molecules.
+
+Erythrocytes, leukocytes, and platelets all develop from a common source, a single population of cells called pluripotent stem cells in the red marrow of bones, particularly the ribs, vertebrae, breastbone, and pelvis (FIGURE 42.15, p. 884). "Pluripotent" means these cells have the potential to differentiate into any type of blood cell or into cells that produce platelets. Pluripotent stem cells arise in the early embryo, and the population renews itself while replenishing the blood with cellular elements. (See Chapter 21 for a more general discussion of stem cells.)
+
+A negative-feedback mechanism, sensitive to the amount of oxygen reaching the tissues via the blood, controls erythrocyte production. If the tissues do not receive enough oxygen, the kidney converts a plasma protein to a hormone called erythropoietin, which stimulates production of erythrocytes. If blood is delivering more oxygen than the tissues can use, the level of erythropoietin is reduced, and erythrocyte production slows.
+
+Recently, researchers have been able to isolate pluripotent stem cells and grow these cells in laboratory cultures. Purified pluripotent stem cells may soon provide an effective treatment for a number of human diseases, such as leukemia. A person with leukemia has a cancerous line of the stem cells that produce leukocytes. The cancerous stem cells crowd out cells that make red blood cells and produce an unusually high number of leukocytes, many of which are abnormal. One strategy now being used experimentally for treating leukemia is to remove pluripotent stem cells from a patient, destroy the bone marrow, and restock it with noncancerous pluripotent cells. As few as 30 of these cells can completely repopulate the bone marrow.
+
+Blood Clotting
+
+We all get cuts and scrapes from time to time, yet we do not bleed to death because blood contains a self-sealing material that plugs leaks. The sealant is always present in an inactive form called fibrinogen. A clot forms only when this plasma protein is converted to its active form, fibrin, which aggregates into threads that form the framework of the clot. The clotting mechanism usually begins with the release of clotting factors from platelets and involves a complex chain of reactions that ultimately transforms fibrinogen to fibrin (FIGURE 42.16). More than a dozen clotting factors have been discovered, and the mechanism is still not fully understood. An inherited defect in any step of the clotting process causes hemophilia, a disease characterized by excessive bleeding from even minor cuts and bruises.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-16. Blood clotting.
+
+Anticlotting factors in the blood normally prevent spontaneous clotting in the absence of injury. Sometimes, however, platelets clump and fibrin coagulates within a blood vessel, blocking the flow of blood. Such a clot is called a thrombus. These potentially dangerous clots are more likely to form in individuals with cardiovascular diseases, diseases of the heart and blood vessels.
+
+
+
+
+
+ Cardiovascular diseases are the leading cause of death in the United States and most other developed nations
+
+More than half the deaths in the United States are caused by cardiovascular diseases, diseases of the heart and blood vessels. The final blow is usually a heart attack or a stroke. A heart attack is the death of cardiac muscle tissue resulting from prolonged blockage of one or more coronary arteries, the vessels that supply oxygen-rich blood to the heart (the constantly beating heart muscle cannot survive long without oxygen). A stroke is the death of nervous tissue in the brain, usually resulting from rupture or blockage of arteries in the head. Heart attacks and strokes frequently result from a thrombus that clogs an artery. A thrombus may form in a coronary artery or an artery in the brain, or it may develop elsewhere in the circulatory system and reach the heart or brain via the bloodstream. Such a transported clot, called an embolus, is swept along until it becomes lodged in an artery too small for the clot to pass. This blocks blood flow, and cardiac or brain tissue downstream from the obstruction may die from oxygen deprivation. If damage in the heart interrupts the conduction of electrical impulses through cardiac muscle, heart rate may change drastically or the heart may stop beating altogether. Still, the victim may survive if heartbeat is restored by cardiopulmonary resuscitation (CPR) or some other emergency procedure within a few minutes of the attack. The effects of a stroke and the individual's chance of survival depend on the extent and location of the damaged brain tissue.
+
+The suddenness of a heart attack or stroke belies the fact that the arteries of most victims had become gradually impaired by a chronic cardiovascular disease known as atherosclerosis. During the course of this disease, growths called plaques develop on the inner walls of the arteries, narrowing their bore (FIGURE 42.17). A plaque forms at a site where the smooth muscle layer of an artery thickens abnormally and becomes infiltrated with fibrous connective tissue and lipids such as cholesterol. In some cases, plaques also become hardened by calcium deposits, resulting in a form of atherosclerosis called arteriosclerosis, commonly known as hardening of the arteries. An embolus is more likely to become trapped in a vessel that has been narrowed by plaques. Furthermore, plaques are common sites of thrombus formation. Healthy arteries have smooth linings, but the rougher lining of an artery damaged by atherosclerosis seems to encourage the adhesion of platelets, which triggers the clotting process.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-17. Atherosclerosis. These light micrographs contrast a cross section of (a) a normal artery with (b) an artery partially closed by an atherosclerotic plaque. Plaques consist mostly of fibrous connective tissue and smooth muscle cells infiltrated with lipids.
+
+As atherosclerosis progresses, arteries become more and more clogged and the threat of heart attack or stroke becomes much greater. Sometimes there are warnings. For example, if a coronary artery is partially blocked by atherosclerosis, a person may feel occasional chest pains, a condition known as angina pectoris. The pain is a signal that part of the heart is not receiving a sufficient supply of oxygen, and it is most likely to occur when the heart is laboring hard because of physical or emotional stress. Unfortunately, many people with atherosclerosis are completely unaware of their disease until catastrophe strikes.
+
+Hypertension (high blood pressure) promotes atherosclerosis and increases the risk of heart attack and stroke. Atherosclerosis tends to increase blood pressure by narrowing the bore of the vessels and reducing their elasticity. According to one hypothesis, high blood pressure causes chronic damage to the endothelium that lines arteries, promoting plaque formation. Fortunately, hypertension is simple to diagnose and can usually be controlled by diet, exercise, medication, or a combination of these. A diastolic pressure above 90 may be cause for concern, and living with extreme hypertension--say, 200/120--is courting disaster.
+
+To some extent, the tendency to develop hypertension and atherosclerosis is inherited. Nongenetic factors that have been correlated with increased risk of cardiovascular disease include smoking, lack of exercise, a diet rich in animal fat, and an abnormally high concentration of cholesterol in the blood. Cholesterol travels in the blood plasma mainly in the form of particles made up of thousands of cholesterol molecules and other lipids bound to a protein. One form of these particles called low-density lipoproteins (LDLs), the so-called "bad cholesterol," is associated with the depositing of cholesterol in arterial plaques. Another form, called high-density lipoproteins (HDLs), the so-called "good cholesterol," may reduce cholesterol deposition. Exercise tends to increase HDL concentration, while smoking has the opposite effect on the LDL-to-HDL ratio.
+
+
+
+
+
+ Gas exchange supplies oxygen for cellular respiration and disposes of carbon dioxide: an overview
+
+For the rest of this chapter we focus on gas exchange. This process is often called respiration, but it should not be confused with the energy transformations of cellular respiration. Gas exchange is the uptake of molecular oxygen (O2) from the environment and the discharge of carbon dioxide (CO2) to the environment (FIGURE 42.18). These exchanges are necessary to support the production of ATP in cellular respiration, and usually involve both the respiratory system and the circulatory system.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-18. The role of gas exchange in bioenergetics.
+
+The source of oxygen, called the respiratory medium, is air for terrestrial animals and water for aquatic animals. The atmosphere is Earth's main reservoir of molecular oxygen and is about 21%  O2 (by volume). Oceans, lakes, and other bodies of water contain oxygen in dissolved form. The amount of O2 dissolved in a given volume of water varies considerably, but is always much less than is present in an equivalent volume of air.
+
+The part of an animal where gases are exchanged with the environment is called the respiratory surface. Animals do not actively transport O2 and CO2 across membranes, so movement of these gases between the respiratory surface and the environment is entirely by diffusion. The rate of diffusion is proportional to the surface area across which diffusion occurs, and inversely proportional to the square of the distance through which molecules must move. Therefore, respiratory surfaces tend to be thin and have large areas, structural adaptations that maximize the rate of gas exchange. Moreover, all living cells must be bathed in water to maintain their plasma membranes. Thus, the respiratory surfaces of terrestrial as well as aquatic animals are moist, and O2 and CO2 diffuse across them after first dissolving in water.
+
+The respiratory surface must supply O2 and expel CO2 for the entire body, and a variety of solutions to the problem of providing a large enough surface have evolved. The structure of a respiratory surface depends mainly on the size of the organism and whether it lives in water or on land, but is also influenced by metabolic demands for gas exchange. Thus, an endotherm has a larger area of respiratory surface than a similar-sized ectotherm.
+
+Gas exchange occurs over the entire surface area of protists and other unicellular organisms. Similarly, for some relatively simple animals, such as sponges, cnidarians, and flatworms, the plasma membrane of every cell in the body is close enough to the outside environment for gases to diffuse in and out. In many animals, however, the bulk of the body does not have direct access to the respiratory medium, and the respiratory surface is a thin, moist epithelium separating the respiratory medium from the blood or capillaries, which transport gases to and from the rest of the body (see FIGURE 42.18).
+
+Some animals use their entire outer skin as a respiratory organ. An earthworm, for example, has moist skin and exchanges gases by diffusion across its general body surface. Just below the skin is a dense net of capillaries. Because the respiratory surface must be moist, earthworms and many other skin-breathers, including some amphibians, must live in water or damp places.
+
+Animals that use their moist skin as their only respiratory organ are usually small and are either long and thin or flat in shape, with a high ratio of surface area to volume. For most other animals, the general body surface lacks sufficient area to exchange gases for the whole body. The solution is a respiratory organ that is extensively folded or branched, thereby enlarging the available surface area for gas exchange. Gills, tracheae, and lungs are the three most common respiratory organs.
+
+
+
+
+
+ Gills are respiratory adaptations of most aquatic animals
+
+Gills are outfoldings of the body surface that are suspended in the water. In some invertebrates, such as sea stars, the gills have a simple shape and are distributed over much of the body (FIGURE 42.19a). Many segmented worms have flaplike gills that extend from each segment of the body, or long feathery gills clustered at the head or tail (FIGURE 42.19b). The gills of clams, crayfish, and many other animals are restricted to a local body region (FIGURES 42.19c and d). The total surface area of the gills is often much greater than that of the rest of the body.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-19. Diversity in the structure of gills, external body surfaces functioning in gas exchange. (a) The gills of a sea star are simple tubular projections of the skin. The hollow core of each gill is an extension of the coelom (body cavity). Gas exchange occurs by diffusion across the gill surfaces, and fluid in the coelom circulates in and out of the gills, aiding gas transport. The surfaces of a sea star's tube feet also function in gas exchange. (b) Many polychaetes, marine worms of the phylum Annelida, have a pair of flattened appendages called parapodia on each body segment. The parapodia serve as gills and also function in crawling and swimming. (c) The gills of a clam are long, flattened plates projecting downward from the main body mass inside the hard shell. Cilia on the gills circulate water around the gill surfaces. (d) Crayfish and other crustaceans have long, feathery gills covered by the exoskeleton. Specialized body appendages drive water over the gill surfaces.
+
+As a respiratory medium, water has both advantages and disadvantages. There is no problem keeping the cell membranes of the respiratory surface moist, since the gills are surrounded by the aqueous environment. However, O2 concentrations in water are low; and the warmer and saltier the water, the less dissolved oxygen it can hold (water in many marine and freshwater habitats contains only 4-8 mL of dissolved O2 per liter). Thus, gills must be very effective to obtain enough oxygen. One process that helps is ventilation, which increases the flow of the respiratory medium over the respiratory surface. Without ventilation, a region of low O2 and high CO2 concentrations can form around the gill as it exchanges gas with the water. Crayfish and lobsters have paddlelike appendages that drive a current of water over the gills. Fish gills are ventilated by a current of water that enters the mouth, passes through slits in the pharynx, flows over the gills, and then exits the body (FIGURE 42.20). Because water is dense and contains little oxygen per unit of volume, most fish must expend considerable energy in ventilating their gills.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-20. The structure and function of fish gills. Fish continuously pump water through the mouth and over the gill arches, using coordinated movements of the jaws and operculum (gill cover) for this ventilation. (Swimming fish can simply open their mouths and let water flow past the gills.) Each gill arch has two rows of gill filaments, composed of flattened plates called lamellae. Blood flowing through capillaries within the lamellae picks up oxygen from the water. Notice that water flows over the lamellae in a direction opposite to the blood flow, an arrangement called a countercurrent, which enhances oxygen transfer (see FIGURE 42.21).
+
+The arrangement of capillaries in a fish gill enhances gas exchange and reduces the energy cost of ventilation. Blood flows in the opposite direction to the movement of water past the gills. This makes it possible for oxygen to be transferred to the blood by a very efficient process called countercurrent exchange (FIGURES 42.20 and 42.21). As blood moves through a gill capillary, it becomes more and more loaded with oxygen, but it simultaneously encounters water with ever higher oxygen concentrations because the water is just beginning its passage over the gills. This means that along the entire length of the capillary, there is a diffusion gradient favoring the transfer of oxygen from water to blood. The countercurrent exchange mechanism is so efficient that the gills can remove more than 80%  of the oxygen dissolved in the water passing over the respiratory surface. The basic mechanism of countercurrent exchange is also important in temperature regulation and several other physiological processes, as we will see in Chapter 44.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-21. Countercurrent exchange. The arrangement of blood vessels in fish gills is an adaptation that maximizes oxygen transfer from the water to the blood. The countercurrent flow of water and blood maintains a concentration gradient down which O2 diffuses from the water into the blood over the whole length of a capillary. As the blood flows through a lamellar capillary, it becomes more and more loaded with oxygen because it continuously passes by water that is more and more concentrated in O2.
+
+Gills are generally unsuitable for an animal living on land. An expansive surface of wet membrane exposed to air would lose too much water by evaporation, and the gills would collapse as their fine filaments, no longer supported by water, would cling together. Most terrestrial animals have their respiratory surfaces within the body, opening to the atmosphere through narrow tubes.
+
+
+
+
+
+ Tracheal systems and lungs are respiratory adaptations of terrestrial animals
+
+As a respiratory medium, air has many advantages over water, including a much higher concentration of oxygen (about 210 mL O2 per liter of air). Also, since O2 and CO2 diffuse much faster in air than in water, respiratory surfaces exposed to air do not have to be ventilated as thoroughly as gills. As the respiratory surface removes O2 from the air and expels CO2, diffusion rapidly brings more oxygen to the respiratory surface and carries the CO2 away. When a terrestrial animal does ventilate, less energy is needed because air is far lighter and much easier to pump than water and because much less volume needs to be breathed to obtain an equal amount of O2. But along with these advantages comes a problem: The respiratory surface, which must be large and moist, continuously loses water to the air by evaporation. The problem is greatly reduced by a respiratory surface folded into the body.
+
+Tracheal Systems
+
+The tracheal system of insects, made up of air tubes that branch throughout the body, is one variation on the theme of a folded internal respiratory surface. The largest tubes, called tracheae, open to the outside. The finest branches extend to the surface of nearly every cell, where gas is exchanged by diffusion across the moist epithelium that lines the terminal ends of the tracheal system (FIGURE 42.22). With virtually all body cells within a very short distance of the respiratory medium, the open circulatory system of insects is not involved in transporting oxygen and carbon dioxide.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-22. Tracheal systems. (a) The respiratory system of an insect consists of branched internal tubes that deliver air directly to body cells. Rings of chitin reinforce the largest tubes, called tracheae, keeping them from collapsing. Enlarged portions of tracheae form air sacs near organs that require a large supply of oxygen. Air enters the tracheae through openings called spiracles on the insect's body surface and passes into smaller tubes called tracheoles. The tracheoles terminate on the plasma membranes of individual cells. The tiny tips of the tracheoles are closed and contain fluid (dark blue). When the animal is active and is using more O2, most of the fluid is withdrawn into the body. This increases the surface area of air in contact with cells. (b) This micrograph shows cross sections of tracheoles in a tiny piece of insect flight muscle (TEM). Each of the numerous mitochondria in the muscle cells lies within about 5 mm of one or more tracheoles.
+
+For a small insect, diffusion through the trachea brings in enough O2 and removes enough CO2 to support cellular respiration. Larger insects with higher energy demands ventilate their tracheal systems with rhythmic body movements that compress and expand the air tubes like bellows. An insect in flight has a very high metabolic rate, consuming 10 to 200 times more O2 than it does at rest. In many flying insects, alternating contraction and relaxation of the flight muscles compress and expand the body, rapidly pumping air through the tracheal system. The flight muscle cells are packed with mitochondria that support the high metabolic rate, and the tracheal tubes supply each of these ATP-generating organelles with ample oxygen (FIGURE 42.22b). Thus, we see a direct relationship between adaptations of tracheal systems and the theme of bioenergetics.
+
+Lungs
+
+Unlike tracheal systems that branch throughout the insect body, lungs are restricted to one location. Because the respiratory surface of a lung is not in direct contact with all other parts of the body, the gap must be bridged by the circulatory system, which transports gases between the lungs and the rest of the body. Lungs have a dense net of capillaries just under the epithelium that forms the respiratory surface. Lungs have evolved in spiders, terrestrial snails, and vertebrates.
+
+Among the vertebrates, amphibians have relatively small lungs that do not provide a large surface (many lack lungs altogether), and rely heavily on diffusion across other body surfaces for gas exchange. The skin of frogs, for example, supplements gas exchange in the lungs. In contrast, most reptiles and all birds and mammals rely entirely on lungs for gas exchange. Turtles are an exception; they supplement lung breathing with gas exchange across moist epithelial surfaces in their mouth and anus. Lungs and air-breathing have evolved in a few fish species (lungfishes) as adaptations to living in oxygen-poor water or to spending part of their time exposed to air (for example, when the water level of a pond recedes).
+
+In general, the size and complexity of lungs are correlated with an animal's metabolic rate (and hence rate of gas exchange). For example, the lungs of endotherms have a greater area of exchange surface than the lungs of similar-sized ectotherms.
+
+Mammalian Respiratory Systems: A Closer Look
+
+Located in the thoracic (chest) cavity, the lungs of mammals have a spongy texture and are honeycombed with a moist epithelium that functions as the respiratory surface. A system of branching ducts conveys air to the lungs (FIGURE 42.23). Air enters through the nostrils and is then filtered by hairs, warmed, humidified, and sampled for odors as it flows through a maze of spaces in the nasal cavity. The nasal cavity leads to the pharynx, an intersection where the paths for air and food cross. When food is swallowed, the larynx (the upper part of the respiratory tract) moves upward and tips the epiglottis over the glottis (the opening of the windpipe). This allows food to go down the esophagus to the stomach (see FIGURE 41.14). The rest of the time, the glottis is open, and we can breathe.
+
+a.
+
+c.
+
+Click image to enlarge
+
+
+
+Fig 42-23. The mammalian respiratory system. (a) From the nasal cavity and pharynx, inhaled air passes through the larynx and down the trachea and bronchi to the tiniest bronchioles, which end in lobed, microscopic air sacs called alveoli. (b) A thin, moist epithelium lining the inner surfaces of the alveoli is the respiratory surface. Branches of the pulmonary artery (see FIGURE 42.4) convey oxygen-poor blood to the alveoli, while branches of the pulmonary vein transport oxygen-rich blood from the alveoli back to the heart. (c) The left micrograph (SEM) shows the dense capillary bed that envelops the alveoli. The right micrograph (colorized SEM) is a cutaway view of alveoli, showing the air spaces.
+
+The wall of the larynx is reinforced with cartilage. In most mammals, the larynx is adapted as a voicebox. When air is exhaled, it rushes by a pair of vocal cords in the larynx, and sounds are produced when voluntary muscles in the voicebox are tensed, stretching the cords so they vibrate. High-pitched sounds result when the cords are stretched tight and vibrate rapidly; low-pitched sounds come from less tense cords vibrating slowly.
+
+From the larynx, air passes into the trachea, or windpipe. Rings of cartilage (actually shaped like the letter C) maintain the shape of the trachea. The trachea forks into two bronchi (singular, bronchus), one leading to each lung. Within the lung, the bronchus branches repeatedly into finer and finer tubes called bronchioles. The entire system of air ducts has the appearance of an inverted tree, the trunk being the trachea. The epithelium lining the major branches of this respiratory tree is covered by cilia and a thin film of mucus. The mucus traps dust, pollen, and other particulate contaminants, and the beating cilia move the mucus upward to the pharynx, where it can be swallowed into the esophagus. This process helps cleanse the respiratory system.
+
+At their tips, the tiniest bronchioles dead-end as a cluster of air sacs called alveoli (singular, alveolus; FIGURE 42.23b). Gas exchange occurs across the thin epithelium of the lung's millions of alveoli, which have a total surface area of about 100 m2 in humans, sufficient to carry out gas exchange for the entire body. Oxygen in the air entering the alveoli dissolves in the moist film and rapidly diffuses across the epithelium into a web of capillaries that surrounds each alveolus. Carbon dioxide diffuses in the opposite direction, from the capillaries across the epithelium of the alveolus, and into the air space (FIGURE 42.23c).
+
+Ventilating the Lungs
+
+Like fish, terrestrial vertebrates rely on ventilation to maintain high oxygen and low carbon dioxide concentrations at the gas exchange surface. The process that ventilates lungs is breathing, the alternate inhalation and exhalation of air.
+
+A frog ventilates its lungs by positive pressure breathing. During a breathing cycle, muscles lower the floor of the oral cavity, enlarging it and drawing in air through the nostrils. Then, with the nostrils and mouth closed, the floor of the oral cavity rises and air is forced down the trachea. Elastic recoil of the lungs, together with compression by the muscular body wall, forces air back out of the lungs during exhalation.
+
+In contrast to how a frog breathes, mammals ventilate their lungs by negative pressure breathing, which works like a suction pump, pulling air instead of pushing it into the lungs (FIGURE 42.24). Muscle action changes the volume of the rib cage and the chest cavity, and the lungs follow suit. This occurs because the lungs are enclosed by a double-walled sac. The inner layer of the sac adheres to the outside of the lungs, and the outer layer adheres to the wall of the chest cavity. A thin space filled with fluid separates the two layers. Because of surface tension, the two layers behave like two plates of glass stuck together by a film of water. The layers can slide smoothly past each other, but they cannot be pulled apart easily. Surface tension couples movement of the lungs to movement of the rib cage.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-24. Negative pressure breathing. A mammal breathes by changing the air pressure within its lungs relative to the pressure of the outside atmosphere. During inhalation, the rib muscles and diaphragm contract. The volume of the thoracic cavity and lungs increases as the diaphragm moves down and the rib cage expands. Air pressure in the lungs falls below that of the atmosphere, and air rushes into the lungs. Exhalation occurs when the rib muscles and diaphragm relax, restoring the thoracic cavity to its smaller volume.
+
+Lung volume increases as a result of contraction of the rib muscles and the diaphragm, a sheet of skeletal muscle that forms the bottom wall of the chest cavity. Contraction of the rib muscles expands the rib cage by pulling the ribs upward and the breastbone outward. At the same time, the chest cavity expands as the diaphragm contracts and descends like a piston. All these changes increase the lung volume, and as a result, air pressure within the alveoli becomes lower than atmospheric pressure. Because gas flows from a region of higher pressure to a region of lower pressure, air rushes through the nostrils and down the breathing tubes to the alveoli. During exhalation, the rib muscles and diaphragm relax, lung volume is reduced, and the increase in air pressure within the alveoli forces air up the breathing tubes and out through the nostrils (see FIGURE 42.24).
+
+Actions of the rib muscles and diaphragm accounts for changes in lung volume during shallow breathing, when a mammal is at rest. During vigorous exercise, other muscles of the neck, back, and chest further increase ventilation volume by raising the rib cage even more. In some species, the rhythmic movements during running cause visceral organs, including the stomach and liver, to slide forward and backward in the body cavity with each stride. This "visceral pump" further increases ventilation volume by adding to the piston-like action of the diaphragm.
+
+The volume of air an animal inhales and exhales with each breath is called tidal volume. It averages about 500 mL in resting humans. The maximum tidal volume during forced breathing is the vital capacity, which is about 3.4 L and 4.8 L for college-age females and males, respectively. The lungs hold more air than the vital capacity, but since it is impossible to completely collapse the alveoli, a residual volume of air remains in the lungs even after we forcefully exhale as much as we can. As lungs lose their resilience as a result of aging or disease (such as emphysema), residual volume increases at the expense of vital capacity. Since the lungs do not completely empty and refill with each breath cycle, newly inhaled air is mixed with oxygen-depleted residual air, and the maximum oxygen concentration in alveoli is considerably less than in the atmosphere. This limits the effectiveness of gas exchange.
+
+Ventilation is much more complex in birds than in mammals. Besides lungs, birds have eight or nine air sacs that penetrate the abdomen, neck, and even the wings. The air sacs do not function directly in gas exchange, but act as bellows that keep air flowing through the lungs (FIGURE 42.25). They may also reduce the density of the bird, an adaptation for flight (see Chapter 34). The entire system--lungs and air sacs--is ventilated when the bird breathes. Air flows through the interconnected system in a circuit that passes through the lungs in one direction only, regardless of whether the bird is inhaling or exhaling. Instead of alveoli, which are dead ends, the sites of gas exchange in bird lungs are tiny channels called parabronchi, through which air flows in one direction.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-25. The avian respiratory system. Contraction and relaxation of the air sacs ventilates the lungs, forcing air in one direction (magenta arrows) through tiny parallel tubes in the lungs called parabronchi (inset, SEM). Gas exchange occurs across the walls of the parabronchi. During inhalation, both sets of air sacs expand. The posterior sacs fill with fresh air (blue) from the outside, while the anterior sacs fill with stale air (gray) from the lungs. During exhalation, both sets of air sacs deflate, forcing air from the posterior sacs into the lungs, and air from the anterior sacs out of the system via the trachea. Two cycles of inhalation and exhalation are required for the air to pass all the way through the system and out of the bird.
+
+This system completely exchanges the air in the lungs with every breath, so maximum lung oxygen concentrations are higher in birds than in mammals. Partly because of this advantage, birds perform much better than mammals at high altitude. For example, human mountaineers experience tremendous difficulty obtaining enough oxygen when climbing the Earth's highest peaks, such as Mt. Everest in the Himalayas (8,848 m)--but several species of birds (notably the bar-headed goose) easily fly over the same mountains at altitudes of 9,000 m or more during migration.
+
+
+
+
+
+ Control centers in the brain regulate the rate and depth of breathing
+
+We can hold our breath voluntarily for a short while or consciously breathe faster and deeper, but most of the time automatic mechanisms regulate our breathing. This ensures that the work of the respiratory system is coordinated with that of the cardiovascular system, and with the body's metabolic demands for gas exchange.
+
+Our breathing control centers are located in two regions of the brain, the medulla oblongata and the pons (FIGURE 42.26). Aided by the control center in the pons, the medulla's center sets the basic breathing rhythm. When we take deep breaths, a negative-feedback mechanism prevents our lungs from overexpanding; stretch sensors in the lung tissue send nerve impulses back to the medulla, inhibiting its breathing control center.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-26. Automatic control of breathing.
+
+The medulla's control center monitors the CO2 level of the blood and regulates breathing activity appropriately. Its main cues about CO2 concentration come from slight changes in the pH of the blood and tissue fluid (cerebrospinal fluid) bathing the brain. Carbon dioxide reacts with water to form carbonic acid, which lowers the pH. When the medulla's control center registers a slight drop in pH (increase in CO2) of the cerebrospinal fluid or blood, it increases the depth and rate of breathing, and the excess CO2 is eliminated in exhaled air. This occurs when we exercise.
+
+Oxygen concentrations in the blood usually have little effect on the breathing control centers. However, when the O2 level is severely depressed--at high altitudes, for instance, O2 sensors in the aorta and carotid arteries in the neck send alarm signals to the breathing control centers, which respond by increasing the breathing rate. Normally, a rise in CO2 concentration is a good indication of a fall in O2 concentration, because CO2 is produced by the same process that consumes O2--cellular respiration. However, it is possible to trick the breathing center by hyperventilating. Excessively deep, rapid breathing purges the blood of so much CO2 that the breathing center temporarily ceases to send impulses to the rib muscles and diaphragm. Breathing stops until CO2 levels increase (or O2 levels decrease) enough to switch the breathing center back on.
+
+The breathing center responds to a variety of nervous and chemical signals and adjusts the rate and depth of breathing to meet the changing demands of the body. However, breathing control is only effective if it is coordinated with control of the circulatory system, so that there is a good match between lung ventilation and the amount of blood flowing through alveolar capillaries. During exercise, for instance, increased cardiac output is matched to the increased breathing rate, which enhances O2 uptake and CO2 removal as blood flows through the lungs.
+
+
+
+
+
+ Gases diffuse down pressure gradients in the lungs and other organs
+
+For a gas, whether present in air or dissolved in water, diffusion depends on differences in a quantity called partial pressure. At sea level, the atmosphere exerts a total pressure of 760 mm Hg. This is a downward force equal to that exerted by a column of mercury 760 mm high. Since the atmosphere is 21%  oxygen (by volume), the partial pressure of oxygen (abbreviated PO2) is 0.21 &#160;X&#160; 760, or about 160 mm Hg. This is the portion of atmospheric pressure contributed by oxygen; hence the term partial pressure. The partial pressure of carbon dioxide (PCO2) at sea level is only 0.23 mm Hg. When water is exposed to air, the amount of a gas that dissolves in the water is proportional to its partial pressure in the air and its solubility in water. An equilibrium is eventually reached when gas molecules enter and leave the solution at the same rate. At this point, the gas is said to have the same partial pressure in solution as it does in the air. Thus, in a glass of water exposed to air at sea-level air pressure, the PO2 is 160 mm Hg, and the PCO2 is 0.23 mm Hg.
+
+A gas will always diffuse from a region of higher partial pressure. Blood arriving at the lungs via the pulmonary arteries has a lower PO2 and a higher PCO2 than the air in the alveoli (FIGURE 42.27). As blood enters the alveolar capillaries, carbon dioxide diffuses from the blood to the air within the alveoli. Meanwhile, oxygen in the air dissolves in the fluid that coats the epithelium and diffuses across the surface and into the blood. By the time the blood leaves the lungs in the pulmonary veins, its PO2 has been raised and its PCO2 has been lowered. After returning to the heart, this blood is pumped through the systemic circuit. In the tissue capillaries, gradients of partial pressure favor the diffusion of oxygen out of the blood and carbon dioxide into the blood. This is because cellular respiration removes oxygen from and adds carbon dioxide to the interstitial fluid (again, by diffusion, from mitochondria in nearby cells). After the blood unloads oxygen and loads carbon dioxide, it is returned to the heart and pumped to the lungs again, where it exchanges gases with air in the alveoli.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-27. Loading and unloading of respiratory gases. The colored bars indicate the partial pressures of O2 (PO2) and CO2 (PCO2) (in mm Hg) in different locations. At each location, the respiratory gases diffuse down their partial pressure gradients.
+
+
+
+
+
+ Respiratory pigments transport gases and help buffer the blood
+
+Oxygen Transport
+
+The low solubility of oxygen in water is a fundamental problem for animals that rely on the circulatory system for oxygen delivery. Consider the situation a human would face if all oxygen had to be delivered in solution in the blood. During intense exercise a person can consume almost 2 L of oxygen per minute, and all of it must be carried in the circulation from the lungs to the active tissues. At normal body temperature and air pressure, only 4.5 mL of O2 can dissolve into a liter of blood in the lungs. If 80%  of the dissolved oxygen were delivered to the tissues (an unrealistically high percentage), the heart would need to pump 500 L of blood per minute--a ton every 2 minutes! That level of cardiac output is clearly unrealistic. In fact, most animals transport most of their oxygen bound to special proteins called respiratory pigments instead of dissolved in solution. Respiratory pigments circulate with the blood, often contained within specialized cells. The pigments greatly increase the amount of oxygen that can be carried in blood (to about 200 mL of O2 per liter in mammalian blood), and therefore greatly reduce the cardiac output necessary for oxygen transport to a manageable 20-25 L of blood per minute in our example of an exercising human.
+
+Most animals would be unable to support their normal energy metabolism without respiratory pigments, and a diversity of these proteins have evolved in various animal taxa. One example, hemocyanin, found in the hemolymph of arthropods and many mollusks, has copper as its oxygen-binding component, coloring the blood bluish. The respiratory pigment of almost all vertebrates is the protein hemoglobin, contained in red blood cells. Hemoglobin consists of four subunits, each with a cofactor called a heme group that has an iron atom at its center. It is the iron that actually binds O2; thus, each hemoglobin molecule can carry four molecules of O2 (see FIGURE 5.23b). Like all respiratory pigments, hemoglobin must bind oxygen reversibly, loading oxygen in the lungs or gills and unloading it in other parts of the body. Loading and unloading depends on cooperation among the subunits of the hemoglobin molecule. (See Chapter 6 to review the concept of cooperativity in allosteric proteins.) The binding of oxygen to one subunit induces the remaining subunits to change their shape slightly so that their affinity for oxygen increases. And when one subunit unloads its oxygen, the other three quickly follow suit as a conformational change lowers their affinity for oxygen.
+
+Cooperative oxygen binding and release is evident in the dissociation curve for hemoglobin (FIGURE 42.28). Over the range of oxygen partial pressures (PO2) where the dissociation curve has a steep slope, even a slight change in PO2 causes hemoglobin to load or unload a substantial amount of oxygen. Notice that the steep part of the curve corresponds to the range of oxygen partial pressures found in body tissues. When cells in a particular location begin working harder--during exercise, for instance--PO2 dips in their vicinity as the O2 is consumed in cellular respiration. Because of the effect of subunit cooperativity, a slight drop in PO2 is enough to cause a relatively large increase in the amount of oxygen the blood unloads.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-28. Oxygen dissociation curves for hemoglobin.
+
+As with all proteins, hemoglobin's conformation is sensitive to a variety of factors. For example, a drop in pH lowers the affinity of hemoglobin for O2, an effect called the Bohr shift (FIGURE 42.28b). Because CO2 reacts with water to form carbonic acid, an active tissue will lower the pH of its surroundings and induce hemoglobin to release more oxygen, which can be used for cellular respiration.
+
+Carbon Dioxide Transport
+
+In addition to its role in oxygen transport, hemoglobin also helps transport carbon dioxide (FIGURE 42.29, p. 896) and assists in buffering--that is, preventing harmful changes in blood pH. Only about 7%  of the CO2 released by respiring cells is transported in solution in blood plasma. Another 23%  binds to the multiple amino groups of hemoglobin, and about 70%  is transported in the blood in the form of bicarbonate ions. Carbon dioxide from respiring cells diffuses into the blood plasma and then into the red blood cells, where it is converted to bicarbonate. Carbon dioxide first reacts with water (assisted by the enzyme carbonic anhydrase) to form carbonic acid, which then dissociates into a hydrogen ion and a bicarbonate ion. Most of the hydrogen ions attach to various sites on hemoglobin and other proteins and therefore do not change the pH of blood. The bicarbonate ions diffuse into the plasma. As blood flows through the lungs, the process is rapidly reversed as diffusion of CO2 out of the blood shifts the chemical equilibrium in favor of the conversion of bicarbonate to CO2.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-29. Carbon dioxide transport in the blood.
+
+
+
+
+
+ Deep-diving air-breathers stockpile oxygen and deplete it slowly
+
+The majority of animals can exchange gases continuously, but sometimes there is no access to the normal respiratory medium--for example, when an air-breather swims underwater. Most humans, even well-trained divers, can only hold their breath for 2 or 3 minutes and swim to depths of 20 m or so, but the Weddell seal shown in FIGURE 42.30 routinely plunges to 200-500 m and remains there for about 20 minutes (sometimes for more than an hour). Large penguins can dive to similar depths, and some species of seals, sea turtles, and whales make even more impressive dives. Elephant seals can reach depths of 1,500 m--almost a mile--and stay submerged for as much as two hours! One elephant seal carrying a recording device spent 40 days at sea diving almost continuously, with no surface period longer than 6 minutes. What physiological adaptations allow these air-breathers to perform so well underwater?
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-30. The Weddell seal, Leptonychotes weddelli, a deep-diving mammal. Adaptations of the circulatory and respiratory systems enable this Antarctic seal to travel underwater for more than an hour.
+
+One adaptation of the Weddell seal (and other divers) is an ability to store large amounts of oxygen. Compared to humans, the seal can store about twice as much oxygen per kilogram of body weight, mostly in the blood and muscles. About 36%  of our total oxygen is in our lungs, and 51%  is in our blood. In contrast, the Weddell seal holds only about 5%  of its oxygen in its relatively small lungs (and may exhale before diving to reduce buoyancy), stockpiling 70%  in the blood. The seal has about twice the volume of blood per kilogram of body weight as a human. Another adaptation is the seal's huge spleen, which can store about 24 L of blood. The spleen probably contracts after a dive begins, fortifying the blood with red blood cells loaded with oxygen. Diving mammals also have a high concentration of an oxygen-storing protein called myoglobin in their muscles. The Weddell seal can store about 25%  of its oxygen in muscle, compared to only 13%  in humans.
+
+Diving vertebrates not only begin an underwater trip with a relatively large O2 stockpile, they also have adaptations that conserve oxygen. They swim with little muscular effort and often use buoyancy changes to glide passively upward or downward. Their heart rate and O2 consumption rate decrease during a dive, and regulatory mechanisms affecting peripheral resistance route most blood to the brain, spinal cord, eyes, adrenal glands, and placenta (in pregnant seals). Blood supply to the muscles is restricted, and is shut off altogether during the longest dives. During dives of more than about 20 minutes, a Weddell seal's muscles deplete the oxygen stored in myoglobin and then derive their ATP from fermentation instead of respiration (see Chapter 9).
+
+The unusual abilities of the Weddell seal and other air-breathing divers to power their bodies during long dives showcase a central theme in our study of organisms--the response to environmental pressures over the short term by physiological adjustments and over the long term by natural selection.
+
+We have seen throughout this chapter that the circulatory and respiratory systems cooperate extensively. The main function of the respiratory system--to supply O2 and dispose of CO2 in support of cellular bioenergetics--depends on the transport work of the circulatory system. Still another activity of the body that depends on the circulatory system is defense against disease, which we will examine in the next chapter.
+
+
+
+

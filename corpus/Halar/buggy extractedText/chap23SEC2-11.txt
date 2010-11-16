@@ -1,0 +1,22 @@
+
+ Natural selection maintains sexual reproduction
+
+Sex is an evolutionary enigma. It is far inferior to asexual reproduction as measured by reproductive output. Consider, for example, a population of insects in which half the females reproduce only sexually and half reproduce only asexually. Even if both types of females produced the same number of offspring each generation, the asexual condition would increase in frequency because all of the females' offspring would be daughters that would themselves produce more reproductive daughters. In contrast, half of the offspring of the sexual females would be males, which would be required for reproduction but would themselves produce no offspring. FIGURE 23.15(p. 460) diagrams this "twofold disadvantage" of sex.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-15. The two-fold disadvantage of sex. These diagrams contrast the reproductive output of females (blue circles) over four generations for asexual versus sexual reproduction. In the sexual version, males, which do not produce offspring, are symbolized by the white circles. (The diagrams assume two offspring per female.)
+
+Clearly, sex confers some benefit in addition to reproduction; otherwise, sexual individuals would soon be outcompeted in a population whenever asexual individuals appeared by mutation or migration. That is, were it not for some sexual bonus in Darwinian fitness, natural selection would act against alleles associated with sexual reproduction in favor of alleles that enable individuals to reproduce asexually. In fact, sex is maintained in the vast majority of eukaryotic species, even in those that can also reproduce asexually.
+
+The "textbook" explanation for the advantage of sex is that the processes of meiosis and fertilization generate the genetic variation upon which natural selection can act as the agent of adaptation. (For this textbook's explanation, see Chapter 13.) But the notion that natural selection sustains sex in spite of its reproductive disadvantage because genetic variation enables future adaptation in an unpredictable world is an idea that is difficult to defend. Natural selection acts in the here and now, favoring the reproductive success of those individuals of a varying population that work best in the current, local environment. The most attractive hypotheses for how natural selection maintains sex are those that place value on genetic variation over the short term--on a generation-to-generation time scale.
+
+One such hypothesis emphasizes the importance of genetic variation in resistance to disease. As we discussed earlier, many pathogens such as viruses, bacteria, and parasites recognize and infect their specific hosts by attaching to receptor molecules on the host's cells. There should be an advantage in producing offspring that vary in their resistance to different diseases. For example, one offspring variant may have cellular markers that make it resistant to virus A, while another may be resistant to virus B. This hypothesis predicts that the diversity of alleles would be particularly extensive at those gene loci that code for the molecules on cell surfaces to which pathogens attach. And that seems to be the case. In humans, for example, there are hundreds of alleles for each of two gene loci that code for the proteins that give cell surfaces their molecular fingerprints (you'll learn more about these cellular markers in Chapter 43). Of course, because most pathogens evolve very rapidly in their ability to key on specific host receptors, resistance of a particular host genotype to a given disease is not permanent. But sex provides a mechanism for "changing the locks" and varying them among offspring. Some biologists call this coevolution in a host-parasite relationship the "Red Queen effect," referring to the Red Queen in Lewis Carroll's Through the Looking Glass, who admonished Alice that she would have to run as fast as she could to keep from going backward.
+
+
+
+

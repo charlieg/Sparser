@@ -1,0 +1,22 @@
+
+ The chemical composition of plants provides clues to their nutritional requirements
+
+Watch a large plant grow from a tiny seed, and you cannot help wondering where all the mass comes from. Aristotle thought that soil provided the substance for plant growth, because plants seemed to spring from the ground. Leaves, he believed, functioned only to shade the developing fruit. In the 17th century, a Belgian physician named Jean-Baptiste van Helmont performed an experiment to test the hypothesis that plants grow by absorbing soil. He planted a willow seedling in a pot that contained 90.9 kg of soil. After five years, the willow had grown into a tree weighing 76.8 kg, but only 0.06 kg of soil had disappeared from the pot. Van Helmont concluded that the willow had grown mainly from the water he had added regularly. A century later, Stephen Hales, an English physiologist, postulated that plants are nourished mostly by air.
+
+As it turns out, none of the early ideas about plant nutrition is entirely incorrect. Plants do extract minerals from the soil. Mineral nutrients are essential chemical elements absorbed from the soil in the form of inorganic ions. For example, plants need nitrogen, which they acquire from the soil mainly in the form of nitrate ions (NO3-). However, as we can conclude from van Helmont's data, mineral nutrients from the soil make only a small contribution to the overall mass of the plant. About 80-85%  of a herbaceous (nonwoody) plant is water, and plants grow mainly by accumulating water in the central vacuoles of their cells. Furthermore, water can truly be considered a nutrient because it supplies most of the hydrogen atoms and some of the oxygen atoms that are incorporated into organic compounds by photosynthesis (see FIGURE 10.3). However, only a small fraction of the water that enters a plant contributes atoms to organic molecules. Generally, more than 90%  of the water absorbed by plants is lost by transpiration, and most of the water retained by the plant functions as a solvent, provides most of the mass for cell elongation, and helps maintain the form of soft tissue by keeping cells turgid. By weight, the bulk of the organic material of a plant is derived not from water or soil minerals, but from the CO2 assimilated from the atmosphere (FIGURE 37.1).
+
+
+
+Click image to enlarge
+
+
+
+Fig 37-1. The uptake of nutrients by a plant: an overview. Roots absorb water and minerals from the soil, with mycorrhizae and root hairs greatly increasing surface area for absorption. Carbon dioxide, the source of carbon for photo-synthesis, diffuses into leaves from the sur-rounding air through stomata. (Plants also need O2 for cellular respiration, although the plant is a net producer of O2.) From these inorganic nutrients the plant can produce all of its own organic material.
+
+We can measure water content by comparing the weight of plant material before and after it is dried. We can then analyze the chemical composition of the dry residue. Organic substances account for about 95%  of the dry weight, with inorganic substances making up the remaining 5% . Most of the organic material is carbohydrate, including the cellulose of cell walls. Thus, carbon, oxygen, and hydrogen, the ingredients of carbohydrates, are the most abundant elements in the dry weight of a plant. Because some organic molecules contain nitrogen, sulfur, or phosphorus, these elements are also relatively abundant in plants.
+
+More than 50 chemical elements have been identified among the inorganic substances present in plants, but it is unlikely that all these elements are essential. Roots are able to absorb minerals somewhat selectively, enabling the plant to accumulate essential elements that may be present in the soil in very minute quantities. To a certain extent, however, the minerals in a plant reflect the composition of the soil in which the plant is growing. Plants growing on mine tailings, for instance, may contain gold or silver. Studying the chemical composition of plants provides clues about their nutritional requirements, but we must distinguish elements that are essential from those that are merely present in the plant.
+
+
+
+

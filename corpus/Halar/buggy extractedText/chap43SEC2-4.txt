@@ -1,0 +1,26 @@
+
+ Antigens interact with specific lymphocytes, inducing immune responses and immunological memory
+
+Although it encounters a large repertoire of B cells and T cells in the body, a microorganism interacts only with lymphocytes bearing receptors specific for its various antigenic molecules. The "selection" of a lymphocyte by one of the microbe's antigens activates the lymphocyte, stimulating it to divide and to differentiate. Eventually the lymphocyte forms two clones of cells. One clone consists of a large number of effector cells, short-lived cells that combat the same antigen. The other clone consists of memory cells, long-lived cells bearing receptors specific for the same antigen. This antigen-driven cloning of lymphocytes is called clonal selection (FIGURE 43.6). The concept of clonal selection is so fundamental to understanding immunity that it is worth restating: Each antigen, by binding to specific receptors, selectively activates a tiny fraction of cells from the body's diverse pool of lymphocytes; this relatively small number of selected cells gives rise to clones of thousands of cells, all specific for and dedicated to eliminating that antigen.
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-6. Clonal selection. The B cells and T cells in lymph nodes and other lymphatic organs collectively recognize an enormous number of antigens, but each individual cell recognizes only one type of antigen. In this diagram, a B cell is "selected" by an antigen to proliferate and differentiate into memory cells and antibody-secreting cells called plasma cells. For simplicity, we show the anti-gen as free molecules rather than as part of a microbe.
+
+The selective proliferation and differentiation of lymphocytes that occurs the first time the body is exposed to an antigen is the primary immune response. In the primary response, about 10 to 17 days are required from the initial exposure to antigen for selected lymphocytes to generate the maximum effector cell response. During this period, selected B cells and T cells generate antibody-producing effector B cells, called plasma cells, and effector T cells, respectively. While these effector cells are developing, a stricken individual may become ill. Eventually, symptoms of illness diminish and disappear as antibodies and effector T cells clear the antigen from the body. If that individual is exposed to the same antigen at some later time, the response is faster (only 2 to 7 days), of greater magnitude, and more prolonged. This is the secondary immune response. Measures of antibody concentrations in the blood serum over time show clearly the difference between primary and secondary immune responses (FIGURE 43.7). In addition to being more numerous, antibodies produced in the secondary response tend to have greater affinity for the antigen than those secreted in the primary response. The immune system's capacity to generate secondary immune responses is called immunological memory. As you have seen, an initial exposure to an antigen gives rise not only to effector cells but also to clones of long-lived T and B memory cells (see FIGURE 43.6). The memory cells are poised to proliferate and differentiate rapidly when they later contact the same antigen. The long-term protection developed after exposure to a pathogen was recognized 2,400 years ago by Thucydides of Athens, who described how those sick and dying of plague were cared for by others who had recovered, "for no one was ever attacked a second time."
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-7. Immunological memory. This experiment demonstrates that the heightened secondary response, which is due to long-lived memory cells, is specific for a particular antigen--here, antigen A.
+
+
+
+

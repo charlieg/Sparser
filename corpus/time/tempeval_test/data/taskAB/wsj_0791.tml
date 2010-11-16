@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TempEval>
+
+
+
+ WSJ891027-0104 
+ = 891027 
+ 891027-0104. 
+ Norwood May Offer
+@  To Acquire Phoenix
+@  Technologies Shares 
+ <TIMEX3 tid="t44" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ PTEC 
+ TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) 
+ WASHINGTON  
+
+   <s>Norwood Partners Limited Partnership of Boston <EVENT eid="e1" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> it may <EVENT eid="e2" class="OCCURRENCE" stem="make" aspect="NONE" tense="NONE" polarity="POS" pos="VERB">make</EVENT> a tender <EVENT eid="e4" class="OCCURRENCE" stem="offer" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">offer</EVENT> for some or all of Phoenix Technologies Ltd.'s common shares.</s> 
+
+   <s>Norwood, Mass.-based Phoenix, a once-high-flying maker of software for personal computers, has <EVENT eid="e6" class="OCCURRENCE" stem="have" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">had</EVENT> substantial <EVENT eid="e33" class="OCCURRENCE" stem="loss" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">losses</EVENT> in <TIMEX3 tid="t46" type="DURATION" value="P2Q" temporalFunction="true" functionInDocument="NONE" endPoint="t44">the past two quarters</TIMEX3>.</s> 
+<s>Its stock, which was as high as <EVENT eid="e36" class="STATE" stem="$18.75 a share" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">$18.75 a share</EVENT>, has been <EVENT eid="e7" class="OCCURRENCE" stem="trade" aspect="PERFECTIVE_PROGRESSIVE" tense="PRESENT" polarity="POS" pos="VERB">trading</EVENT> under <EVENT eid="e38" class="STATE" stem="$4 a share" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">$4 a share</EVENT> <TIMEX3 tid="t47" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">recently</TIMEX3>.</s> 
+<s><TIMEX3 tid="t48" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">Yesterday</TIMEX3> it <EVENT eid="e8" class="OCCURRENCE" stem="close" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">closed</EVENT> at <EVENT eid="e41" class="STATE" stem="$4.375 a share" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">$4.375 a share</EVENT>, up $1.125, in national over-the-counter <EVENT eid="e9" class="OCCURRENCE" stem="trading" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">trading</EVENT>.</s> 
+
+   <s>In a Securities and Exchange Commission filing, Norwood <EVENT eid="e11" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT> it's part of a group that <EVENT eid="e12" class="OCCURRENCE" stem="hold" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">holds</EVENT> 525,546 Phoenix Technologies common shares, or a 5.3% stake.</s> 
+
+   <s>Norwood has <EVENT eid="e14" class="OCCURRENCE" stem="make" aspect="PERFECTIVE" tense="PRESENT" polarity="NEG" pos="VERB">made</EVENT> "no detailed <EVENT eid="e43" class="OCCURRENCE" stem="plan" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">plans</EVENT>," but it has <EVENT eid="e16" class="OCCURRENCE" stem="engage" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">engaged</EVENT> in <EVENT eid="e17" class="OCCURRENCE" stem="talk" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">talks</EVENT> with other shareholders, the filing <EVENT eid="e20" class="REPORTING" stem="say" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">said</EVENT>.</s> 
+<s>Phoenix <EVENT eid="e21" class="I_ACTION" stem="decline" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">declined</EVENT> to <EVENT eid="e23" class="OCCURRENCE" stem="comment" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">comment</EVENT>.</s> 
+
+   <s>Norwood is <EVENT eid="e24" class="OCCURRENCE" stem="control" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">controlled</EVENT> by Daniel L. Barnett and Paul A. Reese, both officers of Boston-based Oasis Capital Management Inc., a small Boston money management firm.</s> 
+<s>Also <EVENT eid="e25" class="OCCURRENCE" stem="involve" aspect="NONE" tense="PASTPART" polarity="POS" pos="VERB">involved</EVENT> in the group is Robert F. Angelo, formerly Phoenix's senior vice president, field operations, who <EVENT eid="e29" class="OCCURRENCE" stem="leave" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">left</EVENT> Phoenix at <TIMEX3 tid="t49" type="DATE" value="1989-10" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">the beginning of October</TIMEX3>.</s> 
+<s>Mr. Angelo was <EVENT eid="e30" class="I_ACTION" stem="describe" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">described</EVENT> in the filing as a <EVENT eid="e170" class="STATE" stem="consultant" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">consultant</EVENT> to Oasis.</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" eventID="e6" relatedToTime="t46" task="A"/>
+<TLINK lid="l2" relType="UNKNOWN" eventID="e33" relatedToTime="t46" task="A"/>
+<TLINK lid="l3" relType="UNKNOWN" eventID="e9" relatedToTime="t48" task="A"/>
+<TLINK lid="l4" relType="UNKNOWN" eventID="e8" relatedToTime="t48" task="A"/>
+<TLINK lid="l5" relType="UNKNOWN" eventID="e29" relatedToTime="t49" task="A"/>
+<TLINK lid="l6" relType="UNKNOWN" eventID="e2" relatedToTime="t44" task="B"/>
+<TLINK lid="l7" relType="UNKNOWN" eventID="e4" relatedToTime="t44" task="B"/>
+<TLINK lid="l8" relType="UNKNOWN" eventID="e1" relatedToTime="t44" task="B"/>
+<TLINK lid="l9" relType="UNKNOWN" eventID="e6" relatedToTime="t44" task="B"/>
+<TLINK lid="l10" relType="UNKNOWN" eventID="e33" relatedToTime="t44" task="B"/>
+<TLINK lid="l11" relType="UNKNOWN" eventID="e9" relatedToTime="t44" task="B"/>
+<TLINK lid="l12" relType="UNKNOWN" eventID="e8" relatedToTime="t44" task="B"/>
+<TLINK lid="l13" relType="UNKNOWN" eventID="e12" relatedToTime="t44" task="B"/>
+<TLINK lid="l14" relType="UNKNOWN" eventID="e11" relatedToTime="t44" task="B"/>
+<TLINK lid="l15" relType="UNKNOWN" eventID="e43" relatedToTime="t44" task="B"/>
+<TLINK lid="l16" relType="UNKNOWN" eventID="e20" relatedToTime="t44" task="B"/>
+<TLINK lid="l17" relType="UNKNOWN" eventID="e14" relatedToTime="t44" task="B"/>
+<TLINK lid="l18" relType="UNKNOWN" eventID="e17" relatedToTime="t44" task="B"/>
+<TLINK lid="l19" relType="UNKNOWN" eventID="e21" relatedToTime="t44" task="B"/>
+<TLINK lid="l20" relType="UNKNOWN" eventID="e29" relatedToTime="t44" task="B"/>
+</TempEval>

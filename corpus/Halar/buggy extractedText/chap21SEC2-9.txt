@@ -1,0 +1,16 @@
+
+ Homeotic genes direct the identity of body parts
+
+In a normal fly, structures such as antennae, legs, and wings develop on the appropriate segments. The anatomical identity of the segments is set by master regulatory genes calledhomeotic genes.These are the genes discovered by Edward Lewis. Once the segmentation genes have staked out the fly's segments, homeotic genes specify the types of appendages and other structures that each segment will form. Mutations in homeotic genes produce flies with such strange traits as legs growing from the head in place of antennae (FIGURE 21.14). Thus, as Lewis found, homeotic mutations cause structures characteristic of a particular part of the animal to arise in the wrong place.
+
+Like many of the egg-polarity and segmentation genes preceding them in the developmental cascade, the homeotic genes encode transcription factors. These regulatory proteins control the expression of the genes responsible for specific anatomical structures. For example, a homeotic protein made in the cells of a particular thoracic segment may selectively activate genes that bring about leg development. In contrast, a homeotic protein active in a certain head segment specifies "antennae go here." A mutant version of this protein may label the segment as "thoracic" instead of "head," causing legs to develop in place of antennae. Scientists are now busy identifying the genes activated by the homeotic proteins--the genes specifying the proteins that actually build the fly structures. The following flowchart summarizes the cascade of gene activity in theDrosophilaembryo:
+
+
+
+
+
+Amazingly, many of the molecules and mechanisms revealed by research on fly pattern formation have turned out to have close counterparts throughout the animal kingdom. And nowhere are the similarities more striking than in the homeotic genes and their products.
+
+
+
+

@@ -1,0 +1,38 @@
+
+THE CONTROL OF GENE EXPRESSION
+
+ 
+
+ Each cell of a multicellular eukaryote expresses only a small fraction of its genes
+
+
+
+ 
+
+ The control of gene expression can occur at any step in the pathway from gene to functional protein: an overview
+
+
+
+ 
+
+ Chromatin modifications affect the availability of genes for transcription
+
+
+
+ 
+
+ Transcription initiation is controlled by proteins that interact with DNA and with each other
+
+
+
+ 
+
+ Post-transcriptional mechanisms play supporting roles in the control of gene expression
+
+
+
+The rearrangement of antibody genes and other processes that alter DNA sequences in somatic cells are bona fide mechanisms for regulating gene expression. They are limited, however, to particular genes in certain cells. We now examine the more general mechanisms of gene control that are used to regulate most eukaryotic genes.
+
+
+
+

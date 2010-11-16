@@ -1,0 +1,22 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER COMMON-LISP) -*-
+;;; Copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
+;;; $Id:$
+
+;;;    File: "contact"
+;;;  Module: "grammar/model/sl/ambush/
+;;; version: August 2007
+
+;; Initiated 8/1/07
+
+(in-package :sparser)
+
+;; contact left
+;; we got contact from rear
+;; can you cover the left side OF ROAD
+;; can you cover your left the left road
+
+;; return fire return fire let's keep going return fire in the direction it's coming from
+;; break contact just go keep driving through
+
+
+

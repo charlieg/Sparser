@@ -1,0 +1,28 @@
+
+ Cancer cells have escaped from cell cycle controls
+
+Cancer cells do not respond normally to the body's control mechanisms. They divide excessively and invade other tissues. If unchecked, they can kill the organism.
+
+By studying cells growing in culture, researchers have learned that cancer cells do not heed the normal signals that regulate the cell cycle. For example, as FIGURE 12.16b shows, cancer cells do not exhibit density-dependent inhibition when growing in culture; they do not stop dividing when growth factors are depleted. A logical hypothesis to explain this behavior is that cancer cells do not need growth factors in their culture medium in order to grow and divide. They may make a required growth factor themselves or have an abnormality in the signaling pathway that conveys the growth factor's signal to the cell cycle control system--or the cell cycle control system itself may be abnormal. In fact, as you will learn in Chapter 19, these are all possible explanations.
+
+There are other important differences between normal cells and cancer cells that reflect derangements of the cell cycle. If and when they stop dividing, cancer cells do so at random points in the cycle, rather than at the normal checkpoints. Moreover, in culture, cancer cells can go on dividing indefinitely if they are given a continual supply of nutrients; they are said to be "immortal." A striking example is a cell line that has been reproducing in culture since 1951. Cells of this line are called HeLa cells because their original source was from a tumor removed from a woman named Henrietta Lacks. By contrast, nearly all normal mammalian cells growing in culture divide only about 20 to 50 times before they stop dividing, age, and die. (We'll see a possible reason for this phenomenon when we discuss chromosome replication in Chapter 16.)
+
+The abnormal behavior of cancer cells can be catastrophic when it occurs in the body. The problem begins when a single cell in a tissue undergoes transformation, the process that converts a normal cell to a cancer cell. The body's immune system normally recognizes a transformed cell as an insurgent and destroys it. However, if the cell evades destruction, it may proliferate to form a tumor, a mass of abnormal cells within otherwise normal tissue. If the abnormal cells remain at the original site, the lump is called a benign tumor. Most benign tumors do not cause serious problems and can be completely removed by surgery. In contrast, a malignant tumor becomes invasive enough to impair the functions of one or more organs (FIGURE 12.17). An individual with a malignant tumor is said to have cancer.
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-17. The growth and metastasis of a malignant breast tumor. The cells of malignant (cancerous) tumors grow in an uncontrolled way and can spread to neighboring tissues and, via the circulatory system, to other parts of the body. The spread of cancer cells beyond their original site is called metastasis.
+
+The cells of malignant tumors are abnormal in many ways besides their excessive proliferation. They may have unusual numbers of chromosomes. Their metabolism may be deranged, and they cease to function in any constructive way. Also, owing to abnormal changes on the cells' surfaces, they lose their attachments to neighboring cells and the extracellular matrix and can spread into nearby tissues. Cancer cells may also separate from the original tumor, enter the blood and lymph vessels of the circulatory system, and invade other parts of the body, where they proliferate to form more tumors. This spread of cancer cells to locations distant from their original site is called metastasis (see FIGURE 12.17). If a tumor metastasizes, treatments may include high-energy radiation and chemotherapy with toxic drugs that are especially harmful to actively dividing cells.
+
+Researchers are beginning to understand how a normal cell is transformed into a cancer cell. Though the causes of cancer are diverse, cellular transformation always involves the alteration of genes that somehow influence the cell cycle control system. Our knowledge of how changes in the genome lead to the various abnormalities of cancer cells remains rudimentary, however.
+
+Perhaps the reason we have so many unanswered questions about cancer cells is that there is still so much to learn about how normal cells function. The cell, life's basic unit of structure and function, holds enough secrets to engage researchers well into the future.
+
+
+
+

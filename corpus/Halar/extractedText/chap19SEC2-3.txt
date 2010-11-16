@@ -1,0 +1,32 @@
+
+ Gene families have evolved by duplication of ancestral genes
+
+As in prokaryotes, most eukaryotic genes are present as unique sequences, with only one copy per haploid set of chromosomes. However, some genes are present in more than one copy, and others closely resemble each other in nucleotide sequence. A collection of identical or very similar genes is called a multigene family. It is likely that the members of each family evolved from a single ancestral gene. Multigene families can be thought of as repetitive DNA with very long (gene-length) repeating units. The members of a multigene family may be clustered or dispersed in the genome.
+
+Some multigene families consist of identical genes, usually clustered tandemly. Although the genes for histone proteins are a notable exception, multigene families of identical genes usually consist of genes for RNA products. An example is the family of identical genes for the three largest ribosomal RNA (rRNA) molecules (FIGURE 19.2). These rRNA molecules are encoded in a single transcription unit that is repeated tandemly hundreds to thousands of times in the genome of a multicellular eukaryote. The many copies enable cells to make the millions of ribosomes needed for active protein synthesis. The primary transcript is cleaved to yield the three rRNA molecules. These are then combined with proteins and one other kind of rRNA to form ribosomal subunits.
+
+
+
+Click image to enlarge
+
+
+
+Fig 19-2. Part of a family of identical genes for ribosomal RNA.
+
+The classic examples of multigene families of nonidentical genes are the two related families of genes that encode globins, the a and b polypeptide subunits of hemoglobin. One family, located on chromosome 16 in humans, encodes various versions of a-globin; the other, on chromosome 11, encodes versions of b-globin (FIGURE 19.3). Similarities in the sequences of the various globin genes indicate that the a-like globins and b-like globins all evolved from one common ancestral globin. The different versions of each globin subunit are expressed at different times in development, allowing hemoglobin to function effectively in the changing environment of the developing animal. In humans, for example, the embryonic and fetal forms of hemoglobin have a higher affinity for oxygen than the adult forms, ensuring the efficient transfer of oxygen from mother to developing fetus.
+
+
+
+Click image to enlarge
+
+
+
+Fig 19-3. The evolution of human a-globin and b-globin gene families. The two kinds of polypeptides that make up hemoglobin are encoded by genes belonging to two gene families, which are found as clusters on two different chromosomes. Each family consists of a group of very similar, but not identical, genes. Noncoding DNA separates the functional genes within each family cluster, including pseudogenes (green). Shown here is a hypothesis for the evolution of the modern a- and b-globin gene families from a single ancestral globin gene.
+
+How do families of genes arise from a single gene? The most likely explanation is that they arise by repeated gene duplication, which can result from errors during DNA replication and recombination. The differences among the genes in families of nonidentical genes probably arise from mutations that accumulate in the gene copies over many generations. The existence of DNA segments called pseudogenes is evidence for this process of gene duplication and mutation. Pseudogenes have sequences very similar to real genes but do not yield functional products. Presumably, over evolutionary time, random mutations have destroyed their function. The globin gene families include several pseudogenes within the stretches of noncoding DNA between the functional genes.
+
+The location of the a-globin and b-globin families on different human chromosomes, as well as the dispersion of the genes of certain other gene families, probably arose by transposition, one of the topics in the next section.
+
+
+
+

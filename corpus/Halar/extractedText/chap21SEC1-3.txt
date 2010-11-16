@@ -1,0 +1,52 @@
+
+GENETIC AND CELLULAR MECHANISMS OF PATTERN FORMATION
+
+ 
+
+ Genetic analysis ofDrosophilareveals how genes control development:an overview
+
+
+
+ 
+
+ Gradients of maternal molecules in the early embryo control axis formation
+
+
+
+ 
+
+ A cascade of gene activations sets up the segmentation pattern in Drosophila:a closer look
+
+
+
+ 
+
+ Homeotic genes direct the identity of body parts
+
+
+
+ 
+
+ Homeobox genes have been highly conserved in evolution
+
+
+
+ 
+
+ Neighboring cells instruct other cells to form particular structures: cell signaling and induction in the nematode
+
+
+
+ 
+
+ Plant development depends on cell signaling and transcriptional regulation
+
+
+
+How do cytoplasmic determinants, inductive signals, and their effects on embryonic cells contribute to morphogenesis, the shaping of the organism and its parts? We'll explore this question in the context ofpattern formation,the development of aspatial organizationin which the tissues and organs of an organism are all in their characteristic places. In the life of a plant, pattern formation occurs continually, in the apical meristems (seeFIGURE 21.2b). In animals, pattern formation is mostly limited to embryos and juveniles.
+
+Pattern formation in animals begins in the early embryo, when the animal's basic body plan--its overall three-dimensional arrangement--is established. Just as the outline of a building is laid out before construction begins, the major axes of an animal are established very early. Before specialized tissues or organs appear, the relative positions of the animal's head and tail, for example, are established. The molecular cues that control pattern formation, collectively calledpositional information,tell a cell its location relative to the body axes and to neighboring cells and determine how the cell and its progeny will respond to future molecular signals.
+
+
+
+

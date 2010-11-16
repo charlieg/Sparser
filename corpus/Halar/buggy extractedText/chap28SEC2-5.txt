@@ -1,0 +1,20 @@
+
+ The eukaryotic cell is a chimera of prokaryotic ancestors
+
+The chimera of Greek mythology was a monster that was part goat, part lion, and part serpent. The eukaryotic cell is a chimera of prokaryotic parts, its mitochondria derived from one type of bacteria, its plastids from another, and its nuclear genome from at least one other prokaryote, the cell that hosted the endosymbiotic ancestors of the organelles. Once a consensus for the endosymbiotic theory developed from an accumulation of evidence, many researchers turned their attention to a search for the closest living prokaryotic relatives of the chimeric eukaryotic cell.
+
+The Ancestors of Mitochondria and Chloroplasts
+
+Systematists assessing relationships between organisms as different as modern prokaryotes and eukaryotes must compare molecules, for there are no morphological homologies connecting species so diverse (see Chapter 25). Molecular systematists working on the origin of eukaryotes first focused on the nucleotide sequence of the RNA in the smaller of the two ribosomal subunits. The gene for this small ribosomal subunit RNA (SSU-rRNA, for short) is present in all organisms, making it a good choice for studying the deepest branching in evolutionary history (see Chapter 27). By comparing sequences of SSU-rRNA from various prokaryotes and mitochondria, researchers have determined that the closest prokaryote relatives of mitochondria are the alpha proteobacteria (see TABLE 27.3). The sequences of SSU-rRNA from the plastids of various photosynthetic eukaryotes cluster with the prokaryotes called cyanobacteria. This corroborates other evidence of a relationship between cyanobacteria and plastids, namely that cyanobacteria are the only autotrophic prokaryotes with the water-splitting, oxygenic version of photosynthesis that characterizes chloroplasts and other plastids (see Chapter 27).
+
+Of course, cyanobacteria and proteobacteria have continued to evolve as diverse prokaryotic groups since eukaryotic life began over 2 billion years ago. But somewhere, sometime, in that murky past, cyanobacteria share an ancestor common with the plastids of plants and eukaryotic algae. And proteobacteria share a common ancestor with the mitochondria of all eukaryotes; our own cells depend on the descendants of these bacteria for their ATP supply.
+
+Gene Transfer to the Nucleus
+
+While it is true that plastids and mitochondria contain DNA and the equipment for building proteins, they are not genetically self-sufficient. Some of the proteins within mitochondria and plastids are indeed encoded by the organelles' own DNA. However, the genes for other proteins in the organelles reside in the eukaryotic cell's nucleus. And still other proteins in the organelles are molecular chimeras of polypeptides made in the organelles and polypeptides imported from the cytoplasm, where they are translated from messenger RNA transcribed in the nucleus. An example is the mitochondrial ATP synthase, the protein complex that generates ATP during cellular respiration (see Chapter 9).
+
+If mitochondria and plastids are descendants of bacteria that had their own genomes, then how do we explain the modern collaboration between the genomes of the organelles and nucleus? A reasonable hypothesis is that the endosymbionts transferred some of their DNA to the host cell's genome during the evolutionary transition from a symbiotic community of prokaryotes to an integrated eukaryotic organism. This hypothesis is consistent with the observation that the transfer of DNA between modern prokaryotic species is common--by transformation, for example, when a prokaryote takes up DNA from its surroundings and incorporates it into its own genome (see Chapter 18). It is fair to say that the eukaryotic cell, though chimeric in origin, now has only one genome, mostly nuclear, but complemented by DNA that has remained in the mitochondria and plastids.
+
+
+
+

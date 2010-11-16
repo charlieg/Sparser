@@ -1,0 +1,56 @@
+
+Chapter 23: THE EVOLUTION OF POPULATIONS
+
+POPULATION GENETICS
+
+   The modern evolutionary synthesis integrated Darwinian selection and Mendelian inheritance
+
+   A population's gene pool is defined by its allele frequencies
+
+   The Hardy-Weinberg theorem describes a nonevolving population
+
+
+
+CAUSES OF MICROEVOLUTION
+
+   Microevolution is a generation-to-generation change in a population's allele frequencies
+
+   The two main causes of microevolution are genetic drift and natural selection
+
+
+
+GENETIC VARIATION, THE SUBSTRATE FOR NATURAL SELECTION
+
+   Genetic variation occurs within and between populations
+
+   Mutation and sexual recombination generate genetic variation
+
+   Diploidy and balanced polymorphism preserve variation
+
+
+
+A CLOSER LOOK AT NATURAL SELECTION AS THE MECHANISM OF ADAPTIVE EVOLUTION
+
+   Evolutionary fitness is the relative contribution an individual makes to the gene pool of the next generation
+
+   The effect of selection on a varying characteristic can be directional, diversifying, or stabilizing
+
+   Natural selection maintains sexual reproduction
+
+   Sexual selection may lead to pronounced secondary differences between the sexes
+
+   Natural selection cannot fashion perfect organisms
+
+One obstacle to understanding evolution is the common misconception that individual organisms evolve, in the Darwinian sense, during their lifetimes. In fact, natural selection does act on individuals; their characteristics affect their chances of survival and their reproductive success. But the evolutionary impact of this natural selection is only apparent in tracking how apopulation of organisms changes over time. Consider, for example, representatives from a population of marine snails (Liguus fascitus) in the photograph above. Their different patterns of coloration represent genetic variations within that population. If predators feed preferentially on snails having a particular coloration, then the proportion of individuals with that coloration probably will decline from one generation to the next because such snails will produce fewer offspring. Thus, it is the population, not its individuals, that evolves; some characteristics become more common within the overall population, while other characteristics decline. FIGURE 23.1 (p. 446) illustrates another example of this principle. Evolution on the smallest scale, or microevolution, can be defined as a change in the allele frequencies of a population (see p. 249 to review the definition of alleles). We begin our study of microevolution by tracing how biologists finally began to understand Darwin's theory of natural selection during the first half of the 20th century.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-1. Individuals are selected, but populations evolve. The bent grass (Agrostis tenuis) in the foreground is growing on the tailings of an abandoned mine in Wales. These plants tolerate concentrations of heavy metals that are toxic to other plants of the same species growing just meters away, in the pasture on the other side of the fence. Each year, many seeds land on the mine tailings, but most are unable to grow successfully there. The only plants that germinate, grow, and reproduce are those that inherited genes enabling them to tolerate metallic soil. Thus, this adaptation does not evolve by individual plants becoming more metal-tolerant during their lifetimes. We can only see the evolution of this population by observing the proportions of metal-tolerant plants in successive generations.
+
+
+
+

@@ -1,0 +1,16 @@
+
+ Cells recycle the ATP they use for work
+
+The molecule known as ATP, short for adenosine triphosphate, is the central character in bioenergetics. Recall from Chapter 6 that the triphosphate tail of ATP is the chemical equivalent of a loaded spring; the close packing of the three negatively charged phosphate groups is an unstable, energy-storing arrangement (because like charges repel each other). The chemical "spring" tends to "relax" by losing the terminal phosphate (see FIGURE 6.8). The cell taps this energy source by using enzymes to transfer phosphate groups from ATP to other compounds, which are then said to be phosphorylated. Phosphorylation primes a molecule to undergo some kind of change that performs work, and the molecule loses its phosphate group in the process (FIGURE 9.2). The price of most cellular work, then, is the conversion of ATP to ADP and inorganic phosphate (abbreviated Pi in this book), products that store less energy than ATP. To keep working, the cell must regenerate its supply of ATP from ADP and inorganic phosphate. A working muscle cell, for example, recycles its ATP at a rate of about 10 million molecules per second. To understand how cellular respiration regenerates ATP, we need to examine the fundamental chemical processes known as oxidation and reduction.
+
+
+
+Click image to enlarge
+
+
+
+Fig 9-2. A review of how ATP drives cellular work. Phosphate group transfer is the mechanism responsible for most types of cellular work. Enzymes shift a phosphate group (P) from ATP to some other molecule, and this phosphorylated molecule undergoes a change that performs work. For example, ATP drives active transport by phosphorylating certain membrane proteins: drives mechanical work by phosphorylating motor proteins, such as the ones that move organelles along cytoskeletal "tracks" in the cell; and drives chemical work by phosphorylating key reactants. The phosphorylated molecules lose the phosphate groups as work is performed, leaving ADP and inorganic phosphate (P) as products. Cellular respiration replenishes the ATP supply by powering the phosphorylation of ADP.
+
+
+
+

@@ -1,0 +1,20 @@
+
+ Many animals can learn to associate one stimulus with another
+
+Many traditional studies in behavioral science were concerned with the proximate causes of associative learning, the ability of many animals to learn to associate one stimulus with another. Well known from the laboratory studies of Russian physiologist Ivan Pavlov in the early 1900s, a type of associative learning called classical conditioning involves learning to associate an arbitrary stimulus with a reward or punishment. Pavlov sprayed powdered meat into dogs' mouths, causing them to salivate (primarily a physiological rather than a behavioral response). Just before the spraying, however, he exposed the dogs to a sound, such as a ringing bell or a clicking metronome. Eventually, the dogs salivated readily in response to the sound alone, which they had learned to associate with the normal stimulus. Similar types of conditioning experiments have been carried out with other animals.
+
+Another type of associative learning is operant conditioning, also called trial-and-error learning. Here, an animal learns to associate one of its own behaviors with a reward or punishment and then tends to repeat or avoid that behavior. For example, predators quickly learn to associate certain kinds of potential prey with painful experiences and modify their behavior accordingly (FIGURE 51.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-11. Operant conditioning. A young coyote has probably learned from receiving a face full of painful quills to be wary of porcupines.
+
+The best-known laboratory studies involving operant conditioning date from the 1930s work of American psychologist B. F. Skinner. A rat or other animal placed in a "Skinner box" finds and manipulates a lever in the box, usually by accident, and is rewarded by the release of food. The animal quickly learns to associate manipulation of the lever with a food reward. Such learning is the basis for most of the animal training done by humans, in which the trainer typically encourages a behavior by rewarding the animal. Eventually, the animal performs the behavior on command, without always receiving a reward.
+
+
+
+

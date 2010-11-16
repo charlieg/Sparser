@@ -1,0 +1,14 @@
+
+ Light entrains the biological clock
+
+As we have discussed, the free running period of the circadian rhythm of bean leaf movements is 26 hours. Consider a bean plant placed at dawn in a dark cabinet for 72 hours: Its leaves would not rise again until 2 hours after natural dawn on the second day, and 4 hours after natural dawn on the third day, and so on. Shut off from environmental cues, the plant then becomes desynchronized with its natural environment. Desynchronization also happens when we cross several time zones in an airplane; when we reach our destination, the clocks on the wall are not synchronized with our internal clocks. All eukaryotes are probably prone to jetlag.
+
+What entrains the biological clock to precisely 24 hours every day? The answer is light. Both phytochrome and blue-light photoreceptors can entrain circadian rhythms in plants, but our understanding of how phytochrome does this is more complete. As you might suspect, the mechanism involves turning cellular responses on and off by means of the Pr Pfr switch.
+
+Consider once again the photoreversible system diagrammed in FIGURE 39.20. In darkness, the phytochrome ratio shifts gradually in favor of the Pr form. This is partly due to turnover in the overall phytochrome pool. The pigment is synthesized in the Pr form, and degradative enzymes destroy more Pfr than Pr. In addition, in some plant species, Pfr present at sundown slowly converts to Pr by a biochemical mechanism. In darkness, there is no means for the accumulating Pr to be reconverted to Pfr, but when the sun rises, the Pfr level suddenly increases again by rapid photochemical conversion from Pr. It is this sudden increase in Pfr each day at dawn that resets the biological clock: bean leaves always reach their most extreme night position 16 hours after dawn.
+
+Interactions between phytochrome and the biological clock enable plants to measure the passage of night and day in nature. The relative lengths of night and day, however, change over the course of the year (except at the Equator). Plants use this change to mark the passage of seasons.
+
+
+
+

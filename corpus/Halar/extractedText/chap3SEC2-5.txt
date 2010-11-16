@@ -1,0 +1,46 @@
+
+ Water is the solvent of life
+
+A sugar cube placed in a glass of water will dissolve. The glass will then contain a uniform mixture of sugar and water; the concentration of dissolved sugar will be the same everywhere in the mixture. A liquid that is a completely homogeneous mixture of two or more substances is called a solution. The dissolving agent of a solution is the solvent, and the substance that is dissolved is the solute. In this case, water is the solvent and sugar is the solute. An aqueous solution is one in which water is the solvent.
+
+The medieval alchemists tried to find a universal solvent, one that would dissolve anything. They learned that nothing works better than water. However, water is not a universal solvent; if it were, it could not be stored in any container, including our cells. But water is a very versatile solvent, a quality we can trace to the polarity of the water molecule.
+
+Suppose, for example, that a crystal of the ionic compound sodium chloride is placed in water (FIGURE 3.7). At the surface of the crystal, the sodium and chloride ions are exposed to the solvent. These ions and the water molecules have a mutual affinity through electrical attraction. The oxygen regions of the water molecules are negatively charged and cling to sodium cations. The hydrogen regions of the water molecules are positively charged and are attracted to chloride anions. As a result, water molecules surround the individual sodium and chloride ions, separating and shielding them from one another. The sphere of water molecules around each dissolved ion is called a hydration shell. Working inward from the surface of the salt crystal, water eventually dissolves all the ions. The result is a solution of two solutes, sodium and chloride, homogeneously mixed with water, the solvent. Other ionic compounds also dissolve in water. Seawater, for instance, contains a great variety of dissolved ions, as do living cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 3-7. A crystal of table salt dissolving in water. A sphere of water molecules, called a hydration shell, surrounds each solute ion.
+
+A compound does not need to be ionic to dissolve in water; compounds made up of polar molecules, such as sugars, are also water-soluble. Such compounds dissolve when water molecules surround each of the solute molecules. Even molecules as large as proteins can dissolve in water if they have ionic and polar regions on their surface (FIGURE 3.8). Many different kinds of polar compounds are dissolved (along with ions) in the water of such biological fluids as blood, the sap of plants, and the liquid within all cells. Water is the solvent of life.
+
+
+
+Click image to enlarge
+
+
+
+Fig 3-8. A water-soluble protein. Even a molecule as large as a protein can dissolve in water if it has enough ionic and polar regions on its surface. The mass of purple here represents a single such protein molecule, which is being surrounded by water molecules.
+
+Hydrophilic and Hydrophobic Substances
+
+Whether ionic or polar, any substance that has an affinity for water is said to be hydrophilic (from the Greek hydro, water, and philios, loving). This term is used even if the substance does not dissolve-because the molecules are too large, for instance. Cotton, a plant product, is an example of a hydrophilic substance that absorbs water without dissolving. Cotton consists of giant molecules of cellulose, a compound with numerous regions of partial positive and partial negative charges associated with polar bonds. Water adheres to the cellulose fibers. Thus, a cotton towel does a great job of drying the body, yet does not dissolve in the washing machine. Cellulose is also present in the walls of water-conducting vessels in a plant; you read earlier how the adhesion of water to these hydrophilic walls functions in water transport.
+
+There are, of course, substances that do not have an affinity for water. Substances that are non-ionic and nonpolar actually seem to repel water; these substances are termed hydrophobic (from the Greek phobos, fearing). An example from the kitchen is vegetable oil, which, as you know, does not mix stably with watery substances such as vinegar. The hydrophobic behavior of the oil molecules results from a prevalence of nonpolar bonds, in this case bonds between carbon and hydrogen, which share electrons almost equally. Hydrophobic molecules related to oils are major ingredients of cell membranes. (Imagine what would happen to a cell if its membrane dissolved.)
+
+Solute Concentration in Aqueous Solutions
+
+Biological chemistry is "wet" chemistry. Most of the chemical reactions that occur in organisms involve solutes dissolved in water. To carry out experiments on the chemistry of life, it is important to learn how to calculate the concentrations of solutes dissolved in aqueous solutions.
+
+To understand chemical reactions, we need to know how many atoms and molecules are involved. Suppose we wanted to prepare an aqueous solution of table sugar having a specified concentration of sugar molecules (a certain number of solute molecules in a certain volume of solution). Because counting or weighing individual molecules is not practical, we usually measure substances in units called moles. A mole (mol) is equal in number to the molecular weight of a substance, but upscaled from daltons to units of grams. Imagine weighing out 1 mol of table sugar (sucrose), which has the molecular formula C12H22O11. In round numbers, a carbon atom weighs 12 daltons, a hydrogen atom weighs 1 dalton, and an oxygen atom weighs 16 daltons. Molecular weight is the sum of the weights of all the atoms in a molecule; thus, the molecular weight of sucrose is 342 daltons. To obtain 1 mol of sucrose, we weigh out 342 g, the molecular weight of sucrose expressed in grams.
+
+The practical advantage of measuring a quantity of chemicals in moles is that a mole of one substance has exactly the same number of molecules as a mole of any other substance. If substance A has a molecular weight of 10 daltons and substance B has a molecular weight of 100 daltons, then 10 g of A will have the same number of molecules as 100 g of B. The number of molecules in a mole, called Avogadro's number, is 6.02 &#160;X&#160; 1023. A mole of table sugar contains 6.02 &#160;X&#160; 1023 sucrose molecules and weighs 342 g. A mole of ethyl alcohol (C2H6O) also contains 6.02 &#160;X&#160; 1023 molecules, but it weighs only 46 g because the molecules are smaller than those of sucrose. Measuring in moles makes it convenient for scientists working in the laboratory to combine substances in fixed ratios of molecules.
+
+How would we make a liter (L) of solution consisting of 1 mol of sucrose dissolved in water? We would weigh out 342 g of sucrose and then gradually add water, while stirring, until the sugar was completely dissolved. We would then add enough water to bring the total volume of the solution up to 1 L. At that point, we would have a 1-molar (1 M) solution of sucrose. Molarity-the number of moles of solute per liter of solution-is the unit of concentration most often used by biologists for aqueous solutions.
+
+
+
+

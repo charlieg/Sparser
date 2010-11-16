@@ -1,0 +1,18 @@
+
+ Most excretory systems produce urine by refining a filtrate derived from body fluids: an overview
+
+As we will see in the next section, excretory systems are diverse, but nearly all produce urine by a two-step process. First, body fluid (blood, coelomic fluid, or hemolymph) is collected, and then the composition of the collected fluid is adjusted by selective reabsorption or secretion of solutes (FIGURE 44.17, p. 942). The initial fluid collection usually involves filtration through the selectively permeable membranes of transport epithelia. These membranes retain cells as well as proteins and other large molecules in the body fluid; hydrostatic pressure (blood pressure in many animals) forces water and small solutes, such as salts, sugars, amino acids, and nitrogenous wastes, into the excretory system. This fluid is called the filtrate.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-17. Key functions of excretory systems: an overview. Most excretory systems produce a filtrate by pressure-filtering body fluids. In this diagram, modeled after the vertebrate excretory system, the excretory tubule collects a filtrate from the blood. Water and solutes are forced by blood pressure across the selectively permeable membranes of a cluster of capillaries and into the excretory tubule (yellow). The filtrate is then modified by the transport epithelium lining the tubule. In the process of reabsorption, the epithelium reclaims valuable substances from the filtrate and returns them to the body fluids. In secretion, other substances, such as toxins and excess ions, are extracted from body fluids and added to the contents of the excretory tubule.
+
+Fluid collection, even when filtration occurs, is largely nonselective, and thus it is important that essential small molecules are recovered from the filtrate and returned to the body fluids. Excretory systems use active transport to selectively reabsorb valuable solutes such as glucose, certain salts, and amino acids. Nonessential solutes and wastes (for example, excess salts and toxins) are left in the filtrate or are added to it by selective secretion, which also uses active transport. The pumping of various solutes also adjusts the osmotic movement of water into or out of the filtrate.
+
+
+
+

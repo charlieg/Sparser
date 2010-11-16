@@ -1,0 +1,328 @@
+(S
+  (PP
+    (IN in)
+    (NP
+      (NP
+        (DT an)
+        (DATE
+          (NNP oct.)
+          (CD 19))
+        (NN review))
+      (PP
+        (IN of)
+        (NP
+          (`` ``)
+          (NP
+            (DT the)
+            (NN misanthrope))
+          ('' '')
+          (PP
+            (IN at)
+            (NP
+              (NP
+                (NNP chicago)
+                (POS 's))
+              (NNP goodman)
+              (NNP theatre)))))
+      (PRN
+        (-LRB- -LRB-)
+        (`` ``)
+        (S
+          (NP
+            (VBN revitalized)
+            (NNS classics))
+          (VP
+            (VBP take)
+            (NP
+              (DT the)
+              (NN stage))
+            (PP
+              (IN in)
+              (NP
+                (NNP windy)
+                (NNP city)))))
+        (, ,)
+        ('' '')
+        (NP
+          (NN leisure)
+          (CC &)
+          (NNS arts))
+        (-RRB- -rrb-))))
+  (, ,)
+  (NP
+    (NP
+      (NP
+        (DT the)
+        (NN role))
+      (PP
+        (IN of)
+        (NP
+          (NNP celimene))))
+    (, ,)
+    (VP
+      (VBN played)
+      (PP
+        (IN by)
+        (NP
+          (NNP kim)
+          (NNP cattrall))))
+    (, ,))
+  (VP
+    (VBD was)
+    (VP
+      (ADVP
+        (RB mistakenly))
+      (VBN attributed)
+      (PP
+        (TO to)
+        (NP
+          (NNP christina)
+          (NNP haag)))))
+  (. .))
+
+(S
+  (NP
+    (NNP ms.)
+    (NNP haag))
+  (VP
+    (VBZ plays)
+    (NP
+      (NNP elianti)))
+  (. .))
+
+(S
+  (NP
+    (NNP rolls-royce)
+    (NNP motor)
+    (NNPS cars)
+    (NNP inc.))
+  (VP
+    (VBD said)
+    (SBAR
+      (S
+        (NP
+          (PRP it))
+        (VP
+          (VBZ expects)
+          (S
+            (NP
+              (PRP$ its)
+              (NNP u.s.)
+              (NNS sales))
+            (VP
+              (TO to)
+              (VP
+                (VB remain)
+                (ADJP
+                  (JJ steady))
+                (PP
+                  (IN at)
+                  (NP
+                    (QP
+                      (IN about)
+                      (CD 1,200))
+                    (NNS cars)))
+                (PP
+                  (IN in)
+                  (DATE
+                    (CD 1990))))))))))
+  (. .))
+
+(S
+  (NP
+    (DT the)
+    (NN luxury)
+    (NN auto)
+    (NN maker))
+  (NP
+    (JJ last)
+    (NN year))
+  (VP
+    (VBD sold)
+    (NP
+      (CD 1,214)
+      (NNS cars))
+    (PP
+      (IN in)
+      (NP
+        (DT the)
+        (NNP u.s.)))))
+
+(S
+  (NP
+    (NP
+      (NNP howard)
+      (NNP mosher))
+    (, ,)
+    (NP
+      (NP
+        (NN president))
+      (CC and)
+      (NP
+        (JJ chief)
+        (NN executive)
+        (NN officer)))
+    (, ,))
+  (VP
+    (VBD said)
+    (SBAR
+      (S
+        (NP
+          (PRP he))
+        (VP
+          (VBZ anticipates)
+          (NP
+            (NP
+              (NN growth))
+            (PP
+              (IN for)
+              (NP
+                (DT the)
+                (NN luxury)
+                (NN auto)
+                (NN maker)))
+            (PP
+              (PP
+                (IN in)
+                (NP
+                  (NNP britain)
+                  (CC and)
+                  (NNP europe)))
+              (, ,)
+              (CC and)
+              (PP
+                (IN in)
+                (NP
+                  (ADJP
+                    (JJ far)
+                    (JJ eastern))
+                  (NNS markets)))))))))
+  (. .))
+
+(S
+  (NP
+    (NNP bell)
+    (NNP industries)
+    (NNP inc.))
+  (VP
+    (VBD increased)
+    (NP
+      (PRP$ its)
+      (NN quarterly))
+    (PP
+      (TO to)
+      (NP
+        (CD 10)
+        (NNS cents)))
+    (PP
+      (IN from)
+      (NP
+        (NP
+          (CD seven)
+          (NNS cents))
+        (NP
+          (DT a)
+          (NN share)))))
+  (. .))
+
+(S
+  (NP
+    (DT the)
+    (JJ new)
+    (NN rate))
+  (VP
+    (MD will)
+    (VP
+      (VB be)
+      (ADJP
+        (JJ payable)
+        (DATE
+          (NNP feb.)
+          (CD 15)))))
+  (. .))
+
+(S
+  (NP
+    (DT a)
+    (NN record)
+    (NN date))
+  (VP
+    (VBZ has)
+    (RB n't)
+    (VP
+      (VBN been)
+      (VP
+        (VBN set))))
+  (. .))
+
+(S
+  (NP
+    (NP
+      (NNP bell))
+    (, ,)
+    (VP
+      (VBN based)
+      (PP
+        (IN in)
+        (NP
+          (NNP los)
+          (NNP angeles))))
+    (, ,))
+  (VP
+    (VBZ makes)
+    (CC and)
+    (VBZ distributes)
+    (NP
+      (UCP
+        (JJ electronic)
+        (, ,)
+        (NN computer)
+        (CC and)
+        (NN building))
+      (NNS products)))
+  (. .))
+
+(S
+  (NP
+    (NNS investors))
+  (VP
+    (VBP are)
+    (VP
+      (VBG appealing)
+      (PP
+        (TO to)
+        (NP
+          (DT the)
+          (NNPS securities)
+          (CC and)
+          (NNP exchange)
+          (NNP commission)))
+      (S
+        (RB not)
+        (VP
+          (TO to)
+          (VP
+            (VB limit)
+            (NP
+              (NP
+                (PRP$ their)
+                (NN access))
+              (PP
+                (TO to)
+                (NP
+                  (NP
+                    (NN information))
+                  (PP
+                    (IN about)
+                    (NP
+                      (NP
+                        (NN stock)
+                        (NNS purchases)
+                        (CC and)
+                        (NNS sales))
+                      (PP
+                        (IN by)
+                        (NP
+                          (JJ corporate)
+                          (NNS insiders)))))))))))))
+  (. .))

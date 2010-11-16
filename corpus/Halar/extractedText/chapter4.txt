@@ -1,0 +1,249 @@
+
+Chapter 4: CARBON AND THE MOLECULAR DIVERSITY OF LIFE
+
+THE IMPORTANCE OF CARBON
+
+   Organic chemistry is the study of carbon compounds
+
+   Carbon atoms are the most versatile building blocks of molecules
+
+   Variation in carbon skeletons contributes to the diversity of organic molecules
+
+
+
+FUNCTIONAL GROUPS
+
+   Functional groups contribute to the molecular diversity of life
+
+   The chemical elements of life: a review
+
+Although water is the universal medium for life on Earth, most of the chemicals that make up living organisms are based on the element carbon. Of all chemical elements, carbon is unparalleled in its ability to form molecules that are large, complex, and diverse, and this molecular diversity has made possible the diversity of organisms that have evolved on Earth. The protein shown in the computer graphic image above is an example of a large, complex molecule based on carbon (the green atoms). Proteins are a major topic of Chapter 5. In this chapter, we focus on smaller molecules, using them to illustrate a few concepts of molecular architecture that highlight carbon's importance to life and the theme that emergent properties arise from the organization of the matter of living organisms.
+
+
+
+
+
+THE IMPORTANCE OF CARBON
+
+ 
+
+ Organic chemistry is the study of carbon compounds
+
+
+
+ 
+
+ Carbon atoms are the most versatile building blocks of molecules
+
+
+
+ 
+
+ Variation in carbon skeletons contributes to the diversity of organic molecules
+
+
+
+Although a cell is composed of 70-95%  water, the rest consists mostly of carbon-based compounds. Proteins, DNA, carbohydrates, and other molecules that distinguish living matter from inanimate material are all composed of carbon atoms bonded to one another and to atoms of other elements. Hydrogen (H), oxygen (O), nitrogen (N), sulfur (S), and phosphorus (P) are other common ingredients of these compounds, but it is carbon (C) that accounts for the large diversity of biological molecules.
+
+
+
+
+
+FUNCTIONAL GROUPS
+
+ 
+
+ Functional groups contribute to the molecular diversity of life
+
+
+
+ 
+
+ The chemical elements of life: a review
+
+
+
+The distinctive properties of an organic molecule depend not only on the arrangement of its carbon skeleton, but also on the molecular components attached to that skeleton. We will now examine certain groups of atoms that are frequently attached to the skeletons of organic molecules.
+
+
+
+
+
+ Organic chemistry is the study of carbon compounds
+
+Compounds containing carbon are said to be organic, and the branch of chemistry that specializes in the study of carbon compounds is called organic chemistry. Once thought to come only from living things, organic compounds range from simple molecules, such as carbon dioxide (CO2) and methane (CH4), to colossal ones, such as proteins, with thousands of atoms and molecular weights in excess of 100,000 daltons. Most organic compounds contain hydrogen atoms.
+
+The overall percentages of the major elements of life--C, H, O, N, S, and P--are quite uniform from one organism to another. Because of carbon's versatility, however, this limited assortment of atomic building blocks, taken in roughly the same proportions, can be used to build an inexhaustible variety of organic molecules. Different species of organisms, and different individuals within a species, are distinguished by variations in their organic molecules.
+
+Since the dawn of human history, people have used other organisms as sources of valued substances--from foods to medicines and fabrics. The science of organic chemistry originated in attempts to purify and improve the yield of such products. By the early 19th century, chemists had learned to make many simple compounds in the laboratory by combining elements under the right conditions. Artificial synthesis of the complex molecules extracted from living matter seemed impossible, however. It was at that time that the Swedish chemist J&ouml;ns Jakob Berzelius first made the distinction between organic compounds, those that seemingly could arise only within living organisms, and inorganic compounds, those that were found in the nonliving world. The new discipline of organic chemistry was first built on a foundation of vitalism, the belief in a life force outside the jurisdiction of physical and chemical laws.
+
+Chemists began to chip away at the foundation of vitalism when they learned to synthesize organic compounds in their laboratories. In 1828, Friedrich W&ouml;hler, a German chemist who had studied with Berzelius, attempted to make an inorganic salt, ammonium cyanate, by mixing solutions of ammonium (NH4+) and cyanate (CNO-) ions. W&ouml;hler was astonished to find that instead of the expected product, he had made urea, an organic compound present in the urine of animals. W&ouml;hler challenged the vitalists when he wrote, "I must tell you that I can prepare urea without requiring a kidney or an animal, either man or dog." However, one of the ingredients used in the synthesis, the cyanate, had been extracted from animal blood, and the vitalists were not swayed by W&ouml;hler's discovery. However, a few years later, Hermann Kolbe, a student of W&ouml;hler's, made the organic compound acetic acid from inorganic substances that could themselves be prepared directly from pure elements.
+
+The foundation of vitalism finally crumbled after several more decades of laboratory synthesis of increasingly complex organic compounds. In 1953, Stanley Miller, then a graduate student at the University of Chicago, helped bring this abiotic (nonliving) synthesis of organic compounds into the context of evolution. Miller used a laboratory simulation of chemical conditions on the primitive Earth to demonstrate that the spontaneous synthesis of organic compounds could have been an early stage in the origin of life (FIGURE 4.1).
+
+
+
+Click image to enlarge
+
+
+
+Fig 4-1. Abiotic synthesis of organic compounds under "early Earth" conditions. Here Stanley Miller re-creates his 1953 experiment, a laboratory simulation demonstrating that environmental conditions on the lifeless, primordial Earth allowed the spontaneous synthesis of some organic molecules. Miller used electrical discharges (simulated lightning) to trigger reactions in a primitive "atmosphere" of H2O, H2, NH3 (ammonia), and CH4 (methane)--some of the gases released by volcanoes. From these ingredients, Miller's apparatus made a variety of organic compounds that play key roles in living cells. Similar chemical reactions may have set the stage for the origin of life on Earth, a hypothesis we will explore in more detail in Chapter 26.
+
+The pioneers of organic chemistry helped shift the mainstream of biological thought from vitalism to mechanism, the belief that all natural phenomena, including the processes of life, are governed by physical and chemical laws. Organic chemistry was redefined as the study of carbon compounds, regardless of their origin. Most naturally occurring organic compounds are produced by organisms, and these molecules represent a diversity and range of complexity unrivaled by inorganic compounds. However, the same rules of chemistry apply to inorganic and organic molecules alike. The foundation of organic chemistry is not some intangible life force, but the unique chemical versatility of the element carbon.
+
+
+
+
+
+ Carbon atoms are the most versatile building blocks of molecules
+
+The key to the chemical characteristics of an atom, as you learned in Chapter 2, is in its configuration of electrons, because electron configuration determines the kinds and number of bonds an atom will form with other atoms. Carbon has a total of 6 electrons, with 2 in the first electron shell and 4 in the second shell. Having 4 valence electrons in a shell that holds 8, carbon has little tendency to gain or lose electrons and form ionic bonds; it would have to donate or accept 4 electrons to do so. Instead, a carbon atom usually completes its valence shell by sharing electrons with other atoms in four covalent bonds. Each carbon atom thus acts as an intersection point from which a molecule can branch off in up to four directions. This tetravalence is one facet of carbon's versatility that makes large, complex molecules possible.
+
+In Chapter 2, you also learned that when a carbon atom forms single covalent bonds, the arrangement of its four hybrid orbitals causes the bonds to angle toward the corners of an imaginary tetrahedron (see FIGURE 2.15c). The bond angles in methane (CH4) are 109&#176; (FIGURE 4.2a, p. 54), and they are approximately the same in any group of atoms where carbon has four single bonds. For example, ethane (C2H6) is shaped like two tetrahedrons joined at their apexes (FIGURE 4.2b). In molecules with still more carbons, every grouping of a carbon bonded to four other atoms has a tetrahedral shape. But when two carbon atoms are joined by a double bond, all bonds around those carbons are in the same plane. For example, ethene is a flat molecule; its atoms all lie in the same plane (FIGURE 4.2c). It is convenient to write all structural formulas as though the molecules represented were flat, but it is important to remember that molecules are three-dimensional and that the shape of a molecule often determines its function.
+
+
+
+Click image to enlarge
+
+
+
+Fig 4-2. The shapes of three simple organic molecules.
+
+The electron configuration of carbon gives it covalent compatibility with many different elements. FIGURE 4.3 reviews the valences of the four major atomic components of organic molecules: carbon and its most frequent partners--oxygen, hydrogen, and nitrogen. We can think of these valences as the rules of covalent bonding in organic chemistry--the building code that governs the architecture of organic molecules.
+
+
+
+Click image to enlarge
+
+
+
+Fig 4-3. Valences for the major elements of organic molecules. Valence is the number of covalent bonds an atom will usually form. It is generally equal to the number of electrons required to complete the atom's outermost (valence) electron shell.
+
+A couple of additional examples will show how the rules of covalent bonding apply to carbon atoms with partners other than hydrogen. In the carbon dioxide molecule (CO2), a single carbon atom is joined to two atoms of oxygen by double covalent bonds. The structural formula for CO2 is OCO. Each line (bond) in a structural formula represents a pair of shared electrons. Notice that the carbon atom in CO2 is involved in four covalent bonds, two with each oxygen atom. The arrangement completes the valence shells of all atoms in the molecule. Because carbon dioxide is a very simple molecule and lacks hydrogen, it is often considered inorganic, even though it contains carbon. Whether we call CO2 organic or inorganic is an arbitrary distinction, but there is no ambiguity about its importance to the living world. Taken from the air by plants and incorporated into sugar and other foods during photosynthesis, CO2 is the source of carbon for all the organic molecules found in organisms.
+
+Another relatively simple molecule is urea, CO(NH2)2. This is the organic compound found in urine that W&ouml;hler learned to synthesize in the early 19th century. The structural formula for urea is shown on the following page.
+Again, each atom has the required number of covalent bonds. In this case, one carbon atom is involved in both single and double bonds.
+
+Both urea and carbon dioxide are molecules with only one carbon atom. But as FIGURE 4.2 shows, a carbon atom can also use one or more of its valence electrons to form covalent bonds to other carbon atoms, making it possible to link the atoms into chains of seemingly infinite variety.
+
+
+
+
+
+ Variation in carbon skeletons contributes to the diversity of organic molecules
+
+Carbon chains form the skeletons of most organic molecules. The skeletons vary in length and may be straight, branched, or arranged in closed rings (FIGURE 4.4). Some carbon skeletons have double bonds, which vary in number and location. Such variation in carbon skeletons is one important source of the molecular complexity and diversity that characterize living matter. In addition, atoms of other elements can be bonded to the skeletons at available sites.
+
+
+
+Click image to enlarge
+
+
+
+Fig 4-4. Variations in carbon skeletons. Hydrocarbons, organic molecules consisting only of carbon and hydrogen, illustrate the diversity of the carbon skeletons of organic molecules.
+
+All the molecules shown in FIGURE 4.2 and 4.4 are hydrocarbons, organic molecules consisting only of carbon and hydrogen. Atoms of hydrogen are attached to the carbon skeleton wherever electrons are available for covalent bonding. Hydrocarbons are the major components of petroleum, which is called a fossil fuel because it consists of the partially decomposed remains of organisms that lived millions of years ago.
+
+Although hydrocarbons are not prevalent in living organisms, many of a cell's organic molecules have regions consisting of only carbon and hydrogen. For example, the molecules known as fats have long hydrocarbon tails attached to a nonhydrocarbon component (FIGURE 4.5). Neither petroleum nor fat mixes with water; both are hydrophobic compounds because the bonds between the carbon and hydrogen atoms are nonpolar. Another characteristic of hydrocarbons is that they store a relatively large amount of energy. The gasoline that fuels a car consists of hydrocarbons, and the hydrocarbon tails of fat molecules serve as stored fuel for animal bodies.
+
+
+
+Click image to enlarge
+
+
+
+Fig 4-5. The role of hydrocarbons in fats. (a) A fat molecule consists of a headpiece and three hydrocarbon tails. The tails store energy and account for the hydrophobic behavior of fats. (Black = carbon; gray = hydrogen; red = oxygen) (b) Mammalian adipose cells stockpile fat molecules as a fuel reserve. Each adipose cell in this micrograph is almost filled by a large fat droplet, which stockpiles a huge number of fat molecules.
+
+Isomers
+
+Variation in the architecture of organic molecules can be seen in isomers, compounds that have the same molecular formula but different structures and hence different properties. Compare, for example, the two butanes in FIGURE 4.4b. Both have the molecular formula C4H10, but they differ in the covalent arrangement of their carbon skeletons. The skeleton is straight in butane, but branched in isobutane. We will examine three types of isomers: structural isomers, geometric isomers, and enantiomers (FIGURE 4.6).
+
+
+
+Click image to enlarge
+
+
+
+Fig 4-6. Three types of isomers. Compounds with the same molecular formula but different structures, isomers are a source of diversity in organic molecules.
+
+Structural isomers differ in the covalent arrangements of their atoms. The number of possible isomers increases tremendously as carbon skeletons increase in size. There are only two butanes, but there are 18 variations of C8H18 and 366,319 possible structural isomers of C20H42. Structural isomers may also differ in the location of double bonds.
+
+Geometric isomers have the same covalent partnerships, but they differ in their spatial arrangements. Geometric isomers arise from the inflexibility of double bonds, which, unlike single bonds, will not allow the atoms they join to rotate freely about the bond axis. The subtle difference in shape between geometric isomers can dramatically affect the biological activities of organic molecules. For example, the biochemistry of vision involves a light-induced change of rhodopsin, a chemical compound in the eye, from one geometric isomer to another.
+
+Enantiomers are molecules that are mirror images of each other. In the ball-and-stick models shown in FIGURE 4.6c, the middle carbon is called an asymmetric carbon because it is attached to four different atoms or groups of atoms. The four groups can be arranged in space about the asymmetric carbon in two different ways that are mirror images. They are, in a way, left-handed and right-handed versions of the molecule. A cell can distinguish these isomers based on their different shapes. Usually, one isomer is biologically active and the other is inactive.
+
+The concept of enantiomers is important in the pharmaceutical industry because the two enantiomers of a drug may not be equally effective (FIGURE 4.7). In some cases, one of the isomers may even produce harmful effects. This was the case with thalidomide, a drug prescribed for thousands of pregnant women in the late 1950s and early 1960s. The drug was a mixture of two enantiomers. One enantiomer reduced morning sickness, the desired effect, but the other caused severe birth defects. (And unfortunately, even if the "good" thalidomide enantiomer is used in purified form, some of it soon converts to the "bad" enantiomer in the patient's body.) The differing effects of enantiomers in the body demonstrate that organisms are sensitive to even the most subtle variations in molecular architecture. Once again, we see that molecules have emergent properties that depend on the specific arrangement of their atoms.
+
+
+
+Click image to enlarge
+
+
+
+Fig 4-7. The pharmacological importance of enantiomers. L-Dopa is a drug used to treat Parkinson's disease, a disorder of the central nervous system. The drug's enantiomer, the mirror-image molecule designated D-Dopa, has no effect on patients.
+
+
+
+
+
+ Functional groups contribute to the molecular diversity of life
+
+The components of organic molecules that are most commonly involved in chemical reactions are known as functional groups. If we think of hydrocarbons as the simplest organic molecules, we can view functional groups as attachments that replace one or more of the hydrogens bonded to the carbon skeleton of the hydrocarbon. (However, some functional groups include atoms of the carbon skeleton, as we will see.)
+
+Each functional group behaves consistently from one organic molecule to another, and the number and arrangement of the groups help give each molecule its unique properties. Consider the differences between testosterone and estradiol (a type of estrogen). These compounds are male and female sex hormones, respectively, in humans and other vertebrates (FIGURE 4.8). Both are steroids, organic molecules with a common carbon skeleton in the form of four fused rings. These sex hormones differ mainly in the functional groups attached to the rings. The different actions of these two molecules on many targets throughout the body help produce the contrasting features of females and males. Thus, even our sexuality has its biological basis in variations of molecular architecture.
+
+
+
+Click image to enlarge
+
+
+
+Fig 4-8. A comparison of functional groups of female (estradiol) and male (testosterone) sex hormones. The two molecules differ mainly in the attachment of functional groups to a common carbon skeleton of four fused rings. (The carbon skeleton has been simplified here by omitting the carbons in the rings, as well as their hydrogens.) These subtle variations in molecular architecture influence the development of the anatomical and physiological differences between female and male vertebrates.
+
+The six functional groups most important in the chemistry of life are the hydroxyl, carbonyl, carboxyl, amino, sulfhydryl, and phosphate groups (TABLE 4.1, p. 58). All are hydrophilic and thus increase the solubility of organic compounds in water.
+
+Table 4-1. Functional Groups of Organic Compounds
+
+Functional GroupFormulaName of CompoundsExampleHydroxylAlcoholsCarbonylAldehydesKetonesCarboxylCarboxylic acidsAminoAminesSulfhydrylThiolsPhosphateOrganic phosphatesThe ionized forms of the carboxyl and amino groups prevail in cells. However, acetic acid and glycine are represented here in their non-ionized forms.The Hydroxyl Group
+
+In a hydroxyl group, a hydrogen atom is bonded to an oxygen atom, which in turn is bonded to the carbon skeleton of the organic molecule. Organic compounds containing hydroxyl groups are called alcohols, and their specific names usually end in -ol, as in ethanol, the drug present in alcoholic beverages. In a structural formula, the hydroxyl group is usually abbreviated by omission of the covalent bond between the oxygen and hydrogen and is written as--OH or HO--. (Do not confuse this functional group with the hydroxide ion, OH-, formed by the dissociation of bases such as sodium hydroxide.) The hydroxyl group is polar as a result of the electronegative oxygen atom drawing electrons toward itself. Consequently, water molecules are attracted to the hydroxyl group, and this helps dissolve organic compounds containing such groups. Sugars, for example, owe their solubility in water to the presence of multiple hydroxyl groups (see FIGURE 5.3).
+
+The Carbonyl Group
+
+The carbonyl group () consists of a carbon atom joined to an oxygen atom by a double bond. If the carbonyl group is on the end of a carbon skeleton, the organic compound is called an aldehyde; otherwise the compound is called a ketone. The simplest ketone is acetone, which is three carbons long (see TABLE 4.1). Acetone has different properties from propanal, a three-carbon aldehyde. (Acetone and propanal are structural isomers.) Thus, variation in locations of functional groups along carbon skeletons is a major source of molecular diversity.
+
+The Carboxyl Group
+
+When an oxygen atom is double-bonded to a carbon atom that is also bonded to a hydroxyl group, the entire assembly of atoms is called a carboxyl group (--COOH). Compounds containing carboxyl groups are known as carboxylic acids, or organic acids. The simplest is the one-carbon compound called formic acid (HCOOH), the substance some ants inject when they sting. Acetic acid, which has two carbons, gives vinegar its sour taste. (In general, acids taste sour.)
+
+Why does a carboxyl group have acidic properties? A carboxyl group is a source of hydrogen ions. The covalent bond between the oxygen and the hydrogen is so polar that the hydrogen tends to dissociate reversibly from the molecule as an ion (H+). In the case of acetic acid, we have 
+Dissociation occurs as a result of the two electronegative oxygen atoms of the carboxyl group pulling shared electrons away from hydrogen. If the double-bonded oxygen and the hydroxyl group were attached to separate carbon atoms, there would be less tendency for the --OH group to dissociate because the second oxygen would be farther away. Here is another example of how emergent properties result from a specific arrangement of building components.
+
+The Amino Group
+
+The amino group (--NH2) consists of a nitrogen atom bonded to two hydrogen atoms and to the carbon skeleton. Organic compounds with this functional group are called amines. An example is glycine, illustrated in TABLE 4.1. Because glycine also has a carboxyl group, it is both an amine and a carboxylic acid. Most of the cell's organic compounds have two or more different functional groups. Glycine and similar compounds having both amino and carboxyl groups are called amino acids; these are the molecular building blocks of proteins.
+
+The amino group acts as a base. You learned in Chapter 3 that ammonia (NH3) can pick up a proton from the surrounding solution. Amino groups of organic compounds can do the same: 
+This process gives the amino group a charge of +1, its most common state within the cell.
+
+The Sulfhydryl Group
+
+Sulfur is directly below oxygen in the periodic table; both have 6 valence electrons and form two covalent bonds. The organic functional group known as the sulfhydryl group (--SH), which consists of a sulfur atom bonded to an atom of hydrogen, resembles a hydroxyl group in shape (see TABLE 4.1). Organic compounds containing sulfhydryls are called thiols. In Chapter 5, you will learn how sulfhydryl groups can interact to help stabilize the intricate structure of a protein.
+
+The Phosphate Group
+
+Phosphate is an anion formed by dissociation of an inorganic acid called phosphoric acid (H3PO4). The loss of hydrogen ions by dissociation leaves the phosphate with two negative charges. Organic compounds containing a phosphate group () have a phosphate ion covalently attached by one of its oxygen atoms to the carbon skeleton (see TABLE 4.1). One function of phosphate groups is the transfer of energy between organic molecules. In Chapter 6, you will learn how cells harness the transfer of phosphate groups to perform work, such as the contraction of muscle cells.
+
+
+
+
+
+ The chemical elements of life: a review
+
+Living matter, as you have learned, consists mainly of carbon, oxygen, hydrogen, and nitrogen, with smaller amounts of sulfur and phosphorus. These elements share the characteristic of forming strong covalent bonds, a quality that is essential in the architecture of complex organic molecules. Of all these elements, carbon is the virtuoso of the covalent bond. The chemical behavior of carbon makes it exceptionally versatile as a building block in molecular architecture: It can form four covalent bonds, link together into intricate molecular skeletons, and join with several other elements. The versatility of carbon makes possible the great diversity of organic molecules, each with special properties that emerge from the unique arrangement of its carbon skeleton and the functional groups appended to that skeleton. At the foundation of all biological diversity lies this variation at the molecular level.
+
+Now that we have examined the basic architectural principles of organic compounds, we can move on to the next chapter, where we will explore the specific structures and functions of the large and complex molecules made by living cells: carbohydrates, lipids, proteins, and nucleic acids.
+
+
+
+

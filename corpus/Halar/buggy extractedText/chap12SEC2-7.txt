@@ -1,0 +1,64 @@
+
+ A molecular control system drives the cell cycle
+
+What drives the cell cycle? One reasonable hypothesis might be that each event in the cycle triggers the next. According to this hypothesis, for example, the replication of chromosomes in the S phase might cause cell growth during G2, which might in turn directly trigger the onset of mitosis. However, this apparently logical hypothesis is not in fact correct.
+
+In the early 1970s, a variety of experiments suggested an alternative hypothesis: that the cell cycle is driven by specific chemical signals present in the cytoplasm. Some of the first strong evidence for this hypothesis came from experiments with mammalian cells grown in culture (see FIGURE 12.15). In these experiments, two cells in different phases of the cell cycle were fused to form a single cell with two nuclei. If one of the original cells was in the S phase and the other was in G1, the G1 nucleus immediately entered the S phase, as though stimulated by chemicals present in the cytoplasm of the first cell. Similarly, if a cell undergoing mitosis (M phase) was fused with another cell in any stage of its cell cycle, even G1, the second nucleus immediately entered mitosis, with condensation of the chromatin and formation of a spindle (FIGURE 12.12).
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-15. The effect of a growth factor on cell division. This experiment confirms that platelet-derived growth factor, PDGF, stimulates the division of human fibroblast cells in culture. The basic growth medium is a complex mixture of glucose, amino acids, salts, and antibiotics (as a precaution against bacterial growth). Some culture vessels (controls) contain only this basic medium while others contain the basic medium plus PDGF.
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-12. Evidence for cytoplasmic chemical signals in cell cycle regulation. Cultured mammalian cells can be induced to fuse, forming a single cell with two nuclei. The results of fusing cells at two different phases of the cell cycle suggested that chemicals control the progression of phases. For example, when a cell in M phase was fused with a cell in any other phase, the second nucleus immediately began mitosis. If the second cell was in G1, as here, the condensed chromosomes that appeared had single chromatids.
+
+These and other experiments demonstrated that the sequential events of the cell cycle are directed by a distinct cell cycle control system, a cyclically operating set of molecules in the cell that both triggers and coordinates key events in the cell cycle. The cell cycle control system has been compared to the control device of an automatic washing machine (FIGURE 12.13). Like the washer's device, the cell cycle control system proceeds on its own, driven by a built-in clock. However, just as a washer's cycle is subject to both external adjustment (such as faucets controlling the water supply) and internal control (such as the sensor that detects when the tub is filled with water), the cell cycle is regulated at certain checkpoints by both internal and external controls.
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-13. Mechanical analogy for the cell cycle control system. In this diagram of the cell cycle, the flat "stepping stones" around the perimeter represent sequential events. Like the control device of an automatic washer, the cell cycle control system proceeds on its own, driven by a built-in clock. However, the system is subject to regulation at various checkpoints, of which three are shown (red).
+
+Cell Cycle Checkpoints
+
+A checkpoint in the cell cycle is a critical control point where stop and go-ahead signals can regulate the cycle. (The signals are transmitted within the cell by the kinds of signal-transduction pathways discussed in Chapter 11.) Animal cells generally have built-in stop signals that halt the cell cycle at checkpoints until overridden by go-ahead signals. Many signals registered at checkpoints come from cellular surveillance mechanisms; the signals report whether crucial cellular processes up to that point have been completed correctly and thus whether or not the cell cycle should proceed. Checkpoints also register signals from outside the cell, as we will discuss later. Three major checkpoints are found in the G1, G2, and M phases.
+
+For many cells, the G1 checkpoint--dubbed the "restriction point" in mammalian cells--seems to be the most important. If a cell receives a go-ahead signal at the G1 checkpoint, it will usually complete the cycle and divide. Alternatively, if it does not receive a go-ahead signal at that point, it will exit the cycle, switching into a nondividing state called the G0phase. Most cells of the human body are actually in the G0 phase. As mentioned earlier, highly specialized nerve and muscle cells never divide. Other cells, such as liver cells, can be "called back" to the cell cycle by certain environmental cues, such as growth factors released during injury.
+
+To understand how cell cycle checkpoints work, we need to see what kinds of molecules make up the cell cycle control system.
+
+The Cell Cycle Clock: Cyclins and Cyclin-Dependent Kinases
+
+Rhythmic fluctuations in the abundance and activity of cell cycle control molecules pace the sequential events of the cell cycle. These regulatory molecules are proteins of two main types. Some are protein kinases, enzymes that activate or inactivate other proteins by phosphorylating them (see Chapter 11). Particular protein kinases give the go-ahead signals at the G1 and G2 checkpoints.
+
+The kinases that drive the cell cycle are actually present at a constant concentration in the growing cell, but much of the time they are in inactive form. To be active, such a kinase must be attached to a cyclin, a protein that gets its name from its cyclically fluctuating concentration in the cell. Because of this requirement, these kinases are called cyclin-dependent kinases, or Cdks. The activity of a Cdk rises and falls with changes in the concentration of its cyclin partner. FIGURE 12.14a shows the fluctuating activity of the cyclin-Cdk complex that was discovered first, called MPF. Note that the peaks of MPF activity correspond to the peaks of cyclin concentration. The cyclin level rises sharply throughout interphase (G1, S, and G2), then falls abruptly during mitosis (M).
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-14. Molecular control of the cell cycle at the G2 checkpoint. The steps of the cell cycle are timed by rhythmic fluctuations in the activity of a special class of protein kinases. These enzymes are called cyclin-dependent kinases (Cdks) because they are active only when bound to a cyclin, a protein whose concentration varies cyclically. Here we focus on a Cdk-cyclin complex called MPF, which acts at the G2 checkpoint to trigger mitosis.
+
+The initials MPF stand for "maturation-promoting factor," but we can think of MPF as "M-phase-promoting factor" because it triggers the cell's passage past the G2 checkpoint into M phase (FIGURE 12.14b). When cyclins that accumulate during G2 associate with Cdk molecules, the resulting MPF complex initiates mitosis, apparently by phosphorylating a variety of proteins. MPF acts both directly and indirectly. For example, it causes the nuclear envelope to fragment by phosphorylating--and stimulating still other kinases to phosphory late--proteins of the nuclear lamina, the lining of the nuclear envelope (see FIGURE 7.9).
+
+Later in the M phase, MPF helps switch itself off by initiating a process that leads to the destruction of its cyclin by a special protein breakdown mechanism you will learn about later (see FIGURE 19.11). Protein breakdown is also involved in driving the cell cycle past the M phase checkpoint, which controls the onset of anaphase. The noncyclin part of MPF, the Cdk, persists in the cell in inactive form until it associates with new cyclin molecules synthesized during interphase of the next round of the cycle.
+
+What about the G1 checkpoint? Recent research suggests the involvement of at least three Cdk proteins and several cyclins at this checkpoint. The fluctuating activities of different cyclin-Cdk complexes seem to control all the stages of the cell cycle.
+
+
+
+

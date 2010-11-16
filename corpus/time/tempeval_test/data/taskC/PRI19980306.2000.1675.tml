@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+ PRI<TIMEX3 tid="t17" type="DATE" value="1998-03-06" temporalFunction="false" functionInDocument="CREATION_TIME">19980306</TIMEX3>.2000.1675 
+ NEWS STORY 
+
+
+
+
+
+ <s>For The World, this is Pamela McCall in the BBC news room in London.</s>
+ <s>More heavy <EVENT eid="e20" mainevent="YES" class="OCCURRENCE" stem="gunfire" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">gunfire</EVENT> in the Serbian province of Kosovo.</s> <s>It's<TIMEX3 tid="t31" type="DATE" value="1998-03-06" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17"> the second day</TIMEX3>
+ of an <EVENT eid="e21" mainevent="YES" class="OCCURRENCE" stem="offensive" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offensive</EVENT> by the security forces against villages populated by ethnic
+ Albanians.</s> <s>BBC correspondent Karyn Coleman <EVENT eid="e22" mainevent="YES" class="REPORTING" stem="report" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">reports</EVENT> from Kosovo.</s>
+
+
+ <s>There were more <EVENT eid="e2" mainevent="YES" class="REPORTING" stem="account" tense="PAST" aspect="NONE" polarity="POS" pos="NOUN">accounts</EVENT> of people <EVENT eid="e3" mainevent="NO" class="OCCURRENCE" stem="flee" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">fleeing</EVENT> from the villages near where the
+ <EVENT eid="e23" mainevent="NO" class="OCCURRENCE" stem="offensive" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offensive</EVENT>  was <EVENT eid="e5" mainevent="NO" class="OCCURRENCE" stem="take" tense="PAST" aspect="PROGRESSIVE" polarity="POS" pos="VERB">taking</EVENT> place.</s> <s>They were too <EVENT eid="e24" mainevent="YES" class="I_STATE" stem="afraid" tense="PAST" aspect="NONE" polarity="POS" pos="ADJECTIVE">afraid</EVENT>  to <EVENT eid="e6" mainevent="NO" class="I_STATE" stem="stay" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">stay</EVENT>, <EVENT eid="e7" mainevent="NO" class="I_STATE" stem="fear" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">fearing</EVENT> the
+ forces may  also <EVENT eid="e8" mainevent="NO" class="ASPECTUAL" stem="move" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">move</EVENT> their <EVENT eid="e25" mainevent="NO" class="OCCURRENCE" stem="operation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">operations</EVENT> further afield.</s> <s>By <TIMEX3 tid="t18" type="TIME" value="1998-03-06TAF" mod="MID" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">mid afternoon</TIMEX3>,
+ official Serb sources  were <EVENT eid="e10" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="PROGRESSIVE" polarity="POS" pos="VERB">saying</EVENT> the <EVENT eid="e30" mainevent="NO" class="OCCURRENCE" stem="operation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">operation</EVENT> was <EVENT eid="e26" mainevent="NO" class="ASPECTUAL" stem="over" tense="PAST" aspect="NONE" polarity="POS" pos="OTHER">over</EVENT>, but
+ that has not  yet been <EVENT eid="e11" mainevent="NO" class="REPORTING" stem="confirm" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" pos="VERB">confirmed</EVENT> from Belgrade, the capital of Serbia,
+ which is where the whole <EVENT eid="e27" mainevent="NO" class="OCCURRENCE" stem="attack" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">attack</EVENT>  is <EVENT eid="e13" mainevent="NO" class="I_STATE" stem="think" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">thought</EVENT>  to  have been <EVENT eid="e14" mainevent="NO" class="I_STATE" stem="plan" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">planned</EVENT>.</s> <s>The ethnic
+ Albanians here in Kosovo  are  considerably <EVENT eid="e32" mainevent="YES" class="I_STATE" stem="worry" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">worried</EVENT> about <TIMEX3 tid="t19" type="DATE" value="FUTURE_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t17">the future</TIMEX3> and
+ <EVENT eid="e35" mainevent="NO" class="I_STATE" stem="fear" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">fear</EVENT> they  are <EVENT eid="e16" mainevent="NO" class="PERCEPTION" stem="witness" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">witnessing</EVENT> the <EVENT eid="e36" mainevent="NO" class="ASPECTUAL" stem="beginning" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">beginnings</EVENT> of a much wider <EVENT eid="e37" mainevent="NO" class="OCCURRENCE" stem="conflict" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">conflict</EVENT>.</s>
+ <s>Karyn Coleman, BBC news, Pristina.</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e24" eventID="e2" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e10" eventID="e24" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e22" eventID="e21" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e2" eventID="e22" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e21" eventID="e20" task="C"/>
+<TLINK lid="l6" relType="UNKNOWN" relatedToEvent="e32" eventID="e10" task="C"/>
+
+</TempEval>

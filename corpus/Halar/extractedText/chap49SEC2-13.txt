@@ -1,0 +1,50 @@
+
+ Locomotion requires energy to overcome friction and gravity
+
+The modes of animal locomotion are diverse. Most animal phyla include species that swim. On land and in the sediments on the floor of the sea and lakes, animals crawl, walk, run, or hop. Active flight (in contrast to gliding downward from a tree or elevated ground) has evolved in only a few animal groups: insects, reptiles, birds, and, among the mammals, bats. A large group of flying reptiles died out millions of years ago, leaving birds and bats as the only flying vertebrates.
+
+In all its forms, locomotion requires that an animal expend energy to overcome two forces that tend to keep it stationary: friction and gravity. Exerting force requires energy-consuming cellular work. Thus, the study of locomotion returns us to the theme of animal bioenergetics. The energetic cost of transport is different for the various modes of locomotion in different environments. FIGURE 49.25 compares these costs for swimming, running, and flying. Running animals generally consume more energy per meter traveled than equivalently sized animals specialized for swimming, partly because to run (or walk), an animal must expend energy to overcome gravity. Swimming is the most efficient mode of transport (assuming, of course, that an animal is specialized for swimming). If we were to compare energy consumption per minute rather than per meter, we would find that flying animals use more energy than animals swimming or walking for the same amount of time. Each line on the graph in FIGURE 49.25 also shows that a larger animal travels more efficiently than a smaller species specialized for the same mode of transport. For example, a horse consumes less energy per kilogram of body weight than a cat running the same distance. (Of course, total energy consumption is greater for the larger animal.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-25. The cost of transport. This graph compares the transport cost, in joules per kilogram of body weight per meter traveled, for animals specialized for swimming, flying, and running (1 J = 0.24 cal). Notice that both axes are plotted on logarithmic scales.
+
+Swimming
+
+Because most animals are reasonably buoyant in water, overcoming gravity is less of a problem for swimming animals than for species that move on land or through the air. On the other hand, water is a much denser medium than air, and thus the problem of resistance (friction) is a major one for aquatic animals. A sleek, fusiform (torpedolike) shape is a common adaptation of fast swimmers (see FIGURE 40.6), and swimming tends to be the most energy-efficient means of locomotion.
+
+Animals swim in diverse ways. For instance, many insects and four-legged vertebrates use their legs as oars to push against the water. Squid, scallops, and some cnidarians are jet-propelled, taking in water and squirting it out in bursts. Fishes swim by moving their body and tail from side to side. Whales and other aquatic mammals move by undulating their body and tail up and down.
+
+Locomotion on Land
+
+In general, the problems of locomotion on land are the opposite of those in water. On land, a walking, running, hopping, or crawling animal must be able to support itself and move against gravity, but, at least at moderate speeds, air poses relatively little resistance. When a land animal walks, runs, or hops, its leg muscles expend energy both to propel it and to keep it from falling down. With each step, the animal's leg muscles must also overcome inertia by accelerating a leg from a standing start. For moving on land, powerful muscles and strong skeletal support are more important than a streamlined shape.
+
+Diverse adaptations for traveling on land have evolved in various vertebrates. For example, traveling mainly by hopping, kangaroos have large muscles that generate a lot of power in their hind legs (FIGURE 49.26). When a kangaroo lands, tendons in its hind legs momentarily store energy. The higher the animal hops, the more energy the tendons store. Analogous to the tension of a spring on a pogo stick, the stored energy is available for the next jump and is a cost-free energy boost that reduces the total amount of energy the animal must expend to travel. The pogo stick analogy applies to many land animals; the legs of an insect, a dog, or a human, for instance, retain some spring when walking or running, although considerably less than those of a hopping kangaroo.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-26. Energy-efficient locomotion on land. Members of the kangaroo family travel from place to place mainly by leaping forward on their large hind legs. Kinetic energy momentarily stored in tendons after each leap provides a cost-free boost for the next leap. In fact, a large kangaroo hopping along at 30 km/h uses no more energy per minute than it does at 6 km/h. The large tail helps balance the animal's body during leaps and while sitting on the ground.
+
+Maintaining balance is another prerequisite for walking, running, or hopping. A kangaroo's large tail helps balance its body during leaps and also forms a stable tripod with its hind legs when sitting or moving slowly. Illustrating the same principle, a walking cat, dog, or horse keeps three feet on the ground. Bipedal animals, such as humans and birds, keep part of at least one foot on the ground when walking. When running, all four feet (or both feet for bipeds) may be off the ground momentarily, but at running speeds, it is momentum more than foot contact that keeps the body upright.
+
+Crawling poses a very different situation. Because much of its body is in contact with the ground, a crawling animal must exert considerable effort to overcome friction. Earthworms crawl by peristalsis, a type of locomotion dependent on a hydrostatic skeleton, which we examine later. Many snakes crawl by undulating the entire body from side to side. Assisted by large, movable scales on the underside, a snake's body pushes against the ground, driving the animal forward. Boa constrictors and pythons creep straight forward, driven by muscles that lift their belly scales off the ground, tilt the scales forward, and then push them backward against the ground.
+
+Flying
+
+Gravity poses a major problem for a flying animal. For an animal to become airborne, its wings must develop enough lift to overcome the downward force of gravity. The key to flight is the shape of the wings. All types of wings, including those of airplanes, are airfoils--structures whose shape alters air currents in a way that creates lift (see FIGURE 34.26).
+
+Cellular and Skeletal Underpinnings of Locomotion
+
+Underlying the diverse forms of locomotion are fundamental mechanisms common to all animals. At the cellular level, all animal movement is based on one of two basic contractile systems, both of which consume energy to move protein strands against one another. These two systems of cell motility--microtubules and microfilaments--were discussed in Chapter 7. Microtubules are responsible for the beating of cilia and the undulations of flagella. Microfilaments play a major role in amoeboid movement, and they are also the contractile elements of muscle cells. It is the contraction of muscles that concerns us in this chapter, but the work of a muscle in itself cannot translate into movement of the animal. Swimming, crawling, running, hopping, and flying all result from muscles working against some type of skeleton.
+
+
+
+

@@ -1,0 +1,42 @@
+
+ Evolutionary adaptations to terrestrial living characterize the four main groups of land plants
+
+There are four main groups of land plants: bryophytes, pteridophytes, gymnosperms, and angiosperms. The most common bryophytes are the mosses. The pteridophytes include the ferns. Pines and other conifers (cone-bearing plants) are the most familiar gymnosperms. The angiosperms are the flowering plants. Studying these four plant groups provides perspective for understanding the history of life in general, since each plant group originated at a distinct time in Earth's past.
+
+Mosses and other bryophytes are distinguished from algae by several features derived during evolutionary adaptation to living on land. Many of these adaptations are reproductive. For example, when bryophytes and all other land plants reproduce, the offspring develop from multicellular embryos that remain attached to the "mother" plant, which protects and nourishes the embryos.
+
+Additional adaptations distinguish the other major groups of land plants from the bryophytes. An example is the vascular tissue that evolved in an ancestor common to pteridophytes, gymnosperms, and angiosperms. This derived character and others unite these three plant groups in a clade known as the vascular plants (see Chapter 25 to review derived homologies and cladistics). In vascular tissue, cells are joined into tubes that transport water and nutrients throughout the plant body. Most bryophytes lack vascular tissue and hence are sometimes referred to as "nonvascular plants," in contrast to the vascular plants. This distinction is not entirely accurate, however, for water-conducting tubes are present in some bryophytes. (Later, we will examine some derived features that more accurately mark the "vascular plant" clade.)
+
+Among vascular plants, ferns and other pteridophytes are sometimes called seedless plants because there is no seed stage in their life cycles. In contrast, gymnosperms and angiosperms are seed plants. The evolution of the seed in an ancestor common to gymnosperms and angiosperms added an adaptation that facilitated reproduction on land.
+
+A seed consists of a plant embryo packaged along with a food supply within a protective coat. The first vascular plants with seeds evolved about 360 million years ago, near the end of the Devonian period. Their seeds were not enclosed in any specialized chambers. These early seed plants gave rise to the diversity of present-day gymnosperms (from the Greek gymnos, naked, and sperma, seed), including the conifers.
+
+The evolution of flowers led to further diversification of plants beginning in the early Cretaceous period about 130 million years ago. The flower is a complex reproductive structure that bears seeds within protective chambers called ovaries. This contrasts with the bearing of naked seeds by gymnosperms. The great majority of modern-day plant species are flowering plants, or angiosperms (from the Greek angion, container, and sperma, seed).
+
+Thus, we can trace the bryophytes, pteridophytes, gymnosperms, and angiosperms of today to four great evolutionary episodes in the history of land plants: the origin of bryophytes from algal ancestors; the origin and diversification of vascular plants; the origin of seeds; and the evolution of flowers. The hypothetical phylogeny in FIGURE 29.1 places the phyla of land plants in this evolutionary context. The taxonomic scheme we'll use in this chapter and the next recognizes a total of ten plant phyla (TABLE 29.1). Before we take a closer look at these diverse plant phyla, let's distinguish land plants from other photosynthetic organisms and then continue our exploration of the terrestrial adaptations that made it possible for plants to colonize land.
+
+Table 29-1. Ten Phyla of Extant Plants
+
+Common NameApproximate Number of Extant SpeciesBryophytes
+			  
+		 Phylum HepatophytaLiverworts6,500
+			  
+		 Phylum AnthocerophytaHornworts100
+			  
+		 Phylum BryophytaMosses12,000Vascular PlantsSeedless Vascular Plants(Pteridophytes)
+			  
+		 Phylum LycophytaLycophytes1,000
+			  
+		 Phylum PterophytaFerns, horsetails, and whisk ferns12,000Seed PlantsGymnosperms
+			  
+		 Phylum GinkgophytaGinkgo1
+			  
+		 Phylum CycadophytaCycads100
+			  
+		 Phylum GnetophytaGnetae70
+			  
+		 Phylum ConiferophytaConifers550Angiosperms
+			  
+		 Phylum AnthophytaFlowering plants25,000
+
+

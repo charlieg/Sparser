@@ -1,0 +1,544 @@
+
+Chapter 25: PHYLOGENY AND SYSTEMATICS
+
+THE FOSSIL RECORD AND GEOLOGIC TIME
+
+   Sedimentary rocks are the richest source of fossils
+
+   Paleontologists use a variety of methods to date fossils
+
+   The fossil record is a substantial, but incomplete, chronicle of evolutionary history
+
+   Phylogeny has a biogeographic basis in continental drift
+
+   The history of life is punctuated by mass extinctions
+
+
+
+SYSTEMATICS: CONNECTING CLASSIFICATION TO PHYLOGENY
+
+   Taxonomy employs a hierarchical system of classification
+
+   Modern phylogenetic systematics is based on cladistic analysis
+
+   Systematists can infer phylogeny from molecular data
+
+   The principle of parsimony helps systematists reconstruct phylogeny
+
+   Phylogenetic trees are hypotheses
+
+   Molecular clocks may keep track of evolutionary time
+
+   Modern systematics is flourishing with lively debate
+
+Evolutionary biology is about both process and history. We have already studied natural selection and other processes that change populations (Chapter 23), and we have examined processes that can lead to the origin of new species (Chapter 24). But evolutionary biology also seeks to reconstruct the history of life on Earth.
+
+This chapter describes how biologists trace phylogeny (from the Greek, phylon, tribe, and genesis, origin), the evolutionary history of a species or group of related species. Reconstructing phylogeny is part of the scope of systematics, the study of biological diversity in an evolutionary context. Systematists also name and classify species. Our study of phylogeny and systematics begins with the fossils left by past life, such as the ancient fish in the photo above. We then examine the techniques through which systematists test and refine their hypotheses about phylogeny and classification. In the process, we see how molecular biology is changing systematics, as it is changing every field of biology.
+
+
+
+
+
+THE FOSSIL RECORD AND GEOLOGIC TIME
+
+ 
+
+ Sedimentary rocks are the richest source of fossils
+
+
+
+ 
+
+ Paleontologists use a variety of methods to date fossils
+
+
+
+ 
+
+ The fossil record is a substantial, but incomplete, chronicle of evolutionary history
+
+
+
+ 
+
+ Phylogeny has a biogeographic basis in continental drift
+
+
+
+ 
+
+ The history of life is punctuated by mass extinctions
+
+
+
+Fossils, the preserved remnants or impressions left by organisms that lived in the past, are the historical documents of biology. The fossil record is the ordered array in which fossils appear within layers, or strata, of sedimentary rocks that mark the passing of geologic time. Paleontologists collect and interpret fossils (FIGURE 25.1). We begin this section by studying how fossils form and how paleontologists determine their age. We then turn to the contributions and limitations of the fossil record in the study of phylogeny.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-1. A gallery of fossils. (a) Sedimentary rocks are the richest hunting grounds for paleontologists. This researcher is excavating a fossilized dinosaur skeleton from sandstone in Dinosaur National Monument, located in Utah and Colorado. (b) The hard parts of organisms are the most common fossils. This is a skull of Homo erectus, a human ancestor that lived about 1.5 million years ago. (c) Fossils may become even harder if minerals replace their organic matter. These petrified (stone) trees in Arizona are about 190 million years old. (d) Some sedimentary fossils, such as this 40-million-year-old leaf, retain organic material, including DNA, which scientists can analyze. (e) Buried organisms that decay may leave molds that may be filled by minerals dissolved in water. The casts that form when the minerals harden are replicas of the organisms, as in the case of these casts of animals called brachiopods. (f) Trace fossils are footprints, burrows, and other remnants of an ancient organism's behavior. This boy is standing in a 150-million-year-old dinosaur track in Colorado. (g) This 30-million-year-old scorpion is embedded in amber (hardened resin from a tree). (h) These tusks belong to a whole 23,000-year-old mammoth, which scientists discovered in Siberian ice in 1999.
+
+
+
+
+
+SYSTEMATICS: CONNECTING CLASSIFICATION TO PHYLOGENY
+
+ 
+
+ Taxonomy employs a hierarchical system of classification
+
+
+
+ 
+
+ Modern phylogenetic systematics is based on cladistic analysis
+
+
+
+ 
+
+ Systematists can infer phylogeny from molecular data
+
+
+
+ 
+
+ The principle of parsimony helps systematists reconstruct phylogeny
+
+
+
+ 
+
+ Phylogenetic trees are hypotheses
+
+
+
+ 
+
+ Molecular clocks may keep track of evolutionary time
+
+
+
+ 
+
+ Modern systematics is flourishing with lively debate
+
+
+
+So far in this chapter, we have explored phylogeny, or evolutionary history, in light of the fossil record and geologic time, but biologists also use molecular data, comparative anatomy, and other approaches to trace phylogeny. And tracing phylogeny is one of the main goals of systematics, the study of biological diversity in an evolutionary context. Systematics includes taxonomy, which is the naming and classification of species and groups of species. Formal taxonomy began in the 18th century with Linnaeus's book Systema naturae, which translates as "System of Nature," meaning a classification of all known natural life. A century later, Darwin both anticipated the future direction of taxonomy and introduced the new science of systematics when he wrote in The Origin of Species that "our classifications will come to be, as far as they can be so made, genealogies." In this section, we examine the connection between phylogeny and classification that is at the center of modern systematics.
+
+
+
+
+
+ Sedimentary rocks are the richest source of fossils
+
+Sedimentary rocks form from layers of minerals that settle out of water (see FIGURE 22.3). Sand and silt that are weathered and eroded from the land are carried by rivers to seas and swamps, where the particles settle to the bottom. Deposits pile up and compress the older sediments below into rock--sand into sandstone and mud into shale. When aquatic life-forms and terrestrial organisms swept into the seas and swamps die, they settle along with the sediments. A tiny fraction of them are then preserved as fossils. At any particular location, sedimentation is not continuous but occurs in intervals when the sea level changes or lakes and swamps dry up and refill. Even when a region is submerged, the rate of sedimentation and the types of sedimentary particles vary over time. As a result of these different periods of sedimentation, the rock forms in strata (see FIGURE 22.4).
+
+The organic substances of a dead organism buried in sediments usually decay rapidly. However, hard parts that are rich in minerals, such as the shells of many invertebrates and protists and the bones and teeth of vertebrates, may remain as fossils (FIGURE 25.1a and b). Paleontologists have unearthed nearly complete skeletons of dinosaurs and other forms, but more often the finds consist of parts of skulls, bone fragments, or teeth. Many of these relics are hardened even more and preserved by chemical changes; under the right conditions, minerals dissolved in groundwater seep into the tissues of a dead organism and replace its organic material. The plant or animal turns to stone (see FIGURE 25.1c).
+
+Rarer than mineralized fossils are those that retain organic material. They are sometimes discovered as thin films pressed between layers of sandstone or shale. For example, paleontologists have discovered plant leaves millions of years old that are still green with chlorophyll and well enough preserved for their organic composition to be analyzed and the ultrastructure of their cells to be explored with the electron microscope (see FIGURE 25.1d). The most common fossilized plant material is pollen, which has a hard organic case that resists degradation.
+
+The fossils that paleontologists find in many of their digs are not the actual remnants of organisms at all, but rocks that form as replicas of the organisms. These fossils result when a dead organism captured in sediment decays and leaves an empty mold that becomes filled with minerals dissolved in water. The minerals may subsequently crystallize, forming a cast in the shape of the organism (see FIGURE 25.1e).
+
+Trace fossils consist of footprints, animal burrows, or other impressions left in sediments by the activities of animals. These rocks are in essence fossilized behavior; they tell paleontologists something about how the animals that left the trace fossils lived. For example, dinosaur tracks provide clues about the animal's locomotion--its gait (pattern of leg movements), stride length, and speed (see FIGURE 25.1f).
+
+If an organism happens to die in a place where bacteria and fungi cannot decompose the corpse, the entire body, including soft parts, may be preserved as a fossil. For example, the scorpion in FIGURE 25.1g got stuck in a drop of resin from a tree about 30 million years ago. The resin eventually hardened into amber, entombing the animal. There are other mechanisms that preserve whole organisms. Explorers have discovered mammoths, bison, and even prehistoric humans frozen in ice or preserved in acid bogs, where conditions retard decomposition (see FIGURE 25.1h). Such rare discoveries make the news, but biologists rely mainly on more common sedimentary fossils to reconstruct the history of life.
+
+
+
+
+
+ Paleontologists use a variety of methods to date fossils
+
+Fossils are reliable historical data only if we can determine their ages. Here we examine the methods for de termining where fossils fit on the geologic time scale.
+
+Relative Dating
+
+The trapping of dead organisms in sediments freezes fossils in time. Thus, the fossils in each stratum of sedimentary rock are a local sample of the organisms that existed at the time that sediment was deposited. Because younger sediments are superimposed upon older ones, this book of sedimentary pages tells the relative ages of fossils.
+
+The strata at one location can often be correlated with strata at another location by the presence of similar fossils, known as index fossils. The best index fossils for correlating strata that are far apart are the shells of sea animals that were widespread. At any one location where a roadcut or canyon wall reveals layered rocks, there are likely to be gaps in the sequence. That area may have been above sea level during different periods, and thus no sedimentation occurred; or some of the sedimentary layers that were deposited when the area was submerged may have been scraped away by subsequent periods of erosion.
+
+By studying many different sites, geologists have established a geologic time scale with a consistent sequence of historical periods (TABLE 25.1). These periods are grouped into four eras: the Precambrian, Paleozoic, Mesozoic, and Cenozoic eras. Each era represents a distinct age in the history of Earth and its life. For example, the Mesozoic era is sometimes called the "age of reptiles" because of its abundance of reptilian fossils, including dinosaurs. The boundaries between the eras correspond to times of mass extinctions, when many forms of life disappeared and were replaced by diversification of the survivors. Lesser extinctions also mark the boundaries of many of the periods that make up each era. The periods within each era are further subdivided into finer intervals called epochs (only the epochs of the current era, the Cenozoic, appear in TABLE 25.1). The timeline to the left of TABLE 25.1 shows that the geologic eras were not equal in duration. The periods also varied in length. For example, the Jurassic period lasted almost twice as long as the Triassic period. Scientists have not divided geologic time in an arbitrary manner, but have located boundaries in the record of the rocks that correspond to times of great change.
+
+Table 25-1. The Geologic Time Scale
+
+
+
+
+
+The record of the rocks is a serial that chronicles the relative ages of fossils; it tells us the order in which groups of species present in a sequence of strata evolved. However, the series of sedimentary rocks does not tell us the absolute ages of the embedded fossils. The difference is analogous to peeling the layers of wallpaper from the walls of a very old house that has been inhabited by many owners. You could determine the sequence in which the papers had been applied, but not the year that each layer was added.
+
+Absolute Dating
+
+"Absolute" dating does not mean errorless dating, but only that age is given in years instead of relative terms such as before and after, early and late. Radiometric dating, the measurement of certain radioactive isotopes in fossils or rocks, is the method most often used to determine the ages of rocks and fossils on a scale of absolute time. Fossils contain isotopes of elements that accumulated in the organisms when they were alive. For example, the carbon in a living organism includes both the most common carbon isotope, carbon-12, and a less common radioactive isotope, carbon-14, in the same ratio as is present in the atmosphere. Once an organism dies, it stops accumulating carbon. The radioactive carbon-14 that it contained at the time of death slowly decays and becomes another element, nitrogen-14, causing the proportion of carbon-14 to total carbon content to decline. Each radioactive isotope has a fixed rate of decay. An isotope's half-life, the number of years it takes for 50%  of the original sample to decay, is unaffected by temperature, pressure, and other environmental variables (FIGURE 25.2). Carbon-14 has a half-life of 5,730 years, a reliable rate of decay that can be used to date relatively young fossils. Thus, by measuring either the amount of nitrogen-14 in a fossil or the amount of carbon-14 remaining, we can determine the fossil's age.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-2. Radiometric dating. The graph plots the decay of "parent" isotopes, usually radioactive isotopes, to form "daughter" isotopes. An example is the clocklike decay of carbon-14 to form nitrogen-14. Each type of radioactive isotope has a set half-life, the time required for 50%  of the isotope to decay. For example, carbon-14 has a half-life of 5,730 years; uranium-238 has a half-life of 4.5 billion years. Paleontologists use such radiometric clocks as one method to date fossils or to infer the ages of fossils by dating surrounding rock.
+
+Paleontologists use radioactive isotopes with longer half-lives to date older fossils. For example, uranium-238, which has a half-life of 4.5 billion years, has been used as a radiometric clock to infer the ages of fossils in rocks of the Cambrian period (see TABLE 25.1). Unlike carbon-14, uranium-238 is not present in living organisms. It occurs in molten lava and the volcanic rock that forms as the lava cools. After the volcanic rock forms, no more uranium-238 is incorporated, and the rock's original stock of the isotope decays slowly into lead-206 atoms. Thus, researchers can use the concentration of lead-206 to date volcanic rocks. And paleontologists can use these measurements to date very old fossils found near the volcanic rocks. For example, if fossils of animals are found in a rock layer sandwiched between two layers of volcanic rock that are 530 and 520 million years old, respectively, we can infer that the animals lived about 525 million years ago.
+
+Methods other than radiometric dating can be used on some fossils. Amino acids exist in two isomers with either left-handed or right-handed symmetry, designated the L and D forms, respectively. Organisms synthesize only L-amino acids, which are incorporated into proteins. After an organism dies, however, its population of L-amino acids is slowly converted, resulting in a mixture of L- and D-amino acids. In a fossil, the ratio of L- and D-amino acids can be measured. Knowing the rate at which this chemical conversion, called racemization, takes place, we can determine how long the organism has been dead. For instance, archaeologists have used this method to date ostrich eggshells found along with fossils of early humans. The humans probably ate the eggs and used the shells for water bowls. Racemization, unlike radioactive decay, is temperature sensitive, meaning that past changes in climate made the racemization clock run faster or slower. But for fossils found in locations where climate apparently has not changed significantly since the fossils formed, the two dating methods agree closely on the age of the fossils.
+
+
+
+
+
+ The fossil record is a substantial, but incomplete, chronicle of evolutionary history
+
+The discovery of a fossil is the culmination of a sequence of improbable coincidences. First, the organism had to die in the right place at the right time for burial conditions to favor fossilization. Then the rock layer containing the fossil had to escape geologic processes that destroy or severely distort rocks, such as erosion, pressure from superimposed strata, or the melting of rocks that occurs at some locations. If the fossil was preserved, there is only a slight chance that a river carving a canyon or some other process will expose the rock containing the fossil. The chance that someone will find the fossil is even more remote, although, of course, discovery is more probable for people who are purposefully looking for fossils. No wonder the fossil record is incomplete: A substantial fraction of species that have lived probably left no fossils, most fossils that formed have been destroyed, and only a fraction of the existing fossils have been discovered.
+
+The fossil record, far from being a complete sample of organisms of the past, is slanted in favor of species that existed for a long time, were abundant and widespread, and had shells or hard skeletons. Paleontologists, like all historians, must reconstruct the past from incomplete records. Even with its limitations, however, the fossil record is a remarkably detailed document of phylogeny over the vast scale of geologic time. The order of sedimentary strata records the sequence of biological change, and dating methods tell us approximately how long ago the changes occurred. Also recorded in rocks is the chronology of environmental changes associated with evolutionary changes in life. We now turn to some of the major changes in Earth's environments that have caused significant transformations of life.
+
+
+
+
+
+ Phylogeny has a biogeographic basis in continental drift
+
+Evolution has dimension in space as well as in time. Indeed, it was biogeography, even more than fossils, that first nudged Darwin and Wallace toward an evolutionary view of life. The history of Earth helps explain the current geographic distribution of species. For example, the emergence of volcanic islands such as the Gal&aacute;pagos opens new environments for founders that reach the outposts, and adaptive radiation fills many of the available niches with new species. On a global scale, the drifting of continents is the major geographic factor correlated with the spatial distribution of life and with such evolutionary episodes as mass extinctions and explosive increases in biological diversity.
+
+The continents are not fixed, but drift about Earth's surface like passengers on great plates of crust floating on the hot, underlying mantle (FIGURE 25.3a). Unless two landmasses are embedded in the same plate, their positions relative to each other change. For example, North America and Europe are presently drifting apart at a rate of about 2 cm per year. Many important geologic processes, including mountain building, volcanism, and earthquakes, occur at plate boundaries (FIGURE 25.3b). California's infamous San Andreas Fault is part of a border where two plates slide past each other.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-3. Earth's crustal plates and plate tectonics (geologic processes resulting from plate movements).
+
+Plate movements rearrange geography incessantly, but two chapters in the continuing saga of continental drift had an especially strong influence on life. About 250 million years ago, near the end of the Paleozoic era, plate movements brought all the landmasses together into a supercontinent that has been named Pangaea, meaning "all land" (FIGURE 25.4, p. 490). Imagine some of the possible effects on life. Species that had been evolving in isolation came together and competed. When the landmasses coalesced, the total amount of shoreline was reduced, and there is evidence that the ocean basins increased in depth, which lowered sea level and drained the shallow coastal seas. Then, as now, most marine species inhabited shallow waters, and the formation of Pangaea destroyed a considerable amount of that habitat. It was probably a long, traumatic period for terrestrial life as well. The continental interior, which has a drier and more erratic climate than coastal regions, increased in area substantially when the land came together. Changing ocean currents also would have affected land life as well as sea life. The formation of Pangaea surely had a tremendous environmental impact that reshaped biological diversity by causing extinctions and providing new opportunities for taxonomic groups that survived the crisis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-4. The history of continental drift. About 250 million years ago, all of Earth's landmasses were locked together in a supercontinent named Pangaea. About 180 million years ago, Pangaea began to split into northern (Laurasia) and southern (Gondwana) landmasses, which later separated into the modern continents. India collided with Eurasia just 10 million years ago, forming the Himalayas, the tallest and youngest of Earth's major mountain ranges. The continents continue to drift.
+
+The second dramatic chapter in the history of continental drift was written about 180 million years ago, during the Mesozoic era. Pangaea began to break up, causing geographic isolation of colossal proportions. As the continents drifted apart, each became a separate evolutionary arena, and the faunas and floras of the different biogeographic realms diverged.
+
+The pattern of continental mergings and separations is the solution to many biogeographic puzzles. For example, paleontologists have discovered matching fossils of Triassic reptiles in Ghana (West Africa) and Brazil. These two parts of the world, now separated by 3,000 km of ocean, were contiguous during the early Mesozoic era. Continental drift also explains much about the current distribution of organisms, such as why the Australian fauna and flora contrast so sharply with that of the rest of the world. The great diversity of marsupials (pouched mammals), which fill ecological roles in Australia analogous to those filled by eutherian (placental) mammals on other continents, is just one example of Australia's unique collection of species. Marsupials probably evolved first in what is now North America and reached Australia via South America and Antarctica while the continents were still joined. The subsequent breakup of the southern continents set Australia "afloat" like a great ark of marsupials. On Australia, marsupials evolved and diversified, while eutherian mammals evolved and diversified on other continents. Australia has been isolated for 50 million years. Bats, rats, mice, and humans (and their domesticated animals) are the only eutherian mammals that have managed to populate the island continent.
+
+
+
+
+
+ The history of life is punctuated by mass extinctions
+
+The fossil record reveals an episodic history, with long, relatively quiescent periods punctuated by briefer intervals when the turnover in species composition was much more extensive. These biological upheavals were times of mass extinctions followed by extensive diversification of certain taxonomic groups that escaped extinction. We will emphasize episodes of radiation of biological diversity in the next unit of chapters. Here we examine some examples of mass extinctions.
+
+A species may become extinct because its habitat has been destroyed or because the environment has changed in a direction unfavorable to the species. If ocean temperatures fall by even a few degrees, many species that are otherwise beautifully adapted will perish. Even if physical factors in the environment are stable, biological factors may change; the environment in which a species lives includes the other organisms that live there, and evolutionary change in one species is likely to have some impact on other species in the community. For example, the evolution by some Cambrian animals of hard body parts, such as jaws and shells, may have made some organisms lacking hard parts more vulnerable to predation and thereby more prone to extinction.
+
+Extinction is in fact inevitable in a changing world, and there have been crises in the history of life when global environmental changes have been so rapid and disruptive that a majority of species were swept away. Mass extinctions are known primarily from the decimation of hard-bodied animals that lived in shallow seas, the organisms for which the fossil record is most complete. The fossil record chronicles a number of mass extinctions, with five to seven of them particularly extensive. The two that have received the most attention are the Permian mass extinction, which occurred about 250 million years ago, and the Cretaceous mass extinction of about 65 million years ago.
+
+The Permian mass extinction, which defines the boundary between the Paleozoic and Mesozoic eras, claimed about 90%  of the species of marine animals. Terrestrial life also crashed; for example, 8 out of 27 orders of Permian insects did not survive into the Triassic, the next geologic period. This mass extinction occurred in less than 5 million years--possibly much less--an instant in the context of geologic time.
+
+Several factors may have combined to cause radical environmental change during the late Permian. That was about the time the continents merged to form Pangaea, which disturbed many marine and terrestrial habitats and altered climate. Massive volcanic eruptions also occurred in what is now Siberia, constituting the most extreme episode of volcanism of the past half-billion years. Besides spewing lava and ash into the atmosphere, the Siberian volcanoes may have produced enough carbon dioxide to warm the global climate. Reduced temperature differences between the equator and the poles would have slowed the mixing of ocean water, which in turn would have reduced the amounts of oxygen available to marine organisms. An oxygen deficit in the oceans may have played a large role in the Permian extinctions.
+
+The Cretaceous mass extinction of 65 million years ago delineates the boundary between the Mesozoic and Cenozoic eras (FIGURE 25.5). That debacle doomed more than half the marine species and exterminated many families of terrestrial plants and animals, including the dinosaurs. The climate became cooler at that time, and shallow seas receded from continental lowlands. Large volcanic eruptions in what is now India may have contributed to the cooling by releasing material into the atmosphere that blocked sunlight. However, many scientists now favor the so-called impact hypothesis, which postulates that the main cause of the Cretaceous extinctions was a collision of an asteroid or large comet with Earth. Separating Mesozoic from Cenozoic sediments is a thin layer of clay enriched in iridium, an element very rare on Earth but common in meteorites and other extraterrestrial debris that occasionally fall to Earth. Walter and Luis Alvarez and their colleagues at the University of California, Berkeley, studied the clay and suggested that it is fallout from a huge cloud of debris that billowed into the atmosphere when an asteroid hit Earth. The Alvarezes proposed that the great cloud would have blocked sunlight and severely disturbed climate for several months.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-5. Diversity of life and periods of mass extinction. This graph, based on the fossil record of terrestrial and marine organisms, reveals a general increase in the diversity of organisms over time (red line and right vertical axis). Mass extinctions on land and in the oceans interrupted the buildup of diversity during many periods of geologic time (blue line and left vertical axis). In this figure, extinction events are estimated as percentages of taxonomic families that died out relative to the number extant in each period of geologic time. Of the two mass extinction periods labeled in the figure, the Permian mass extinction claimed more than 90%  of species on land and in the seas, whereas the extinctions at the end of the Cretaceous probably wiped out more than half of all species, including the dinosaurs.
+
+The impact hypothesis really has two parts: that such a collision occurred and that the event caused the Cretaceous extinctions. Much evidence in addition to the iridium layer supports the first part of the hypothesis--that a large comet or small asteroid crashed into Earth 65 million years ago. Earth is pocked with enough craters to tell us that many large objects have fallen on the planet in the past. Recent research has focused on the Chicxulub crater, a 65-million-year-old scar located beneath sediments on the Yucat&eacute;n coast of Mexico. About 180 km in diameter, the Chicxulub crater is about the right size to have been caused by an asteroid with a diameter of about 10 km.
+
+Critical evaluation of the impact hypothesis now focuses on the second claim--that the collision caused the Cretaceous extinctions. Advocates of the impact hypothesis argue that the impact was large enough to darken the Earth for years, not months, and that the resulting reduction of photosynthesis would have lasted long enough for food chains to collapse. Some of the minerals in the dust cloud would also have caused severe acid precipitation (see Chapter 3). The crater's horseshoelike shape, along with evidence from sediments deposited during the late Cretaceous, indicates to some scientists that the Chicxulub asteroid struck Earth at a low angle from the southeast (FIGURE 25.6). Such an impact would have sent white-hot debris to the northwest, setting off a firestorm that within minutes would have killed most land plants and animals on the North American continent. This scenario could explain fossil evidence that extinction rates of species in North America were more severe and occurred in a briefer time than elsewhere. Less severe global effects would have developed more slowly after the initial catastrophe, which would explain why extinction rates during the late Cretaceous do not seem to have been uniform around the globe.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-6. Trauma for planet Earth and its Cretaceous life. The 65-million-year-old Chicxulub impact crater is located in the Caribbean Sea near the Yucat&aacute;n Peninsula of Mexico. The horseshoe shape of the crater and the pattern of debris in sedimentary rocks indicate that an asteroid or comet struck at a low angle from the southeast. This artist's interpretation represents the impact and its immediate effect-- a cloud of hot vapor and debris that could have killed most of the plants and animals in North America within minutes.
+
+Although the debate over the impact hypothesis has muted somewhat, researchers maintain a healthy skepticism about the link between the Chicxulub impact event and the period of mass extinction at the end of the Cretaceous. The original Alvarez hypothesis triggered a strong research effort, fueled in part by its opponents, who contend that changes in climate due to continental drift, increased volcanism, and other processes on Earth, rather than extraterrestrial causes, could have caused mass extinction 65 million years ago. As some researchers point out, hypotheses about the Cretaceous extinctions may not be mutually exclusive. It is possible that an asteroid impact was the sudden final blow in an environmental assault on late Cretaceous life that included more gradual processes. And such collisions may have played roles in other mass extinctions. For example, in 2001, a research team reported geologic evidence that the Permian extinctions, the greatest dying of all, corresponded in time to an asteroid collision with Earth.
+
+Whatever the causes, mass extinctions affect biological diversity profoundly. But there is a creative side to the destruction. The species that manage to survive these crises, whether by their adaptive qualities or by sheer luck, become the stock for new radiations that fill many of the biological roles vacated or newly created by the extinctions. We will trace several examples of such radiations in Unit Five.
+
+
+
+
+
+ Taxonomy employs a hierarchical system of classification
+
+The Linnaean system has two main characteristics: a two-part name for each species and a hierarchical classification of species into broader and broader groups of organisms.
+
+The Binomial
+
+Taxonomists assign to each species a two-part latinized name, or binomial. The first part of a binomial is the genus (plural, genera) to which the species belongs. The second part of a binomial, the specific epithet, refers to one species within the genus. An example of a binomial is Panthera pardus, the scientific name for the large cat we commonly call the leopard. Notice that the first letter of the genus is capitalized and that the whole binomial is italicized and latinized. (You can name a bug you discover after a friend, but you must add the appropriate Latin ending.)
+
+Common names--such as cat, bear, finch, and lilac--often work well in informal communication, but they can be ambiguous because there are many species of each of these kinds of organisms. When biologists publish their research, they refer to the organisms they have studied with scientific names (binomials) to avoid ambiguity. Many of the scientific names in use today date back to Linnaeus, who assigned binomials to over 11,000 species of plants and animals. In fact, perhaps in a show of optimism, Linnaeus assigned to humans the scientific name Homo sapiens, which means "wise man."
+
+Hierarchical Classification
+
+In addition to identifying and naming species, a major objective of systematics is to group species into broader taxonomic categories. The first step of such a hierarchical classification is built into the binomial for a species. We group species that are closely related into the same genus. For example the leopard, Panthera pardus, belongs to a genus that also includes the African lion (Panthera leo) and the tiger (Panthera tigris). Grouping species is natural for us--a way for us to structure our view of the world. We lump together several trees we know as oaks and distinguish them from several other species of trees we call maples. Indeed, oaks and maples belong to separate genera. Biology's taxonomic scheme formalizes our tendency to group related objects.
+
+Beyond the grouping of species within genera, taxonomy extends to progressively broader categories of classification. It places related genera in the same family, puts families into orders, orders into classes, classes into phyla (singular, phylum), phyla into kingdoms, and kingdoms into domains. Each taxonomic level is more comprehensive than the previous one. All species of cats are mammals, but not all mammals are cats. The named taxonomic unit at any level is called a taxon (plural, taxa). For example, Pinus is a taxon at the genus level, the generic name for the various species of pine trees. Mammalia, a taxon at the class level, includes all the many orders of mammals. Only the genus name and specific epithet are italicized, and all taxa at the genus level and beyond are capitalized.
+
+FIGURE 25.7 places the leopard in this taxonomic scheme of groups within groups. Classifying a species by kingdom, phylum, and so on, is analogous to sorting mail, first by zip code and then by street, house number, and specific member of the household. The phylogenetic trees that systematists construct reflect the hierarchical classification of taxonomic groups nested within more inclusive groups. FIGURE 25.8 illustrates the connection between phylogeny and classification with a simplified tree that includes the leopard.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-7. Hierarchical classification. The taxonomic scheme classifies species into groups belonging to more comprehensive groups. The leopard (Panthera pardus) belongs to the genus Panthera, which also includes the African lion and tiger. These wild felines belong to the cat family (Felidae), along with the genus Felis, which includes the domestic cat and several closely related wild cats, such as the lynx. Family Felidae belongs to the order Carnivora, which also includes the dog family, Canidae, and several other families. Order Carnivora, the carnivores, is grouped with many other orders in the class Mammalia, the mammals. Mammalia is one of several classes belonging to the phylum Chordata in the kingdom Animalia. The domain is an even broader taxonomic level. Domain Eukarya includes Kingdom Animalia and all other eukaryotic organisms.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-8. The connection between classification and phylogeny. Hierarchical classification is reflected in the finer and finer branching of phylogenetic trees. This tree suggests possible evolutionary relationships among some of the taxa within the order Carnivora, itself a branch of the class Mammalia.
+
+
+
+
+
+ Modern phylogenetic systematics is based on cladistic analysis
+
+Classification based on evolutionary history is called phylogenetic systematics. So far, we have assumed that the phylogeny of a group of species is already known, and then we have applied that knowledge to a hierarchical classification of the species (see FIGURE 25.8). But how do we reconstruct evolutionary history to draw phylogenetic trees in the first place? The fossil record helps, of course. Assessing relationships between living species by comparing their anatomy also provides data. And comparing two species' DNA (or proteins) gets to their hereditary relationships at the molecular level. But how do systematists evaluate all this information and apply it to tree building and classification? Today, most systematists practice what is called cladistic analysis, or simply cladistics. We can trace the seeds of this revolution in systematics to a book that German entomologist (insect specialist) Willi Hennig wrote 50 years ago. Let's examine some of the key elements of cladistic analysis.
+
+Clades: Monophyletic Groups
+
+A phylogenetic diagram based on cladistics is called a cladogram. It is a tree constructed from a series of dichotomies, or two-way branch points. Each branch point represents the divergence of two species from a common ancestor. For example, we could represent a branching within the cat family this way: 
+
+
+
+ We can also diagram dichotomous branching of taxa more inclusive than species, such as families or orders: 
+
+
+
+
+
+The "deeper" branch point represents evolutionary divergence from an ancestor common to both the cat and dog families. The sequence of branching symbolizes historical chronology; the last ancestor common to both the cat and dog families lived longer ago than the last ancestor shared by leopards and domestic cats.
+
+Each evolutionary branch in a cladogram is called a clade (from the Greek clados, branch). Notice that clades, like taxonomic levels, can be nested within larger clades. For example, the cat family represents a clade within a larger clade that also includes the dog family. But not all groupings of organisms qualify as clades. A clade consists of an ancestral species and all of its descendants. Such a group of species, be it a genus, family, or some higher taxa, is said to be monophyletic, which means "single tribe."FIGURE 25.9 contrasts a monophyletic group, or clade, with groupings of species that are unacceptable in the practice of cladistics.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-9. Monophyletic versus paraphyletic and polyphyletic groups.
+
+Constructing a Cladogram
+
+How do systematists decide on the sequence of branching in a cladogram? Put another way, how can we determine the similarities between species that are relevant for grouping the species as a clade? This can be quite a challenge. The first complication is that not all similarity represents common ancestry.
+
+Sorting Homology from Analogy. Recall from Chapter 22 that likeness attributed to shared ancestry is called homology. The forelimbs of mammals are homologous; that is, the similarity in the intricate skeleton that supports the limbs has a genealogical basis (see FIGURE 22.14).
+
+There is a wild card in this game of making evolutionary connections by evaluating similarity: Not all likeness qualifies as homology. Species from different evolutionary branches may come to resemble one another if they have similar ecological roles and natural selection has shaped analogous adaptations. This is called convergent evolution, and similarity due to convergence is called analogy, not homology (FIGURE 25.10). The wings of bats and those of birds, for example, are analogous flight equipment. The fossil record documents that bat wings and bird wings evolved independently from walking forelimbs of different ancestors. (Note that homology, like taxonomy, can be hierarchical; though the forelimbs of bats and birds are analogous as wings, they are homologous as forelimbs descendant from the basic vertebrate prototype limb.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-10. Convergent evolution and analogous structures. (a) The ocotillo of southwestern North America looks remarkably similar to (b) the allauidia found in Madagascar. The plants are not closely related and owe their resemblance to analogous adaptations that evolved independently in response to similar environmental pressures.
+
+As a general rule, the greater the number of homologous parts between two species, the more closely the species are related, and this should be reflected in their classification. This guideline is simpler in principle than it is in practice. Adaptation can obscure homologies, and convergence can create misleading analogies. As we saw in Chapter 22, comparing the embryonic development of the features in question can often expose homology that is not apparent in the mature structures.
+
+There is another clue to identifying homology and sorting it from analogy: The more complex two similar structures are, the less likely it is they evolved independently. Consider the skulls of a human and a chimpanzee, for example. The skulls are not single bones, but a fusion of many, and the two skulls match almost perfectly, bone for bone. It is highly improbable that such complex structures matching in so many details could have separate origins. Most likely, the genes required to build these skulls were inherited from a common ancestor.
+
+Identifying Shared Derived Characters. Beyond separating homologous from analogous similarity, systematists must sort through the homologies to identify what are called shared derived characters. "Character" here refers to any feature that a particular taxon possesses. The characters that are relevant to phylogeny, of course, are the homologous ones. For example, hair is a character shared by all mammals. But so is a backbone. The presence of a backbone cannot help us distinguish mammals from other vertebrates because nonmammalian vertebrates such as fishes and reptiles also have backbones. In other words, the backbone is a homology that predates the branching of the mammalian clade from the vertebrate tree; it is a shared primitive character, a homology common to a taxon more inclusive than the one we're trying to define. In contrast, hair is a homology found only in the vertebrates called mammals; in comparing mammals to other vertebrates, hair is a shared derived character, meaning an evolutionary novelty unique to a particular clade. The following flowchart summarizes the types of similarities between species: 
+
+
+
+ Note that the backbone can also qualify as a shared derived character, but at a deeper branch point that distinguishes all vertebrates from other animals. Among vertebrates, the backbone is a shared primitive character because it evolved in the ancestor common to all vertebrates. Thus, the sequence of branching in a cladogram represents the sequence in which evolutionary novelties, or shared derived characters, evolved.
+
+Performing Outgroup Comparison. As a key step in cladistic analysis, systematists use a method called outgroup comparison to differentiate shared characters that are derived from those that are primitive. Let's work with the simplified case of ordering five vertebrates--a leopard, a turtle, a salamander, a tuna, and a creature called a lamprey--into a cladogram. As a basis of comparison, we need to designate an outgroup, which is a species or group of species that is closely related to the species we are studying, but known to be less closely related than any study-group members are to each other (based on evidence from paleontology, analysis of embryonic development, and molecular biology, for example). A good choice of an outgroup in our example is an animal called a lancelet. The five vertebrates we are studying make up the ingroup, and we can begin building our cladogram by comparing this ingroup with the outgroup.
+
+Outgroup comparison is based on the assumption that homologies present in both the outgroup and the ingroup must be primitive characters that were already present in the ancestor common to both groups. In our study case, an example of such a character is a structure called a notochord, a flexible rod running the length of the animal. (In vertebrates, the notochord is present in embryos, but the only vestiges of the structure in adults of many vertebrates are the rubbery disks between the vertebrae of the backbone.) The species making up the ingroup display a mixture of shared primitive and shared derived characters. The outgroup comparison enables us to focus on just those characters that were derived at the various branch points of vertebrate evolution. FIGURE 25.11a tabulates examples of these characters. Note that all the vertebrates in the ingroup have backbones; thus, this is a shared primitive character that was present in the ancestral vertebrate, though not in the outgroup. Now note that the presence of jaws is a character absent in lampreys but present in other members of the ingroup. Thus, this character helps us identify the earliest branch point in the vertebrate clade. FIGURE 25.11b illustrates how the data in our table of homologies translate into a cladogram.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-11. Constructing a cladogram.
+
+Summary of Cladistic Analysis
+
+A cladogram represents the chronological sequence of branching during the evolutionary history of a set of organisms. Systematists infer this branching sequence by analyzing homologies, identifying the shared derived characters unique to each clade. In FIGURE 25.11b, for example, we can infer from cladistic analysis that the turtle-leopard clade includes a common ancestor that is more recent than the ancestor of the salamander-turtle-leopard clade.
+
+Do not confuse this chronology of phylogenetic branching with the vintages of the organisms we are comparing. For example, the cladogram in FIGURE 25.11b does not indicate that all turtles evolved more recently than all salamanders, but only that their common ancestor preceded the ancestor of the turtle-leopard clade. A particular species of turtle may be a very old member of that clade, while the salamander species used in the cladistic analysis may be a relatively recent member of an older clade. This is analogous to an early building in a relatively new city being older than a new building in a more ancient city. Note also that the chronology represented in a cladogram is relative (earlier versus later) rather than absolute (so many millions of years ago). Many of the evolutionary trees you will see in the next unit of chapters and elsewhere in this book are based on a combination of cladistic analysis and the use of fossil evidence and other data to place the phylogenetic branch points in the context of geologic time. (See FIGURE 29.1 for an example.)
+
+Systematists can use the cladograms they construct to place species in the taxonomic hierarchy of groups within groups, reflecting the nesting of clades within more comprehensive clades. FIGURE 25.12, page 498, applies this principle to a group of mammals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-12. Cladistics and taxonomy. We can use the pattern of clades nested within clades to order species into a hierarchy of higher taxa. In this cladogram of mammals, a reptile (turtle) serves as the outgroup. The crossbars preceding branch points along the cladogram are labeled with examples of derived characters that evolved in the ancestor of each clade.
+
+Some systematists now argue that the hierarchical system of classification is antiquated because it is so disruptive to rearrange taxa when a cladogram is revised based on new evidence. These systematists propose replacing the Linnaean system with a strictly cladistic classification called phylocode. Advocates of this alternative taxonomy simply name clades without the hierarchical tags, such as class, order, and family. For example, two clades we can extract from FIGURE 25.11b might be named clade Vertebrata and clade Amniota (the vertebrates with amniotic, or shelled, eggs). So far, most biologists still prefer a hierarchical system of taxonomic levels as a more useful way of organizing the diversity of life.
+
+Each diagram of phylogeny, be it a cladogram or an evolutionary tree that incorporates a time scale, represents a hypothesis or a set of hypotheses about how the organisms in the tree are related. New evidence can compel systematists to revise their trees. And such reassessment has accelerated with the application of molecular methods for comparing species and tracing phylogeny.
+
+
+
+
+
+ Systematists can infer phylogeny from molecular data
+
+When tracing phylogeny and classifying organisms, it is useful to compare macromolecules as well as anatomical characters. If homology reflects common ancestry, then comparing the genes and gene products (proteins) of organisms gets right to the heart of their evolutionary relationships. Sequences of nucleotides in DNA are inherited, and they program corresponding sequences of amino acids in proteins. At the molecular level, the evolutionary divergence of species parallels the accumulation of differences in their genomes. The more recently two species have branched from a common ancestor, the more similar their DNA and amino acid sequences should be. Today, both the amino acid sequences for many proteins and the nucleotide sequences for a rapidly expanding archive of DNA from diverse species are in databases available via the Internet. This has catalyzed a boom in systematics, as researchers use the databases to trace phylogeny by comparing the hereditary information of different species.
+
+Molecular systematics makes it possible to assess phylogenetic relationships that cannot be measured by comparative anatomy and other nonmolecular methods. One application is comparison of species too closely related to display much divergence in morphology. At the other extreme, molecular systematics makes it possible to trace evolutionary relationships of species that are so different that there is little morphological homology; for example, it would be impossible to tell from morphology that fungi are more closely related to animals than they are to plants. Thus, molecular biology helps extend phylogenetic systematics to the extremes of evolutionary relationships, to the major branches and the finest twigs of the tree of life.
+
+Phylogenetic Data from DNA Sequences
+
+Systematists use a variety of methods to compare the proteins and nucleic acids of species, but most research is now based on comparison of nucleotide sequences in DNA or RNA. Each nucleotide position along a stretch of DNA represents an inherited character in the form of one of the four DNA bases: A (adenine), G (guanine), C (cytosine), or T (thymine). Thus, homologous regions of DNA from two species that are 1,000 nucleotides long provide 1,000 points of comparison. And a systematist may compare several DNA regions to assess the relationship between two species. Automated DNA sequencers enable researchers to collect an enormous amount of data, and computers make it possible to analyze the extensive quantity of genetic information. This DNA sequence analysis provides a quantitative tool for constructing cladograms with branch points defined by mutations in DNA sequence that mark each clade--the shared derived characters of molecular systematics.
+
+The rates of change in DNA sequences over evolutionary time vary from one part of the genome to another. The DNA coding for ribosomal RNA (rRNA) changes relatively slowly, so comparisons of DNA sequences in these genes (or their products, rRNA) is useful for investigating relationships between taxa that diverged hundreds of millions of years ago. For example, systematists have focused on rRNA genes to help sort out the phylogeny of the animal phyla. In contrast, the DNA in mitochondria (mtDNA) evolves relatively rapidly. Thus, some systematists compare mtDNA sequences to assess the phylogeny of species that are relatively closely related or even populations of the same species. For example, one research team used mtDNA sequences to trace the relationships between different groups of Native Americans. Their results corroborate evidence that the Pima of Arizona, the Maya of Mexico, and the Yanomami of Venezuela are closely related, probably descending from the first of three waves of immigrants to cross the Bering Land Bridge from Asia to the Americas during the glaciation of the late Pleistocene epoch.
+
+Aligning the DNA Sequences
+
+DNA comparisons pose technical challenges. The first step in analyzing the genetic data is to align homologous DNA sequences from the two species we are comparing. If the two species have diverged from a common ancestor relatively recently, the sequences of homologous regions of DNA will probably be identical in length. Of course, along this homologous sequence, the two species may differ in which base is present at one or a few sites. In contrast, less closely related species may have homologous DNA sequences that differ not only in the bases at certain sites but also in their total length. This is because of an accumulation over evolutionary time of mutations such as insertions and deletions that alter the lengths of genes (see Chapter 17). Suppose, for example, that two DNA sequences were very similar, but a deletion mutation eliminated the first base of the sequence in one of the species. This would shift the remaining sequence forward a notch, and a point-by-point comparison of the two sequences would then distort what in fact is a very good match. FIGURE 25.13 illustrates a simplified example of how systematists use computer programs to align homologous DNA segments that differ in length.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-13. Aligning segments of DNA. This simplified example illustrates how insertion and deletion mutations can alter the length of DNA segments and make point-by-point comparison between two species challenging. Systematists use computer programs that search for similar sequences along the DNA segments from the two species. The programs then reestablish alignment by inserting gaps in one DNA segment to compensate for mutations that altered sequence length. This now makes it possible to compare sequences in homologous regions along the DNA segments. (In this example, the homologous sequences are identical.)
+
+
+
+
+
+ The principle of parsimony helps systematists reconstruct phylogeny
+
+We can use DNA sequence data to learn more about general systematic theory. After sequence alignment and the point-by-point comparisons of base sequences in homologous DNA from a set of species, systematists may convert the data to phylogenetic trees. In making the sequence comparisons, each base change--say, a point mutation that changes a G to an A--counts as one evolutionary event. Challenged with many such base changes throughout a set of species, a systematist has quite a phylogenetic puzzle to solve. If there are only a few species in the set, then the number of ways to construct a phylogenetic tree based on the DNA sequence data is not too large (FIGURE 25.14, p. 500). But let's say a systematist is trying to construct a phylogeny for 50 species. About 3 &#160;X&#160; 1076 trees are possible for a 50-species problem! Even a supercomputer would take too long to search for the tree that best fits the DNA data. But for more manageable data sets, systematists can screen the tree variations by using a principle called parsimony.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-14. Simplified version of a four-species problem in phylogenetics. Here are just three of the many possible trees we can draw for the phylogeny of four closely related species of birds.
+
+Applied to science, the principle of parsimony states that a theory about nature should be the simplest explanation that is consistent with the facts. In other words, "keep it simple." The parsimony principle is sometimes called "Occam's Razor," in honor of William of Occam, a 14th-century English philosopher who is held to have advocated this minimalist approach to problem solving. (The "razor" refers to the shaving off of unneeded complications.) Six centuries later, the philosopher Bertrand Russell reinforced the principle of parsimony with these words: "It is vain to do with more what can be done with fewer."
+
+Systematists apply the principle of parsimony to construct phylogenetic trees that represent the smallest number of evolutionary changes. In the case of cladograms based on morphological characters, the most parsimonious tree is the one that requires the fewest evolutionary events in the form of shared derived characters. FIGURE 25.15 (pp. 500-501) walks you through the construction of the most parsimonious tree based on DNA sequence data for the relatively simple case of the four-species problem introduced in FIGURE 25.14. For species sets much larger, we would need a computer to serve as an electronic razor to shave away all the possible trees that are unnecessarily complicated in our quest for parsimony.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 25-15. Parsimony and molecular systematics. Follow the steps to search for the most parsimonious tree representing the phylogeny of the four species introduced in FIGURE 25.14. (We are evaluating only three of the possible trees.)
+
+
+
+
+
+ Phylogenetic trees are hypotheses
+
+Considering how most of us struggle to understand biological complexity, especially in molecular biology, it is certainly not intuitive that parsimony should be our guide. Given a choice of many possible phylogenetic trees that we could draw based on DNA sequence data, why should we prefer the one with the fewest number of evolutionary changes as our best hypothesis for the relationships among a set of species? The rationale is that for any of a species' characters, whether molecular or morphological, hereditary fidelity is more common than change. At the molecular level, point mutations do occasionally change a base within a DNA sequence. But exact transmission of the sequence from generation to generation is thousands of times more common than change. The same rationale applies to morphology. For example, humans and apes share a number of skeletal novelties not found in other primates (the mammalian order that includes monkeys, apes, and humans). We could construct a primate phylogeny that places humans and apes on relatively distant clades. However, such a cladogram would assume the unnecessarily complicated scenario that a whole set of skeletal changes evolved twice in separate ancestors instead of just once in an ancestor common to apes and humans. The most parsimonious cladogram of primates, whether based on morphological or molecular data, places humans and apes as very close relatives.
+
+This is a good time to reinforce the point that any phylogenetic diagram is a hypothesis. Given a choice of possible trees we can draw for a set of species or higher taxa, the best hypothesis is the one that is the best fit for all the available data. In the absence of conflicting information, the most parsimonious tree is the logical choice among alternative hypotheses. But sometimes there may be compelling evidence that the best hypothesis is a phylogeny that is not the most parsimonious. Perhaps the particular morphological or molecular character we are using to sort taxa actually did evolve multiple times. For example, both birds and mammals have hearts with four chambers (two atria and two ventricles; see Chapter 42). And we know from the fossil record that both birds and mammals evolved from reptiles. The parsimonious assumption for the four-chambered heart would be that it evolved once and was present in a reptilian ancestor common to birds and mammals (FIGURE 25.16a). But abundant evidence indicates that birds and mammals evolved from different reptilian ancestors. Thus, the four-chambered heart evolved at least twice in vertebrate history. This fact is inconsistent with the tree in FIGURE 25.16a, but consistent with the tree in FIGURE 25.16b.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-16. Parsimony and the analogy-versus-homology pitfall. The tree in (a) places a bird and a mammal on a clade that excludes the lizard. The tree in (b) recognizes a lizard-bird clade. If we made the mistake of interpreting the four-chambered hearts of birds and mammals as homologous instead of analogous, we might opt for the tree in (a) as our most parsimonious hypothesis. In fact, an abundance of evidence supports the hypothesis that birds and lizards are closer relatives than birds and mammals.
+
+In this example of vertebrate hearts, the problem is not so much with the principle of parsimony as it is with the analogy-homology issue; the four-chambered hearts of birds and mammals are analogous, not homologous. A matching change of bases in DNA sequences in two species can also occur independently; parsimony only suggests that such double changes in molecular evolution are less likely than inheritance of a single change from a common ancestor. The practice of parsimony in molecular systematics is more reliable if a phylo genetic tree is based on a large database of DNA sequence comparisons for the set of species in the tree. Similarly, occasionally misjudging an analogous similarity in morphology as a shared derived homology is less likely to distort a phylogenetic tree if each clade in the tree is defined by several derived characters. And the strongest phylogenetic hypotheses of all are those supported by both the molecular and morphological evidence, and, if it exists, by the fossil evidence.
+
+
+
+
+
+ Molecular clocks may keep track of evolutionary time
+
+The timing of evolutionary history in TABLE 25.1 is based mainly on the fossil record. In the past few decades, however, molecular biology has provided an independent method for placing the origin of taxonomic groups in time. Called molecular clocks, these new timing methods are based on the observation that at least some regions of genomes evolve at constant rates. If certain homologous DNA sequences or their protein products are compared for taxa that are known to have diverged from common ancestors during certain periods in the past, the number of nucleotide and amino acid substitutions is proportional to the time that has elapsed since the lineages branched. For example, the homologous proteins of bats and dolphins are much more alike than are those of sharks and tuna. This is consistent with the fossil evidence that sharks and tuna have been on separate evolutionary paths much longer than bats and dolphins. In this case, molecular divergence has kept better track of the time than have changes in morphology.
+
+Using Molecular Clocks to Measure Absolute Time
+
+It's one thing to use molecular clocks to help assess the relative chronology of branching in phylogeny--that sharks and tuna diverged earlier than bats and dolphins did, for example. But how accurate are molecular clocks for keeping absolute time? No genes mark time with precise tick-tock accuracy in their rates of base sequence changes. In fact, some regions of genomes evolve in fits and starts that are not at all clocklike. And even those genes that make good molecular clocks are accurate only in the statistical sense of a fairly smooth average rate of change; over time, there may still be chance deviations above and below that average rate.
+
+For a gene having a reliable average rate of evolution, the molecular clock can be calibrated in actual time. This is done by graphing the number of amino acid or nucleotide differences against the times for a series of evolutionary branch points known from the fossil record. The graph line representing the evolution rate of the molecular clock can then be used to estimate how long ago certain evolutionary episodes that cannot be discerned from the fossil record occurred--the origin of a species or some higher taxa, for example.
+
+Some biologists remain skeptical about the accuracy of molecular clocks. The regularity of some genes as molecular clocks implies that much of the change in DNA sequences is due to genetic drift and that the changes are mostly neutral--neither adaptive nor detrimental. Molecular evolution due to natural selection favoring certain DNA changes over others would probably be too irregular to mark time accurately. Thus, the skepticism of some scientists about molecular clocks partly reflects a more general debate about the extent to which neutral genetic variation can account for DNA diversity. Biologists who doubt some of the evolutionary conclusions based on molecular clocks are also critical of extrapolation to time spans beyond what has been calibrated to the fossil record. For example, molecular clocks that have been calibrated to fossil history extending back a few hundred million years have on occasion been used to attach time to evolutionary divergence that occurred a billion or more years ago. If molecular clocks are used judiciously, however, they will continue to help evolutionary biologists reconstruct the past.
+
+Using a Molecular Clock to Date the Origin of HIV
+
+In the year 2000, a research team at Los Alamos National Laboratory in New Mexico used a molecular clock to date the origin of HIV infections in humans. The pathogen HIV is the virus that causes AIDS. The virus descended from related viruses that infect chimpanzees and another primate called the sooty mangabey (the viruses do not cause any AIDS-like diseases in these nonhuman hosts). When did the virus jump from its simian hosts to first infect humans? The question does not have a simple answer because the virus has spread to humans more than once. These multiple origins of HIV are reflected in the various major strains (genetic types) of the virus that cause AIDS in humans. The most widespread strain in the global AIDS epidemic is HIV-1 M. Because HIV evolves very rapidly, samples of the virus differ even when taken from patients who were infected with HIV-1 M just a few years apart. To pinpoint the time of the earliest HIV-1 M infection, the Los Alamos researchers calibrated a molecular clock by comparing DNA sequences in a specific HIV gene obtained from patients sampled at different times in the history of the epidemic. The data enabled the scientists to project backward to the 1930s as the probable time of the first HIV-1 M invasion of humans (FIGURE 25.17, p. 504).
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-17. Dating the origin of HIV-1 M with a molecular clock. The numerous dots in the upper right-hand corner of this graph are based on DNA sequences for a specific HIV gene in blood samples collected from patients at different known times. The scale on the y axis is a measure of the number of base changes in the gene serving as the molecular clock. Note that during the span of time that the HIV samples were collected from the patients in this data set, between the early 1980s and the late 1990s, the gene evolved at a relatively consistent rate. If we project that rate backward in time, we intersect the time axis (x axis) of the graph during the 1930s. The team that published this research concluded that the HIV-1 M strain first infected humans in the 1930s.
+
+
+
+
+
+ Modern systematics is flourishing with lively debate
+
+Systematics is thriving today at the interface of modern evolutionary biology and current taxonomic theory. Biologists have been accumulating phenotypic information, mainly morphological, about diverse species, living and extinct, for centuries. The development of cladistics provided more objective methods for comparing morphology and incorporating the data into phylogenetic hypotheses, or cladograms. Molecular systematics added a powerful new tool in comparative biology, extending the analysis of phylogenetic relationships down to the level of DNA.
+
+Cladistic analysis and molecular systematics, complemented by a revival of interest in paleontology and comparative biology in the past few decades, are stimulating a reassessment of phylogeny that is bringing us closer to understanding the history of life on Earth. In many cases, independent approaches, such as paleontology and DNA sequencing, converge in supporting a particular phylogenetic hypothesis. For example, the fossil record, comparative anatomy, and molecular comparisons all concur that crocodiles are more closely related to birds than to lizards and snakes, a conclusion that probably would have surprised Linnaeus and Darwin (FIGURE 25.18).
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-18. Modern systematics is shaking some phylogenetic trees. In our traditional vertebrate taxonomy, crocodiles, snakes, lizards, and other reptiles are classified in the class Reptilia, while birds are placed in a separate class (Aves). But most vertebrate systematists now agree that crocodiles are actually more closely related to birds than they are to lizards and snakes. Thus, the class Reptilia, in its traditional form, is paraphyletic, not monophyletic (see FIGURE 25.9).
+
+In other cases, molecular data are at odds with other evidence, such as the fossil record. One such debate centers on the origin of the major groups (orders) of mammals. The oldest fossils of mammals date back 220 million years, into the Triassic period (see TABLE 25.1). However, fossils documenting the origin of most modern mammalian orders are much younger, dating to the early Tertiary period, about 60 million years ago, after the extinction of the dinosaurs. In apparent contradiction of the fossil evidence, molecular clocks push the origin of the major mammalian orders back closer to 100 million years ago. Many researchers place more trust in the fossil evidence and express doubts about whether the molecular clocks are reliable. The counterargument is that the paleontologists have not yet documented an earlier origin for most mammalian orders because the fossil record is incomplete. Between these two extremes is a phylogenetic fuse hypothesis: Perhaps the modern mammalian orders originated about 100 million years ago, but did not proliferate extensively enough to be noticeable in the fossil record until after the extinction of the dinosaurs almost 40 million years later (FIGURE 25.19). Additional research may help to resolve the debate about mammalian history.
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-19. When did most major mammalian orders originate? These simplified trees include just four orders of mammals. (a) According to the fossil record, the orders are tens of millions of years younger than the age inferred from (b) molecular clocks. (c) A possible reconciliation is the "phylogenetic fuse" hypothesis of an earlier origin followed by a later diversification within the orders. According to this hypothesis, the "explosion," symbolized in the diagram by the thicker lines, made the animals abundant and widespread enough to show up in the fossil record.
+
+Note again that the cladistic approach focuses only on the sequence of phylogenetic branching in evolution, not on the degree of evolutionary divergence between branches. To appreciate this distinction, return to FIGURE 25.18. A strict practitioner of cladistics would argue that a taxonomic separation of crocodiles and birds in the vertebrate classes Reptilia and Aves, respectively, is obsolete. Other evolutionary biologists counter that a useful taxonomy should reflect both features of phylogenetic trees: the sequence of branching and the extent of divergence between branches. In the case of birds, many biologists still prefer to assign them to a class separate from all reptiles because the evolutionary adaptations of birds associated with flight have been so extensive. We will examine many such debates about classification in the next unit of chapters, which surveys the diversity of life in an evolutionary context.
+
+In this unit, we have seen how the Darwinian theme of descent with modification has shaped all of biology. We have also seen that evolutionary theory itself has evolved as new methods, new data, and new ideas have continued to refine our view of life. Vigorous debate is vital to that progress and is a healthy sign that evolutionary biology is a robust science.
+
+
+
+

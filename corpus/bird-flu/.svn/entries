@@ -1,0 +1,208 @@
+9
+
+dir
+344
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/corpus/bird-flu
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+bbc_Feb-3.txt
+file
+
+
+
+
+2006-02-28T14:27:38.000000Z
+95d93ffe0fa527d4bd21987fe903842a
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+bird-flu-souces.txt
+file
+
+
+
+
+2006-02-28T20:31:12.000000Z
+2bb8c716f6f2395d0da2759aa864a1ed
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+Yahoo-India_Jan-30.txt
+file
+
+
+
+
+2006-02-28T20:22:32.000000Z
+ac55b8e43e5e4121e68ef26bfdf5a7fb
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+BBC_March24_annotated-parses.tx
+file
+
+
+
+
+2006-03-27T14:00:16.000000Z
+9e4d3f9515120031d2633f50c255b478
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+Newsfactor_Feb-16.txt
+file
+
+
+
+
+2006-02-28T20:30:04.000000Z
+8c566016b4a9298e439703bc8ae5f26c
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+Aljazeera_Jan-18.txt
+file
+
+
+
+
+2006-02-28T15:02:42.000000Z
+efe977d231f788f684fc1c23ea4da76d
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+sublanguages.txt
+file
+
+
+
+
+2006-02-28T20:35:02.000000Z
+d7c83a52af8c28a9918e839798ffc6d0
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+french-swans
+dir
+
+iraqi-girl
+dir
+
+bbc_March-24.txt
+file
+
+
+
+
+2006-03-24T18:25:42.000000Z
+0dcd6dff189718ccbbfd84b57af46aa7
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+West-Bengal 1-19-08.rtfd
+dir
+
+WestBengal 2-7-08.rtfd
+dir
+
+West-Bengal_1-23-08.lisp
+file
+
+
+
+
+2008-01-23T13:20:53.000000Z
+6b7eb09b5f0c2b01211d5afdba33bed4
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+
+West-Bengal_1-24-08.lisp
+file
+
+
+
+
+2008-01-24T19:53:48.000000Z
+b52df24be46c4ab6bdc9fd14772ad2f9
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+
+ABCNews_Jan-30.txt
+file
+
+
+
+
+2006-02-28T20:24:28.000000Z
+7af434bc09c8e5787f37c6e61d091533
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+bird-flu.march-24.parses
+file
+
+
+
+
+2006-03-27T13:54:22.000000Z
+54d476a03eef15fec75212e0c5b4ee8b
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+bbc_Jan-31.txt
+file
+
+
+
+
+2006-02-28T14:26:32.000000Z
+42f5d2642ae3912fa12327065a8e1daa
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+bbc_March-3.txt
+file
+
+
+
+
+2006-03-15T13:15:40.000000Z
+b5dfe0a4ffc90e21fb3371bd9b143f92
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+

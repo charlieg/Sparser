@@ -1,0 +1,590 @@
+
+Chapter 23: THE EVOLUTION OF POPULATIONS
+
+POPULATION GENETICS
+
+   The modern evolutionary synthesis integrated Darwinian selection and Mendelian inheritance
+
+   A population's gene pool is defined by its allele frequencies
+
+   The Hardy-Weinberg theorem describes a nonevolving population
+
+
+
+CAUSES OF MICROEVOLUTION
+
+   Microevolution is a generation-to-generation change in a population's allele frequencies
+
+   The two main causes of microevolution are genetic drift and natural selection
+
+
+
+GENETIC VARIATION, THE SUBSTRATE FOR NATURAL SELECTION
+
+   Genetic variation occurs within and between populations
+
+   Mutation and sexual recombination generate genetic variation
+
+   Diploidy and balanced polymorphism preserve variation
+
+
+
+A CLOSER LOOK AT NATURAL SELECTION AS THE MECHANISM OF ADAPTIVE EVOLUTION
+
+   Evolutionary fitness is the relative contribution an individual makes to the gene pool of the next generation
+
+   The effect of selection on a varying characteristic can be directional, diversifying, or stabilizing
+
+   Natural selection maintains sexual reproduction
+
+   Sexual selection may lead to pronounced secondary differences between the sexes
+
+   Natural selection cannot fashion perfect organisms
+
+One obstacle to understanding evolution is the common misconception that individual organisms evolve, in the Darwinian sense, during their lifetimes. In fact, natural selection does act on individuals; their characteristics affect their chances of survival and their reproductive success. But the evolutionary impact of this natural selection is only apparent in tracking how apopulation of organisms changes over time. Consider, for example, representatives from a population of marine snails (Liguus fascitus) in the photograph above. Their different patterns of coloration represent genetic variations within that population. If predators feed preferentially on snails having a particular coloration, then the proportion of individuals with that coloration probably will decline from one generation to the next because such snails will produce fewer offspring. Thus, it is the population, not its individuals, that evolves; some characteristics become more common within the overall population, while other characteristics decline. FIGURE 23.1 (p. 446) illustrates another example of this principle. Evolution on the smallest scale, or microevolution, can be defined as a change in the allele frequencies of a population (see p. 249 to review the definition of alleles). We begin our study of microevolution by tracing how biologists finally began to understand Darwin's theory of natural selection during the first half of the 20th century.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-1. Individuals are selected, but populations evolve. The bent grass (Agrostis tenuis) in the foreground is growing on the tailings of an abandoned mine in Wales. These plants tolerate concentrations of heavy metals that are toxic to other plants of the same species growing just meters away, in the pasture on the other side of the fence. Each year, many seeds land on the mine tailings, but most are unable to grow successfully there. The only plants that germinate, grow, and reproduce are those that inherited genes enabling them to tolerate metallic soil. Thus, this adaptation does not evolve by individual plants becoming more metal-tolerant during their lifetimes. We can only see the evolution of this population by observing the proportions of metal-tolerant plants in successive generations.
+
+
+
+
+
+POPULATION GENETICS
+
+ 
+
+ The modern evolutionary synthesis integrated Darwinian selection and Mendelian inheritance
+
+
+
+ 
+
+ A population's gene pool is defined by its allele frequencies
+
+
+
+ 
+
+ The Hardy-Weinberg theorem describes a nonevolving population
+
+
+
+The Origin of Species convinced most biologists that species are products of evolution, but Darwin was not nearly so successful in gaining acceptance for his idea that natural selection is the main mechanism of evolution. Natural selection requires hereditary processes that Darwin could not explain. His theory was based on what seems like a paradox of inheritance: Like begets like--but not exactly. What was missing in Darwin's explanations was an understanding of inheritance that could explain how chance variations arise in a population while also accounting for the precise transmission of these variations from parents to offspring. Although Gregor Mendel and Charles Darwin were contemporaries, Mendel's discoveries were unappreciated at the time, and apparently no one noticed that he had elucidated the very principles of inheritance that could have resolved Darwin's paradox and given credibility to natural selection.
+
+
+
+
+
+CAUSES OF MICROEVOLUTION
+
+ 
+
+ Microevolution is a generation-to-generation change in a population's allele frequencies
+
+
+
+ 
+
+ The two main causes of microevolution are genetic drift and natural selection
+
+
+
+
+
+
+
+GENETIC VARIATION, THE SUBSTRATE FOR NATURAL SELECTION
+
+ 
+
+ Genetic variation occurs within and between populations
+
+
+
+ 
+
+ Mutation and sexual recombination generate genetic variation
+
+
+
+ 
+
+ Diploidy and balanced polymorphism preserve variation
+
+
+
+Heritable variation is at the heart of Darwin's theory of evolution, for variation provides the raw material--the substrate--on which natural selection works.
+
+
+
+
+
+A CLOSER LOOK AT NATURAL SELECTION AS THE MECHANISM OF ADAPTIVE EVOLUTION
+
+ 
+
+ Evolutionary fitness is the relative contribution an individual makes to the gene pool of the next generation
+
+
+
+ 
+
+ The effect of selection on a varying characteristic can be directional, diversifying, or stabilizing
+
+
+
+ 
+
+ Natural selection maintains sexual reproduction
+
+
+
+ 
+
+ Sexual selection may lead to pronounced secondary differences between the sexes
+
+
+
+ 
+
+ Natural selection cannot fashion perfect organisms
+
+
+
+Adaptive evolution is a blend of chance and sorting--chance in the creation of new genetic variations by mutation and sexual recombination, and sorting in the workings of selection as it favors the propagation of some chance variations over others. From the range of variations available to it, natural selection increases the frequencies of certain genotypes and fits organisms to their environments. In this section, we take a closer look at natural selection as the mechanism of evolutionary adaptation.
+
+
+
+
+
+ The modern evolutionary synthesis integrated Darwinian selection and Mendelian inheritance
+
+Ironically, when Mendel's research article was rediscovered and reassessed at the beginning of the 20th century, many geneticists believed that the laws of inheritance were at odds with Darwin's theory of natural selection. Darwin considered the raw material for natural selection to be quantitative characters, those characteristics in a population that vary along a continuum, such as fur length in mammals or the speed with which an animal can flee from a predator. We know today that quantitative characters are influenced by multiple genetic loci. (To review polygenic inheritance and quantitative characters, see Chapter 14.) But Mendel (and later the geneticists of the early 20th century) recognized only discrete "either-or" traits, such as purple or white flowers in pea plants, as heritable. Thus, there seemed to be no genetic basis for natural selection to work on the more subtle variations within a population that were central to Darwin's theory.
+
+An important turning point for evolutionary theory was the birth of population genetics, which emphasizes the extensive genetic variation within populations and recognizes the importance of quantitative characters. With progress in population genetics in the 1930s, Mendelism and Darwinism were reconciled, and the genetic basis of variation and natural selection was worked out.
+
+A comprehensive theory of evolution that became known as the modern synthesis began to take form in the early 1940s. It is called a synthesis because it integrates discoveries and ideas from many different fields, including paleontology, taxonomy, biogeography, and, of course, population genetics. The architects of this modern synthesis included geneticists Theodosius Dobzhansky (1900-1975) and Sewall Wright (1889-1988), biogeographer and taxonomist Ernst Mayr (1904-), paleontologist George Gaylord Simpson (1902-1984), and botanist G. Ledyard Stebbins (1906-2000). The modern synthesis emphasizes the importance of populations as the units of evolution, the central role of natural selection as the most important mechanism of evolution, and the idea of gradualism to explain how large changes can evolve as an accumulation of small changes occurring over long periods of time. No scientific paradigm is likely to endure without modification for half a century. Many evolutionary biologists are now challenging some of the assumptions of the modern synthesis. Still, 20th-century biology has been profoundly affected by the modern synthesis, which has shaped most of our ideas about how populations evolve.
+
+
+
+
+
+ A population's gene pool is defined by its allele frequencies
+
+A population is a localized group of individuals belonging to the same species. For now, we will define a species as a group of populations whose individuals have the potential to interbreed and produce fertile offspring in nature (this definition will be examined more critically in Chapter 24). Each species is distributed over a certain geographic range, but within this range individuals are usually concentrated in several localized populations. A population may be isolated from other populations of the same species, exchanging genetic material only rarely. Such isolation is particularly common for populations confined to widely separated islands, unconnected lakes, or mountain ranges separated by lowlands. However, populations are not always isolated, nor do they necessarily have sharp boundaries. One dense population center may blur into another in an intermediate region where members of the species occur but are less numerous. Although these populations are not isolated, individuals are still concentrated in centers and are more likely to breed with members of the same population than with members of other populations. Therefore, individuals near a population center are, on average, more closely related to one another than to members of other populations (FIGURE 23.2).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-2. Population distribution. (a) Separated by a river bottom, where firs are uncommon, the two Douglas fir populations are not totally isolated. Interbreeding occurs when wind blows pollen between the populations. Nonetheless, trees are more likely to breed with members of the same population than with trees on the other side of the river. (b) This nighttime satellite view of the eastern United States shows the lights of human population centers. People move around the country, of course, but people are more likely to choose mates locally.
+
+The total aggregate of genes in a population at any one time is called the population's gene pool. It consists of all alleles at all gene loci in all individuals of the population. For a diploid species, each locus is represented twice in the genome of an individual, who may be either homozygous or heterozygous for those homologous loci. (Recall that homozygous individuals have two identical alleles for a given character, whereas heterozygous individuals have two different alleles for that character.) If all members of a population are homozygous for the same allele, that allele is said to be fixed in the gene pool. Often, however, there are two or more alleles for a gene, each having a relative frequency (proportion) in the gene pool.
+
+An example will make the concept of allele frequency in a gene pool less abstract. Imagine a wildflower population with two varieties contrasting in flower color. An allele for red flowers, which we will symbolize by R, is completely dominant to an allele for white flowers, symbolized by r. For our simplified situation, these are the only two alleles for this locus in the population. Suppose an imaginary population has 500 plants, and 20 of these plants have white flowers because they are homozygous for the recessive allele; their genotype is rr. The other 480 plants have red flowers; some of them will be homozygous (RR) and others will be heterozygous (Rr). Suppose that 320 plants are RR homozygotes and 160 are Rr heterozygotes. Because these are diploid organisms, there are a total of 1,000 copies of genes for flower color in the population of 500 individuals. The dominant allele (R) accounts for 800 of these genes (320 &#160;X&#160; 2 = 640 for RR plants, plus 160 &#160;X&#160; 1 = 160 for Rr individuals). Thus, the frequency of the R allele in the gene pool of this population is 800/1,000 = 0.8 = 80% . And because there are only two allelic forms of the gene, the r allele must have a frequency of 0.2, or 20% .
+
+
+
+
+
+ The Hardy-Weinberg theorem describes a nonevolving population
+
+Before we consider the mechanisms that cause a population to evolve, it will be helpful to examine, for comparison, the gene pool of a nonevolving population. Such a gene pool is described by the Hardy-Weinberg theorem, named for the two scientists who derived the principle independently in 1908. The theorem states that the frequencies of alleles and genotypes in a population's gene pool remain constant over the generations unless acted upon by agents other than Mendelian segregation and recombination of alleles. Put another way, the shuffling of alleles due to meiosis and random fertilization has no effect on the overall gene pool of a population.
+
+To apply the Hardy-Weinberg theorem, let's return to our imaginary wildflower population of 500 plants (FIGURE 23.3a, p. 448). Recall that 80%  (0.8) of the flower-color loci in the gene pool have the R allele and 20%  (0.2) have the r allele. How will meiosis during sexual reproduction affect the frequencies of the two alleles in the next generation of our wildflower population? We will assume that the union of sperm and ova in the population is completely random; that is, all male-female mating combinations are equally likely. The situation is analogous to mixing all gametes in a sack and then drawing them randomly, two at a time, to determine the genotype for each zygote (fertilized egg). Each gamete has one allele for flower color, and the allele frequencies of the gametes will be the same as the allele frequencies in the parent population. Every time a gamete is drawn from the pool at random, the chance that the gamete will bear an R allele is 0.8, and the chance that the gamete will have an r allele is 0.2.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 23-3. The Hardy-Weinberg theorem. The gene pool of a nonevolving population remains constant over the generations; Mendelian segregation alone will not alter the relative frequencies of alleles or genotypes. In this example (a hypothetical flower population), note that the frequencies of alleles and genotypes remain the same between one generation (a) and the next generation (b).
+
+Using the rule of multiplication (see Chapter 14), we can cal culate the frequencies of the three possible genotypes in the next generation of the population (FIGURE 23.3b). The probability of picking two R alleles from the pool of gametes is 0.8 &#160;X&#160; 0.8 = 0.64. Thus, about 64%  of the plants in the next generation will have the genotype RR. The frequency of rr individuals will be about 0.04 (0.2 &#160;X&#160; 0.2 = 0.04), or 4% . And 32% , or 0.32, of the plants will be heterozygous--that is, Rr or rR, depending on whether it is the sperm or ovum that supplies the dominant allele (frequency of Rr = 0.8 &#160;X&#160; 0.2 = 0.16; frequency of rR = 0.2 &#160;X&#160; 0.8 = 0.16; frequency of Rr + rR = 0.32).
+
+Hardy-Weinberg Equilibrium
+
+Notice in FIGURE 23.3 that the sexual processes of meiosis and random fertilization have maintained the same allele and genotype frequencies that existed in the previous generation of the wildflower population. For the flower-color locus, the population's gene pool is in a state of equilibrium--referred to as Hardy-Weinberg equilibrium. Theoretically, the allele frequencies could remain constant at 0.8 for R and 0.2 for r forever (though in reality, some other factor always intervenes). The Hardy-Weinberg theorem describes how the Mendelian system has no tendency to alter allele frequencies. For instance, the dominant allele (R) has no tendency to increase in frequency from one generation to the next relative to the recessive allele (r). The system operates somewhat like shuffling a deck of cards: No matter how many times the deck is reshuffled to deal out new hands, the deck itself remains the same. Aces do not grow more numerous than jacks. And the repeated shuffling of a population's gene pool over the generations cannot, in itself, increase the frequency of one allele relative to another.
+
+The Hardy-Weinberg Equation
+
+We can use our imaginary wildflower population to describe the Hardy-Weinberg theorem in more general terms. We will restrict our analysis to the simplest case of only two alleles, one dominant over the other. However, the Hardy-Weinberg theorem also applies to situations in which there are three or more alleles for a particular locus and no clear-cut dominance.
+
+For a gene locus where only two alleles occur in a population, population geneticists use the letter p to represent the frequency of one allele and the letter q to represent the frequency of the other allele. In our imaginary wildflower population, p = 0.8 and q = 0.2 (see FIGURE 23.3). Note that p + q = 1; the combined frequencies of all possible alleles must add to 100%  for that locus in the population. If there are only two alleles and we know the frequency of one, the frequency of the other can be calculated:
+
+If p + q = 1 then p = 1 - q and q = 1 - p
+
+When gametes combine their alleles to form zygotes, the probability of generating an RR genotype is p2 (an application of the rule of multiplication). In our wildflower population, p = 0.8, and p = 0.64, the probability of an R sperm fertilizing an R ovum to produce an RR zygote. The frequency of individuals homozygous for the other allele (rr) is q2, or 0.2 &#160;X&#160; 0.2 = 0.04 for the wildflower population. There are two ways in which an Rr genotype can arise, depending on which parent contributes the dominant allele. Therefore, the frequency of heterozygous individuals in the population is 2pq (2 &#160;X&#160; 0.8 &#160;X&#160; 0.2 = 0.32 in our example). If we have included all possible genotypes, the genotype frequencies add up to 1:
+
+p2+2pq+q2=1Frequency of RR genotypeFrequency of Rr plus rR genotypeFrequency of rr genotypeFor our wildflowers, this is 0.64+0.32+0.04=1.
+
+Population geneticists refer to this general formula as the Hardy-Weinberg equation. The equation enables us to calculate frequencies of alleles in a gene pool if we know frequencies of genotypes, and vice versa.
+
+Population Genetics and Health Science
+
+We can use the Hardy-Weinberg equation to estimate the percentage of the human population that carries the allele for a particular inherited disease. For instance, one out of approximately 10,000 babies in the United States is born with phenylketonuria (PKU), a metabolic disorder that, left untreated, results in mental retardation and other problems. (Newborn babies are now routinely tested for PKU, and symptoms can be prevented by following a strict diet.) The disease is caused by a recessive allele; thus, the frequency of individuals in the U.S. population born with PKU corresponds to q2 in the Hardy-Weinberg equation (q2 = frequency of the homozygous recessive genotype). Given one PKU occurrence per 10,000 births, q2 = 0.0001. Therefore, assuming Hardy-Weinberg proportions, the frequency of the recessive allele for PKU in the population is  and the frequency of the dominant allele is  The frequency of carriers, heterozygous people who do not have PKU but may pass the PKU allele on to offspring, is  Thus, about 2%  of the U.S. population carries the PKU allele.
+
+The Hardy-Weinberg Theorem and Genetic Variation
+
+The Hardy-Weinberg theorem is important conceptually and historically because it shows how Mendel's theory of inheritance plugs a hole in Darwin's theory of natural selection. Natural selection requires genetic variation; it cannot act in a genetically uniform population. The Hardy-Weinberg theorem explains how Mendelian inheritance preserves genetic variation from one generation to the next. Pre-Mendelian theories of inheritance were mainly "blending" theories, in which the hereditary factors in the offspring were thought to be a blend of the hereditary factors inherited from the two parents. If a red flower mates with a white one, blending theory predicts that the offspring will be a paler red and will now have hereditary factors for this paler red color. Genetic variation has been eliminated, since the two kinds of factors in the parents have been reduced to only one kind in the offspring. Such a hereditary mechanism would soon produce a uniform population. In Mendelian inheritance, however, the hereditary mechanism has no tendency by itself to reduce genetic variation. The set of alleles inherited by each generation from its parents are in turn passed on when that generation breeds. This nonblending mechanism of inheritance preserves the genetic variation upon which natural selection acts.
+
+The Assumptions of the Hardy-Weinberg Theorem
+
+For a population to be in Hardy-Weinberg equilibrium, it must satisfy five main conditions:
+
+Very large population size. In a population of finite size, especially if that size is small, genetic drift, which is chance fluctuation in the gene pool, can cause genotype frequencies to change over time.
+
+No migration. Gene flow, the transfer of alleles between populations due to the movement of individuals or gametes, can increase the frequency of any genotype that is in high frequency among the immigrants.
+
+No net mutations. By changing one allele into another, mutations alter the gene pool.
+
+Random mating. If individuals pick mates with certain genotypes, then the random mixing of gametes required for Hardy-Weinberg equilibrium does not occur.
+
+No natural selection. Differential survival and reproductive success of genotypes will alter their frequencies and may cause a detectable deviation from frequencies predicted by the Hardy-Weinberg equation.
+
+
+
+Thus, we do not really expect a natural population to be in Hardy-Weinberg equilibrium. And a deviation from the stability of a gene pool--and from Hardy-Weinberg equilibrium--usually results in evolution.
+
+
+
+
+
+ Microevolution is a generation-to-generation change in a population's allele frequencies
+
+The Hardy-Weinberg theorem is useful when we are studying evolution because it provides a baseline against which we can compare the allele and genotype frequencies of an evolving population. If the frequencies of alleles or genotypes deviate from values predicted by the Hardy-Weinberg equation, it is usually because the population is evolving.
+
+We can now refine our definition of evolution at the population level: Evolution is a generation-to-generation change in a population's frequencies of alleles. Because such change in a gene pool is evolution on the smallest scale, it is referred to more specifically as microevolution.
+
+Microevolution is occurring even if the frequencies of alleles are changing for only a single genetic locus. If we track allele and genotype frequencies in a population over a succession of generations, some loci may be at equilibrium while allele frequencies at other loci are changing. Such a population is evolving. For example, our imaginary wildflower population would be evolving if the frequencies of the red-flower and white-flower alleles were changing from generation to generation, even if Hardy- Weinberg equilibrium were maintained for all other genetic loci.
+
+
+
+
+
+ The two main causes of microevolution are genetic drift and natural selection
+
+The main factors that can act to alter the allele frequencies in a population are genetic drift, natural selection, gene flow, and mutation. Of these four, genetic drift and natural selection are more important, but we will look at mutation and gene flow as well. We will see that all four of these causes of microevolution represent departures from the conditions required for Hardy-Weinberg equilibrium. (We will not consider departures from the Hardy-Weinberg assumption of random mating; non-random mating can affect the relative frequencies of homozygous versus heterozygous genotypes, but often has no effect on allele frequencies.)
+
+Natural selection is the only cause of microevolution that generally adapts a population to its environment. The other agents of microevolution may affect populations in positive, negative, or neutral ways. Natural selection always has a positive effect, because selection favors the disproportionate propagation of favorable traits.
+
+Genetic Drift
+
+Flip a coin 1,000 times, and a result of 700 heads and 300 tails would make you very suspicious about that coin. But flip a coin ten times, and an outcome of seven heads and three tails would seem within reason. The smaller the sample, the greater the chance of deviation from an idealized result--an equal number of heads and tails, in the case of a sample of coin tosses. This deviation from the expected result, due to the sample size being finite in size rather than infinite, is called sampling error.
+
+Let's apply coin toss logic to a population's gene pool. If a new generation draws its alleles at random from the previous generation, then the larger the population (the sample size), the more closely the new generation will represent the gene pool of the previous generation. Thus, one requirement for a gene pool to maintain the status quo--Hardy-Weinberg equilibrium--is a large population size (actually infinitely large, an ideal never met). The gene pool of a small population may not be accurately represented in the next generation because of sampling error. It is analogous to the erratic outcome from a small sample of coin tosses.
+
+FIGURE 23.4 applies this concept of sampling error to a small population of wildflowers. Chance causes the frequencies of the alleles for red (R) and white (r) flowers to change over the generations. And that change fits our definition of microevolution. This evolutionary mechanism, a change in a population's allele frequencies due to chance, is called genetic drift. Two situations that can shrink populations down to a small size -- small enough for genetic drift to have large effects -- are known as the bottleneck effect and the founder effect.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-4. Genetic drift. This small wildflower population has a stable size of only ten plants. For generation 1, only the five boxed plants produce fertile offspring. Only two plants of generation 2 manage to leave fertile offspring. Over the generations, genetic drift can completely eliminate some alleles, as is the case for the r allele in generation 3 of this imaginary population.
+
+The Bottleneck Effect. Disasters such as earthquakes, floods, droughts, and fires may reduce the size of a population drastically. The small surviving population may not be representative of the original population's gene pool. By chance, certain alleles will be overrepresented among the survivors. Other alleles will be underrepresented. And some al leles may be eliminated altogether. Genetic drift may continue to change the gene pool for many generations until the population is again large enough for sampling errors to be less significant. The analogy in FIGURE 23.5 illustrates why genetic drift due to a drastic reduction in population size is called the bottleneck effect.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-5. The bottleneck effect: an analogy. Shaking just a few of the marbles through the bottleneck is like drastically reducing the size of a population following some environmental disaster. By chance, blue marbles are overrepresented in the new population, and gold marbles are absent. Similarly, bottlenecking a population of organisms tends to reduce variability.
+
+Bottlenecking usually reduces the overall genetic variability in a population because at least some alleles are likely to be lost from the gene pool. An important example of this concept is the potential loss of individual variation, and hence adaptability, in bottlenecked populations of endangered species, such as the cheetah. The fastest of all running animals, cheetahs are magnificent cats that were once widespread in Africa and Asia. Like many African mammals, their numbers fell drastically during the last ice age, some 10,000 years ago. At that time, the species may have suffered a severe bottleneck, possibly as a result of disease, human hunting, and periodic droughts. Some researchers think that the South African cheetah population suffered a second bottleneck during the 19th century when South African farmers hunted the animals to near extinction. Today, only three small populations of cheetahs exist in the wild. Genetic variability in these populations is very low compared to populations of other mammals. In fact, genetic uniformity in cheetahs rivals that of highly inbred varieties of laboratory mice!
+
+The Founder Effect. Genetic drift is also likely whenever a few individuals from a larger population colonize an isolated island, lake, or some other new habitat. The smaller the sample size, the less the genetic makeup of the colonists will represent the gene pool of the larger population they left. The most extreme case would be the founding of a new population by one pregnant animal or a single plant seed. If the colony is successful, genetic drift will continue to affect the frequency of alleles in the gene pool until the population is large enough for sampling errors from generation to generation to be minimal. Genetic drift in a new colony is known as the founder effect.
+
+The founder effect probably accounts for the relatively high frequency of certain inherited disorders among human populations established by a small number of colonists. In 1814, 15 people founded a British colony on Tristan da Cunha, a group of small islands in the Atlantic Ocean midway between Africa and South America. Apparently, one of the colonists carried a recessive allele for retinitis pigmentosa, a progressive form of blindness that afflicts homozygous individuals. Of the 240 descendants who still lived on the island in the late 1960s, four had retinitis pigmentosa, and at least nine others were known to be carriers, based on pedigree analysis. The frequency of this allele is much higher on Tristan da Cunha than in the populations from which the founders came. In addition to inherited diseases, the founder effect also alters the frequencies of many alleles that affect more subtle characteristics.
+
+Natural Selection
+
+Hardy-Weinberg equilibrium requires that all individuals in a population be equal in their ability to survive and produce viable, fertile offspring. This condition is probably never completely met. Populations consist of varied individuals, with some variants leaving more offspring than others. This differential success in reproduction is what Darwin meant by natural selection. Selection results in alleles being passed along to the next generation in numbers disproportionate to their relative frequencies in the present generation. One possible cause of such a disproportion might be differential survival. For example, in our imaginary wildflower population, perhaps white flowers (rr) are more visible to herbivorous insects, so that more white flowers are eaten. Plants with red flowers (RR or Rr) would therefore have more opportunity to produce offspring. Selection can also affect reproductive success more directly. For example, red flowers may be more effective than white ones in attracting the pollinators required for seed production. This difference would disturb Hardy-Weinberg equilibrium; the frequency of the R allele would increase in the gene pool, and the frequency of the r allele would decline.
+
+Of all the agents of microevolution that change a gene pool, only selection is likely to adapt a population to its environment. Natural selection accumulates and maintains favorable genotypes in a population.
+
+Natural selection and genetic drift cause most of the changes in allele frequencies that we observe in evolving populations. However, allele frequencies can also be changed by migration between populations or by mutation, and in some cases these factors are important.
+
+Gene Flow
+
+A population may gain or lose alleles by gene flow, genetic exchange due to the migration of fertile individuals or gametes between populations. Perhaps, for example, a population near our hypothetical wildflower population consists entirely of white-flowered individuals (rr). A windstorm may blow pollen from the rr population to our wildflower population, and allele frequencies may change in the next generation.
+
+Gene flow tends to reduce differences between populations. If it is extensive enough, gene flow can eventually amalgamate neighboring populations into a single population with a common gene pool. As humans began to move about the world more freely, gene flow undoubtedly became an important agent of microevolutionary change in populations that were previously quite isolated (FIGURE 23.6).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-6. Gene flow and human evolution. The migration of people throughout the world is transferring alleles between populations that were once isolated. This magazine cover celebrates America's changing gene pools and culture with a computer-generated image blending facial features from several immigrant groups.
+
+Mutation
+
+A mutation is a change in an organism's DNA (see Chapter17). A new mutation that is transmitted in gametes can immediately change the gene pool of a population by substituting one allele for another. For any one gene locus, mutation alone does not have much quantitative effect on a large population in a single generation, because a mutation at any given gene locus is a very rare event. If some new allele produced by mutation increases its frequency by a significant amount in a population, it is not because mutation is generating the allele in abundance, but because individuals carrying the mutant allele are producing a disproportionate number of offspring as a result of natural selection or genetic drift.
+
+Although mutations at a particular gene locus are rare, the cumulative impact of mutations at all loci can be significant. This is because each individual has thousands of genes, and many populations have thousands or millions of individuals. Certainly over the long term, mutation is, in itself, very important to evolution because it is the original source of the genetic variation that serves as raw material for natural selection.
+
+
+
+
+
+ Genetic variation occurs within and between populations
+
+You have no trouble recognizing your friends in a crowd. Each person has a unique genome, reflected in individual variations of appearance and temperament. lndividual variation occurs in populations of all species of sexually reproducing organisms. We are very conscious of human diversity. We are generally less sensitive to individuality in populations of other animals and of plants, and the diversity may escape our notice because the variations are subtle. But these slight differences between individuals in a population are the variations Darwin wrote most about as the raw material for natural selection. And in addition to the differences we can see, populations have extensive variation that can only be observed at the molecular level. For example, you cannot tell a person's ABO blood group (A, B, AB, or O) just by looking at him or her.
+
+Not all the variation we observe in a population is heritable. Phenotype is the cumulative product of an inherited genotype and a multitude of environmental influences. For example, bodybuilders alter their phenotypes dramatically. FIGURE 23.7 illustrates a striking example of environmentally induced variation in a butterfly population. It is important to remember that only the genetic component of variation can have evolutionary consequences as a result of natural selection, because it is the only component that transcends generations.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-7. A nonheritable difference within a population. These two European insects, called map butterflies (Araschnia levana), are seasonal forms of the same species: (a)Individuals that emerge in the spring are orange and brown; (b) individuals that emerge in late summer are black and white. Seasonal differences in hormones are responsible for these different phenotypes; the two forms you see here are genetically identical at the loci for coloration. Therefore, if these two forms differed in survival and fertility, that in itself would not lead to any change in the frequencies of the two phenotypes in the next generation.
+
+Variation Within Populations
+
+Both quantitative and discrete characters contribute to variation within a population. Most heritable variation consists of quantitative characters that vary along a continuum within a population. For example, plant height may vary continuously in our hypothetical wildflower population, from very short individuals to very tall individuals and everything in between. Quantitative variation usually indicates polygenic inheritance, an additive effect of two or more genes on a single phenotypic character (see Chapter 14). Discrete characters, such as red versus white flowers, can be classified on an either-or basis, usually because they are determined by a single gene locus with different alleles that affect distinct phenotypes.
+
+Polymorphism. When two or more forms of a discrete character are represented in a population, the different forms are called morphs--as in the red-flowered and white-flowered morphs of our wildflower population. A population is said to be polymorphic for a character if two or more distinct morphs are each represented in high enough frequencies to be readily noticeable. (Obviously, this definition is arbitrary, but a population is not considered polymorphic if it consists almost exclusively of a single morph, with other morphs extremely rare.) Look again at the photo on page 445 to see a striking example of polymorphism in a snail population. Polymorphism is extensive in human populations, both in physical characters, such as the presence or absence of freckles, and in biochemical characters, such as ABO blood groups (for which there are four morphs: type A, type B, type AB, and type O). Polymorphism applies only to discrete characters, not to characters such as human height, which varies among people in a continuum.
+
+Measuring Genetic Variation. Population geneticists measure genetic variation at both the level of whole genes (gene diversity) and at the molecular level of DNA (nucleotide diversity). Let's consider a population of fruit flies (Drosophila). The genome of a fruit fly has about 13,000 loci. The gene diversity of Drosophila is the average percent of these loci that are heterozygous. On average, a fruit fly is homozygous (has two matching alleles) at about 86%  of its loci. In other words, the flies, on average, are heterozygous (have two different alleles) at about 14%  of their gene loci. We would therefore say that the fly population has a gene diversity of 14% , meaning that fruit flies are heterozygous at about 1,800 of their 13,000 gene loci and homozygous at all the rest.
+
+Population geneticists measure nucleotide diversity by comparing the nucleotide sequences of DNA samples from two individuals and then pooling the data from many such comparisons of two individuals. The fruit fly genome has about 180 million nucleotides, and researchers have measured a nucleotide diversity in a population of about 1% . In other words, on average, two flies from the same population have different nucleotides at about 1.8 million nucleotide sites in their DNA.
+
+Population geneticists have also measured gene diversity and nucleotide diversity in humans. It turns out that we have relatively little genetic variation compared to most other species. Gene diversity is 14%  in humans, about the same as in fruit flies. But nucleotide diversity is only about 0.1%  in humans, a tenth of the diversity found in fruit fly populations. You and your neighbor have the same nucleotide at 999 out of every 1,000 nucleotide sites in your DNA. We are clearly much more genetically alike than we are different. Still, this is enough genetic variation to account for the hereditary component of the enormous individuality we notice in how people look and act (not to mention the biochemical differences, such as blood group, that are not outwardly visible).
+
+Variation Between Populations
+
+Most species exhibit geographic variation, differences in gene pools between populations or subgroups of populations. Because at least some environmental factors are likely to be different from one place to another, natural selection can contribute to geographic variation. For example, perhaps one population of our now-familiar wildflower species has a higher frequency of recessive alleles at the flower-color locus than other populations because of a local prevalence of pollinators that prefer white flowers (recessive homozygotes). Genetic drift can also cause chance variations among different populations.
+
+Geographic variation can also occur on a more local scale--that is, within a population--either because the environment has patchlike diversity or because the population is differentiated into subpopulations resulting from the limited dispersal of individuals.
+
+One particular type of geographic variation, called a cline, is a graded change in some trait along a geographic axis. In some cases, a cline may represent a graded region of overlap where individuals of neighboring populations are interbreeding. In other cases, a gradation in some environmental variable may produce a cline. For example, the average body size of many North American species of birds and mammals increases gradually with increasing latitude. Presumably, the reduced ratio of surface area to volume that accompanies larger size is an adaptation that helps animals conserve body heat in cold environments. Experimental studies of some clines confirm the role of genetic variation--rather than strictly environmental effects--in the spatial differences of phenotype (FIGURE 23.8).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-8. Clinal variation in a plant. Average size of yarrow plants (Achillea) growing on the slopes of the Sierra Nevada mountains gradually decreases with increasing elevation. Although the environment affects growth rates directly to some extent, some of the variation has a genetic basis. Researchers collected seeds at different elevations and grew plants in a common garden; the average sizes of the plants were correlated with the altitude at which the seeds were collected.
+
+In contrast to a cline, with its gradation of some characteristic, geographic variation between isolated populations often consists of discrete differences. FIGURE 23.9 illustrates one example, a study of geographic variation in house mice reported by researchers in 2000.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-9. Geographic variation between isolated populations of house mice. When the Portuguese first settled the small Atlantic island of Madeira during the 15th century, they inadvertently brought house mice (Mus musculus) with them. Because of the mountains that separated many of the early Portuguese settlements, several populations of the mice have evolved in isolation from one another. Today, differences can be seen in the karyotypes (chromosome sets) of some of these isolated populations. For example, researchers have found that various chromosomes in the Madeira populations are fused, reducing the chromosome count from the species' standard diploid chromosome number of 20 (2n = 20). However, the pattern of fusion in one mouse population is different from the pattern of fusion in another. Mice that live in the areas indicated by the gold dots have the karyotype shown at the top of the figure; mice in the locales with the red dots have the lower karyotype. This geographic variation in karyotypes is probably due mainly to genetic drift.
+
+
+
+
+
+ Mutation and sexual recombination generate genetic variation
+
+Two random processes, mutation and sexual recombination (see Chapter 15), create variation in the gene pool of a population.
+
+Mutation
+
+New alleles originate only by mutation, or change in the nucleotide sequence of DNA. A mutation affecting any gene locus is an accident that is rare and random. Most mutations occur in somatic cells and are lost when the individual dies. Only muta tions that occur in cell lines that produce gametes can be passed along to offspring.
+
+A mutation is like a shot in the dark: Chance determines where it will strike and how it will alter a gene. Most point mutations, those affecting a single base in DNA, are probably relatively harmless. Much of the DNA in the eukaryotic genome does not code for protein products, and it is uncertain how a change of a single nucleotide base in this silent DNA will affect the well-being of the organism. Even mutations of structural genes, which do code for proteins, may occur with little or no effect on the organism, partly because of redundancy in the genetic code. Of course, a single point mutation can have a significant impact on phenotype, as in sickle-cell disease, for example (see FIGURE 5.19).
+
+A mutation that alters a protein enough to affect its function is more often harmful than beneficial. Organisms are the refined products of thousands of generations of past selection, and a random change is not likely to improve the genome any more than blindly firing a gunshot through the hood of a car is likely to improve engine performance. On rare occasions, however, a mutant allele may actually fit its bearer to the environment better and enhance the reproductive success of the individual. This is not especially likely in a stable environment but becomes more probable when the environment is changing and mutations that were once selected against are now favorable under the new conditions. For example, mutations that happen to endow HIV with resistance to antiviral drugs also slow the reproductive rate of the virus (see Chapter 22). Once the drugs were in the environment, the mutant alleles were favored, and natural selection increased their frequency in HIV populations.
+
+Chromosomal mutations that disrupt many gene loci are almost certain to have negative effects on the development of the organism. However, when chromosomal rearrangements leave genes intact, their effects on organisms may be neutral, as in FIGURE 23.9. Rearrangements of chromosomes may in rare instances bring benefits. For example, the translocation of a chromosomal piece could link alleles that affect the organism in some positive way when they are inherited together as a package.
+
+Duplications of chromosome segments, like other chromosomal mutations, are nearly always harmful. But if the repeated segment does not disrupt genetic balance severely, it can persist over the generations and provide an expanded genome with superfluous loci that may eventually take on new functions by mutation. New genes may also arise from transpositions of existing DNA sequences or by the shuffling of exons within the genome, either within a single locus or between loci (see Chapter 19).
+
+In microorganisms with very short generation spans, mutation generates genetic variation very rapidly. For example, HIV has a generation span of about two days. In an AIDS patient, the HIV infection produces 1010 or more new viruses per day. Each replication provides a chance for errors--mutations--to occur. In addition, HIV has an RNA genome, which has a much higher mutation rate than DNA genomes. The combined mutation and replication rates mean that in a single day, the HIV population in one human body will generate mutations in every site in the HIV genome. For this reason, single-drug treatments will probably never be effective for long against HIV. Even double-drug treatments are rarely effective for long, because individual viruses with double mutations conferring resistance to both drugs arise daily. This explains why the most effective AIDS treatments are drug "cocktails," combinations of several drugs. Compared to single and double mutations, it is far less probable that multiple mutations against all the drugs will turn up in individual viruses in a short time period.
+
+Bacterial populations can also evolve rapidly by the explosive asexual expansion of mutant clones favored by the local environment. However, on a generation-to-generation time scale, animals and plants depend mainly on sexual recombination for the genetic variation that makes adaptation possible.
+
+Sexual Recombination
+
+Members of a sexually reproducing population owe nearly all their genetic differences to the unique recombinations of existing alleles each individual receives from the gene pool. (Of course, this allele variation has its ultimate basis in past mutations.)
+
+Sex shuffles alleles and deals them at random to determine individual genotypes. During meiosis, homologous chromosomes, one inherited from each parent, trade some of their genes by crossing over, and then the homologous chromosomes and the alleles they carry segregate randomly into separate gametes. Gametes from one individual vary extensively in their genetic makeup, and each zygote made by a mating pair has a unique assortment of alleles resulting from the random union of a sperm and an ovum (see Chapter 13). A population, of course, contains a vast number of possible mating combinations, each bringing together the gametes of individuals that are likely to have different genetic backgrounds. Sexual reproduction recombines old alleles into fresh assortments every generation.
+
+
+
+
+
+ Diploidy and balanced polymorphism preserve variation
+
+What prevents natural selection from extinguishing a population's variation by culling unfavorable genotypes? The tendency for natural selection to reduce variation is countered by mechanisms that preserve or restore variation.
+
+Diploidy
+
+The diploid nature of most eukaryotes hides a considerable amount of genetic variation from selection in the form of recessive alleles in heterozygotes. Recessive alleles that are less favorable than their dominant counterparts, or even harmful in the present environment, can persist in a population through their propagation by heterozygous individuals. This latent variation is exposed to selection only when both parents carry the same recessive allele and combine two copies in one zygote. This happens only rarely if the frequency of the recessive allele is very low. The rarer the recessive allele, the greater the degree of protection from natural selection. Heterozygote protection maintains a huge pool of alleles that may not be suitable for present conditions but that could bring new benefits when the environment changes.
+
+Balanced Polymorphism
+
+Selection itself may preserve variation at some gene loci. This ability of natural selection to maintain stable frequencies of two or more phenotypic forms in a population is called balanced polymorphism. Natural selection preserves variation by two mechanisms. One such mechanism is heterozygote advantage. If individuals who are heterozygous at a particular locus have greater survivorship and reproductive success than any type of homozygote, then two or more alleles will be maintained at that locus by natural selection.
+
+An example of heterozygote advantage is seen at the locus in humans for one chain of hemoglobin, the protein of red blood cells that transports oxygen. A specific recessive allele at that locus causes sickle-cell disease in homozygous individuals (see FIGURE 5.19 and FIGURE 14.15). Heterozygotes, however, are resistant to malaria, an important advantage in tropical regions, where that disease is a major cause of death. The environment in these regions favors the heterozygotes over homozygous dominant individuals, who are susceptible to malaria, and homozygous recessive individuals, who are harmed by sickle-cell disease. The frequency of the sickle-cell allele in Africa is generally highest in areas where the malaria parasite is most com mon (FIGURE 23.10). In some tribes, the recessive allele accounts for 20%  of the hemoglobin loci in the gene pool, a very high frequency for an allele that is disastrous in homozygotes. But at this frequency (q =0.2), 32%  of the population consists of heterozygotes resistant to malaria (2pq), and only 4%  of the population suffers from sickle-cell disease (q2).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-10. Mapping malaria and the sickle-cell allele.
+
+A second mechanism promoting balanced polymorphism is frequency-dependent selection, in which the survival and reproduction of any one morph declines if that phenotypic form becomes too common in the population. The relationships between parasites and their hosts may involve such frequency-dependent selection. Internal parasites generally recognize cells of their hosts by binding specifically to receptor molecules on the host cells. Imagine a host population with variation in receptor molecules for a particular parasite. Let's say that an individual host has either receptor A or receptor B on its cells. If the parasite recognizes receptor A as a signal to penetrate host cells, then natural selection will favor those individuals in the host population that have receptor B--the individuals less susceptible to infection by this parasite. The frequency of individuals with B receptors increases in the population. But the parasite population is also evolving by natural selection. Parasites that recognize what is now the most frequent variant of hosts, those with the B receptor, become favored and their frequency increases. This adaptation stimulates a new counteradaptation of the host population, with individuals having the A receptor again gaining advantage. The teeter-totter effect of frequency-dependent selection helps maintain a repertoire of variants in populations. In the year 2000, researchers reported an example of such frequency-dependent selection in populations of snails infected by a parasitic worm (FIGURE 23.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-11. Frequency-dependent selection in a host-parasite relationship. The bar graph compares the rates at which a parasitic worm infects five different clones that researchers collected from Lake Porerua in New Zealand. (This snail population exists as diverse clones because the snails reproduce asexually.) Infection rates are higher for common clones than for a less common clone, suggesting that frequency-dependent selection helps maintain polymorphism in the snail population.
+
+Neutral Variation
+
+Some of the genetic variations observed in populations are probably trivial in their impact on reproductive success. The diversity of human fingerprints is an example of what is called neutral variation, which seems to confer no selective advantage for some individuals over others. Much of the protein and DNA variation detectable by methods such as electrophoresis may represent chemical "fingerprints" that are neutral in their adaptive qualities. The relative frequencies of neutral variations will not be affected by natural selection; some neutral alleles will increase in the gene pool and others will decrease by the chance effects of genetic drift.
+
+There is no consensus among evolutionary biologists on how much genetic variation is neutral or even if any variation can be considered truly neutral. Variations that appear to be neutral may in fact influence survival and reproductive success in ways that are difficult to measure. It is possible to show that a particular allele is detrimental, but it is impossible to demonstrate that an allele brings no benefits at all to an organism. Furthermore, a variation may be neutral in one environment but not in another. We can never know the degree to which genetic variation is neutral. But we can be certain that even if only a fraction of the extensive variation in a gene pool significantly affects the organisms, that is still an enormous reservoir of raw material for natural selection and the adaptive evolution it causes.
+
+
+
+
+
+ Evolutionary fitness is the relative contribution an individual makes to the gene pool of the next generation
+
+The phrases "struggle for existence" and "survival of the fittest" are misleading if we take them to mean direct competitive contests among individuals. There are animal species in which individuals, usually the males, lock horns or otherwise do combat to determine mating privilege. But reproductive success is generally more subtle and passive. A barnacle may produce more eggs than its neighbors because it is more efficient at collecting food from the water. In a population of moths, certain variants may average more offspring than others because their body and wing colors hide them from predators better. Plants in a wildflower population may differ in reproductive success because some are better able to attract pollinators, owing to slight variations in flower color, shape, or fragrance. These examples point to a biological definition of fitness: Darwinian fitness is the contribution an individual makes to the gene pool of the next generation relative to the contributions of other individuals.
+
+In a more quantitative approach to natural selection, population geneticists define relative fitness as the contribution of a genotype to the next generation compared to the contributions of alternative genotypes for the same locus. For example, consider our wildflower population, in which RR and Rr plants have red flowers and rr plants have white flowers. Let's assume that, on average, individuals with red flowers produce more offspring than those with white flowers. The relative fitness of the most reproductively successful variants is set at 1 as a basis for comparison; so in this case, the relative fitness of an RR or Rr plant is 1. If plants with white flowers average only 80%  as many offspring, their relative fitness is 0.8.
+
+Survival alone does not guarantee reproductive success. Relative fitness is zero for a sterile plant or animal, even if it is robust and outlives other members of the population. But, of course, survival is a prerequisite for reproducing, and longevity increases fitness if it results in certain individuals leaving more descendants than other individuals leave. Then again, an individual that matures quickly and becomes fertile at an early age may have a greater reproductive potential than individuals that live longer but mature late. Thus, many factors that affect both survival and fertility determine an individual's evolutionary fitness.
+
+An organism exposes its phenotype--its physical traits, metabolism, physiology, and behavior--not its genotype, to the environment. Acting on phenotypes, selection indirectly adapts a population to its environment by increasing or maintaining favorable genotypes in the gene pool.
+
+The entity subjected to natural selection is the whole or ganism, which is an integrated composite of its many phenotypic features, not a collage of individual parts. Thus, the relative fitness of an allele depends on the entire genetic context in which it works. For example, alleles that enhance the growth of the trunk and limbs of a tree may be useless or even detrimental in the absence of alleles at other loci that enhance the growth of roots required to support the tree. On the other hand, alleles that contribute nothing to an organism's success, or may even be slightly maladaptive, may be perpetuated because they are present in individuals whose overall fitness is high. The whole baseball team wins the league pennant, even the player with the worst batting average and the most errors.
+
+
+
+
+
+ The effect of selection on a varying characteristic can be directional, diversifying, or stabilizing
+
+Natural selection can affect the frequency of a heritable trait in a population in three different ways, depending on which phenotypes in a varying population are favored. These three selection trends are directional selection, diversifying selection, and stabilizing selection (FIGURE 23.12).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-12. Modes of selection. These cases describe the possible microevolution of an imaginary deer mouse population in which there is quantitative variation in fur coloration from light to dark. The graphs show how the frequencies of individuals of varying darkness change over time. The large arrows symbolize natural selection working against certain phenotypes.
+
+Directional selection is most common during periods of environmental change or when members of a population mi grate to some new habitat with different environmental conditions. Directional selection shifts the frequency curve for variations in some phenotypic character in one direction or the other by favoring what are initially relatively rare individuals that deviate from the average for that character. For instance, fossil evidence indicates that the average size of black bears in Europe increased with each glacial period of the ice ages, only to decrease again during the warmer interglacial periods. Over much shorter time intervals, Peter and Rosemary Grant documented directional evolution of beak size in a population of finches on Daphne Major in the Gal&aacute;pagos Islands (see interview on pages 426 -427). The medium ground finch (Geospiza fortis) uses its strong beak to crush seeds. Given a choice of small seeds or large seeds, the birds eat mostly small ones, which are easier to crush. During wet years, small seeds are produced in such abundance that ground finches consume relatively few large seeds. However, during dry years all seeds are in short supply, and the birds eat proportionally more large seeds. This change in diet is correlated with a change in the average depth (top-to-bottom dimension) of the birds' beaks in the subsequent generation. This trait is inherited rather than acquired (by exercising the beak on large seeds, for example). The most likely explanation is that those birds that happen to have stronger beaks have a feeding advantage and so have greater reproductive success during droughts. Thus, they pass the genes for thicker beaks on to their offspring (FIGURE 23.13).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-13. Directional selection for beak size in a Gal&aacute;pagos population of the medium ground finch.
+
+Diversifying selection occurs when environmental conditions are varied in a way that favors individuals on both extremes of a phenotypic range over intermediate phenotypes (FIGURE 23.14).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-14. Diversifying selection in a finch population. Two distinctly different beak sizes occur in a single population of black-bellied seedcrackers, a species of finch that lives in Cameroon, West Africa. Small-billed individuals (left) feed mainly on soft seeds, whereas large-billed birds specialize in cracking hard seeds. A reasonable hypothesis is that natural selection selects against intermediate-sized bills, which crack both classes of seeds relatively inefficiently.
+
+Stabilizing selection acts against extreme phenotypes and favors the more common intermediate variants. This mode of selection reduces variation and maintains the status quo for a particular phenotypic character. For example, stabilizing selection keeps the majority of human birth weights in the range of 3 - 4 kg. For babies much smaller or larger than this, infant mortality is greater.
+
+Although we refer to these three selection trends as "modes of selection," the basic mechanism of natural selection is the same for each case. Selection favors certain heritable traits via differential reproductive success.
+
+
+
+
+
+ Natural selection maintains sexual reproduction
+
+Sex is an evolutionary enigma. It is far inferior to asexual reproduction as measured by reproductive output. Consider, for example, a population of insects in which half the females reproduce only sexually and half reproduce only asexually. Even if both types of females produced the same number of offspring each generation, the asexual condition would increase in frequency because all of the females' offspring would be daughters that would themselves produce more reproductive daughters. In contrast, half of the offspring of the sexual females would be males, which would be required for reproduction but would themselves produce no offspring. FIGURE 23.15(p. 460) diagrams this "twofold disadvantage" of sex.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-15. The two-fold disadvantage of sex. These diagrams contrast the reproductive output of females (blue circles) over four generations for asexual versus sexual reproduction. In the sexual version, males, which do not produce offspring, are symbolized by the white circles. (The diagrams assume two offspring per female.)
+
+Clearly, sex confers some benefit in addition to reproduction; otherwise, sexual individuals would soon be outcompeted in a population whenever asexual individuals appeared by mutation or migration. That is, were it not for some sexual bonus in Darwinian fitness, natural selection would act against alleles associated with sexual reproduction in favor of alleles that enable individuals to reproduce asexually. In fact, sex is maintained in the vast majority of eukaryotic species, even in those that can also reproduce asexually.
+
+The "textbook" explanation for the advantage of sex is that the processes of meiosis and fertilization generate the genetic variation upon which natural selection can act as the agent of adaptation. (For this textbook's explanation, see Chapter 13.) But the notion that natural selection sustains sex in spite of its reproductive disadvantage because genetic variation enables future adaptation in an unpredictable world is an idea that is difficult to defend. Natural selection acts in the here and now, favoring the reproductive success of those individuals of a varying population that work best in the current, local environment. The most attractive hypotheses for how natural selection maintains sex are those that place value on genetic variation over the short term--on a generation-to-generation time scale.
+
+One such hypothesis emphasizes the importance of genetic variation in resistance to disease. As we discussed earlier, many pathogens such as viruses, bacteria, and parasites recognize and infect their specific hosts by attaching to receptor molecules on the host's cells. There should be an advantage in producing offspring that vary in their resistance to different diseases. For example, one offspring variant may have cellular markers that make it resistant to virus A, while another may be resistant to virus B. This hypothesis predicts that the diversity of alleles would be particularly extensive at those gene loci that code for the molecules on cell surfaces to which pathogens attach. And that seems to be the case. In humans, for example, there are hundreds of alleles for each of two gene loci that code for the proteins that give cell surfaces their molecular fingerprints (you'll learn more about these cellular markers in Chapter 43). Of course, because most pathogens evolve very rapidly in their ability to key on specific host receptors, resistance of a particular host genotype to a given disease is not permanent. But sex provides a mechanism for "changing the locks" and varying them among offspring. Some biologists call this coevolution in a host-parasite relationship the "Red Queen effect," referring to the Red Queen in Lewis Carroll's Through the Looking Glass, who admonished Alice that she would have to run as fast as she could to keep from going backward.
+
+
+
+
+
+ Sexual selection may lead to pronounced secondary differences between the sexes
+
+The males and females of an animal species obviously differ in their reproductive organs. But in many species, there are also marked differences, called secondary sexual characteristics, that are not directly associated with reproduction. This distinction in appearance is called sexual dimorphism. It is often manifested in a size difference, usually one in which males are larger than females. But sexual dimorphism can also be evident in such features as colorful plumage of male birds, manes on male lions, antlers on male deer, and other adornments. In fact, males are usually the showier sex in most cases of sexual dimorphism, at least among vertebrates.
+
+Sexual dimorphism is a product of what Darwin called sexual selection. Today, biologists distinguish between intrasexual selection and intersexual selection. Meaning selection "within the same sex,"intrasexual selection is a direct competition among individuals of one sex (usually the males in vertebrates) for mates of the opposite sex. Males may use secondary sexual equipment such as antlers to battle competitors. This is especially common in species where a single male garners a harem of females. These males may gain their status by defeating smaller, weaker, or less fierce males in combat; more often, they are the victors in ritualized displays that discourage would-be competitors (see Chapter 51).
+
+Intrasexual selection is a familiar sight in nature films, where rams butt heads, and in cartoons of lion kings claiming their thrones. However, intersexual selection is probably more common and, in a way, more intriguing. In intersexual selection, also called mate choice, individuals of one sex (usually females) are choosy in selecting their mates from individuals of the other sex. Apparently, males with the most impressive masculine features are the most attractive to females. A peacock strutting in front of hens with his tail feathers spread into a showy fan is an example of this "choose me" statement (FIGURE 23.16). What intrigued Darwin about such behavior is that some of the features that appear to help attract mates do not seem to be adaptive in any other way and may in fact pose some risk in natural environments. For example, showy plumage may make male birds more visible to predators. But if such secondary sexual characteristics help a male gain a mate, then they will be reinforced over the generations for the most Darwinian of reasons--because they enhance reproductive success. Every time a female chooses a mate based on a certain appearance or behavior, she perpetuates the alleles that caused her to make that choice and allows a male with a particular phenotype to perpetuate his alleles.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-16. The Far Side of sexual selection.
+
+When females choose mates, what is the benefit of focusing on secondary sexual characteristics such as showy tail fans? It is unlikely that this is some kind of aesthetic preference. Several researchers are now testing the hypothesis that these sexual advertisements reflect the general health of a male. For example, male birds with serious infections may have relatively dull, disheveled plumage. They don't usually win many females. And for the female that chooses a healthy mate, even if the inclination is just a prewired response to visual signals, the benefit is a greater probability of having healthy offspring.
+
+
+
+
+
+ Natural selection cannot fashion perfect organisms
+
+There are at least four reasons why natural selection cannot produce perfection.
+
+Evolution is limited by historical constraints. Each species has a legacy of descent with modification from a long line of ancestral forms. Evolution does not scrap ancestral anatomy and build each new complex structure from scratch, but coopts existing structures and adapts them to new situations. For example, the excruciating back problems some humans endure result in part because the skeleton and musculature modified from the anatomy of four-legged ancestors are not fully compatible with upright posture.
+
+Adaptations are often compromises. Each organism must do many different things. A seal spends part of its time on rocks; it could probably walk better if it had legs instead of flippers, but it would not swim nearly as well. We humans owe much of our versatility and athleticism to our prehensile hands and flexible limbs, which also make us prone to sprains, torn ligaments, and dislocations; structural reinforcement has been compromised for agility.
+
+Not all evolution is adaptive. Chance probably affects the genetic structure of populations to a greater extent than was once believed. For instance, when a storm blows insects hundreds of miles over an ocean to an island, the wind does not necessarily transport the specimens that are best suited to the new environment. Thus, not all alleles fixed by genetic drift in the gene pool of the small founding population are better suited to the environment than alleles that are lost.
+
+Selection can only edit existing variations. Natural selection favors only the fittest variations from the phenotypes that are available, which may not be the ideal traits. New alleles do not arise on demand.
+
+With all these constraints, we cannot expect evolution to craft perfect organisms. Natural selection operates on a "better than" basis. We can see evidence for evolution in the subtle imperfections of the organisms it produces.
+
+
+
+

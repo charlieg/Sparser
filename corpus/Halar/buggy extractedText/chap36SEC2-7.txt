@@ -1,0 +1,12 @@
+
+ Bulk flow functions in long-distance transport
+
+Diffusion in a solution is fairly efficient for transport over distances of cellular dimensions (less than 100 mm), but it is much too slow to function in long-distance transport within a plant--for example, in the transport of water and minerals from roots to leaves. Water and solutes move through xylem vessels and sieve tubes by bulk flow, the movement of a fluid driven by pressure. In phloem, for example, hydrostatic pressure is generated at one end of a sieve tube, forcing sap to the opposite end of the tube. In xylem, it is actually tension (negative pressure) that drives long-distance transport. Transpiration, the evaporation of water from a leaf, reduces pressure in the leaf xylem. This creates a tension that pulls xylem sap upward from the roots.
+
+If you have ever dealt with a partially clogged drain, you know that the rate of flow through a pipe depends on the pipe's internal diameter. Clogs reduce flow because they reduce the effective diameter of the drainpipe. Such household experiences help us understand how the unusual structures of plant cells specialized for bulk flow--sieve-tube members of the phloem and vessel elements and tracheids of the xylem--fit their function. Recall from Chapter 35 that sieve-tube members are almost entirely devoid of internal organelles and that vessel elements and tracheids are dead at maturity. Like unplugging a kitchen drain, the developmental loss of cytoplasmic content in a plant's "plumbing" allows for the efficient bulk flow of materials through the conduits formed by the specialized cells. The porous plates that connect contiguous sieve-tube members (see FIGURE 35.9) and the perforated end walls of xylem vessel elements (see FIGURE 35.8) also enhance bulk flow.
+
+Now that we have an overview of the basic mechanisms of transport at the cellular, tissue, and whole-plant levels, we are ready to take a closer look at how these mechanisms work together in the overall transport functions that enable a plant to survive on land. For example, bulk flow due to a pressure difference is the mechanism of long-distance transport of phloem sap, but it is active transport of sugar at the cellular level that maintains this pressure difference. The four transport functions we will examine in more detail are the absorption of water and minerals by roots, the ascent of xylem sap, the control of transpiration, and the transport of organic nutrients within phloem.
+
+
+
+

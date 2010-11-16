@@ -1,0 +1,10 @@
+
+ Transport systems functionally connect the organs of exchange with the body cells: an overview
+
+Diffusion alone is not adequate for transporting substances over long distances in animals--for example, for moving glucose from the digestive tract and oxygen from the lungs to the brain of a mammal. Diffusion is insufficient over distances of more than a few millimeters, because the time it takes for a substance to diffuse from one place to another is proportional to the square of the distance. For example, if it takes 1 second for a given quantity of glucose to diffuse 100 mm, it will take 100 seconds for the same quantity to diffuse 1 mm and almost three hours to diffuse 1 cm. The circulatory system solves this problem by ensuring that no substance must diffuse very far to enter or leave a cell. By rapidly transporting fluid in bulk throughout the body, it functionally connects the aqueous environment of the body cells to the organs that exchange gases, absorb nutrients, and dispose of wastes. In the lungs of a mammal, for example, oxygen from inhaled air diffuses across a thin epithelium and into the blood, while carbon dioxide diffuses in the opposite direction. Bulk fluid movement in the circulatory system, powered by the heart, then quickly carries the oxygen-rich blood to all parts of the body. As the blood streams through the tissues within microscopic vessels called capillaries, chemicals are transported between the blood and the interstitial fluid that directly bathes the cells.
+
+Internal transport and gas exchange are functionally related in most animals; thus, we focus on both the circulatory and respiratory systems in this chapter. We also highlight the role of these two organ systems in homeostasis (see Chapter 40)--for example, in regulating the interstitial fluid's content of nutrients and wastes. Let's turn first to some of the ways fluids circulate within animals.
+
+
+
+

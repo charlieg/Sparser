@@ -1,0 +1,20 @@
+
+ Plants deter herbivores with both physical and chemical defenses
+
+Herbivory--animals eating plants--is a stress that plants face in any ecosystem. Plants counter excessive herbivory with both physical defenses, such as thorns, and chemical defenses, such as the production of distasteful or toxic compounds. For example, some plants produce an unusual amino acid called canavanine, named for one of its sources, the jackbean (Canavalia ensiformis). Canavanine resembles arginine, one of the 20 amino acids organisms incorporate into their proteins. If an insect eats a plant containing canavanine, the molecule is incorporated into the insect's proteins in place of arginine. Because canavanine is different enough from arginine to adversely affect the conformation and hence the function of the proteins, the insect dies.
+
+At least some plants even recruit predatory animals that help defend the plant against specific herbivores. For example, insects called parasitoid wasps inject their eggs into their prey, including caterpillars feeding on plants. The eggs hatch within the caterpillars, and the larvae eat through their organic containers from the inside out. The plant, which benefits from the destruction of the herbivorous caterpillars, has an active role in this ecological drama. A leaf damaged by caterpillars releases volatile compounds that attract parasitoid wasps. The stimulus for this response is a combination of the physical damage to the leaf caused by the munching caterpillar and a specific compound present in the caterpillar's saliva (FIGURE 39.29).
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-29. A corn leaf recruits a parasitoid wasp as a defensive response to an herbivore, an army-worm caterpillar.
+
+The volatile molecules a plant releases in response to herbivore damage can also function as an "early warning system" for nearby plants of the same species. Lima bean plants infested with spider mites release volatile chemicals that signal "news" of the attack to neighboring, noninfested lima bean plants. In response to these volatiles, noninfested lima bean leaves activate defense genes. Volatiles released from artificially wounded leaves do not have the same effect. The expression pattern of the genes activated by the infestation-released volatiles is similar to that produced by exposure to jasmonic acid, an important molecule in plant defense. As a result of this gene activation, noninfested neighbors become less susceptible to spider mites and more attractive to another species of mite that preys upon spider mites.
+
+
+
+

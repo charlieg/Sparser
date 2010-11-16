@@ -1,0 +1,64 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/model/core/places/US%20States
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+rules.lisp
+file
+
+
+
+
+2007-01-04T03:28:25.000000Z
+f7b5d420d1a5274ebfbc1fa40fbfd37f
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+cases.lisp
+file
+
+
+
+
+2007-01-04T03:28:25.000000Z
+12a3c2474b9b655bdc91957a9afba0d4
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+loader.lisp
+file
+
+
+
+
+2007-01-04T03:28:25.000000Z
+4001e2fdb8e426191d5a469c496868c6
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+object.lisp
+file
+
+
+
+
+2007-01-04T03:28:25.000000Z
+a9b2bf390a3f070a1b70d801895cf7af
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+

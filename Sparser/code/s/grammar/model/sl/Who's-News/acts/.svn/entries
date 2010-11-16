@@ -1,0 +1,46 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/model/sl/Who's-News/acts
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2009-06-18T20:59:16.233936Z
+207
+cgreenba
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c8849605-d826-0410-9f5d-9d9903a7241f
+
+arg str
+dir
+
+loader.lisp
+file
+
+
+
+
+2007-01-04T03:35:50.000000Z
+f9bcece95758ad2d038f5a648528acdd
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+cases
+dir
+

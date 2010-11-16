@@ -1,0 +1,18 @@
+
+ Physical laws constrain animal form
+
+Imagine the horror of wading into a murky lake and feeling your legs engulfed by a squishy amoeba the size of a pro wrestler. Fortunately, you don't have to add this to your worry list. It will never happen. Physical requirements constrain what natural selection can "invent," including the size of single cells. An amoeba the size of a human could never move materials across its membrane fast enough to satisfy such a large blob of cytoplasm. This is just one example of how physical law--in this case, the math of surface-to-volume relations--affects the evolution of an organism's form.
+
+Consider another example: how the laws of hydrodynamics constrain the shapes that are possible for aquatic animals that swim very fast. Tuna and other fast bony fishes can swim at speeds up to 80 kilometers per hour. Sharks, penguins (birds), and aquatic mammals such as dolphins, seals, and whales are also fast swimmers. And they all have the same basic body shape. It's called a fusiform shape, which means tapered on both ends (FIGURE 40.6). Water is about a thousand times denser than air, and thus the slightest bump that causes drag impedes a swimmer even more than it does a runner or a flyer. We should expect speedy fishes and marine mammals to have similar shapes, because the laws of hydrodynamics are universal. This is an example of convergent evolution (see Chapter 25). Convergence occurs because natural selection shapes similar adaptations when diverse organisms face the same environmental challenge, such as the resistance of water to fast travel.
+
+
+
+Click image to enlarge
+
+
+
+Fig 40-6. Evolutionary convergence on fusiform shapes in fast swimmers.
+
+
+
+

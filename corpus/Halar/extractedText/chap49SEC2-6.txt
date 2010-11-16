@@ -1,0 +1,48 @@
+
+ The light-absorbing pigment rhodopsin triggers a signal-transduction pathway
+
+When the vertebrate lens focuses a light image onto the retina, how do the cells of the retina transduce the stimuli into sensations--action potentials that transmit this information about the environment to the brain? Each rod cell or cone cell has an outer segment with a stack of folded membranes, or discs, in which visual pigments are embedded (FIGURE 49.11a, p. 1066). The visual pigments consist of a light-absorbing pigment molecule called retinal (a derivative of vitamin A) bonded to a membrane protein called an opsin. Opsins vary in structure from one type of photoreceptor to another, and the light-absorbing ability of retinal is affected by the specific identity of its opsin partner. Rods contain their own type of opsin, which, combined with retinal, makes up the visual pigment rhodopsin (FIGURE 49.11b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-11. Photoreceptors in the vertebrate retina. (a) Photoreceptors called rod cells (rods) are very sensitive to light and function in black-and-white vision at night; cone cells (cones) account for color vision during the day. Both rods and cones are modified neurons. Visual pigments are embedded in folded membranes comprising a stack of discs in the outer segment of each rod and cone. (b) Rhodopsin, the visual pigment in the disc membrane of rods, consists of the light-absorbing molecule retinal bonded to a specific type of membrane protein, an opsin. The opsin has seven regions of alpha helix that span the disc membrane.
+
+When rhodopsin absorbs light, its retinal component changes shape and separates from opsin. This changes the conformation (shape) of the opsin protein. These light-induced changes in retinal plus opsin are referred to as "bleaching" of rhodopsin. In the dark, enzymes convert the retinal back to its original form, and it recombines with opsin to form rhodopsin (FIGURE 49.12, p. 1066). Bright light keeps the rhodopsin bleached and rods become unresponsive; cones take over. When you walk from a bright environment into a dark place, such as walking into a movie theater in the afternoon, you are initially almost blind to faint light. There is not enough light to stimulate the cones, and it takes at least a few minutes for the bleached rods to become functional again.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-12. Effect of light on retinal. Retinal exists in two forms, isomers of each other. Absorption of light converts the pigment from the cis isomer to the trans isomer, which separates from the opsin. This retinal-free opsin triggers the signal-transduction pathway that converts the light signal into an electrochemical signal, a receptor potential, in the rod cell membrane. When the photoreceptor is no longer stimulated by light, enzymes convert the retinal back to the cis form, which recombines with opsin to form rhodopsin.
+
+The light-induced shape-change by opsin triggers a signal-transduction pathway that ultimately results in a receptor potential in the rod cell membrane. First, the altered opsin activates a relay molecule in the signal-transduction pathway, a G protein called transducin, which is also in the disc membrane (FIGURE 49.13). In turn, transducin activates an enzyme that chemically alters the second messenger in the rod cell, a nucleotide called cyclic guanosine monophosphate (cGMP).
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-13. From light reception to receptor potential: A rod cell's signal-transduction pathway. Note that the receptor potential, in this case, is a hyperpolarization of the membrane rather than the more common depolarization.
+
+In the dark, when rhodopsin is inactive, cGMP is bound to sodium ion channels in the rod cell plasma membrane and keeps those channels open. In this state, the rod cell membrane is actually depolarized and releases the neurotransmitter glutamate (see TABLE 48.1) at its synapses with neighboring cells called bipolar cells in the retina (FIGURE 49.14). This steady glutamate release in the dark excites some bipolar cells and inhibits others, depending on what post-synaptic receptor molecules they contain. When light triggers the rhodopsin signal-transduction pathway by altering retinal, an enzyme converts cGMP to GMP, which disengages from the Na+ channels (see FIGURE 49.13). This closes the channels, decreasing the membrane's permeability to Na+ and hyperpolarizing the membrane potential. In this case, the cell's receptor potential is a hyperpolarization rather than a depolarization of the membrane. Hyperpolarization slows the rod cell's release of the neurotransmitter glutamate, and this causes either excitation or inhibition of postsynaptic bipolar cells, depending on the bipolar cell's type of glutamate receptor (see FIGURE 49.14).
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-14. The effect of light on synapses between rod cells and bipolar cells. (a) In the dark, rhodopsin is inactive, and the rod cell membrane is highly permeable to sodium and thus depolarized. In this state, the rod cell releases glutamate and regulates the "firing" of two different classes of bipolar cells, which have opposite responses to glutamate. (b) In contrast, when light activates rhodopsin, the rod cell membrane becomes less permeable to sodium, and its membrane potential changes (it develops a receptor potential, a hyperpolarization in this case). The synaptic terminals of the rod cell then slow their release of glutamate, enhancing the activity of one class of bipolar cells and suppressing the activity of the other type.
+
+Color vision involves even more complex signal processing than the rhodopsin mechanism in rods. Color vision results from the presence of three subclasses of cones in the retina, each with its own type of opsin associated with retinal to form visual pigments collectively called photopsins. These photoreceptors are known as red cones, green cones, and blue cones, referring to the colors their kind of photopsin is best at absorbing. The absorption spectra for these pigments overlap, and the brain's perception of intermediate hues depends on the differential stimulation of two or more types of cones. For example, when both red and green cones are stimulated, we may see yellow or orange, depending on which of these two populations of cones is most strongly stimulated. Color blindness, more common in males than females because it is generally inherited as a sex-linked trait (see FIGURE 15.9), is due to a deficiency or absence of one or more types of photopsin.
+
+
+
+

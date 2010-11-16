@@ -1,0 +1,92 @@
+
+ Embryonic and fetal development occur during pregnancy in humans and other eutherian (placental) mammals
+
+From Conception to Birth
+
+In placental mammals, pregnancy, or gestation, is the condition of carrying one or more embryos, new developing individuals, in the uterus. Pregnancy is preceded by conception, the fertilization of the egg by a sperm cell, and continues until the birth of the offspring. Human pregnancy averages 266 days (38 weeks) from conception, or 40 weeks from the start of the last menstrual cycle. Duration of pregnancy in other species correlates with body size and the extent of development of the young at birth. Many rodents (mice and rats) have gestation periods of about 21 days, whereas those of dogs are closer to 60 days. In cows, gestation averages 270 days (almost the same as humans); in giraffes, it is about 420 days; and in elephants, gestation is more than 600 days.
+
+Human gestation can be divided for convenience of study into three trimesters of about 3 months each. The first trimester is the time of most radical change for both the mother and the baby. Fertilization occurs in the oviduct (FIGURE 46.16). About 24 hours later, the resulting zygote begins dividing, a process called cleavage. Cleavage continues, with the embryo becoming a ball of cells by the time it reaches the uterus about 3 to 4 days after fertilization. By about 1 week after fertilization, cleavage has produced an embryonic stage called the blastocyst, a sphere of cells containing a flattened cavity. In a process that takes about 5 more days, the blastocyst implants into the endometrium. Differentiation of body structures now begins in earnest. (Embryonic development will be described in detail in Chapter 47.) During implantation, the blastocyst becomes embedded in the endometrium, which responds by growing over the blastocyst. The embryo obtains nutrients directly from the endometrium during the first 2 to 4 weeks of development. Meanwhile, tissues grow out from the developing embryo and mingle with the endometrium to form the placenta. This disk-shaped organ, containing embryonic and maternal blood vessels, grows to about the size of a dinner plate and weighs somewhat less than 1 kg. Diffusion of material between maternal and embryonic circulations provides nutrients, exchanges respiratory gases, and disposes of metabolic wastes for the embryo. Blood from the embryo travels to the placenta through arteries of the umbilical cord and returns via the umbilical vein, passing through the liver of the embryo (FIGURE 46.17).
+
+
+
+Click image to enlarge
+
+
+
+Fig 46-16. Formation of the zygote and early postfertilization events.
+
+The first trimester is also the main period of organogenesis, the development of the body organs (FIGURE 46.18). The heart begins beating by the fourth week and can be detected with a stethoscope by the end of the first trimester. By the end of the eighth week, all the major structures of the adult are present in rudimentary form. At this point, the embryo is called a fetus. Although well differentiated, the fetus is only 5 cm long by the end of the first trimester. Because of its rapid organogenesis, the embryo is most sensitive during the first trimester to such threats as radiation and drugs that can cause birth defects.
+
+
+
+Click image to enlarge
+
+
+
+Fig 46-18. Human fetal development. (a) 5 weeks. Limb buds, eyes, the heart, the liver, and rudiments of all other organs have started to develop in the embryo, which is only about 1 cm long. (b) 14 weeks. Growth and development of the offspring, now called a fetus, continue during the second trimester. This fetus is about 6 cm long. (c) 20 weeks. By the end of the second trimester (at 24 weeks), the fetus grows to about 30 cm in length.
+
+The first trimester is also a time of rapid change for the mother. The embryo secretes hormones that signal its presence and control the mother's reproductive system. One embryonic hormone, human chorionic gonadotropin (HCG), acts like pituitary LH to maintain secretion of progesterone and estrogens by the corpus luteum through the first trimester. In the absence of this hormonal override, the decline in maternal LH due to inhibition of the pituitary by progesterone would result in menstruation and spontaneous abortion of the embryo. Levels of HCG in the maternal blood are so high that some is excreted in the urine, where it can be detected in pregnancy tests. High levels of progesterone initiate changes in the pregnant woman's reproductive system, including increased mucus in the cervix that forms a protective plug, growth of the maternal part of the placenta, enlargement of the uterus, and (by negative feedback on the hypothalamus and pituitary) cessation of ovulation and menstrual cycling. The breasts also enlarge rapidly and are often quite tender.
+
+During the second trimester, the fetus grows rapidly to about 30 cm and is very active. The mother may feel movements during the early part of the second trimester, and fetal activity may be visible through the abdominal wall by the middle of this time period. Hormone levels stabilize as HCG declines, the corpus luteum deteriorates, and the placenta secretes its own progesterone, which maintains the pregnancy. During the second trimester, the uterus will grow enough for the pregnancy to become obvious.
+
+The third and final trimester is one of rapid growth of the fetus to about 3-3.5 kg in weight and 50 cm in length. Fetal activity may decrease as the fetus fills the available space within the embryonic membranes. As the fetus grows and the uterus expands around it, the mother's abdominal organs become compressed and displaced, leading to frequent urination, digestive blockages, and strain in the back muscles. A complex interplay of hormones (estrogens and oxytocin) and local regulators (prostaglandins) induces and regulates labor (FIGURE 46.19). Estrogens, which reach their highest level in the mother's blood during the last weeks of pregnancy, trigger the formation of oxytocin receptors on the uterus. Oxytocin, produced by the fetus and the mother's posterior pituitary, stimulates powerful contractions by the smooth muscles of the uterus. Oxytocin also stimulates the placenta to secrete prostaglandins, which enhance the contractions. In turn, the physical and emotional stresses associated with the contractions stimulate the release of more oxytocin and prostaglandins, a positive feedback system that underlies the three stages of labor.
+
+Birth, or parturition, occurs through a series of strong, rhythmic uterine contractions, commonly known as labor (FIGURE 46.20). The first stage is the opening up and thinning of the cervix, ending with complete dilation. The second stage is expulsion, or delivery, of the baby. Continuous strong contractions force the fetus down and out of the uterus and vagina. The umbilical cord is cut and clamped at this time. The final stage of labor is delivery of the placenta, which normally follows the baby.
+
+
+
+Click image to enlarge
+
+
+
+Fig 46-20. The three stages of labor.
+
+Lactation is an aspect of postnatal care unique to mammals. After birth, decreasing levels of progesterone free the anterior pituitary from negative feedback and allow prolactin secretion. Prolactin stimulates milk production after a delay of 2 or 3 days. The release of milk from the mammary glands is controlled by oxytocin (see p. 962 and FIGURE 45.6).
+
+Reproductive Immunology
+
+Pregnancy is an immunological enigma. Half of the embryo's genes are inherited from the father, and thus many of the chemical markers present on the surface of the embryo will be foreign to the mother. Why, then, does the mother not reject the embryo as a foreign body as she would repel a tissue or organ graft bearing antigens from another person? Reproductive immunologists are working to solve this puzzle.
+
+A major key to the puzzle is a tissue called the trophoblast (see FIGURE 47.15). Arising along with the embryo itself from the blastocyst, the trophoblast brings about implantation by growing into the endometrium and later develops into the fetal part of the placenta (see FIGURES 46.16 and FIGURES 46.17). To some extent, the trophoblast is a barrier separating the embryo from maternal tissue, but, like the embryo, it carries paternal antigens on the surfaces of its cells. So how can it protect the embryo from rejection?
+
+Several lines of research suggest that the trophoblast prevents an immune response against the embryo by somehow interfering with the mother's T lymphocytes, important players in the immune system. For example, there is evidence that the trophoblast produces a chemical signal that induces the development of "suppressor" T cells in the uterus. It is proposed that the suppressor T cells prevent other T cells from attacking the foreign tissue, perhaps by blocking the action of interleukin-2, a cytokine required for a normal immune response (see FIGURES 43.11 and FIGURES 43.13).
+
+An interesting part of the suppressor-cell hypothesis is the suggestion that the suppressor cells act, paradoxically, only after other white blood cells have identified the trophoblast as foreign tissue and have taken the first steps of the immune response. If this immunological alarm is not intense enough--that is, if the father's cell surface antigens are too similar to the mother-s--then no suppressor cells arise, and the embryo is attacked by the immune system. Similarity between maternal and paternal antigens may thus account for some cases of women who have multiple miscarriages. In support of this idea, some frequent miscarriers have been successfully treated before pregnancy with sensitizing injections of their mate's antigens.
+
+A very different hypothesis is that the trophoblast secretes an enzyme that rapidly breaks down local supplies of tryptophan, an amino acid necessary for T cell survival and function. At least in mice, this enzyme seems to be essential for maintaining pregnancy. And more recent work on mice has led to yet another hypothesis, which involves a nonspecific part of the defense system. A protein found on mouse trophoblast cells protects the embryo's cells from attack by complement (see FIGURE 43.17). Scientists are now searching for comparable proteins made by the human trophoblast.
+
+Contraception
+
+Contraception, the deliberate prevention of pregnancy, can be achieved in a number of ways. Some contraceptive methods prevent the release of mature eggs (secondary oocytes) and sperm from gonads, others prevent fertilization by keeping sperm and egg apart, and still others prevent implantation of an embryo or abort the embryo (FIGURE 46.21, p. 994). The following brief introduction to the biology of these methods makes no pretense of being a contraception manual. For more complete information, you should consult a physician or health center personnel.
+
+
+
+Click image to enlarge
+
+
+
+Fig 46-21. Mechanisms of some contraceptive methods. Red arrows indicate where these methods, devices, or products interfere with the flow of events from the production of sperm and egg (secondary oocyte) to the birth of a baby.
+
+Fertilization can be prevented by abstinence from sexual intercourse or by any of several barriers that keep live sperm from contacting the egg. Temporary abstinence, often called the rhythm method of birth control or natural family planning, depends on refraining from intercourse when conception is most likely. Because the egg can survive in the oviduct for 24 to 48 hours and sperm for up to 72 hours, a couple practicing temporary abstinence should not engage in intercourse during the few days before and after ovulation. The most effective methods for timing ovulation combine several indicators, including changes in cervical mucus and body temperature during the menstrual cycle. Thus, natural family planning requires that the couple be knowledgeable about these physiological signs. A pregnancy rate of 10%  to 20%  is typically reported for couples practicing natural family planning. (Pregnancy rate is the number of women who become pregnant during a year out of every 100 women using a particular family-planning method, expressed as a percentage.) Some couples use the natural family planning method to increase the probability of conception.
+
+The several barrier methods of contraception that block the sperm from meeting the egg have pregnancy rates of less than 10% . The condom, used by the male, is a thin, latex rubber or natural membrane sheath that fits over the penis to collect the semen. The barrier device most commonly used by females is the diaphragm, a dome-shaped rubber cap fitted into the upper portion of the vagina before intercourse. Both of these devices are more effective when used in conjunction with a spermicidal (sperm-killing) foam or jelly. More recently introduced barriers include the cervical cap, which fits tightly around the opening of the cervix and is held in place for a prolonged period by suction, and the vaginal pouch, or female condom.
+
+Intrauterine devices (IUDs), which are small plastic or metal devices that fit into the uterine cavity, prevent implantation of the blastocyst in the uterus. IUDs have a low pregnancy rate but cause harmful effects in a small percentage of women. Problems of persistent vaginal bleeding, uterine infection, perforation of the uterus, tubal pregnancy (implantation of the embryo in the oviduct), and spontaneous expulsion of the devices have been reported and have led to lawsuits and the removal of IUDs from the market. Newer IUD products that prevent implantation by delivering synthetic progesterone locally to the endometrium are now available.
+
+As a method of preventing fertilization, coitus interruptus, or withdrawal (removal of the penis from the vagina before ejaculation), is unreliable. Sperm may be present in secretions that precede ejaculation, and a lapse in timing or willpower can result in late withdrawal.
+
+Except for complete abstinence from sexual intercourse, the methods that prevent the release of gametes are the most effective means of birth control. Chemical contraceptives--birth control pills--have pregnancy rates of less than 1% , and sterilization is nearly 100%  effective. The most commonly used birth control pills are combinations of synthetic estrogens and a synthetic progestin (progesteronelike hormone). These two hormones act by negative feedback to stop the release of GnRH by the hypothalamus, and of FSH (an estrogen effect) and LH (a progestin effect) by the pituitary. By blocking LH release, the progestin prevents ovulation. As a backup mechanism, the estrogen inhibits FSH secretion so that no follicles develop. Combination birth control pills can be prescribed in high doses as morning after pills (MAP). Taken within 3 days of unprotected intercourse, they prevent fertilization or implantation, with an effectiveness of about 75% .
+
+A second type of birth control pill, called the minipill, contains only progestin. The minipill prevents fertilization mainly by altering a woman's cervical mucus so that it blocks sperm from entering the uterus. In 1990, the FDA approved a progestin-only capsule (Norplant) that is implanted under the skin. Steadily releasing a tiny amount of progestin into the blood, the implant produces effective birth control for about 5 years. A product called Depo-Provera is a synthetic progestin that is injected every 3 months.
+
+Birth control pills have been the center of much debate, particularly because of long-term harmful effects of the estrogens in combination pills. No solid evidence exists for cancers caused by the pill, but cardiovascular problems are a major concern. Birth control pills have been implicated in abnormal blood clotting, atherosclerosis, and heart attacks. Smoking while using chemical contraception increases the risk of mortality tenfold or more. Although the pill places women at risk for these diseases, it eliminates the dangers of pregnancy; women on birth control pills have mortality rates about one-half those of pregnant women.
+
+Sterilization is the permanent prevention of gamete release. Tubal ligation in women usually involves cauterizing or tying off (ligating) a section of the oviducts to prevent eggs from traveling into the uterus. Vasectomy in men is the cutting of each vas deferens to prevent sperm from entering the urethra. Both male and female sterilization are relatively safe and free from harmful effects. Both are also difficult to reverse, so the procedures should be considered permanent.
+
+Abortion is the termination of a pregnancy in progress. Spontaneous abortion, or miscarriage, is very common; it occurs in as many as one-third of all pregnancies, often before the woman is even aware she is pregnant. In addition, each year about 1.5 million women in the United States choose abortions performed by physicians. A drug called mifepristone, or RU486, developed in France, enables a woman to terminate pregnancy nonsurgically within the first 7 weeks. An analog of progesterone, RU486 blocks progesterone receptors in the uterus, thus preventing progesterone from maintaining pregnancy. It is taken with a small amount of prostaglandin to induce uterine contractions.
+
+Of all contraceptives for sexually active individuals, latex condoms are the only ones that offer some protection against sexually transmitted diseases, including AIDS. This protection is, however, not absolute.
+
+
+
+

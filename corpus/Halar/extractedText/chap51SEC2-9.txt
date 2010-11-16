@@ -1,0 +1,30 @@
+
+ Bird song provides a model system for understanding the development of behavior
+
+A considerable amount of research on how animals learn has focused on bird songs. Some relatively simple bird calls, such as the crowing of a rooster, seem to develop and improve without any type of learning. Thus, researchers interested in learning have focused on the songbirds, such as the sparrows and canaries, especially on the development of elaborate calls by the males. Such research has revealed that the learning techniques for mastering calls vary, depending on the songbird species.
+
+Some songbirds have a sensitive period for developing their songs. In white-crowned sparrows, for example, the sensitive period occurs during the first 50 days of life. Although the young bird does not sing during this phase, it memorizes the song of its own species by listening to other white-crowned sparrows sing. Behavioral biologists call this memorized song a template. In laboratory experiments, sparrows can form this template by listening to tape recordings during the 50-day sensitive period. But if a bird is isolated throughout this sensitive period, unable to hear either real sparrows or recordings, it fails to develop the adult song typical of its species.
+
+The sensitive period when a white-crowned sparrow forms a song template is followed by a second learning phase, when the juvenile bird sings some tentative notes that researchers call a subsong. With practice, the sparrow's subsong gradually improves until it sounds like the fully developed adult song of the species. During this practice phase, the juvenile bird hears its own singing and compares that vocal output with the template that was memorized during the sensitive learning period. In fact, sparrows that are experimentally deafened at the end of the sensitive phase fail to improve on their subsong, which they continue to sing into adulthood. During normal song development, once a sparrow's song matches the memorized template, it "crystallizes" as the final song, and the bird sings only the adult white-crowned sparrow song for the rest of its life (FIGURE 51.10a).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-10. Two kinds of bird-song development.
+
+Additional experiments revealed even more complexity in how birds learn their songs. When isolated white-crowned sparrows more than 50 days old were exposed to live singing adults of another species, they learned the song of the other species. Because a young bird can interact socially with a live singing adult, the live model provides a much stronger and more diverse set of stimuli than a taped song. These strong stimuli can overcome the developmentally fixed tendency to acquire only a white-crowned sparrow song. Again we see that an innate tendency can be modified by experience and is not necessarily inflexible. Furthermore, the sensitive period proved to be longer when the stimulus was a live bird than when it was a taped song.
+
+We humans also have a sensitive period for learning vocalizations. It is well known that foreign languages are learned most easily up until the teen years. Of course, this sensitive period is not rigidly fixed. Adults can learn new languages, but adults usually require much more time and effort to become fluent than a child does. Also, adults are much less flexible than children at learning to produce new sounds.
+
+Until recently, researchers assumed that all birds had to listen to themselves to develop a specific song. But eastern phoebes experimentally deafened early in life, well before they began to sing, developed normal songs of their species. Thus, there are important exceptions to the song-learning scenario seen in white-crowned sparrows. In fact, in certain songbirds, including canaries, a more open-ended development of song occurs (FIGURE 51.10b). Canaries have no sensitive period for song learning. A young canary begins with a subsong, but the full song it develops is not crystallized, as it is in white-crowned sparrows. Each year, an adult male canary learns a new song. Between breeding seasons, the song becomes flexible again. During this "plastic song" stage, the male creates a new, more elaborate song by adding syllables. The male sings the new song during the next breeding season, after which a plastic song stage leads to still another vocal version. And so on, year after year.
+
+Biologist Fernando Nottebohm identified the region of the forebrain responsible for song learning in canaries. He found that this region in male canaries shows dramatic individual variation in size according to the season and the complexity of an individual male's song. Brains are largest during the breeding season and in males with the most elaborate songs. The shrinking of this brain region at the end of the breeding season may be a mechanism for erasing unneeded songs. Subsequent regeneration of neurons in the brain during the plastic song phase provides a way for new song learning to take place. From an adaptive perspective, the ability of male canaries to learn new songs more than once in their lifetime must be critically important to their fitness, as this adaptation requires a considerable investment of energy. Nottebohm's findings illustrate the important results that can be gleaned from studies melding neurobiology and behavioral ecology.
+
+By analyzing the development of bird song, we can see why a simple division between innate and learned components of behavior has little value. There are both innate and learned influences in bird song development, but the interplay of these factors belies an innate/learned dichotomy.
+
+
+
+

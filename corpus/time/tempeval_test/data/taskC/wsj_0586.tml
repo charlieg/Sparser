@@ -1,0 +1,348 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+ WSJ891030-0113 
+ = 891030 
+ 891030-0113. 
+ World Markets:
+@  London Shares Decline Sharply as Resignation
+@  By Lawson, New York Slump Weigh on Market
+@  ----
+@  A Wall Street Journal News Roundup 
+ <TIMEX3 tid="t198" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ FREST CANDA EUROP JAPAN 
+ COMMODITY NEWS, FARM PRODUCTS (CMD)
+STOCK MARKET, OFFERINGS (STK)
+PRECIOUS METALS, STONES, GOLD, SILVER (PCS) 
+
+   <s>London share prices <EVENT eid="e1" mainevent="YES" class="OCCURRENCE" stem="close" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">closed</EVENT> sharply lower <TIMEX3 tid="t199" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Friday</TIMEX3> in active trading after Chancellor of the Exchequer Nigel Lawson's <EVENT eid="e4" mainevent="NO" class="OCCURRENCE" stem="resignation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">resignation</EVENT> <EVENT eid="e5" mainevent="NO" class="OCCURRENCE" stem="slap" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">slapped</EVENT> the market and Wall Street's rapid initial sell-off <EVENT eid="e7" mainevent="NO" class="OCCURRENCE" stem="knock" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">knocked</EVENT> it down.</s> 
+
+   <s>London shares were <EVENT eid="e203" mainevent="YES" class="OCCURRENCE" stem="depress" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">depressed</EVENT> initially by over<TIMEX3 tid="t207" type="TIME" value="1989-10-26TNI" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t199">night</TIMEX3> <EVENT eid="e202" mainevent="NO" class="OCCURRENCE" stem="loss" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">losses</EVENT> in New York and by the <EVENT eid="e208" mainevent="NO" class="OCCURRENCE" stem="drop" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">drop</EVENT> in sterling after Mr. Lawson's <EVENT eid="e10" mainevent="NO" class="OCCURRENCE" stem="resignation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">resignation</EVENT>.</s> 
+<s>It showed some early <EVENT eid="e12" mainevent="YES" class="OCCURRENCE" stem="resilience" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">resilience</EVENT> after central bank <EVENT eid="e13" mainevent="NO" class="STATE" stem="support" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">support</EVENT> <EVENT eid="e15" mainevent="NO" class="OCCURRENCE" stem="firm" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">firmed</EVENT> sterling, but the <EVENT eid="e212" mainevent="NO" class="STATE" stem="weight" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">weight</EVENT> of Wall Street late in London trading, and signs of further <EVENT eid="e211" mainevent="NO" class="STATE" stem="weakness" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">weakness</EVENT> in the British pound, proved a hefty load to <EVENT eid="e21" mainevent="NO" class="OCCURRENCE" stem="bear" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">bear</EVENT>.</s> 
+<s>New York stocks <EVENT eid="e22" mainevent="YES" class="OCCURRENCE" stem="recover" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">recovered</EVENT> some of their losses after the London market <EVENT eid="e23" mainevent="NO" class="OCCURRENCE" stem="close" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">closed</EVENT>.</s> 
+
+   <s>The Financial Times 100-share index <EVENT eid="e24" mainevent="YES" class="OCCURRENCE" stem="shed" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">shed</EVENT> 47.3 points to <EVENT eid="e26" mainevent="NO" class="OCCURRENCE" stem="close" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">close</EVENT> at 2082.1, down 4.5% from <TIMEX3 tid="t215" type="DATE" value="1989-10-20" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">the previous Friday</TIMEX3> and 6.8% from <TIMEX3 tid="t217" type="DATE" value="1989-10-13" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Oct. 13</TIMEX3>, when Wall Street's <EVENT eid="e28" mainevent="NO" class="OCCURRENCE" stem="plunge" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">plunge</EVENT> <EVENT eid="e29" mainevent="NO" class="I_STATE" stem="help" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">helped</EVENT> <EVENT eid="e30" mainevent="NO" class="ASPECTUAL" stem="spark" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">spark</EVENT> the <TIMEX3 tid="t218" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">current</TIMEX3> <EVENT eid="e219" mainevent="NO" class="STATE" stem="weakness" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">weakness</EVENT> in London.</s> 
+
+   <s>The 30-share index <EVENT eid="e32" mainevent="YES" class="OCCURRENCE" stem="settle" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">settled</EVENT> 42.0 points lower at <EVENT eid="e221" mainevent="NO" class="STATE" stem="1678.5" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">1678.5</EVENT>.</s> 
+<s>Volume was <EVENT eid="e1351" mainevent="YES" class="STATE" stem="840.8" tense="PAST" aspect="NONE" polarity="POS" pos="OTHER">840.8</EVENT> million shares, up from <EVENT eid="e1352" mainevent="NO" class="STATE" stem="443.6" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">443.6</EVENT> million <TIMEX3 tid="t225" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Thursday</TIMEX3> and <TIMEX3 tid="t226" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">the week</TIMEX3>'s most active <EVENT eid="e228" mainevent="NO" class="OCCURRENCE" stem="session" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">session</EVENT>.</s> 
+
+   <s>Dealers <EVENT eid="e34" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the turnover, largely confined to the 100-share index stocks, partly <EVENT eid="e36" mainevent="NO" class="I_STATE" stem="reflect" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">reflected</EVENT> the <EVENT eid="e37" mainevent="NO" class="OCCURRENCE" stem="flurry" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">flurry</EVENT> of activity typical at the <EVENT eid="e39" mainevent="NO" class="ASPECTUAL" stem="close" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">close</EVENT> of a <TIMEX3 tid="t230" type="DURATION" value="P2W" temporalFunction="false" functionInDocument="NONE">two-week</TIMEX3> trading <EVENT eid="e41" mainevent="NO" class="OCCURRENCE" stem="account" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">account</EVENT> and the <EVENT eid="e229" mainevent="NO" class="ASPECTUAL" stem="start" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">start</EVENT> of a new <EVENT eid="e42" mainevent="NO" class="OCCURRENCE" stem="account" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">account</EVENT>.</s> 
+<s>But they <EVENT eid="e43" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> <TIMEX3 tid="t231" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Friday</TIMEX3>'s focus on the top-tier stocks <EVENT eid="e45" mainevent="NO" class="REPORTING" stem="telegraph" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">telegraphed</EVENT> active overseas <EVENT eid="e46" mainevent="NO" class="OCCURRENCE" stem="selling" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">selling</EVENT> and <EVENT eid="e47" mainevent="NO" class="I_STATE" stem="show" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">showed</EVENT> the broad-based <EVENT eid="e232" mainevent="NO" class="STATE" stem="fear" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">fears</EVENT> over the status of the U.K. economy and Britain's currency in the <EVENT eid="e233" mainevent="NO" class="ASPECTUAL" stem="wake" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">wake</EVENT> of the <EVENT eid="e50" mainevent="NO" class="OCCURRENCE" stem="upheaval" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">upheaval</EVENT> in Prime Minister Margaret Thatcher's cabinet.</s> 
+
+   <s>A senior dealer with Warburg Securities <EVENT eid="e51" mainevent="YES" class="REPORTING" stem="note" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">noted</EVENT> British Gas, the most active blue-chip stock at 20 million shares traded, was <EVENT eid="e54" mainevent="NO" class="OCCURRENCE" stem="affect" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">affected</EVENT> by the political implications of Mr. Lawson's <EVENT eid="e55" mainevent="NO" class="OCCURRENCE" stem="departure" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">departure</EVENT> and Mrs. Thatcher's cabinet <EVENT eid="e56" mainevent="NO" class="OCCURRENCE" stem="shuffle" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">shuffle</EVENT>.</s> 
+
+   <s>He <EVENT eid="e57" mainevent="YES" class="I_ACTION" stem="attribute" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">attributed</EVENT> the unusually high <EVENT eid="e234" mainevent="NO" class="STATE" stem="volume" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">volume</EVENT> to broad-based <EVENT eid="e239" mainevent="NO" class="OCCURRENCE" stem="selling" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">selling</EVENT> on <EVENT eid="e235" mainevent="NO" class="I_STATE" stem="fear" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">fears</EVENT> that the Thatcher government may be <EVENT eid="e1353" mainevent="NO" class="STATE" stem="in" tense="NONE" aspect="NONE" polarity="POS" pos="PREPOSITION">in</EVENT> turmoil and Britain's Labor Party <EVENT eid="e61" mainevent="NO" class="OCCURRENCE" stem="position" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">positioned</EVENT> to <EVENT eid="e63" mainevent="NO" class="I_ACTION" stem="regain" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">regain</EVENT> <EVENT eid="e237" mainevent="NO" class="STATE" stem="control" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">control</EVENT> of the government and <EVENT eid="e240" mainevent="NO" class="ASPECTUAL" stem="renew" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">renew</EVENT> <EVENT eid="e241" mainevent="NO" class="I_ACTION" stem="effort" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">efforts</EVENT> at <EVENT eid="e66" mainevent="NO" class="OCCURRENCE" stem="nationalization" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">nationalization</EVENT>.</s> 
+
+   <s>British Gas <EVENT eid="e68" mainevent="YES" class="OCCURRENCE" stem="shed" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">shed</EVENT> 8.5 pence a share to <EVENT eid="e70" mainevent="NO" class="OCCURRENCE" stem="close" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">close</EVENT> at <EVENT eid="e1354" mainevent="NO" class="STATE" stem="185" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">185</EVENT> pence ($2.90).</s> 
+
+   <s>Other dealers <EVENT eid="e71" mainevent="YES" class="REPORTING" stem="add" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">added</EVENT> that the blue-chip stocks in general were <EVENT eid="e73" mainevent="NO" class="OCCURRENCE" stem="hit" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">hit</EVENT> by profit-taking over <EVENT eid="e243" mainevent="NO" class="I_STATE" stem="concern" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">concerns</EVENT> that London shares will <EVENT eid="e74" mainevent="NO" class="ASPECTUAL" stem="continue" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">continue</EVENT> <EVENT eid="e75" mainevent="NO" class="I_ACTION" stem="post" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">posting</EVENT> <EVENT eid="e244" mainevent="NO" class="OCCURRENCE" stem="decline" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">declines</EVENT> and the <EVENT eid="e245" mainevent="NO" class="STATE" stem="uncertainty" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">uncertainty</EVENT> over sterling given that Mr. Lawson's successor, John Major, had only been <EVENT eid="e1355" mainevent="NO" class="STATE" stem="in" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="PREPOSITION">in</EVENT> the job <TIMEX3 tid="t247" type="DURATION" value="P1D" temporalFunction="false" functionInDocument="NONE">one day</TIMEX3>.</s> 
+
+   <s>Besides British Gas, British Steel <EVENT eid="e80" mainevent="YES" class="OCCURRENCE" stem="skid" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">skidded</EVENT> 1.74 to <EVENT eid="e249" mainevent="NO" class="STATE" stem="123.5" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">123.5</EVENT> on turnover of 11 million shares.</s> 
+
+   <s>British Petroleum <EVENT eid="e81" mainevent="YES" class="OCCURRENCE" stem="fall" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">fell</EVENT> 5 to <EVENT eid="e252" mainevent="NO" class="STATE" stem="286" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">286</EVENT> on 14 million shares traded.</s> 
+<s>Dealers <EVENT eid="e84" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the multinational oil company was <EVENT eid="e85" mainevent="NO" class="I_ACTION" stem="pressure" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">pressured</EVENT> by recent brokerage recommendations <EVENT eid="e87" mainevent="NO" class="I_ACTION" stem="urge" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">urging</EVENT> investors to <EVENT eid="e89" mainevent="NO" class="OCCURRENCE" stem="switch" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">switch</EVENT> into Shell Trading amp Transport.</s> 
+<s>Shell <EVENT eid="e90" mainevent="YES" class="OCCURRENCE" stem="ease" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">eased</EVENT> 1 to <EVENT eid="e253" mainevent="NO" class="STATE" stem="416" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">416</EVENT> on turnover of 4.8 million shares.</s> 
+
+   <s>Among the other actively traded blue-chip issues, Imperial Chemical Industries <EVENT eid="e91" mainevent="YES" class="OCCURRENCE" stem="drop" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">dropped</EVENT> 11 to <EVENT eid="e256" mainevent="NO" class="STATE" stem="#10.86" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">#10.86</EVENT>, Hanson <EVENT eid="e92" mainevent="NO" class="OCCURRENCE" stem="skid" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">skidded</EVENT> 9.5 to <EVENT eid="e257" mainevent="NO" class="STATE" stem="200.5" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">200.5</EVENT>, and British Telecom <EVENT eid="e93" mainevent="NO" class="OCCURRENCE" stem="fall" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">fell</EVENT> 10 to <EVENT eid="e258" mainevent="NO" class="STATE" stem="250" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">250</EVENT>.</s> 
+
+   <s>In Tokyo, stocks <EVENT eid="e94" mainevent="YES" class="OCCURRENCE" stem="close" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">closed</EVENT> <EVENT eid="e261" mainevent="NO" class="STATE" stem="lower" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">lower</EVENT> but above intraday lows in active trading.</s> 
+<s>The Nikkei index was <EVENT eid="e98" mainevent="YES" class="I_ACTION" stem="pressure" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">pressured</EVENT> down by <EVENT eid="e265" mainevent="NO" class="OCCURRENCE" stem="profit-taking" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">profit-taking</EVENT> <EVENT eid="e99" mainevent="NO" class="OCCURRENCE" stem="trigger" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">triggered</EVENT> by sharp <EVENT eid="e100" mainevent="NO" class="OCCURRENCE" stem="advance" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">advances</EVENT> made through <TIMEX3 tid="t264" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">this week</TIMEX3> and <EVENT eid="e102" mainevent="NO" class="OCCURRENCE" stem="fall" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">fell</EVENT> 151.20 points to <EVENT eid="e266" mainevent="NO" class="STATE" stem="35527.29" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">35527.29</EVENT>.</s> 
+
+   <s>In early <EVENT eid="e103" mainevent="NO" class="OCCURRENCE" stem="trading" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">trading</EVENT> in Tokyo <TIMEX3 tid="t269" type="DATE" value="1989-10-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Monday</TIMEX3>, the Nikkei index <EVENT eid="e105" mainevent="YES" class="OCCURRENCE" stem="fall" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">fell</EVENT> 148.85 points to <EVENT eid="e270" mainevent="NO" class="STATE" stem="35378.44" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">35378.44</EVENT>.</s> 
+
+   <s>On <TIMEX3 tid="t274" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Friday</TIMEX3>, the Tokyo stock price index of first section issues was down 15.82 at <EVENT eid="e277" mainevent="YES" class="STATE" stem="2681.76" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">2681.76</EVENT>.</s> 
+<s>First-section volume was <EVENT eid="e106" mainevent="YES" class="I_ACTION" stem="estimate" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">estimated</EVENT> at <EVENT eid="e1356" mainevent="NO" class="STATE" stem="1.3" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">1.3</EVENT> billion shares, up from <EVENT eid="e1357" mainevent="NO" class="STATE" stem="886" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">886</EVENT> million shares <TIMEX3 tid="t275" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Thursday</TIMEX3>.</s> 
+
+   <s>An official at Wako Securities <EVENT eid="e109" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> brokerages' excessive <EVENT eid="e279" mainevent="NO" class="I_STATE" stem="expectation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">expectations</EVENT> about <TIMEX3 tid="t280" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">recent</TIMEX3> <EVENT eid="e110" mainevent="NO" class="OCCURRENCE" stem="advance" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">advances</EVENT> in Tokyu Group shares and real estate issues were <EVENT eid="e111" mainevent="NO" class="OCCURRENCE" stem="dash" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">dashed</EVENT> <TIMEX3 tid="t281" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Friday</TIMEX3>.</s> 
+
+   <s>Dealers <EVENT eid="e112" mainevent="YES" class="OCCURRENCE" stem="place" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">placed</EVENT> heavy buy <EVENT eid="e114" mainevent="NO" class="OCCURRENCE" stem="order" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">orders</EVENT> in <TIMEX3 tid="t282" type="TIME" value="1989-10-27TMO" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t281">the morning</TIMEX3> to <EVENT eid="e118" mainevent="NO" class="ASPECTUAL" stem="start" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">start</EVENT> the first <EVENT eid="e936" mainevent="NO" class="OCCURRENCE" stem="trading" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">trading</EVENT> <TIMEX3 tid="t941" type="DURATION" value="P1D" temporalFunction="false" functionInDocument="NONE">day</TIMEX3> for <TIMEX3 tid="t283" type="DATE" value="1989-11" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">November</TIMEX3> <EVENT eid="e120" mainevent="NO" class="OCCURRENCE" stem="transaction" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">transactions</EVENT>.</s> 
+<s>But they <EVENT eid="e121" mainevent="NO" class="I_ACTION" stem="fail" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">failed</EVENT> to <EVENT eid="e123" mainevent="NO" class="OCCURRENCE" stem="sell" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">sell</EVENT> these stocks to client investors, who were <EVENT eid="e285" mainevent="NO" class="I_STATE" stem="cautious" tense="PAST" aspect="NONE" polarity="POS" pos="ADJECTIVE">cautious</EVENT> about the sharp <EVENT eid="e286" mainevent="NO" class="OCCURRENCE" stem="gain" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">gains</EVENT> these issues <EVENT eid="e126" mainevent="NO" class="OCCURRENCE" stem="make" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">made</EVENT> <TIMEX3 tid="t287" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">this week</TIMEX3>, the Wako official <EVENT eid="e127" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>.</s> 
+
+   <s>Fund managers <EVENT eid="e129" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> <TIMEX3 tid="t288" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Friday</TIMEX3>'s <EVENT eid="e290" mainevent="NO" class="OCCURRENCE" stem="profittaking" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">profittaking</EVENT> was a natural <EVENT eid="e998" mainevent="NO" class="STATE" stem="result" tense="PAST" aspect="NONE" polarity="POS" pos="NOUN">result</EVENT> of <TIMEX3 tid="t293" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">the week</TIMEX3>'s "abnormal <EVENT eid="e1358" mainevent="NO" class="OCCURRENCE" stem="fever" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">fever</EVENT>" in <EVENT eid="e132" mainevent="NO" class="OCCURRENCE" stem="buy" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">buying</EVENT> real estate, shipbuilding, steel and construction shares.</s> 
+
+   <s>Frankfurt prices <EVENT eid="e134" mainevent="YES" class="OCCURRENCE" stem="close" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">closed</EVENT> lower again <TIMEX3 tid="t294" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Friday</TIMEX3>, the fourth <EVENT eid="e296" mainevent="NO" class="OCCURRENCE" stem="decline" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">decline</EVENT> in <TIMEX3 tid="t298" type="DURATION" value="P5D" temporalFunction="true" functionInDocument="NONE" endPoint="t198">the past five days</TIMEX3> and the <EVENT eid="e300" mainevent="NO" class="ASPECTUAL" stem="culmination" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">culmination</EVENT> of <TIMEX3 tid="t301" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">a week</TIMEX3> that saw the DAX index <EVENT eid="e136" mainevent="NO" class="OCCURRENCE" stem="lose" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">lose</EVENT> 4%.</s> 
+<s>The DAX <EVENT eid="e137" mainevent="YES" class="OCCURRENCE" stem="drop" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">dropped</EVENT> 19.69 points <TIMEX3 tid="t302" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Friday</TIMEX3> to <EVENT eid="e304" mainevent="NO" class="STATE" stem="1462.93" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="OTHER">1462.93</EVENT>.</s> 
+
+   <s>Traders <EVENT eid="e138" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the continued <EVENT eid="e305" mainevent="NO" class="STATE" stem="turbulence" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">turbulence</EVENT> in other markets, coupled with the <EVENT eid="e306" mainevent="NO" class="OCCURRENCE" stem="drop" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">drop</EVENT> in London following the Lawson <EVENT eid="e307" mainevent="NO" class="OCCURRENCE" stem="resignation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">resignation</EVENT>, were <EVENT eid="e310" mainevent="NO" class="I_STATE" stem="responsible" tense="PAST" aspect="NONE" polarity="POS" pos="ADJECTIVE">responsible</EVENT>.</s> 
+
+   <s>Traders <EVENT eid="e143" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> that selling pressure wasn't enormous and that the DAX <EVENT eid="e145" mainevent="NO" class="OCCURRENCE" stem="drop" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">dropped</EVENT> <TIMEX3 tid="t316" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">Friday</TIMEX3> more on a lack of any substantial buying <EVENT eid="e315" mainevent="NO" class="STATE" stem="interest" tense="NONE" aspect="NONE" polarity="NEG" pos="NOUN">interest</EVENT>.</s> 
+<s>They <EVENT eid="e147" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> contributing to the downward <EVENT eid="e318" mainevent="NO" class="OCCURRENCE" stem="drift" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">drift</EVENT> was the fact that many professional traders had <EVENT eid="e150" mainevent="NO" class="I_ACTION" stem="choose" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="VERB">chosen</EVENT> to <EVENT eid="e317" mainevent="NO" class="OCCURRENCE" stem="square" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">square</EVENT> positions ahead of <TIMEX3 tid="t322" type="DATE" value="1989-WXX-WE" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">the weekend</TIMEX3>.</s> 
+
+   <s>"It's the whole uncertainty about what's happening around us," said Valentin Von Korff, a trader at Credit Suisse First Boston in Frankfurt.</s> 
+<s>"If you take away the outside influences, the market itself looks very cheap.</s> 
+<s>What's happening here is n't justified by the fundamentals."</s> 
+
+   <s>Traders <EVENT eid="e159" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the market remains extremely <EVENT eid="e323" mainevent="NO" class="STATE" stem="nervous" tense="PRESENT" aspect="NONE" polarity="POS" pos="ADJECTIVE">nervous</EVENT> because of the wild <EVENT eid="e325" mainevent="NO" class="OCCURRENCE" stem="swing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">swings</EVENT> <EVENT eid="e162" mainevent="NO" class="PERCEPTION" stem="see" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">seen</EVENT> on the New York Stock Exchange <TIMEX3 tid="t326" type="DATE" value="1989-WXX" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">last week</TIMEX3>.</s> 
+<s>That's <EVENT eid="e163" mainevent="NO" class="OCCURRENCE" stem="leave" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">leaving</EVENT> small investors with cold feet, they <EVENT eid="e164" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>, and <EVENT eid="e165" mainevent="NO" class="I_ACTION" stem="prompt" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">prompting</EVENT> institutions to <EVENT eid="e167" mainevent="NO" class="OCCURRENCE" stem="take" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">take</EVENT> a reserved stance on the sidelines as well, at least until the market in New York <EVENT eid="e328" mainevent="NO" class="OCCURRENCE" stem="settle" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">settles</EVENT> down somewhat.</s> 
+
+   <s>Elsewhere, share prices <EVENT eid="e173" mainevent="YES" class="OCCURRENCE" stem="close" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">closed</EVENT> lower in Paris, Zurich, Amsterdam, Brussels and Stockholm, and were <EVENT eid="e330" mainevent="NO" class="STATE" stem="mixed" tense="PAST" aspect="NONE" polarity="POS" pos="ADJECTIVE">mixed</EVENT> in Milan.</s> 
+<s>The British <EVENT eid="e331" mainevent="NO" class="OCCURRENCE" stem="shakeup" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">shakeup</EVENT> was widely <EVENT eid="e174" mainevent="YES" class="REPORTING" stem="cite" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">cited</EVENT> for the <EVENT eid="e332" mainevent="NO" class="OCCURRENCE" stem="decline" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">declines</EVENT>.</s> 
+
+   <s>Share prices also <EVENT eid="e175" mainevent="YES" class="OCCURRENCE" stem="close" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">closed</EVENT> lower in Sydney, Hong Kong, Singapore, Taipei, Manila, Wellington and Seoul.</s> 
+<s><EVENT eid="e334" mainevent="NO" class="I_STATE" stem="concern" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">Concern</EVENT> about <EVENT eid="e335" mainevent="NO" class="OCCURRENCE" stem="decline" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">declines</EVENT> in other markets, especially New York, <EVENT eid="e336" mainevent="YES" class="OCCURRENCE" stem="cause" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">caused</EVENT> <EVENT eid="e1350" mainevent="NO" class="OCCURRENCE" stem="selling" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">selling</EVENT> <EVENT eid="e337" mainevent="NO" class="I_STATE" stem="pressure" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">pressure</EVENT>.</s> 
+
+   <s>Here are price trends on the world's major stock markets, as <EVENT eid="e179" mainevent="YES" class="OCCURRENCE" stem="calculate" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">calculated</EVENT> by Morgan Stanley Capital International Perspective, Geneva.</s> 
+<s>To make them directly comparable, each index is based on the close of 1969 equaling 100.</s> 
+<s>The percentage <EVENT eid="e186" mainevent="YES" class="STATE" stem="change" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">change</EVENT> is since <TIMEX3 tid="t341" type="DATE" value="1988-12-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t198">year-end</TIMEX3>.</s> 
+<s>@ % This 
+@ Oct 25 Oct 24 Year 
+@ U.S. ...................</s> <s>315.2 316.4 +23.1 
+@ Britain ................</s> <s>646.4 643.1 +18.4 
+@ Canada .................</s> <s>426.9 426.4 +16.3 
+@ Japan ..................</s> <s>1547.1 1550.9 + 8.9 
+@ France .................</s> <s>518.6 521.2 +17.1 
+@ Germany ................</s> <s>236.7 241.0 +13.8 
+@ Hong Kong ..............</s> <s>2049.2 2068.9 + 1.0 
+@ Switzerland ............</s> <s>212.6 216.5 +23.0 
+@ Australia ..............</s> <s>326.0 329.4 +12.3 
+@ World index ............</s> <s>532.4 533.4 + 7.7 
+@ Weekly Percentage Leaders 
+
+   Last week's best and worst performing stocks among those issues that make up 80% of the world's stock market capitalization (in local currency) 
+@ ISSUE (COUNTRY) CLOSE % CHG 
+@ WINNING ISSUES 
+
+@ Bell Resources (Australia) .......</s> <s>1.02 +32.5 
+@Bond Media (Australia) ...........</s> <s>0.31 +24.0 
+@Godo Shusei (Japan) ..............</s> <s>2380.0 +19.0 
+@Fonciere Lvonnaise (France) ......</s> <s>858.0 +18.8 
+@Pegasus Gold (Canada) ............</s> <s>14.0 +16.7 
+@Tokyu Corp. (Japan) ..............</s> <s>2740.0 +15.6 
+@SAT Telecom (France) .............</s> <s>1605.0 +15.5 
+@Echo Bay Mines (Canada) ..........</s> <s>18.625 +13.7 
+@Nippon Express (Japan) ...........</s> <s>1770.0 +13.5 
+@UAC (Singapore) ..................</s> <s>2380.0 +19.0 
+@ LOSING ISSUES 
+
+@MacCarthy amp Stone (England) ......</s> <s>0.74 -29.5 
+@Campeau (Canada) .................</s> <s>7.375 -24.4 
+@Interchase Corp. (Australia) .....</s> <s>0.72 -20.0 
+@LTV (U.S.) .......................</s> <s>1.5 -20.0 
+@Norske Credibank (Norway) ........</s> <s>81.0 -18.6 
+@Laing (John) (England) ...........</s> <s>1.96 -18.0 
+@Computer Assoc Intl (U.S.) .......</s> <s>12.0 -17.9 
+@Beverly Enterprises ( U.S.) ......</s> <s>5.625 -16.7 
+@McDermott Intl (U.S.) ............</s> <s>19.0 -16.5 
+@Lex Services (England) ...........</s> <s>2.41 -16.3 
+
+   Source: Morgan Stanley Capital Intl.</s> 
+<s>Perspective</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e129" eventID="e127" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e164" eventID="e159" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e112" eventID="e109" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e277" eventID="e105" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e143" eventID="e138" task="C"/>
+<TLINK lid="l6" relType="UNKNOWN" relatedToEvent="e174" eventID="e173" task="C"/>
+<TLINK lid="l7" relType="UNKNOWN" relatedToEvent="e22" eventID="e12" task="C"/>
+<TLINK lid="l8" relType="UNKNOWN" relatedToEvent="e147" eventID="e143" task="C"/>
+<TLINK lid="l9" relType="UNKNOWN" relatedToEvent="e127" eventID="e112" task="C"/>
+<TLINK lid="l10" relType="UNKNOWN" relatedToEvent="e84" eventID="e81" task="C"/>
+<TLINK lid="l11" relType="UNKNOWN" relatedToEvent="e57" eventID="e51" task="C"/>
+<TLINK lid="l12" relType="UNKNOWN" relatedToEvent="e12" eventID="e203" task="C"/>
+<TLINK lid="l13" relType="UNKNOWN" relatedToEvent="e106" eventID="e277" task="C"/>
+<TLINK lid="l14" relType="UNKNOWN" relatedToEvent="e175" eventID="e174" task="C"/>
+<TLINK lid="l15" relType="UNKNOWN" relatedToEvent="e81" eventID="e80" task="C"/>
+<TLINK lid="l16" relType="UNKNOWN" relatedToEvent="e179" eventID="e336" task="C"/>
+<TLINK lid="l17" relType="UNKNOWN" relatedToEvent="e336" eventID="e175" task="C"/>
+<TLINK lid="l18" relType="UNKNOWN" relatedToEvent="e134" eventID="e129" task="C"/>
+<TLINK lid="l19" relType="UNKNOWN" relatedToEvent="e80" eventID="e71" task="C"/>
+<TLINK lid="l20" relType="UNKNOWN" relatedToEvent="e32" eventID="e24" task="C"/>
+<TLINK lid="l21" relType="UNKNOWN" relatedToEvent="e94" eventID="e91" task="C"/>
+<TLINK lid="l22" relType="UNKNOWN" relatedToEvent="e98" eventID="e94" task="C"/>
+<TLINK lid="l23" relType="UNKNOWN" relatedToEvent="e91" eventID="e90" task="C"/>
+<TLINK lid="l24" relType="UNKNOWN" relatedToEvent="e1351" eventID="e32" task="C"/>
+<TLINK lid="l25" relType="UNKNOWN" relatedToEvent="e68" eventID="e57" task="C"/>
+<TLINK lid="l26" relType="UNKNOWN" relatedToEvent="e109" eventID="e106" task="C"/>
+<TLINK lid="l27" relType="UNKNOWN" relatedToEvent="e90" eventID="e84" task="C"/>
+<TLINK lid="l28" relType="UNKNOWN" relatedToEvent="e203" eventID="e1" task="C"/>
+<TLINK lid="l29" relType="UNKNOWN" relatedToEvent="e51" eventID="e43" task="C"/>
+<TLINK lid="l30" relType="UNKNOWN" relatedToEvent="e24" eventID="e22" task="C"/>
+<TLINK lid="l31" relType="UNKNOWN" relatedToEvent="e173" eventID="e164" task="C"/>
+<TLINK lid="l32" relType="UNKNOWN" relatedToEvent="e43" eventID="e34" task="C"/>
+<TLINK lid="l33" relType="UNKNOWN" relatedToEvent="e138" eventID="e137" task="C"/>
+<TLINK lid="l34" relType="UNKNOWN" relatedToEvent="e105" eventID="e98" task="C"/>
+<TLINK lid="l35" relType="UNKNOWN" relatedToEvent="e137" eventID="e134" task="C"/>
+<TLINK lid="l36" relType="UNKNOWN" relatedToEvent="e34" eventID="e1351" task="C"/>
+<TLINK lid="l37" relType="UNKNOWN" relatedToEvent="e71" eventID="e68" task="C"/>
+
+</TempEval>

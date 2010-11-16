@@ -1,0 +1,80 @@
+
+ Secondary growth: Lateral meristems add girth by producing secondary vascular tissue and periderm
+
+The stems and roots, but not the leaves, of most dicots increase in girth by secondary growth. The secondary plant body consists of the tissues produced during this secondary growth in diameter. Two lateral meristems function in secondary growth: the vascular cambium, which produces secondary xylem (wood) and secondary phloem, and the cork cambium, which produces a tough, thick covering for stems and roots that replaces the epidermis. Secondary growth occurs in all gymnosperms. Among angiosperms, secondary growth takes place in most dicot species but is rare in monocots.
+
+Secondary Growth of Stems
+
+Vascular Cambium and the Production of Secondary Vascular Tissue. The vascular cambium is a cylinder of meristematic cells that forms secondary vascular tissue (see FIGURE 35.12). The accumulation of this secondary vascular tissue over the years accounts for most of the increase in the diameter of a woody plant. The vascular cambium produces secondary xylem to its interior and secondary phloem to its exterior (FIGURE 35.20). A tree grows in girth as the diameter of the cylinder of vascular cambium increases over time, laying down successive layers of secondary tissues, each with a larger diameter than the last.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-20. Production of secondary xylem and phloem by the vascular cambium. This diagram traces the radial file of cells that develops from the meristematic activity of a single cell of the vascular cambium. The cambium ell (C) gives rise to secondary xylem (X) on the inside and secondary phloem (P) on the outside. Each time a cambium cell divides, one daughter cell retains its status as an initial, and the other, the derivative (D), differentiates into a xylem or phloem cell., As layers of xylem are added. vascular cambium itself increases in diameter.
+
+It is important to understand that primary and secondary growth occur simultaneously but in different regions of a stem. While the apical meristem serves to elongate the stem, secondary growth commences farther down the shoot. How does the primary plant body of a young shoot make the transition from primary to secondary growth? The vascular cambium forms from parenchyma cells that regain the capacity to divide; that is, the cells become meristematic. This meristem forms in a layer between the primary xylem and primary phloem of each vascular bundle and in the rays of ground tissue between the bundles. The meristematic bands within the vascular bundles and rays unite to form the vascular cambium as a continuous cylinder of dividing cells surrounding the primary xylem and pith of the stem (FIGURE 35.21, p. 736).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-21. Secondary growth of a stem. You can track the progress of secondary growth by examining the sections through sequentially older parts of the stem. (You would observe the same changes if you could follow the youngest region, near the apex, for the next three years.)
+
+Viewed in cross section, the cylinder of vascular cambium appears as a ring. If we trace around the ring, there are alternating regions of cambium cells called ray initials and fusiform initials. The ray initials are cambium cells that produce radial files of parenchyma cells known as xylem rays and phloem rays. These rays separate wedge-shaped sections of secondary vascular tissue. Xylem and phloem rays, consisting mainly of parenchyma, function as living avenues for the radial transport of water and nutrients within a woody stem and in the storage of starch and other reserves. The cambium cells within the vascular bundles are the fusiform initials, a name that refers to the shape of these cells, which have tapered (fusiform) ends and are elongated along the axis of the stem. Fusiform initials produce new vascular tissue, forming secondary xylem to the inside of the vascular cambium and forming secondary phloem to the outside (see FIGURE 35.20).
+
+As secondary growth continues over the years, layer upon layer of secondary xylem accumulates, producing the tissue we call wood. Wood consists mainly of tracheids, vessel elements (in angiosperms), and fibers. These cells, dead at functional maturity, have thick, lignified walls that give wood its hardness and strength. In temperate regions of the world, secondary growth in perennial plants is interrupted each year when the vascular cambium becomes dormant during winter. When secondary growth resumes in the spring, the first tracheids and vessel cells to develop usually have relatively large diameters and thin walls compared to the secondary xylem produced later in the summer. Thus, it is usually possible to distinguish early wood (usually produced during spring) from late wood (usually produced during summer) (see FIGURE 35.21, p. 736).
+
+The structure of the early wood maximizes delivery of water to new, expanding leaves during the start of the growth season. Though the thick-walled cells of late wood do not transport as much water as the cells of early wood, they add more physical support to the tree than do the thinner-walled cells. The annual growth rings that are evident in the cross sections of most tree trunks in temperate regions result from the yearly activity of the vascular cambium: cambium dormancy, early wood production, and late wood production. The boundary between one year's growth and the next is usually quite conspicuous, allowing us to estimate the age of a tree by counting its annual rings.
+
+Cork Cambium and the Production of Periderm. During the early stages of secondary growth, the epidermis produced by primary growth splits, dries, and falls off the stem. It is replaced by new protective tissues produced by the cork cambium, a cylinder of meristematic tissue that first forms in the outer cortex of the stem and later in the secondary phloem (FIGURE 35.22). Cork cambium produces cork cells, which accumulate to the cambium's exterior. As the cork cells mature, they deposit a waxy material called suberin in their walls and then die. The cork tissue then functions as a barrier that helps protect the stem from physical damage and pathogens. And because cork is waxy, it impedes water loss from the stems. Together, the layers of cork plus the cork cambium make up the periderm. This is the protective coat of the secondary plant body that replaces the epidermis of the primary body. In localized areas, the periderm may split open because the cork cambium is more active than elsewhere. These regions, called lenticels, make it possible for living cells within the trunk to exchange gases with the outside air for cellular respiration.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-22. Anatomy of a three-year-old stem(LM).
+
+The term bark, more inclusive than periderm, refers to all tissues external to the vascular cambium. Thus, in an outward direction, bark consists of the secondary phloem, the cork cambium, and cork. Put another way, bark is phloem plus periderm (see FIGURES 35.21 lower right and 35.22).
+
+Unlike the vascular cambium, which grows in diameter, the original cork cambium is a cylinder of fixed size. After a few weeks of cork production, the cork cambium loses its meristematic activity, and its remaining cells differentiate into cork. Expansion of the stem splits the original periderm. How is it renewed to keep pace with continued secondary growth? New cork cambium forms deeper and deeper in the cortex. Eventually, no cortex is left, and the cork cambium then develops from parenchyma cells in the secondary phloem.
+
+Only the youngest secondary phloem, which is internal to the cork cambium, functions in sugar transport. The older secondary phloem, outside the cork cambium, dies and helps protect the stem until it is sloughed off as part of the bark during later seasons of secondary growth. This is why secondary phloem does not accumulate as extensively over the years as the secondary xylem does.
+
+Examining an old tree trunk in cross section enables us to see the result of many years of secondary stem growth. Beginning at the center of the tree and tracing outward, we can distinguish several zones (FIGURE 35.23). Heartwood and sapwood both consist of secondary xylem. Heartwood is older and no longer functions in water transport; the lignified walls of its dead cells form a central column that supports the tree. This wood owes its rich color to resins and other compounds that clog the cell cavities and help protect the core of the tree from fungi and wood-boring insects. Sapwood is so named because its secondary xylem still functions in the upward transport of water and minerals (xylem sap). Because each new layer of secondary xylem has a larger circumference, secondary growth enables the xylem to transport more sap each year, providing water and minerals to an increasing number of leaves.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-23. Anatomy of a tree trunk.
+
+FIGURE 35.24 summarizes the relationships among the primary and secondary tissues of a woody shoot.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-24. A summary of primary and secondary growth in a woody stem.
+
+Secondary Growth of Roots
+
+The two lateral meristems, vascular cambium and cork cambium, also develop and produce secondary growth in roots. The vascular cambium forms within the stele and produces secondary xylem to its inside and secondary phloem to its outside. As the stele grows in diameter, the cortex and epidermis are split and shed. A cork cambium forms from the pericycle of the stele and produces the periderm, which becomes the secondary dermal tissue. Unlike the primary epidermis of a younger root, periderm is impermeable to water. Therefore, it is only the youngest parts of roots, those representing the primary plant body, that absorb water and minerals from the soil. Older parts of roots, with secondary growth, function mainly to anchor the plant and to transport water and solutes between the younger roots and the shoot system.
+
+Over the years, the root becomes woodier, and annual rings are evident in the secondary xylem. The tissues external to the vascular cambium form a thick, tough bark. After extensive secondary growth, old stems and old roots are quite similar.
+
+So far we have described the development of the plant body from meristems. In the next section, we'll move from a description of plant growth and development to the mechanisms that underlie these processes.
+
+
+
+

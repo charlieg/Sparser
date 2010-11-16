@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+
+<TempEval>
+
+
+
+
+ WSJ891030-0174 
+ = 891030 
+ 891030-0174. 
+ Crossland Savings Stock Plunges as Firm
+@  Recommends Suspension of Dividends
+@  ----
+@  By Udayan Gupta
+@  Staff Reporter of The Wall Street Journal 
+ <TIMEX3 tid="t84" type="DATE" value="1989-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">10/30/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ CRL 
+ DIVIDENDS (DIV)
+FINANCIAL, ACCOUNTING, LEASING (FIN)
+EARNINGS (ERN) 
+ NEW YORK  
+
+   <s>Crossland Savings Bank's stock <EVENT eid="e1" mainevent="YES" class="OCCURRENCE" stem="plummet" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">plummeted</EVENT> after management <EVENT eid="e4" mainevent="NO" class="I_ACTION" stem="recommend" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">recommended</EVENT> a <EVENT eid="e82" mainevent="NO" class="OCCURRENCE" stem="suspension" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">suspension</EVENT> of dividend payments on both its common and preferred stock because Crossland may not <EVENT eid="e6" mainevent="NO" class="I_STATE" stem="meet" tense="NONE" aspect="NONE" polarity="NEG" pos="VERB">meet</EVENT> the new government capital <EVENT eid="e9" mainevent="NO" class="STATE" stem="criterion" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">criteria</EVENT> effective <TIMEX3 tid="t85" type="DATE" value="1989-12-07" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">Dec. 7</TIMEX3>.</s> 
+
+   <s>In composite trading on the New York Stock Exchange <TIMEX3 tid="t86" type="DATE" value="1989-10-27" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">Friday</TIMEX3>, Crossland <EVENT eid="e11" mainevent="YES" class="OCCURRENCE" stem="close" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">closed</EVENT> at <EVENT eid="e87" mainevent="NO" class="STATE" stem="$5.25" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">$5.25</EVENT>, down $1.875, a 26% decline.</s> 
+
+   <s>A spokesman <EVENT eid="e12" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the savings bank may not <EVENT eid="e13" mainevent="NO" class="I_STATE" stem="qualify" tense="NONE" aspect="NONE" polarity="NEG" pos="VERB">qualify</EVENT> for the capital <EVENT eid="e16" mainevent="NO" class="STATE" stem="requirement" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">requirements</EVENT> because, under the proposed guidelines, its $380 million of preferred stock does n't <EVENT eid="e18" mainevent="NO" class="I_STATE" stem="meet" tense="PRESENT" aspect="NONE" polarity="NEG" pos="VERB">meet</EVENT> the "core capital" <EVENT eid="e20" mainevent="NO" class="STATE" stem="criterion" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">criteria</EVENT> outlined under the new Financial Institutions Reform, Recovery and Enforcement Act of <TIMEX3 tid="t89" type="DATE" value="1989" temporalFunction="false" functionInDocument="NONE">1989</TIMEX3>.</s> 
+<s>He <EVENT eid="e22" mainevent="YES" class="REPORTING" stem="add" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">added</EVENT> that final guidelines to be <EVENT eid="e25" mainevent="NO" class="OCCURRENCE" stem="publish" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">published</EVENT> in <TIMEX3 tid="t191" type="DATE" value="1989-11" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">early November</TIMEX3> will <EVENT eid="e26" mainevent="NO" class="OCCURRENCE" stem="determine" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">determine</EVENT> whether the bank is in <EVENT eid="e27" mainevent="NO" class="OCCURRENCE" stem="compliance" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">compliance</EVENT>.</s> 
+
+   <s>Crossland <EVENT eid="e29" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> it <EVENT eid="e30" mainevent="NO" class="OCCURRENCE" stem="retain" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">retained</EVENT> three investment bankers to <EVENT eid="e32" mainevent="NO" class="I_ACTION" stem="assist" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">assist</EVENT> it in <EVENT eid="e34" mainevent="NO" class="I_ACTION" stem="develop" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">developing</EVENT> and <EVENT eid="e35" mainevent="NO" class="I_ACTION" stem="implement" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">implementing</EVENT> a financial restructuring <EVENT eid="e91" mainevent="NO" class="STATE" stem="plan" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">plan</EVENT>.</s> 
+<s>It would n't <EVENT eid="e36" mainevent="YES" class="OCCURRENCE" stem="identify" tense="NONE" aspect="NONE" polarity="NEG" pos="VERB">identify</EVENT> the bankers.</s> 
+
+   <s>Additionally, Crossland <EVENT eid="e39" mainevent="YES" class="REPORTING" stem="report" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">reported</EVENT> a <TIMEX3 tid="t92" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">third-quarter</TIMEX3> <EVENT eid="e40" mainevent="NO" class="STATE" stem="loss" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">loss</EVENT> of $175.5 million, or $13.44 a share, compared with net <EVENT eid="e94" mainevent="NO" class="STATE" stem="income" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">income</EVENT> of $27.1 million, or $1.16 a share, <TIMEX3 tid="t95" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t92">a year ago</TIMEX3>.</s> 
+<s>A major factor in the <TIMEX3 tid="t98" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">third-quarter</TIMEX3> <EVENT eid="e43" mainevent="NO" class="STATE" stem="loss" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">loss</EVENT> was the <EVENT eid="e97" mainevent="YES" class="OCCURRENCE" stem="write-down" tense="PAST" aspect="NONE" polarity="POS" pos="NOUN">write-down</EVENT> of $143.6 million of goodwill.</s> 
+
+   <s>The spokesman <EVENT eid="e45" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> that the proposed guidelines <EVENT eid="e47" mainevent="NO" class="OCCURRENCE" stem="cause" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">caused</EVENT> Crossland to <EVENT eid="e49" mainevent="NO" class="OCCURRENCE" stem="revise" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">revise</EVENT> its business objectives and, consequently , to <EVENT eid="e50" mainevent="NO" class="OCCURRENCE" stem="write" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">write</EVENT> down the asset value of some previous acquisitions.</s> 
+<s>Crossland <EVENT eid="e52" mainevent="YES" class="I_ACTION" stem="record" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">recorded</EVENT> an additional $20 million in loan loss <EVENT eid="e100" mainevent="NO" class="STATE" stem="reserve" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">reserves</EVENT> in <TIMEX3 tid="t105" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">the third quarter</TIMEX3>.</s> 
+
+   <s>Net interest <EVENT eid="e110" mainevent="NO" class="STATE" stem="income" tense="NONE" aspect="NONE" polarity="NEG" pos="NOUN">income</EVENT> for <TIMEX3 tid="t104" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">the third quarter</TIMEX3> declined to <EVENT eid="e120" mainevent="YES" class="STATE" stem="$35.6" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">$35.6</EVENT> million from <EVENT eid="e121" mainevent="NO" class="STATE" stem="$70.1" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">$70.1</EVENT> million <TIMEX3 tid="t111" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t104">a year ago</TIMEX3>.</s> 
+<s>However, non-interest income <EVENT eid="e55" mainevent="YES" class="OCCURRENCE" stem="rise" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">rose</EVENT> to <EVENT eid="e122" mainevent="NO" class="STATE" stem="$23.5" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">$23.5</EVENT> million from <EVENT eid="e123" mainevent="NO" class="STATE" stem="$22" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">$22</EVENT> million.</s> 
+<s><TIMEX3 tid="t116" type="DATE" value="1989-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">Third-quarter</TIMEX3> loan originations <EVENT eid="e57" mainevent="YES" class="OCCURRENCE" stem="drop" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">dropped</EVENT> sharply to <EVENT eid="e124" mainevent="NO" class="STATE" stem="$663" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">$663</EVENT> million from <EVENT eid="e125" mainevent="NO" class="STATE" stem="$1" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">$1</EVENT> billion <TIMEX3 tid="t122" type="DATE" value="1988-Q3" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t84">a year ago</TIMEX3>.</s> 
+
+   <s>Standard amp Poor's Corp. <EVENT eid="e58" mainevent="YES" class="OCCURRENCE" stem="lower" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">lowered</EVENT> the rating on Crossland's preferred stock to double-C from single-B-minus and <EVENT eid="e60" mainevent="NO" class="OCCURRENCE" stem="place" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">placed</EVENT> it on CreditWatch for possible further downgrade.</s> 
+<s>It also <EVENT eid="e61" mainevent="YES" class="OCCURRENCE" stem="place" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">placed</EVENT> on CreditWatch for possible downgrade other securities, including the double-B-minus/B rating of Crossland's certificates of deposit and the single-B rating of its senior subordinated capital notes.</s> 
+<s>About $518 million of debt is affected.</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e58" eventID="e57" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e39" eventID="e36" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e120" eventID="e52" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e36" eventID="e29" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e57" eventID="e55" task="C"/>
+<TLINK lid="l6" relType="UNKNOWN" relatedToEvent="e52" eventID="e45" task="C"/>
+<TLINK lid="l7" relType="UNKNOWN" relatedToEvent="e97" eventID="e39" task="C"/>
+<TLINK lid="l8" relType="UNKNOWN" relatedToEvent="e61" eventID="e58" task="C"/>
+<TLINK lid="l9" relType="UNKNOWN" relatedToEvent="e55" eventID="e120" task="C"/>
+<TLINK lid="l10" relType="UNKNOWN" relatedToEvent="e29" eventID="e22" task="C"/>
+<TLINK lid="l11" relType="UNKNOWN" relatedToEvent="e45" eventID="e97" task="C"/>
+<TLINK lid="l12" relType="UNKNOWN" relatedToEvent="e22" eventID="e12" task="C"/>
+<TLINK lid="l13" relType="UNKNOWN" relatedToEvent="e11" eventID="e1" task="C"/>
+<TLINK lid="l14" relType="UNKNOWN" relatedToEvent="e12" eventID="e11" task="C"/>
+
+</TempEval>

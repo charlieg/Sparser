@@ -1,0 +1,64 @@
+
+ Polysaccharides, the polymers of sugars, have storage and structural roles
+
+Polysaccharides are macromolecules, polymers with a few hundred to a few thousand monosaccharides joined by glycosidic linkages. Some polysaccharides serve as storage material, hydrolyzed as needed to provide sugar for cells. Other polysaccharides serve as building material for structures that protect the cell or the whole organism. The architecture and function of a polysaccharide are determined by its sugar monomers and by the positions of its glycosidic linkages.
+
+Storage Polysaccharides
+
+Starch, a storage polysaccharide of plants, is a polymer consisting entirely of glucose monomers (FIGURE 5.6a). Most of these monomers are joined by 1-4 linkages (number 1 carbon to number 4 carbon), like the glucose units in maltose (see FIGURE 5.5a). The angle of these bonds makes the polymer helical. The simplest form of starch, amylose, is unbranched. Amylopectin, a more complex form of starch, is a branched polymer with 1-6 linkages at the branch points.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-6. Storage polysaccharides. These examples, starch and glycogen, are composed entirely of glucose monomers, abbreviated here as hexagons. The polymer chains tend to spiral to form helices.
+
+Plants store starch as granules within cellular structures called plastids, including chloroplasts (see FIGURE 5.6a). By synthesizing starch, the plant can stockpile surplus glucose. Because glucose is a major cellular fuel, starch represents stored energy. The sugar can later be withdrawn from this carbohydrate bank by hydrolysis, which breaks the bonds between the glucose monomers. Most animals, including humans, also have enzymes that can hydrolyze plant starch, making glucose available as a nutrient for cells. Potato tubers and grains--the fruits of wheat, corn, rice, and other grasses--are the major sources of starch in the human diet.
+
+Animals store a polysaccharide called glycogen, a polymer of glucose that is like amylopectin but more extensively branched (see FIGURE 5.6b). Humans and other vertebrates store glycogen mainly in liver and muscle cells. Hydrolysis of glycogen in these cells releases glucose when the demand for sugar increases. This stored fuel cannot sustain an animal for long, however. In humans, for example, the glycogen bank is depleted in about a day unless it is replenished by consumption of food.
+
+Structural Polysaccharides
+
+Organisms build strong materials from structural polysaccharides. For example, the polysaccharide called cellulose is a major component of the tough walls that enclose plant cells. On a global scale, plants produce almost 1011 (100 billion) tons of cellulose per year; it is the most abundant organic compound on Earth. Like starch, cellulose is a polymer of glucose, but the glycosidic linkages in these two polymers differ. The difference is based on the fact that there are actually two slightly different ring structures for glucose (FIGURE 5.7a). When glucose forms a ring, the hydroxyl group attached to the number 1 carbon is locked into one of two alternative positions: either below or above the plane of the ring. These two ring forms for glucose are called alpha (a) and beta (b), respectively. In starch, all the glucose monomers are in the a configuration (FIGURE 5.7b), the arrangement we saw in FIGURES 5.4 and 5.5. In contrast, the glucose monomers of cellulose are all in the b configuration, making every other glucose monomer upside down with respect to the others (FIGURE 5.7c).
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-7. Starch and cellulose structures.
+
+The differing glycosidic links in starch and cellulose give the two molecules distinct three-dimensional shapes. Whereas a starch molecule is mostly helical, a cellulose molecule is straight (and never branched), and its hydroxyl groups are free to hydrogen-bond with the hydroxyls of other cellulose molecules lying parallel to it. In plant cell walls, parallel cellulose molecules held together in this way are grouped into units called microfibrils (FIGURE 5.8, p. 68). These cables are a strong building material for plants--as well as for humans, who use wood, which is rich in cellulose, for lumber.
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-8. The arrangement of cellulose in plant cell walls.
+
+Enzymes that digest starch by hydrolyzing its a linkages are unable to hydrolyze the b linkages of cellulose. In fact, few organisms possess enzymes that can digest cellulose. Humans do not; the cellulose fibrils in our food pass through the digestive tract and are eliminated with the feces. Along the way, the fibrils abrade the wall of the digestive tract and stimulate the lining to secrete mucus, which aids in the smooth passage of food through the tract. Thus, although cellulose is not a nutrient for humans, it is an important part of a healthful diet. Most fresh fruits, vegetables, and grains are rich in cellulose. On food packages, "insoluble fiber" refers mainly to cellulose.
+
+Some microbes can digest cellulose, breaking it down to glucose monomers. A cow harbors cellulose-digesting bacteria in the rumen, the first compartment in its stomach. The bacteria hydrolyze the cellulose of hay and grass and convert the glucose to other nutrients that nourish the cow. Similarly, a termite, which is unable to digest cellulose for itself, has microbes living in its gut that can make a meal of wood. Some fungi can also digest cellulose, thereby helping recycle chemical elements within Earth's ecosystems.
+
+Another important structural polysaccharide is chitin, the carbohydrate used by arthropods (insects, spiders, crustaceans, and related animals) to build their exoskeletons (FIGURE 5.9). An exoskeleton is a hard case that surrounds the soft parts of an animal. Pure chitin is leathery, but it becomes hardened when encrusted with calcium carbonate, a salt. Chitin is also found in many fungi, which use this polysaccharide rather than cellulose as the building material for their cell walls. Chitin is similar to cellulose, except that the glucose monomer of chitin has a nitrogen-containing appendage:
+
+
+
+
+
+
+
+Click image to enlarge
+
+
+
+Fig 5-9. Chitin, a structural polysaccharide. (a) Chitin forms the exoskeleton of arthropods. This cicada is molting, shedding its old exoskeleton and emerging in adult form. (b) Chitin is used to make a strong and flexible surgical thread that decomposes after the wound or incision heals.
+
+
+
+

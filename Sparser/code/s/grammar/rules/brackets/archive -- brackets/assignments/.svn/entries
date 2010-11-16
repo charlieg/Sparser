@@ -1,0 +1,52 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/rules/brackets/archive%20--%20brackets/assignments
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+the-rest.lisp
+file
+
+
+
+
+2007-01-04T03:35:51.000000Z
+7ed0c5bcc9aea75ffa7eae31a7c7cfcd
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+required.lisp
+file
+
+
+
+
+2007-01-04T03:35:51.000000Z
+87ed689b2c57bec46d668ff0d246ce9a
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+loader.lisp
+file
+
+
+
+
+2007-01-04T03:35:51.000000Z
+390daf0a1cff15fe0624ed88c1fea570
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+

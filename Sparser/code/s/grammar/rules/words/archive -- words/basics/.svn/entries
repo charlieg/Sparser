@@ -1,0 +1,76 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/rules/words/archive%20--%20words/basics
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+format1.lisp
+file
+
+
+
+
+2007-01-04T03:35:52.000000Z
+8177aa44c914c659bde494fe00cd657b
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+whitespace.lisp
+file
+
+
+
+
+2007-01-04T03:35:52.000000Z
+0723f9fcafa0fc96adb6b6b0f8790fcc
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+required.lisp
+file
+
+
+
+
+2007-01-04T03:35:52.000000Z
+506303d86a95ffcce6c50d6e222d82d5
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+loader1.lisp
+file
+
+
+
+
+2007-01-04T03:35:52.000000Z
+e5552002b678355091a20e0f948a3711
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+sections.lisp
+file
+
+
+
+
+2007-01-04T03:35:52.000000Z
+703e39ad3a8bac97679f1c3244b21594
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+

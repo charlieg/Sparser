@@ -1,0 +1,807 @@
+
+Chapter 44: REGULATING THE INTERNAL ENVIRONMENT
+
+AN OVERVIEW OF HOMEOSTASIS
+
+   Regulating and conforming are the two extremes in how animals cope with environmental fluctuations
+
+   Homeostasis balances an animal's gains versus losses for energy and materials
+
+
+
+REGULATION OF BODY TEMPERATURE
+
+   Four physical processes account for heat gain or loss
+
+   Ectotherms have body temperatures close to environmental temperature; endotherms can use metabolic heat to keep body temperature warmer than their surroundings
+
+   Thermoregulation involves physiological and behavioral adjustments that balance heat gain and loss
+
+   Most animals are ectothermic, but endothermy is widespread
+
+   Torpor conserves energy during environmental extremes
+
+
+
+WATER BALANCE AND WASTE DISPOSAL
+
+   Water balance and waste disposal depend on transport epithelia
+
+   An animal's nitrogenous wastes are correlated with its phylogeny and habitat
+
+   Cells require a balance between osmotic gain and loss of water
+
+   Osmoregulators expend energy to control their internal osmolarity; osmoconformers are isoosmotic with their surroundings
+
+
+
+EXCRETORY SYSTEMS
+
+   Most excretory systems produce urine by refining a filtrate derived from body fluids: an overview
+
+   Diverse excretory systems are variations on a tubular theme
+
+   Nephrons and associated blood vessels are the functional units of the mammalian kidney
+
+   The mammalian kidney's ability to conserve water is a key terrestrial adaptation
+
+   Diverse adaptations of the vertebrate kidney have evolved in different habitats
+
+   Interacting regulatory systems maintain homeostasis
+
+One of the most remarkable characteristics of animals is that they can maintain physiologically favorable internal environments even as external conditions undergo dramatic shifts that would be lethal to individual cells. This ability of animals to regulate their internal environment is called homeostasis (see Chapters 1 and 40). An example is the regulation of body temperature. Humans may be exposed to substantial changes in outside temperatures but will die if their internal temperatures drift more than a few degrees above or below 3&#176;C. Another mammal, the arctic wolf you see in the photo above, is so effective at regulating body temperature that it survives winters when temperatures drop as low as -50&#176;C.
+
+This chapter focuses on: thermoregulation, how animals maintain internal temperature within a tolerable range; osmoregulation, how they regulate solute balance and the gain and loss of water; and excretion, how they get rid of the nitrogen-containing waste products of metabolism such as urea. But first, we'll develop a couple of general concepts that provide additional context for our study of homeostasis.
+
+
+
+
+
+AN OVERVIEW OF HOMEOSTASIS
+
+ 
+
+ Regulating and conforming are the two extremes in how animals cope with environmental fluctuations
+
+
+
+ 
+
+ Homeostasis balances an animal's gains versus losses for energy and materials
+
+
+
+
+
+
+
+REGULATION OF BODY TEMPERATURE
+
+ 
+
+ Four physical processes account for heat gain or loss
+
+
+
+ 
+
+ Ectotherms have body temperatures close to environmental temperature; endotherms can use metabolic heat to keep body temperature warmer than their surroundings
+
+
+
+ 
+
+ Thermoregulation involves physiological and behavioral adjustments that balance heat gain and loss
+
+
+
+ 
+
+ Most animals are ectothermic, but endothermy is widespread
+
+
+
+ 
+
+ Torpor conserves energy during environmental extremes
+
+
+
+Most biochemical and physiological processes are very sensitive to changes in body temperature. The rates of most enzyme-mediated reactions increase by a factor of 2-3 for every 10&#176;C temperature increase, until temperature is high enough to begin to denature proteins. This is known as the Q10effect, with Q10 being the multiple by which a particular enzymatic reaction or overall metabolic process increases with a 10&#176;C increase in body temperature. For example, if the rate of glycogen hydrolysis in a frog is 2.5 times greater at 30&#176;C than at 20&#176;C, then the Q10 for that reaction is 2.5. The properties of membranes also change with temperature. These thermal effects dramatically influence animal function and performance. For example, because the power and speed of muscle contraction is strongly temperature dependent, a body temperature change of only a few degrees may have a very large impact on an animal's ability to run, jump, or fly.
+
+Although different species of animals are adapted to different environmental temperatures, each animal has an optimal temperature range. Within that range, many animals maintain a nearly constant internal temperature as the external temperature fluctuates. This thermoregulation helps keep body temperature within a range that enables cells to function most effectively. An animal that thermoregulates balances its heat budget over time in such a way that the rate of heat gain exactly matches the rate of heat loss. Therefore, to understand thermoregulation, we first need to consider the ways heat is exchanged between animals and their environments.
+
+
+
+
+
+WATER BALANCE AND WASTE DISPOSAL
+
+ 
+
+ Water balance and waste disposal depend on transport epithelia
+
+
+
+ 
+
+ An animal's nitrogenous wastes are correlated with its phylogeny and habitat
+
+
+
+ 
+
+ Cells require a balance between osmotic gain and loss of water
+
+
+
+ 
+
+ Osmoregulators expend energy to control their internal osmolarity; osmoconformers are isoosmotic with their surroundings
+
+
+
+Just as thermoregulation depends on balancing heat loss and gain, an animal's ability to regulate the chemical composition of its body fluids depends on balancing the uptake and loss of water and solutes. This osmoregulation (management of the body's water content and solute composition) is largely based on controlled movements of solutes between internal fluids and the external environment. This also regulates the movement of water, which follows solutes by osmosis. Animals must also remove various metabolic waste products before they accumulate to harmful levels.
+
+The ultimate function of osmoregulation is to maintain the composition of the cytoplasm of the body's cells, but most animals do this indirectly by managing the composition of an internal body fluid that bathes the cells. In insects and other animals with an open circulatory system, this fluid is the hemolymph (see Chapter 42). In vertebrates and other animals with a closed circulatory system, the cells are bathed in an interstitial fluid. The composition of interstitial fluid is controlled indirectly by managing the composition of blood. Animals often have complex organs, such as the kidneys of vertebrates, that are specialized for the maintenance of fluid composition.
+
+
+
+
+
+EXCRETORY SYSTEMS
+
+ 
+
+ Most excretory systems produce urine by refining a filtrate derived from body fluids: an overview
+
+
+
+ 
+
+ Diverse excretory systems are variations on a tubular theme
+
+
+
+ 
+
+ Nephrons and associated blood vessels are the functional units of the mammalian kidney
+
+
+
+ 
+
+ The mammalian kidney's ability to conserve water is a key terrestrial adaptation
+
+
+
+ 
+
+ Diverse adaptations of the vertebrate kidney have evolved in different habitats
+
+
+
+ 
+
+ Interacting regulatory systems maintain homeostasis
+
+
+
+Although the problems of water balance on land or in salt water or fresh water are very different, their solutions all depend on the regulation of solute movement between internal fluids and the external environment. Much of this is handled by excretory systems, which are central to homeostasis because they dispose of metabolic wastes and control body fluid composition by adjusting the rates of loss of particular solutes.
+
+
+
+
+
+ Regulating and conforming are the two extremes in how animals cope with environmental fluctuations
+
+An animal is said to be a regulator for a particular environmental variable if it uses mechanisms of homeostasis to moderate internal change in the face of external fluctuation. For example, endothermic animals such as mammals and birds are thermoregulators, meaning they keep body temperature within narrow limits in spite of changes in environmental temperature. Let's consider another example. Pacific salmon spend part of their lives in salt water and part in fresh water. Throughout this change in "osmotic environment," a salmon uses mechanisms of osmoregulation to maintain a constant concentration of solutes in its blood and interstitial fluid.
+
+In contrast to such regulators, many other animals, especially those that live in relatively stable environments, are conformers in their relationship to certain environmental changes. Such conformers allow some conditions within their bodies to vary with certain external changes (FIGURE 44.1a). Many marine invertebrates, such as spider crabs of the genus Libinia, live in environments where the salinity is relatively stable. These organisms do not osmoregulate, and if placed in water of varying salinity, they will lose or gain water to conform to the external environment even when this internal adjustment is extreme enough to cause death (FIGURE 44.1b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-1. Regulators and conformers.
+
+Conforming and regulating represent extremes on a continuum, and no organisms are perfect regulators or conformers. For example, the salmon previously described can osmoregulate, but they conform to external temperatures.
+
+Even for a particular environmental variable, a species may conform in one situation and regulate in another. Regulation requires the expenditure of energy, and in some environments the cost of regulation may outweigh the benefits of homeostasis. For example, temperature regulation would require the forest-dwelling lizard Anolis cristatellus to travel long distances (and risk capture by a predator) to find an exposed sunny perch. (Reptiles are ectotherms, but can regulate body temperature by moving to a location of favorable temperature.) The lizard is therefore likely to survive longer and produce more offspring by allowing its body temperature to conform to that of the forest environment. However, this same species uses a behavioral adaptation to thermoregulate in open habitats; the lizard seeks patches of sun where it can bask.
+
+
+
+
+
+ Homeostasis balances an animal's gains versus losses for energy and materials
+
+Like all organisms, animals are open systems that must exchange energy and materials with their environments: Food must be eaten to provide nutrients and chemical energy, oxygen is needed for cellular respiration, CO2 and other metabolic wastes must be removed, heat and water are exchanged, and so forth. These inward and outward flows of energy and materials are frequently rapid and often variable, but as they occur animals also need to maintain reasonably constant internal conditions. This means that rates of gain and loss must be closely matched over time; if they are not, life-threatening imbalances will eventually result. Normally, an animal's inputs of energy and materials only exceed its outputs when there is a net increase in organic matter due to growth or reproduction.
+
+Consider some of the exchanges that occur during ten years in the life of a typical woman weighing 60 kg (shown symbolically in FIGURE 44.2). During that decade she will eat about 2 tons of food, drink 6 to 10 tons of water, use almost 2 tons of oxygen, and metabolically generate more than 7 million kilocalories of heat (enough to warm 90 tons of water from room temperature to the boiling point). The same quantity of materials and heat must be lost from the woman's body in order to maintain its size, temperature, and chemical composition.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-2. A partial energy and material bookkeeping for ten years in the life of a young woman. The accounting here is incomplete. For example, uptake of material in the form of food and O2 must be balanced by the loss of material as wastes such as CO2 and organic wastes in feces and urine.
+
+If the woman produces two children (and breast-feeds each for two years) during this ten-year span, she will need to increase the total flow of energy and materials by only 4-5%  compared to her basic maintenance needs. Reproduction is a larger part of the energy and materials flow in many other species--for example, 10-15%  of the annual energy requirement in female mice rearing two litters per year--but regardless of reproductive costs, every animal's survival depends on accurate control of materials and energy exchange.
+
+Because homeostasis requires such a careful balance of materials and energy, it can be viewed as a set of budgets of gains and losses (a heat budget, an energy budget, a water budget, and so on). Most energy and materials budgets are interconnected, with changes in the flux of one component affecting the exchanges of other components. For example, when terrestrial animals exchange gases with the air by breathing, they also lose water by evaporation from the moist lung surfaces. That loss must be compensated by intake (in food or drink) of an equal amount of water. Also, evaporation removes heat from the body (see FIGURE 3.4), and that heat loss must be balanced by the gain of an equivalent amount of heat from some other source.
+
+Let us now see how mechanisms of homeostasis balance an animal's energy and materials budgets, beginning with thermoregulation.
+
+
+
+
+
+ Four physical processes account for heat gain or loss
+
+An organism, like any object, exchanges heat by four physical processes called conduction, convection, radiation, and evaporation (FIGURE 44.3). These processes account for the flow of heat within an organism and between an organism and its external environment.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-3. Heat exchange between an organism and its environment. Heat is conducted from an object of higher temperature to one of lower temperature.
+
+Conduction is the direct transfer of thermal motion (heat) between molecules of objects in direct contact with each other, as when an animal sits in a pool of cold water or on a hot rock. Heat is always conducted from an object of higher temperature to one of lower temperature, but the rate and amount of heat transfer varies with different materials. Water is 50 to 100 times more effective than air in conducting heat. This is one reason you can rapidly cool your body on a hot day just by standing in cold water.
+
+Convection is the transfer of heat by the movement of air or liquid past a surface, as when a breeze contributes to heat loss from the surface of an animal with dry skin, or circulating blood moves heat from an animal's warm body core to the cooler extremities such as legs. The familiar "wind-chill factor" is an example of how convection compounds the harshness of low temperatures by increasing the rate of heat transfer.
+
+Radiation is the emission of electromagnetic waves by all objects warmer than absolute zero, including an animal's body, the environment, and the sun. Radiation can transfer heat between objects that are not in direct contact, as when an animal absorbs heat radiating from the sun.
+
+Evaporation is the removal of heat from the surface of a liquid that is losing some of its molecules as gas. Evaporation of water from an animal has a strong cooling effect, but it can only occur if the surrounding air is not saturated with water molecules (that is, if the relative humidity is less than 100% ). This is the basis for the common complaint, "The heat is not as bad as the humidity."
+
+
+
+
+
+ Ectotherms have body temperatures close to environmental temperature; endotherms can use metabolic heat to keep body temperature warmer than their surroundings
+
+Although all animals exchange heat through some combination of conduction, convection, radiation, and evaporation, there are important differences in how various species manage their heat budgets. One way to classify the thermal characteristics of animals is to emphasize the role of metabolic heat in determining body temperature. An ectotherm has such a low metabolic rate that the amount of heat it generates is too small to have much effect on body temperature. Consequently, ectotherm body temperatures are almost entirely determined by the temperature of the surrounding environment. Most invertebrates, fishes, amphibians, and reptiles are ectotherms. In contrast, an endotherm's high metabolic rate generates enough heat to keep its body substantially warmer than the environment. Mammals, birds, some fishes, a few reptiles, and numerous insect species are endotherms.
+
+Many endotherms, including humans, maintain high and very stable internal temperature even as the temperature of their surroundings fluctuates (FIGURE 44.4). However, it is not constant body temperature that distinguishes endotherms from ectotherms. For example, many ectothermic marine fishes and invertebrates inhabit water with such stable temperatures that their body temperature varies less than that of humans and other endotherms. Also, many endotherms sustain high body temperatures only part of the time (for example, while they are active). And not all ectotherms have low body temperatures: When sitting in the sun, many ectothermic lizards have higher body temperatures than mammals. Therefore, most biologists do not use the familiar terms cold-blooded and warm-blooded because they are frequently misleading.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-4. The relationship between body temperature and ambient (environmental) temperature in an ectotherm and an endotherm.
+Modified from P. T. Marshall and G. M. Hughes, Physiology of Mammals and Other Vertebrates, 2nd ed. (Cambridge: Cambridge University Press, 1980). Reprinted with the permission of Cambridge University Press.
+
+Endothermy has several important advantages. High and stable body temperature, along with other biochemical and physiological adaptations associated with endothermy (such as elaborate circulatory and respiratory systems), give these animals very high levels of aerobic metabolism (cellular respiration). This allows endotherms to perform vigorous activity for much longer than is possible for ectotherms (see FIGURE 40.13). Sustained intense activity, such as long-distance running or powered (flapping) flight, is usually only feasible for animals with an endothermic way of life. Endothermy also solves certain thermal problems of living on land, enabling terrestrial animals to maintain stable body temperature in the face of environmental temperature fluctuations that are generally more severe than in aquatic habitats. For example, no ectotherm can be active in the below-freezing weather that prevails during winter over much of Earth's surface, but many endotherms function very well in these conditions. Most of the time, endothermic vertebrates--birds and mammals--are warmer than their surroundings, but these animals also have mechanisms for cooling the body in a hot environment, and this enables them to withstand heat loads that are intolerable for most ectotherms.
+
+Being endothermic is liberating, but it is also energetically expensive, especially in a cold environment. For example, at 20&#176;C, a human at rest has a metabolic rate of 1,300 to 1,800 kcal per day (see Chapter 40). In contrast, a resting ectotherm of similar weight, such as an American alligator, has a metabolic rate of only about 60 kcal per day at 20&#176;C. Thus, endotherms generally need to consume much more food than ectotherms of equivalent size--a serious disadvantage for endotherms if food supplies are limited. For this and other reasons, ectothermy is an extremely effective and successful "strategy" in many terrestrial environments, as shown by the abundance and diversity of ectothermic insects, spiders, amphibians, and reptiles.
+
+
+
+
+
+ Thermoregulation involves physiological and behavioral adjustments that balance heat gain and loss
+
+For endotherms and for those ectotherms that thermoregulate, the essence of thermoregulation is management of the heat budget so that rates of heat gain are equal to rates of heat loss. If the heat budget gets out of balance, the animal will either become warmer or colder. Four general categories of adaptations help animals thermoregulate:
+
+Adjusting the rate of heat exchange between the animal and its surroundings. Insulation, such as hair, feathers, and fat located just beneath the skin, reduces the flow of heat between an animal and its environment. Other mechanisms that regulate rates of heat exchange usually involve adaptations of the circulatory system. Many endotherms and some ectotherms can alter the amount of blood (and hence heat) flowing between the body core and the skin. Elevated blood flow in the skin normally results from vasodilation, an increase in the diameter of superficial blood vessels (those near the body surface) triggered by nerve signals that relax the muscles of the vessel walls. In endotherms, vasodilation usually warms the skin, increasing the transfer of body heat to a cool environment by radiation, conduction, and convection (see FIGURE 44.3). The reverse process, vasoconstriction, reduces blood flow and heat transfer by decreasing the diameter of superficial vessels.
+
+Another circulatory adaptation is a special arrangement of blood vessels called a countercurrent heat exchanger that helps trap heat in the body core and is important in reducing heat loss in many endotherms (FIGURE 44.5). For example, marine mammals and many birds face the problem of losing large amounts of heat from their extremities, which are often immersed in cold water or in contact with ice or snow. Arteries carrying warm blood down the legs of a bird or the flippers of a dolphin are in close contact with veins conveying cool blood in the opposite direction, back toward the trunk of the body. This countercurrent arrangement facilitates heat transfer from arteries to veins along the entire length of the blood vessels. Near the end of the leg or flipper, where arterial blood has been cooled to far below the animal's core temperature, the artery can still transfer heat to the even colder blood of an adjacent vein (recall that heat moves from a warmer object to a cooler one). The venous blood can continue to absorb heat because it is passing warmer and warmer arterial blood traveling in the opposite direction. As the venous blood approaches the center of the body, it is almost as warm as the body core, minimizing the heat lost as a result of supplying blood to body parts immersed in cold water. In essence, heat in the arterial blood emerging from the body core is transferred directly to the returning venous blood, instead of being lost to the environment. In some species, blood can either go through the heat exchanger or bypass it in other blood vessels. The relative amount of blood that flows through the two different paths varies, adjusting the rate of heat loss as an animal's physiological state or environment changes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-5. Countercurrent heat exchangers. (a) Many birds, such as this Canada goose, have countercurrent systems in their legs that reduce heat loss. The arteries carrying blood down the legs contact the veins that return blood to the body core. In a cold environment, the heat in warm arterial blood is transferred (black arrows) to venous blood returning to the body, instead of being lost to the environment. (b) In the flippers of marine mammals, such as this Pacific bottlenose dolphin, each artery is surrounded by several veins in a countercurrent arrangement that allows efficient heat exchange between arterial and venous blood.
+
+Circulatory adaptations that reduce heat loss enable some endotherms to survive the most extreme winter conditions. For example, take another look at the arctic wolf in the photo on page 925. Wolves remain active in very cold weather. Thick fur coats help keep their bodies warm. Countercurrent heat exchangers keep a wolf's legs from freezing. But what mechanism restricts heat loss from the hairless, fleshy foot and toe pads, which lack insulation and are in contact with extremely cold snow or ice? By adjusting blood flow through the countercurrent exchangers and other vessels in the legs, wolves can keep their foot temperature just above 0&#176;C in freezing weather--cool enough to reduce heat loss but warm enough to prevent frostbite--even in environmental temperatures as low as -50&#176;C. If necessary, wolves can warm their feet to much higher temperatures--for example, if they need to lose the large quantities of metabolic heat produced during long-distance running.
+
+Cooling by evaporative heat loss. Terrestrial animals lose water by evaporation across the skin and when they breathe. Water absorbs considerable heat when it evaporates, and some animals have adaptations that can greatly augment this cooling effect. For example, most mammals and birds can increase evaporation from the lungs by panting. Sweating or bathing to make the skin wet also enhances evaporative cooling (see FIGURE 3.4).
+
+Behavioral responses. Both endotherms and ectotherms use behavioral responses, such as changes in posture or moving about in their environment, to control body temperature. Many terrestrial animals will bask in the sun or on warm rocks when cold or find cool, shaded, or damp areas when hot. Many ectotherms can maintain a very constant body temperature by these simple behaviors. More extreme behavioral adaptations in some animals include hibernation or migration to a more suitable climate.
+
+Changing the rate of metabolic heat production. This fourth category of thermoregulatory adaptation applies only to endotherms, particularly mammals and birds. By means we will discuss in the next section, many species of mammals and birds can greatly increase their metabolic heat production when exposed to cold.
+
+
+
+
+
+ Most animals are ectothermic, but endothermy is widespread
+
+In this section we survey several large taxa of animals, concentrating on the mechanisms by which they thermoregulate as ectotherms or endotherms.
+
+Mammals and Birds
+
+Mammals and birds generally maintain body temperatures within a narrow range (36-38&#176;C for most mammals and 39-42&#176;C for most birds) that is usually considerably warmer than the environment. Because heat always flows from a warm object to cooler surroundings, birds and mammals must counteract the constant heat loss. This maintenance of warm body temperature depends on several key adaptations. The most basic mechanism is the high metabolic rate of endothermy itself. Endotherms can produce large amounts of metabolic heat that replace the flow of heat to the environment, and they can vary heat production to match changing rates of heat loss. Heat production is increased by such muscle activity as moving or shivering. In some mammals, certain hormones can cause mitochondria to increase their metabolic activity and produce heat instead of ATP. This nonshivering thermogenesis (NST) takes place throughout the body, but some mammals also have a tissue called brown fat in the neck and between the shoulders that is specialized for rapid heat production. Through shivering and NST, mammals and birds in cold environments can increase their metabolic heat production by as much as 5 to 10 times above the minimal levels that occur in warm conditions.
+
+Another major thermoregulatory adaptation that evolved in mammals and birds is insulation (hair, feathers, and fat layers), which reduces the flow of heat and lowers the energy cost of keeping warm. The insulating power of a layer of fur or feathers mainly depends on how much still air the layer traps. Most land mammals and birds react to cold by raising their fur or feathers, thereby trapping a thicker layer of air. Humans rely more on a layer of fat just beneath the skin as insulation (FIGURE 44.6); goose bumps are a vestige of hair-raising left over from our furry ancestors.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-6. Skin as an organ of thermoregulation. Fat (adipose tissue) and hair help insulate mammals. Heat loss to the environment can be regulated by the constriction and dilation of superficial blood vessels and by the erection and compaction of fur. Sweat glands, under nervous control, function in evaporative cooling.
+
+Vasodilation and vasoconstriction also regulate heat exchange and may contribute to regional temperature differences within the animal. For example, heat loss from a human is reduced when arms and legs cool to several degrees below the temperature of the body core, where most vital organs are located.
+
+Hair loses most of its insulating power when wet. Marine mammals such as whales and seals have a very thick layer of insulating fat called blubber, just under the skin. Marine mammals swim in water colder than their body core temperature, and many species spend at least part of the year in nearly freezing polar seas. The loss of heat to water occurs 50 to 100 times more rapidly than heat loss to air, and the skin temperature of a marine mammal is close to water temperature. Even so, the blubber insulation is so effective that marine mammals maintain body core temperatures of about 36-38&#176;C with metabolic rates about the same as those of land mammals of similar size. The flippers or tail of a whale or seal lack insulating blubber, but as we discussed, countercurrent heat exchangers greatly reduce heat loss in these extremities, as they do in the legs of many birds (see FIGURE 44.5).
+
+Through metabolic heat production, insulation, and vascular adjustments, birds and mammals are capable of astonishing feats of thermoregulation. For example, small birds called chickadees, which weigh only 20 grams, can remain active and hold body temperature nearly constant at 40&#176;C in environmental temperatures as low as -40&#176;C--as long as they have enough food to supply the large amount of energy necessary for heat production.
+
+Many mammals and birds live in places where thermoregulation requires cooling as well as warming. For example, when a marine mammal moves into warm seas, as many whales do when they reproduce, excess metabolic heat is removed by vasodilation of numerous blood vessels in the outer layer of the skin. In hot climates or when vigorous exercise adds large amounts of metabolic heat to the body, many terrestrial mammals and birds may allow body temperature to rise by several degrees, which enhances heat loss by increasing the temperature gradient between the body and a warm environment. Evaporative cooling often plays a key role in dissipating the body heat (FIGURE 44.7). If environmental temperature is above body temperature, animals gain heat from the environment as well as from metabolism, and evaporation is the only way to keep body temperature from rising rapidly. Panting is important in birds and many mammals. Some birds have a pouch richly supplied with blood vessels in the floor of the mouth; fluttering the pouch increases evaporation. Pigeons can use evaporative cooling to keep body temperature close to 40&#176;C in air temperatures as high as 60&#176;C, as long as they have sufficient water. Many terrestrial mammals have sweat glands controlled by the nervous system (see FIGURE 44.6). Other mechanisms that promote evaporative cooling include spreading saliva on body surfaces, an adaptation of some kangaroos and rodents for combating severe heat stress. Some bats use both saliva and urine to enhance evaporative cooling.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-7. A terrestrial mammal bathing, an adaptation that enhances evaporative cooling.
+
+Amphibians and Reptiles
+
+All amphibians and most reptiles are ectothermic, and their low metabolic rates have little influence on normal body temperature. The optimal temperature range for amphibians varies substantially with the species. For example, closely related species of salamanders have average body temperatures ranging from 7&#176; to 25&#176;C. When exposed to air, most amphibians lose heat rapidly by evaporation from their moist body surfaces, making it difficult to keep body temperature sufficiently warm. However, behavioral adaptations help these animals maintain a satisfactory temperature most of the time--by moving to a location where solar heat is available, for instance. When the surroundings are too warm, amphibians seek cooler microenvironments, such as shaded areas. Some species, such as bullfrogs, can vary the amount of mucus they secrete from their surface, a response that regulates evaporative cooling.
+
+Like amphibians, reptiles control body temperature mainly by behavior. When cold, they seek warm places, orienting themselves toward heat sources to increase heat uptake and expanding the body surface exposed to a heat source. When hot, they move to cool areas or turn in another direction, thereby reducing the surface area exposed to the sun. Many reptiles keep their body temperatures very stable over the course of a day by shuttling back and forth between warm and cool spots.
+
+Some reptiles also have physiological adaptations that regulate heat loss. For example, in the marine iguana, which inhabits the Gal&aacute;pagos Islands, body heat is conserved by vaso-constriction of superficial blood vessels, routing more blood to the central core of the body when the animal is swimming in the cold ocean. A few large reptiles become endothermic in special circumstances. For example, female pythons that are incubating eggs increase their metabolic rate by shivering, generating enough heat to keep their body (and egg) temperatures 5-7&#176;C warmer than the surrounding air for weeks at a time. This temporary endothermy consumes considerable energy. Researchers continue to debate whether certain groups of dinosaurs were endothermic (see Chapter 34).
+
+Fishes
+
+In terms of body temperature, most fishes are conformers, with internal temperature usually within 1-2&#176;C of the surrounding water temperature. The swimming muscles may be large and active, but nearly all the metabolic heat most fishes generate is lost to the surrounding water when blood passes through the gills. However, some specialized endothermic fishes, mainly large, powerful swimmers such as the bluefin tuna, swordfish, and the great white shark, have circulatory adaptations that retain metabolic heat in the body. Large arteries convey most of the cold blood from the gills to tissues just under the skin. Branches deliver blood to the deep muscles, where the small vessels are arranged into a countercurrent heat exchanger. Endothermy enhances the vigorous, sustained activity that is characteristic of these fishes by keeping the main swimming muscles several degrees warmer than the tissues near the animal's surface, about the same temperature as the surrounding water (FIGURE 44.8). In a few fish species, special heat-generating organs, which may be evolutionarily derived from eye muscles, warm just the eyes or brain. These adaptations probably allow more effective functioning of the warmed organs.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 44-8. Thermoregulation in large, active fishes. (a) Unlike most fishes, the bluefin tuna maintains temperatures in its main swimming muscles that are much higher than the surrounding water (colors indicate swimming muscles cut in transverse section). These temperatures were recorded for a tuna in 19&#176;C water. (b) Like the bluefin tuna, the great white shark has a countercurrent heat exchanger in its swimming muscles that reduces the loss of metabolic heat. (The photo shows a great white leaping out of the water in pursuit of a decoy model seal.) All fishes lose heat to the surrounding water when their blood passes through the gills. How-ever, endothermic fishes have a small dorsal aorta, and as a result relatively little cold blood from the gills goes directly to the core of the body. Instead, most of the blood leaving the gills is conveyed via large arteries just under the skin, keeping cool blood away from the body core. As shown in the enlargement, small arteries carrying cool blood inward from the large arteries under the skin are paralleled by small veins carrying warm blood outward from the inner body. This countercurrent flow retains heat in the muscles.
+
+Invertebrates
+
+Aquatic invertebrates are mainly thermoconformers with little control over their body temperature. However, many terrestrial invertebrates can adjust internal temperature by the same behavioral mechanisms used by vertebrate ectotherms such as lizards. The desert locust, for example, must reach a certain temperature to become active, and on cold days it orients in a direction that maximizes the absorption of sunlight.
+
+Many species of flying insects, such as bees and moths, are actually endothermic--the smallest of all endotherms. The hawk moth is an example. The capacity of such endothermic insects to elevate body temperature depends on powerful flight muscles, which generate large amounts of heat when operating. Many endothermic insects use shivering--by contracting the flight muscles in synchrony, so that only slight wing movements occur but considerable heat is produced--to warm up before taking off. Chemical reactions, and hence cellular respiration, speed up in the warmed-up flight "motors" (the Q10 effect), enabling these insects to fly even on cold days or at night (FIGURE 44.9a). Many endothermic insects (bumblebees, honeybees, and some moths) have a countercurrent heat exchanger that helps maintain a high temperature in the thorax, where the flight muscles are located. For example, the heat exchanger keeps the thorax of certain moths at about 30&#176;C during flight, even on cold, snowy nights (FIGURE 44.9b). In contrast, insects flying in hot weather run the risk of overheating because of the large amount of heat produced by working flight muscles. In some species the countercurrent mechanism can be shut down to allow muscle-produced heat to be lost from the thorax to the abdomen, and from there to the environment. Bumblebee queens use this means to incubate their eggs: They generate heat by shivering their flight muscles and then transfer the heat to the abdomen, which the bee presses against her eggs.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-9. Thermoregulation in moths.
+
+Honeybees use an additional thermoregulatory mechanism that depends on social behavior. In cold weather they increase heat production and huddle together, thereby retaining heat. They maintain a relatively constant temperature by changing the density of the huddling. Individuals move between the cooler outer edges of the cluster and the warmer center, thus circulating and distributing the heat. Even when huddling, honeybees must expend considerable energy to keep warm during long periods of cold weather, and this is the main function of storing large quantities of fuel in the hive in the form of honey. Honeybees also control the temperature of their hive by transporting water to it in hot weather and fanning with their wings, which promotes evaporation and convection. Thus, a honeybee colony uses many of the mechanisms of thermoregulation seen in single organisms.
+
+Feedback Mechanisms in Thermoregulation
+
+The regulation of body temperature in humans and other mammals is a complex system facilitated by feedback mechanisms (see FIGURE 40.9). Nerve cells that control thermoregulation, as well as those that control many other aspects of homeostasis, are concentrated in a region of the brain called the hypothalamus (discussed in detail in Chapter 48). The hypothalamus contains a group of neurons that functions as a thermostat, responding to changes in body temperature above and below a set point (actually above or below a normal range) by activating mechanisms that promote heat loss or gain (FIGURE 44.10, p. 934). Nerve cells that sense temperatures are in the skin, the hypothalamus itself, and several other body regions. Warm receptors signal the hypothalamic thermostat when temperatures increase; cold receptors indicate temperature decrease. At body temperature below the normal range, the thermostat inhibits heat-loss mechanisms and activates heat-saving ones such as vasoconstriction of superficial vessels and erection of fur, while stimulating heat-generating mechanisms (shivering and nonshivering thermogenesis). In response to elevated body temperature, the thermostat shuts down heat-retention mechanisms and promotes body cooling by vasodilation, sweating, or panting. The thermostat can also respond to external temperature (sensed as skin temperature) even without changes in body core temperature.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-10. The thermostat function of the hypothalamus and feedback mechanisms in human thermoregulation.
+
+Adjustment to Changing Temperatures
+
+Many animals can adjust to a new range of environmental temperatures over a period of days or weeks, a physiological response called acclimatization. Both ectotherms and endotherms acclimatize, but in different ways. In birds and mammals, acclimatization often includes adjusting the amount of insulation--by growing a thicker coat of fur in the winter and shedding it in the summer, for example--and sometimes varying the capacity for metabolic heat production in different seasons. These changes help endotherms keep a constant body temperature in both warm and cold seasons. In contrast, acclimatization in ectotherms is a process of compensating for changes in body temperature. These adjustments can strongly affect physiology and temperature tolerance. For example, summer-acclimatized bullhead catfish can survive water temperatures up to 36&#176;C but cannot function in cold water; after winter acclimatization they can easily tolerate cold water, but a temperature above 28&#176;C is lethal.
+
+Acclimatization responses in ectotherms often include adjustments at the cellular level. Cells may increase the production of certain enzymes, helping to compensate for the lowered activity of each enzyme molecule at temperatures that are not optimal. In other cases, cells produce variants of enzymes that have the same function but different temperature optima. Membranes may also change the proportions of saturated and unsaturated lipids they contain, which helps keep membranes fluid at different temperatures (see FIGURE 8.4).
+
+Some ectotherms that experience subzero body temperatures protect themselves by producing "antifreeze" compounds (cryoprotectants) that prevent ice formation in the cells. In arctic regions or cold mountain peaks, cryoprotectants in the body fluids let overwintering ectotherms, such as some frogs and many arthropods and their eggs, withstand body temperatures considerably below zero. Cryoprotectants are also found in certain species of fishes from arctic and antarctic seas, where water temperatures can be as cold as -1.8&#176;C, well below the freezing point of unprotected body fluids (about -0.7&#176;C).
+
+Cells can often make rapid adjustments to temperature changes. For example, mammalian cells grown in laboratory cultures respond to a marked increase in temperature and to other forms of severe stress, such as toxins, rapid pH changes, and viral infections, by accumulating special molecules called stress-induced proteins, including heat-shock proteins. When "shocked" by a rapid change in temperature from 37&#176;C to about 43&#176;C, cultured mammalian cells begin synthesizing heat-shock proteins within minutes. These molecules help maintain the integrity of other proteins that would be denatured by severe heat. Found in bacteria, yeasts, and plant cells as well as in animals, stress-induced proteins help prevent cell death when an organism is challenged by severe changes in the cellular environment.
+
+
+
+
+
+ Torpor conserves energy during environmental extremes
+
+Despite their many adaptations for homeostasis, animals may periodically encounter conditions that severely challenge their abilities to balance heat, energy, and materials budgets. For example, at certain seasons of the year (or certain times of day) temperatures may be extremely hot or cold, or food may be unavailable. One way animals can save energy while avoiding difficult and dangerous conditions is to use torpor, a physiological state in which activity is low and metabolism decreases.
+
+Hibernation is long-term torpor that evolved as an adaptation to winter cold and food scarcity. When vertebrate endotherms (birds and mammals) enter torpor or hibernation, their body temperatures decline--in effect, their body's thermostat is turned down. The temperature reduction may be dramatic: Some hibernating mammals cool to as low as 1-2&#176;C, and a few even drop slightly below 0&#176;C in a supercooled (unfrozen) state. The resulting energy savings due to lower metabolic rate and less heat production are huge; metabolic rates during hibernation can be several hundred times lower than if the animal attempted to maintain normal body temperatures of 36-38&#176;C. This allows hibernators to survive for very long periods on limited supplies of energy, stored in the body tissues or as food cached in a burrow. For example, hibernation can take up as much as nine months of the year in some small mammals, leaving only three months for normal activity.
+
+Certain ground squirrels are favorite research models for biologists interested in the physiology of hibernation. A Belding's ground squirrel living in the high mountains of California is active only during spring and summer, when it maintains a body temperature of about 37&#176;C and a metabolic rate of about 85 kcal per day (FIGURE 44.11). In September the squirrel retreats to a safe burrow where it spends the next eight months hibernating. For most of the hibernation season, the squirrel's body temperature is only slightly above burrow temperature (which may be close to freezing), and its metabolic rate is extremely low. Every week or two it arouses for a few hours, using metabolic heat to warm up to about 37&#176;C (these periodic arousals may be needed for maintenance functions that require high body temperature). In late spring, when outside temperature is climbing, the squirrel resumes normal endothermy. By hibernating, Belding's ground squirrels avoid severe cold and greatly reduce the amount of energy they need to survive the winter, when their normal food of grasses and seeds is not available. Instead of having to spend 150 kcal per day to maintain normal body temperatures in winter weather, a squirrel in its burrow spends an average of only 5-8 kcal per day (only about 1 kcal per day when hibernating) and can live on stored fat--without eating--for the entire hibernation season.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 44-11. Body temperature and metabolism during hibernation of Belding's ground squirrel.
+
+Estivation, or summer torpor, also characterized by slow metabolism and inactivity, enables animals to survive long periods of high temperatures and scarce water supplies. Hibernation and estivation are often triggered by seasonal changes in the length of daylight. As the days shorten, some hibernators prepare for winter by storing food in their burrows; other species eat huge quantities of food and fatten dramatically. For example, ground squirrels double their weight in a month of gorging.
+
+Many small mammals and birds exhibit a daily torpor that seems to be adapted to their feeding patterns. For instance, most bats and shrews feed at night and go into torpor when they are inactive during daylight hours. Chickadees and hummingbirds feed during the day and often undergo torpor on cold nights; the body temperature of chickadees drops as much as 10&#176;C at night, and that of hummingbirds can fall 25-30&#176;C. All endotherms that use daily torpor are relatively small; when active they have high metabolic rates and thus very high rates of energy consumption. During hours when they cannot feed, torpor enables them to survive on stored energy.
+
+An animal's daily cycle of activity and torpor appears to be a built-in rhythm controlled by the biological clock (see Chapter 48). Even if food is made available to a shrew all day, it still goes through its daily torpor. The need for sleep in humans and the slight drop in body temperature that accompanies it may be an evolutionary remnant of a more pronounced daily torpor in our early mammalian ancestors.
+
+
+
+
+
+ Water balance and waste disposal depend on transport epithelia
+
+In most animals, one or more kinds of transport epithelium--a layer or layers of specialized epithelial cells that regulate solute movements--are essential components of osmotic regulation and metabolic waste disposal. The most important feature of all transport epithelia is their ability to move specific solutes in controlled amounts in particular directions. Some transport epithelia directly face the outside environment, while others line channels connected to the outside by an opening on the body surface. Joined by impermeable tight junctions (see FIGURE 7.30), the cells of the epithelium form a barrier at the tissue-environment boundary. Like the Casparian strip in plant roots (see FIGURE 36.7), this arrangement ensures that any solutes moving between animal and environment must pass through selectively permeable membranes.
+
+In most animals, transport epithelia are arranged into complex tubular networks with extensive surface areas. We find some of the best examples in the salt glands of marine birds, which spend months or years at sea and need to obtain both food and water from the ocean (FIGURE 44.12).
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-12. Salt-excreting glands in birds. (a) Many marine birds, such as this albatross, can survive long periods at sea by drinking seawater. They can do this because they have a pair of nasal glands that secrete an excretory fluid much more salty than the ocean. Thus, even though drinking seawater brings in a lot of salt, the bird achieves a net gain of water (in contrast, humans who drink seawater must use more water to excrete the salt load than was gained by drinking). A seabird's salt glands empty via a duct into the nostrils, and the salty solution either drips off the tip of the beak or is exhaled in a fine mist. (b) This diagram shows one of several thousand secretory tubules in a salt-excreting gland. Each tubule is lined by a transport epithelium surrounded by capillaries, and drains into a central duct. (c) The secretory cells of the transport epithelium actively transport salt from the blood into the tubules. Notice that blood flows counter to the flow of salt secretion. By maintaining a concentration gradient of salt in the tubule (graded blue shading), this countercurrent system enhances salt transfer from the blood to the lumen of the tubule (see Chapter 42).
+
+The molecular structure of plasma membranes determines the kinds and directions of solutes that move across transport epithelia. For example, salt-excreting glands remove excess sodium chloride from the blood. By contrast, transport epithelia in the gills of freshwater fishes move salts from the dilute surrounding water into the blood (this kind of solute movement--against a concentration gradient--requires the expenditure of ATP in active transport). Transport epithelia in excretory organs often have the dual functions of maintaining water balance and disposing of metabolic wastes.
+
+
+
+
+
+ An animal's nitrogenous wastes are correlated with its phylogeny and habitat
+
+Because most metabolic wastes must be dissolved in water when they are removed from the body (a major exception being loss of carbon dioxide in air-breathing animals), the type and quantity of waste products may have a large impact on water balance. In terms of their effect on osmoregulation, among the most important wastes are the nitrogenous (nitrogen-containing) breakdown products of proteins and nucleic acids. When these macromolecules are broken apart for energy or converted to carbohydrates or fats, enzymes remove nitrogen in the form of ammonia, a small and very toxic molecule. Some animals excrete ammonia directly, but many species first convert it to compounds such as urea or uric acid, which are less toxic but require energy in the form of ATP to produce.
+
+In general, the kinds of nitrogenous wastes excreted depend on an animal's evolutionary history and habitat--especially the availability of water (FIGURE 44.13, p. 938). The amount of nitrogenous waste produced is coupled to the energy budget, as it strongly depends on how much and what kind of food an animal eats. Because they use energy at high rates, endotherms eat more food--and therefore produce more nitrogenous wastes--than ectotherms. Predators, which derive much of their energy from dietary proteins, need to excrete more nitrogen than animals that rely mainly on lipids or carbohydrates as energy sources.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-13. Nitrogenous wastes.
+
+Ammonia
+
+Because ammonia is very soluble but can only be tolerated at very low concentrations, animals that excrete nitrogenous wastes as ammonia need access to lots of water. Therefore, ammonia excretion is most common in aquatic species. Ammonia molecules easily pass through membranes and are readily lost by diffusion to the surrounding water. In many invertebrates, ammonia release occurs across the whole body surface. In fishes, most of the ammonia is lost as ammonium ions (NH4+) across the epithelium of the gills, with kidneys excreting only minor amounts of nitrogenous wastes. In freshwater fishes, the gill epithelium takes up Na+ from the water in exchange for NH4+, which helps to maintain a much higher Na+ concentration in body fluids than in the surrounding water.
+
+Urea
+
+Although it works well in many aquatic species, ammonia excretion is much less suitable for land animals. Because it is so toxic, ammonia can only be transported and excreted in large volumes of very dilute solutions, and most terrestrial animals and many marine species (which tend to lose water to their environment by osmosis) simply do not have access to sufficient water. Instead, mammals, most adult amphibians, and many marine fishes and turtles excrete mainly urea, a substance produced in the vertebrate liver by a metabolic cycle that combines ammonia with carbon dioxide. The circulatory system carries urea to the excretory organs, the kidneys.
+
+The main advantage of urea is its low toxicity, about 100,000 times less than that of ammonia. This permits animals to transport and store urea safely at high concentrations. And this greatly reduces the amount of water required for nitrogen excretion, because much less water is lost when a given quantity of nitrogen is excreted in a concentrated solution of urea rather than a dilute solution of ammonia.
+
+The main disadvantage of urea is that animals must expend energy to produce it from ammonia. From a bioenergetic standpoint, we would predict that animals that spend part of their lives in water and part on land would switch between excreting ammonia (thereby saving energy) and urea (reducing excretory water loss). In fact, many amphibians excrete mainly ammonia when they are aquatic tadpoles and switch largely to urea when they are land-dwelling adults.
+
+Uric Acid
+
+Land snails, insects, birds, and many reptiles excrete uric acid as the major nitrogenous waste. Like urea, uric acid is relatively nontoxic. But unlike either ammonia or urea, uric acid is largely insoluble in water and can be excreted as a semisolid paste with very small water loss. This is a great advantage for animals with little access to water, but there is a cost: Uric acid is even more energetically expensive to produce than urea, requiring considerable ATP for synthesis from ammonia.
+
+Uric acid and urea represent different adaptations for excreting nitrogenous wastes with minimal water loss. One factor that seems to have been important in determining which of these alternatives evolved in a particular group of animals is the mode of reproduction. Soluble wastes can diffuse out of a shell-less amphibian egg or be carried away by the mother's blood in a mammalian embryo. However, the shelled eggs produced by reptiles and birds are permeable to gases but not to liquids, which means soluble nitrogenous wastes released by an embryo would be trapped within the egg and could accumulate to dangerous levels (although urea is much less harmful than ammonia, it does become toxic at very high concentrations). In these animals natural selection apparently favored use of uric acid, which precipitates out of solution and can be stored within the egg as a harmless solid left behind when the animal hatches.
+
+The type of nitrogenous waste produced by vertebrates depends on habitat as well as on evolutionary lineage. For example, terrestrial turtles (which often live in dry areas) excrete mainly uric acid, whereas aquatic turtles excrete both urea and ammonia. In some species, individuals can change their nitrogenous wastes when environmental conditions change. For example, certain tortoises that usually produce urea shift to uric acid production when temperature increases and water becomes less available. This is another example of how response to the environment occurs on two levels: Over generations, evolution determines the limits of physiological responses for a species, but during their lives individual organisms make adjustments within these evolutionary constraints.
+
+
+
+
+
+ Cells require a balance between osmotic gain and loss of water
+
+All animals--regardless of phylogeny, habitat, or type of nitrogenous waste--face the same central problem of osmoregulation: Over time, the rates of water uptake and loss must balance. Animal cells--which lack cell walls--swell and burst if there is a continuous net uptake of water or shrivel and die if there is a substantial net loss of water.
+
+Water enters and leaves cells by osmosis. Recall from Chapter 8 that osmosis, a special case of diffusion, is the movement of water across a selectively permeable membrane. It occurs whenever two solutions separated by the membrane differ in osmotic pressure, or osmolarity (total solute concentration expressed as molarity, or moles of solute per liter of solution; see Chapter 3). The unit of measurement for osmolarity used in this chapter is milliosmoles per liter (mosm/L); 1 mosm/L is equivalent to a total solute concentration of 10-3M. The osmolarity of human blood is about 300 mosm/L, while seawater has an osmolarity of about 1,000 mosm/L. Two solutions separated by a selectively permeable membrane are said to be isoosmotic if they have the same osmolarity.
+
+There is no net movement of water by osmosis between isoosmotic solutions (although water molecules are continually crossing the membrane, they do so at equal rates in both directions). When two solutions differ in osmolarity, the one with the greater concentration of solutes is referred to as hyperosmotic and the more dilute solution as hypoosmotic. Water flows by osmosis from a hypoosmotic solution to a hyperosmotic one.*
+
+
+
+
+
+ Osmoregulators expend energy to control their internal osmolarity; osmoconformers are isoosmotic with their surroundings
+
+There are two basic solutions to the problem of balancing water gain with water loss. One--available only to marine animals--is to be isoosmotic to the surroundings. Such an animal, which does not actively adjust its internal osmolarity, is known as an osmoconformer. Because an osmoconformer's internal osmolarity is the same as that of its environment, there is no tendency to gain or lose water. Although they do not compensate for changes in external osmolarity, osmoconformers often live in water that has a very stable composition and hence have a very constant internal osmolarity. In contrast, an osmoregulator is an animal that must control its internal osmolarity, because its body fluids are not isoosmotic with the outside environment. An osmoregulator must discharge excess water if it lives in a hypoosmotic environment or take in water to offset osmotic loss if it inhabits a hyperosmotic environment. Osmoregulation enables animals to live in environments that are uninhabitable for osmoconformers, such as freshwater and terrestrial habitats, and allows many marine animals to maintain internal osmolarities different from that of seawater.
+
+Whenever animals maintain an osmolarity difference between the body and the external environment, osmoregulation has an energy cost. Because diffusion tends to equalize concentrations in a system, osmoregulators must expend energy to maintain the osmotic gradients that allow water to move in or out. They do so by using active transport to manipulate solute concentrations in their body fluids.
+
+The energy cost of osmoregulation depends mainly on how different an animal's osmolarity is from its surroundings, how easily water and solutes can move across the animal's surface, and on how much membrane-transport work is required to pump solutes. Because of the difference in concentration between cytoplasm, fresh water (1-50 mosm/L), and seawater, osmoregulation accounts for nearly 5%  of the resting metabolic rate of many marine and freshwater bony fishes. For brine shrimp, small crustaceans that live in the Great Salt Lake in Utah and in other extremely salty lakes, the gradient between internal and external osmolarities is very large and the cost of osmoregulation is correspondingly high--as much as 30%  of the resting metabolic rate.
+
+Most animals, whether osmoconformers or osmoregulators, cannot tolerate substantial changes in external osmolarity and are said to be stenohaline (Gr. stenos, "narrow"; haline refers to salt). In contrast, euryhaline animals (Gr. eurys, "broad")--which include both certain osmoconformers and certain osmoregulators--can survive large fluctuations of external osmolarity. Familiar examples of euryhaline osmoregulators are the various species of salmon. A more extreme example is a bony fish called tilapia (a native of Africa grown widely for human food), which can adjust to any salt concentration between fresh water and 2,000 mosm/L (twice that of seawater).
+
+Next, we'll take a closer look at some of the adaptations for osmoregulation that have evolved in marine, freshwater, and terrestrial animals.
+
+Maintaining Water Balance in the Sea
+
+Animals first evolved in the sea, and more animal phyla are found there than in any other environment. Most marine invertebrates are osmoconformers, as are the hagfishes (jawless vertebrates). Their total osmolarity (the sum of the concentrations of all dissolved substances) is the same as seawater. However, they differ considerably from seawater in their concentrations of most specific solutes. Thus, even an animal that conforms to the osmolarity of its surroundings does regulate its internal composition.
+
+Except for the hagfishes, marine vertebrates are osmoregulators. For most of these animals, the ocean is a strongly dehydrating environment because it is much saltier than internal fluids and water tends to be lost from the body by osmosis. Marine fishes (class Osteichthyes) constantly lose water through their skin and especially their gills (FIGURE 44.14a, p. 940). To balance these water losses, these fishes obtain water in food and by drinking large amounts of seawater. The accompanying salt intake (along with salt that enters the body by diffusion) is disposed of by active transport out of the gills. Very little urine is produced, an adaptation that conserves water.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 44-14. Osmoregulation in marine and freshwater bony fishes: a comparison.
+
+Marine sharks and most other cartilaginous fishes (class Chondrichthyes) use a different osmoregulatory "strategy." Like bony fishes, their internal salt concentration is much less than that of seawater, so in addition to salt intake in food, salt tends to diffuse into the body (especially across the gills). The kidneys of sharks remove some of this salt load, and the rest is excreted by an organ called the rectal gland or is lost in feces. Unlike bony fishes, and despite relatively low internal salt concentration, marine sharks do not experience a large and continuous osmotic water loss. The explanation is that sharks maintain high concentrations of urea in their body fluids, along with another organic solute, trimethylamine oxide (TMAO), which protects proteins from damage by urea. (If you have ever prepared shark meat, you know it should be soaked in fresh water to remove urea before cooking.) The total solute concentration of body fluids (salts, urea, TMAO, and other compounds) is somewhat greater than 1,000 mosm/L and therefore slightly hyperosmotic to seawater. Consequently, water slowly enters the shark's body by osmosis and in food (sharks do not drink), and this small influx of water is disposed of in urine produced by the kidneys.
+
+Maintaining Osmotic Balance in Fresh Water
+
+The osmoregulatory problems of freshwater animals are opposite those of marine animals. Freshwater animals are constantly gaining water by osmosis and losing salts by diffusion because the osmolarity of their internal fluids is much higher than that of their surroundings. Freshwater protists such as Amoeba and Paramecium have contractile vacuoles that pump out excess water (see FIGURE 28.14). Many freshwater animals, including fishes, maintain water balance by excreting large amounts of very dilute urine and manage their salt budget by regaining lost salts in food and by active uptake from their surroundings (FIGURE 44.14b).
+
+Salmon and other euryhaline fishes that migrate between seawater and fresh water undergo dramatic and rapid changes in osmoregulatory status. While in the ocean, salmon osmoregulate like other marine fishes by drinking seawater and excreting excess salt from the gills. When they migrate to fresh water, salmon cease drinking, begin to produce lots of dilute urine, and their gills start taking up salt from the dilute environment--just like fishes that spend their entire lives in fresh water.
+
+Special Problems of Living in Temporary Waters
+
+Dehydration dooms most animals, but some aquatic invertebrates living in temporary ponds and films of water around soil particles can lose almost all their body water and survive in a dormant state when their habitats dry up. This remarkable adaptation is called anhydrobiosis ("life without water"). Among the most striking examples are the tardigrades, or water bears, tiny invertebrates less than 1 mm long (FIGURE 44.15). In their active, hydrated state, these animals contain about 85%  water by weight but can dehydrate to less than 2%  water and survive in an inactive state, dry as dust, for a decade or more. Just add water, and within minutes the rehydrated tardigrades are moving about and feeding.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-15. Anhydrobiosis. Tardigrades (water bears) inhabit temporary ponds and droplets of water in soil and on moist plants (SEMs).
+
+Anhydrobiotic animals must have adaptations that keep cell membranes intact. Researchers are just beginning to learn how tardigrades survive drying out, but studies of anhydrobiotic roundworms (class Nematoda) show that dehydrated individuals contain large amounts of sugars, especially a disaccharide called trehalose. Consisting of two glucose units, trehalose seems to protect the cells by replacing the water associated with membranes and proteins. Many insects that survive freezing in the winter also utilize trehalose as a membrane protectant.
+
+Maintaining Osmotic Balance on Land
+
+The threat of desiccation is perhaps the largest regulatory problem confronting terrestrial plants and animals. Humans die if they lose about 12%  of their body water (mammals that evolved in dry enviroments, such as camels, can withstand about twice that level of dehydration). The severity of this challenge may be one reason only arthropods and vertebrates have colonized the land with great success (other phyla have terrestrial representatives, but most of their species are aquatic).
+
+Adaptations that reduce water loss are key to survival on land. Much as a waxy cuticle contributes to the success of land plants, most terrestrial animals have body coverings that help prevent dehydration. Examples are the waxy layers of insect exoskeletons, the shells of land snails, and the multiple layers of dead, keratinized skin cells covering most terrestrial vertebrates. Many terrestrial animals, especially desert dwellers, are nocturnal; this reduces evaporative water loss by taking advantage of the lower temperatures and higher relative humidity of night air.
+
+Despite these adaptations, most terrestrial animals lose considerable water from moist surfaces in their gas exchange organs, in urine and feces, and across the skin. Land animals balance their water budgets by drinking and eating moist foods and by using metabolic water (the water produced in mitochondria during cellular respiration). Some animals are so well adapted for minimizing water loss that they can survive in deserts without drinking. For example, many insect-eating desert birds and reptiles do not drink. Kangaroo rats lose so little water that they can recover 90%  of the loss by using metabolic water (FIGURE 44.16), gaining the remaining 10%  from the small amount of water in their diet of seeds.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 44-16. Water balance in two terrestrial mammals. Kangaroo rats, which live in the American southwest, eat mostly dry seeds and do not drink water. A kangaroo rat loses water mainly by evaporation during gas exchange and gains water mainly from cellular metabolism. In contrast, a human loses a large amount of water in urine, and regains it mostly in food and drink.
+
+
+
+
+
+ Most excretory systems produce urine by refining a filtrate derived from body fluids: an overview
+
+As we will see in the next section, excretory systems are diverse, but nearly all produce urine by a two-step process. First, body fluid (blood, coelomic fluid, or hemolymph) is collected, and then the composition of the collected fluid is adjusted by selective reabsorption or secretion of solutes (FIGURE 44.17, p. 942). The initial fluid collection usually involves filtration through the selectively permeable membranes of transport epithelia. These membranes retain cells as well as proteins and other large molecules in the body fluid; hydrostatic pressure (blood pressure in many animals) forces water and small solutes, such as salts, sugars, amino acids, and nitrogenous wastes, into the excretory system. This fluid is called the filtrate.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-17. Key functions of excretory systems: an overview. Most excretory systems produce a filtrate by pressure-filtering body fluids. In this diagram, modeled after the vertebrate excretory system, the excretory tubule collects a filtrate from the blood. Water and solutes are forced by blood pressure across the selectively permeable membranes of a cluster of capillaries and into the excretory tubule (yellow). The filtrate is then modified by the transport epithelium lining the tubule. In the process of reabsorption, the epithelium reclaims valuable substances from the filtrate and returns them to the body fluids. In secretion, other substances, such as toxins and excess ions, are extracted from body fluids and added to the contents of the excretory tubule.
+
+Fluid collection, even when filtration occurs, is largely nonselective, and thus it is important that essential small molecules are recovered from the filtrate and returned to the body fluids. Excretory systems use active transport to selectively reabsorb valuable solutes such as glucose, certain salts, and amino acids. Nonessential solutes and wastes (for example, excess salts and toxins) are left in the filtrate or are added to it by selective secretion, which also uses active transport. The pumping of various solutes also adjusts the osmotic movement of water into or out of the filtrate.
+
+
+
+
+
+ Diverse excretory systems are variations on a tubular theme
+
+Protonephridia: Flame-Bulb Systems
+
+Flatworms (phylum Platyhelminthes) have excretory systems called protonephridia. A protonephridium is a network of dead-end tubules lacking internal openings (FIGURE 44.18). The tubules branch throughout the body, and the smallest branches are capped by a cellular unit called a flame bulb. The flame bulb has a tuft of cilia projecting into the tubule. The beating of the cilia draws water and solutes from the interstitial fluid through the flame bulb (filtration) into the tubule system, and then moves the urine outward through the tubules until they empty to the external environment through openings called nephridiopores. Excreted urine is very dilute in freshwater flatworms, helping balance the osmotic uptake of water from the environment. Apparently, the tubules reabsorb most solutes before the urine exits the body.
+
+The flame-bulb systems of freshwater flatworms seem to function mainly in osmoregulation; most metabolic wastes diffuse out of the animal across the body surface or are excreted into the gastrovascular cavity and eliminated through the mouth (see Chapter 33). However, in some parasitic flatworms, which are isoosmotic to the surrounding fluids of their host organisms, protonephridia function mainly to dispose of nitrogenous wastes. This difference in function shows how structures common to a group of organisms can be adapted in diverse ways by evolution in different environments. Protonephridia are also found in rotifers, some annelids, the larvae of mollusks, and lancelets, which are invertebrate chordates. (See Chapters 33 and 34 to review these animal phyla.)
+
+Metanephridia
+
+Another type of tubular excretory system, the metanephridium, has internal openings that collect body fluids (FIGURE 44.19). Metanephridia are found in most annelids, including earthworms. Each segment of a worm has a pair of metanephridia, which are immersed in coelomic fluid and enveloped by a capillary network. The internal opening of a metanephridium is surrounded by a ciliated funnel, the nephrostome, which collects fluid from the coelom.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-19. Metanephridia of an earthworm. Each segment of the worm contains a pair of metanephridia (shown in green and blue), which collect coelomic fluid from the adjacent anterior segment. Fluid enters the nephrostome and passes through the coiled collecting tubule, which includes a storage bladder that opens to the outside through the nephridiopore. Nitrogenous wastes remain in the fluid and are excreted, but certain salts are pumped back into the blood. An earthworm's urine is very dilute, with this loss of water balancing osmotic uptake of water through the skin.
+
+An earthworm's metanephridia have both excretory and osmoregulatory functions. As urine moves along the tubule, the transport epithelium bordering the lumen reabsorbs most solutes and returns them to the blood in the capillaries. Nitrogenous wastes remain in the tubule and are dumped to the outside. Earthworms inhabit damp soil and usually experience a net uptake of water by osmosis. Their metanephridia balance the water influx by producing dilute urine (hypoosmotic to the body fluids).
+
+Malpighian Tubules
+
+Insects and other terrestrial arthropods have organs called Malpighian tubules that remove nitrogenous wastes and also function in osmoregulation (FIGURE 44.20). Malpighian tubules open into the digestive tract and dead-end at tips that are immersed in hemolymph (circulatory fluid). The transport epithelium lining the tubules secretes certain solutes, including nitrogenous wastes, from the hemolymph into the lumen of the tubule. Water follows the solutes into the tubule by osmosis, and the fluid then passes into the rectum, where most solutes are pumped back into the hemolymph. Water again follows the solutes, and the nitrogenous wastes (mainly insoluble uric acid) are eliminated as nearly dry matter along with the feces. The insect excretory system--highly effective in conserving water--is one of several key adaptations that contributed to the tremendous success of these animals on land.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-20. Malpighian tubules of insects. Malpighian tubules are outfoldings of the digestive tract. The tubules secrete nitrogenous wastes and salts from the hemolymph into the tubule lumen, and water follows these solutes by osmosis. Most of the salts and water are reabsorbed across the epithelium of the rectum, and the nearly dry nitrogenous wastes are eliminated with the feces.
+
+Vertebrate Kidneys
+
+The kidneys of vertebrates usually function in both osmoregulation and excretion. Like the excretory organs of most animal phyla, kidneys are built of tubules. The osmoconforming hagfishes, which are among the most primitive living vertebrates, have kidneys with segmentally arranged excretory tubules, and it is likely that the excretory structures of vertebrate ancestors were also segmented. However, the kidneys of most vertebrates are compact, nonsegmented organs containing numerous tubules arranged in a highly organized manner. A dense network of capillaries intimately associated with the tubules, along with ducts and other structures that carry urine out of the tubules and kidney and eventually out of the body, are also integral parts of the vertebrate excretory system.
+
+We will focus first on the mammalian version of the vertebrate excretory system, using humans as our example. We will then compare the excretory organs of the various vertebrate classes to see evolutionary modifications that function in different environments.
+
+
+
+
+
+ Nephrons and associated blood vessels are the functional units of the mammalian kidney
+
+Mammals have a pair of kidneys. Each kidney, bean-shaped and about 10 cm long in humans, is supplied with blood by a renal artery and a renal vein (FIGURE 44.21). Blood flow through the kidneys is voluminous. In humans the kidneys account for less than 1%  of body weight, but they receive about 20%  of resting cardiac output. Urine exits each kidney through a duct called the ureter, and both ureters drain into a common urinary bladder. During urination, urine is expelled from the urinary bladder through a tube called the urethra, which empties to the outside near the vagina in females or through the penis in males. Sphincter muscles near the junction of the urethra and the bladder control urination.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-21. The human excretory system at four size scales.
+
+Structure and Function of the Nephron and Associated Structures
+
+The mammalian kidney has two distinct regions, an outer renal cortex and an inner renal medulla (see FIGURE 44.21). Packing both regions are microscopic excretory tubules and their associated blood vessels. The nephron--the functional unit of the vertebrate kidney--consists of a single long tubule and a ball of capillaries called the glomerulus. The blind end of the tubule forms a cup-shaped swelling, called Bowman's capsule, which surrounds the glomerulus. Each human kidney packs about a million nephrons, with a total tubule length of 80 km.
+
+Filtration of the Blood. Filtration occurs as blood pressure forces fluid from the blood in the glomerulus into the lumen of Bowman's capsule. The porous capillaries, along with specialized cells of the capsule called podocytes, are permeable to water and small solutes but not to blood cells or large molecules such as plasma proteins. Filtration of small molecules is nonselective and the filtrate in the Bowman's capsule contains salts, glucose, and vitamins; nitrogenous wastes such as urea; and other small molecules--a mixture that mirrors the concentrations of these substances in blood plasma.
+
+Pathway of the Filtrate. From Bowman's capsule, the filtrate passes through three regions of the nephron: the proximal tubule; the loop of Henle, a hairpin turn with a descending limb and an ascending limb; and the distal tubule. The distal tubule empties into a collecting duct, which receives processed filtrate from many nephrons. The many collecting ducts of the kidney empty into the renal pelvis, which is drained by the ureter.
+
+In the human kidney, about 80%  of the nephrons, the cortical nephrons, have reduced loops of Henle and are almost entirely confined to the renal cortex. The other 20% , the juxtamedullary nephrons, have well-developed loops that extend deeply into the renal medulla (see FIGURE 44.21). Only mammals and birds have juxtamedullary nephrons; the nephrons of other vertebrates lack loops of Henle. It is the juxtamedullary nephrons that enable mammals to produce urine that is hyperosmotic to body fluids, an adaptation that is extremely important for water conservation.
+
+The nephron and the collecting duct are lined by a transport epithelium that processes the filtrate to form the urine. One of this epithelium's most important tasks is reabsorption of solutes and water. From 1,100 to 2,000 L of blood flows through a pair of human kidneys each day, a volume about 275 times the total volume of blood in the body. From this enormous traffic of blood, the nephrons and collecting ducts process about 180 L of initial filtrate, equivalent to two or three times the body weight of an average person. Of this, nearly all of the sugar, vitamins, and other organic nutrients, and about 99%  of the water, are reabsorbed into the blood, leaving only about 1.5 L of urine to be voided.
+
+Blood Vessels Associated with the Nephrons. Each nephron is supplied with blood by an afferent arteriole, a branch of the renal artery that subdivides into the capillaries of the glomerulus. The capillaries converge as they leave the glomerulus, forming an efferent arteriole. This vessel subdivides again into a second network of capillaries, the peritubular capillaries, which surround the proximal and distal tubules. Additional capillaries extend downward to form the vasa recta, the capillary system that serves the loop of Henle. The vasa recta is also a loop, with a descending vessel and an ascending vessel conveying blood in opposite directions.
+
+Although the excretory tubules and their surrounding capillaries are closely associated, they do not exchange materials directly. The tubules and capillaries are immersed in interstitial fluid, through which various substances diffuse between the plasma within capillaries and the filtrate within the nephron tubule.
+
+From Blood Filtrate to Urine: A Closer Look
+
+In this section we concentrate on how the filtrate becomes urine as it flows through the mammalian nephron and collecting duct. The circled numbers correspond to the numbers in FIGURE 44.22, page 946.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-22. The nephron and collecting duct: regional functions of the transport epithelium. The numbered regions in this diagram are keyed to the circled numbers in the text discussion of kidney function.
+
+
+			  
+		Proximal tubule. Secretion and reabsorption in the proximal tubule substantially alter the volume and composition of filtrate. For example, the cells of the transport epithelium help maintain a constant pH in body fluids by the controlled secretion of hydrogen ions. The cells also synthesize and secrete ammonia, which neutralizes the acid and keeps the filtrate from becoming too acidic. The more acidic the filtrate, the more ammonia the cells produce and secrete, and the urine of a mammal usually contains some ammonia from this source (even though most nitrogenous waste is excreted as urea). The proximal tubules also reabsorb about 90%  of the important buffer bicarbonate (HCO3-). Drugs and other poisons that have been processed in the liver pass from the peritubular capillaries into the interstitial fluid, and then are secreted across the epithelium of the proximal tubule into the nephron's lumen. Conversely, valuable nutrients, including glucose, amino acids, and potassium (K+), are actively or passively transported from the filtrate to the interstitial fluid, and then move into the peritubular capillaries.
+
+One of the most important functions of the proximal tubule is reabsorption of most of the NaCl (salt) and water from the huge initial filtrate volume. Salt in the filtrate diffuses into the cells of the transport epithelium, and the membranes of the cells actively transport Na+ into the interstitial fluid. This transfer of positive charge is balanced by the passive transport of Cl- out of the tubule. As salt moves from the filtrate to the interstitial fluid, water follows by osmosis. The exterior side of the epithelium has a much smaller surface area than the side facing the lumen, which minimizes leakage of salt and water back into the tubule. Instead, the salt and water now diffuse from the interstitial fluid into the peritubular capillaries.
+
+
+			  
+		Descending limb of the loop of Henle. Reabsorption of water continues as the filtrate moves into the descending limb of the loop of Henle. Here the transport epithelium is freely permeable to water but not very permeable to salt and other small solutes. For water to move out of the tubule by osmosis, the interstitial fluid bathing the tubule must be hyperosmotic to the filtrate. The osmolarity of the interstitial fluid does in fact become progressively greater from the outer cortex to the inner medulla of the kidney (the mechanism that maintains this gradient will be discussed shortly). Thus, filtrate moving downward from the cortex to the medulla within the descending limb of the loop of Henle continues to lose water to interstitial fluid of greater and greater osmolarity. As water departs by osmosis, the solute concentration of the filtrate increases.
+
+
+			  
+		Ascending limb of the loop of Henle. The filtrate reaches the tip of the loop, deep in the renal medulla in the case of juxtamedullary nephrons, then moves back to the cortex within the ascending limb. In contrast to the descending limb, the transport epithelium of the ascending limb is permeable to salt but not to water. The ascending limb actually has two specialized regions: a thin segment near the loop tip and a thick segment adjacent to the distal tubule. As filtrate ascends in the thin segment, NaCl, which became concentrated in the descending limb, diffuses out of the permeable tubule into the interstitial fluid. This movement of salt adds to the high osmolarity of the interstitial fluid in the medulla. The exodus of salt from the filtrate continues in the thick segment of the ascending limb, but here the epithelium actively transports NaCl into the interstitial fluid. By losing salt without giving up water, the filtrate becomes progressively more dilute as it moves up to the cortex in the ascending limb of the loop.
+
+
+			  
+		Distal tubule. The distal tubule is another important site of secretion and reabsorption. It plays a key role in regulating the K+ and NaCl concentration of body fluids by varying the amount of the K+ that is secreted into the filtrate and the amount of NaCl reabsorbed from the filtrate. Like the proximal tubule, the distal tubule also contributes to pH regulation, by the controlled secretion of H+ and reabsorption of bicarbonate (HCO3-).
+
+
+			  
+		Collecting duct. The collecting duct carries the filtrate through the medulla to the renal pelvis. By actively reabsorbing NaCl, the transport epithelium of the collecting duct plays a large role in determining how much salt is actually excreted in the urine. The epithelium is permeable to water but not to salt or (in the renal cortex) to urea. Thus, as the collecting duct traverses the gradient of osmolarity in the kidney, the filtrate becomes increasingly concentrated as it loses more and more water by osmosis to the hyperosmotic interstitial fluid. In the inner medulla, the duct becomes permeable to urea. Because of the high urea concentration in the filtrate at this point, some urea diffuses out of the duct and into the interstitial fluid. Along with NaCl, this interstitial urea is a major solute contributing to the high osmolarity of the interstitial fluid in the medulla. It is this high osmolarity that enables the mammalian kidney to conserve water by excreting urine that is hyperosmotic to the general body fluids.
+
+
+
+
+
+ The mammalian kidney's ability to conserve water is a key terrestrial adaptation
+
+The osmolarity of human blood is about 300 mosm/L, but the kidney can excrete urine up to four times as concentrated--about 1,200 mosm/L. Some mammals can do even better. For example, Australian hopping mice, which live in dry desert regions, can produce urine concentrated to 9,300 mosm/L--9 times as concentrated as seawater and 25 times as concentrated as their body fluid.
+
+In a mammalian kidney, the cooperative action and precise arrangement of the loops of Henle and the collecting ducts are largely responsible for the osmotic gradient that concentrates the urine. But even with this highly organized structure, the maintenance of osmotic differences and the production of hyperosmotic urine are only possible because considerable energy is expended for the active transport of solutes against concentration gradients. In essence, the nephrons--especially the loops of Henle--can be thought of as tiny energy-consuming machines whose function is to produce a region of high osmolarity in the kidney, which can then be used to extract water from the urine in the collecting duct. The two primary solutes in this osmolarity gradient are NaCl, which is deposited in the renal medulla by the loop of Henle, and urea, which leaks across the epithelium of the collecting duct in the inner medulla (see FIGURE 44.22).
+
+Conservation of Water by Two Solute Gradients
+
+To better understand the physiology of the mammalian kidney as a water-conserving organ, let's retrace the flow of filtrate through the excretory tubule, this time focusing on how the juxtamedullary nephrons maintain an osmolarity gradient in the kidney and use that gradient to excrete a hyperosmotic urine (FIGURE 44.23, p. 948). Filtrate passing from Bowman's capsule to the proximal tubule has an osmolarity of about 300 mosm/L, the same as blood. As the filtrate flows through the proximal tubule in the renal cortex, a large amount of water and salt is reabsorbed; thus, the volume of filtrate decreases substantially but its osmolarity remains about the same.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-23. How the human kidney concentrates urine: the two-solute model. From the cortex to the inner medulla, the interstitial fluid increases in osmolarity from about 300 to 1,200 mosm/L. Two solutes contribute to this gradient: NaCl and urea. The loop of Henle maintains the interstitial gradient of NaCl. The filtrate concentration of this salt increases because of the loss of water from the descending limb, then the ascending limb leaks the salt into the interstitial fluid. Additional salt is actively transported out of the thick segment of the ascending limb. The countercurrent-like arrangement of descending and ascending limbs (and the associated capillaries; FIGURE 44.21) helps maintain the high salt concentration in the medulla. The second solute, urea, is added to the interstitial fluid of the medulla by diffusion out of the collecting duct (most of the urea in the filtrate remains in the collecting duct and is excreted). The filtrate makes a total of three trips between the cortex and medulla: first down, then up, and then down one more time in the collecting duct. As the filtrate flows in the collecting duct past interstitial fluid of increasing osmolarity, more and more water moves out of the duct by osmosis, thereby concentrating the solutes, including urea, that are left behind in the filtrate. Under conditions in which the kidney conserves as much water as possible, urine can reach an osmolarity of about 1,200 mosm/L, considerably hyperosmotic to blood (about 300 mosm/L). This ability to excrete nitrogenous wastes with a minimal loss of water is a key terrestrial adaptation of mammals.
+
+As the filtrate flows from cortex to medulla in the descending limb of the loop of Henle, water leaves the tubule by osmosis. The osmolarity of the filtrate increases as solutes, including NaCl, become more concentrated. The highest osmolarity occurs at the elbow of the loop of Henle. This maximizes the diffusion of salt out of the tubule as the filtrate rounds the curve and enters the ascending limb, which, remember, is permeable to salt but not to water. Thus, the two limbs of the loop of Henle cooperate in maintaining the gradient of osmolarity in the interstitial fluid of the kidney. The descending limb produces a progressively saltier filtrate, and the ascending limb exploits this concentration of NaCl to help maintain a high osmolarity in the interstitial fluid of the renal medulla.
+
+Notice that the loop of Henle has several qualities of a countercurrent system, similar in principle to the countercurrent mechanisms that maximize oxygen absorption by fish gills (see FIGURES 42.19 and 42.20) or reduce heat loss from endotherm legs (see FIGURE 44.5). Although the two limbs of the loop are not in direct contact, they are close enough together to exchange substances through the interstitial fluid. The nephron can concentrate salt in the inner medulla largely because exchange between opposing flows in the descending and ascending limbs overcomes the tendency for diffusion to even out salt concentration throughout the kidney's interstitial fluid, thus confining the high salt concentration in the interior of the kidney.
+
+What prevents the capillaries of the vasa recta from dissipating the gradient by carrying away the high concentration of NaCl in the medulla's interstitial fluid? Notice in FIGURE 44.21 that the vasa recta is also a countercurrent system, with descending and ascending vessels carrying blood in opposite directions through the kidney's osmolarity gradient. As the descending vessel conveys blood toward the inner medulla, water is lost from the blood and NaCl diffuses into it. These fluxes are reversed as blood flows back toward the cortex in the ascending vessel, with water reentering the blood and salt diffusing out. Thus, the vasa recta can supply the kidney with nutrients and other important substances carried by blood without interfering with the osmolarity gradient that makes it possible for the kidney to excrete a hyperosmotic urine.
+
+The countercurrent-like characteristics of the loop of Henle and the vasa recta make it easier to maintain the steep osmotic gradient between the medulla and cortex. However, any osmotic gradient in an animal will eventually be eliminated by diffusion unless energy is expended to preserve it. In the kidney this expenditure largely occurs in the thick segment of the ascending limb of the loop of Henle, where NaCl is actively transported out of the tubule. Even with the benefits of countercurrent exchange, this process--along with other renal active transport systems--consumes considerable ATP, and for its size the kidney has one of the highest metabolic rates of any organ.
+
+By the time the filtrate reaches the distal tubule, it is actually hypoosmotic to body fluids because of active transport of NaCl out of the thick segment of the ascending limb. Now the filtrate descends again toward the medulla, this time in the collecting duct, which is permeable to water but not to salt. Therefore, osmosis extracts water from the filtrate as it passes from cortex to medulla and encounters interstitial fluid of increasing osmolarity. This concentrates salt, urea, and other solutes in the filtrate. Some urea leaks out of the lower portion of the collecting duct and contributes to the high interstitial osmolarity of the inner medulla. (This urea is recycled by diffusion into the loop of Henle, but continual leakage from the collecting duct maintains a high interstitial urea concentration.) Before leaving the kidney, the urine may attain the osmolarity of the interstitial fluid in the inner medulla, which can be as high as 1,200 mosm/L. Although isoosmotic to the inner medulla's interstitial fluid, the urine is hyperosmotic to blood and interstitial fluid elsewhere in the body. This high osmolarity allows the solutes remaining in the urine to be excreted from the body with minimal water loss.
+
+The juxtamedullary nephron, with its urine-concentrating features, is a key adaptation to terrestrial life, enabling mammals to get rid of salts and nitrogenous wastes without squandering water. As we have seen, the remarkable ability of the mammalian kidney to produce hyperosmotic urine is completely dependent on the precise arrangement of the tubules and collecting ducts in the renal cortex and medulla. In this respect, the kidney is one of the clearest examples of how the function of an organ is inseparably linked to its structure.
+
+How the Nervous System and Hormones Regulate Kidney Functions
+
+One of the most important aspects of the mammalian kidney is its ability to adjust both the volume and osmolarity of urine, depending on the animal's water and salt balance and the rate of urea production. In situations of high salt intake and low water availability, a mammal can excrete urea and salt with minimal water loss in small volumes of hyperosmotic urine. But if salt is scarce and fluid intake is high, the kidney can get rid of the excess water with little salt loss by producing large volumes of hypoosmotic urine (as dilute as 70 mosm/L, compared to about 300 mosm/L for human blood). This versatility in osmoregulatory function is managed with a combination of nervous and hormonal controls.
+
+One hormone important in regulating water balance is antidiuretic hormone (ADH) (FIGURE 44.24a, p. 950). It is produced in a part of the brain called the hypothalamus and is stored in and released from the pituitary gland, which is positioned just below the hypothalamus. Osmoreceptor cells in the hypothalamus monitor the osmolarity of blood; when it rises above a set point of 300 mosm/L (perhaps due to water loss from sweating in a hot environment), more ADH is released into the bloodstream and reaches the kidney. The main targets of ADH are the distal tubules and collecting ducts of the kidney, where the hormone increases the permeability of the epithelium to water. This amplifies water reabsorption, which reduces urine volume and helps prevent further increase of blood osmolarity above the set point. By negative feedback, the subsiding osmolarity of the blood reduces the activity of osmoreceptor cells in the hypothalamus, and less ADH is then secreted. But only the gain of additional water in food and drink can bring osmolarity all the way back down to 300 mosm/L. Conversely, if a large intake of water has reduced blood osmolarity below the set point, very little ADH is released. This decreases the permeability of the distal tubules and collecting ducts, so water reabsorption is reduced, resulting in an increased discharge of dilute urine. (Increased urination is called diuresis, and it is because ADH opposes this state that it is called antidiuretic hormone.) Alcohol can disturb water balance by inhibiting the release of ADH, causing excessive urinary water loss and dehydration (which may cause some of the symptoms of a hangover). Normally, blood osmolarity, ADH release, and water reabsorption in the kidney are all linked in a feedback loop that contributes to homeostasis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-24. Hormonal control of the kidney by negative feedback circuits. (a) Antidiuretic hormone (ADH) enhances fluid retention by making the kidneys reclaim more water. The release of ADH is triggered when osmoreceptor cells in the hypothalamus detect an increase in the osmolarity of the blood. In this situation, the osmoreceptor cells also promote thirst. Drinking reduces the osmolarity of the blood, which inhibits the secretion of ADH, completing the feedback circuit. (b) The renin-angiotensin-aldosterone system (RAAS) centers on the juxtaglomerular apparatus (JGA). The JGA responds to a decrease in blood pressure or blood volume by releasing the enzyme renin into the bloodstream (small black arrows). In the blood, renin initiates the conversion of angiotensinogen to angiotensin II. Angiotensin II increases blood pressure by causing arterioles to constrict. It also increases blood volume in two ways: by signaling the proximal tubules of the nephrons to reabsorb more NaCl and water (not illustrated) and by stimulating the adrenal glands to release aldosterone, a hormone that makes the distal tubules reabsorb more Na+ and water. This leads to an increase in blood volume and pressure, completing the feedback circuit by suppressing the release of renin.
+
+A second regulatory mechanism involves a specialized tissue called the juxtaglomerular apparatus (JGA), located near the afferent arteriole that supplies blood to the glomerulus (FIGURE 44.24b). When blood pressure or blood volume in the afferent arteriole drops (sometimes as a result of reduced salt intake), the enzyme renin initiates chemical reactions that convert a plasma protein called angiotensinogen to a peptide called angiotensin II. Functioning as a hormone, angiotensin II increases blood pressure and blood volume in several ways. It raises blood pressure by constricting arterioles, decreasing blood flow to many capillaries, including those of the kidney. Angiotensin II also stimulates the proximal tubules of the nephrons to reabsorb more NaCl and water. This reduces the amount of salt and water excreted in the urine and consequently raises blood volume and pressure. Another effect of angiotensin II is stimulation of the adrenal glands, organs located atop the kidneys, to release a hormone called aldosterone. This hormone acts on the nephrons' distal tubules, making them reabsorb more sodium (Na+) and water and increasing blood volume and pressure. In summary, the renin-angiotensin-aldosterone system (RAAS) is part of a complex feedback circuit that functions in homeostasis. A drop in blood pressure and blood volume triggers renin release from the JGA. In turn, the rise in blood pressure and volume resulting from the various actions of angiotensin II and aldosterone reduce the release of renin (see FIGURE 44.24b).
+
+The functions of ADH and the RAAS may seem to be redundant, but this is not the case. Both increase water reabsorption, but they counter different osmoregulatory problems. The release of ADH is a response to an increase in the osmolarity of the blood, as when the body is dehydrated from excessive loss or inadequate intake of water. However, a situation that causes an excessive loss of salt and body fluids--an injury, for example, or severe diarrhea--will reduce blood volume without increasing osmolarity. This will not induce a change in ADH release, but the RAAS will detect the fall in blood volume and pressure and respond by increasing water and Na+ reabsorption. Normally, ADH and the RAAS are partners in homeostasis; ADH alone would lower blood Na+ concentration by stimulating water reabsorption in the kidney, but the RAAS helps maintain balance by stimulating Na+ reabsorption.
+
+Still another hormone, a peptide called atrial natriuretic factor (ANF), opposes the RAAS. The walls of the atria of the heart release ANF in response to an increase in blood volume and pressure. ANF inhibits the release of renin from the JGA, inhibits NaCl reabsorption by the collecting ducts, and reduces aldosterone release from the adrenal glands. These actions lower blood volume and pressure. Thus, ADH, the RAAS, and ANF provide an elaborate system of checks and balances that regulate the kidney's ability to control the osmolarity, salt concentration, volume, and pressure of blood.
+
+The flexibility of the mammalian kidney enables it to adjust rapidly to contrasting osmoregulatory and excretory problems. The South American vampire bat (FIGURE 44.25, p. 951) illustrates this versatility. Bats of this species feed on the blood of large birds and mammals. With a feeding mechanism that is surprisingly stealthy, the bats use sharp teeth to make a small incision in the victim's skin and then lap up blood from the wound. Anticoagulents in the bat's saliva prevent the blood from clotting, but the prey animal is usually not seriously harmed. Because vampire bats often search for many hours and fly for long distances to locate a suitable victim, they benefit from consuming as much blood as possible when they do find prey--so much that after feeding, a bat could be too heavy to fly. This problem is solved by the bat using its kidneys to offload much of the water absorbed from a blood meal by excreting large volumes of dilute urine as it feeds, at rates of up to 24%  of body mass per hour. Having lost enough weight to take off, the bat can fly back to its roost in a cave or hollow tree, where it spends the day. In the roost, the bat faces a very different regulatory problem. Its food is mostly protein, which generates large quantities of urea--but roosting bats don't have access to drinking water. Their kidneys shift to producing small quantities of highly concentrated urine (up to 4,600 mosm/L), an adjustment that disposes of the urea load while conserving as much water as possible. The vampire bat's ability to alternate rapidly between producing large amounts of dilute urine and small amounts of very hyperosmotic urine is an essential part of its adaption to an unusual food source.
+
+
+
+Click image to enlarge
+
+
+
+Fig 44-25. A vampire bat (Desmodus rotundas), a mammal with a unique excretory situation. While the bat feeds on a blood meal, its kidneys excrete dilute urine copiously, thus shedding weight for the flight home. While the bat roosts during the day, the kidneys conserve water by excreting small quantities of urine that is very concentrated in the urea that is produced during the metabolism of proteins from the blood meal.
+
+Having considered the mammalian kidney and its regulation in detail, we can now compare the structures and functions of kidneys in other vertebrate classes.
+
+
+
+
+
+ Diverse adaptations of the vertebrate kidney have evolved in different habitats
+
+Variations in nephron structure and function equip the kidneys of different vertebrates for osmoregulation in their various habitats. We have seen, for instance, that nephrons of the mammalian kidney can conserve water by making highly concentrated urine. Mammals that excrete the most hyperosmotic urine, such as hopping mice and other desert mammals, have exceptionally long loops of Henle. Long loops maintain steep osmotic gradients in the kidney, resulting in urine becoming very concentrated as it passes from cortex to medulla in the collecting ducts. In contrast, beavers, which spend much of their time in fresh water and rarely face problems of dehydration, have nephrons with very short loops, resulting in a much lower ability to concentrate urine.
+
+Birds, like mammals, have kidneys with juxtamedullary nephrons that specialize in conserving water. However, the nephrons of birds have much shorter loops of Henle than do mammalian nephrons. Bird kidneys, therefore, cannot concentrate urine to the osmolarities achieved by mammalian kidneys. Although they can produce a hyperosmotic urine, the main water conservation adaptation of birds is use of uric acid as the nitrogen excretion molecule.
+
+The kidneys of reptiles, having only cortical nephrons, produce urine that is, at most, isoosmotic to body fluids. However, the epithelium of the cloaca (see Chapter 34) helps conserve fluid by reabsorbing some of the water present in urine and feces. Also, like birds, most terrestrial reptiles excrete nitrogenous wastes as uric acid.
+
+In contrast to mammals and birds, a freshwater fish must excrete excess water because the animal is hyperosmotic to its surroundings. Instead of conserving water, the nephrons produce a large volume of very dilute urine. Freshwater fishes conserve salts by reabsorption of ions from the filtrate in the nephrons.
+
+Amphibian kidneys function much like those of freshwater fishes. When in fresh water, the skin of the frog accumulates certain salts from the water by active transport, and the kidneys excrete dilute urine. On land, where dehydration is the most pressing problem of osmoregulation, frogs conserve body fluid by reabsorbing water across the epithelium of the urinary bladder.
+
+Bony fishes that live in seawater, being hypoosmotic to their surroundings, have the opposite problem of their freshwater relatives. In many species, nephrons lack glomeruli and Bowman's capsules, and concentrated urine is formed by secreting ions into the excretory tubules. Thus, as mentioned previously, the kidneys of marine fishes excrete very little urine and function mainly to get rid of divalent ions such as Ca2+, Mg2+, and SO42-, which the fish takes in by its incessant drinking of seawater. Its gills excrete mainly monovalent ions such as Na+ and Cl- and the bulk of its nitrogenous wastes in the form of NH4+ (ammonium ion).
+
+
+
+
+
+ Interacting regulatory systems maintain homeostasis
+
+Numerous regulatory systems are involved in maintaining homeostasis in an animal's internal environment. As we have seen, the mechanisms that rid the body of nitrogenous wastes operate hand in hand with those involved in osmoregulation and are often closely linked with energy budgets and temperature regulation. Similarly, the regulation of body temperature directly affects metabolic rate and exercise capacity and is closely associated with mechanisms controlling blood pressure, gas exchange, and energy balance. Under some conditions, usually at the physical extremes compatible with life, the demands of one system might come into conflict with those of other systems. For instance, in hot, dry environments, water conservation often takes precedence over evaporative heat loss. Many desert animals tolerate occasional abnormally high body temperature, which helps them save water by reducing evaporation. However, if body temperature exceeds a critical upper limit, the animal will start vigorous evaporative cooling and risk dangerous dehydration. Normally, however, the various regulatory systems act together to maintain homeostasis in the internal environment.
+
+Our discussion of homeostasis would be incomplete without mention of the liver, the vertebrate body's most functionally diverse organ. Liver functions are pivotal to homeostasis and involve interaction with most of the body's organ systems. For example, liver cells interact with the circulatory system in taking up glucose from the blood. Liver cells store excess glucose as glycogen and, in response to the body's demand for fuel, convert glycogen back to glucose, releasing glucose to the blood. The liver also synthesizes plasma proteins important in blood clotting and in maintaining the osmotic balance of the blood. Assisting the excretory system, liver cells detoxify many chemical poisons and prepare metabolic wastes for disposal. The liver's diverse functions and interactions with other organs accentuate the point that homeostasis requires the coordinated action of several body systems.
+
+In this chapter we have touched on some of the ways the nervous system and hormones regulate organs involved in homeostasis. We concentrate on the hormonal control of homeostasis in the next chapter.
+
+
+
+

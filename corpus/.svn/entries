@@ -1,0 +1,208 @@
+9
+
+dir
+344
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/corpus
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2009-09-14T23:48:42.246523Z
+296
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c8849605-d826-0410-9f5d-9d9903a7241f
+
+hurricanes.txt
+file
+
+
+
+
+2006-02-17T14:53:06.000000Z
+a0004e225624ba2ba8c89b0bd3e7387c
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+q-relationship-2004
+dir
+
+bomb-blast
+dir
+
+oil-tanker.txt
+file
+
+
+
+
+2006-02-02T20:46:00.000000Z
+c110b3cb0c0d3adef2a1ffe4a3ccb697
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+2HBCT74ID_OPORD(28.doc
+file
+
+
+
+
+2007-08-02T18:07:26.000000Z
+25c02181e65547bc83e0c020b7c9c925
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+serif-test-input.sgml
+file
+
+
+
+
+2002-11-01T17:30:00.000000Z
+dccce7b3bb2ed33297bb899a766e561e
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+ERN
+dir
+
+LarryHunterBioBook
+dir
+
+snow
+dir
+
+Katrina-et-al
+dir
+
+newsblaster-sample-2.text
+file
+
+
+
+
+2006-01-19T15:53:12.000000Z
+2e13ff2e1eeca9c1ad4945d541e9d209
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+Newsblaster-sample.text
+file
+
+
+
+
+2006-01-18T21:33:18.000000Z
+6f39646d38d42367e13c1f5873323919
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+treebank
+dir
+
+Cisco manual.rtfd
+dir
+
+walks-in-Wales
+dir
+
+solutions
+dir
+
+mcl-msg-with-table.lisp
+file
+
+
+
+
+2009-09-14T18:04:13.000000Z
+04a22354ddd2fb31bdb38c8a6294fa7c
+2009-09-14T23:48:42.246523Z
+296
+dmcdonal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+788
+
+bird-flu
+dir
+
+bodies
+dir
+
+Example Query Results-2.xls
+file
+
+
+
+
+2006-02-15T14:26:26.000000Z
+1c53279ab4cccb47fc543b27a351e6f1
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+larrys-patrick
+dir
+
+Example Query Results.xls
+file
+
+
+
+
+2006-02-01T21:17:10.000000Z
+662fbc9a088fe63866da24a4bedaca9c
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+cholera
+dir
+

@@ -1,0 +1,46 @@
+
+Chapter 11: CELL COMMUNICATION
+
+AN OVERVIEW OF CELL SIGNALING
+
+   Cell signaling evolved early in the history of life
+
+   Communicating cells may be close together or far apart
+
+   The three stages of cell signaling are reception, transduction, and response
+
+
+
+SIGNAL RECEPTION AND THE INITIATION OF TRANSDUCTION
+
+   A signal molecule binds to a receptor protein, causing the protein to change shape
+
+   Most signal receptors are plasma membrane proteins
+
+
+
+SIGNAL-TRANSDUCTION PATHWAYS
+
+   Pathways relay signals from receptors to cellular responses
+
+   Protein phosphorylation, a common mode of regulation in cells, is a major mechanism of signal transduction
+
+   Certain small molecules and ions are key components of signaling pathways (second messengers)
+
+
+
+CELLULAR RESPONSES TO SIGNALS
+
+   In response to a signal, a cell may regulate activities in the cytoplasm or transcription in the nucleus
+
+   Elaborate pathways amplify and specify the cell's response to signals
+
+Watch out! There's a car coming! We don't really need such a warning to remind us of the importance of communication in our lives. Perhaps less obvious is the critical role of communication in life at the cellular level. Cell-to-cell communication is absolutely essential for multicellular organisms. The billions of cells in a human or an oak tree must communicate in order to coordinate their activities in a way that enables the organism to develop from a fertilized egg and then survive and reproduce in turn. Communication between cells is also important for many unicellular organisms, such as the yeast pictured in the micrograph on this page.
+
+In studying how cells signal to each other and how they interpret the signals they receive, biologists have discovered some universal mechanisms of cellular regulation, additional evidence for the evolutionary relatedness of all life. The same small set of cell-signaling mechanisms are showing up again and again in many lines of biological research. And to the delight of scientists, studies of cell signaling are helping to answer some of the most important questions in biology and medicine--in areas ranging from embryological development to hormone action to cancer and other kinds of disease.
+
+The signals received by cells, whether originating from other cells or from changes in the physical environment, take various forms. For instance, cells can sense and respond to electromagnetic signals, such as light, and to mechanical signals, such as touch. (In later units of this text, we discuss cellular detection of these and other kinds of physical signals.) However, cells most often communicate with each other by chemical signals. In this chapter, we focus on the main mechanisms by which cells detect, process, and respond to chemical signals sent from other cells.
+
+
+
+

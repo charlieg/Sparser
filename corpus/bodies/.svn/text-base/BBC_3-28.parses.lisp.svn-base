@@ -1,0 +1,87 @@
+(TOP (S (S (NP (JJ Baghdad) (NNS police)) (VP (VP (VBP discover) (NP (CD 14) (NNS bodies)))))))
+;; Probably bad setup -- title and 1st sentence were parsed together
+
+(top
+ (s
+  (np (NP (DT The) (NNS bodies)
+      (PP (IN of) (NP (NP (CD 14) (NNS men))
+		      (, ,) 
+		      (SBAR (WHNP (WP who)) 
+			    (S (VP (VBD had)
+				   (VP (VBN been) 
+				       (VP (VP (VBN blindfolded))
+					   (CC and) 
+					   (VP (VBN shot)
+					       (PP (IN in) (NP (DT the) (NN head))))))))))))
+      (, ,))
+  (VP (VBP have) 
+      (VP (VBN been) 
+	  (VP (VBN found) 
+	      (PP (IN in) 
+		  (NP (NP (NNP Baghdad) (POS 's))
+		      (JJ western) 
+		      (JJ al-) 
+		      (NNP Adel) 
+		      (NN district))))))
+  (, ,) 
+  (NP (NNP Iraqi) (NNS police))
+  (VP (VBP say)) 
+  (. .)))
+
+(TOP (S (NP (NP (DT The) (NNS identities)) (PP (IN of) (NP (NP (DT the) (NNS men)) (CC and) (NP (NP (DT the) (NN motive)) (PP (IN for) (NP (PRP$ their) (NN killing))))))) (VP (VBP are) (RB not) (VP (VBN known))) (. .)))
+
+(TOP (S (NP (NP (DT The) (NN discovery)) (PP (IN of) (NP (NNS bodies)))) (VP (VBZ has) (VP (VBN been) (NP (DT an) (RB almost) (JJ daily) (NN occurrence)) (SBAR (IN as) (S (NP (JJ sectarian) (NN violence)) (VP (VBZ has) (VP (VBN risen) (PP (IN since) (NP (NP (DT the) (NN bombing)) (PP (IN of) (NP (NP (DT a) (NNP Shia) (NN shrine)) (PP (IN in) (NP (NNP Samarra))) (NP (JJ last) (NN month)))))))))))) (. .)))
+
+(TOP (S (ADVP (RB Elsewhere) 
+	      (PP (IN in)
+		  (NP (NNP Baghdad)))) 
+	(, ,) 
+	(NP (NP (CD nine) (NNS people)) 
+	    (VP (VBG working) 
+		(PP (IN at) 
+		    (NP (NP (DT a) (JJ foreign) (NN exchange)) 
+			(CC and) 
+			(NP (DT an) (NN electronics) (NN shop))))))
+	(VP (VBD were)
+	    (VP (VBN kidnapped))) (. .)))
+
+(TOP (S (NP (NP (VBN Armed) (NNS men)) 
+	    (VP (VBG wearing) (NP (NN police) (NNS uniforms)))) 
+	(VP (VBD kidnapped) 
+	    (NP (CD six) (NNS people)) 
+	    (PP (IN at)
+		(NP (DT the) (NNP Moussa) (NNP Bin) (NNP Nasser) (NNP Exchange) (NNP Co))) 
+	    (PP (IN in) 
+		(NP (DT the) (JJ south-western) (NNP Harithiya) (NN district))) 
+	    (PP (IN at) 
+		(NP (NP (CD 1300)) (PRN (-LRB- -LRB-) (NP (CD 1000) (NN GMT)) (-RRB- -RRB-))))) 
+	(. .)))
+
+
+
+
+
+
+(TOP (S (PP (IN At) (NP (DT the) (JJ same) (NN time))) 
+	(, ,) 
+	(NP (NP (DT the) (NN manager)) 
+	    (PP (IN of) 
+		(NP (NP (DT the) (NNP Daewoo) (NNP Electric) (NNP Appliances) (NN shop)) 
+		    (PP (IN in) 
+			(NP (NP (NNP Karrada)) 
+			    (CC and) 
+			    (NP (CD two) (NNS engineers))))))) 
+	(VP (VBD were) (VP (VBN seized)))
+	(. .)))
+
+(TOP (S (PP (IN On) (DATE (DATE-NNP Monday))) 
+	(, ,) 
+	(NP (NP (CD 16) (NNS employees))
+	    (PP (IN of) 
+		(NP (NP (DT a) (NN trading) (NN company))
+		    (PP (IN in) (NP (NNP Mansour)))))) 
+	(VP (VBD were) 
+	    (VP (VBN kidnapped))) 
+	(. .)))
+
+(TOP (S (NP (RBR Earlier) (DT this) (NN month)) (, ,) (NP (QP (IN up) (TO to) (CD 50)) (NNS people)) (VP (VBD were) (VP (VBN seized) (PP (IN from) (NP (NP (DT the) (NNS offices)) (PP (IN of) (NP (NP (NNP Iraqi) (NN security) (NN firm)) (, ,) (NP (JJ al-) (NNP Rawafed)) (, ,))))) (PP (IN in) (NP (NP (DT the) (NNP Zayouna) (NN distract)) (PP (IN of) (NP (NNP Baghdad))) (PP (IN by) (NP (NP (NNS people)) (VP (VBG wearing) (NP (NN police) (NNS uniforms))))))))) (. .)))

@@ -1,0 +1,518 @@
+
+Chapter 26: EARLY EARTH AND THE ORIGIN OF LIFE
+
+INTRODUCTION TO THE HISTORY OF LIFE
+
+   Life on Earth originated between 3.5 and 4.0 billion years ago
+
+   Prokaryotes dominated evolutionary history from 3.5 to 2.0 billion years ago
+
+   Oxygen began accumulating in the atmosphere about 2.7 billion years ago
+
+   Eukaryotic life began by 2.1 billion years ago
+
+   Multicellular eukaryotes evolved by 1.2 billion years ago
+
+   Animal diversity exploded during the early Cambrian period
+
+   Plants, fungi, and animals colonized the land about 500 million years ago
+
+
+
+THE ORIGIN OF LIFE
+
+   The first cells may have originated by chemical evolution on a young Earth: an overview
+
+   Abiotic synthesis of organic monomers is a testable hypothesis
+
+   Laboratory simulations of early-Earth conditions have produced organic polymers
+
+   RNA may have been the first genetic material
+
+   Protobionts can form by self-assembly
+
+   Natural selection could refine protobionts containing hereditary information
+
+   Debate about the origin of life abounds
+
+
+
+THE MAJOR LINEAGES OF LIFE
+
+   The five-kingdom system reflected increased knowledge of life's diversity
+
+   Arranging the diversity of life into the highest taxa is a work in progress
+
+Life is a continuum extending from the earliest organisms through various phylogenetic branches to the great variety of forms alive today. In Unit Five, we will survey the diversity of life today and trace the evolution of this diversity over 3.8 billion years of history.
+
+One of this book's ten themes is the interaction between organisms and their environments (see Chapter 1). We will see examples throughout this unit in the connections between biological history and geologic history. Geologic events that alter environments change the course of biological evolution. The formation and subsequent breakup of the supercontinent Pangaea, for instance, had a tremendous impact on the diversity of life (see Chapter 25). Conversely, life has changed the planet it inhabits. For example, the evolution of photosynthetic organisms that release oxygen into the air had a dramatic impact on Earth's atmosphere. (This early photosynthetic life included prokaryotes similar to those in the dense mats that resemble stepping stones in the painting of early Earth on this page.) Much more recently, the emergence of Homo sapiens has changed the land, water, and air on a scale and at a rate unprecedented for a single species. The histories of Earth and its life are inseparable.
+
+These chapters also emphasize key junctures in evolution that have punctuated the history of biological diversity. Geologic history and biological history have been episodic, marked by what were in essence revolutions that opened many new ways of life.
+
+Historical study of any sort is an inexact discipline that depends on the preservation, reliability, and interpretation of past records. The fossil record of past life is generally less and less complete the farther into the past we delve. Fortunately, each organism alive today carries traces of its evolutionary history in its molecules, metabolism, and anatomy. As we saw in Unit Four, such traces are clues to the past that augment the fossil record. Still, the evolutionary episodes of greatest antiquity are generally the most obscure.
+
+This chapter begins with an overview of life's history. We then take a closer look at the origin of life. That discussion is the most speculative in the entire unit, for no fossil record of that seminal episode exists. The last section of the chapter introduces the main branches of life as a prelude to the survey of biological diversity in Chapters 27-34
+
+
+
+
+
+INTRODUCTION TO THE HISTORY OF LIFE
+
+ 
+
+ Life on Earth originated between 3.5 and 4.0 billion years ago
+
+
+
+ 
+
+ Prokaryotes dominated evolutionary history from 3.5 to 2.0 billion years ago
+
+
+
+ 
+
+ Oxygen began accumulating in the atmosphere about 2.7 billion years ago
+
+
+
+ 
+
+ Eukaryotic life began by 2.1 billion years ago
+
+
+
+ 
+
+ Multicellular eukaryotes evolved by 1.2 billion years ago
+
+
+
+ 
+
+ Animal diversity exploded during the early Cambrian period
+
+
+
+ 
+
+ Plants, fungi, and animals colonized the land about 500 million years ago
+
+
+
+This unit of chapters compresses the history of life into a few weeks' worth of reading--like playing the "tape" of life in veryfast forward! This overview is an even briefer look at life's major episodes. FIGURE 26.1 diagrams the chronology of these episodes in the form of a phylogenetic tree, and FIGURE 26.2, on page 512, presents the same chronology with a clock analogy.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-1. Some major episodes in the history of life. The timing of some events is based on fossil evidence. Other "dates" are based on chemical evidence or molecular clocks (see Chapter 25). Systematists continue to evaluate the evolutionary history of life's major branches, including the phylogeny of the diverse eukaryotes informally called "protists."
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-2. Clock analogy for some key events in evolutionary history. The clock ticks down from the origin of Earth to the present.
+
+
+
+
+
+THE ORIGIN OF LIFE
+
+ 
+
+ The first cells may have originated by chemical evolution on a young Earth:an overview
+
+
+
+ 
+
+ Abiotic synthesis of organic monomers is a testable hypothesis
+
+
+
+ 
+
+ Laboratory simulations of early-Earth conditions have produced organic polymers
+
+
+
+ 
+
+ RNA may have been the first genetic material
+
+
+
+ 
+
+ Protobionts can form by self-assembly
+
+
+
+ 
+
+ Natural selection could refine protobionts containing hereditary information
+
+
+
+ 
+
+ Debate about the origin of life abounds
+
+
+
+The question of how life began is more specifically about the genesis of prokaryotes. Sometime between about 4.0 billion years ago, when Earth's crust began to solidify, and 3.5 billion years ago, when the planet was inhabited by bacteria advanced enough to build stromatolites, the first organisms came into being. What was their origin? We will never know for sure, of course, how life on Earth began. But science seeks natural causes for natural phenomena, and that is the approach that must guide scientific inquiry about the origin of life
+
+
+
+
+
+THE MAJOR LINEAGES OF LIFE
+
+ 
+
+ The five-kingdom system reflected increased knowledge of life's diversity
+
+
+
+ 
+
+ Arranging the diversity of life into the highest taxa is a work in progress
+
+
+
+In Chapter 25, we looked at systematics as the study of biological diversity in an evolutionary context. Now that we have gone back in time to the very origin of life on Earth, systematics is once again relevant as we attempt to reconstruct evolutionary relationships among the immense diversity of forms that arose from those early organisms.
+
+
+
+
+
+ Life on Earth originated between 3.5 and 4.0 billion years ago
+
+Life began remarkably early in Earth's history, and those first organisms were ancestral to the great diversity of life we observe today. The organisms most familiar to us are macroscopic and multicellular -- mainly plants and animals. However, for the first three-quarters of evolutionary history, Earth's only organisms were microscopic and mostly unicellular.
+
+The planet Earth formed about 4.5 billion years ago. However, it is unlikely that life could have survived on Earth for the first few hundred million years, because the planet was bombarded by huge rock bodies left over from the formation of the solar system. The impacts were colossal; one of them may have dislodged a chunk of Earth that became the moon. During this period of bombardment, the pounding generated enough heat to vaporize all the available water and prevent seas from forming. Most geologists now agree that this bombardment phase ended about 3.9 billion years ago.
+
+The oldest known rocks on Earth's surface, located at a site called Isua, in Greenland, are 3.8 billion years old. Although there are some chemical clues in these rocks that life may have existed at the time, no one has yet found fossils of microorganisms in rocks so old. The oldest fossils of organisms that biologists have found so far are embedded in rocks from western Australia that are 3.5 billion years old. These microfossils resemble certain bacteria that still exist today (FIGURE 26.3). For bacteria so complex to have evolved by 3.5 billion years ago, it is a reasonable hypothesis that life originated much earlier, perhaps as early as 3.9 billion years ago, when Earth began to cool to a temperature at which liquid water could exist. We do know that prokaryotic life was already flourishing when Earth was still relatively young.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-3. Early and modern prokaryotes. Fossils in rocks older than about 500 million years escaped notice until about 40 years ago, partly because they are microscopic.
+
+
+
+
+
+ Prokaryotes dominated evolutionary history from 3.5 to 2.0 billion years ago
+
+One might guess from the relatively simple structure of the prokaryotic cell, compared with the eukaryotic cell, that the earliest organisms were prokaryotes. The fossil record supports that presumption. There is a rich fossil history of prokaryotic life, without solid evidence of eukaryotes, spanning 1.5 billion years, from about 3.5 to 2.0 billion years ago. Relatively early in that prokaryotic world, two main evolutionary branches, the bacteria and the archaea, diverged. Diverse species of these two main prokaryotic groups continue to thrive in various environments today.
+
+Many of the oldest fossils of prokaryotes are found in stromatolites, fossilized mats similar to layered microbial mats that certain groups of prokaryotes still form today in salt marshes and warm lagoons (FIGURE 26.4). Researchers have also discovered fossils of prokaryotes in Australian sediments that formed around hydrothermal vents about 3.2 billion years ago. Hydrothermal vents are hot volcanic outlets in the deep-sea floor. Prokaryotes that inhabit such vents today are very different in their metabolism from prokaryotes making up algal mats such as those in FIGURE 26.4b. We'll explore the metabolically diverse prokaryotes in detail in Chapter 27. For now, the important point is that considerable metabolic diversity among prokaryotes living in various environments had already evolved over 3 billion years ago.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-4. Bacterial mats and stromatolites.
+
+
+
+
+
+ Oxygen began accumulating in the atmosphere about 2.7 billion years ago
+
+Photosynthesis probably evolved very early in prokaryotic history, but in metabolic versions that did not split water and liberate oxygen (see Chapter 10). We'll see examples of such nonoxygenic photosynthesis among modern prokaryotes in Chapter 27. The only photosynthetic prokaryotes that generate O2 are called cyanobacteria. Plentiful and diverse today, they probably evolved over 2.7 billion years ago.
+
+Most atmospheric oxygen is of biological origin, from the water-splitting step of photosynthesis. When this oxygenic photosynthesis first evolved, the free O2 from the cyanobacteria probably dissolved in the surrounding water until the seas and lakes became saturated with the oxygen. Additional O2 would then react with dissolved iron and precipitate as iron oxide. These marine sediments were the source of banded iron formations, red layers of rock rich in the iron oxide that is a valuable source of iron ore today (FIGURE 26.5). Once all the dissolved iron had precipitated, additional O2 finally began to "gas out" of the seas and lakes to accumulate in the atmosphere. This change left its mark in the rusting of terrestrial rocks rich in iron that began oxidizing about 2.7 billion years ago. This chronology implies that cyanobacteria may have originated as early as 3.5 billion years ago, when the microbial mats that left stromatolites began forming.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-5. Banded iron formations are evidence of the vintage of oxygenic photosynthesis. These bands of iron oxide at Jasper Knob in Michigan are about 2 billion years old.
+
+The accumulation of atmospheric O2 was gradual from about 2.7 to 2.2 billion years ago, but then shot up relatively rapidly to more than 10%  of its present level. This oxygen revolution had an enormous impact on life. The "corrosive" O2, which attacks chemical bonds, doomed many prokaryotic groups. Some species survived in habitats that remained anaerobic, where we find their descendants still living today as obligate anaerobes (see p. 533). Among other survivors, a diversity of adaptations to the changing atmosphere evolved, including cellular respiration, which uses oxygen to help harvest energy stored in organic molecules.
+
+The early rise in atmospheric O2 was associated with the photosynthesis of early cyanobacteria. But what caused the accelerated rise in O2 a few hundred million years later? One hypothesis is that it followed the evolution of eukaryotic algae containing chloroplasts.
+
+
+
+
+
+ Eukaryotic life began by 2.1 billion years ago
+
+Eukaryotic cells are generally larger and much more complex than prokaryotic cells (see Chapter 7). In Chapter 28, we'll examine evidence that eukaryotic cells evolved from a symbiotic community of prokaryotes living within larger prokaryotic cells. The mitochondria of our cells and those of all other eukaryotes are descendants of some of those "endosymbionts" (symbiotic cells living within larger host cells). And so are the chloroplasts of plants and algae.
+
+The oldest putative fossils of eukaryotes are 2.2-billion-year-old corkscrew-shaped organisms that look like relatively simple single-celled algae. The oldest fossils that are large enough to be eukaryotic to the satisfaction of most researchers are only about 2.1 billion years old. However, some researchers postulate a much earlier eukaryotic origin based on certain chemical traces dating back 2.7 billion years. This range of vintages places the earliest eukaryotes during a time when the oxygen revolution was changing Earth's environments dramatically. Chloroplasts may be part of the explanation for this temporal correlation. And another eukaryotic organelle, the mitochondrion, turned the accumulating O2 to metabolic advantage through the process of cellular respiration.
+
+
+
+
+
+ Multicellular eukaryotes evolved by 1.2 billion years ago
+
+The origin of the more complex cells set the stage for a diversification of eukaryotic life. A great range of unicellular forms evolved, giving rise to a diversity of protists, and their single-celled descendants, that continue to flourish today. But multicellular forms also evolved. Their descendants include a variety of multicellular algae, plants, fungi, and animals. A multicellular organism, such as an animal, generally develops from a single cell--the fertilized egg, or zygote, in the case of sexual reproduction (see FIGURE 13.4). Cell division and cell differentiation help transform the single cell to a multicellular adult with many types of specialized cells.
+
+Molecular clocks date the common ancestor of multicellular eukaryotes back to 1.5 billion years ago. However, the oldest known fossils of multicellular eukaryotes are of relatively small algae that lived about 1.2 billion years ago (FIGURE 26.6). Larger organisms, including animals such as jellies ("jellyfishes") and worms, do not appear in the fossil record until several hundred million years later, in the late Precambrian era about 600 million years ago (see FIGURE 26.1). Chinese paleontologists recently described a particularly rich fossil site 570 million years old containing a diversity of algae and animals, including some beautifully preserved embryos (FIGURE 26.7).
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-6. Fossilized alga about 1.2 billion years old. Such fossils are the earliest evidence of organisms with more than one type of cell. At one end of this filamentous eukaryote is the bi-lobed "holdfast," which probably anchored the alga to its substratum. This fossil is among numerous such specimens collected on Somerset Island in arctic Canada.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-7. Fossilized animal embryos from Chinese sediments 570 million years old.
+
+Geologists have recently reported evidence of a severe ice age enduring from 750 to 570 million years ago that may help to explain why multicellular eukaryotes were relatively limited in diversity and distribution until the very late Precambrian. This snowball Earth hypothesis is based partly on geologic clues that glaciers covered the planet's landmasses from pole to pole. The seas also would have been iced over. Thus, most life would have been confined to areas near deep-sea vents and hot springs or to those sparse locales where enough ice melted for sunlight to penetrate the surface waters of the seas. According to this hypothesis, the fossil record for the first major diversification of multicellular eukaryotes corresponds in time to the thawing of snowball Earth. A second radiation of eukaryotic forms produced most of the major groups of animals during the early Cambrian period, the first period of the Paleozoic era.
+
+
+
+
+
+ Animal diversity exploded during the early Cambrian period
+
+Although the history of animal life dates back to the late Precambrian era, a much greater diversity of animals evolved just after the dawn of the Paleozoic era 543 million years ago. Cnidarians (the phylum that includes jellies) and poriferans (sponges) were already present in the late Precambrian. However, most of the major groups (phyla) of animals make their first fossil appearances during the relatively short span of the Cambrian period's first 20 million years (FIGURE 26.8). In Chapter 32, we'll evaluate a few hypothetical explanations for the so-called Cambrian explosion.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-8. The Cambrian radiation of animals. The bars in this diagram extend back to the earliest appearances of a small sample of animal groups in the fossil record. You'll learn more about the Cambrian explosion and the major animal phyla in Chapters 32-34.
+
+
+
+
+
+ Plants, fungi, and animals colonized the land about 500 million years ago
+
+The colonization of land was one of the pivotal milestones in the history of life. There is fossil evidence that cyanobacteria and other photosynthetic prokaryotes coated damp terrestrial surfaces well over a billion years ago. However, macroscopic life in the form of plants, fungi, and animals did not colonize land until about 500 million years ago, during the early Paleozoic era. This gradual evolutionary venture out of ancestral aquatic environments was associated with adaptations that helped prevent dehydration and that made it possible to reproduce on land. For example, plants, which evolved from green algae, have a waterproof coating of wax on their leaves that slows the loss of water.
+
+Plants colonized land in the company of fungi. Even today, the roots of most plants are associated with fungi that aid in the absorption of water and minerals from the soil. The fungi, in turn, obtain their organic nutrients from the plant. Such symbiotic associations of plants and fungi are evident in some of the oldest fossilized roots, dating this relationship back to the early spread of life onto land. You will learn more about the evolution of plants and fungi in Chapters 29-31.
+
+Plants transformed the landscape, creating new opportunities for all life, including herbivorous (plant-eating) animals and their predators. Although many animal groups are represented in terrestrial environments, the most widespread and diverse land animals are certain arthropods (in the form of insects and spiders) and certain vertebrates (in the form of amphibians such as frogs and salamanders, reptiles such as lizards and snakes, birds, and mammals). The terrestrial vertebrates are called tetrapods, a reference to the four walking limbs that distinguish them from the various aquatic vertebrates we call fishes. An excellent fossil record documents the descent of amphibians from fishes. Reptiles evolved from amphibians, and both birds and mammals evolved from reptiles. Most of the groups (orders) of modern mammals were established by about 50-60 million years ago, including the primates, the order that includes apes and humans. The human lineage diverged from other primates only about 5 million years ago--the most recent second in a clock of life's history rescaled to represent an hour. But our history, like that of every other species in the rich diversity of life, actually begins with the first organisms to live on the primordial Earth over 3.5 billion years ago.
+
+
+
+
+
+ The first cells may have originated by chemical evolution on a young Earth:an overview
+
+Most biologists favor the hypothesis that life on Earth developed from nonliving materials that became ordered into molecular aggregates that were eventually capable of self-replication and metabolism.
+
+Resolving the Biogenesis Paradox
+
+From the time of the ancient Greeks until well into the 19th century, it was common "knowledge" that life could arise from nonliving matter. This idea of life emerging from inanimate material is called spontaneous generation. Experiments with flies and other organisms in the late Renaissance period convinced scientists to reject the notion of spontaneous generation for macroscopic life. However, the idea persisted well into the 19th century as an explanation for the rapid growth of microorganisms in spoiled foods. Then, in 1862, Louis Pasteur's famous experiments with broth completed the overturn of spontaneous generation, even for microorganisms (FIGURE 26.9). As far as we know, all life today arises only by the reproduction of preexisting life. This "life-from-life" principle is called biogenesis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-9. Pasteur and biogenesis of microorganisms. In the early 1860s, Louis Pasteur (inset) conducted a series of experiments to test whether microorganisms emerge by spontaneous generation or by reproduction of existing microorganisms (biogenesis). His research contributed to the germ theory of disease, which connected infections to the spread of microorganisms and led to improvements in hospital hygiene and public sanitation. The legacy of these famous experiments is also manifest in the term pasteurization. Pasteurized milk, for example, has been heated to destroy potentially harmful microorganisms and then sealed to maintain the sterility.
+
+But what about the first organisms? If they arose by biogenesis, then they couldn't have been the first organisms. Although there is no evidence that spontaneous generation occurs today, conditions on the early Earth were very different. For instance, there was relatively little atmospheric oxygen to tear apart complex molecules. And such energy sources as lightning, volcanic activity, and ultraviolet sunlight were all more intense than what we experience today. The resolution to the biogenesis paradox is that life did not begin on a planet anything like the modern Earth, but on a young Earth that was a very different world.
+
+A Four-Stage Hypothesis for the Origin of Life
+
+Most biologists now think that it is at least a credible hypothesis that chemical and physical processes in Earth's primordial environment eventually produced very simple cells through a sequence of stages. There is much debate about the nature of those stages.
+
+According to one hypothetical scenario, the first organisms were products of chemical evolution in four stages: (1) the abiotic (nonliving) synthesis of small organic molecules, such as amino acids and nucleotides; (2) the joining of these small molecules (monomers) into polymers, including proteins and nucleic acids; (3) the origin of self-replicating molecules that eventually made inheritance possible; and (4) the packaging of all these molecules into "protobionts," droplets with membranes that maintained an internal chemistry different from the surroundings. This is all speculative, of course, but what makes it science is that the hypothesis leads to predictions that can be tested in the laboratory. Let's take a closer look at some of the evidence for each of these four stages.
+
+
+
+
+
+ Abiotic synthesis of organic monomers is a testable hypothesis
+
+In the 1920s, A. I. Oparin, of Russia, and J. B. S. Haldane, of Great Britain, independently postulated that conditions on the primitive Earth favored chemical reactions that synthesized organic compounds from inorganic precursors present in the early atmosphere and seas. This cannot happen in the modern world, Oparin and Haldane reasoned, because the present atmosphere is rich in oxygen produced by photosynthetic life. The oxidizing atmosphere of today is not conducive to the spontaneous synthesis of complex molecules because the oxygen attacks chemical bonds, extracting electrons. Before oxygen-producing photosynthesis, Earth had a much less oxidizing atmosphere, derived mainly from volcanic vapors. Such a reducing (electron-adding) atmosphere would have enhanced the joining of simple molecules to form more complex ones. Even with a reducing atmosphere, making organic molecules would require considerable energy, which was probably provided by lightning and the intense UV radiation that penetrated the primitive atmosphere. The modern atmosphere has a layer of ozone produced from oxygen, and this ozone shield screens out most UV radiation. There is also evidence that young suns emit more UV radiation than older suns. Oparin and Haldane envisioned an ancient world with the chemical conditions and energy resources needed for the abiotic synthesis of organic molecules.
+
+In 1953, Stanley Miller and Harold Urey tested the Oparin-Haldane hypothesis by creating, in the laboratory, conditions comparable to those that scientists had postulated for the early Earth. Their apparatus produced a variety of amino acids and other organic compounds found in living organisms today (FIGURE 26.10; also see FIGURE 4.1).
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-10. The Miller-Urey experiment. A warmed flask of water simulated the primeval sea. The "atmosphere" consisted of H2O, H2, CH4, and NH3. Sparks were discharged in the synthetic atmosphere to mimic lightning. A condenser cooled the atmosphere, raining water and any dissolved compounds back to the miniature sea. As material circulated through the apparatus, the solution in the flask changed from clear to murky brown. After one week, Miller and Urey analyzed the contents of the solution and found a variety of organic compounds, including some of the amino acids that make up the proteins of organisms.
+
+The atmosphere in the Miller-Urey model was made up of H2O, H2, CH4 (methane), and NH3 (ammonia), the gases that researchers in the 1950s believed prevailed in the ancient world. This atmosphere was probably more strongly reducing than the actual atmosphere of early Earth. Modern volcanoes emit CO, CO2, N2, and water vapor, and it is likely that these gases were abundant in the ancient atmosphere. Hydrogen gas was probably not a major component, and traces of O2 may even have been present, formed from reactions among other gases as they baked under the powerful UV radiation. Many laboratories have repeated the Miller experiment using a variety of recipes for the atmosphere. Abiotic synthesis of organic compounds occurred in these modified models, although yields were generally smaller than in the original experiment.
+
+The Miller-Urey experiments still stimulate debate on the origin of Earth's early stockpile of organic ingredients. Today, one line of research focuses on where chemicals needed for organic syntheses came from and where the reactions most likely occurred. Some scientists now doubt that the early atmosphere played a significant role in early chemical reactions. Instead, submerged volcanoes and deep-sea vents--gaps in Earth's crust where hot water and minerals gush into deep oceans--may have provided the essential resources. Evidence is also building that life could have begun in a much simpler chemical environment than formerly thought. For instance, the first cells may have used inorganic sulfur and iron compounds as energy sources to make their own ATP instead of taking it up from their surroundings.
+
+It is also plausible that some organic compounds reached Earth from space. In 2000, Indian scientists reported computer models showing how molecules such as adenine, an ingredient of DNA, could form by reactions of cyanide in the clouds of gas between stars. These simulations would explain why some meteorites that have crashed to Earth contain organic molecules. But whether the primordial Earth was stocked with organic monomers made here or elsewhere, the key point is that the molecular ingredients of life were probably present very early.
+
+
+
+
+
+ Laboratory simulations of early-Earth conditions have produced organic polymers
+
+The hypothesis of an abiotic origin of life makes another prediction that can be tested in the laboratory. If the hypothesis is correct, then it should be possible to link organic monomers to form polymers such as proteins and nucleic acids without the help of enzymes and other cellular equipment. Researchers have observed such polymerization after dripping solutions of organic monomers onto hot sand, clay, or rock. The heat vaporizes the water in the solutions and concentrates the monomers on the underlying substance. Some of the monomers then spontaneously bond together to form polymers, including polypeptides, the chains of amino acids that make up proteins. On the early Earth, raindrops or waves may have splashed dilute solutions of organic monomers onto fresh lava or other hot rocks and then rinsed polypeptides and other polymers back into the sea. Alternatively, deep-sea vents, where gases and superheated water with dissolved minerals escape from Earth's interior, may have been locales for the abiotic synthesis of both organic monomers and polymers.
+
+
+
+
+
+ RNA may have been the first genetic material
+
+Life is defined partly by the process of inheritance, which is based on self-replicating molecules. Today's cells store their genetic information as DNA. They transcribe the information into RNA and then translate RNA messages into specific enzymes and other proteins (see Chapter 17). This mechanism of information flow probably emerged gradually through a series of refinements to much simpler processes. In fact, many researchers now favor the hypothesis that the first hereditary material was not DNA, but RNA, which may also have functioned as the first enzymes. (This helps resolve the "chicken and egg" paradox of which came first, genes or enzymes.) According to this hypothesis, the molecular biology of today was preceded by an "RNA world."
+
+Molecular Replication in an RNA World
+
+Several scientists have tested the hypothesis of RNA self-replication. Short polymers of ribonucleotides have been produced abiotically in laboratory experiments. If such RNA is added to a solution containing monomers for making more RNA, sequences about five to ten nucleotides long are copied from the template according to the base-pairing rules (FIGURE 26.11). If zinc is added as a catalyst, sequences up to 40 nucleotides long are copied with less than 1%  error.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-11. Abiotic replication of RNA.
+
+In the 1980s, Thomas Cech revolutionized thinking about the evolution of life when he discovered that RNA molecules are important catalysts in modern cells. This finding disproved the long-held view that only proteins (enzymes) serve as biological catalysts. Cech and other researchers found that modern cells use RNA catalysts, called ribozymes, to remove introns from RNA (see Chapter 17). Ribozymes also help catalyze the synthesis of new RNA, notably rRNA, tRNA, and mRNA. Thus, RNA is autocatalytic, and in the prebiotic world, before there were enzymes (proteins) or DNA, RNA molecules may have been fully capable of ribozyme-catalyzed replication.
+
+Natural Selection in an RNA World
+
+Natural selection on the molecular level has been observed operating on RNA populations in the laboratory. Unlike double-stranded DNA, which takes the form of a uniform helix, single-stranded RNA molecules assume a variety of specific three-dimensional shapes mandated by their nucleotide sequences. The molecule thus has both a genotype (its nucleotide sequence) and a phenotype (its conformation, which interacts with surrounding molecules in specific ways). In a particular environment, RNA molecules of certain base sequences are more stable and replicate faster and with fewer errors than other sequences. Beginning with a diversity of RNA molecules that must compete for monomers to replicate, the sequence best suited to the temperature, salt concentration, and other features of the surrounding solution and having the greatest autocatalytic activity will prevail. Its descendants will not be a single RNA species but will be a family of closely related sequences because of copying errors. Selection screens mutations in the original sequence, and occasionally a copying error results in a molecule that folds into a shape that is even more stable or more adept at self-replication than the ancestral sequence. Similar selection events may have occurred in the prebiotic RNA world.
+
+The rudiments of RNA-directed protein synthesis may have been the weak binding of specific amino acids to bases along RNA molecules, which functioned as simple templates holding a few amino acids together long enough for them to be linked. (Indeed, this is one function of rRNA in modern ribosomes.) If RNA happened to synthesize a short polypeptide that in turn behaved as an enzyme helping the RNA molecule to replicate, then the early chemical dynamics included molecular cooperation as well as competition. These first steps toward the replication and translation of genetic information may have been taken by molecular evolution even before RNA and polypeptides became packaged within membranes.
+
+
+
+
+
+ Protobionts can form by self-assembly
+
+The properties of life emerge from an interaction of molecules organized into higher levels of order. Living cells may have been preceded by protobionts, aggregates of abiotically produced molecules. Protobionts are not capable of precise reproduction, but they maintain an internal chemical environment different from their surroundings and exhibit some of the properties associated with life, including metabolism and excitability.
+
+Laboratory experiments demonstrate that protobionts could have formed spontaneously from abiotically produced organic compounds. For example, droplets called liposomes form when the organic ingredients include certain lipids. These lipids organize into a molecular bilayer at the surface of the droplet, much like the lipid bilayer of cell membranes. Because the membrane is selectively permeable, the liposomes undergo osmotic swelling or shrinking when placed in solutions of different salt concentrations. Some of these protobionts also store energy in the form of a membrane potential, a voltage across the surface. The protobionts can discharge the voltage in nervelike fashion; such excitability is characteristic of all life (which is not to say that liposomes are alive, but only that they display some of the properties of life). Liposomes behave dynamically, sometimes growing by engulfing smaller liposomes and then splitting, other times "giving birth" to smaller liposomes (FIGURE 26.12a). If enzymes are included among the ingredients, they are incorporated into the droplets. The protobionts are then able to absorb substrates from their surroundings and release the products of the reactions catalyzed by the enzymes (FIGURE 26.12b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-12. Laboratory versions of protobionts.
+
+Unlike some laboratory models, protobionts that formed in the ancient seas would not have possessed refined enzymes, which are made in cells according to inherited instructions. Some molecules produced abiotically, however, do have weak catalytic capacities, and there could well have been protobionts that had a rudimentary metabolism that allowed them to modify substances they took in across their membranes.
+
+
+
+
+
+ Natural selection could refine protobionts containing hereditary information
+
+The packaging of primitive RNA genes and their polypeptide products within a membrane would have been a significant milestone in the early history of life. Once this occurred, protobionts could have evolved as units, and molecular cooperation could be refined because components that interacted in ways favorable to the success of the protobiont as a whole were concentrated together in a microscopic volume rather than being spread throughout the surroundings (FIGURE 26.13). Suppose, for example, that an RNA molecule ordered amino acids into a primitive enzyme that extracted energy from inorganic sulfur compounds taken up from the surroundings. This energy could be used for other reactions within the protobiont, including replication of RNA. Natural selection could favor such a gene only if its product were kept close by, rather than being shared with competing RNA sequences in its environment. The most successful protobionts would grow and split, distributing copies of their genes to offspring. Even if only one such protobiont arose initially by the abiotic processes that have been described, its descendants would vary because of mutations, errors in the copying of RNA.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-13. Hypotheses for the beginnings of molecular cooperation.
+
+Evolution in the true Darwinian sense--differential reproductive success of varied individuals--presumably accumulated many refinements to primitive metabolism and inheritance. One trend apparently led to DNA becoming the hereditary material. Initially, RNA could have provided the template on which DNA nucleotides were assembled. But DNA is a much more stable repository for genetic information than RNA, and once DNA appeared, RNA molecules would have begun to take on their modern roles as intermediates in the translation of genetic programs. The "RNA world" gave way to a "DNA world."
+
+
+
+
+
+ Debate about the origin of life abounds
+
+Laboratory simulations cannot prove that the kind of chemical evolution that has been described here actually created life on the primitive Earth, but only that some of the key steps could have happened. The origin of life remains a matter of speculation, and there are alternative views of how several key processes occurred.
+
+Some researchers question whether abiotic synthesis of organic monomers on Earth was necessary as a first step in the origin of life. As we discussed earlier, it is possible that at least some organic compounds reached the early Earth from space on meteorites and comets.
+
+Where life began is another issue. Until recently, most researchers favored shallow water or moist sediments as the most likely sites for life's origin. Some scientists now question this view, arguing that Earth's surface was very inhospitable during the period when life probably began. Perhaps life began on the less exposed seafloor. The discovery of deep-sea vents in the late 1970s raised the possibility that earlier vents supplied the energy and chemical precursors for the origin of protobionts (FIGURE 26.14). Molecular phylogenetic analyses indicate that the ancestors of modern prokaryotes thrived in very hot conditions and may have lived on inorganic sulfur compounds that are common in deep-sea vent environments. Laboratory studies by G&uuml;nter Wachtershuser and colleagues also point to the environments of deep-sea vents and volcanoes as abiotic sources of some of the organic compounds, such as acetyl coenzyme A, that cells use in energy metabolism (see FIGURE 9.11). Sulfides of iron and nickel, common in volcanic and deep-sea vent areas, catalyze the formation of acetic acid and precursors of acetyl coenzyme from CO and H2S. Wachtershuser considers it likely that life arose in an environment where these reactions were common and then adopted them as the earliest form of metabolism.
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-14. A window to early life? In this porthole view from the deep-sea research submarine Alvin, you can see a water-testing wand mounted to a robotic arm. This 2000 expedition to the Sea of Cort&eacute;s sampled the environments around deep-sea hydrothermal vents at depths of greater than a mile. The column of hot effluent seen rising from this vent included hydrogen sulfide and iron sulfide, which react to produce pyrite (fool's gold) and H2 gas. Prokaryotes that live around the vents use the H2 as an energy source. Although we may consider such environments extreme by modern-Earth criteria, many researchers favor the hypothesis that life began in such places.
+
+On a broader scale, the hypothesis that life is not restricted to Earth is becoming more accessible to scientific testing. Photographs taken by the Galileo spacecraft of the ice-covered surface of Europa, one of Jupiter's moons, have led to hypotheses that liquid water lies beneath the surface and may support prokaryotic life. The surface of Mars is a cold, dry, lifeless desert, but billions of years ago it was probably relatively warm and may have held liquid water and had a CO2-rich atmosphere. It is possible that prebiotic chemistry, similar to that on early Earth, also occurred on Mars before the planet became less hospitable. Scientists anticipate that exploration in the next decade will provide clues about whether microbial life on Mars once existed. Did life evolve there and then die out, or was prebiotic chemistry snuffed out by planetary changes before any life forms developed? Many scientists also see Mars as an ideal place to test hypotheses about Earth's prebiotic chemistry.
+
+Debate about the origin of terrestrial and extraterrestrial life abounds, and we have sampled only a few of the issues. Whatever took place in the prebiotic world, the leap from an aggregate of molecules that reproduces to even the simplest prokaryotic cell is immense, and change must have occurred in many smaller evolutionary steps. The point at which we stop calling membrane-enclosed compartments that metabolize and replicate their genetic programs protobionts and begin calling them living cells is as fuzzy as our definitions of life. We do know that prokaryotes were already flourishing at least 3.5 billion years ago and that all the lineages of life arose from those ancient prokaryotes.
+
+
+
+
+
+ The five-kingdom system reflected increased knowledge of life's diversity
+
+Systematists have traditionally considered the kingdom to be the highest--the most inclusive--taxonomic category. Many of us grew up with the notion that there are only two kingdoms of life--plants and animals--because we live in a macroscopic, terrestrial realm where we rarely see organisms that do not fit neatly into a plant-animal dichotomy. The two-kingdom scheme also had a long tradition in formal taxonomy; Linnaeus divided all known forms of life between the plant and animal kingdoms.
+
+Even with the discovery of the diverse microbial world, the two-kingdom system persisted. Bacteria were placed in the plant kingdom, their rigid cell walls cited as justification. Eukaryotic unicellular organisms with chloroplasts were also considered plants. Fungi, too, fell under the plant banner, partly because they are sedentary, even though no fungi are photosynthetic and they have little in common structurally with green plants. In the two-kingdom system, unicellular creatures that move and ingest food--protozoa--were called animals. Microbes such as Euglena that move but are photosynthetic were claimed by both botanists and zoologists and showed up in the taxonomies of plant and animal kingdoms alike. Schemes with additional kingdoms were proposed, but none became popular with the majority of biologists until Robert H. Whittaker, of Cornell University, argued effectively for a five-kingdom system in 1969. Whittaker designated these five kingdoms as Monera, Protista, Plantae, Fungi, and Animalia (FIGURE 26.15).
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-15. Whittaker's five-kingdom system.
+
+The five-kingdom system recognized the two fundamentally different types of cells, prokaryotic and eukaryotic, and set the prokaryotes apart from all eukaryotes by placing them in their own kingdom, Monera.
+
+Whittaker distinguished three kingdoms of multicellular eukaryotes--Plantae, Fungi, and Animalia--partly on the criterion of nutrition. Plants are autotrophic in nutritional mode, making their food by photosynthesis. Fungi are heterotrophic organisms that are absorptive in nutritional mode. Most fungi are decomposers that live embedded in their food source, secreting digestive enzymes and absorbing the small organic molecules that are the products of digestion. Most animals live by ingesting food and digesting it within specialized cavities.
+
+We are left with the kingdom Protista. In Whittaker's five-kingdom system, Protista consisted of all eukaryotes that did not fit the definition of plants, fungi, or animals. Most protists are unicellular forms. However, the boundaries of Whittaker's kingdom Protista were expanded to include some multicellular organisms, such as seaweeds, because of their relationships to certain unicellular protists. With such refinements, the five-kingdom system prevailed in biology for over 20 years.
+
+
+
+
+
+ Arranging the diversity of life into the highest taxa is a work in progress
+
+Like any classification scheme, the five-kingdom system is not a natural fact but a human construct. It is one attempt to order the diversity of life into a scheme that is useful and, hopefully, phylogenetically reasonable. During the past three decades, systematists applying cladistic analysis, including the construction of cladograms based on molecular data (see Chapter 25), have been pointing out problems with the traditional five-kingdom scheme.
+
+One challenge to the five-kingdom system is the evidence that there are two distinct lineages of prokaryotes. These new data led to a three-domain system (FIGURE 26.16a and b). The three domains, Bacteria, Archaea, and Eukarya, are essentially superkingdoms, a taxonomic level even higher than the kingdom level. Note that the three-domain system makes the kingdom Monera obsolete, since it would have members in two different domains. In fact, many microbiologists now divide each of the two prokaryotic domains into multiple kingdoms based on cladistic analysis of molecular data (see FIGURE 26.16c).
+
+
+
+Click image to enlarge
+
+
+
+Fig 26-16. Our changing view of biological diversity.
+
+The second major challenge to the five-kingdom system is being mounted by systematists who are sorting out the phylogeny of the diverse eukaryotes formerly collected in the kingdom Protista. Molecular systematics and cladistics have revealed that Protista is not a monophyletic grouping (see Chapter 25 to review cladistics). The specialists who study these organisms now split most of them into five or more newly designated kingdoms, but have also assigned certain groups that used to be included in Protista to Plantae, Fungi, and Animalia (see FIGURE 26.16c).
+
+Clearly, taxonomy at the highest levels is a work in progress. It may seem ironic that systematists are generally more confident in their groupings of species into lower taxa such as genera and families than they are about the evolutionary relationships among the major groups of organisms. But this makes sense when you consider our own family genealogies. It's easier to sort out our relationships to siblings and cousins than it is to identify more distant relatives, such as third or fourth cousins, by tracing our genealogies back to ancestors who lived long ago. Similarly, tracing phylogeny at the kingdom level takes us back to the evolutionary branching that occurred in Precambrian seas a billion or more years ago.
+
+There will be much more research before there is anything close to a new consensus for how the three domains of life are related and how many kingdoms in each domain of life are required to have a classification that reflects evolutionary history. And even then, new data will undoubtedly lead to further taxonomic remodeling. As we survey the diversity of life in the chapters that follow, keep in mind that phylogenetic trees and taxonomic groupings are hypotheses that fit the best available data. It is this continuing scrutiny of testable hypotheses that validates evolutionary biology as a natural science.
+
+
+
+

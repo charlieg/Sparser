@@ -1,0 +1,26 @@
+
+ Structure, nutrition, and life history define animals
+
+Constructing a good definition of an animal is not as easy as it might first appear. There are exceptions to nearly every criterion for distinguishing an animal from other life forms. However, when taken together, the following characteristics of animals will serve our purposes.
+
+Animals are multicellular, heterotrophic eukaryotes. In contrast to the autotrophic nutrition of plants and algae, animals must take into their bodies preformed organic molecules; they cannot construct them from inorganic chemicals. Most animals do this by ingestion--eating other organisms or organic material that is decomposing.
+
+Animal cells lack the cell walls that provide strong support in the bodies of plants and fungi. The multicellular bodies of animals are held together by structural proteins, the most abundant being collagen (see FIGURES 7.29 and 40.2). In addition to collagen, which is found mainly in extracellular matrices, animal tissues have unique types of intercellular junctions--tight junctions, desmosomes, and gap junctions--that are composed of other structural proteins (see FIGURE 7.30).
+
+Also unique among animals are two types of tissues responsible for impulse conduction and movement: nervous tissue and muscle tissue.
+
+A few key features of life history also distinguish animals. Most animals reproduce sexually, with the diploid stage usually dominating the life cycle. In most species, a small flagellated sperm fertilizes a larger, nonmotile egg to form a diploid zygote. The zygote then undergoes cleavage, a succession of mitotic cell divisions. During the development of most animals, cleavage leads to the formation of a multicellular stage called a blastula, which in many animals takes the form of a hollow ball. Following the blastula stage is the process of gastrulation, during which layers of embryonic tissues that will develop into adult body parts are produced. The resulting developmental stage is called a gastrula (FIGURE 32.1). Some animals develop directly through transient stages of maturation into adults, but the life cycles of many animals include larval stages. The larva is a sexually immature form. It is morphologically distinct from the adult stage, usually eats different food, and may even have a different habitat than the adult, as in the case of a frog tadpole. Animal larvae eventually undergo metamorphosis, a resurgence of development that transforms the animal into an adult.
+
+
+
+Click image to enlarge
+
+
+
+Fig 32-1. Early embryonic development.
+
+The transformation of a zygote to an animal of specific form depends on the controlled expression in the developing embryo of special regulatory genes called Hox genes. All eukaryotes have genes that regulate the expression of other genes. And many of these regulatory genes contain common "modules" of DNA sequences called homeoboxes. But among eukaryotes outside the animal kingdom, homeoboxes are not found in homeotic genes, those regulatory genes that function in the development of body form. (You can review homeoboxes, homeotic genes, and pattern formation in Chapter 21.) So far, genes that are both homeobox-containing in structure and homeotic in function--Hox genes--have been discovered only in animals. And all animals, from the simplest sponges to the most complex insects and vertebrates, have Hox genes containing homeoboxes of DNA sequences that are clearly related (see FIGURE 21.15). In general, the number of Hox genes is correlated with the complexity of the animal's anatomy. More specifically, variation in when and where the various Hox genes are expressed in a developing embryo provides the genetic basis for the great diversity of animal forms that have evolved from a common ancestor.
+
+
+
+

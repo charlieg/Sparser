@@ -1,0 +1,22 @@
+
+ Oncogene proteins and faulty tumor-suppressor proteins interfere with normal signaling pathways
+
+Let's take a closer look at what the protein products of cancer genes do--or fail to do--in the cell. We will focus on the products of two key genes, the ras proto-oncogene and the p53 tumor-suppressor gene. Mutations in these genes are very common in human cancers: ras is mutated in about 30%  of human cancers; for p53, the frequency is close to 50% .
+
+Both the Ras protein and the p53 protein are components of signal-transduction pathways that convey external signals to the DNA in the cell's nucleus. You saw a generalized version of such a pathway in FIGURE 11.17. Now, in FIGURE 19.14a you can see that Ras, the product of the ras gene, is a G protein that relays a growth signal from a growth factor receptor on the plasma membrane to a cascade of protein kinases. The cellular response at the end of the pathway is the synthesis of a protein that stimulates the cell cycle. Normally, such a pathway will not operate unless triggered by the appropriate growth factor. However, an oncogene protein that is a hyperactive version of a protein in the pathway can increase cell division even in the absence of growth factor. Many ras oncogenes have a point mutation that leads to a hyperactive version of the Ras protein, one that issues signals on its own. In fact, hyperactive versions or excess amounts of any of the pathway's components can have the same outcome: excessive cell division.
+
+
+
+Click image to enlarge
+
+
+
+Fig 19-14. Signaling pathways that regulate cell growth. Both stimulatory and inhibitory pathways regulate the cell cycle, commonly by influencing transcription. Cancer can result from aberrations in such pathways.
+
+FIGURE 19.14b shows a comparable growth-inhibiting pathway, in which a growth-inhibiting signal leads to the synthesis of a protein that suppresses the cell cycle. Thus, the genes for the components of the pathway act as tumor-suppressor genes (as do genes whose products interfere with the growth-stimulating pathway). The tumor-suppressor protein encoded by the wild-type p53 gene is a transcription factor that promotes the synthesis of growth-inhibiting proteins. That is why a mutation knocking out the p53 gene can lead to excessive cell growth and cancer.
+
+The modestly titled p53 gene, named for the 53,000-dalton molecular weight of its protein product, is often called the "guardian angel of the genome." Damage to the cell's DNA acts as a signal that leads to the expression of the p53 gene. Once made, the p53 protein functions as a transcription factor for several genes. Often it activates a gene called p21, whose product halts the cell cycle by binding to cyclin-dependent kinases, allowing time for the cell to repair the DNA; the protein p53 can also turn on genes directly involved in DNA repair. When DNA damage is irreparable, p53 activates "suicide" genes, whose protein products cause cell death by a process called apoptosis (see FIGURE 21.18). Thus, in at least three ways, p53 prevents a cell from passing on mutations due to DNA damage. If mutations do accumulate and the cell survives through many divisions--as is more likely if the p53 tumor-suppressor gene is defective or missing--cancer may ensue.
+
+
+
+

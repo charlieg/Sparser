@@ -1,0 +1,26 @@
+FORT IRWIN , Calif .
+-LRB- AP -RRB- -- Enormous bowl-shaped antennas point into the desert sky nonstop every day , beaming commands or collecting data and images from unmanned spacecraft millions of miles from Earth .
+Pictures from Mars .
+Directions to Saturn .
+An analysis of Jupiter 's clouds .
+NASA 's Deep Space Network , this planet 's link to two dozen probes scattered throughout the solar system and beyond , is busier than ever .
+Perhaps too busy .
+`` When we look at the overall capacity of the network , we invariably have about 20 to 50 percent more requirements than we have the capacity , '' said Gene Burke , who oversees network scheduling at NASA 's Jet Propulsion Laboratory .
+Today 's crunch is expected to be dwarfed by future demands as the space agency plans to launch 27 more missions by 2008 .
+In an era of tight dollars , researchers are looking for ways to expand the overbooked system without losing a pricey probe or busting the budget with more $ 35 million antennas .
+`` We 're trying to do it less expensively yet return even more exciting results , '' said Marc Rayman , deputy mission manager of the Deep Space 1 spacecraft .
+The network stations , spread around the Earth so spacecraft can be tracked continuously , can detect signals at the edge of the solar system from a transmitter no more powerful than a light bulb .
+One way to ease pressure on the network is to make spacecraft more self-sufficient .
+The Voyager probes launched in 1977 required daily contact with ground controllers .
+Cassini , which is now on its way to Saturn , normally needs only weekly contact .
+The Deep Space 1 probe , launched in October , tested automatic navigation and artificial intelligence software .
+Both technologies could make future spacecraft less reliant on orders from Earth .
+Researchers also are exploring ways to expand the network 's capacity by packing more information into the signals .
+Deep Space 1 included a radio that can transmit at a higher frequency than most of today 's probes .
+The frequency , called Ka band , is expected to speed up communications by four fold over current transmitters .
+Much of the research into expanding the network 's capacity with Ka band is taking place at the Goldstone tracking station in California 's Mojave Desert , where the antennas stand like massive exotic desert flowers .
+The remote location shields the station from Earth -based radio interference , but the desert heat and wind also make it more difficult to point the antennas , which range from 36 feet to 230 feet in diameter .
+Goldstone researchers are developing a system that would automatically adjust the antennas depending on wind speeds and temperatures .
+Even with a capacity crunch , NASA has yet to lose a mission because of problems with the network , Burke said .
+`` All that massive amount of steel just has to move to an intricate level of detail when you talk about a spacecraft being out there , '' he said .
+`` It 's a really immense task . ''

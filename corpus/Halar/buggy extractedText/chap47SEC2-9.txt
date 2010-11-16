@@ -1,0 +1,18 @@
+
+ Fate mapping can reveal cell genealogies in chordate embryos
+
+You may recall that in the case of the nematode Caenorhabditis elegans, it has been possible to map the developmental history of every cell, beginning with the first cleavage division of the zygote (see FIGURE 21.4). This sort of complete cell lineage has not been determined for other animals, but biologists have been making more general territorial diagrams of embryonic development, called fate maps, for over 70 years. Classic studies performed in the 1920s by German embryologist W. Vogt established that in embryos whose axes are defined early in development, it is often possible to ascertain which parts of the embryo will be derived from each region of the zygote or blastula. Following the lead of earlier work on marine worms and mollusks, Vogt charted fate maps for amphibian embryos (FIGURE 47.20a). Using nontoxic dyes, he labeled cells of different regions of the surface of amphibian blastulas with different colors and later sectioned the embryos to see where the colors turned up. Vogt's results were among the earliest indications that the lineage (the "genealogy") of cells making up the three germ layers created by gastrulation is traceable to cells in the blastula (compare FIGURES 47.20a and FIGURES 47.10). Later researchers developed more sophisticated techniques that allowed them to mark an individual blastomere during cleavage and then follow the marker as it was distributed to all the mitotic descendants of that cell (FIGURE 47.20b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-20. Fate maps for two chordates. (a) Fate map of a frog embryo. The fates of cells of a frog embryo were determined in part by marking different regions of the blastula surface with dyes of various colors and then determining the locations of dyed cells at later stages of development, such as at this neural tube stage. (b) Cell lineage analysis in a tunicate. Shown here are the results of a very specific type of fate map called a cell lineage analysis. The drawings depict 64-cell embryos of a tunicate, an invertebrate chordate. An individual cell can be injected with a dye, enabling a researcher to determine which cells in a later embryo are derived from the marked cells. The two light micrographs of larvae contrast the regions that develop from the two different blastomeres indicated in the drawings.
+
+Developmental biologists have combined fate-mapping studies with experimental manipulation of parts of embryos in which they study whether a cell's fate can be changed by moving it elsewhere in the embryo. Two important conclusions have emerged. First, in most animals, certain early "founder cells" generate specific tissues of the older embryo. Second, as development proceeds, a cell's developmental potential--the range of structures that it can give rise to--becomes restricted. Starting with the normal embryo's fate map, researchers can examine how the differentiation of cells is altered in experimental situations or in mutant embryos.
+
+
+
+

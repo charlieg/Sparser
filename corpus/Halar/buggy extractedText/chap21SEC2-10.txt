@@ -1,0 +1,28 @@
+
+ Homeobox genes have been highly conserved in evolution
+
+The homeotic genes ofDrosophilaall include a 180-nucleotide sequence called thehomeobox,which specifies a 60-amino-acidhomeodomain. An identical or very similar sequence of nucleotides has been discovered in genes of many other animals, including other insects, nematodes, mollusks, fish, frogs, birds, and mammals, including humans. (Homeobox-containing genes are often calledHoxgenes, especially in mammals.) Furthermore, related sequences have been found in regulatory genes of much more distantly related eukaryotes, such as yeast, and even in prokaryotes. From these similarities we can deduce that the homeobox DNA sequence evolved very early in the history of life and that it is sufficiently valuable to organisms to have been conserved in animals virtually unchanged for hundreds of millions of years. In fact, the vertebrate genes homologous to the homeotic genes of fruit flies have even kept their chromosomal arrangement (FIGURE 21.15, p. 418).
+
+
+
+Click image to enlarge
+
+
+
+Fig 21-15. Homologous genes that affect pattern formation in a fruit fly and a mouse.Homeotic homeobox-containing genes that control the form of the anterior and posterior structures of the body occur in the same linear sequence on chromosomes inDrosophilaand mice. Each small box on the chromosomes shown here represents a homeobox-containing gene. In fruit flies, all of these genes are found on one chromosome. The mouse and other mammals have the same or similar sets of genes on four chromosomes. The color code indicates the parts of the embryos in which these genes are expressed and the adult body regions that result. Purple, green, gray, and orange boxes represent genes with homeoboxes that are essentially identical in flies and mice. Black boxes represent genes with homeoboxes that are less similar in the two animals. In vertebrates, homeobox-containing genes are often calledHox genes.
+
+Not all homeobox-containing genes are homeotic genes; that is, some do not directly control the identity of body parts. However, most of these genes are associated with development, suggesting their ancient and fundamental importance in that process. For example, inDrosophila, homeoboxes are present not only in the homeotic genes but also in the egg-polarity genebicoid, in several of the segmentation genes, and in the master regulatory gene for eye development (see the photograph at the beginning of the chapter).
+
+What is the role of the homeodomain in a protein? This polypeptide segment is the part of the protein that binds to DNA when the protein functions as a transcription factor. (The homeodomain forms three a helices, one of which fits neatly into the major groove of the DNA helix.) However, the shape of the homeodomain allows it to bind to any DNA segment; by itself it cannot select a specific sequence. It is other, more variable domains of such a protein that determine which genes the protein regulates. These latter domains interact with other transcription factors that help the protein recognize specific enhancers or promoters in the DNA. Proteins with homeodomains probably regulate development by coordinating the transcription of batteries of developmental genes, switching them on or off (FIGURE 21.16). InDrosophilaembryos, different combinations of homeobox genes are active in different parts of the embryo. This selective expression of regulatory genes, varying over time and space, is central to pattern formation.
+
+
+
+Click image to enlarge
+
+
+
+Fig 21-16. Homeobox-containing genes as switches.How a particular cell differentiates in the animal's body depends on how many of these switches are thrown--that is, which homeobox proteins are made within the cell. A single master switch may control a number of subordinate switches, which in turn control others. Here the wires represent the actions of the proteins that are the products of the genes.
+
+
+
+

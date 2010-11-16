@@ -1,0 +1,72 @@
+
+ Phylum Platyhelminthes: Flatworms are acoelomates with gastrovascular cavities
+
+There are about 20,000 species of flatworms living in marine, freshwater, and damp terrestrial habitats. In addition to many free-living forms, flatworms include many parasitic species, such as the flukes and the tapeworms. Flatworms are so named because their bodies are thin between the dorsal and ventral surfaces (flattened dorsoventrally; platyhelminth means "flat worm"). They range in size from nearly microscopic free-living species to certain tapeworms over 20 m long. (Note that "worm" is not a formal taxonomic name, but a general term for animals with long, thin bodies.)
+
+In contrast to the radiate animals (cnidarians and ctenophores), flatworms and all other bilateratians are triploblastic. The middle embryonic tissue layer, mesoderm, contributes to the development of more complex organs and organ systems and to true muscle tissue. Thus the flatworms are structurally more complex than cnidarians or ctenophores. However, in common with the radiate animals, flatworms have a gastrovascular cavity with only one opening. (Tapeworms lack a digestive tract altogether and absorb nutrients across their body surface.) Flatworms are also simpler than other bilateratians in lacking a body cavity; flatworms are acoelomates.
+
+Flatworms are divided into four classes: Turbellaria (mostly free-living flatworms), Monogenea (monogeneans), Trematoda (trematodes, or flukes), and Cestoidea (tapeworms) (TABLE 33.2).
+
+Table 33-2. Classes of Phylum Platyhelminthes
+
+Class and ExamplesMain CharacteristicsTurbellaria (mostly free-living flatworms; e.g., Dugesia) (see FIGURE 33.9 and 33.10)Most marine, some freshwater, a few terrestrial, predators and scavengers; body surface ciliatedMonogenea (monogeneans)Marine and freshwater parasites; most infect external surfaces of fishes; life history simple; a ciliated larva starts an infection on a hostTrematoda (trematodes, also called flukes) (see FIGURE 33.11)Parasites, almost always of vertebrates; two suckers attach to host; most life histories include intermediate hostsCestoidea (tapeworms) (see FIGURE 33.12)Parasites of vertebrates; scolex attaches to host; proglottids produce eggs and break off after fertilization; no head or digestive system; life history with one or more intermediate hostsClass Turbellaria
+
+Turbellarians are nearly all free-living (nonparasitic) and mostly marine (FIGURE 33.9). Members of the genus Dugesia, commonly known as planarians, abound in unpolluted ponds and streams. Planarians are carnivores that prey on smaller animals or feed on dead animals (FIGURE 33.10).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-9. A flatworm. Class Turbellaria consists mainly of free-living marine flatworms, such as this colorful species.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-10. Anatomy of a planarian.
+
+Planarians and other flatworms lack organs specialized for gas exchange and circulation. The flat shape of the body places all cells close to the surrounding water, and fine branching of the gastrovascular cavity distributes food throughout the animal. Nitrogenous waste in the form of ammonia diffuses directly from the cells into the surrounding water. Flatworms also have a relatively simple excretory apparatus that functions mainly to maintain osmotic balance between the animal and its surroundings. This system consists of ciliated cells called flame cells that waft fluid through branched ducts opening to the outside (see FIGURE 44.18). The evolution of osmoregulatory structures was a major factor in allowing some turbellarians to invade freshwater and even moist terrestrial environments.
+
+Planarians move by using cilia on the ventral epidermis, gliding along a film of mucus they secrete. Some turbellarians also use their muscles to swim through water with an undulating motion.
+
+A planarian has a head (cephalized) with a pair of eyespots that detect light and lateral flaps that function mainly for smell. The planarian nervous system is more complex and centralized than the nerve nets of cnidarians. Planarians can learn to modify their responses to stimuli.
+
+Planarians can reproduce asexually through regeneration. The parent constricts in the middle, and each half regenerates the missing end. Sexual reproduction also occurs. Although planarians are hermaphrodites, copulating mates cross-fertilize.
+
+Classes Monogenea and Trematoda
+
+The monogeneans and the trematodes (sometimes called flukes) live as parasites in or on other animals. Many have suckers for attaching to internal organs or to the outer surfaces of the host. A tough covering helps protect the parasites. Reproductive organs nearly fill the interior of these worms.
+
+As a group, trematodes parasitize a wide range of hosts, and most species have complex life cycles with an alternation of sexual and asexual stages. Many trematodes require an intermediate host in which larvae develop before infecting the final host (usually a vertebrate), where the adult worm lives. For example, trematodes that parasitize humans spend parts of their life histories in snails (FIGURE 33.11). The 200 million people around the world who are infected with blood flukes (Schistosoma) suffer body pains, anemia, and dysentery.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-11. The life history of a blood fluke (Schistosoma mansoni).
+
+Most monogeneans are external parasites of fishes. Their life cycle is relatively simple, with a ciliated, free-swimming larva starting an infection on a host. Although monogeneans have been traditionally aligned with the trematodes, some structural and chemical evidence suggests they are more closely related to tapeworms.
+
+Class Cestoidea
+
+Tapeworms (class Cestoidea) are also parasitic. The adults live mostly in vertebrates, including humans. The tapeworm head, or scolex, is armed with suckers and often menacing hooks that lock the worm to the intestinal lining of the host (FIGURE 33.12). Posterior to the scolex is a long ribbon of units called proglottids, which are little more than sacs of sex organs. Lacking a digestive tract, the tapeworm absorbs food predigested by the host.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-12. Anatomy of a tapeworm.
+
+Mature proglottids, loaded with thousands of eggs, are released from the posterior end of a mature tapeworm and leave the host's body with feces. In one type of life cycle, human feces contaminate the food or water of intermediate hosts, such as pigs or cattle, and the tapeworm eggs develop into larvae that encyst in muscles of these animals. Humans acquire the larvae by eating undercooked meat contaminated with cysts, and the worms develop into mature adults within the human. Large tapeworms, which may be 20 m or more in length, can cause intestinal blockage and can rob enough nutrients from the human host to cause nutritional deficiencies. An orally administered drug named niclosamide kills the adult worms.
+
+
+
+

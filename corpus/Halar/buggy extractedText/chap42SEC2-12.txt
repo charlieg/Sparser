@@ -1,0 +1,38 @@
+
+ Gills are respiratory adaptations of most aquatic animals
+
+Gills are outfoldings of the body surface that are suspended in the water. In some invertebrates, such as sea stars, the gills have a simple shape and are distributed over much of the body (FIGURE 42.19a). Many segmented worms have flaplike gills that extend from each segment of the body, or long feathery gills clustered at the head or tail (FIGURE 42.19b). The gills of clams, crayfish, and many other animals are restricted to a local body region (FIGURES 42.19c and d). The total surface area of the gills is often much greater than that of the rest of the body.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-19. Diversity in the structure of gills, external body surfaces functioning in gas exchange. (a) The gills of a sea star are simple tubular projections of the skin. The hollow core of each gill is an extension of the coelom (body cavity). Gas exchange occurs by diffusion across the gill surfaces, and fluid in the coelom circulates in and out of the gills, aiding gas transport. The surfaces of a sea star's tube feet also function in gas exchange. (b) Many polychaetes, marine worms of the phylum Annelida, have a pair of flattened appendages called parapodia on each body segment. The parapodia serve as gills and also function in crawling and swimming. (c) The gills of a clam are long, flattened plates projecting downward from the main body mass inside the hard shell. Cilia on the gills circulate water around the gill surfaces. (d) Crayfish and other crustaceans have long, feathery gills covered by the exoskeleton. Specialized body appendages drive water over the gill surfaces.
+
+As a respiratory medium, water has both advantages and disadvantages. There is no problem keeping the cell membranes of the respiratory surface moist, since the gills are surrounded by the aqueous environment. However, O2 concentrations in water are low; and the warmer and saltier the water, the less dissolved oxygen it can hold (water in many marine and freshwater habitats contains only 4-8 mL of dissolved O2 per liter). Thus, gills must be very effective to obtain enough oxygen. One process that helps is ventilation, which increases the flow of the respiratory medium over the respiratory surface. Without ventilation, a region of low O2 and high CO2 concentrations can form around the gill as it exchanges gas with the water. Crayfish and lobsters have paddlelike appendages that drive a current of water over the gills. Fish gills are ventilated by a current of water that enters the mouth, passes through slits in the pharynx, flows over the gills, and then exits the body (FIGURE 42.20). Because water is dense and contains little oxygen per unit of volume, most fish must expend considerable energy in ventilating their gills.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-20. The structure and function of fish gills. Fish continuously pump water through the mouth and over the gill arches, using coordinated movements of the jaws and operculum (gill cover) for this ventilation. (Swimming fish can simply open their mouths and let water flow past the gills.) Each gill arch has two rows of gill filaments, composed of flattened plates called lamellae. Blood flowing through capillaries within the lamellae picks up oxygen from the water. Notice that water flows over the lamellae in a direction opposite to the blood flow, an arrangement called a countercurrent, which enhances oxygen transfer (see FIGURE 42.21).
+
+The arrangement of capillaries in a fish gill enhances gas exchange and reduces the energy cost of ventilation. Blood flows in the opposite direction to the movement of water past the gills. This makes it possible for oxygen to be transferred to the blood by a very efficient process called countercurrent exchange (FIGURES 42.20 and 42.21). As blood moves through a gill capillary, it becomes more and more loaded with oxygen, but it simultaneously encounters water with ever higher oxygen concentrations because the water is just beginning its passage over the gills. This means that along the entire length of the capillary, there is a diffusion gradient favoring the transfer of oxygen from water to blood. The countercurrent exchange mechanism is so efficient that the gills can remove more than 80%  of the oxygen dissolved in the water passing over the respiratory surface. The basic mechanism of countercurrent exchange is also important in temperature regulation and several other physiological processes, as we will see in Chapter 44.
+
+
+
+Click image to enlarge
+
+
+
+Fig 42-21. Countercurrent exchange. The arrangement of blood vessels in fish gills is an adaptation that maximizes oxygen transfer from the water to the blood. The countercurrent flow of water and blood maintains a concentration gradient down which O2 diffuses from the water into the blood over the whole length of a capillary. As the blood flows through a lamellar capillary, it becomes more and more loaded with oxygen because it continuously passes by water that is more and more concentrated in O2.
+
+Gills are generally unsuitable for an animal living on land. An expansive surface of wet membrane exposed to air would lose too much water by evaporation, and the gills would collapse as their fine filaments, no longer supported by water, would cling together. Most terrestrial animals have their respiratory surfaces within the body, opening to the atmosphere through narrow tubes.
+
+
+
+

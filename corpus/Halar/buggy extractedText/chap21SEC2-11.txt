@@ -1,0 +1,50 @@
+
+ Neighboring cells instruct other cells to form particular structures: cell signaling and induction in the nematode
+
+The development of a multicellular organism requires close communication among cells. Even when theDrosophilaembryo is still one multinucleated "cell," signaling between cells has already played a key role. For example, an exchange of signals between the unfertilized egg cell and neighboring follicle cells guided the establishment of the egg's anterior end; it was a follicle cell signal that triggered the localization ofbicoidmRNA there. Once the embryo is truly multicellular, signaling among the embryo's own cells becomes increasingly important. In the process called induction, cells signal nearby cells to change in some specific way, often by expressing particular genes. As we've seen, the ultimate basis for the differences among cells is transcriptional regulation--the turning on and off of specific genes. It is induction, signaling from one group of cells to an adjacent group, that brings about differentiation.
+
+Induction in Vulval Development
+
+The nematodeC. eleganshas proved to be a very useful model organism for investigating the roles of cell signaling and induction in development. Particularly revealing has been research on the development of the nematodevulva, the tiny opening through which the worm lays its eggs. Researchers have combined genetic, biochemical, and embryological approaches to learn how this organ forms.
+
+The pathway from fertilized egg to an adult nematode capable of reproduction involves four larval stages (the larvae look much like smaller versions of the adult). Already present on the ventral surface of the second-stage larva are six cells from which the vulva will arise (FIGURE 21.17a). A single cell of the embryonic gonad, theanchor cell, initiates a cascade of signals that establishes the fates of the vulval precursor cells. If an experimenter destroys the anchor cell with a laser beam, the vulva fails to form and the precursor cells simply become part of the worm's epidermis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 21-17. Cell signaling and induction in the development of the nematode vulva.The vulva is the opening through which the nematode lays its eggs.
+
+Researchers have figured out the molecular details of vulval induction by isolating mutants in which vulval development is abnormal. Such mutants can grow to adulthood because a normal egg-laying apparatus is not essential for viability. The phenotypes of the mutants range from multiple vulvae to none at all. (In the latter mutants, offspring develop internally within self-fertilizing hermaphrodites, eventually eating their way out of the parent's body!) From studying the mutants, researchers have identified a number of genes involved in vulval development and have worked out where and how their products function (FIGURE 21.17b).
+
+The anchor cell secretes an inducer, a signal protein that binds to a receptor protein in the plasma membrane of vulval precursor cells. (An example of the "unity of life," this signal protein is very similar to theepidermal growth factor (EGF)of humans and other mammals.) At the start, all the precursor cells are equivalent: All make a basic set of proteins necessary for vulval formation, including receptors for the anchor cell's signal molecules. However, these cells do not all respond to the inducer. The cell that normally becomes the inner part of the vulva receives high levels of inducer, since it is closest to the anchor cell. The high levels of inducer probably produce two effects: (1) division and differentiation of the cell to form the inner part of the vulva and (2) activation of a gene for a cell surface signaling protein, which acts as a second inducer. Receptors on the two adjacent vulval precursor cells bind the second inducer, which stimulates these cells to divide and develop into the outer vulva. The three remaining vulval precursor cells are too far away to receive either signal; they give rise to epidermal cells.
+
+The inducer released by the anchor cell and the signal-transduction pathway it triggers in the closest vulval precursor cell are similar to ones you have encountered in previous chapters. The signal is a growth-factor-like protein, and it is transduced within its target cell via a tyrosine-kinase receptor, a Ras protein, and a cascade of protein kinases--a common pathway leading to transcriptional regulation in many organisms (seeFIGURE 19.14a). (The nematode research provided the firstin vivoevidence linking the Ras pathway with a growth factor.)
+
+In summary, vulval development in the nematode illustrates a number of important concepts that apply elsewhere in the development ofC. elegansand many other animals:
+
+In the developing embryo, sequential inductions drive the formation of organs.
+
+The effect of an inducer can depend on its concentration (just as we saw with cytoplasmic determinants inDrosophila).
+
+Inducers produce their effects via signal-transduction pathways similar to those operating in adult cells.
+
+The induced cell's response is often the activation (or inactivation) of genes--transcriptional regulation--which, in turn, establishes the pattern of gene activity characteristic of a particular kind of differentiated cell.
+
+Genetics is a powerful approach for elucidating the mechanisms of development.
+
+Programmed Cell Death (Apoptosis)
+
+Lineage analysis ofC. eleganshas highlighted another outcome of cell signaling that is crucial in animal development--programmed cell death, orapoptosis.The timely suicide of cells occurs exactly 131 times in the course ofC. elegans's normal development. At precisely the same points in each new worm's cell lineage, signals trigger the activation of a cascade of "suicide" proteins in the cells destined to die. The cells shrink, their nuclei condense and then break down, and neighboring cells quickly engulf and digest the remains, leaving no trace (FIGURE 21.18a).
+
+Genetic screening ofC. eleganshas revealed two key apoptosis genes,ced-3andced-4(cedstands for "cell death"), which encode proteins essential for apoptosis. The proteins are called Ced-3 and Ced-4, respectively. These and most other proteins involved in apoptosis are continually present in cells, but in inactive form; thus, proteinactivityis regulated in this case, not transcription or translation. A protein called Ced-9 (the product of geneced-9) is the master regulator of apoptosis (FIGURE 21.18b). The apoptosis pathway activates proteases and nucleases, enzymes that cut up the proteins and DNA of the cell. The main proteases of apoptosis are calledcaspases; in the nematode, the chief caspase is Ced-3.
+
+Apoptosis pathways in humans and other mammals are more complicated. Notably, research on mammals has revealed a prominent role for mitochondria in apoptosis, at least in these more complex animals. Apoptosis pathway proteins or other signals somehow cause the mitochondrial outer membrane to leak, releasing proteins that promote apoptosis. (Surprisingly, these include cytochromec, whose cellular function was thought to have been limited to electron transport; seeFIGURE 9.15). Still controversial is whether mitochondria play a central role in apoptosis or only a subsidiary role. The answer may vary with the circumstance. In any case, a cell must make life-or-death "decisions" by somehow integrating the signals it receives, both "death" signals and "life" signals such as growth factors.
+
+A built-in cell suicide mechanism is essential to development in all animals, and similarities between apoptosis genes in nematodes and mammals indicate that the basic mechanism evolved early in animal evolution. The timely activation of apoptosis proteins in some cells functions in normal development and growth in both embryos and adults. In vertebrates, programmed cell death is essential for normal development of the nervous system, for normal operation of the immune system, and for the normal morphogenesis of human hands and feet. In the last case, the failure of normal cell death can result in webbed fingers and toes. Researchers are also investigating the possibility that certain degenerative diseases of the nervous system result from the inappropriate activation of apoptosis genes and that some cancers result from a failure of cell suicide. Cells that have suffered irreparable damage, including DNA damage that could lead to cancer, normally generateinternalsignals that trigger apoptosis.
+
+
+
+

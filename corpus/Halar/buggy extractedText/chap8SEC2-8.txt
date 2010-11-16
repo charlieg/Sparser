@@ -1,0 +1,36 @@
+
+ Cell survival depends on balancing water uptake and loss
+
+The movement of water across cell membranes and the balance of water between the cell and its environment are crucial to organisms. Let's now apply to living cells what we have learned about osmosis in artificial systems.
+
+Water Balance of Cells Without Walls
+
+If an animal cell is immersed in an environment that is isotonic to the cell, there will be no net movement of water across the plasma membrane. Water flows across the membrane, but at the same rate in both directions. In an isotonic environment, the volume of an animal cell is stable (FIGURE 8.12). Now let's transfer the cell to a solution that is hypertonic to the cell. The cell will lose water to its environment, shrivel, and probably die. This is one reason why an increase in the salinity (saltiness) of a lake can kill the animals there. However, taking up too much water can be just as hazardous to an animal cell as losing water. If we place the cell in a solution that is hypotonic to the cell, water will enter faster than it leaves, and the cell will swell and lyse (burst) like an overfilled water balloon.
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-12. The water balance of living cells. How living cells react to changes in the solute concentrations of their environments depends on whether or not they have cell walls. Animal cells do not have cell walls (top row); plant cells do (bottom row). (Arrows indicate net water movement when the cells are first placed in these solutions.)
+
+A cell without rigid walls can tolerate neither excessive uptake nor excessive loss of water. This problem of water balance is automatically solved if such a cell lives in isotonic surroundings. Seawater is isotonic to many marine invertebrates. The cells of most terrestrial (land-dwelling) animals are bathed in an extracellular fluid that is isotonic to the cells. Animals and other organisms without rigid cell walls living in hypertonic or hypotonic environments must have special adaptations for osmoregulation, the control of water balance. For example, the protist Paramecium lives in pond water, which is hypotonic to the cell. Paramecium has a plasma membrane that is much less permeable to water than the membranes of most other cells, but this only slows the uptake of water, which continually enters the cell. Fortunately, Paramecium is also equipped with a contractile vacuole, an organelle that functions as a bilge pump to force water out of the cell as fast as it enters by osmosis (FIGURE 8.13). We will examine other evolutionary adaptations for osmoregulation in Chapter 44.
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-13. The contractile vacuole of Paramecium: an evolutionary adaptation for osmoregulation. The contractile vacuole of this freshwater protist offsets osmosis by bailing water out of the cell.
+
+Water Balance of Cells with Walls
+
+The cells of plants, prokaryotes, fungi, and some protists have walls. When such a cell is in a hypotonic solution--when bathed by rainwater, for example--the wall helps maintain the cell's water balance. Consider a plant cell. Like an animal cell, the plant cell swells as water enters by osmosis (see FIGURE 8.12). However, the elastic wall will expand only so much before it exerts a back pressure on the cell that opposes further water uptake. At this point, the cell is turgid (very firm), which is the healthy state for most plant cells. Plants that are not woody, such as most house plants, depend for mechanical support on cells kept turgid by a surrounding hypotonic solution. If a plant's cells and their surroundings are isotonic, there is no net tendency for water to enter, and the cells become flaccid (limp), causing the plant to wilt.
+
+On the other hand, a wall is of no advantage if the cell is immersed in a hypertonic environment. In this case, a plant cell, like an animal cell, will lose water to its surroundings and shrink. As the plant cell shrivels, its plasma membrane pulls away from the wall. This phenomenon, called plasmolysis, is usually lethal. The walled cells of bacteria and fungi also plasmolyze in hypertonic environments.
+
+
+
+

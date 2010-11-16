@@ -1,0 +1,60 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
+;;; copyright (c) 1990,1991  Content Technologies Inc.
+;;; copyright (c) 1992-2005  David D. McDonald  -- all rights reserved
+;;;
+;;;      File:  "alists"
+;;;    Module:   "tools:basics:syntactic sugar"
+;;;   Version:   1.0 February 2005
+
+;; 1.0 January 1991
+;; (2/8/05) Added plist-to-alist and alist-to-plist.
+
+(in-package :sparser)
+
+
+(defun Delete-pair-from-alist (pair alist)
+  (if (equal (car alist)
+             pair)
+    (cdr alist)
+    (let ((cons-before alist)
+          (cons       (cdr alist))
+          (cons-after (cddr alist)))
+      (dolist (p (cdr alist))
+        (if (equal pair p)
+          (return)
+          (setq cons-before (cdr cons-before)
+                cons        (cdr cons)
+                cons-after  (cdr cons-after))))
+
+      (rplacd cons-before
+              cons-after)
+      alist )))
+
+
+
+;;--- plists <=> alists
+
+(defun plist-to-alist (plist &optional not-dotted?)
+  (let ( alist )
+    (do ((tag (car plist) (car rest))
+         (value (cadr plist) (cadr rest))
+         (rest (cddr plist) (cddr rest)))
+        ((null tag))
+      (when (null value)
+        (break "Appears to be an odd number of items in the plist"))
+      (if not-dotted?
+        (push `(,tag ,value) alist)
+        (push `(,tag . ,value) alist)))
+    (nreverse alist)))
+
+(defun alist-to-plist (alist)
+  (let ( plist )
+    (dolist (pair alist)
+      (if (consp (cdr pair)) ;; not dotted
+        (then (push (first pair) plist) ;; tag
+              (push (second pair) plist)) ;; value
+        (else
+          (push (car pair) plist)
+          (push (cdr pair) plist))))
+    (nreverse plist)))
+    

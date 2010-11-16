@@ -1,0 +1,88 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/model/core/money/archive%20--%20money
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+currency.lisp
+file
+
+
+
+
+2007-01-04T03:28:24.000000Z
+b80e92ea4bff50cb41d47c794db3a4cc
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+psg-rules.lisp
+file
+
+
+
+
+2007-01-04T03:28:24.000000Z
+1c3d09adaaf2338e3fb7a43c4456d669
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+lambdas.lisp
+file
+
+
+
+
+2007-01-04T03:28:24.000000Z
+2656e790ea3cc5d957ad16a32fab0da4
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+loader.lisp
+file
+
+
+
+
+2007-01-04T03:28:24.000000Z
+76121147552b0b03edb9f19860d8af69
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+object.lisp
+file
+
+
+
+
+2007-01-04T03:28:24.000000Z
+d71f55269bfcbe372ea2a09fd581dc2d
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+denominations.lisp
+file
+
+
+
+
+2007-01-04T03:28:24.000000Z
+16ddcc21134dac76d280cecee85f9615
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+

@@ -1,0 +1,18 @@
+
+ A membrane's molecular organization results in selective permeability
+
+A steady traffic of small molecules and ions moves across the plasma membrane in both directions. Consider the chemical exchanges between a muscle cell and the extracellular fluid that bathes it. Sugars, amino acids, and other nutrients enter the cell, and metabolic waste products leave. The cell takes in oxygen for cellular respiration and expels carbon dioxide. It also regulates its concentrations of inorganic ions, such as Na+, K+, Ca2+, and Cl-, by shuttling them one way or the other across the plasma membrane. Although traffic through the membrane is extensive, cell membranes are selectively permeable, and substances do not cross the barrier indiscriminately. The cell is able to take up many varieties of small molecules and ions and exclude others. Moreover, substances that move through the membrane do so at different rates.
+
+Permeability of the Lipid Bilayer
+
+Hydrophobic molecules, such as hydrocarbons, carbon dioxide, and oxygen, can dissolve in the lipid bilayer of the membrane and cross it with ease. However, the hydrophobic core of the membrane impedes the transport of ions and polar molecules, which are hydrophilic. Even water, a very small polar molecule, does not easily pass through a lipid bilayer, nor do glucose and other sugars, which are considerably larger. Similarly, a charged atom or molecule and its surrounding shell of water also find the hydrophobic layer of the membrane difficult to penetrate. Fortunately, the lipid bilayer is only part of the story of a membrane's selective permeability. Proteins built into the membrane play key roles in regulating transport.
+
+Transport Proteins
+
+Cell membranes are permeable to specific ions and polar molecules, including water. These hydrophilic substances avoid contact with the lipid bilayer by passing through transport proteins that span the membrane (see FIGURE 8.9, top). Some transport proteins function by having a hydrophilic channel that certain molecules or atomic ions use as a tunnel through the membrane. Other transport proteins hold onto their passengers and physically move them across the membrane. In both cases, the transport protein is specific for the substances it translocates (moves), allowing only a certain substance or class of closely related substances to cross the membrane. For example, glucose carried in blood to the human liver enters liver cells rapidly through specific transport proteins in the plasma membrane. The protein is so selective that it even rejects fructose, a structural isomer of glucose.
+
+Thus, the selective permeability of a membrane depends on both the discriminating barrier of the lipid bilayer and the specific transport proteins built into the membrane. But what determines the direction of traffic across a membrane? At a given time, will a particular substance enter the cell or leave? And what mechanisms actually drive molecules across membranes? We will address these questions next as we explore two modes of membrane traffic: passive transport and active transport.
+
+
+
+

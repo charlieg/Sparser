@@ -1,0 +1,92 @@
+
+ Plants have three basic organs: roots, stems, and leaves
+
+The plant body is a hierarchy of structural levels, with emergent properties arising from the ordered arrangement and interactions of component parts (see Chapter 1). As in multicellular animals, the plant body consists of organs that are composed of different tissues, and these tissues are teams of different types of cells. Although our exploration of the plant body will emphasize features common to all angiosperms, we will also note some important variations among plants. In particular, the two plant groups called the monocots and the dicots differ in many anatomical details (FIGURE 35.1). The dicot group includes the largest class of angiosperms, the eudicots, along with some smaller classes in which the dicot-type anatomy evolved independently (see FIGURE 30.4).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-1. A comparison of monocots and dicots. These two groups of angiosperms are named for the number of cotyledons, or seed leaves, present on the embryo of the plant. Monocots include orchids, bamboos, palms, lilies, and yuccas, as well as the grasses, such as wheat, corn, and rice. A few examples of dicots are roses, beans, sunflowers, and oaks (which are all eudicots, the largest class of angiosperms with the dicot-type anatomy).
+
+The basic morphology of plants reflects their evolutionary history as terrestrial organisms that must simultaneously inhabit and draw resources from two very different environments--soil and air. Soil provides water and minerals, but air is the main source of CO2, and light does not penetrate far into the soil. The evolutionary solution to this separation of resources was differentiation of the plant body into two main systems: a subterranean root system and an aerial shoot system consisting of stems and leaves (FIGURE 35.2). (Flowers are shoots consisting of leaves and stems highly modified for sexual reproduction). Neither system can live without the other. Lacking chloroplasts and living in the dark, roots would starve without sugar and other organic nutrients imported from the photosynthetic tissues of the shoot system. Conversely, the shoot system depends on water and minerals absorbed from the soil by the roots. As we take a closer look at the morphology of roots and shoots, try to view these systems from the evolutionary perspective of adaptations to living on land.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-2. Morphology of a flowering plant: an overview. The plant body is divided into a root system and a shoot system, connected by vascular tissue (purple strands in this diagram) that is continuous throughout the plant. The plant shown in this diagram is an idealized dicot.
+
+The Root System
+
+Roots anchor the plant in the soil, absorb minerals and water, and store food. Monocots, including grasses, generally have fibrous root systems consisting of a mat of thin roots that spread out below the soil surface. (Large monocots, such as palms and bamboo, are exceptional in having thicker roots.) The fibrous root system extends the plant's exposure to soil water and minerals and anchors it tenaciously to the ground (see FIGURE 35.1). Because their root systems are concentrated in the upper few centimeters of the soil, grasses hold the topsoil in place and make excellent ground cover for preventing erosion.
+
+Many dicots have a taproot system, consisting of one large, vertical root (the taproot) that produces many smaller lateral, or branch, roots (see FIGURES 35.1 and 35.2). If you have ever tried to pull up a dandelion, then you probably appreciate that one of the primary functions of taproots is to firmly anchor the plant in the soil. In addition, taproots often store food. The plant consumes the food reserves during flowering and fruit production. For this reason, root crops, such as carrots, turnips, and sugar beet, are harvested before they flower. Taproots are particularly long in certain desert plants, which "tap" water sources located far belowground.
+
+Although the entire root system helps anchor a plant, most absorption of water and minerals in both monocots and dicots occurs near the root tips, where vast numbers of tiny root hairs increase the surface area of the root enormously (FIGURE 35.3). Root hairs are extensions of individual epidermal cells on the root surface, not to be confused with lateral (branch) roots, which are multicellular organs. (You will learn about symbiotic relationships between plant roots and fungi and bacteria in Chapters 36 and 37.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-3. Radish root hairs. Growing by the thousands just behind the tip of each root, the hairs increase the surface area for the absorption of water and minerals by the roots (colorized SEM).
+
+In addition to roots that extend from the base of the shoot, some plants have roots arising aboveground from stems or even from leaves. Such roots are said to be adventitious (from the Latin adventicius, extraneous), a term that describes any plant part that grows in an atypical location. The adventitious roots of some plants, including corn, function as props that help support tall stems.
+
+The Shoot System: Stems and Leaves
+
+Shoots consist of stems and leaves. Shoot systems may be vegetative (leaf bearing) or reproductive (flower bearing). Here, we focus on the morphology of vegetative shoots. We'll discuss the transition of vegetative shoots into reproductive shoots later in the chapter.
+
+Stems. A stem is an alternating system of nodes, the points at which leaves are attached, and internodes, the stem segments between nodes (see FIGURE 35.2). In the angle (axil) formed by each leaf and the stem is an axillary bud, a structure that has the potential to form a vegetative branch. Most axillary buds of a young shoot are dormant (not growing). Thus, growth of a young shoot is usually concentrated at its apex (tip), where there is a terminal bud with developing leaves and a compact series of nodes and internodes.
+
+The presence of the terminal bud is partly responsible for inhibiting the growth of axillary buds, a phenomenon called apical dominance. By concentrating resources on growing taller, apical dominance is an evolutionary adaptation that increases the plant's exposure to light. But what if an animal eats the top of the plant? Or what if, because of obstructions, light is more intense to the side of a plant than directly above it? Under such conditions, axillary buds break dormancy--that is, they start growing. A growing axillary bud gives rise to a vegetative branch complete with its own terminal bud, leaves, and axillary buds. Removing the terminal bud usually stimulates the growth of axillary buds. This is the rationale for pruning trees and shrubs and "pinching back" houseplants to make them bushy.
+
+Modified shoots with diverse functions have evolved in many plants. These modified shoots, which include stolons, rhizomes, tubers, and bulbs, are often mistaken for roots (FIGURE 35.4). Stolons, such as the "runners" of strawberry plants, grow on the surface of the ground and enable a plant to colonize large areas asexually when the single parent plant fragments into many smaller offspring. Rhizomes, such as those of ginger plants, are horizontal stems similar to stolons except that they grow underground. Tubers, including potatoes, are the swollen ends of rhizomes specialized for storing food. Bulbs, such as onions, are vertical, underground shoots consisting mostly of the swollen bases of leaves that store food.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-4. Modified shoots.(a) Stolons, shown here on a strawberry plant, grow on the surface of the ground. These "runners" enable a plant to colonize a large area and to reproduce asexually if the single parent plant fragments into many smaller offspring.
+(b) Rhizomes, like the edible base of this ginger plant, are horizontal stems that grow underground.
+(c) Tubers, such as these white potatoes, are swollen ends of rhizomes specialized for storing food. The "eyes" arranged in a spiral pattern around a potato are clusters of axillary buds that mark the nodes.
+(d) Bulbs are vertical, underground shoots consisting mostly of the swollen bases of leaves that store food. You can see the many layers of modified leaves attached to the short stem by slicing an onion bulb lengthwise.
+
+Leaves. Leaves are the main photosynthetic organs of most plants, although green stems also perform photosynthesis. Leaves vary extensively in form, but they generally consist of a flattened blade and a stalk, the petiole, which joins the leaf to a node of the stem (see FIGURE 35.2). Grasses and many other monocots lack petioles; instead, the base of the leaf forms a sheath that envelops the stem. Some monocots, including palm trees, do have petioles.
+
+The leaves of monocots and dicots differ in the arrangement of their major veins (see FIGURE 35.1). Most monocots have parallel major veins that run the length of the leaf blade. In contrast, dicot leaves generally have a multibranched network of major veins.
+
+Because leaf morphology varies extensively among plant species, plant taxonomists use characteristics such as leaf shape, spatial arrangement of leaves on a stem, and the pattern of a leaf's veins to help identify and classify plants. FIGURE 35.5 illustrates one variation: simple versus compound leaves. Most very large leaves are compound or doubly compound. This structural adaptation enables large leaves to withstand strong wind with less tearing and also confines some pathogens that invade the leaf to a single leaflet, rather than allowing the pathogens to spread to the entire leaf.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-5. Simple versus compound leaves. A simple leaf has a single, undivided blade. The blade of a compound leaf is divided into several leaflets, which are themselves divided in a doubly compound leaf. You can distinguish a compound leaf from a stem with several closely spaced simple leaves by examining the locations of axillary buds. There is only one axillary bud per leaf. Thus, a compound leaf has a bud where its petiole attaches to the stem, but not at the bases of the individual leaflets.
+
+Although most leaves are specialized for photosynthesis, some plants have leaves that have become adapted by evolution for other functions (FIGURE 35.6).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-6. Modified leaves.(a) The tendrils used by this pea plant to cling to supports are modified leaflets.
+(b) The spines of cacti, such as this prickly pear, are actually leaves, and photosynthesis is carried out mainly by the fleshy green stems.
+(c) Most succulents, such as this ice plant, have leaves modified for storing water.
+(d) In many plants, brightly colored leaves help attract pollinators to the flower. The red "petals" of the poinsettia are actually leaves that surround a group of flowers.
+
+
+
+

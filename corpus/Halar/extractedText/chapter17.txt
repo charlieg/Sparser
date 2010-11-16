@@ -1,0 +1,641 @@
+
+Chapter 17: FROM GENE TO PROTEIN
+
+THE CONNECTION BETWEEN GENES AND PROTEINS
+
+   The study of metabolic defects provided evidence that genes specify proteins
+
+   Transcription and translation are the two main processes linking gene to protein: an overview
+
+   In the genetic code, nucleotide triplets specify amino acids
+
+   The genetic code must have evolved very early in the history of life
+
+
+
+THE SYNTHESIS AND PROCESSING OF RNA
+
+   Transcription is the DNA-directed synthesis of RNA: a closer look
+
+   Eukaryotic cells modify RNA after transcription
+
+
+
+THE SYNTHESIS OF PROTEIN
+
+   Translation is the RNA-directed synthesis of a polypeptide: a closer look
+
+   Signal peptides target some eukaryotic polypeptides to specific destinations in the cell
+
+   RNA plays multiple roles in the cell: a review
+
+   Comparing protein synthesis in prokaryotes and eukaryotes: a review
+
+   Point mutations can affect protein structure and function
+
+   What is a gene? revisiting the question
+
+The information content of DNA, the genetic material, is in the form of specific sequences of nucleotides along the DNA strands. But how is this information related to an organism's inherited traits? Put another way, what does a gene actually say? And how is its message translated by cells into a specific trait, such as brown hair or type A blood?
+
+Consider, once again, Mendel's peas. One of the characters Mendel studied was stem length (seeTABLE 14.1). Variation in a single gene accounts for the difference between the tall and dwarf varieties of pea plants. Mendel did not know the physiological basis of this phenotypic difference, but plant scientists have since worked out the explanation: Dwarf peas lack growth hormones called gibberellins, which stimulate the normal elongation of stems. A dwarf plant treated with gibberellins grows to normal height. Why do dwarf peas fail to make their own gibberellins? They are missing a key protein, an enzyme required for gibberellin synthesis. This example illustrates the main point of this chapter: The DNA inherited by an organism leads to specific traits by dictating the synthesis of proteins. Proteins are the links between genotype and phenotype. This chapter explores the flow of information from genes to proteins.
+
+
+
+
+
+THE CONNECTION BETWEEN GENES AND PROTEINS
+
+ 
+
+ The study of metabolic defects provided evidence that genes specify proteins
+
+
+
+ 
+
+ Transcription and translation are the two main processes linking gene to protein: an overview
+
+
+
+ 
+
+ In the genetic code, nucleotide triplets specify amino acids
+
+
+
+ 
+
+ The genetic code must have evolved very early in the history of life
+
+
+
+Researchers are now working out the structures and processes of protein synthesis in amazing detail. See, for example, the computer graphic on this page, which shows a ribosome at the molecular level. The exploded view at the right also shows three transfer RNA molecules, in red, orange, and yellow. As you will learn in this chapter, these molecules cooperate with the ribosome in polypeptide synthesis. But before going into the details of how genes direct protein synthesis, let's step back and examine how the fundamental relationship between genes and proteins was discovered.
+
+
+
+
+
+THE SYNTHESIS AND PROCESSING OF RNA
+
+ 
+
+ Transcription is the DNA-directed synthesis of RNA: a closer look
+
+
+
+ 
+
+ Eukaryotic cells modify RNA after transcription
+
+
+
+
+
+
+
+THE SYNTHESIS OF PROTEIN
+
+ 
+
+ Translation is the RNA-directed synthesis of a polypeptide: a closer look
+
+
+
+ 
+
+ Signal peptides target some eukaryotic polypeptides to specific destinations in the cell
+
+
+
+ 
+
+ RNA plays multiple roles in the cell: a review
+
+
+
+ 
+
+ Comparing protein synthesis in prokaryotes and eukaryotes: a review
+
+
+
+ 
+
+ Point mutations can affect protein structure and function
+
+
+
+ 
+
+ What is a gene? revisiting the question
+
+
+
+We will now examine more closely how genetic information flows from mRNA to protein--the process of translation. As we did for transcription, we'll concentrate on the basic steps of translation that occur in both prokaryotes and eukaryotes while pointing out key differences.
+
+
+
+
+
+ The study of metabolic defects provided evidence that genes specify proteins
+
+In 1909, British physician Archibald Garrod was the first to suggest that genes dictate phenotypes through enzymes that catalyze specific chemical reactions in the cell. Garrod postulated that the symptoms of an inherited disease reflect a person's inability to make a particular enzyme. He referred to such diseases as "inborn errors of metabolism." Garrod gave as one example the hereditary condition called alkaptonuria, in which the urine is black because it contains the chemical alkapton, which darkens upon exposure to air. Garrod reasoned that normal individuals have an enzyme that breaks down alkapton, whereas alkaptonuric individuals have inherited an inability to make the enzyme that metabolizes alkapton.
+
+How Genes Control Metabolism: One Gene-One Enzyme
+
+Garrod's idea was ahead of its time, but research conducted several decades later supported his hypothesis that a gene dictates the production of a specific enzyme. Biochemists accumulated much evidence that cells synthesize and degrade most organic molecules via metabolic pathways, in which each chemical reaction in a sequence is catalyzed by a specific enzyme. Such metabolic pathways lead, for instance, to the synthesis of the pigments that give fruit flies (Drosophila) their eye color (see FIGURE 15.2). In the 1930s, George Beadle and Boris Ephrussi speculated that each of the various mutations affecting eye color in Drosophila blocks pigment synthesis at a specific step by preventing production of the enzyme that catalyzes that step. However, neither the chemical reactions nor the enzymes that catalyze them were known at the time.
+
+A breakthrough in demonstrating the relationship between genes and enzymes came a few years later, when Beadle and Edward Tatum began working with a bread mold, Neurospora crassa. They treated Neurospora with X-rays and then looked among the survivors for mutants that differed from the wild-type mold in their nutritional needs. Wild-type Neurospora has modest food requirements. It can survive in the laboratory on agar (a moist support medium) mixed only with inorganic salts, glucose, and the vitamin biotin. From this minimal medium, the mold uses its metabolic pathways to produce all the other molecules it needs. Beadle and Tatum identified mutants that could not survive on minimal medium, apparently because they were unable to synthesize certain essential molecules from the minimal ingredients. However, most such nutritional mutants can survive on a complete growth medium, minimal medium supplemented with all 20 amino acids and a few other nutrients.
+
+To characterize the metabolic defect in each nutritional mutant, Beadle and Tatum took samples from the mutant growing on complete medium and distributed them to a number of different vials. Each vial contained minimal medium plus a single additional nutrient. The particular supplement that allowed growth indicated the metabolic defect. For example, if the only supplemented vial that supported growth of the mutant was the one fortified with the amino acid arginine, the researchers could conclude that the mutant was defective in the biochemical pathway that wild-type cells use to synthesize arginine.
+
+Beadle and Tatum went on to pin down each mutant's defect more specifically. Their work with arginine-requiring mutants was especially instructive. Using genetic crosses, they determined that their mutants fell into three classes, each mutated in a different gene. The researchers then showed that they could distinguish among the classes of mutants nutritionally by additional tests of their growth requirements (FIGURE 17.1). In the synthetic pathway leading to arginine, they suspected, a precursor nutrient is converted to ornithine, which is converted to citrulline, which is converted to arginine. When they tested their arginine mutants for growth on ornithine and citrulline, they found that one class could grow on either compound (or arginine), the second class only on citrulline (or arginine), and the third on neither--it absolutely required arginine. The three classes of mutants, the researchers reasoned, must be blocked at different steps in the pathway that synthesizes arginine, with each mutant class lacking the enzyme that catalyzes the blocked step.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-1. Beadle and Tatum's evidence for the one gene-one enzyme hypothesis. In this experiment, the researchers studied three classes of mutants of the mold Neurospora crassa, all defective in synthesizing the amino acid arginine. The wild-type strain requires only a minimal nutritional medium for growth; it makes arginine by using a multistep pathway in which ornithine and citrulline are intermediates. The different types of mutants had different growth requirements. Beadle and Tatum concluded that each gene mutated must normally dictate the production of one enzyme: the one gene--one enzyme hypothesis.
+
+Because each mutant was defective in a single gene, Beadle and Tatum's results provided strong support for the one gene-one enzyme hypothesis, as they dubbed it, which states that the function of a gene is to dictate the production of a specific enzyme. The researchers also showed how a combination of genetics and biochemistry could be used to work out the steps in a metabolic pathway. Further support for the one gene-one enzyme hypothesis came with biochemical experiments that identified the specific enzymes lacking in the mutants.
+
+One Gene-One Polypeptide
+
+As researchers learned more about proteins, they made minor revisions in the one gene-one enzyme hypothesis. Not all proteins are enzymes. Keratin, the structural protein of animal hair, and the hormone insulin are two examples of nonenzyme proteins. Because proteins that are not enzymes are nevertheless gene products, molecular biologists began to think in terms of one gene-one protein. However, many proteins are constructed from two or more different polypeptide chains, and each polypeptide is specified by its own gene. For example, hemoglobin, the oxygen-transporting protein of vertebrate red blood cells, is built from two kinds of polypeptides, and thus two genes code for this protein (see FIGURE 5.23b). We can therefore restate Beadle and Tatum's idea as the one gene-one polypeptide hypothesis. Note, however, that it is common to refer to proteins, rather than polypeptides, as the gene products, a practice you will encounter in this book.
+
+
+
+
+
+ Transcription and translation are the two main processes linking gene to protein: an overview
+
+Genes provide the instructions for making specific proteins. But a gene does not build a protein directly. The bridge between DNA and protein synthesis is RNA. You learned in Chapter 5 that RNA is chemically similar to DNA, except that it contains ribose instead of deoxyribose as its sugar and has the nitrogenous base uracil rather than thymine (see FIGURE 5.29). Thus, each nucleotide along a DNA strand has deoxyribose as its sugar and A, G, C, or T as its base; each nucleotide along an RNA strand has ribose as its sugar and A, G, C, or U as its base. An RNA molecule almost always consists of a single strand.
+
+It is customary to describe the flow of information from gene to protein in linguistic terms because both nucleic acids and proteins are polymers with specific sequences of monomers that convey information, much as specific sequences of letters communicate information in a language like English. In DNA or RNA, the monomers are the four types of nucleotides, which differ in their nitrogenous bases. Genes are typically hundreds or thousands of nucleotides long, each gene having a specific sequence of bases. Each polypeptide of a protein also has monomers arranged in a particular linear order (the protein's primary structure), but its monomers are the 20 amino acids. Thus, nucleic acids and proteins contain information written in two different chemical languages. To get from DNA, written in one language, to protein, written in the other, requires two major stages, transcription and translation.
+
+Transcription is the synthesis of RNA under the direction of DNA. Both nucleic acids use the same language, and the information is simply transcribed, or copied, from one molecule to the other. Just as a DNA strand provides a template for the synthesis of a new complementary strand during DNA replication, it provides a template for assembling a sequence of RNA nucleotides. The resulting RNA molecule is a faithful transcript of the gene's protein-building instructions. This type of RNA molecule is called messenger RNA (mRNA), because it carries a genetic message from the DNA to the protein-synthesizing machinery of the cell (FIGURE 17.2a). (Transcription is the general term for the synthesis of any kind of RNA on a DNA template. Later in this chapter, you will learn about other types of RNA produced by transcription.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-2. Overview: the roles of transcription and translation in the flow of genetic information. In a cell, inherited information flows from DNA to RNA to protein. The two main stages of information flow are transcription and translation. In transcription, a gene provides the instructions for synthesizing a messenger RNA (mRNA) molecule. In translation, the information encoded in mRNA determines the order of amino acids that are joined to form a specific polypeptide. The sites of translation are ribosomes. A miniature version of part b (or sometimes part a) accompanies several figures later in the Chapter as an orientation diagram to help you see where a particular figure fits into the overall scheme.
+
+Translation is the actual synthesis of a polypeptide, which occurs under the direction of mRNA. During this stage, there is a change in language: The cell must translate the base sequence of an mRNA molecule into the amino acid sequence of a polypeptide. The sites of translation are ribosomes, complex particles that facilitate the orderly linking of amino acids into polypeptide chains.
+
+Although the basic mechanics of transcription and translation are similar for prokaryotes and eukaryotes, there is an important difference in the flow of genetic information within the cells. Because bacteria lack nuclei, their DNA is not segregated from ribosomes and the other protein-synthesizing equipment. Transcription and translation are coupled, with ribosomes attaching to the leading end of an mRNA molecule while transcription is still in progress (see FIGURE 17.22). In a eukaryotic cell, by contrast, the nuclear envelope separates transcription from translation in space and time (FIGURE 17.2b). Transcription occurs in the nucleus, and mRNA is dispatched to the cytoplasm, where translation occurs. But before they can leave the nucleus, eukaryotic RNA transcripts are modified in various ways to produce the final, functional mRNA. Thus, in a two-step process, the transcription of a eukaryotic gene results in pre-mRNA, and RNA processing yields the finished mRNA. A more general term for an initial RNA transcript is primary transcript.
+
+Let's summarize the main point of our overview of protein synthesis: Genes program protein synthesis via genetic messages in the form of messenger RNA. Put another way, cells are governed by a molecular chain of command: DNA  RNA  protein. The next section discusses how the instructions for assembling amino acids into a specific order are encoded in nucleic acids.
+
+
+
+
+
+ In the genetic code, nucleotide triplets specify amino acids
+
+When biologists began to suspect that the instructions for protein synthesis were encoded in DNA, they recognized a problem: There are only four nucleotides to specify 20 amino acids. Thus, the genetic code cannot be a language like Chinese, where each written symbol corresponds to a single word. If each nucleotide base were translated into an amino acid, only 4 of the 20 amino acids could be specified. Would a language of two-letter code words suffice? The base sequence AG, for example, could specify one amino acid, and GT could specify another. Since there are four bases, this would give us 16 (that is, 42) possible arrangements--still not enough to code for all 20 amino acids.
+
+Triplets of nucleotide bases are the smallest units of uniform length that can code for all the amino acids. If each arrangement of three consecutive bases specifies an amino acid, there can be 64 (that is, 43) possible code words--more than enough to specify all the amino acids. Experiments have verified that the flow of information from gene to protein is based on a triplet code: The genetic instructions for a polypeptide chain are written in the DNA as a series of three-nucleotide words. For example, the base triplet AGT at a particular position along a DNA strand results in the placement of the amino acid serine at the corresponding position of the polypeptide to be produced.
+
+As you know, a cell does not directly translate a gene into amino acids. The intermediate step is transcription, during which the gene determines the sequence of base triplets along the length of an mRNA molecule. For each gene, only one of the two DNA strands is transcribed (FIGURE 17.3). This strand is called the template strand, because it provides the template for ordering the sequence of nucleotides in an RNA transcript. A given DNA strand can be the template strand in some regions of a DNA molecule, while in other regions along the double helix it is the complementary strand that functions as the template for RNA synthesis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-3. The triplet code. For each gene, one DNA strand functions as a template for transcription--the synthesis of a complementary mRNA molecule. The base-pairing rules for DNA synthesis also guide transcription, but uracil (U) takes the place of thymine (T) in RNA. During translation, the mRNA is read as a sequence of base triplets, called codons. Each codon specifies an amino acid to be added to the growing polypeptide chain. The mRNA is read in the 5&#39; 3&#39; direction.
+
+An mRNA molecule is complementary rather than identical to its DNA template because RNA bases are assembled on the template according to base-pairing rules. The pairs are similar to those that form during DNA replication, except that U, the RNA substitute for T, pairs with A. Thus, when a DNA strand is transcribed, the base triplet ACC in DNA provides a template for UGG in the mRNA molecule. The mRNA base triplets are called codons. For example, UGG is the codon for the amino acid tryptophan (abbreviated Trp). (The term codon is also sometimes used for the complementary DNA base triplet. For example, the DNA codon corresponding to the RNA codon UGG is ACC.)
+
+During translation, the sequence of codons along an mRNA molecule is decoded, or translated, into a sequence of amino acids making up a polypeptide chain. The codons are read in the 5&#39; 3&#39; direction along the mRNA. (To review what is meant by the 5&#39; and 3&#39; ends of a nucleic acid chain, see FIGURE 16.12.) Each codon specifies which one of the 20 amino acids will be incorporated at the corresponding position along a polypeptide. Because codons are base triplets, the number of nucleotides making up a genetic message must be three times the number of amino acids making up the protein product. For example, it takes 300 nucleotides along an RNA strand to code for a polypeptide that is 100 amino acids long.
+
+Cracking the Genetic Code
+
+Molecular biologists cracked the code of life in the early 1960s, when a series of elegant experiments disclosed the amino acid translations of each of the RNA codons. The first codon was deciphered in 1961 by Marshall Nirenberg, of the National Institutes of Health, and his colleagues. Nirenberg synthesized an artificial mRNA by linking identical RNA nucleotides containing uracil as their base. No matter where this message started or stopped, it could contain only one codon in repetition: UUU. Nirenberg added this "poly(U)" to a test-tube mixture containing amino acids, ribosomes, and the other components required for protein synthesis. His artificial system translated the poly(U) into a polypeptide containing a single amino acid, phenylalanine (Phe), strung together as a long polyphenylalanine chain. Thus, Nirenberg determined that the mRNA codon UUU specifies the amino acid phenylalanine. Soon, the amino acids specified by the codons AAA, GGG, and CCC were also determined.
+
+Although more elaborate techniques were required to decode mixed triplets such as AUA and CGA, all 64 codons were deciphered by the mid-1960s. As FIGURE 17.4 shows, 61 of the 64 triplets code for amino acids. Notice that the codon AUG has a dual function: It not only codes for the amino acid methionine (Met), but also functions as a "start" signal, or initiation codon. Genetic messages begin with the mRNA codon AUG, which signals the protein-synthesizing machinery to begin translating the mRNA at that location. (Because AUG also stands for methionine, polypeptide chains begin with methionine when they are synthesized. However, an enzyme may subsequently remove this starter amino acid from a chain.) The remaining three codons do not designate amino acids. Instead, they are "stop" signals, or termination codons, marking the end of translation.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-4. The dictionary of the genetic code. The three bases of an mRNA codon are designated here as the first, second, and third bases, reading in the 5&#39; 3&#39; direction along the mRNA. (Practice using this dictionary by finding the codons in FIGURE 17.3.) The codon AUG not only stands for the amino acid methionine (Met) but also functions as a "start" signal for ribosomes to begin translating the mRNA at that point. Three of the 64 codons function as "stop" signals. Any one of these termination codons marks the end of a genetic message.
+
+Notice in FIGURE 17.4 that there is redundancy in the genetic code, but no ambiguity. For example, although codons GAA and GAG both specify glutamic acid (redundancy), neither of them ever specifies any other amino acid (no ambiguity). The redundancy in the code is not altogether random. In many cases, codons that are synonyms for a particular amino acid differ only in the third base of the triplet. We will consider a possible benefit for this redundancy later in the chapter.
+
+Our ability to extract the intended message from a written language depends on reading the symbols in the correct groupings--that is, in the correct reading frame. Consider this statement: "The red dog ate the cat." Group the letters incorrectly by starting at the wrong point, and the result will probably be gibberish: for example, "her edd oga tet hec at." The reading frame is also important in the molecular language of cells. The short stretch of polypeptide shown in FIGURE 17.3, for instance, will only be made correctly if the mRNA nucleotides are read from left to right (5&#39; 3&#39;) in the groups of three shown in the figure: UGG UUU GGC UCA. Although a genetic message is written with no spaces between the codons, the cell's protein-synthesizing machinery reads the message as a series of nonoverlapping three-letter words. The message is not read as a series of overlapping words--UGG UUU, and so on--which would convey a very different message.
+
+Let's summarize what we have just covered. Genetic information is encoded as a sequence of nonoverlapping base triplets, or codons, each of which is translated into a specific amino acid during protein synthesis.
+
+
+
+
+
+ The genetic code must have evolved very early in the history of life
+
+The genetic code is nearly universal, shared by organisms from the simplest bacteria to the most complex plants and animals. The RNA codon CCG, for instance, is translated as the amino acid proline in all organisms whose genetic code has been examined. In laboratory experiments, genes can be transcribed and translated after they are transplanted from one species to another (FIGURE 17.5). One important application is that bacteria can be programmed by the insertion of human genes to synthesize certain human proteins that have important medical uses. Such applications have produced many exciting developments in biotechnology, which you will learn about in Chapter 20.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-5. A tobacco plant expressing a firefly gene. Because diverse forms of life share a common genetic code, it is possible to program one species to produce proteins characteristic of another species by transplanting DNA. In this experiment, researchers were able to incorporate a gene from a firefly into the DNA of a tobacco plant. The gene codes for the firefly enzyme that catalyzes the chemical reaction that releases energy in the form of light.
+
+Exceptions to the universality of the genetic code are translation systems where a few codons differ from the standard ones. The main examples are found in certain single-celled eukaryotes, such as Paramecium, an organism you may know from the lab. Other examples are found in certain mitochondria and chloroplasts, which transcribe and translate the genes carried by their small amount of DNA. However, the evolutionary significance of the code's near universality is clear. A language shared by all living things must have been operating very early in the history of life--early enough to be present in the common ancestors of all modern organisms. A shared genetic vocabulary is a reminder of the kinship that bonds all life on Earth.
+
+Now that we have considered the linguistic logic and evolutionary significance of the genetic code, we are ready to reexamine transcription, translation, and related topics in more detail.
+
+
+
+
+
+ Transcription is the DNA-directed synthesis of RNA: a closer look
+
+Messenger RNA, the carrier of information from DNA to the cell's protein-synthesizing machinery, is transcribed from the template strand of a gene. An enzyme called an RNA polymerase pries the two strands of DNA apart and hooks together the RNA nucleotides as they base-pair along the DNA template (FIGURE 17.6). Like the DNA polymerases that function in DNA replication, RNA polymerases can add nucleotides only to the 3&#39; end of the growing polymer. Thus, an RNA molecule elongates in its 5&#39; 3&#39; direction.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-6. The stages of transcription: initiation, elongation, and termination. RNA polymerase moves along a gene from the promoter (green) to just beyond the terminator (red), assembling an RNA molecule (transcript) complementary to the gene's template strand. In a prokaryote, the RNA transcript of a protein-coding gene is immediately usable as mRNA; in a eukaryote, it must first undergo processing, as described on pp. 311-312.
+
+Specific sequences of nucleotides along the DNA mark where transcription of a gene begins and ends. The DNA sequence where RNA polymerase attaches and initiates transcription is known as the promoter; the sequence that signals the end of transcription is called the terminator. Molecular biologists refer to the direction of transcription as "downstream" and the other direction as "upstream." These terms are also used to describe the positions of nucleotide sequences within the DNA or RNA. Thus, the promoter sequence in DNA is said to be upstream from the terminator. The stretch of DNA that is transcribed into an RNA molecule is called a transcription unit.
+
+Bacteria have a single type of RNA polymerase that synthesizes not only mRNA but also other types of RNA that function in protein synthesis. In contrast, eukaryotes have three types of RNA polymerase in their nuclei, numbered I, II, and III. The one used for mRNA synthesis is RNA polymerase II. In the discussion of transcription that follows, we start with the features of mRNA synthesis common to both prokaryotes and eukaryotes and then describe some key differences.
+
+The three stages of transcription, as shown in FIGURE 17.6 and described next, are initiation, elongation, and termination of the RNA chain. Study FIGURE 17.6 to familiarize yourself with the stages of transcription and the terms used to describe them.
+
+RNA Polymerase Binding and Initiation of Transcription
+
+The promoter of a gene includes within it the transcription start point (the nucleotide where RNA synthesis actually begins) and typically extends several dozen nucleotide pairs "upstream" from the start point. In addition to serving as a binding site for RNA polymerase and determining where transcription starts, the promoter determines which of the two strands of the DNA helix is used as the template.
+
+Certain sections of a promoter are especially important for binding RNA polymerase. In prokaryotes, the RNA polymerase itself specifically recognizes and binds to the promoter. In eukaryotes, a collection of proteins called transcription factors mediate the binding of RNA polymerase and the initiation of transcription. Only after certain transcription factors are attached to the promoter does the RNA polymerase bind to it. The completed assembly of transcription factors and RNA polymerase bound to the promoter is called a transcription initiation complex. FIGURE 17.7 shows the role of transcription factors and a crucial promoter DNA sequence called a TATA box in forming the initiation complex.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-7. The initiation of transcription at a eukaryotic promoter. In eukaryotic cells, proteins called transcription factors mediate the initiation of transcription by RNA polymerase. The enzyme that transcribes protein-coding genes in eukaryotic cells is called RNA polymerase II.
+
+The interaction between eukaryotic RNA polymerase and transcription factors is an example of the special importance of protein-protein interactions in controlling eukaryotic transcription (as we will discuss further in Chapter 19). Once the polymerase is firmly attached to the promoter DNA, the two DNA strands unwind there, and the enzyme starts transcribing the template strand.
+
+Elongation of the RNA Strand
+
+As RNA polymerase moves along the DNA, it continues to untwist the double helix, exposing about 10 to 20 DNA bases at a time for pairing with RNA nucleotides (see FIGURE 17.6). The enzyme adds nucleotides to the 3&#39; end of the growing RNA molecule as it continues along the double helix. In the wake of this advancing wave of RNA synthesis, the DNA double helix re-forms and the new RNA molecule peels away from its DNA template. Transcription progresses at a rate of about 60 nucleotides per second in eukaryotes.
+
+A single gene can be transcribed simultaneously by several molecules of RNA polymerase following each other like trucks in a convoy. A growing strand of RNA trails off from each polymerase, with the length of each new strand reflecting how far along the template the enzyme has traveled from the start point (see FIGURE 17.22). The congregation of many polymerase molecules simultaneously transcribing a single gene increases the amount of mRNA transcribed from it, which helps the cell make the encoded protein in large amounts.
+
+Termination of Transcription
+
+Transcription proceeds until after the RNA polymerase transcribes a terminator sequence in the DNA. The transcribed terminator--an RNA sequence--functions as the actual termination signal. There are several different mechanisms of transcription termination, the details of which are still somewhat murky. In the prokaryotic cell, transcription usually stops right at the end of the termination signal; when the polymerase reaches that point, it releases both the RNA and the DNA. By contrast, in the eukaryotic cell, the polymerase continues for hundreds of nucleotides past the termination signal, which is an AAUAAA sequence in the pre-mRNA (see FIGURE 17.8). But then, at a point about 10 to 35 nucleotides past the AAUAAA, the pre-mRNA is cut free from the enzyme. The cleavage site on the RNA is also the site for the addition of a poly(A) tail--one step of RNA processing, our next topic.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-8. RNA processing: addition of the 5&#39; cap and poly(A) tail. Enzymes modify the two ends of a eukaryotic pre-mRNA molecule. The modified ends help protect the RNA from degradation, and the poly(A) tail may promote the export of mRNA from the nucleus. When the mRNA reaches the cytoplasm, the modified ends, in conjunction with certain cytoplasmic proteins, facilitate ribosome attachment. The leader and trailer are not translated, nor is the poly(A) tail.
+
+
+
+
+
+ Eukaryotic cells modify RNA after transcription
+
+Enzymes in the eukaryotic nucleus modify pre-mRNA in various ways before the genetic messages are dispatched to the cytoplasm. During this RNA processing, both ends of the primary transcript are usually altered. In most cases, certain interior sections of the molecule are then cut out and the remaining parts spliced together.
+
+Alteration of mRNA Ends
+
+Each end of a pre-mRNA molecule is modified in a particular way. The 5&#39; end, the end made first during transcription, is im mediately capped off with a modified form of a guanine (G) nucleotide. This 5&#39; cap has at least two important functions. First, it helps protect the mRNA from degradation by hydrolytic enzymes. Second, after the mRNA reaches the cytoplasm, the 5&#39; cap functions as part of an "attach here" sign for ribosomes. The other end of an mRNA molecule, the 3&#39; end, is also modified before the message exits the nucleus. At the 3&#39; end, an enzyme makes a poly(A) tail consisting of some 50 to 250 adenine nu cleotides. Like the 5&#39; cap, the poly(A) tail inhibits degradation of the RNA and probably helps ribosomes attach to it. The poly(A) tail also seems to facilitate the export of mRNA from the nucleus. FIGURE 17.8 shows a eukaryotic mRNA molecule with cap and tail; it also shows the nontranslated leader and trailer segments of RNA to which they are attached.
+
+Split Genes and RNA Splicing
+
+The most remarkable stage of RNA processing in the eukaryotic nucleus is the removal of a large portion of the RNA molecule that is initially synthesized--a cut-and-paste job called RNA splicing (FIGURE 17.9, p. 312). The average length of a transcription unit along a eukaryotic DNA molecule is about 8,000 nucleotides, so the primary RNA transcript is also that long. But it takes only about 1,200 nucleotides to code for an average-sized protein of 400 amino acids. (Remember, each amino acid is encoded by a triplet of nucleotides.) This means that most eukaryotic genes and their RNA transcripts have long noncoding stretches of nucleotides, regions that are not translated. Even more surprising is that most of these noncoding sequences are interspersed between coding segments of the gene and thus between coding segments of the pre-mRNA. In other words, the sequence of DNA nucleotides that codes for a eukaryotic polypeptide is not continuous. The noncoding segments of nucleic acid that lie between coding regions are called intervening sequences, or introns for short. The other regions are called exons, because they are eventually expressed, usually by being translated into amino acid sequences. (Exceptions include the leader and trailer portions of the exons at the ends of the RNA. Because of these exceptions, you may find it helpful to think of exons as DNA that exits the nucleus.) The terms intron and exon are used for both DNA and RNA. Richard Roberts and Phillip Sharp, who independently found evidence of "split genes" in 1977, shared a Nobel Prize in 1993 for this discovery.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-9. RNA processing: RNA splicing. The RNA molecule shown here codes for b globin, one of the polypeptides of hemoglobin. The numbers under the RNA refer to codons; b globin is 146 amino acids long. The b globin gene and its pre-mRNA transcript have three regions, called exons, that consist mostly of coding sequences; exons are separated by noncoding regions, called introns. During RNA processing, the introns are excised and the exons are spliced together.
+
+In making a primary transcript from a gene, RNA polymerase transcribes both introns and exons from the DNA, but the mRNA molecule that enters the cytoplasm is an abridged version. The introns are cut out from the molecule and the exons joined together to form an mRNA molecule with a continuous coding sequence. This is the process of RNA splicing.
+
+How is pre-mRNA splicing carried out? Researchers have learned that the signals for RNA splicing are short nucleotide sequences at the ends of introns. Particles called small nuclear ribonucleoproteins, or snRNPs (pronounced "snurps"), recognize these splice sites. As the name implies, snRNPs are located in the cell nucleus and are composed of RNA and protein molecules. The RNA in a snRNP particle is called a small nuclear RNA (snRNA); each molecule is about 150 nucleotides long. Several different snRNPs join with additional proteins to form an even larger assembly called a spliceosome, which is almost as big as a ribosome. The spliceosome interacts with the splice sites at the ends of an intron. It cuts at specific points to release the intron, then immediately joins together the two exons that flanked the intron (FIGURE 17.10). There is strong evidence that snRNA plays a role in the catalytic process as well as in spliceosome assembly and splice site recognition. The idea of a catalytic role for snRNA arose from the discovery of ribozymes, RNA molecules that function as enzymes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-10. The roles of snRNPs and spliceosomes in mRNA splicing. The diagram shows only a portion of the RNA transcript; additional introns and exons lie downstream from the ones pictured here. 
+			  
+		 Pre-mRNA containing exons and introns combines with small nuclear ribonucleoproteins (snRNPs) and other proteins to form a molecular complex called a spliceosome. 
+			  
+		 Within the spliceosome, snRNA base-pairs with nucleotides at the ends of the intron. 
+			  
+		 The RNA transcript is cut to release the intron, and the exons are spliced together. The spliceosome then comes apart, releasing mRNA, which now contains only exons.
+
+Ribozymes
+
+Like pre-mRNA, other kinds of primary transcripts may also be spliced, but by diverse mechanisms that do not involve spliceosomes. However, as in the mRNA case, RNA is often involved in catalyzing the reactions. In a few cases, the splicing occurs completely without proteins or even extra RNA molecules: The intron RNA catalyzes its own excision! For example, in the protozoan Tetrahymena, self-splicing occurs in the production of an RNA component of the organism's ribosomes (ribosomal RNA). Like enzymes, ribozymes function as catalysts. The discovery of ribozymes rendered obsolete the statement "All biological catalysts are proteins."
+
+The Functional and Evolutionary Importance of Introns
+
+What are the biological functions of introns and RNA splicing? One idea is that introns play regulatory roles in the cell. At least some introns contain sequences that control gene activity in some way, and the splicing process itself may help regulate the passage of mRNA from nucleus to cytoplasm.
+
+One established benefit of split genes is to enable a single gene to encode more than one kind of polypeptide. A number of genes are known to give rise to two or more different polypeptides, depending on which segments are treated as exons during RNA processing; this is called alternative RNA splicing (see FIGURE 19.11). The fruit fly provides an interesting example: Sex differences in this animal are largely due to differences in how males and females splice the RNA transcribed from certain genes. Early results from the Human Genome Project (discussed in Chapter 20) suggest that alternative RNA splicing may be one reason humans can get along with a relatively small number of genes--only about twice as many as a fruit fly.
+
+Split genes may also facilitate the evolution of new and potentially useful proteins. Proteins often have a modular architecture consisting of discrete structural and functional regions called domains. One domain of an enzymatic protein, for instance, might include the active site, while another might attach the protein to a cellular membrane. In many cases, different exons code for the different domains of a protein (FIGURE 17.11). Introns increase the probability of potentially beneficial crossing over between genes. Simply by providing more places where crossing over can occur (and without interfering with coding sequences), introns increase the opportunity for recombination between two alleles of a gene and raise the probability that a crossover will switch one version of an exon for another version found on the homologous chromosome. We can also imagine the occasional mixing and matching of exons between completely different (nonallelic) genes. Exon shuffling of either sort could lead to new proteins with novel combinations of functions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-11. Correspondence between exons and protein domains. In a number of genes, different exons encode separate domains of the protein product. Each domain, an independently folding part of the protein, performs a different function. Such correspondence between exons and domains suggests that new proteins can evolve by exon shuffling among genes.
+
+
+
+
+
+ Translation is the RNA-directed synthesis of a polypeptide: a closer look
+
+In the process of translation, a cell interprets a genetic message and builds a protein accordingly. The message is a series of codons along an mRNA molecule, and the interpreter is called transfer RNA (tRNA). The function of tRNA is to transfer amino acids from the cytoplasm's amino acid pool to a ribosome. A cell keeps its cytoplasm stocked with all 20 amino acids, either by synthesizing them from other compounds or by taking them up from the surrounding solution. The ribosome adds each amino acid brought to it by tRNA to the growing end of a polypeptide chain (FIGURE 17.12, p. 314).
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-12. Translation: the basic concept. As a molecule of mRNA is moved through a ribosome, codons are translated into amino acids, one by one. The interpreters are tRNA molecules, each type with a specific anticodon at one end and a certain amino acid at the other end. A tRNA adds its amino acid cargo to a growing polypeptide chain when the anticodon bonds to a complementary codon on the mRNA. The figures that follow show some of the details of translation in the prokaryotic cell.
+
+Molecules of tRNA are not all identical. The key to translating a genetic message into a specific amino acid sequence is that each type of tRNA molecule links a particular mRNA codon with a particular amino acid. As a tRNA molecule arrives at a ribosome, it bears a specific amino acid at one end. At the other end is a nucleotide triplet called an anticodon, which base-pairs with a complementary codon on mRNA. For example, consider the mRNA codon UUU, which is translated as the amino acid phenylalanine (see FIGURE 17.4). The tRNA that plugs into this codon by hydrogen bonding has AAA as its anticodon and carries phenylalanine at its other end. As an mRNA molecule is moved through a ribosome, phenylalanine will be added to the polypeptide chain whenever the codon UUU is presented for translation. Codon by codon, the genetic message is translated as tRNAs deposit amino acids in the order prescribed, and the ribosome joins the amino acids into a chain. The tRNA molecule is like a flash card with a nucleic acid word (anticodon) on one side and a protein word (amino acid) on the other.
+
+Translation is simple in principle but complex in its biochemistry and mechanics, especially in the eukaryotic cell. In dissecting translation, we'll concentrate on the slightly less complicated version of the process that occurs in prokaryotes. Let's first look at some of the major players in this cellular drama, then see how they act together to make a polypeptide.
+
+The Structure and Function of Transfer RNA
+
+Like mRNA and other types of cellular RNA, transfer RNA molecules are transcribed from DNA templates. In a eukaryotic cell, tRNA, like mRNA, is made in the nucleus and must travel from the nucleus to the cytoplasm, where translation occurs. In both prokaryotic and eukaryotic cells, each tRNA molecule is used repeatedly, picking up its designated amino acid in the cytosol, depositing this cargo at the ribosome, and then leaving the ribosome to pick up another load.
+
+As illustrated in FIGURE 17.13, a tRNA molecule consists of a single RNA strand that is only about 80 nucleotides long (compared to hundreds of nucleotides for most mRNA molecules). This RNA strand folds back upon itself to form a molecule with a three-dimensional structure reinforced by interactions between different parts of the nucleotide chain. Nucleotide bases in certain regions of the tRNA strand form hydrogen bonds with complementary bases of other regions. Flattened into one plane to reveal this base pairing, a tRNA molecule looks like a cloverleaf. The tRNA actually twists and folds into a compact three-dimensional structure that is roughly L-shaped. The loop protruding from one end of the L includes the anticodon, the specialized base triplet that binds to a specific mRNA codon. From the other end of the L-shaped tRNA molecule protrudes its 3&#39; end, which is the attachment site for an amino acid. Thus, the structure of a tRNA molecule fits its function.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 17-13. The structure of transfer RNA (tRNA). Anticodons are conventionally written 3&#39; 5&#39; to align properly with codons written 5&#39; 3&#39; (see FIGURE 17.12). For base pairing, RNA strands must be antiparallel, like DNA (see FIGURE 16.12). For example, anticodon 3&#39;-AAG-5&#39; pairs with mRNA codon 5&#39;-UUC-3&#39;.
+
+If one tRNA variety existed for each of the mRNA codons that specifies an amino acid, there would be 61 tRNAs (see FIGURE 17.4). The actual number is smaller: about 45. This number is sufficient because some tRNAs have anticodons that can recognize two or more different codons. Such versatility is possible because the rules for base pairing between the third base of a codon and the corresponding base of a tRNA anticodon are not as strict as those for DNA and mRNA codons. For example, the base U of a tRNA anticodon can pair with either A or G in the third position of an mRNA codon. This relaxation of the base-pairing rules is called wobble. The most versatile tRNAs are those with inosine (I), a modified base, in the wobble position of the anticodon. Inosine is formed by enzymatic alteration of adenine after tRNA is synthesized. When anticodons associate with codons, the base I can hydrogen-bond with any one of three bases: U, C, or A. Thus, the tRNA molecule that has CCI as its anticodon can bind to the codons GGU, GGC, and GGA, all of which code for the amino acid glycine. Wobble explains why the synonymous codons for a given amino acid can differ in their third base, but usually not in their other bases.
+
+Aminoacyl-tRNA Synthetases
+
+Codon-anticodon bonding is actually the second of two recognition steps required for the accurate translation of a genetic message. It must be preceded by a correct match between tRNA and an amino acid. A tRNA that binds to an mRNA codon specifying a particular amino acid must carry only that amino acid to the ribosome. Each amino acid is joined to the correct tRNA by a specific enzyme called an aminoacyl-tRNA synthetase. There are 20 of these enzymes in the cell, one enzyme for each amino acid. The active site of each type of aminoacyl-tRNA synthetase fits only a specific combination of amino acid and tRNA. The synthetase catalyzes the covalent attachment of the amino acid to its tRNA in a process driven by the hydrolysis of ATP (FIGURE 17.14). The resulting aminoacyl tRNA, also called an activated amino acid, is released from the enzyme and delivers its amino acid to a growing polypeptide chain on a ribosome.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-14. An aminoacyl-tRNA synthetase joins a specific amino acid to a tRNA. Linkage of the tRNA and amino acid is an endergonic process that occurs at the expense of ATP. The ATP loses two phosphate groups, becoming AMP (adenosine monophosphate).
+
+Ribosomes
+
+Ribosomes facilitate the specific coupling of tRNA anticodons with mRNA codons during protein synthesis. A ribosome, which is large enough to be seen with an electron microscope, is made up of two subunits, called the large and small subunits (FIGURE 17.15). The ribosomal subunits are constructed of proteins and RNA molecules named ribosomal RNA (rRNA). In eukaryotes, the subunits are made in the nucleolus. Ribosomal RNA genes on the chromosomal DNA are transcribed, and the RNA is processed and assembled with proteins imported from the cytoplasm. The resulting ribosomal subunits are then exported via nuclear pores to the cytoplasm. In both prokaryotes and eukaryotes, large and small subunits join to form a functional ribosome only when they attach to an mRNA molecule. About two-thirds of the mass of a ribosome is rRNA. Because most cells contain thousands of ribosomes, rRNA is the most abundant type of RNA.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-15. The anatomy of a functioning ribosome.
+
+Although the ribosomes of prokaryotes and eukaryotes are very similar in structure and function, those of eukaryotes are slightly larger and differ somewhat from prokaryotic ribosomes in their molecular composition. The differences are medically significant. Certain antibiotic drugs can paralyze prokaryotic ribosomes without inhibiting the ability of eukaryotic ribosomes to make proteins. These drugs, including tetracycline and streptomycin, are used to combat bacterial infections.
+
+The structure of a ribosome reflects its function of bringing mRNA together with amino acid-bearing tRNAs. In addition to a binding site for mRNA, each ribosome has three binding sites for tRNA (see FIGURE 17.15). The P site (peptidyl-tRNA site) holds the tRNA carrying the growing polypeptide chain, while the A site (aminoacyl-tRNA site) holds the tRNA carrying the next amino acid to be added to the chain. Discharged tRNAs leave the ribosome from the E site (exit site). The ribosome holds the tRNA and mRNA close together and positions the new amino acid for addition to the carboxyl end of the growing polypeptide. It then catalyzes the formation of the peptide bond.
+
+Four decades of genetic and biochemical research on ribosome structure recently culminated in the detailed structure of the bacterial ribosome. One view of the large subunit is shown in FIGURE 17.16, and a ribbon model of the entire ribosome appears at the beginning of this chapter. Ribosome structure strongly supports the hypothesis that rRNA, not protein, carries out the ribosome's functions. RNA is the main constituent of the interface between the two subunits and of the A and P sites, and it is the catalyst of peptide bond formation. Thus, a ribosome can be regarded as one colossal ribozyme! The ribosome's proteins are largely on the exterior, apparently playing a mainly structural role.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-16. Structure of the large ribosomal subunit at the atomic level. In 2000, researchers succeeded in determining the atomic structures of both subunits of the bacterial ribosome using X-ray crystallography (see FIGURE 5.27). This computer model shows the large subunit from a point of view different from that in FIGURE 17.15. Here we are looking at the "bottom" of the large subunit, as it would look from an attached small subunit. The rRNA molecules are colored orange or maroon (sugar-phosphate backbones) and gray (bases) and the proteins are purple. Notice that the proteins are mostly on the outside of the subunit, whereas the rRNA, responsible for the ribosome's functions, is mostly in the interior. The tRNA molecules are included for orientation.
+
+Building a Polypeptide
+
+We can divide translation, the synthesis of a polypeptide chain, into three stages (analogous to those of transcription): initiation, elongation, and termination. All three stages require protein "factors" that aid mRNA, tRNA, and ribosomes in the translation process. For chain initiation and elongation, energy is also required. It is provided by the hydrolysis of GTP (guanosine triphosphate), a molecule closely related to ATP.
+
+Initiation. The initiation stage of translation brings together mRNA, a tRNA bearing the first amino acid of the polypeptide, and the two subunits of a ribosome (FIGURE 17.17). First, a small ribosomal subunit binds to both mRNA and a special initiator tRNA. The small ribosomal subunit attaches to the leader segment at the 5&#39; (upstream) end of the mRNA. In bacteria, rRNA of the small subunit base-pairs with a specific sequence of nucleotides within the mRNA leader; in eukaryotes, the 5&#39; cap first tells the small subunit to attach to the 5&#39; end of the mRNA. Downstream on the mRNA is the initiation codon, AUG, which signals the start of translation. The initiator tRNA, which carries the amino acid methionine, attaches to the initiation codon.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-17. The initiation of translation.
+
+The union of mRNA, initiator tRNA, and a small ribosomal subunit is followed by the attachment of a large ribosomal subunit, completing a translation initiation complex. Proteins called initiation factors are required to bring all these components together. The cell also spends energy in the form of a GTP molecule to form the initiation complex. At the completion of the initiation process, the initiator tRNA sits in the P site of the ribosome, and the vacant A site is ready for the next aminoacyl tRNA. The synthesis of a polypeptide is initiated at its amino end (see FIGURE 5.16b).
+
+Elongation. In the elongation stage of translation, amino acids are added one by one to the preceding amino acid. Each addition involves the participation of several proteins called elongation factors and occurs in a three-step cycle (FIGURE 17.18):
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-18. The elongation cycle of translation. Not shown in this diagram are the proteins called elongation factors. The hydrolysis of GTP drives the elongation process.
+
+
+			  
+		Codon recognition. The mRNA codon in the A site of the ribosome forms hydrogen bonds with the anticodon of an incoming molecule of tRNA carrying its appropriate amino acid. An elongation factor ushers the tRNA into the A site. This step requires the hydrolysis of two molecules of GTP.
+
+
+			  
+		Peptide bond formation. An rRNA molecule of the large ribosomal subunit, functioning as a ribozyme, catalyzes the formation of a peptide bond that joins the polypeptide extending from the P site to the newly arrived amino acid in the A site. In this step, the polypeptide separates from the tRNA to which it was attached, and the amino acid at its carboxyl end bonds to the amino acid carried by the tRNA in the A site.
+
+
+			  
+		Translocation. The ribosome now translocates (moves) the tRNA in the A site, with its attached polypeptide, to the P site. As the tRNA moves, its anticodon remains hydrogen-bonded to the mRNA codon; the mRNA moves along with it and brings the next codon to be translated into the A site. Meanwhile, the tRNA that was in the P site is moved to the E (exit) site and from there leaves the ribosome. The translocation step requires energy, which is provided by hydrolysis of a GTP molecule. The mRNA is moved through the ribosome in one direction only, 5&#39; end first; this is equivalent to the ribosome moving 5&#39; 3&#39;on the mRNA. The important point is that the ribosome and the mRNA move relative to each other, unidirectionally, codon by codon. The elongation cycle takes less than a tenth of a second and is repeated as each amino acid is added to the chain until the polypeptide is completed.
+
+Termination. The final stage of translation is termination (FIGURE 17.19). Elongation continues until a stop codon in the mRNA reaches the A site of the ribosome. The special base triplets UAA, UAG, and UGA do not code for amino acids but instead act as signals to stop translation. A protein called a release factor binds directly to the stop codon in the A site. The release factor causes the addition of a water molecule instead of an amino acid to the polypeptide chain. This reaction hydrolyzes the completed polypeptide from the tRNA that is in the P site, freeing the polypeptide from the ribosome. The remainder of the translation assembly then comes apart.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-19. The termination of translation.
+
+Polyribosomes
+
+A single ribosome can make an average-sized polypeptide in less than a minute. Typically, however, a single mRNA is used to make many copies of a polypeptide simultaneously, because a number of ribosomes work on translating the message at the same time. Once a ribosome moves past the initiation codon, a second ribosome can attach to the mRNA, and thus, multiple ribosomes may trail along the same mRNA. Such strings of ribosomes, called polyribosomes, can be seen with the electron microscope (FIGURE 17.20). Polyribosomes are found in both prokaryotic and eukaryotic cells.
+They help a cell to make many copes of a polypeptide very quickly.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-20. Polyribosomes.
+
+From Polypeptide to Functional Protein
+
+During and after its synthesis, a polypeptide chain begins to coil and fold spontaneously, forming a functional protein of specific conformation: a three-dimensional molecule with secondary and tertiary structure (see FIGURE 5.24). A gene determines primary structure, and primary structure in turn determines conformation. In many cases, a chaperone protein helps the polypeptide fold correctly (see FIGURE 5.26).
+
+Additional steps--posttranslational modifications--may be required before the protein can begin doing its particular job in the cell. Certain amino acids may be chemically modified by the attachment of sugars, lipids, phosphate groups, or other additions. Enzymes may remove one or more amino acids from the leading (amino) end of the polypeptide chain. In some cases, a single polypeptide chain may be enzymatically cleaved into two or more pieces. For example, the protein insulin is first synthesized as a single polypeptide chain but becomes active only after an enzyme cuts out a central part of the chain, leaving a protein made up of two polypeptide chains connected by disulfide bridges (see FIGURE 5.22). In other cases, two or more polypeptides that are synthesized separately may join to become the subunits of a protein that has quaternary structure.
+
+
+
+
+
+ Signal peptides target some eukaryotic polypeptides to specific destinations in the cell
+
+In electron micrographs of eukaryotic cells active in protein synthesis, two populations of ribosomes (and polyribosomes) are evident: free and bound (see FIGURE 7.10). Free ribosomes are suspended in the cytosol and mostly synthesize proteins that dissolve in the cytosol and function there. In contrast, bound ribosomes are attached to the cytosolic side of the endoplasmic reticulum (ER). They make proteins of the endomembrane system (the nuclear envelope, ER, Golgi apparatus, lysosomes, vacuoles, and plasma membrane) as well as proteins secreted from the cell. Insulin is an example of a secretory protein. The ribosomes themselves are identical and can switch their status from free to bound.
+
+What determines whether a ribosome will be free in the cytosol or bound to rough ER at any particular time? The synthesis of all proteins begins in the cytosol, when a free ribosome starts to translate an mRNA molecule. There the process continues to completion--unless the growing polypeptide itself cues the ribosome to attach to the ER. The polypeptides of proteins destined for the endomembrane system or for secretion are marked by a signal peptide, which targets the protein to the ER (FIGURE 17.21). The signal peptide, a sequence of about 20 amino acids at or near the leading (amino) end of the polypeptide, is recognized as it emerges from the ribosome by a protein-RNA complex called a signal-recognition particle (SRP). This particle functions as an adapter that brings the ribosome to a receptor protein built into the ER membrane. This receptor is part of a multiprotein complex. Polypeptide synthesis continues there, and the growing polypeptide snakes across the membrane into the cisternal space via a protein pore. The signal peptide is usually removed by an enzyme. The rest of the completed polypeptide, if it is to be a secretory protein, is released into solution within the cisternal space (as in FIGURE 17.21). Alternatively, if the polypeptide is to be a membrane protein, it remains partially embedded in the ER membrane.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-21. The signal mechanism for targeting proteins to the ER. A polypeptide destined for the endomembrane system or for secretion from the cell begins with a signal peptide, a series of amino acids that targets it for the ER. This figure shows the synthesis of a secretory protein and its simultaneous import into the ER. In the ER and then in the Golgi, the protein is further processed. Finally, a transport vesicle conveys it to the plasma membrane for release from the cell (see FIGURE 8.8).
+
+Other kinds of signal peptides are used to target polypeptides to mitochondria, chloroplasts, the interior of the nucleus, and other organelles that are not part of the endomembrane system. The critical difference in these cases is that translation is completed in the cytosol before the polypeptide is imported into the organelle. The mechanisms of translocation also vary, but in all cases studied to date, the "postal" codes that address proteins to cellular locations are signal peptides of some sort.
+
+
+
+
+
+ RNA plays multiple roles in the cell: a review
+
+As we have seen, the cellular machinery of protein synthesis (and ER targeting) is dominated by RNA of various kinds. In addition to mRNA, these include tRNA, rRNA, and, in eukaryotes, snRNA and SRP RNA (TABLE 17.1). The diverse functions of these molecules range from structural to informational to catalytic. The ability of RNA to perform so many different functions is based on two related characteristics of this kind of molecule: RNA can hydrogen-bond to other nucleic acid molecules (DNA or RNA), and it can assume a specific three-dimen sionalshape by forming hydrogen bonds between bases in different parts of its polynucleotide chain (you saw an example of this intramolecular bonding in tRNA, FIGURE 17.13). DNA may be the genetic material of all living cells today, but RNA is much more versatile. You will learn in Chapter 18 that many viruses even use RNA rather than DNA as their genetic material.
+
+Table 17-1. Types of RNA in a Eukaryotic Cell
+
+Type of RNAFunctionsMessenger RNA (mRNA)Carries information specifying amino acid sequences of proteins from DNA to ribosomes.Transfer RNA (tRNA)Serves as adapter molecule in protein synthesis; translates mRNA codons into amino acids.Ribosomal RNA (rRNA)Plays catalytic (ribozyme) roles and structural roles in ribosomes.Primary transcriptServes as a precursor to mRNA, rRNA, or tRNA and may be processed by splicing or cleavage. In eukaryotes, pre-mRNA commonly contains introns, noncoding segments that are spliced out as the primary transcript is processed. Some intron RNA acts as a ribozyme, catalyzing its own splicing.Small nuclear RNA (snRNA)Plays structural and catalytic roles in spliceosomes, the complexes of protein and RNA that splice pre-mRNA in the eukaryotic nucleus.SRP RNAIs a component of the signal-recognition particle (SRP), the protein-RNA complex that recognizes the signal peptides of polypeptides targeted to the ER.
+
+
+
+ Comparing protein synthesis in prokaryotes and eukaryotes: a review
+
+Although bacteria and eukaryotes carry out transcription and translation in very similar ways, we have noted certain differences in cellular machinery and in details of the processes. Prokaryotic and eukaryotic RNA polymerases are different, and those of eukaryotes depend on transcription factors. Transcription is terminated differently in the two kinds of cells. Also, prokaryotic and eukaryotic ribosomes are slightly different. The most important differences, however, arise from the eukaryotic cell's compartmental organization. Like a oneroom workshop, a prokaryotic cell ensures a streamlined operation. In the absence of a nucleus, it can simultaneously transcribe and translate the same gene (FIGURE 17.22), and the newly made protein can quickly diffuse to its site of function. In contrast, the eukaryotic cell's nuclear envelope segregates transcription from translation and provides a compartment for extensive RNA processing. This processing stage provides additional steps whose regulation can help coordinate the eukaryotic cell's elaborate activities (see Chapter 19). Finally, as we have seen, eukaryotic cells have complicated mechanisms for targeting proteins to the appropriate cellular compartment (organelle).
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-22. Coupled transcription and translation in bacteria. In prokaryotic cells, the translation of mRNA can begin as soon as the leading (5&#39;) end of the mRNA molecule peels away from the DNA template. The micrograph shows a strand of E. coli DNA being transcribed by RNA polymerase molecules. Attached to each RNA polymerase molecule is a growing strand of mRNA, which is already being translated by ribosomes. The newly synthesized polypeptides are not visible in the micrograph (TEM).
+
+Where did eukaryotes--and prokaryotes, for that matter--get the genes that encode the huge diversity of proteins they synthesize? For the past few billion years, the ultimate source of new genes has been the mutation of preexisting genes, the topic of the next section.
+
+
+
+
+
+ Point mutations can affect protein structure and function
+
+Mutations are changes in the genetic material of a cell (or virus). In FIGURE 15.13, we considered large-scale mutations, chromosomal rearrangements that affect long segments of DNA. Now that you have learned about the genetic code and its translation, we can examine point mutations, which are chemical changes in just one base pair of a gene.
+
+If a point mutation occurs in a gamete or in a cell that gives rise to gametes, it may be transmitted to offspring and to a succession of future generations. If the mutation has an adverse effect on the phenotype of a human or other animal, the mutant condition is referred to as a genetic disorder, or hereditary disease. For example, we can trace the genetic basis of sickle-cell disease to a mutation of a single base pair in the gene that codes for one of the polypeptides of hemoglobin. The change of a single nucleotide in the DNA's template strand leads to the production of an abnormal protein (FIGURE 17.23). In individuals who are homozygous for the mutant allele, the sickling of red blood cells caused by the altered hemoglobin produces the multiple symptoms associated with sickle-cell disease (see FIGURE 14.15). Let's see how different types of point mutations translate into altered proteins.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-23. The molecular basis of sickle-cell disease: a point mutation. The allele that causes sickle-cell disease differs from the wild-type (normal) allele by a change in a single DNA base pair.
+
+Types of Point Mutations
+
+Point mutations within a gene can be divided into two general categories: base-pair substitutions and base-pair insertions or deletions. While reading about how these mutations affect proteins, refer to the appropriate parts of FIGURE 17.24.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 17-24. Categories and consequences of point mutations. Mutations are changes in DNA, but they are represented here as they are reflected in mRNA and its protein product. Strictly speaking, the example at the lower left is not a point mutation because it involves insertion or deletion of more than one nucleotide.
+
+Substitutions. A base-pair substitution is the replacement of one nucleotide and its partner in the complementary DNA strand with another pair of nucleotides. Some substitutions are called silent mutations because, owing to the redundancy of the genetic code, they have no effect on the encoded protein. In other words, a change in a base pair may transform one codon into another that is translated into the same amino acid. For example, if CCG mutated to CCA, the mRNA codon that used to be GGC would become GGU, and a glycine would still be inserted at the proper location in the protein (see FIGURE 17.4). Other changes of a single nucleotide pair may switch an amino acid but have little effect on the protein. The new amino acid may have properties similar to those of the amino acid it replaces, or it may be in a region of the protein where the exact sequence of amino acids is not essential to the protein's function.
+
+However, the base-pair substitutions of greatest interest are those that cause a readily detectable change in a protein. The alteration of a single amino acid in a crucial area of a protein--in the active site of an enzyme, for example--will significantly alter protein activity. Occasionally, such a mutation leads to an improved protein or one with novel capabilities that enhance the success of the mutant organism and its descendants. But much more often such mutations are detrimental, creating a useless or less active protein that impairs cellular function.
+
+Substitution mutations are usually missense mutations; that is, the altered codon still codes for an amino acid and thus makes sense, although not necessarily the right sense. But if a point mutation changes a codon for an amino acid into a stop codon, translation will be terminated prematurely, and the resulting polypeptide will be shorter than the polypeptide encoded by the normal gene. Alterations that change an amino acid codon to a stop signal are called nonsense mutations, and nearly all nonsense mutations lead to nonfunctional proteins.
+
+Insertions and Deletions. Insertions and deletions are additions or losses of nucleotide pairs in a gene. These mutations have a disastrous effect on the resulting protein more often than substitutions do. Because mRNA is read as a series of nucleotide triplets during translation, the insertion or deletion of nucleotides may alter the reading frame (triplet grouping) of the genetic message. Such a mutation, called a frameshift mutation, will occur whenever the number of nucleotides inserted or deleted is not a multiple of three. All the nucleotides that are downstream of the deletion or insertion will be improperly grouped into codons, and the result will be extensive missense ending sooner or later in nonsense--premature termination. Unless the frameshift is very near the end of the gene, it will produce a protein that is almost certain to be nonfunctional.
+
+Mutagens
+
+The production of mutations can occur in a number of ways. Errors during DNA replication, repair, or recombination can lead to base-pair substitutions, insertions, or deletions, as well as to mutations affecting longer stretches of DNA. Mutations resulting from such errors are called spontaneous mutations.
+
+A number of physical and chemical agents, called mutagens, interact with DNA to cause mutations. In the 1920s, Hermann Muller discovered that if he subjected fruit flies to X-rays, genetic changes increased in frequency. Using this method, Muller was able to obtain mutants of Drosophila that he could use in his genetic studies. But he also recognized an alarming implication of his discovery: Because they are mutagens, X-rays and other forms of high-energy radiation pose hazards to the genetic material of people as well as laboratory organisms. Mutagenic radiation, a physical mutagen, includes ultraviolet (UV) light, which can produce disruptive thymine dimers in DNA (see FIGURE 16.17).
+
+Chemical mutagens fall into several categories. Base analogues are chemicals that are similar to normal DNA bases but that pair incorrectly during DNA replication. Some other chemical mutagens interfere with correct DNA replication by inserting themselves into the DNA and distorting the double helix. Still other mutagens cause chemical changes in bases that change their pairing properties.
+
+Researchers have developed various methods to test the mutagenic activity of different chemicals. A major application of these tests is the preliminary screening of chemicals to identify those that may cause cancer. This approach makes sense because most carcinogens (cancer-causing chemicals) are mutagenic and, conversely, most mutagens are carcinogenic.
+
+
+
+
+
+ What is a gene? revisiting the question
+
+Our definition of a gene has evolved over the past few chapters, as it has through the history of genetics. We began with the Mendelian concept of a gene as a discrete unit of inheritance that affects a phenotypic character (Chapter 14). We saw that Morgan and his colleagues assigned such genes to specific loci on chromosomes and that geneticists sometimes use the term locus as a synonym for gene (Chapter 15). We went on to view a gene as a region of specific nucleotide sequence along the length of a DNA molecule (Chapter 16). Finally, in this chapter, we have moved toward a functional definition of a gene as a DNA sequence coding for a specific polypeptide chain. All these definitions are useful, depending on the context in which genes are being studied. (FIGURE 17.25 summarizes the path from gene to polypeptide in a eukaryotic cell.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-25. A summary of transcription and translation in a eukaryotic cell. This diagram shows the path from one gene to one polypeptide. Keep in mind that each gene in the DNA can be transcribed repeatedly into many RNA molecules, and that each mRNA can be translated repeatedly to yield many polypeptides. (Also, remember that the final products of some genes are not polypeptides but RNA molecules, including tRNA and rRNA.) In general, the steps of transcription and translation are similar in prokaryotic and eukaryotic cells. The major difference is the occurrence of mRNA processing in the eukaryotic nucleus. Other significant differences are found in the initiation stages of both transcription and translation and in the termination of transcription.
+
+Even the one gene-one polypeptide definition must be refined and applied selectively. Most eukaryotic genes contain noncoding segments (introns), so large portions of these genes have no corresponding segments in polypeptides. Mo-lec-ular biologists also often include promoters and certain other regulatory regions of DNA within the boundaries of a gene. These DNA sequences are not transcribed, but they can be considered part of the functional gene because they must be present for transcription to occur. Our molecular definition of a gene must also be broad enough to include the DNA that is transcribed into rRNA, tRNA, and other RNAs that are not translated. These genes have no polypeptide products. Thus, we arrive at the following definition: A gene is a region of DNA whose final product is either a polypeptide or an RNA molecule.
+
+For most genes, however, it is still useful to retain the one gene-one polypeptide idea. In this chapter, you have learned in molecular terms how a typical gene is expressed--by transcription into RNA and then translation into a polypeptide that forms a protein of specific structure and function. Proteins, in turn, bring about an organism's observable phenotype.
+
+Genes are subject to regulation. The control of gene expression enables a bacterium, for example, to vary the amounts of particular enzymes as the metabolic needs of the cell change. In multicellular eukaryotes, the control of gene expression makes it possible for cells with the same DNA to diverge during their development into different cell types, such as muscle and nerve cells in animals. We will explore the regulation of gene expression in eukaryotes in Chapters 19 and 21. In the next chapter, we begin our discussion of gene regulation by focusing on the simpler molecular biology of bacteria and viruses.
+
+
+
+

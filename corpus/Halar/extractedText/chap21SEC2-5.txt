@@ -1,0 +1,22 @@
+
+ Transcriptional regulation is directed by maternal molecules in the cytoplasm and signals from other cells
+
+Explaining the role ofmyoDin muscle cell differentiation is a long way from explaining the development of an organism. ThemyoDstory immediately raises the question of what triggers the expression ofthatgene and then raises a series of similar questions leading back to the zygote. What generates thefirstdifferences that arise among the cells in an early embryo? And what controls morphogenesis and the differentiation of all the different cell types as development proceeds? As we saw in the case of muscle cells, this question comes down to which genes are transcribed in the cells of a developing organism. Two sources of information "tell" a cell which genes to express at any given time.
+
+One important source of information that operates early in development is the cytoplasm of the unfertilized egg cell, which contains both RNA and protein molecules encoded by the mother's DNA. The cytoplasm of an egg cell and even its cytosolic fluid are not homogeneous. Messenger RNA, proteins, other substances, and organelles are distributed unevenly in the unfertilized egg, and this heterogeneity has a profound impact on the development of the future embryo in many species. After fertilization, the cell nuclei resulting from mitotic division of the zygote are exposed to different cytoplasmic environments. The maternal substances in the egg that influence the course of early development, calledcytoplasmic determinants,regulate the expression of genes that affect the developmental fate of the cells (FIGURE 21.10a).
+
+
+
+Click image to enlarge
+
+
+
+Fig 21-10. Sources of developmental information for the early embryo.
+
+The other important source of developmental information, which becomes increasingly important as the number of embryonic cells grows, is the environment around a cell. Most important are the signals impinging on an embryonic cell from other embryonic cells in the vicinity. The synthesis of the molecules conveying these signals is controlled by the embryo's own genes. The signal molecules cause changes in nearby target cells, a process calledinduction(FIGURE 21.10b). In general, the signal molecules induce the observable cellular changes by causing a change in gene expression in the target cells. Thus, interactions among embryonic cells eventually induce differentiation of the many specialized cell types making up a new organism. Induction may be accomplished by the diffusion of chemical signals or, if the cells are actually in contact, by cell surface interactions.
+
+You'll learn more about cytoplasmic determinants and induction as we take a closer look at some important genetic and cellular mechanisms of development in three model organisms:Drosophila, C. elegans, andArabidopsis.
+
+
+
+

@@ -1,0 +1,18 @@
+
+ Trophic relationships determine the routes of energy flow and chemical cycling in an ecosystem
+
+The trophic level that ultimately supports all others in an ecosystem consists of autotrophs, the primary producers of the ecosystem. Most autotrophs are photosynthetic organisms that use light energy to synthesize sugars and other organic compounds, which they then use as fuel for cellular respiration and as building material for growth. Plants, algae, and photosynthetic prokaryotes are the biosphere's main autotrophs, although chemoautotrophic prokaryotes are the primary producers in certain ecosystems, such as deep-sea hydrothermal vents (see FIGURE 50.23).
+
+Organisms in trophic levels above the primary producers are heterotrophs, which directly or indirectly depend on the photosynthetic output of primary producers. Herbivores, which eat primary producers (plants or algae), are the primary consumers. Carnivores that eat herbivores are secondary consumers, and carnivores that eat other carnivores are tertiary consumers. Another important group of heterotrophs consists of the detritivores. Detritivores, or decomposers, are consumers that get their energy from detritus, which is nonliving organic material, such as the remains of dead organisms, feces, fallen leaves, and wood. Decomposers play a central role in material cycling (FIGURE 54.1).
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-1. An overview of ecosystem dynamics. This generalized scheme traces energy flow (broken red lines) and material cycling (solid blue lines) in ecosystems. Energy flow starts from the sun as solar radiation, moves as chemical energy transfers in the food web, and finishes as heat radiated into space. Materials flow through the trophic levels eventually to detritus and then cycle back to the primary producers.
+
+
+
+

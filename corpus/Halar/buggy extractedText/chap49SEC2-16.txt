@@ -1,0 +1,32 @@
+
+ Muscles move skeletal parts by contracting
+
+As we mentioned earlier, animal movement is based on the contraction of muscles working against some type of skeleton. The action of a muscle is always to contract; muscles can extend only passively.
+
+The ability to move parts of the body in opposite directions requires that muscles be attached to the skeleton in antagonistic pairs, each muscle working against the other (FIGURE 49.30). We flex our arm, for instance, by contracting the biceps, with the hinged joint of the elbow acting as the fulcrum of a lever. To extend the arm, we relax the biceps while the triceps on the opposite side contracts. But how does a muscle actually contract? As always, the key to function is structure. In this section we will examine the structure and mechanism of contraction of vertebrate skeletal muscle and then compare this basic pattern with other types of muscle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-30. The cooperation of muscles and skeletons in movement. Muscles actively contract, but they elongate only when passively stretched. Back-and-forth movement is generally accomplished by antagonistic muscles, each working against the other. This arrangement works with either an endoskeleton or an exoskeleton. (a) In humans, contraction of the biceps muscle, represented by red in the bottom diagram, raises (flexes) the forearm. Contraction of the triceps muscle (green) lowers (extends) the forearm. (b) Although arthropod muscles are positioned differently and housed within an exoskeleton, the antagonistic action of flexors and extensors is similar to that of a vertebrate. When the flexor muscle (red) in the upper part of a grasshopper's leg contracts, the lower leg is pulled toward the body. In this position the grasshopper is sitting, poised for a jump, as shown here. Alternatively, when the extensor muscle (green) in its upper leg contracts, the leg jerks backward, sending the insect into the air.
+
+Structure and Function of Vertebrate Skeletal Muscle
+
+Vertebrate skeletal muscle, which is attached to the bones and is responsible for their movement, is characterized by a hierarchy of smaller and smaller parallel units (FIGURE 49.31). A skeletal muscle consists of a bundle of long fibers running the length of the muscle. Each fiber is a single cell with many nuclei, reflecting its formation by the fusion of many embryonic cells. Each fiber is itself a bundle of smaller myofibrils arranged longitudinally. The myofibrils, in turn, are composed of two kinds of myofilaments. Thin filaments consist of two strands of actin and one strand of regulatory protein coiled around one another, while thick filaments are staggered arrays of myosin molecules.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-31. The structure of skeletal muscle.
+
+Skeletal muscle is also called striated muscle because the regular arrangement of the myofilaments creates a repeating pattern of light and dark bands. Each repeating unit is a sarcomere, the basic contractile unit of the muscle. The borders of the sarcomere, the Z lines, are lined up in adjacent myofibrils and contribute to the striations visible with a light microscope. The thin filaments are attached to the Z lines and project toward the center of the sarcomere, while the thick filaments are centered in the sarcomere. At rest, the thick and thin filaments do not overlap completely, and the area near the edge of the sarcomere where there are only thin filaments is called the I band. The A band is the broad region that corresponds to the length of the thick filaments. The thin filaments do not extend completely across the sarcomere, so the H zone in the center of the A band contains only thick filaments. This arrangement of thick and thin filaments is the key to how the sarcomere, and hence the whole muscle, contracts.
+
+
+
+

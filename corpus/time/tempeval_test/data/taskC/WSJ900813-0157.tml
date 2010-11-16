@@ -1,0 +1,392 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+
+WSJ900813-0157
+
+
+900813-0157.
+
+
+   Iraqi Chief Links
+   Kuwait Pullout
+   To Israeli Move
+   ---
+   U.S. Rejects the Initiative,
+   Aimed at Rallying Arabs,
+   And Readies Blockade
+   ----
+   By Gerald F. Seib and Walter S. Mossberg
+   Staff Reporters of The Wall Street Journal
+
+
+<TIMEX3 tid="t397" type="DATE" value="1990-08-13" temporalFunction="false" functionInDocument="CREATION_TIME">08/13/90</TIMEX3>
+
+
+WALL STREET JOURNAL (J), PAGE A3
+
+
+   MDEST FORGN
+
+
+MONETARY NEWS, FOREIGN EXCHANGE, TRADE (MON)
+PETROLEUM (PET)
+FOOD PRODUCTS (FOD)
+
+
+EXECUTIVE (EXE)
+STATE DEPARTMENT (STD)
+DEFENSE DEPARTMENT (DEF)
+
+
+   WASHINGTON -- Iraq's Saddam Hussein, his options for <EVENT eid="e400" mainevent="NO" class="ASPECTUAL" stem="end" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">ending</EVENT> the Persian Gulf <EVENT eid="e399" mainevent="NO" class="STATE" stem="crisis" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">crisis</EVENT> growing increasingly unpleasant, <EVENT eid="e401" mainevent="NO" class="I_STATE" stem="assume" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">assumed</EVENT> the <EVENT eid="e462" mainevent="NO" class="STATE" stem="role" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">role</EVENT> of embattled Arab hero in <EVENT eid="e403" mainevent="NO" class="I_ACTION" stem="offering" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offering</EVENT> his first rough <EVENT eid="e404" mainevent="NO" class="OCCURRENCE" stem="proposal" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">proposal</EVENT> for a negotiated <EVENT eid="e405" mainevent="NO" class="ASPECTUAL" stem="end" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">end</EVENT> to the <EVENT eid="e406" mainevent="NO" class="STATE" stem="confrontation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">confrontation</EVENT>.
+   The Iraqi leader, in an "<EVENT eid="e407" mainevent="NO" class="OCCURRENCE" stem="initiative" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">initiative</EVENT>" <EVENT eid="e408" mainevent="NO" class="OCCURRENCE" stem="design" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">designed</EVENT> as much to <EVENT eid="e411" mainevent="NO" class="I_ACTION" stem="rally" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">rally</EVENT> Arab public <EVENT eid="e412" mainevent="NO" class="STATE" stem="opinion" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">opinion</EVENT> as to <EVENT eid="e413" mainevent="NO" class="I_ACTION" stem="launch" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">launch</EVENT> meaningful <EVENT eid="e414" mainevent="NO" class="STATE" stem="negotiation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">negotiations</EVENT>, <EVENT eid="e415" mainevent="NO" class="REPORTING" stem="announce" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">announced</EVENT> <TIMEX3 tid="t416" type="DATE" value="1990-08-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">yesterday</TIMEX3> that he will <EVENT eid="e417" mainevent="NO" class="OCCURRENCE" stem="withdraw" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">withdraw</EVENT> his troops from Kuwait only if Israel <EVENT eid="e418" mainevent="NO" class="OCCURRENCE" stem="withdraw" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">withdraws</EVENT> from the West Bank and Syria from Lebanon. He apparently <EVENT eid="e419" mainevent="NO" class="I_STATE" stem="hope" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">hopes</EVENT> to <EVENT eid="e421" mainevent="NO" class="OCCURRENCE" stem="lure" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">lure</EVENT> <EVENT eid="e422" mainevent="NO" class="OCCURRENCE" stem="support" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">support</EVENT> from Arabs who have <EVENT eid="e423" mainevent="NO" class="OCCURRENCE" stem="spurn" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="VERB">spurned</EVENT> him so far by <EVENT eid="e424" mainevent="NO" class="I_ACTION" stem="suggesting" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">suggesting</EVENT> that Iraq will <EVENT eid="e425" mainevent="NO" class="OCCURRENCE" stem="use" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">use</EVENT> its <EVENT eid="e426" mainevent="NO" class="STATE" stem="occupation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">occupation</EVENT> of Kuwait as a lever to <EVENT eid="e427" mainevent="NO" class="OCCURRENCE" stem="solve" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">solve</EVENT> the Arab world's most frustrating <EVENT eid="e428" mainevent="NO" class="STATE" stem="problem" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">problem</EVENT>, the 23-year Israeli <EVENT eid="e429" mainevent="NO" class="STATE" stem="occupation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">occupation</EVENT> of land <EVENT eid="e430" mainevent="NO" class="OCCURRENCE" stem="claim" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">claimed</EVENT> by Palestinians.
+
+
+   <s>Even as Saddam Hussein was <EVENT eid="e2" mainevent="NO" class="I_ACTION" stem="search" tense="PAST" aspect="PROGRESSIVE" polarity="POS" pos="VERB">searching</EVENT> for a <EVENT eid="e3" mainevent="NO" class="OCCURRENCE" stem="ploy" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">ploy</EVENT> to <EVENT eid="e5" mainevent="NO" class="OCCURRENCE" stem="ease" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">ease</EVENT> his <EVENT eid="e6" mainevent="NO" class="STATE" stem="isolation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">isolation</EVENT>, though, the international <EVENT eid="e431" mainevent="NO" class="OCCURRENCE" stem="pressure" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">pressure</EVENT> against him <EVENT eid="e7" mainevent="YES" class="OCCURRENCE" stem="click" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">clicked</EVENT> up another notch.</s> <s>The White House <TIMEX3 tid="t432" type="DATE" value="1990-08-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">yesterday</TIMEX3> <EVENT eid="e8" mainevent="YES" class="REPORTING" stem="disclose" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">disclosed</EVENT> that Kuwait's ousted government has formally <EVENT eid="e9" mainevent="NO" class="I_ACTION" stem="ask" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">asked</EVENT> the U.S. to <EVENT eid="e11" mainevent="NO" class="OCCURRENCE" stem="enforce" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">enforce</EVENT> the total trade <EVENT eid="e433" mainevent="NO" class="STATE" stem="embargo" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">embargo</EVENT> the United Nations has <EVENT eid="e12" mainevent="NO" class="OCCURRENCE" stem="impose" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">imposed</EVENT> on Iraq, <EVENT eid="e13" mainevent="NO" class="OCCURRENCE" stem="allow" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">allowing</EVENT> the U.S. and other nations to immediately <EVENT eid="e15" mainevent="NO" class="ASPECTUAL" stem="begin" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">begin</EVENT> <EVENT eid="e16" mainevent="NO" class="ASPECTUAL" stem="stop" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">stopping</EVENT> ships <EVENT eid="e17" mainevent="NO" class="OCCURRENCE" stem="carry" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">carrying</EVENT> Iraqi goods.</s>
+   <s>Secretary of State James Baker, <EVENT eid="e18" mainevent="NO" class="OCCURRENCE" stem="speak" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">speaking</EVENT> on ABC News' "This Week," <EVENT eid="e19" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the Kuwaiti <EVENT eid="e20" mainevent="NO" class="I_ACTION" stem="request" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">request</EVENT> <EVENT eid="e21" mainevent="NO" class="OCCURRENCE" stem="give" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">gives</EVENT> the U.S. and other countries "a legal basis for <EVENT eid="e22" mainevent="NO" class="ASPECTUAL" stem="stop" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">stopping</EVENT> the <EVENT eid="e434" mainevent="NO" class="STATE" stem="export" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">export</EVENT> of oil and that sort of thing."</s> <s>The U.S. <EVENT eid="e24" mainevent="YES" class="REPORTING" stem="maintain" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">maintains</EVENT> that under the U.N. charter, the Kuwaiti <EVENT eid="e25" mainevent="NO" class="OCCURRENCE" stem="request" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">request</EVENT> <EVENT eid="e26" mainevent="NO" class="ASPECTUAL" stem="trigger" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">triggers</EVENT> steps for the collective <EVENT eid="e27" mainevent="NO" class="OCCURRENCE" stem="enforcement" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">enforcement</EVENT> of international <EVENT eid="e28" mainevent="NO" class="OCCURRENCE" stem="sanction" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">sanctions</EVENT>.</s>
+   <s>Mr. Baker <EVENT eid="e29" mainevent="YES" class="OCCURRENCE" stem="decline" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">declined</EVENT> to <EVENT eid="e31" mainevent="NO" class="OCCURRENCE" stem="use" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">use</EVENT> the word <EVENT eid="e32" mainevent="NO" class="OCCURRENCE" stem="blockade" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">blockade</EVENT>, but <EVENT eid="e33" mainevent="NO" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> that
+"<EVENT eid="e34" mainevent="NO" class="I_ACTION" stem="interdiction" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">interdiction</EVENT>" of Iraqi <EVENT eid="e35" mainevent="NO" class="OCCURRENCE" stem="shipment" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">shipments</EVENT> would <EVENT eid="e435" mainevent="NO" class="ASPECTUAL" stem="begin" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">begin</EVENT> " almost instantly."</s> <s>In a <EVENT eid="e38" mainevent="NO" class="OCCURRENCE" stem="statement" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">statement</EVENT>, the White House <EVENT eid="e39" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> it would <EVENT eid="e40" mainevent="NO" class="OCCURRENCE" stem="do" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">do</EVENT> "whatever is necessary" to <EVENT eid="e43" mainevent="NO" class="I_ACTION" stem="ensure" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">ensure</EVENT> <EVENT eid="e44" mainevent="NO" class="OCCURRENCE" stem="compliance" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">compliance</EVENT> with the <EVENT eid="e45" mainevent="NO" class="OCCURRENCE" stem="sanction" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">sanctions</EVENT>.</s>
+   <s>Other Bush administration officials <EVENT eid="e46" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> that the international naval force in the area -- consisting of American, British, French, Canadian, Soviet, German and Australian ships -- may be <EVENT eid="e48" mainevent="NO" class="OCCURRENCE" stem="use" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">used</EVENT> both to <EVENT eid="e51" mainevent="NO" class="ASPECTUAL" stem="stop" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">stop</EVENT> oil <EVENT eid="e436" mainevent="NO" class="OCCURRENCE" stem="export" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">exports</EVENT> from <EVENT eid="e53" mainevent="NO" class="OCCURRENCE" stem="leave" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">leaving</EVENT> Iraq and Kuwait and to <EVENT eid="e55" mainevent="NO" class="ASPECTUAL" stem="stop" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">stop</EVENT> <EVENT eid="e56" mainevent="NO" class="OCCURRENCE" stem="shipment" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">shipments</EVENT> of food and
+other goods from <EVENT eid="e58" mainevent="NO" class="OCCURRENCE" stem="go" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">going</EVENT> in.</s> <s>President Bush <EVENT eid="e59" mainevent="YES" class="OCCURRENCE" stem="imply" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">implied</EVENT> as much <TIMEX3 tid="t437" type="DATE" value="1990-08-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">yesterday</TIMEX3> when reporters <EVENT eid="e61" mainevent="NO" class="I_ACTION" stem="ask" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">asked</EVENT> whether the <EVENT eid="e62" mainevent="NO" class="OCCURRENCE" stem="interdiction" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">interdiction</EVENT> would <EVENT eid="e63" mainevent="NO" class="OCCURRENCE" stem="apply" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">apply</EVENT> to food.</s> <s>The president <EVENT eid="e65" mainevent="YES" class="REPORTING" stem="respond" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">responded</EVENT>, "Everything, everything."</s> <s>While <EVENT eid="e67" mainevent="NO" class="OCCURRENCE" stem="shy" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">shying</EVENT> away from actually <EVENT eid="e69" mainevent="NO" class="OCCURRENCE" stem="use" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">using</EVENT> the word "blockade," Mr. Bush <EVENT eid="e72" mainevent="YES" class="REPORTING" stem="acknowledge" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">acknowledged</EVENT> that the U.S. and others were <EVENT eid="e73" mainevent="NO" class="I_ACTION" stem="try" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">trying</EVENT> to <EVENT eid="e75" mainevent="NO" class="ASPECTUAL" stem="block" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">block</EVENT> <EVENT eid="e76" mainevent="NO" class="OCCURRENCE" stem="ship" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">shipping</EVENT> to Iraq.</s> <s>"No point getting into all these semantics," he <EVENT eid="e78" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>.</s> <s>"The main thing is to <EVENT eid="e81" mainevent="YES" class="ASPECTUAL" stem="stop" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">stop</EVENT> the oil from <EVENT eid="e83" mainevent="NO" class="OCCURRENCE" stem="come" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">coming</EVENT> out of there."</s>
+   <s>The naval interdiction force is part of an overall American strategy that officials say is designed to leave the Iraqi leader with only the stark choice of backing out of Kuwait or launching new attacks to change his situation.</s>
+<s>Though they insist they are n't trying to lure Saddam Hussein into an attack, officials hope that if he strikes again, the U.S. and its allies will have such an impressive force in place in Saudi Arabia that they will be able to crush him in
+retaliation.</s>
+   <s>Iraq's first option, of course, may be simply to  sit tight and hope it can endure a trade embargo longer than the West can live without Iraqi and Kuwaiti oil.</s> <s><EVENT eid="e117" mainevent="NO" class="OCCURRENCE" stem="speaking" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">Speaking</EVENT> on the ABC program, Abdul Amir al-Anbari, Iraq's ambassador to the U.N., <EVENT eid="e118" mainevent="YES" class="REPORTING" stem="assert" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">asserted</EVENT> that an <EVENT eid="e440" mainevent="NO" class="STATE" stem="embargo" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">embargo</EVENT> on Iraq could <EVENT eid="e119" mainevent="NO" class="ASPECTUAL" stem="plunge" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">plunge</EVENT> the U.S. into a "<EVENT eid="e442" mainevent="NO" class="STATE" stem="depression" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">depression</EVENT>" and the rest of the world into an economic "<EVENT eid="e121" mainevent="NO" class="STATE" stem="crisis" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">crisis</EVENT>."</s>
+   <s>Iraq clearly is <EVENT eid="e122" mainevent="YES" class="I_ACTION" stem="try" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">trying</EVENT> to <EVENT eid="e124" mainevent="NO" class="OCCURRENCE" stem="woo" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">woo</EVENT> back more Arab <EVENT eid="e125" mainevent="NO" class="OCCURRENCE" stem="support" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">support</EVENT> in case the <EVENT eid="e128" mainevent="NO" class="STATE" stem="conflict" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">conflict</EVENT> <EVENT eid="e129" mainevent="NO" class="OCCURRENCE" stem="drag" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">drags</EVENT> on, <EVENT eid="e130" mainevent="NO" class="I_STATE" stem="hope" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">hoping</EVENT> that its neighbors eventually will <EVENT eid="e131" mainevent="NO" class="OCCURRENCE" stem="help" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">help</EVENT> it <EVENT eid="e132" mainevent="NO" class="OCCURRENCE" stem="survive" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">survive</EVENT> a prolonged <EVENT eid="e133" mainevent="NO" class="STATE" stem="war" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">war</EVENT> of economic attrition with the West.</s> <s>So Saddam Hussein on <TIMEX3 tid="t443" type="DATE" value="1990-08-10" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">Friday</TIMEX3> <EVENT eid="e134" mainevent="YES" class="I_ACTION" stem="try" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">tried</EVENT> to <EVENT eid="e136" mainevent="NO" class="OCCURRENCE" stem="scare" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">scare</EVENT> other Arab leaders into <EVENT eid="e138" mainevent="NO" class="OCCURRENCE" stem="support" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">supporting</EVENT> him by <EVENT eid="e139" mainevent="NO" class="OCCURRENCE" stem="call" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">calling</EVENT> on
+Arabs to <EVENT eid="e141" mainevent="NO" class="ASPECTUAL" stem="rise" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">rise</EVENT> up in a holy <EVENT eid="e142" mainevent="NO" class="STATE" stem="war" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">war</EVENT> against leaders who <EVENT eid="e144" mainevent="NO" class="OCCURRENCE" stem="invite" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">invited</EVENT> American and other Western soldiers into Saudi Arabia to <EVENT eid="e146" mainevent="NO" class="OCCURRENCE" stem="protect" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">protect</EVENT> the oil-rich kingdom.</s>
+   <s>Then <TIMEX3 tid="t444" type="DATE" value="1990-08-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">yesterday</TIMEX3>, he <EVENT eid="e147" mainevent="YES" class="I_ACTION" stem="try" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">tried</EVENT> to <EVENT eid="e149" mainevent="NO" class="OCCURRENCE" stem="entice" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">entice</EVENT> Arab leaders with his <EVENT eid="e150" mainevent="NO" class="OCCURRENCE" stem="proposal" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">proposal</EVENT> for a diplomatic <EVENT eid="e151" mainevent="NO" class="OCCURRENCE" stem="solution" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">solution</EVENT> <EVENT eid="e152" mainevent="NO" class="OCCURRENCE" stem="link" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">linking</EVENT> his <EVENT eid="e153" mainevent="NO" class="OCCURRENCE" stem="occupation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">occupation</EVENT> of Kuwait with Israel's <EVENT eid="e154" mainevent="NO" class="OCCURRENCE" stem="occupation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">occupation</EVENT> of the West Bank.</s> <s>The <EVENT eid="e155" mainevent="NO" class="OCCURRENCE" stem="proposal" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">proposal</EVENT> also <EVENT eid="e156" mainevent="YES" class="I_ACTION" stem="call" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">called</EVENT> for <EVENT eid="e157" mainevent="NO" class="OCCURRENCE" stem="replacing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">replacing</EVENT> American and other Western troops in Saudi Arabia with Arab forces.</s> <s>The Bush administration immediately <EVENT eid="e158" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> it "categorically " <EVENT eid="e159" mainevent="NO" class="OCCURRENCE" stem="reject" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">rejects</EVENT> the <EVENT eid="e160" mainevent="NO" class="OCCURRENCE" stem="proposal" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">proposals</EVENT>.</s> <s>And President Bush <TIMEX3 tid="t445" type="DATE" value="1990-08-12" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">yesterday</TIMEX3>, <EVENT eid="e161" mainevent="NO" class="I_ACTION" stem="ask" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">asked</EVENT> whether he was at least glad Iraq is <EVENT eid="e162" mainevent="NO" class="OCCURRENCE" stem="discuss" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">discussing</EVENT> <EVENT eid="e163" mainevent="NO" class="OCCURRENCE" stem="negotiation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">negotiations</EVENT>, <EVENT eid="e164" mainevent="YES" class="REPORTING" stem="reply" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">replied</EVENT>: "I do n't <EVENT eid="e165" mainevent="NO" class="PERCEPTION" stem="see" tense="PRESENT" aspect="NONE" polarity="NEG" pos="VERB">see</EVENT> anything to be <EVENT eid="e168" mainevent="NO" class="OCCURRENCE" stem="pleasing" tense="NONE" aspect="NONE" polarity="POS" pos="ADJECTIVE">pleasing</EVENT> in there at all."</s>
+   <s>American strategists are  calculating  , though, that the trade sanctions -- enforced by an effective though perhaps undeclared naval blockade -- will hold tightly enough to convince Iraq that it will lose in the long run by simply standing pat.</s>
+   <s>At that point, rather than <EVENT eid="e180" mainevent="NO" class="OCCURRENCE" stem="go" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">go</EVENT> through the humiliation of <EVENT eid="e182" mainevent="NO" class="OCCURRENCE" stem="backing" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">backing</EVENT> out of Kuwait, the Iraqis might well <EVENT eid="e183" mainevent="YES" class="OCCURRENCE" stem="conclude" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">conclude</EVENT> that they <EVENT eid="e185" mainevent="NO" class="OCCURRENCE" stem="need" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">need</EVENT> to <EVENT eid="e187" mainevent="NO" class="OCCURRENCE" stem="lash" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">lash</EVENT> out in some way to <EVENT eid="e191" mainevent="NO" class="OCCURRENCE" stem="shake" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">shake</EVENT> things up.</s> <s>In that event, Saddam Hussein <EVENT eid="e192" mainevent="YES" class="OCCURRENCE" stem="appear" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">appears</EVENT> to  <EVENT eid="e196" mainevent="NO" class="OCCURRENCE" stem="have" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">have</EVENT> three <EVENT eid="e194" mainevent="NO" class="OCCURRENCE" stem="choice" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">choices</EVENT>.</s>
+   <s>The first would be to  <EVENT eid="e198" mainevent="YES" class="ASPECTUAL" stem="launch" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">launch</EVENT> the much-feared direct <EVENT eid="e200" mainevent="NO" class="OCCURRENCE" stem="invasion" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">invasion</EVENT> of Saudi Arabia, <EVENT eid="e201" mainevent="NO" class="I_STATE" stem="hope" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">hoping</EVENT> to <EVENT eid="e203" mainevent="NO" class="OCCURRENCE" stem="seize" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">seize</EVENT> some Saudi oil fields and <EVENT eid="e204" mainevent="NO" class="OCCURRENCE" stem="improve" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">improve</EVENT> his bargaining position.</s> <s>But that <EVENT eid="e205" mainevent="NO" class="OCCURRENCE" stem="option" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">option</EVENT> is <EVENT eid="e206" mainevent="YES" class="OCCURRENCE" stem="grow" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">growing</EVENT> less and less likely as thousands of American, British, Egyptian, Syrian and Moroccan forces <EVENT eid="e207" mainevent="NO" class="OCCURRENCE" stem="assemble" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">assemble</EVENT> in and around Saudi Arabia to <EVENT eid="e209" mainevent="NO" class="OCCURRENCE" stem="protect" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">protect</EVENT> the kingdom.</s> <s>The Saudis even have in their <EVENT eid="e210" mainevent="NO" class="OCCURRENCE" stem="possession" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">possession</EVENT> 48 Kuwaiti jet fighters, virtually the entire Kuwaiti air force, which <EVENT eid="e212" mainevent="NO" class="I_ACTION" stem="manage" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">managed</EVENT> to <EVENT eid="e214" mainevent="NO" class="OCCURRENCE" stem="escape" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">escape</EVENT> the Iraqi <EVENT eid="e215" mainevent="NO" class="OCCURRENCE" stem="invasion" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">invasion</EVENT>, Saudi officials <EVENT eid="e216" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>.</s> <s>The Saudi "window of vulnerability . . . is <EVENT eid="e446" mainevent="NO" class="OCCURRENCE" stem="close" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">closing</EVENT> very fast," Prince Bandar bin Sultan, the Saudi ambassador to Washington, <EVENT eid="e218" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> over <TIMEX3 tid="t447" type="DATE" value="1990-W32-WE" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">the weekend</TIMEX3>.</s>
+   <s>The second <EVENT eid="e448" mainevent="NO" class="OCCURRENCE" stem="possibility" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">possibility</EVENT> would be to  <EVENT eid="e220" mainevent="YES" class="ASPECTUAL" stem="start" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">start</EVENT> a <EVENT eid="e222" mainevent="NO" class="OCCURRENCE" stem="fight" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">fight</EVENT> with Israel, in hopes that all Arabs would have to <EVENT eid="e227" mainevent="NO" class="OCCURRENCE" stem="move" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">move</EVENT> behind Iraq in a <EVENT eid="e228" mainevent="NO" class="OCCURRENCE" stem="fight" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">fight</EVENT> against their common Israeli enemy.</s> <s>In such an event, Saddam Hussein also might <EVENT eid="e230" mainevent="YES" class="OCCURRENCE" stem="calculate" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">calculate</EVENT>, the Saudis would be under <EVENT eid="e468" mainevent="NO" class="OCCURRENCE" stem="pressure" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">pressure</EVENT> to <EVENT eid="e234" mainevent="NO" class="OCCURRENCE" stem="kick" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">kick</EVENT> out U.S. troops because of America's close ties with Israel.</s>
+   <s>Iraq could <EVENT eid="e235" mainevent="YES" class="ASPECTUAL" stem="start" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">start</EVENT> <EVENT eid="e699" mainevent="NO" class="OCCURRENCE" stem="hostility" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">hostilities</EVENT> with Israel either through a direct <EVENT eid="e237" mainevent="NO" class="OCCURRENCE" stem="attack" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">attack</EVENT> or by <EVENT eid="e239" mainevent="NO" class="OCCURRENCE" stem="attack" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">attacking</EVENT> Jordan.</s> <s>Israel has publicly <EVENT eid="e240" mainevent="YES" class="REPORTING" stem="declare" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="VERB">declared</EVENT> that it will <EVENT eid="e241" mainevent="NO" class="OCCURRENCE" stem="respond" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">respond</EVENT> to an Iraqi <EVENT eid="e242" mainevent="NO" class="OCCURRENCE" stem="attack" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">attack</EVENT> on Jordan because it wo n't <EVENT eid="e243" mainevent="NO" class="OCCURRENCE" stem="allow" tense="FUTURE" aspect="NONE" polarity="NEG" pos="VERB">allow</EVENT> Iraq's dangerous army to <EVENT eid="e703" mainevent="NO" class="OCCURRENCE" stem="take" tense="PRESENT" aspect="NONE" polarity="POS" pos="OTHER">take</EVENT> control of Jordan's long border with Israel.</s>
+   <s>Iraq's third attack <EVENT eid="e247" mainevent="NO" class="OCCURRENCE" stem="option" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">option</EVENT> would be to  <EVENT eid="e249" mainevent="YES" class="ASPECTUAL" stem="start" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">start</EVENT> an undeclared <EVENT eid="e251" mainevent="NO" class="STATE" stem="war" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">war</EVENT> on the U.S. and other Western nations through <EVENT eid="e252" mainevent="NO" class="STATE" stem="terrorism" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">terrorism</EVENT>.</s>
+<s>Two Middle East terrorists with records of successful attacks against Western targets, Abu Nidal and Abu Abbas, have ties to Baghdad.</s> <s>And even terrorist groups that opposed Iraq in its war with Iran show signs of swinging behind Saddam Hussein now that he is in a confrontation with the U.S.    And Iraq still <EVENT eid="e262" mainevent="YES" class="OCCURRENCE" stem="have" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">has</EVENT> thousands of Americans and other Westerners under its control in Iraq and Kuwait.</s> <s>They are n't being <EVENT eid="e263" mainevent="YES" class="OCCURRENCE" stem="allow" tense="PRESENT" aspect="NONE" polarity="NEG" pos="VERB">allowed</EVENT> to <EVENT eid="e266" mainevent="NO" class="OCCURRENCE" stem="leave" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">leave</EVENT> and could <EVENT eid="e267" mainevent="NO" class="OCCURRENCE" stem="become" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">become</EVENT> hostages.</s>
+   <s>If Iraq chooses a simple war of nerves and economic attrition, the Bush administration knows a long stalemate could try the patience of the American public and the West in general, and could open the possibility that moderate Arabs -- even including Saudi Arabia -- might drop out of the effort against Iraq and accept some deal from Saddam Hussein.</s>
+   <s>But U.S. officials have <EVENT eid="e281" mainevent="YES" class="OCCURRENCE" stem="size" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">sized</EVENT> up Saddam Hussein as a man who, despite some recklessness, will <EVENT eid="e282" mainevent="NO" class="OCCURRENCE" stem="back" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">back</EVENT> down if he must.</s>
+<s>"This is a guy who is impulsive, and therefore capable of big <EVENT eid="e284" mainevent="NO" class="OCCURRENCE" stem="miscalculation" tense="PRESENT" aspect="NONE" polarity="POS" pos="NOUN">miscalculations</EVENT>," <EVENT eid="e285" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">says</EVENT> one senior administration official <EVENT eid="e286" mainevent="NO" class="OCCURRENCE" stem="involve" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">involved</EVENT> in <EVENT eid="e288" mainevent="NO" class="OCCURRENCE" stem="manage" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">managing</EVENT> the <EVENT eid="e289" mainevent="NO" class="STATE" stem="crisis" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">crisis</EVENT>.</s> <s>The official  <EVENT eid="e290" mainevent="YES" class="REPORTING" stem="add" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">adds</EVENT> , though,
+that "at the same time, we <EVENT eid="e293" mainevent="NO" class="I_STATE" stem="think" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">think</EVENT> he is someone who is <EVENT eid="e702" mainevent="NO" class="STATE" stem="capable" tense="PRESENT" aspect="NONE" polarity="POS" pos="ADJECTIVE">capable</EVENT> of rational <EVENT eid="e295" mainevent="NO" class="OCCURRENCE" stem="judgment" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">judgments</EVENT> when it comes to power.</s> <s>And when he <EVENT eid="e299" mainevent="NO" class="OCCURRENCE" stem="find" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">finds</EVENT> something is unprofitable, then one can <EVENT eid="e300" mainevent="YES" class="PERCEPTION" stem="see" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">see</EVENT> certain <EVENT eid="e302" mainevent="NO" class="OCCURRENCE" stem="accommodation" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">accommodations</EVENT>."</s>
+   <s>Thus, administration aides will be <EVENT eid="e303" mainevent="YES" class="I_ACTION" stem="try" tense="FUTURE" aspect="PROGRESSIVE" polarity="POS" pos="VERB">trying</EVENT> to <EVENT eid="e305" mainevent="NO" class="OCCURRENCE" stem="calculate" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">calculate</EVENT> whether Saddam Hussein's <EVENT eid="e454" mainevent="NO" class="OCCURRENCE" stem="propose" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">proposed</EVENT> diplomatic formula for <EVENT eid="e307" mainevent="NO" class="OCCURRENCE" stem="get" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">getting</EVENT> out of Kuwait <EVENT eid="e308" mainevent="NO" class="OCCURRENCE" stem="represent" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">represents</EVENT> the first <EVENT eid="e309" mainevent="NO" class="OCCURRENCE" stem="sign" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">sign</EVENT> he is <EVENT eid="e310" mainevent="NO" class="OCCURRENCE" stem="search" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">searching</EVENT> for a <EVENT eid="e311" mainevent="NO" class="OCCURRENCE" stem="way" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">way</EVENT> out or simply is a public relations <EVENT eid="e313" mainevent="NO" class="OCCURRENCE" stem="stunt" tense="PRESENT" aspect="NONE" polarity="POS" pos="NOUN">stunt</EVENT>.</s>
+   <s>There are disagreements among experts about how much pressure will be needed to make Saddam Hussein decide he's up against the wall and whether simple economic pressure will ever be enough.</s> <s>The biggest worry is that if he decides he needs a way out of his predicament but does n't see a face-saving method, he could lash out in dangerous and unpredictable ways.</s>
+   <s>U.S. officials <EVENT eid="e327" mainevent="YES" class="I_ACTION" stem="claim" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">claim</EVENT> they already <EVENT eid="e328" mainevent="NO" class="PERCEPTION" stem="see" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">see</EVENT> <EVENT eid="e329" mainevent="NO" class="OCCURRENCE" stem="sign" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">signs</EVENT> Saddam Hussein is getting nervous.</s> <s>In the first days after President Bush <EVENT eid="e331" mainevent="NO" class="REPORTING" stem="announce" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">announced</EVENT> the <EVENT eid="e455" mainevent="NO" class="OCCURRENCE" stem="dispatch" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">dispatching</EVENT> of U.S. troops, they note, the Iraqi leader <EVENT eid="e333" mainevent="YES" class="OCCURRENCE" stem="make" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">made</EVENT> several nationwide <EVENT eid="e334" mainevent="NO" class="OCCURRENCE" stem="address" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">addresses</EVENT> indirectly -- having them <EVENT eid="e336" mainevent="NO" class="OCCURRENCE" stem="read" tense="PRESPART" aspect="PERFECTIVE" polarity="POS" pos="VERB">read</EVENT> by a television announcer.</s> <s>"That <EVENT eid="e337" mainevent="NO" class="OCCURRENCE" stem="show" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">shows</EVENT> he's nervous about <EVENT eid="e338" mainevent="NO" class="OCCURRENCE" stem="pinpoint" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">pinpointing</EVENT> his location, either because he's afraid we'll <EVENT eid="e340" mainevent="NO" class="OCCURRENCE" stem="find" tense="FUTURE" aspect="NONE" polarity="POS" pos="VERB">find</EVENT> him, or that internal enemies will," <EVENT eid="e342" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">says</EVENT> one U.S. official.</s>
+   <s>The unpredictability of Iraq's leader is a principal reason the U.S. is going to such great lengths to build a mammoth force in and around Saudi Arabia.</s> <s>Pentagon officials <EVENT eid="e349" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">say</EVENT> the <EVENT eid="e350" mainevent="NO" class="OCCURRENCE" stem="goal" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">goal</EVENT> is to <EVENT eid="e352" mainevent="NO" class="OCCURRENCE" stem="put" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">put</EVENT> 40,000 troops in the region by <TIMEX3 tid="t456" type="DATE" value="1990-08-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">the end of the month</TIMEX3>.</s> <s>But the administration is n't <EVENT eid="e354" mainevent="YES" class="OCCURRENCE" stem="put" tense="PRESENT" aspect="PROGRESSIVE" polarity="NEG" pos="VERB">putting</EVENT> any upper <EVENT eid="e700" mainevent="NO" class="OCCURRENCE" stem="limit" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">limit</EVENT> on how high the force could <EVENT eid="e357" mainevent="NO" class="OCCURRENCE" stem="go" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">go</EVENT> after that, <EVENT eid="e359" mainevent="NO" class="OCCURRENCE" stem="calculate" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">calculating</EVENT> that it would be a <EVENT eid="e361" mainevent="NO" class="OCCURRENCE" stem="mistake" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">mistake</EVENT> to <EVENT eid="e363" mainevent="NO" class="OCCURRENCE" stem="underestimate" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">underestimate</EVENT> and an advantage to <EVENT eid="e365" mainevent="NO" class="ASPECTUAL" stem="keep" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">keep</EVENT> Saddam Hussein <EVENT eid="e366" mainevent="NO" class="OCCURRENCE" stem="guess" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">guessing</EVENT>.</s> <s>U.S. commanders in charge of <EVENT eid="e367" mainevent="NO" class="OCCURRENCE" stem="planning" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">planning</EVENT> for Middle East <EVENT eid="e457" mainevent="NO" class="STATE" stem="crisis" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">crises</EVENT> have <EVENT eid="e368" mainevent="YES" class="REPORTING" stem="indicate" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="VERB">indicated</EVENT> in the past that they were <EVENT eid="e369" mainevent="NO" class="OCCURRENCE" stem="capable" tense="PAST" aspect="NONE" polarity="POS" pos="ADJECTIVE">capable</EVENT> of <EVENT eid="e370" mainevent="NO" class="OCCURRENCE" stem="deploy" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">deploying</EVENT> as many as 300,000
+troops.</s>
+   <s>And the U.S. is <EVENT eid="e372" mainevent="YES" class="OCCURRENCE" stem="take" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">taking</EVENT> similar steps to <EVENT eid="e374" mainevent="NO" class="OCCURRENCE" stem="ensure" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">ensure</EVENT> that its naval force is <EVENT eid="e701" mainevent="NO" class="STATE" stem="adequate" tense="PRESENT" aspect="NONE" polarity="POS" pos="ADJECTIVE">adequate</EVENT> to <EVENT eid="e376" mainevent="NO" class="OCCURRENCE" stem="carry" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">carry</EVENT> out a <EVENT eid="e377" mainevent="NO" class="STATE" stem="blockade" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">blockade</EVENT> of Iraq and <EVENT eid="e378" mainevent="NO" class="OCCURRENCE" stem="support" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">support</EVENT> a <EVENT eid="e379" mainevent="NO" class="STATE" stem="war" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">war</EVENT> if necessary.</s> <s><TIMEX3 tid="t458" type="DATE" value="1990-W32-WE" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">Over the weekend</TIMEX3>, Pentagon officials <EVENT eid="e381" mainevent="YES" class="REPORTING" stem="confirm" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">confirmed</EVENT> <EVENT eid="e382" mainevent="NO" class="REPORTING" stem="report" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">reports</EVENT> that a fourth U.S. aircraft carrier -- the John F. Kennedy -- and its powerful group of support ships could <EVENT eid="e461" mainevent="NO" class="OCCURRENCE" stem="head" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">head</EVENT> for the Middle East within a few days.</s> <s>Three other carriers and their escort vessels already are <EVENT eid="e383" mainevent="YES" class="OCCURRENCE" stem="station" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">stationed</EVENT> within striking distance of Iraq or are <EVENT eid="e384" mainevent="NO" class="OCCURRENCE" stem="steam" tense="PRESENT" aspect="PROGRESSIVE" polarity="POS" pos="VERB">steaming</EVENT> toward the area.</s>
+   <s>But unless the military situation <EVENT eid="e385" mainevent="NO" class="OCCURRENCE" stem="change" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">changes</EVENT> drastically, military officials <EVENT eid="e386" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">say</EVENT>, the most likely plan will be for the Kennedy to eventually <EVENT eid="e388" mainevent="NO" class="OCCURRENCE" stem="replace" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">replace</EVENT> the carrier Dwight D. Eisenhower, which has been on <EVENT eid="e389" mainevent="NO" class="OCCURRENCE" stem="patrol" tense="PAST" aspect="PERFECTIVE" polarity="POS" pos="NOUN">patrol</EVENT> since <TIMEX3 tid="t702" type="DATE" value="1990-03" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t397">March</TIMEX3> and was <EVENT eid="e391" mainevent="NO" class="I_ACTION" stem="schedule" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">scheduled</EVENT> to <EVENT eid="e393" mainevent="NO" class="OCCURRENCE" stem="return" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">return</EVENT> to port before hostilities <EVENT eid="e394" mainevent="NO" class="OCCURRENCE" stem="erupt" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">erupted</EVENT> in Kuwait.</s>
+   <s>---   Andy Pasztor contributed to this article.</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e192" eventID="e183" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e65" eventID="e59" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e46" eventID="e39" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e164" eventID="e158" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e368" eventID="e354" task="C"/>
+<TLINK lid="l6" relType="UNKNOWN" relatedToEvent="e290" eventID="e285" task="C"/>
+<TLINK lid="l7" relType="UNKNOWN" relatedToEvent="e386" eventID="e383" task="C"/>
+<TLINK lid="l8" relType="UNKNOWN" relatedToEvent="e29" eventID="e24" task="C"/>
+<TLINK lid="l9" relType="UNKNOWN" relatedToEvent="e198" eventID="e192" task="C"/>
+<TLINK lid="l10" relType="UNKNOWN" relatedToEvent="e59" eventID="e46" task="C"/>
+<TLINK lid="l11" relType="UNKNOWN" relatedToEvent="e78" eventID="e72" task="C"/>
+<TLINK lid="l12" relType="UNKNOWN" relatedToEvent="e81" eventID="e78" task="C"/>
+<TLINK lid="l13" relType="UNKNOWN" relatedToEvent="e333" eventID="e327" task="C"/>
+<TLINK lid="l14" relType="UNKNOWN" relatedToEvent="e285" eventID="e281" task="C"/>
+<TLINK lid="l15" relType="UNKNOWN" relatedToEvent="e220" eventID="e218" task="C"/>
+<TLINK lid="l16" relType="UNKNOWN" relatedToEvent="e19" eventID="e8" task="C"/>
+<TLINK lid="l17" relType="UNKNOWN" relatedToEvent="e383" eventID="e381" task="C"/>
+<TLINK lid="l18" relType="UNKNOWN" relatedToEvent="e24" eventID="e19" task="C"/>
+<TLINK lid="l19" relType="UNKNOWN" relatedToEvent="e372" eventID="e368" task="C"/>
+<TLINK lid="l20" relType="UNKNOWN" relatedToEvent="e8" eventID="e7" task="C"/>
+<TLINK lid="l21" relType="UNKNOWN" relatedToEvent="e206" eventID="e198" task="C"/>
+<TLINK lid="l22" relType="UNKNOWN" relatedToEvent="e300" eventID="e290" task="C"/>
+<TLINK lid="l23" relType="UNKNOWN" relatedToEvent="e39" eventID="e29" task="C"/>
+<TLINK lid="l24" relType="UNKNOWN" relatedToEvent="e235" eventID="e230" task="C"/>
+<TLINK lid="l25" relType="UNKNOWN" relatedToEvent="e72" eventID="e65" task="C"/>
+<TLINK lid="l26" relType="UNKNOWN" relatedToEvent="e147" eventID="e134" task="C"/>
+<TLINK lid="l27" relType="UNKNOWN" relatedToEvent="e122" eventID="e118" task="C"/>
+<TLINK lid="l28" relType="UNKNOWN" relatedToEvent="e216" eventID="e206" task="C"/>
+<TLINK lid="l29" relType="UNKNOWN" relatedToEvent="e156" eventID="e147" task="C"/>
+<TLINK lid="l30" relType="UNKNOWN" relatedToEvent="e240" eventID="e235" task="C"/>
+<TLINK lid="l31" relType="UNKNOWN" relatedToEvent="e158" eventID="e156" task="C"/>
+<TLINK lid="l32" relType="UNKNOWN" relatedToEvent="e249" eventID="e240" task="C"/>
+<TLINK lid="l33" relType="UNKNOWN" relatedToEvent="e342" eventID="e333" task="C"/>
+<TLINK lid="l34" relType="UNKNOWN" relatedToEvent="e218" eventID="e216" task="C"/>
+<TLINK lid="l35" relType="UNKNOWN" relatedToEvent="e303" eventID="e300" task="C"/>
+<TLINK lid="l36" relType="UNKNOWN" relatedToEvent="e134" eventID="e122" task="C"/>
+<TLINK lid="l37" relType="UNKNOWN" relatedToEvent="e230" eventID="e220" task="C"/>
+<TLINK lid="l38" relType="UNKNOWN" relatedToEvent="e381" eventID="e372" task="C"/>
+<TLINK lid="l39" relType="UNKNOWN" relatedToEvent="e263" eventID="e262" task="C"/>
+<TLINK lid="l40" relType="UNKNOWN" relatedToEvent="e354" eventID="e349" task="C"/>
+
+</TempEval>

@@ -1,0 +1,40 @@
+
+ The endoplasmic reticulum manufactures membranes and performs many other biosynthetic functions
+
+The endoplasmic reticulum (ER) is a membranous labyrinth so extensive that it accounts for more than half the total membrane in many eukaryotic cells. (The word endoplasmic means "within the cytoplasm," and reticulum is Latin for "little net.") The ER consists of a network of membranous tubules and sacs called cisternae (Latin, cisterna, a reservoir for a liquid). The ER membrane separates the internal compartment of the ER, called the cisternal space, from the cytosol. And because the ER membrane is continuous with the nuclear envelope, the space between the two membranes of the envelope is continuous with the cisternal space of the ER (FIGURE 7.11).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-11. Endoplasmic reticulum (ER). A membranous system of interconnected tubules and flattened sacs called cisternae, the ER is also continuous with the nuclear envelope. (The drawing is a cutaway view.) The membrane of the ER encloses a compartment called the cisternal space. Rough ER, which is studded on its outer surface with ribosomes, can be distinguished from smooth ER in the electron micrograph (TEM).
+
+There are two distinct, though connected, regions of ER that differ in structure and function: smooth ER and rough ER. Smooth ER is so named because its cytoplasmic surface lacks ribosomes. Rough ER appears rough through the electron microscope because ribosomes stud the cytoplasmic surface of the membrane. As already mentioned, ribosomes are also attached to the cytoplasmic side of the nuclear envelope's outer membrane, which is confluent with rough ER.
+
+Functions of Smooth ER
+
+The smooth ER of various cell types functions in diverse metabolic processes, including synthesis of lipids, metabolism of carbohydrates, and detoxification of drugs and poisons.
+
+Enzymes of the smooth ER are important to the synthesis of lipids, including oils, phospholipids, and steroids. Among the steroids produced by the smooth ER in animal cells are the sex hormones of vertebrates and the various steroid hormones secreted by the adrenal glands. The cells that actually synthesize and secrete these hormones--in the testes and ovaries, for example--are rich in smooth ER, a structural feature that fits the function of these cells.
+
+Liver cells provide one example of the role of smooth ER in carbohydrate metabolism. Liver cells store carbohydrate in the form of glycogen, a polysaccharide. The hydrolysis of glycogen leads to the release of glucose from the liver cells, which is important in the regulation of sugar concentration in the blood. However, the first product of glycogen hydrolysis is glucose phosphate, an ionic form of the sugar that cannot exit the cell and enter the blood. An enzyme embedded in the membrane of the liver cell's smooth ER removes the phosphate from the glucose, which can then leave the cell.
+
+Enzymes of the smooth ER help detoxify drugs and poisons, especially in liver cells. Detoxification usually involves adding hydroxyl groups to drugs, making them more soluble and easier to flush from the body. The sedative phenobarbital and other barbiturates are examples of drugs metabolized in this manner by smooth ER in liver cells. In fact, barbiturates, alcohol, and many other drugs induce the proliferation of smooth ER and its associated detoxification enzymes. This, in turn, increases tolerance to the drugs, meaning that higher doses are required to achieve a particular effect, such as sedation. Also, because some of the detoxification enzymes have relatively broad action, the proliferation of smooth ER in response to one drug can increase tolerance to other drugs as well. Barbiturate abuse, for example, may decrease the effectiveness of certain antibiotics and other useful drugs.
+
+Muscle cells exhibit still another specialized function of smooth ER. The ER membrane pumps calcium ions from the cytosol into the cisternal space. When a muscle cell is stimulated by a nerve impulse, calcium rushes back across the ER membrane into the cytosol and triggers contraction of the muscle cell.
+
+Rough ER and the Synthesis of Secretory Proteins
+
+Many types of specialized cells secrete proteins produced by ribosomes attached to rough ER. For example, certain cells in the pancreas secrete the protein insulin, a hormone, into the bloodstream (see FIGURE 7.10a). As a polypeptide chain grows from a bound ribosome, it is threaded into the cisternal space through a pore formed by a protein in the ER membrane. As it enters the cisternal space, the new protein folds into its native conformation. Most secretory proteins are glycoproteins, proteins that are covalently bonded to carbohydrates. The carbohydrate is attached to the protein in the ER by specialized molecules built into the ER membrane. The carbohydrate appendage of a glycoprotein is an oligosaccharide, the term for a relatively small polymer of sugar units.
+
+Once secretory proteins are formed, the ER membrane keeps them separate from the proteins, produced by free ribosomes, that will remain in the cytosol. Secretory proteins depart from the ER wrapped in the membranes of vesicles that bud like bubbles from a specialized region called transitional ER. Such vesicles in transit from one part of the cell to another are called transport vesicles, and we will soon learn their fate.
+
+Rough ER and Membrane Production
+
+In addition to making secretory proteins, rough ER is a membrane factory that grows in place by adding proteins and phospholipids. As polypeptides destined to be membrane proteins grow from the ribosomes, they are inserted into the ER membrane itself and are anchored there by their hydrophobic portions. The rough ER also makes its own membrane phospholipids; enzymes built into the ER membrane assemble phospholipids from precursors in the cytosol. The ER membrane expands and can be transferred in the form of transport vesicles to other components of the endomembrane system.
+
+
+
+

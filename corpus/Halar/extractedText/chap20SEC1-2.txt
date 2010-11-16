@@ -1,0 +1,36 @@
+
+DNA ANALYSIS AND GENOMICS
+
+ 
+
+ Restriction fragment analysis detects DNA differences that affect restriction sites
+
+
+
+ 
+
+ Entire genomes can be mapped at the DNA level
+
+
+
+ 
+
+ Genome sequences provide clues to important biological questions
+
+
+
+Once we have techniques for preparing homogeneous samples of DNA, each containing large numbers of identical segments of a genome, we can begin to ask some far-ranging questions. Suppose we have cloned a DNA segment carrying a human gene of interest. Does the gene differ in different people, and are there certain alleles associated with a hereditary disorder? Where in the body and when is the gene expressed? What is the location of the gene within the genome? We can also address evolutionary questions by asking how the gene differs from species to species.
+
+To answer such questions fully, we will eventually need to know the complete nucleotide sequence of the gene and its counterparts in other individuals and species. And ultimately, we want to have the sequences of entire genomes available so that we can use them as the basis for studying whole sets of genes and their interactions--an approach called genomics. But we can start by analyzing cloned DNA by means of more indirect methods that can rapidly provide useful comparative information. Most of these methods, and DNA sequencing as well, make use of a technique called gel electrophoresis. This technique, described in FIGURE 20.8 (p. 384), separates macromolecules--nucleic acids or proteins--on the basis of size, electrical charge, and other physical properties. For linear molecules of DNA, separation depends mainly on size. Gel electrophoresis sorts a mixture of DNA molecules into bands, each consisting of DNA molecules of the same length.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-8. Gel electrophoresis of macromolecules. Gel electrophoresis separates macromolecules on the basis of their rate of movement through a gel in an electric field. For DNA, the migration rate--how far a molecule travels while the current is on--is inversely proportional to molecular size. Nucleic acids carry negative charges (on phosphate groups) proportional to their lengths, but the thicket of polymer fibers in the gel impedes longer fragments more than it does shorter ones.
+
+
+
+

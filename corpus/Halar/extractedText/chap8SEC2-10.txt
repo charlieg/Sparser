@@ -1,0 +1,28 @@
+
+ Active transport is the pumping of solutes against their gradients
+
+Despite the help of transport proteins, facilitated diffusion is still considered passive transport because the solute is moving down its concentration gradient. Facilitated diffusion speeds the transport of a solute by providing an efficient passage through the membrane, but it does not alter the direction of transport. Some transport proteins, however, can move solutes against their concentration gradients, across the plasma membrane from the side where they are less concentrated to the side where they are more concentrated. This transport is "uphill" and therefore requires work. To pump a molecule across a membrane against its gradient, the cell must expend its own metabolic energy; therefore, this type of membrane traffic is called active transport.
+
+Active transport is a major factor in the ability of a cell to maintain internal concentrations of small molecules that differ from concentrations in its environment. For example, compared to its surroundings, an animal cell has a much higher concentration of potassium ions and a much lower concentration of sodium ions. The plasma membrane helps maintain these steep gradients by pumping sodium out of the cell and potassium into the cell.
+
+The work of active transport is performed by specific proteins embedded in membranes. As in other types of cellular work, ATP supplies the energy for most active transport. One way ATP can power active transport is by transferring its terminal phosphate group directly to the transport protein. This may induce the protein to change its conformation in a manner that translocates a solute bound to the protein across the membrane. One transport system that works this way is the sodium-potassium pump, which exchanges sodium (Na+) for potassium (K+) across the plasma membrane of animal cells (FIGURE 8.15). FIGURE 8.16 (p. 150) reviews the distinction between passive transport and active transport.
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-15. The sodium-potassium pump: a specific case of active transport. This transport system pumps ions against steep concentration gradients. The pump oscillates between two conformational states in a pumping cycle that translocates three Na+ ions out of the cell for every two K+ ions pumped into the cell. ATP powers the changes in conformation by phosphorylating the transport protein (that is, by transferring a phosphate group to the protein).
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-16. Review: passive and active transport compared.
+
+
+
+

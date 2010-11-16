@@ -1,0 +1,40 @@
+
+ Dominant species and keystone species exert strong controls on community structure
+
+Certain species may have an especially large impact on entire communities, either because of their abundance (dominant species) or because of their pivotal roles in community dynamics (keystone species).
+
+Dominant Species
+
+Dominant species are those species in a community that have the highest abundance or highest biomass (the sum weight of all individuals in a population). They exert a powerful control over the occurrence and distribution of other species. For example, the sugar maple is the dominant plant species in many forest communities in eastern North America, and the abundance of maples has a major impact on abiotic factors such as shading and soil, which affect the entire forest community.
+
+Why do some species become dominant in a community? According to one hypothesis, species that are most competitive in exploiting limited resources such as water or nutrients are the most likely species to become dominant. But a competitive edge in resource use may not be the only explanation for why a species becomes dominant. In some communities, a dominant species may owe its abundance to greater success than other potential dominants at avoiding predators.
+
+What happens if we remove a dominant species from a community? Humans have carried out this type of experiment many times by accident. The American chestnut was a dominant tree in the eastern deciduous forests of North America before 1910, making up more than 40%  of the canopy (top-story) trees. This species is now absent as a canopy tree as a result of a disease called chestnut blight. This fungal disease attacks only chestnut trees. Humans accidentally introduced the fungus to New York City in 1910 on nursery stock imported from Asia. The pathogen has only a weak impact on Chinese chestnuts, but is lethal to American chestnuts. Between 1910 and 1950, chestnut blight killed all the chestnut trees in eastern North America. Thus, what had been the dominant tree of many of these eastern forests was eliminated. How did this affect the overall forest communities? The impact of removing the dominant species was actually small, at least as far as researchers can tell. The forests have filled in with various species of oaks, hickories, beech, and red maple, and these trees have increased in abundance and replaced the chestnut. Some species of insects, however, were affected. Fifty-six species of moths and butterflies fed on the American chestnut. Of these, 7 species became extinct, but the other 49 species did not rely exclusively on the chestnut for food, and they still survive. No mammals or birds seem to have been seriously affected by this loss of a dominant species. In communities in which dominance is achieved by competitive ability, the loss of a dominant may not have a great effect, because one or more other species with slightly less competitive ability may take over the role of the dominant. This is an example of an outcome predicted by the redundancy model of community structure.
+
+Keystone Species
+
+In contrast to dominant species, most keystone species are not especially abundant in a community. They exert strong control on community structure not so much by numerical might as by their ecological roles, or niches. One of the best ways to recognize keystone species is by removal experiments, which is exactly how ecologist Robert Paine first developed the concept of keystone species. The sea star Pisaster ochraceous is a keystone predator of mussels in rocky intertidal communities of western North America (FIGURE 53.14a). When Paine removed Pisaster manually from rocky intertidal areas, the mussel Mytilus californianus was able to monopolize space and exclude other invertebrates and algae from attachment sites (FIGURE 53.14b). M. californianus is a dominant species, a superior competitor for open space in the rocky intertidal zone. Predation by Pisaster offsets this competitive edge and allows other species to use the space vacated by Mytilus. Pisaster is not able to eliminate mussels entirely because Mytilus can grow too large to be eaten by the sea star. Size-limited predation provides some refuge for this prey species, and these large mussels are able to produce large numbers of fertilized eggs that help recolonize vacant space on the rocks. Paine observed that when sea stars are present, 15 to 20 species of invertebrates and algae occur in the intertidal zone. But after experimental removal of Pisaster, species diversity quickly declines to less than 5 species because the mussel, unchecked by the keystone predator, is able to monopolize space. Thus, the important role of Pisaster is not reflected in its abundance.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 53-14. Testing a keystone predator hypothesis.
+
+Sea otters, a keystone predator in the North Pacific, offer another example. Once relatively abundant, they were reduced to near extinction by the fur trade during the 19th century. An international treaty provided protection in the 20th century, enabling sea otter populations to recover to very high densities. Sea otters feed on sea urchins, and sea urchins feed mainly on kelp. In areas where sea otters are abundant, sea urchins are rare and kelp forests are well developed. Where sea otters are rare, sea urchins are common and kelp is almost absent. During the last 20 years, sea otters have declined precipitously in large areas off the coast of western Alaska (FIGURE 53.15), sometimes at rates of 25%  per year. The loss of this keystone species has allowed sea urchin populations to increase, resulting in the destruction of kelp forests. Ecologists suspect that killer whales are the cause of the sea otter decline. Killer whales have probably been eating sea otters for the past two decades because the previous prey of the whales, mainly seals and sea lions, have declined in density. And the decline of these prey species reflects a decline in the populations of fish species that the seals and sea lions eat. And all of these changes in these Alaskan marine communities have probably rippled from human overfishing in the North Pacific. From case studies such as these, ecologists are just beginning to outline the key interactions that help structure aquatic and terrestrial communities.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-15. Sea otters as keystone predators in the North Pacific. The graphs correlate changes in (a) sea otter abundance over time with changes in two factors; (b) sea urchin biomass and (c) changes in kelp density measured from kelp forests at Adak Island (part of the Aleutian Island chain). The food chains alongside the graphs illustrate a hypothesis for a change in kelp forest communities due to killer whales preying on sea otters.
+
+
+
+

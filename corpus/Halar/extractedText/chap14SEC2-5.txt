@@ -1,0 +1,12 @@
+
+ Mendel discovered the particulate behavior of genes:
+
+a review
+
+If we plant a seed from the F2 generation of FIGURE 14.4, we cannot predict with certainty that the plant will yield white flowers, any more than we can predict with certainty that two tossed coins will both come up heads. What we cansay is that there is exactly a 1/4 chance that the plant will have white flowers. Stated another way, among a large sample of F2 plants, one-fourth (25% ) will have white flowers. Usually, the larger the sample size, the closer the results will conform to our predictions. The fact that Mendel counted so many offspring from his crosses suggests that he understood this statistical feature of inheritance and had a keen sense of the rules of chance.
+
+Thus, Mendel's two laws, segregation and independent assortment, explain heritable variations in terms of alternative forms of genes (hereditary "particles") that are passed along, generation after generation, according to simple rules of probability. This particulate theory of inheritance, first discovered in garden peas, is equally valid for figs, flies, fish, birds, and human beings. Mendel's impact endures, not only on genetics, but on all of science, as a case study of the power of scientific reasoning (hypothetico-deductive reasoning; see Chapter 1).
+
+
+
+

@@ -1,0 +1,24 @@
+
+ The continuity of life is based on heritable information in the form of DNA
+
+Order implies information; instructions are required to arrange parts or processes in an organized way. Biological instructions are encoded in the molecule known as DNA (deoxyribonucleic acid). DNA is the substance of genes, the units of inheritance that transmit information from parents to offspring (FIGURE 1.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 1-5. The genetic material: DNA. DNA molecules carry biological information from one generation to the next.
+
+Each DNA molecule is made up of two long chains arranged into what is called a double helix. Each chain is composed of four kinds of chemical building blocks called nucleotides. The way DNA conveys information is analogous to the way we arrange the letters of the alphabet into precise sequences with specific meanings. The word rat, for example, conjures up an image of a rodent; tar and art, which contain the same letters, mean quite different things. Libraries are filled with books containing information encoded in varying sequences of only 26 letters. We can think of nucleotides as the alphabet of inheritance. Specific sequential arrangements of these four chemical letters encode the precise information in a gene, which is typically hundreds or thousands of nucleotides long.
+
+All forms of life employ essentially the same genetic code. A particular sequence of nucleotides says the same thing to one organism as it does to another; differences between organisms reflect differences between their nucleotide sequences. The diverse forms of life are different expressions of a common language for programming biological order.
+
+Inheritance itself depends on a mechanism for copying DNA and passing its sequence of chemical letters on to offspring. As a cell prepares to divide to form two cells, it copies its DNA. A mechanical system that moves chromosomes then distributes the DNA copies equally to the two "daughter" cells. In species that reproduce sexually, offspring inherit copies of DNA from the parents' sperm and egg cells. The continuity of life over the generations and over the eons has its molecular basis in the replication of DNA.
+
+The entire "library" of genetic instructions that an organism inherits is called its genome. The nucleus of each human cell packs a genome that is 3 billion chemical letters long. If this sequence of nucleotides were written in letters the size of those you are now reading, the information would fill more than a hundred books the size of this one. In 2001, scientists tabulating the sequence of these letters published a "rough draft" of the human genome. The press and world leaders acclaimed this international achievement as the greatest scientific triumph ever. But unlike past cultural zeniths, such as the landing of Apollo astronauts on the moon, the sequencing of the human genome is more a commencement than a climax. As the quest continues, biologists will learn the functions of thousands of genes and how their activities are coordinated in the development of an organism. It is a striking example of human curiosity about life at its many levels.
+
+
+
+

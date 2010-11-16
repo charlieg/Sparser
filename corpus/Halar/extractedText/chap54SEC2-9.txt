@@ -1,0 +1,84 @@
+
+ Biological and geologic processes move nutrients between organic and inorganic compartments
+
+A chemical's specific route through a biogeochemical cycle varies with the particular element and the trophic structure of the ecosystem. We can, however, recognize two general categories of biogeochemical cycles. Gaseous forms of carbon, oxygen, sulfur, and nitrogen occur in the atmosphere, and cycles of these elements are essentially global. For example, some of the carbon and oxygen atoms a plant acquires from the air as CO2 may have been released into the atmosphere by the respiration of a plant or animal in some distant locale. Other elements that are less mobile in the environment, including phosphorus, potassium, calcium, and the trace elements, generally cycle on a more localized scale, at least over the short term. Soil is the main abiotic reservoir of these elements, which are absorbed by plant roots and eventually returned to the soil by decomposers, usually in the same general vicinity.
+
+A General Model of Chemical Cycling
+
+Before examining the details of individual cycles, let's look at a general model of nutrient cycling that shows the main reservoirs, or compartments, of elements and the processes that transfer elements between reservoirs (FIGURE 54.15). Most nutrients accumulate in four reservoirs, each of which is defined by two characteristics: whether it contains organic or inorganic materials and whether or not the materials are directly available for use by organisms. One compartment of organic materials is composed of the living organisms themselves and detritus; these nutrients are available to other organisms when consumers feed and when detritivores consume nonliving organic matter. The second organic compartment includes "fossilized" deposits of once-living organisms (coal, oil, and peat), from which nutrients cannot be assimilated directly. Material moved from the living organic compartment to the fossilized organic compartment long ago, when organisms died and were buried by sedimentation over millions of years to become coal, oil, or peat.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-15. A general model of nutrient cycling. The biological and geologic processes that move nutrients from one compartment reservoir to another are indicated on the arrows.
+
+Nutrients also occur in two inorganic compartments, one in which they are available for use by organisms and one in which they are not. The available inorganic compartment includes matter (elements and compounds) that is dissolved in water or present in soil or air. Organisms assimilate materials from this compartment directly and return chemicals to it through the fairly rapid processes of cellular respiration, excretion, and decomposition. Elements in the unavailable inorganic compartment are tied up in rocks. Although organisms cannot tap into this compartment directly, nutrients slowly become available through weathering and erosion. Similarly, unavailable organic materials move into the available compartment of inorganic nutrients through erosion or when fossil fuels are burned and the exhaust enters the atmosphere.
+
+Describing biogeochemical cycles in general is much simpler than actually tracing elements through these cycles, especially since ecosystems exchange elements with other ecosystems. Even in a pond, which has discrete boundaries, several processes add and remove key nutrients. Minerals dissolved in rainwater or runoff from the neighboring land are added to the pond, as are nutrient-rich pollen, fallen leaves, and other airborne material. And of course, carbon, oxygen, and nitrogen cycle between the pond and the atmosphere. Birds may feed on fish or the aquatic larvae of insects, which derived their store of nutrients from the pond, and some of those nutrients may then be excreted or eliminated on land far from the pond's drainage area. Keeping track of the inflow and outflow is even more challenging in less clearly delineated terrestrial ecosystems. Nevertheless, ecologists have worked out the schemes for chemical cycling in several ecosystems, often by adding tiny amounts of radioactive tracers that enable the researchers to follow chemical elements through the various biotic and abiotic components of the ecosystems.
+
+One important cycle, the water cycle, does not fit the generalized scheme of FIGURE 54.15 very well. Although organisms are mostly made of water, very little of the water that cycles through ecosystems is chemically altered by either the biotic or abiotic components. The main exception is the water that is split into hydrogen and oxygen during photosynthesis, but that involves a very tiny fraction of the total water passing through a plant or any other organism. The water cycle is more a physical process than a chemical one; it mainly involves changes between the liquid and gaseous states and the transport of the liquid water and water vapor (FIGURE 54.16). Contrast the water cycle in FIGURE 54.16 with the carbon cycle (FIGURE 54.17), which fits the generalized scheme of biogeochemical cycles much better. Now let's take a closer look at two specific biogeochemical cycles: the nitrogen cycle and the phosphorus cycle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-16. The water cycle. On a global scale, evaporation exceeds precipitation over the oceans. The result is a net movement of water vapor, carried by the winds, from the ocean to the land. The excess of precipitation over evaporation on land results in the formation of surface and groundwater systems that flow back to the sea, completing the major part of the cycle. Over the sea, evaporation forms most water vapor. On land, however, 90%  or more of the vaporization is due to plant transpira-tion, which together with other types of evaporation is referred to as evapotranspiration. The numbers in this diagram indicate water flow in billion billion (1018) grams per year.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-17. The carbon cycle. The reciprocal processes of photosynthesis and cellular respiration are responsible for the major transformations and movements of carbon. A seasonal pulse in atmospheric CO2 is caused by decreased photosynthetic activity during the Northern Hemisphere's winter. On a global scale, the return of CO2 to the atmosphere by respiration closely balances its removal by photosynthesis. However, the burning of wood and fossil fuels adds more CO2 to the atmosphere; as a result, the amount of atmospheric CO2 is steadily increasing.
+
+The Nitrogen Cycle
+
+Although Earth's atmosphere is almost 80%  nitrogen, it is mostly in the form of nitrogen gas (N2), which is unavailable to plants and hence to consumers of plants.
+
+Nitrogen enters ecosystems via two natural pathways, the relative importance of which varies greatly from ecosystem to ecosystem. The first, atmospheric deposition, accounts for approximately 5-10%  of the usable nitrogen that enters most ecosystems. In this process, NH4+ and NO3-, the two forms of nitrogen available to plants, are added to soil by being dissolved in rain or by settling as part of fine dust or other particulates. Some plants, such as the epiphytic bromeliads found in the canopy of tropical rain forests, have aerial roots that can take up NH4+ and NO3- directly from the moist atmosphere.
+
+The other natural pathway for nitrogen to enter ecosystems is via nitrogen fixation. Only certain prokaryotes can fix nitrogen--that is, convert N2 to minerals that can be used to synthesize nitrogenous organic compounds such as amino acids. Indeed, prokaryotes are vital links at several points in the nitrogen cycle (FIGURE 54.18). Nitrogen is fixed in terrestrial ecosystems by free-living (nonsymbiotic) soil bacteria as well as by symbiotic bacteria (Rhizobium) in the root nodules of legumes and certain other plants (see Chapter 37). Some cyanobacteria fix nitrogen in aquatic ecosystems. Organisms that fix nitrogen are, of course, fulfilling their own metabolic requirements, but the excess ammonia (NH3) they release becomes available to other organisms.
+
+In addition to these natural sources of usable nitrogen, industrial fixation of nitrogen for fertilizer now makes a major contribution to the pool of nitrogenous minerals in terrestrial and aquatic ecosystems.
+
+The direct product of nitrogen fixation is ammonia (NH3). However, most soils are at least slightly acidic, and NH3 released into the soil picks up a hydrogen ion (H+) to form ammonium, NH4+, which can be used directly by plants. Because NH3 is a gas, it can evaporate back to the atmosphere from soils with a pH close to 7 (such as those in the midwestern United States). This NH3 lost from the soil may then form NH4+ in the atmosphere. As a result, NH4+ concentrations in rainfall are correlated with soil pH over large regions. This local recycling of nitrogen by atmospheric deposition can be especially pronounced in agricultural areas where both nitrogen fertilizers and lime (a base that decreases soil acidity) are used extensively.
+
+Although plants can use ammonium directly, most of the ammonium in soil is used by certain aerobic bacteria as an energy source; their activity oxidizes ammonium to nitrite (NO2-) and then to nitrate (NO3-), a process called nitrification. Nitrate released from these bacteria can then be assimilated by plants and converted to organic forms, such as amino acids and proteins. Animals can assimilate only organic nitrogen, and they do this by eating plants or other animals. Some bacteria can obtain the oxygen they need for metabolism from nitrate rather than from O2 under anaerobic conditions. As a result of this denitrification process, some nitrate is converted back to N2, returning to the atmosphere. The decomposition of organic nitrogen back to ammonium, a process called ammonification, is carried out mainly by bacterial and fungal decomposers. This process recycles large amounts of nitrogen to the soil.
+
+Overall, most of the nitrogen cycling in natural systems involves the nitrogenous compounds in soil and water, not atmospheric N2. Although nitrogen fixation is important in the buildup of a pool of available nitrogen, it contributes only a tiny fraction of the nitrogen assimilated annually by total vegetation. Nevertheless, many common species of plants depend on their association with nitrogen-fixing bacteria to provide this essential nutrient in a form they can assimilate. The amount of N2 returned to the atmosphere by denitrification is also relatively small. The important point is that although nitrogen exchanges between soil and atmosphere are significant over the long term, the majority of nitrogen in most ecosystems is recycled locally by decomposition and reassimilation.
+
+The Phosphorus Cycle
+
+Organisms require phosphorus as a major constituent of nucleic acids, phospholipids, and ATP and other energy shuttles and as a mineral constituent of bones and teeth.
+
+In some respects, the phosphorus cycle is simpler than either the carbon or nitrogen cycle. Phosphorus cycling does not include movement through the atmosphere because there are no significant phosphorus-containing gases. In addition, phosphorus occurs in only one biologically important inorganic form, phosphate (PO43-), which plants absorb and use for organic synthesis. The weathering of rocks gradually adds phosphate to soil (FIGURE 54.19). After producers incorporate phosphorus into biological molecules, it is transferred to consumers in organic form and then added back to the soil by the excretion of phosphate by animals and by the action of bacterial and fungal decomposers on detritus.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-19. The phosphorus cycle. Phosphorus, which does not have an atmospheric component, tends to cycle locally (yellow arrows). Generally, small losses from terrestrial systems caused by leaching are balanced by gains from the weathering of rocks. In aquatic systems, as in terrestrial systems, phosphorus is cycled through food webs. Some phosphorus is lost from the ecosystem through chemical precipitation or through settling of detritus to the bottom, where sedimentation may lock away some of the nutrient before biological processes can reclaim it. On a much longer time scale, this phosphorus may become available to ecosystems again through geologic processes such as uplifting (gold arrows).
+
+Humus and soil particles bind phosphate, so that the recycling of phosphorus tends to be quite localized in ecosystems. However, phosphorus does leach into the water table, gradually draining from terrestrial ecosystems to the sea. Severe erosion can hasten this drain, but the weathering of rocks generally keeps pace with the loss of phosphate. Phosphate that reaches the ocean gradually accumulates in sediments and becomes incorporated into rocks that may later be included in terrestrial ecosystems as a result of geologic processes that raise the seafloor or lower sea level at a particular location. Thus, most phosphate recycles locally among soil, plants, and consumers on the scale of ecological time, while a parallel sedimentary cycle removes and restores terrestrial phosphorus over geologic time. The same general pattern applies to other nutrients that lack atmospheric forms.
+
+FIGURE 54.20 reviews chemical cycling in ecosystems in their most general form. Note again the key role that detritivores (decomposers) play.
+
+
+
+Click image to enlarge
+
+
+
+Fig 54-20. Review: Generalized scheme for biogeochemical cycles.
+
+
+
+

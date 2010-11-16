@@ -1,0 +1,50 @@
+
+ Post-transcriptional mechanisms play supporting roles in the control of gene expression
+
+Transcription alone does not constitute gene expression. The expression of a protein-coding gene is ultimately measured in terms of the amount of functional protein a cell makes, and much happens between the synthesis of the RNA transcript and the activity of the protein in the cell. In theory, gene expression may be blocked or stimulated at any post-transcriptional step (see FIGURE 19.7). By using regulatory mechanisms that operate after transcription, a cell can rapidly fine-tune gene expression in response to environmental changes without altering its transcription patterns.
+
+RNA processing in the nucleus and the export of mature RNA to the cytoplasm provide several opportunities for controlling gene expression that are not available in bacteria. One example of regulation at the RNA-processing level is alternative RNA splicing, in which different mRNA molecules are produced from the same primary transcript, depending on which RNA segments are treated as exons and which as introns (FIGURE 19.11). Regulatory proteins specific to a cell type control intron-exon choices by binding to regulatory sequences within the primary transcript.
+
+After RNA processing, other stages of gene expression that the cell may regulate are mRNA degradation, translation initiation, and protein processing and degradation.
+
+Regulation of mRNA Degradation
+
+The life span of mRNA molecules in the cytoplasm is an important factor in determining the pattern of protein synthesis in a cell. Prokaryotic mRNA molecules typically have very short lives; they are degraded by enzymes after only a few minutes. This is one reason bacteria can vary their patterns of protein synthesis so quickly in response to environmental changes. In contrast, mRNA lifetimes in multicellular eukaryotes are typically hours and can be days or even weeks. A striking example of long-lived mRNA is found in developing red blood cells, which are factories for the production of the protein hemoglobin. The mRNAs for the hemoglobin polypeptides (a-globin and b-globin) are unusually stable and are translated repeatedly in these cells.
+
+Recent research on yeasts suggests that a common pathway of mRNA breakdown begins with the enzymatic shortening of the poly(A) tail. This helps trigger the action of enzymes that remove the 5&#39; cap (the two ends of the mRNA may be briefly held together by the proteins involved). The removal of the cap, a critical step, is also regulated by particular nucleotide sequences in the mRNA. Once the cap is removed, nuclease enzymes rapidly chew up the mRNA from its 5&#39; end.
+
+Nucleotide sequences that affect mRNA stability are often found in the untranslated trailer region at the 3&#39; end of the molecule (see FIGURE 19.8). In one experiment, researchers transferred such a sequence from the short-lived mRNA for a growth factor to the 3&#39; end of a normally stable globin mRNA. The globin mRNA was quickly degraded.
+
+Control of Translation
+
+Most translational control mechanisms block the initiation stage of polypeptide synthesis, when ribosomal subunits and the initiator tRNA attach to an mRNA (see FIGURE 17.15). Translation of specific mRNAs can be blocked by regulatory proteins that bind to specific sequences or structures within the leader region at the 5&#39; end of the mRNA, preventing the attachment of ribosomes. This mechanism is important in embryonic development: The mother stores in the ovum a variety of mRNAs that are not translated until specific stages after fertilization.
+
+Protein factors required to initiate translation in eukaryotes offer targets for simultaneously controlling the translation of all the mRNA in a cell. One example of such "global" control involves hemoglobin. A functional hemoglobin molecule has four heme groups, one attached to each polypeptide (see FIGURE 19.3). If hemes are in short supply in a developing red blood cell, a regulatory protein inactivates an essential translation initiation factor by phosphorylating it. This inhibits all translation, but mainly affects translation of hemoglobin mRNA, which constitutes most of the mRNA in the cell.
+
+Global control of translation is important in embryonic development. For example, the egg cells of many organisms synthesize and store large numbers of mRNA molecules that are not translated until just after fertilization. At that point, translation is triggered by the sudden activation of translation initiation factors. The response is a burst of synthesis of particular proteins. Some plants and algae store mRNAs during periods of darkness; light then triggers the reactivation of the translational apparatus.
+
+Protein Processing and Degradation
+
+The final opportunities for controlling gene expression occur after translation. Often, eukaryotic polypeptides must be processed to yield functional protein molecules. The cleavage of the initial insulin polypeptide to form the active hormone is an example. In addition, many proteins require chemical modifications to function. For instance, proteins destined for the animal cell surface must acquire sugars, and regulatory proteins are commonly activated or inactivated by the reversible addition of phosphate groups. Moreover, polypeptides must often be transported to targeted destinations in the cell in order to function. Regulation might occur at any of the steps involved in modifying or transporting a protein.
+
+Abnormal targeting of a protein can have serious consequences, as, for example, in cystic fibrosis. This disease results from mutations in the gene for a protein that functions as a chloride ion channel. The defective protein never reaches its final destination in the cell, the plasma membrane, and is rapidly degraded.
+
+In addition to degrading defective and damaged proteins, the cell limits the lifetimes of normal proteins by selective degradation. Many proteins, such as the cyclins involved in regulating the cell cycle, must be relatively short-lived if the cell is to function appropriately (see FIGURE 12.14). To mark a particular protein for destruction, the cell commonly attaches molecules of a small protein called ubiquitin to the protein. Giant protein complexes called proteasomes then recognize the ubiquitin and degrade the tagged protein (FIGURE 19.12). The importance of proteasomes is underscored by the finding that mutations making cell cycle proteins impervious to proteasome degradation can lead to cancer.
+
+
+
+Click image to enlarge
+
+
+
+Fig 19-12. Degradation of a protein by a proteasome. A proteasome is an enormous protein complex, with a shape suggesting a trash can, that chops up unneeded proteins in the cell. In most cases, the proteins attacked by a proteasome have been tagged with short chains of ubiquitin, a small protein. 
+			  
+		 Enzymes in the cytosol attach ubiquitin molecules to a protein. (It is not known how the protein is selected.) 
+			  
+		 A proteasome recognizes the ubiquitinated protein, unfolds it, and sequesters it in its central cavity. 
+			  
+		 Enzymatic components of the proteasome cut the protein into small peptides, which can be further degraded by cytosolic enzymes. Steps 1 and 3 require ATP. Eukaryotic proteasomes are as massive as ribosomal subunits and are distributed throughout the cell. Their barrel-like shape somewhat resembles that of chaperone proteins, which nurture protein structure rather than destroy it (see FIGURE 5.26).
+
+
+
+

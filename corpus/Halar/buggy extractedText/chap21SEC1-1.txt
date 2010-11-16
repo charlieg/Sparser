@@ -1,0 +1,20 @@
+
+FROM SINGLE CELL TO MULTICELLULAR ORGANISM
+
+ 
+
+ Embryonic development involves cell division, cell differentiation, and morphogenesis
+
+
+
+ 
+
+ Researchers study development in model organisms to identify general principles
+
+
+
+In the development of most multicellular organisms, a single-celled zygote (fertilized egg) gives rise to cells of many different types, each type with a different structure and corresponding function. For example, an animal will have muscle cells that enable it to move and nerve cells that transmit signals to the muscle cells; a plant will have mesophyll cells that carry out photosynthesis and stomatal cells that regulate the passage of gases into and out of leaves (seeFIGURE 10.2). As you know, cells are only one level in the hierarchy of biological order within a multicellular organism (seeFIGURE 2.1). Cells of similar types are organized into tissues, tissues into organs, organs into organ systems, and organ systems into the whole organism. Thus, the process of embryonic development must give rise not only to cells of different types but to higher-level structures arranged in a particular way in three dimensions.
+
+
+
+

@@ -1,0 +1,30 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER COMMON-LISP) -*-
+
+;;; Copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
+;;; $Id:$
+
+;;;    File: "checkpoints"
+;;;  Module: "grammar/model/sl/ambush/
+;;; version: August 2007
+
+;; Initiated 8/1/07
+
+(in-package :sparser)
+
+(define-kind "checkpoint")
+
+;; we know that's our first checkpoint
+;; is everybody observing the map you can go ahead (%hesitation) and look at it and i put in the checkpoints
+;; once you hit checkpoint one
+;; after assassin one seven HAS CROSSED  checkpoint one 
+;; that's the (%hesitation) tactical checkpoint there just go ahead
+;; crossing checkpoint 
+;; crossing checkpoint one
+;; i just (%hesitation) crossed checkpoint one
+;; crossing checkpoint one now
+;; we're through checkpoint one
+;; we have crossed the checkpoint
+;; at checkpoint two
+;; passing checkpoint TWO
+;; all vehicles had cleared checkpoint two
+;; REACHING FIVE now

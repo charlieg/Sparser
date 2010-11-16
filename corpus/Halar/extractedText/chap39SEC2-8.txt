@@ -1,0 +1,54 @@
+
+ Photoperiodism synchronizes many plant responses to changes of season
+
+Imagine the consequences if a plant produced flowers when its insect pollinators were not present or if a deciduous tree produced leaves in the middle of winter. Seasonal events are of critical importance in the life cycles of most plants. Seed germination, flowering, and the onset and breaking of bud dormancy are examples of stages in plant development that usually occur at specific times of the year. The environmental stimulus plants use most often to detect the time of year is the photoperiod, the relative lengths of night and day. A physiological response to photoperiod, such as flowering, is called photoperiodism.
+
+Photoperiodism and the Control of Flowering
+
+One of the earliest clues to how plants detect the progression of seasons came from a mutant variety of tobacco studied by W. W. Garner and H. A. Allard in 1920. This variety, named Maryland Mammoth, grew exceptionally tall but failed to flower during summer, when normal tobacco plants flowered. Maryland Mammoth finally bloomed in a greenhouse in December. After trying to induce earlier flowering by varying temperature, moisture, and mineral nutrition, Garner and Allard learned that it was the shortening days of winter that stimulated Maryland Mammoth to flower. If the plants were kept in light-tight boxes so that lamps could be used to manipulate durations of "day" and "night," flowering occurred only if the day length was 14 hours or shorter. Maryland Mammoth did not flower during summer because, at Maryland's latitude, the days were too long during that season.
+
+Garner and Allard termed Maryland Mammoth a short-day plant, because it apparently required a light period shorter than a critical length to flower. Chrysanthemums, poinsettias, and some soybean varieties are a few of the other short-day plants, which generally flower in late summer, fall, or winter. Another group of plants dependent on photoperiod will flower only when the light period is longer than a certain number of hours. These long-day plants generally flower in late spring or early summer. Spinach, for example, flowers when days are 14 hours or longer. Radish, lettuce, iris, and many cereal varieties are also long-day plants. Flowering in a third group, day-neutral plants, is unaffected by photoperiod. Tomatoes, rice, and dandelions are examples of day-neutral plants, which flower when they reach a certain stage of maturity, regardless of day length at that time.
+
+Critical Night Length.In the 1940s, researchers discovered that it is actually night length, not day length, that controls flowering and other responses to photoperiod. Many of these scientists worked with cocklebur, a short-day plant that flowers only when days are 16 hours or shorter (and nights are at least 8 hours long). These researchers found that if the daytime portion of the photoperiod is broken by a brief exposure to darkness, there is no effect on flowering. However, if the nighttime part of the photoperiod is interrupted by even a few minutes of dim light, cocklebur will not flower, and this turned out to be true for other short-day plants as well (FIGURE 39.22a, p. 822). Cocklebur is actually unresponsive to day length, but it requires at least 8 hours of continuous darkness to flower. Short-day plants are really long-night plants, but the older term is embedded firmly in the jargon of plant physiology. Similarly, long-day plants are actually short-night plants. A long-day plant grown on photoperiods of long nights that would not normally induce flowering will flower if the period of continuous darkness is interrupted by a few minutes of light (FIGURE 39.22b, p. 822). Notice that we distinguish long-day from short-day plants not by an absolute night length but by whether the critical night length sets a maximum (long-day plants) or minimum (short-day plants) number of hours of darkness required for flowering. In both cases, the actual number of hours in the critical night length is specific to each species of plant.
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-22. Photoperiodic control of flowering.
+
+Red light is the most effective color in interrupting the nighttime portion of the photoperiod. Action spectra and photoreversibility experiments show that phytochrome is the pigment that receives the red light (FIGURE 39.23). For example, if a flash of red light (R) during the dark period is followed immediately by a flash of far-red (FR) light, then the plant detects no interruption of night length. As in the case of phytochrome-mediated seed germination, red/far-red photoreversibility can be demonstrated.
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-23. Reversible effects of red and far-red light on photoperiodic response. A flash of red light shortens the dark period. A subsequent flash of far-red light cancels the effect of the red flash.
+
+Plants measure night length very accurately; some short-day plants will not flower if night is even one minute shorter than the critical length. Some plant species always flower on the same day each year. It appears that plants use their biological clock, apparently entrained with the help of phytochrome, to tell the season of the year by measuring night length. The floriculture (flower-growing) industry has applied this knowledge to produce flowers out of season. Chrysanthemums, for instance, are short-day plants that normally bloom in fall, but their blooming can be stalled until Mother's Day in May by punctuating each long night with a flash of light, thus turning one long night into two short nights.
+
+Some plants bloom after a single exposure to the photoperiod required for flowering. Other species need several successive days of the appropriate photoperiod. Still other plants will respond to a photoperiod only if they have been previously exposed to some other environmental stimulus, such as a period of cold temperatures. Winter wheat, for example, will not flower unless it has been exposed to several weeks of temperatures below 10&#176;C. This requirement for pretreatment with cold before flowering is called vernalization. Several weeks after winter wheat is vernalized, a photoperiod with long days (short nights) induces flowering.
+
+Is There a Flowering Hormone?
+
+Buds produce flowers, but it is leaves that detect photoperiod. When the photoperiodic requirement for flowering is met, leaves must send a signal to the buds cuing them to develop as flowers. To induce a short-day plant or long-day plant to flower, it is enough in many species to expose a single leaf to the appropriate photoperiod. Indeed, if only one leaf is left attached to the plant, photoperiod is detected and floral buds are induced. If all leaves are removed, however, the plant is blind to photoperiod. Most plant physiologists believe the flowering signal is a hormone or some change in the relative concentrations of two or more hormones (FIGURE 39.24). The flowering stimulus appears to be the same for short-day and long-day plants, despite the difference in the photoperiodic conditions required for their leaves to send this signal. The evidence for hormonal regulation of flowering is compelling, but researchers have not yet identified the hormone(s).
+
+
+
+Click image to enlarge
+
+
+
+Fig 39-24. Experimental evidence for a flowering hormone(s). If a plant that has been induced to flower by photoperiod is grafted to a plant that has not been induced, both plants flower, indicating the transmission of a flower-inducing substance. This works in some cases even if one is a short-day plant and the other is a long-day plant.
+
+Meristem Transition from Vegetative Growth to Flowering
+
+Whatever combination of environmental cues (such as photoperiod or vernilization) and internal signals (such as hormones) is necessary for flowering to occur, the outcome is the transition of a bud's meristem from a vegetative state to a flowering state. This transition requires changes in the expression of genes that regulate pattern formation. Meristem-identity genes that specify that the bud will now form a flower instead of a vegetative shoot must first be switched on. Then the organ-identity genes that specify the spatial organization of the floral organs--sepals, petals, stamens, and carpels--are activated in the appropriate regions of the meristem (see FIGURES 21.19 and 35.12). Research on flower development is progressing rapidly, and one goal is to identify the signal-transduction pathways that link such cues as photoperiod and hormonal changes to the gene expression required for flowering.
+
+
+
+

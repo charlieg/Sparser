@@ -1,0 +1,58 @@
+
+ Transcription initiation is controlled by proteins that interact with DNA and with each other
+
+If chromatin-modifying enzymes provide a coarse adjustment of gene expression by making a region of DNA either more available or less available for transcription, then fine-tuning begins with the interaction of transcription factors with DNA sequences that control specific genes. Indeed, once a gene is "unpacked," the initiation of transcription is the most important and universally used control point in gene expression. Before looking at control mechanisms, let's review the structure of a typical eukaryotic gene and its transcript.
+
+Organization of a Typical Eukaryotic Gene
+
+A eukaryotic gene and the DNA elements (segments) that control it are typically organized as shown in FIGURE 19.8, which reviews and extends what you learned about eukaryotic genes in Chapter 17. One striking difference between this gene and a prokaryotic gene is the presence of introns, noncoding sequences interspersed between coding sequences, the exons. Recall from Chapter 17 that a cluster of proteins called a transcription initiation complex assembles on the promoter sequence at the "upstream" end of the gene, and one of the -proteins, RNA polymerase, proceeds to transcribe the gene. The introns are removed from the primary transcript during RNA processing, so they do not appear in the mature mRNA. The eukaryotic processing of pre-mRNA usually also includes the addition of a modified guanosine triphosphate cap to its 5&#39; end and a poly(A) tail to its 3&#39; end. Another distinctive feature of the eukaryotic gene illustrated in FIGURE 19.8 is the relatively large number of control elements associated with it. Control elements are simply segments of noncoding DNA that help regulate transcription of a gene by binding proteins--transcription factors. (Strictly speaking, control elements include promoters.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 19-8. A eukaryotic gene and its transcript. Each functional eukaryotic gene has a promoter, a DNA sequence where RNA polymerase binds (with the help of transcription factors) and starts transcription, proceeding "downstream." The 3&#39; end of the transcript is determined by an RNA sequence encoded by a terminator located near the end of the last exon. RNA-processing enzymes immediately add a 5&#39; cap and then a poly(A) tail to the primary transcript, and a spliceosome excises the introns. The resulting mRNA, ready for export to the cytoplasm, includes leader and trailer regions that will not be translated. Involved in regulating the initiation of transcription are a number of control elements (orange), DNA sequences located near (proximal to) or far from (distal to) the promoter. Distal control elements called enhancers can lie either up- stream or downstream of the gene.
+
+The Role of Transcription Factors
+
+As you learned in Chapter 17, eukaryotic RNA polymerase alone cannot initiate transcription of a gene; it is dependent on transcription factors. The transcription factors mentioned in Chapter 17 are essential for the transcription of all protein-coding genes (see FIGURE 17.7). Recall that only one of these transcription factors independently recognizes a DNA sequence, the TATA box within the promoter; the other transcription factors primarily recognize proteins, including each other and RNA polymerase. Protein-protein interactions are crucial to the initiation of eukaryotic transcription. Only when the complete initiation complex has assembled can the polymerase begin to move along the DNA template strand, producing a complementary strand of RNA.
+
+However, the interaction of transcription factors and RNA polymerase with the promoter as summarized so far usually initiates transcription inefficiently, producing only a low rate of initiation and few RNA transcripts. The keys to high levels of eukaryotic transcription are the control elements. These DNA sequences greatly improve the efficiency of promoters by binding additional transcription factors.
+
+As you can see in FIGURE 19.8, some of the control elements on the DNA are close to the promoter; in fact, some biologists include these proximal control elements in what they call the promoter. The more distant distal control elements, called enhancers, may be thousands of nucleotides away from the promoter and may even be downstream of the gene or within an intron. The associations between transcription factors and enhancers play an important role in the control of gene expression in eukaryotes. How do segments of DNA so far away from the promoter influence transcription? Apparently, bending of the DNA enables the transcription factors bound to enhancers to contact proteins of the transcription initiation complex at the promoter (FIGURE 19.9). A transcription factor that binds to an enhancer and stimulates transcription of a gene is termed an activator. Activators help position the initiation complex on the promoter.
+
+
+
+Click image to enlarge
+
+
+
+Fig 19-9. A model for enhancer action. Bending of the DNA enables enhancers to influence a promoter hundreds or even thousands of nucleotides away. Transcription factors called activators bind to the enhancer DNA sequences and then to proteins of the transcription initiation complex. In the process, they facilitate the correct positioning of the complex on the promoter and the initiation of RNA synthesis.
+
+Do eukaryotic cells also have transcription factors that function as repressors, as bacteria have? Yes, there is evidence for eukaryotic repressors. Some of them bind selectively to DNA control elements called silencers, which may be analogous to enhancers. Activators, though, are probably more important than such repressors, because the main regulatory mode in eukaryotic cells seems to be transcriptional activation of otherwise silent genes. The mechanisms responsible for eukaryotic gene silencing--that is, repression--may operate mostly at the level of chromatin modification (for example, DNA methylation).
+
+In any case, the direct control of transcription largely depends on regulatory proteins that bind selectively to DNA and to other proteins. Hundreds of transcription factors have been discovered in eukaryotes. As numerous as these proteins are, however, they follow a few basic structural principles. A transcription factor generally has a DNA-binding domain, a part of its three-dimensional structure that binds to DNA. There are only a few major types of these domains (FIGURE 19.10). In addition, each transcription factor has a protein-binding domain that recognizes another transcription factor.
+
+
+
+Click image to enlarge
+
+
+
+Fig 19-10. Three of the major types of DNA-binding domains in transcription factors. The parts of these structural motifs that interact with DNA are mostly a helices (shown as cylinders) that fit into the larger ("major") groove of the double helix. Variations in amino acid sequence within these helices are responsible for the recognition of specific DNA sequences by the protein.
+
+Considering the challenge of regulating the tens of thousands of genes in a typical animal or plant cell, the number of completely different nucleotide sequences found in DNA control elements is surprisingly small. Members of a dozen or so sequences about four to ten base pairs long appear again and again in the control elements for different genes. For many genes, the particular combination of control elements associated with the gene may be more important than the presence of a control element unique to the gene.
+
+Coordinately Controlled Genes
+
+How does the eukaryotic cell deal with genes of related function that need to be turned on or off at the same time? In Chapter 18, you learned that in prokaryotes, such coordinately controlled genes are often clustered into an operon; they lie adjacent to each other in the DNA molecule and share a promoter and other control elements located at the upstream end of the cluster. The genes of the operon are transcribed sequentially into a single mRNA molecule and are translated together. Such operons have not been found in eukaryotic cells, with rare exceptions. Genes coding for the enzymes of a metabolic pathway, for example, are often scattered over different chromosomes in a eukaryotic genome. Even when genes for related functions are located near one another on the same chromosome, each gene has its own promoter and is individually transcribed. Nevertheless, scattered collections of eukaryotic genes are often coordinately expressed.
+
+Coordinate gene expression in eukaryotes probably depends on the association of a specific control element or collection of control elements with every gene of a dispersed group. Copies of the transcription factors that recognize these control elements bind to them, promoting simultaneous transcription of the genes. One example of such coordinate control in eukaryotes is the activation of a variety of genes by a steroid hormone. Steroid hormones--sex hormones, for example--have multiple effects on the body. As you may recall from FIGURE 11.10, a steroid hormone functions as a chemical signal by entering a cell and binding to a specific receptor protein in the cytoplasm or nucleus. When activated by steroid binding, a steroid receptor functions as a transcription activator. Every gene to be turned on by that hormone has a control element recognized by that activator.
+
+Most other kinds of signal molecules, such as nonsteroid hormones or the extracellular signals exchanged by cells in a developing embryo, bind to receptors on the receiving cell's surface and never actually enter the cell. But they can control gene expression indirectly by triggering signal-transduction pathways that lead to the activation of particular transcription factors (see FIGURE 11.17). The principle of coordinate regulation remains the same: Genes with the same control elements are activated by the same chemical signals. Systems for coordinating gene regulation probably evolved by the duplication and distribution of control elements within the genome.
+
+
+
+

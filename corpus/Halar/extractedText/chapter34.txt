@@ -1,0 +1,1110 @@
+
+Chapter 34: VERTEBRATE EVOLUTION AND DIVERSITY
+
+INVERTEBRATE CHORDATES AND THE ORIGIN OF VERTEBRATES
+
+   Four anatomical features characterize the phylum Chordata
+
+   Invertebrate chordates provide clues to the origin of vertebrates
+
+
+
+INTRODUCTION TO THE VERTEBRATES
+
+   Neural crest, pronounced cephalization, a vertebral column, and a closed circulatory system characterize the subphylum Vertebrata
+
+   An overview of vertebrate diversity
+
+
+
+JAWLESS VERTEBRATES
+
+   Class Myxini: Hagfishes are the most primitive living "vertebrates"
+
+   Class Cephalaspidomorphi: Lampreys provide clues to the evolution of the vertebral column
+
+   Some extinct jawless vertebrates had ossified teeth and bony armor
+
+
+
+FISHES AND AMPHIBIANS
+
+   Vertebrate jaws evolved from skeletal supports of pharyngeal slits
+
+   Class Chondrichthyes: Sharks and rays have cartilaginous skeletons
+
+   Osteichthyes: The extant classes of bony fishes are the ray-finned fishes, the lobe-finned fishes, and the lungfishes
+
+   Tetrapods evolved from specialized fishes that inhabited shallow water
+
+   Class Amphibia: Salamanders, frogs, and caecilians are the three extant amphibian orders
+
+
+
+AMNIOTES
+
+   Evolution of the amniotic egg expanded the success of vertebrates on land
+
+   Vertebrate systematists are reevaluating the classification of amniotes
+
+   A reptilian heritage is evident in all amniotes
+
+   Birds began as feathered reptiles
+
+   Mammals diversified extensively in the wake of the Cretaceous extinctions
+
+
+
+PRIMATES AND THE EVOLUTION OF Homo Sapiens
+
+   Primate evolution provides a context for understanding human origins
+
+   Humanity is one very young twig on the vertebrate tree
+
+Most of us are curious about our genealogies. On the personal level, we wonder about our family ancestry. As biology students, we are interested in retracing human ancestry within the broader scope of the evolutionary history of the entire animal kingdom. The questions we must ask are the following: What were our ancestors like? How are we related to other animals? What are our closest relatives? In this chapter, we trace the evolution of the vertebrates, the group that includes humans and their closest relatives. Mammals, birds, lizards, snakes, turtles, amphibians, and the various classes of fishes are all examples of vertebrates. They share many features unique to the vertebrates, including the backbone, a series of vertebrae for which the group is named. You can see this vertebrate hallmark in the above photograph of a snake skeleton. Our first step in tracking the vertebrate genealogy is to determine where vertebrates fit in the animal kingdom.
+
+
+
+
+
+INVERTEBRATE CHORDATES AND THE ORIGIN OF VERTEBRATES
+
+ 
+
+ Four anatomical features characterize the phylum Chordata
+
+
+
+ 
+
+ Invertebrate chordates provide clues to the origin of vertebrates
+
+
+
+The vertebrates are part of a phylogenetic branch of the animal kingdom consisting of deuterostomes (see FIGURE 32.4). The deuterostome branch has two main modern phyla: the chordates (which include the vertebrates) and the echinoderms. An echinoderm such as the sea star is the closest living relative of human beings among the well-known groups of invertebrates. However, the phylum Chordata itself also includes two groups of less well-known invertebrate animals: the urochordates and the cephalochordates. The urochordates and cephalochordates are therefore more closely related to us than is a sea star. FIGURE 34.1 is a cladogram of some of the animal groups we will examine during the first part of this chapter.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-1. Clades of extant chordates. The upper right cladogram places the chordates in the context of bilaterian evolution (see Chapters 32 and 33); the enlarged cladogram introduces the major chordate clades we'll be discussing in the first part of the chapter. In the rest of the chapter, we'll take a closer look at the jawed vertebrates. Some of the derived characters that define certain clades are also indicated in this diagram (for example, all chordates, and only chordates, have notochords).
+
+
+
+
+
+INTRODUCTION TO THE VERTEBRATES
+
+ 
+
+ Neural crest, pronounced cephalization, a vertebral column, and a closed circulatory system characterize the subphylum Vertebrata
+
+
+
+ 
+
+ An overview of vertebrate diversity
+
+
+
+Vertebrates (subphylum Vertebrata) retain the primitive chordate characteristics but have additional specializations, shared derived features that distinguish the subphylum from invertebrate chordates. Many of the features that distinguish vertebrates are associated with larger size and an active lifestyle.
+
+
+
+
+
+JAWLESS VERTEBRATES
+
+ 
+
+ Class Myxini: Hagfishes are the most primitive living "vertebrates"
+
+
+
+ 
+
+ Class Cephalaspidomorphi: Lampreys provide clues to the evolution of the vertebral column
+
+
+
+ 
+
+ Some extinct jawless vertebrates had ossified teeth and bony armor
+
+
+
+The two extant classes of jawless vertebrates, or agnathans (which means "without jaws"), are the hagfishes and the lampreys. These animals are eel-like in shape, but the true eels are actually bony fishes. In fact, the agnathans represent ancient vertebrate lineages that predate the origin of paired fins, teeth, and bones hardened by mineralization (ossification). Thus, agnathans provide clues about early stages in the evolution of vertebrates.
+
+
+
+
+
+FISHES AND AMPHIBIANS
+
+ 
+
+ Vertebrate jaws evolved from skeletal supports of the pharyngeal slits
+
+
+
+ 
+
+ Class Chondrichthyes: Sharks and rays have cartilaginous skeletons
+
+
+
+ 
+
+ Osteichthyes: The extant classes of bony fishes are the ray-finned fishes, the lobe-finned fishes, and the lungfishes
+
+
+
+ 
+
+ Tetrapods evolved from specialized fishes that inhabited shallow water
+
+
+
+ 
+
+ Class Amphibia: Salamanders, frogs, and caecilians are the three extant amphibian orders
+
+
+
+During the late Silurian period and early Devonian period, gnathostomes largely replaced the agnathans. The two extant groups of fishes--Chondrichthyes (the cartilaginous fishes: sharks and rays) and Osteichthyes (the bony fishes: ray-finned fishes, lobe-finned fishes, and lungfishes)--first appeared during that time. There is also a substantial fossil record of the armored, jawed fishes called placoderms ("plate skinned"), which are completely extinct. Most placoderms were less than a meter long, though some giants measured more than 10 m.
+
+In addition to jaws, fishes also have two pairs of fins, whereas agnathans either lacked paired appendages or had a single pair. By studying the developmental genetics of extant vertebrates, biologists in the "evo-devo" field have found that differential expression of some of the Hox genes may determine whether one or two sets of paired appendages develop in a vertebrate embryo (see Chapters 21 and 25).
+
+Jaws and paired fins were major evolutionary breakthroughs in vertebrate history. Jaws are hinged structures that, especially with the help of teeth, enable the animal to grip food items firmly and slice them up. A jawed fish can exploit food supplies that were unavailable to earlier agnathans, which fed mainly on food particles suspended in the water or located on the sea bottom. Paired fins, along with the tail, enable fishes to maneuver accurately while swimming, analogous to an airplane's movements of wing flaps and tail rudder for ascending, descending, and turning. With their jaws and paired fins, many species of fishes were active predators, capable of chasing prey and biting off chunks of flesh. Thus, these modifications of the early vertebrate body plan allowed the diversification of both lifestyles and nutrient sources, which may explain why jawed fishes replaced most agnathans during the Devonian period.
+
+
+
+
+
+AMNIOTES
+
+ 
+
+ Evolution of the amniotic egg expanded the success of vertebrates on land
+
+
+
+ 
+
+ Vertebrate systematists are reevaluating the classification of amniotes
+
+
+
+ 
+
+ A reptilian heritage is evident in all amniotes
+
+
+
+ 
+
+ Birds began as feathered reptiles
+
+
+
+ 
+
+ Mammals diversified extensively in the wake of the Cretaceous extinctions
+
+
+
+
+
+
+
+PRIMATES AND THE EVOLUTION OF Homo Sapiens
+
+ 
+
+ Primate evolution provides a context for understanding human origins
+
+
+
+ 
+
+ Humanity is one very young twig on the vertebrate tree
+
+
+
+
+
+
+
+ Four anatomical features characterize the phylum Chordata
+
+Although chordates vary widely in appearance, they are distinguished as a phylum by the presence of four anatomical structures that appear at some point during the animal's lifetime, often only during embryonic development. These four chordate characteristics are a notochord; a dorsal, hollow nerve cord; pharyngeal slits; and a muscular, postanal tail (FIGURE 34.2, p. 680).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-2. Chordate characteristics. All chordates possess the four trademarks of the phylum: a notochord; a dorsal, hollow nerve cord; pharyngeal slits; and a muscular, postanal tail.
+
+1. Notochord
+
+Chordates are named for a skeletal structure, the notochord, present in all chordate embryos. The notochord is a longitudinal, flexible rod located between the digestive tube and the nerve cord. Composed of large, fluid-filled cells encased in fairly stiff, fibrous tissue, it provides skeletal support throughout most of the length of the animal. The notochord persists in the adult of some invertebrate chordates and primitive vertebrates. However, in most vertebrates a more complex, jointed skeleton develops, and the adult retains only remnants of the embryonic notochord--as gelatinous material of the disks between the vertebrae of humans, for example.
+
+2. Dorsal, Hollow Nerve Cord
+
+The nerve cord of a chordate embryo develops from a plate of ectoderm that rolls into a tube located dorsal to the notochord. The result is a dorsal, hollow nerve cord unique to chordates. Other animal phyla have solid nerve cords, usually ventrally located. The nerve cord of a chordate embryo develops into the central nervous system: the brain and spinal cord.
+
+3. Pharyngeal Slits
+
+The digestive tube of chordates extends from the mouth to the anus. The region just posterior to the mouth is the pharynx, which opens to the outside of the animal through several pairs of slits. These pharyngeal slits allow water that enters the mouth to exit without continuing through the entire digestive tract. The pharyngeal slits function as suspension-feeding devices in many invertebrate chordates. The slits and structures supporting them have become modified for gas exchange (in aquatic vertebrates), jaw support, hearing, and other functions during vertebrate evolution.
+
+4. Muscular, Postanal Tail
+
+Most chordates have a tail extending posterior to the anus. By contrast, most nonchordates have a digestive tract that extends nearly the whole length of the body. The chordate tail contains skeletal elements and muscles and provides much of the propulsive force in many aquatic species.
+
+
+
+
+
+ Invertebrate chordates provide clues to the origin of vertebrates
+
+Members of the two subphyla of invertebrate chordates, Urochordata and Cephalochordata, illustrate the chordate body plan in its most "stripped-down" versions--without the additional features that evolved in vertebrates. The study of urochordates and cephalochordates also provides clues to the origin of vertebrates.
+
+Subphylum Urochordata
+
+Urochordates are commonly called tunicates. Most tunicates are sessile marine animals that adhere to rocks, docks, and boats (FIGURE 34.3a). Others are planktonic. Some species are colonial. Seawater enters the animal through an incurrent siphon, passes through the pharyngeal slits into a chamber called the atrium, and exits through an excurrent siphon, or atriopore (FIGURE 34.3b). The food filtered from this water current by a mucous net is passed by cilia into the intestine. The anus empties into the excurrent siphon. The entire animal is cloaked in a tunic made of a celluloselike carbohydrate. Because they shoot a jet of water through the excurrent siphon when molested, tunicates are also called sea squirts.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-3. Subphylum Urochordata: a tunicate. (a) An adult tunicate, or sea squirt, is a sessile animal commonly arranged in a U shape (photo is approximately life-sized). (b) In the adult, prominent pharyngeal slits function in suspension feeding, but the other chordate characteristics are not obvious. (c) In the tunicate larva, which is a free-swimming but nonfeeding "tadpole," the chordate characteristics are evident: It has a notochord, dorsal nerve tube, and a tail with muscle segments.
+
+The adult tunicate scarcely resembles a chordate. It displays no trace of a notochord, nor is there a nerve cord or tail. Only the pharyngeal slits suggest a link to other chordates. But all four chordate trademarks are manifest in the larval form of some groups of tunicates (FIGURE 34.3c). The larva swims until it attaches by its head to a surface and undergoes metamorphosis, during which most of its chordate characteristics disappear.
+
+Subphylum Cephalochordata
+
+Known as lancelets because of their bladelike shape, cephalochordates closely resemble the idealized chordate in FIGURE 34.2. The notochord; dorsal, hollow nerve cord; numerous gill slits; and postanal tail all persist into the adult stage (FIGURE 34.4). Lancelets are small animals, only a few centimeters long, that live in the sand at the bottom of the sea in coastal regions. Globally they are rare, but they live at huge densities (over 5,000 lancelets per square meter) in a small number of places, including one at Tampa Bay, Florida. Lancelets wriggle backward into the sand, leaving only their anterior end exposed. A mucous net secreted across the pharyngeal slits traps tiny food particles from seawater drawn into the mouth by ciliary pumping. The water exits through the slits, and the trapped food passes down the digestive tube. Animals such as lancelets that feed on small particles suspended in the water are called suspension feeders, and early chordates, until the evolution of fishes with jaws and teeth, were all suspension feeders. In the lancelet, the pharynx and gill slits are feeding structures, and only to a minor extent respiratory structures; gas exchange takes place mainly across regions of the external body surface.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 34-4. Subphylum Cephalochordata: the lancelet Branchiostoma. (a) This small invertebrate displays all four chordate characteristics. The pharyngeal slits function in suspension feeding. Water passes into the pharynx and through slits into the atrium, a chamber that vents to the outside via the atriopore. Food particles trapped by mucus are swept by cilia into the digestive tract. (b) The muscle segments you can see in this photo of a lancelet produce the sinusoidal swimming of these animals.
+
+A lancelet frequently leaves its burrow and swims to a new location. Though feeble swimmers, these invertebrate chordates display, in simple form, the swimming mechanism of fishes. Coordinated contraction of muscles serially arranged like rows of chevrons (&lt;&lt;&lt;&lt;) along the sides of the notochord flexes the notochord, producing side-to-side undulations that thrust the body forward. This serial musculature is evidence of the lancelet's segmentation. The muscle segments develop from blocks of mesoderm called somites arranged along each side of the notochord of a chordate embryo. Chordates are segmented animals.
+
+The Relationship Between Invertebrate Chordates and Vertebrates
+
+Molecular evidence suggests that the cephalochordates are the vertebrates' closest relatives, and urochordates are their next closest relatives (see FIGURE 34.1). According to one hypothesis, there were two stages in the evolution of vertebrates from invertebrates: In the first stage, an ancestral cephalochordate evolved from a form resembling a modern urochordate larva; in the second stage, a vertebrate evolved from a cephalochordate. The first stage may have been preceded by paedogenesis, the precocious development of sexual maturity in a larva (see Chapter 24). Notice that a cephalochordate appears more akin to a urochordate larva than to an adult urochordate (compare FIGURES 34.3 and 34.4). Changes in genes controlling development can alter the timing of developmental events, such as the maturation of gonads. Perhaps such a change occurred in the ancestor of cephalochordates and vertebrates, causing the gonads to mature in swimming larvae before the onset of metamorphosis to the sessile adult form. If reproducing larvae were very successful, natural selection may have reinforced paedo genesis and eliminated metamorphosis.
+
+There is no fossil evidence to support or contradict the paedogenetic hypothesis; it is deduced from comparing modern forms. But fossil evidence does tell us something about the second stage, from cephalochordate to vertebrate. In 1999, paleontologists reported that fossils from a site in China support the idea that cephalochordates are the closest relatives of vertebrates. The 530-million-year-old fossils appear to blur the distinction between cephalochordates and vertebrates by showing a series of "missing links" (FIGURE 34.5). Vertebrates, as we consider further below, differ from lancelets in having a much more elaborate brain--an enlargement of the nerve cord at the anterior end--and a braincase, or cranium. One Chinese fossil, Haikouella, seems to have a brain but may lack a cranium (skull). It also (unlike the lancelet) has eyes, and hardened structures called "denticles" in its pharynx, which may have functioned somewhat like teeth. Otherwise, Haikouella resembles the lancelet. It has tentacles around its mouth and was probably a suspension feeder. This animal had some vertebrate characteristics (brain) but not others (cranium). Another Chinese fossil from the same area, Haikouichthys, seems to have a cranium and may be the earliest fossil with a full set of vertebrate characteristics. The discovery of these Chinese fossils pushes the origin of vertebrates back to the Cambrian explosion (see Chapter 32).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-5. Early fossil vertebrates. These fossils were discovered in 1999 near the town of Haikou in southern China. They date back to the early Cambrian period, about 530 million years ago. (a) Fossils of Haikouella are about 2-3 cm long. Based on detailed study of over 300 specimens fossilized in a variety of body positions, researchers have been able to describe many anatomical details of this species. Haikouella resembled a modern cephalochordate, but with such vertebrate characters as eyes, mineralized toothlike structures, and what seems to be an enlarged brain. However, there is no evidence of a cranium (braincase), a character found in all true modern vertebrates. Thus, Haikouella may represent animals that were transitional in the evolution of vertebrates from invertebrate chordates. (b) Haikouichthys, about the same size as Haikouella, probably had a cranium, making it a full-fledged vertebrate. (c) Based on fossils from the same Chinese sediments, an artist reconstructed Myllokunmingia, which is very similar to Haikouichthys. These earliest known vertebrates, in contrast to lancelets (cephalochordates), were more mobile and were probably predators rather than suspension feeders.
+
+
+
+
+
+ Neural crest, pronounced cephalization, a vertebral column, and a closed circulatory system characterize the subphylum Vertebrata
+
+The dorsal, hollow nerve cord found in all chordates develops when the edges of an ectodermal plate on the surface of the embryo roll together to form the neural tube. In vertebrates, a group of embryonic cells called the neural crest forms near the dorsal margins of the closing neural tube (FIGURE 34.6). A distinctive feature of vertebrates, the neural crest contributes to the formation of certain skeletal elements, such as some of the bones and cartilage of the cranium (braincase), and many other structures that distinguish vertebrates from other chordates.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-6. The neural crest, embryonic source of many unique vertebrate characters. (a) The neural crest consists of bilateral bands of cells near the margins of the embryonic folds that meet to form the dorsal, hollow nerve cord (neural tube). (b) Cells from the neural crest migrate to distant sites in the embryo, where they give rise to some of the anatomical structures unique to vertebrates, including some of the bones and cartilage of the skull.
+
+The vertebrate cranium and brain (which is the enlarged anterior end of the dorsal, hollow nerve cord), along with the eyes, ears, and nose, are evidence of an important evolutionary feature of vertebrates--a high degree of cephalization, the concentration of sensory and neural equipment in the head (see Chapter 32).
+
+Note in FIGURE 34.1 that these vertebrate characteristics are present in the animals called hagfishes, but the hagfishes lack a backbone of vertebrae. Therefore, the cladogram in FIGURE 34.1 nests the vertebrate clade within a larger clade, Craniata, which is named for the cranium and includes the hagfishes. However, we will include hagfishes in our survey of vertebrates, with the caveat that they represent an ancient branch of Craniata that predates the origin of the vertebral column.
+
+The cranium and vertebral column, surrounding and protecting the nerve cord, are parts of the vertebrate axial skeleton, the main support structure for the axis, or central trunk, of the body. The axial skeleton helps make large body size and strong, fast movement possible. The axial skeleton of most vertebrates also includes ribs, which anchor muscles and protect internal organs. Most vertebrates also have an appendicular skeleton, supporting two pairs of appendages (fins, legs, or arms).
+
+The vertebrate endoskeleton is made of bone or more flexible cartilage, or most commonly some combination of these two materials. Although the skeleton consists mostly of a nonliving matrix, living cells within the skeleton secrete and maintain the materials of the matrix. The endoskeleton of a vertebrate can grow with the animal, unlike the nonliving exoskeleton of arthropods, which must be periodically shed and rebuilt as the animal grows.
+
+When vertebrates move in pursuit of food or when escaping predators, they regenerate their ATP supply mainly by cellular respiration, which consumes oxygen. Adaptations of the vertebrate respiratory and circulatory systems support busy mitochondria in muscle cells and other active tissues. Vertebrates have a closed circulatory system, with a ventral, chambered heart that pumps blood through arteries to microscopic vessels called capillaries that branch throughout every tissue in the body. The blood is oxygenated as it passes through capillaries in gills or lungs.
+
+A vigorous lifestyle also requires a relatively large supply of organic fuel. Vertebrate adaptations for feeding, digestion, and nutrient absorption help support active behavior. For example, muscles in the walls of the digestive tract propel food from organ to organ along the tract. These are all examples of vertebrate form and function having their historical basis in the transition from a relatively sedentary lifestyle to a more active one.
+
+
+
+
+
+ An overview of vertebrate diversity
+
+FIGURE 34.7 (p. 684) is a hypothetical cladogram of extant (living) vertebrates based on a combination of anatomical, molecular, and fossil evidence. Two groups, the hagfishes and the lampreys, lack hinged jaws. All the other vertebrates are grouped in FIGURE 34.7 within the clade identified as the gnathostomes (which means "jawed mouth"). In addition to jaws, gnathostomes also have two sets of paired appendages. Among these jawed vertebrates, there are various classes of aquatic animals that we generally call "fishes": the cartilaginous fishes (sharks and rays) and three classes of bony fishes (the ray-fins, lobe-fins, and lungfishes). In the case of fishes, the two sets of paired appendages are fins that function in swimming. All the other gnathostomes are tetrapods ("four footed"), in which the two sets of paired appendages are modified as legs that can support the animals on land. The tetrapods include the amphibians (frogs and salamanders) along with the clade identified as amniotes in FIGURE 34.7. The amniotes are named for the amniotic egg, which is a shelled, water-retaining egg (think of grocery store eggs, which are laid by birds). The amniotic egg functions as a "self-contained pond" that enables amniotes to complete their life cycles on land. Although most modern mammals don't lay eggs, they retain many other key features of the amniotic mode of reproduction. Note that the amniotes we customarily lump together as "reptiles" (turtles, snakes, lizards, crocodiles, and alligators) do not represent a clade (monophyletic group)--unless we also include the birds.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-7. Phylogeny of the major groups of extant vertebrates. Some of the branches in this cladogram are marked with one or more shared derived characters of the vertebrate groups beyond that point in the tree.
+
+With the cladogram in FIGURE 34.7 as our guide, let's now take a closer look at the major vertebrate groups.
+
+
+
+
+
+ Class Myxini: Hagfishes are the most primitive living "vertebrates"
+
+There are about 30 species of hagfishes, all of them marine. They are mainly bottom-dwelling scavengers, ingesting such food as worms and sick or dead fish. Rows of slime glands on a hagfish's flanks secrete a gooey substance (FIGURE 34.8). The glands produce small amounts of the slime when a hagfish is feeding, a behavior that may repulse other scavengers. But when a hagfish is attacked by a potential predator, it can secrete enough water-absorbing goo to form several liters of slime in less than a minute. The slime can coat the gills of a predatory fish, sending it into retreat or even suffocating it.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-8. A hagfish.
+
+The skeleton of a hagfish is made entirely of cartilage, a rubbery connective tissue (see FIGURE 40.2). In addition to the cartilaginous cranium (skull), a strong but flexible rod of cartilage (which is actually the notochord) extends the length of the body, much like the notochords of lancelets (cephalochordates). The hagfish notochord provides support and a skeleton against which muscles can exert force to drive the animal's serpentine (snakelike) swimming.
+
+Hagfishes do not have vertebrae, and so, as we pointed out earlier, these chordates are only included with vertebrates if we equate the subphylum Vertebrata with the clade marked Craniata in FIGURE 34.1. Until recently, a popular hypothesis was that hagfishes lost their vertebrae secondarily during their descent from an ancestor with a true vertebral column. However, more detailed study has convinced most zoologists that the hagfish skeleton is truly primitive. In fact, hagfishes are now considered to be the most primitive living vertebrates (or craniates), diverging from the vertebrate lineage about 530 million years ago, during the early Cambrian.
+
+
+
+
+
+ Class Cephalaspidomorphi: Lampreys provide clues to the evolution of the vertebral column
+
+There are about 35 species of lampreys inhabiting both marine and freshwater environments. The sea lamprey (FIGURE 34.9) feeds by clamping its round mouth onto the flank of a live fish, using a rasping tongue to penetrate the skin of its prey, and ingesting the prey's blood. Sea lampreys live as larvae for years in freshwater streams and then migrate to the sea or lakes as they mature into adults. The larva is a suspension feeder that resembles the lancelets (cephalochordates). Some species of lampreys feed only as larvae. Following several years in streams, they attain sexual maturity, reproduce, and die within a few days.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-9. A sea lamprey. Acting as both a predator and a parasite, a lamprey uses this rasping mouth (inset) to bore a hole in the side of a fish, living on the blood and other tissues of its host.
+
+The notochord of lampreys persists as the main axial skeleton in the adult animal, as it does in hagfishes. However, a lamprey also has a cartilaginous pipe surrounding the rodlike notochord. Along the length of this pipe, pairs of cartilaginous projections extend upward (dorsally), partially enclosing the nerve cord with what may be a vestige of an early stage in the evolution of the vertebral column.
+
+Note again that both hagfishes and lampreys not only lack skeleton-supported jaws but also lack paired appendages. And the skeletons of hagfishes and lampreys are made entirely of cartilage. In contrast, the skeletons of most jawed vertebrates are ossified (hardened with minerals) as bone. In the gnathostomes (jawed vertebrates), the notochord is a larval structure, largely replaced during development by the segmental vertebrae that make up the backbone.
+
+Thus, anatomical comparison of agnathans with gnatho stomes indicates that the brain and braincase (cranium) evolved first in the vertebrate lineage, followed by the vertebral column, with the jaws, ossified skeleton, and paired appendages evolving later. Analysis of the early Cambrian fossils in Chinese strata is consistent with this interpretation (see FIGURE 34.5).
+
+
+
+
+
+ Some extinct jawless vertebrates had ossified teeth and bony armor
+
+Jawless vertebrates are much more diverse and common in the fossil record than they are among today's fauna. A diversity of taxa informally called ostracoderms thrived from about 450 to 375 million years ago, from the Ordovician period to the late Devonian. Most species were small, less than 50 cm in length. Most lacked paired fins and apparently were bottom dwellers that wiggled along streambeds or the seafloor, but there were also some more active species with paired fins. Their mouths were circular or slitlike openings that lacked jaws. The majority of ostracoderms were probably mud-suckers or suspension feeders that took in sediments or suspended organic debris through their mouths and then passed it through the gill slits, where food was trapped. Thus, the pharyngeal apparatus retained the primitive feeding function, although gills in agnathans had probably also evolved into the major sites of gas exchange. The ostracoderms and most other agnathan groups declined and finally disappeared during the Devonian period.
+
+Fossils of the extinct agnathans provide evidence that the process of mineralization of certain body structures evolved early in vertebrate history. Ostracoderm means "shelled skin," a reference to the armor of bony plates that encased these animals. The plates may represent an early evolutionary stage of ossification, the hardening of connective tissue that occurs when specialized cells secrete calcium and phosphate, which precipitate as calcium phosphate, a hard mineral salt. Even earlier evidence of ossification is found in fossils of ancient vertebrates called conodonts, which date back as far as 510 million years. These vertebrates are named for their coneshaped toothlike structures, which were ossified. In contrast, the mouths of hagfishes contain toothlike structures made mainly of keratin, a structural protein.
+
+Based on cladistic analysis, most vertebrate systematists now agree that hagfishes and lampreys, though still represented in the modern fauna, are actually more primitive as vertebrates than were the conodonts and ostracoderms. The jawed vertebrates probably evolved from one of the many lineages of ostracoderms.
+
+
+
+
+
+ Vertebrate jaws evolved from skeletal supports of the pharyngeal slits
+
+Vertebrate jaws evolved by modification of the skeletal rods that had previously supported the anterior pharyngeal (gill) slits (FIGURE 34.10). The remaining gill slits, no longer required for suspension feeding, remained as the major sites of respiratory gas exchange with the external environment. The origin of vertebrate jaws from these skeletal parts illustrates a general feature of evolutionary change: New adaptations usually evolve by the modification of existing structures. As a mechanism of adaptation, evolution is limited by the raw material with which it must work. Evolution is generally more of a remodeling process than a creative one.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-10. Hypothesis for the evolution of vertebrate jaws. The skeleton of the jaws and their supports evolved from two pairs of skeletal rods located between gill slits that were near the mouth. Pairs of rods anterior to those that formed the jaws were either lost or incorporated into the jaws.
+
+The Devonian period (about 360 to 400 million years ago) has been called the "age of fishes," when the placoderms and another group of jawed fishes called acanthodians radiated and many new forms evolved in both fresh and salt water. Placoderms and acanthodians dwindled and disappeared almost completely by the beginning of the Carboniferous period, about 360 million years ago. An ancestor common to the placoderms and acanthodians may also have given rise to sharks and bony fishes some 425 to 450 million years ago. Sharks and bony fishes are currently the main vertebrates in the watery two-thirds of the surface of Earth.
+
+
+
+
+
+ Class Chondrichthyes: Sharks and rays have cartilaginous skeletons
+
+The vertebrates of the class Chondrichthyes, sharks and their relatives, are called cartilaginous fishes because they have relatively flexible endoskeletons made of cartilage rather than bone. However, in most species, parts of the skeleton are strengthened by mineralized granules, and the teeth are bony. There are about 750 extant species in this class. Jaws and paired fins are well developed in the cartilaginous fishes. The largest and most diverse subclass consists of the sharks and rays. A second subclass is composed of a few dozen species of unusual fishes called chimaeras, or ratfishes.
+
+The cartilaginous skeleton of these fishes is a derived characteristic, not a primitive one; that is, the ancestors of Chondrichthyes had bony skeletons, and the cartilaginous skeleton characteristic of the class evolved secondarily. During the development of most vertebrates, the skeleton is first cartilaginous and then becomes bony (ossified) as hard calcium phos phate matrix replaces the rubbery matrix of cartilage. Apparently, some modification in the developmental process of cartilaginous fishes prevents the replacement process.
+
+Most sharks have streamlined bodies (FIGURE 34.11a, p. 688). They are swift swimmers, but they do not maneuver very well. Powerful swimming muscles, especially in the caudal (tail) fin, propel them forward. The dorsal fins function mainly as stabilizers, and the paired pectoral (fore) and pelvic (hind) fins provide lift in the water. Although a shark gains additional buoyancy by storing a large amount of oil in its huge liver, the animal is still denser than water, and it sinks if it stops swimming. Continual swimming also ensures that water will flow into the mouth and out through the gills, where gas exchange occurs. However, some sharks and many skates and rays spend a good deal of time resting on the seafloor. When doing so, these fishes use muscles of the jaws and pharynx to pump water over the gills.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-11. Cartilaginous fishes (class Chondrichthyes). (a) Blacktip reef shark. Fast swimmers with acute senses, sharks, such as this blacktip reef shark, have paired pectoral and pelvic fins. (b) Great white shark. A great white shark displays its hinged jaws and toothy mouth, which complement the animal's mobility and sensory equipment as adaptations for a predatory way of life. (c) Blue-spotted stingray. Most rays, such as the blue-spotted stingray, are flattened bottom dwellers that crush mollusks and crustaceans for food. Some other species cruise in open water, scooping food into their gaping mouths.
+
+The largest sharks and rays are suspension feeders that feed on plankton. Most sharks, however, are carnivores that swallow their prey whole or use their powerful jaws and sharp teeth to tear flesh from animals too large to swallow in one piece (FIGURE 34.11b). Shark teeth probably evolved from the jagged scales that cover the abrasive skin. The digestive tract of many sharks is proportionately shorter than the digestive tube of many other vertebrates. Within the shark intestine is a spiral valve, a corkscrew-shaped ridge that increases surface area and prolongs the passage of food along the short digestive tract.
+
+Acute senses are adaptations that go along with the active, carnivorous lifestyle of sharks. Sharks have sharp vision but cannot distinguish colors. The nostrils of sharks, like those of most fishes, open into dead-end cups. They function only for olfaction (smelling), not for breathing. Along with eyes and nostrils, the shark head also has a pair of regions in the skin that can detect electrical fields generated by the muscle contractions of nearby animals. Running the length of each flank of the shark is the lateral line system, a row of microscopic organs sensitive to changes in the surrounding water pressure. A primitive feature and present in most species of aquatic vertebrates, the lateral line system enables the animal to detect minor vibrations. Sharks and other fishes have no eardrums, structures that terrestrial vertebrates use to transmit sound waves traveling through air into the ear toward the auditory organs. Sound reaches the shark through water, and the animal's entire body transmits the sound to the hearing organs of the inner ear.
+
+Shark eggs are fertilized internally. The male has a pair of claspers on its pelvic fins that transfer sperm into the reproductive tract of the female. Some species of sharks are oviparous; they lay eggs that hatch outside the mother's body. These sharks release their eggs after encasing them in protective coats. Other species are ovoviviparous; they retain the fertilized eggs in the oviduct. Nourished by the egg yolk, the embryos develop into young that are born after hatching within the uterus. A few species are viviparous; the young develop within the uterus, nourished prior to birth by nutrients received from the mother's blood through a placenta. The reproductive tract of the shark empties along with the excretory system and digestive tract into the cloaca, a common chamber that expels through a single vent.
+
+Although rays are closely related to sharks, they have adopted a very different lifestyle. Most rays are flattened bottom dwellers that feed by using their jaws to crush mollusks and crustaceans (FIGURE 34.11c). A ray's pectoral fins are greatly enlarged and used like water wings to propel the animal through the water. The tail of many rays is whiplike and, in some species, bears venomous barbs that function in defense.
+
+
+
+
+
+ Osteichthyes: The extant classes of bony fishes are the ray-finned fishes, the lobe-finned fishes, and the lungfishes
+
+Of all vertebrate groups, bony fishes are the most numerous, both in individuals and in species (about 30,000). Ranging in size from about 1 cm to more than 6 m long, bony fishes are abundant in the seas and in nearly every freshwater habitat (FIGURE 34.12).
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 34-12. Ray-finned fishes (class Actinopterygii). (a) Yellow perch (b) Long-snouted sea horse
+
+Until recently, zoologists combined all bony fishes into a single vertebrate class (Osteichthyes), and we'll continue to use that name as a general, informal one for the great diversity of bony fishes. However, based on cladistic analysis, most vertebrate systematists now recognize three extant classes of bony fishes: the ray-finned fishes, the lobe-finned fishes, and the lungfishes (see FIGURE 34.7).
+
+Nearly all bony fishes have an ossified endoskeleton with a hard matrix of calcium phosphate. The skin is often covered by flattened, bony scales that differ in structure from the toothlike scales of sharks. Glands in the skin of a bony fish secrete a mucus that gives the animal its characteristic sliminess, an adaptation that reduces drag during swimming. In common with sharks, bony fishes have a lateral line system clearly evident as a row of tiny pits in the skin on either side of the body (FIGURE 34.13).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-13. Anatomy of a trout, a representive ray-finned fish.
+
+Bony fishes breathe by drawing water over four or five pairs of gills located in chambers covered by a protective flap called the operculum. Water is drawn into the mouth, through the pharynx, and out between the gills by movement of the operculum and contraction of muscles surrounding the gill chambers. This process enables a bony fish to breathe while stationary.
+
+Another adaptation of most bony fishes not found in sharks is the swim bladder, an air sac that helps control the buoyancy of the fish. The transfer of gases between the swim bladder and the blood varies the inflation of the bladder and adjusts the density of the fish. Thus, many bony fishes, in contrast to most sharks, can conserve energy by remaining almost motionless. Swim bladders evolved from balloonlike lungs, which the ancestral bony fishes may have used to supplement gas exchange by gills in shallow water.
+
+Bony fishes are generally maneuverable swimmers, their flexible fins better for steering and propulsion than the stiffer fins of sharks. The fastest bony fishes can swim in short bursts of up to 80 km/hr.
+
+Details about the reproduction of bony fishes vary extensively. Most species are oviparous, reproducing by external fertilization after the female sheds large numbers of small eggs. However, internal fertilization and birthing characterize other species.
+
+Both cartilaginous and bony fishes diversified extensively during the Devonian and Carboniferous periods, but whereas sharks arose in the sea, bony fishes probably originated in fresh water. Swim bladders were modified from simple lungs that had augmented the gills in gas exchange, perhaps in stagnant swamps with low oxygen content. The three classes of bony fishes that exist today had diverged by the end of the Devonian.
+
+Nearly all the families of fishes familiar to us are ray-finned fishes (class Actinopterygii; Gr. aktin, "ray," and pteryg, "wing" or "fin"). The various species of bass, trout, perch, tuna, and herring are examples. The fins, supported mainly by long flexible rays, are modified for maneuvering, defense, and other functions (see FIGURE 34.12a). Ray-finned fishes spread from fresh water to the seas during their long history. (Adaptations that solve the osmotic problems of this move to salt water are discussed in Chapter 44.) Numerous species of ray-finned fishes returned to fresh water at some point in their evolution. Some of these, including salmon and sea-run trout, replay their evolutionary round-trip from fresh water to seawater back to fresh water during their life cycle.
+
+In contrast to the ray-fins, lobe-finned fishes (class Actinistia) have muscular pectoral and pelvic fins supported by extensions of the bony skeleton. Known mainly from the fossil record, many lobe-fins were large, apparently bottom dwellers that may have used their paired, muscular fins as aids to "walking" on the substrate under water. Lobe-finned fishes are represented today by only one known genus, the coelacanth (Latimeria) (FIGURE 34.14). A population of coelacanths inhabiting waters near Indonesia may represent a different species than the only other known populations, which live in deep waters off the coasts of Madagascar and South Africa. Although most Devonian lobe-fins were probably freshwater animals with lungs, Latimeria belongs to a lineage that entered the seas at some point in its evolution.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-14. A coelocanth (Latimeria), the only extant lobe-finned genus.
+
+Three genera of lungfishes (class Dipnoi) live today in the Southern Hemisphere. They generally inhabit stagnant ponds and swamps, surfacing to gulp air into lungs connected to the pharynx of the digestive tract. Lungfishes also have gills, which are the main organs for gas exchange in Australian lungfishes. When ponds shrink during the dry season, some lungfishes can burrow in the mud and aestivate (wait in a state of torpor).
+
+Although most lineages of lungfishes died out, these groups were dominant predators in shallow freshwater habitats during the Devonian. They were also of great importance in vertebrate evolution; the ancestor of amphibians and all other tetrapods was probably one of these Devonian bony fishes.
+
+
+
+
+
+ Tetrapods evolved from specialized fishes that inhabited shallow water
+
+Amphibians were the first tetrapods to spend a substantial portion of their time on land. But if we define tetrapods as vertebrates that have relatively sturdy, skeleton-supported legs instead of paired fins, then the first animals to qualify were highly specialized fishes that lived in shallow aquatic habitats (FIGURE 34.15). And for the name tetrapod to identify a monophyletic lineage (clade), with legs as the key derived homology, then we must include these ancestral fishes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-15. The origin of tetrapods. Many of the intermediate fossils on which this cladogram is based have been discovered only recently. The bars on the branches place the known fossils in time (arrows indicate lineages that extend to today). In this artist's recreation of the extinct animals, the body forms are based on fossilized skeletons, but the colors are fanciful artistic touches.
+
+During the Devonian period, a diversity of plants and arthropods already inhabited the land, and the evolution of trees and other large vegetation was transforming these terrestrial ecosystems. Plants rooted at the margins of ponds and swamps and organic material that dropped into the water from the terrestrial ecosystems also created new living conditions and new food supplies for fishes living near water's edge. A diversity of fishes resembling modern lobe-fins and lungfishes had already evolved. Both modern lungfishes and frogs breathe air by a mechanism called buccal pumping rather than using the rib cage, as we do. In buccal breathing, the animal drops the floor of the mouth, which sucks air in, then closes the mouth and raises the floor, forcing air into the lungs. In addition to lungs that supplemented gills for gas exchange at water's edge, leglike appendages were probably better equipment than fins for paddling and crawling through the dense vegetation in shallow water. Thus, the lungs and appendages of tetrapods evolved in certain specialized fishes tens of millions of years before this equipment was used by the earliest amphibians to live on land.
+
+The fossil record chronicles this transition, over a 50-million-year period from 400 to 350 million years ago, from sturdy-finned fishes such as Eusthenopteron to tetrapod fishes to amphibians (see FIGURE 34.15). For example, fossils of Acanthostega have the bony supports of gills but also have four appendages with the same basic skeletal elements as the walking limbs of amphibians, reptiles, and mammals, including humans (FIGURE 34.16). Though Acanthostega was aquatic--it was a fish--it represents a period of vertebrate evolution when adaptations that equipped certain fishes for shallow water preadapted one lineage of those fishes for a gradual transition to spending more and more time walking and breathing on the terrestrial side of water's edge.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-16. Skeleton of Acanthostega, a Devonian tetrapod fish. This vertebrate was a fish-- an aquatic vertebrate with gills as an adult-- but its appendages had the tetrapod skeletal structure. Early amphibians had very similar skeletons.
+
+As the earliest terrestrial tetrapods, amphibians benefited from an abundance of food and relatively little competition. An adaptive radiation gave rise to a great diversity of amphibians during the early Carboniferous period, and in fact, the Carboniferous is sometimes called the "age of amphibians." Amphibians began to decline in numbers and diversity during the late Carboniferous. As the Mesozoic era dawned with the Triassic period, about 245 million years ago, most surviving lineages of amphibians resembled modern species.
+
+
+
+
+
+ Class Amphibia: Salamanders, frogs, and caecilians are the three extant amphibian orders
+
+Today the amphibians (class Amphibia) are represented by a total of about 4,800 species of salamanders (order Urodela, which means "tailed ones"), frogs (order Anura,"tail-less ones"), and caecilians (order Apoda, meaning "legless ones," describing the wormlike bodies of these amphibians).
+
+There are only about 500 species of urodeles. Some are entirely aquatic, but others live on land as adults or throughout life (FIGURE 34.17a). Most salamanders that live on land walk with a side-to-side bending of the body that may resemble the swagger of the early terrestrial tetrapods.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-17. Amphibian orders. (a) Order Urodela. Urodeles (salamanders) retain their tails as adults. Some are entirely aquatic, but others live on land. This is a spotted salamander. (b) Order Anura. Anurans, such as this poison arrow frog, lack tails as adults. Poison arrow frogs inhabit tropical forests; their skin glands secrete deadly nerve toxins used by Central and South American natives to coat arrow tips. (c) Order Apoda. Apodans, also called caecilians, are legless, mainly burrowing amphibians.
+
+Anurans, numbering nearly 4,200 species, are more specialized than urodeles for moving on land (FIGURE 34.17b). Adult frogs use their powerful hind legs to hop along the terrain. A frog nabs insects by flicking out its long sticky tongue, which is attached to the front of the mouth. Frogs display a great variety of adaptations that help them avoid being eaten by larger predators. In common with other amphibians, many frogs exhibit color patterns that camouflage. The skin glands of frogs secrete distasteful, or even poisonous, mucus. Many poisonous species have bright coloration that apparently warns predators, who associate the coloration with danger.
+
+Apodans, the caecilians (about 150 species), are legless and nearly blind, and superficially resemble earthworms (FIGURE 34.17c). The reduction of legs evolved secondarily from a legged ancestor. Caecilians inhabit tropical areas where most species burrow in moist forest soil. A few South American apodans live in freshwater ponds and streams.
+
+Amphibian means "two lives," a reference to the metamorphosis of many frogs (FIGURE 34.18). The tadpole, the larval stage of a frog, is usually an aquatic herbivore with gills, a lateral line system resembling that of fishes, and a long finned tail. The tadpole lacks legs and swims by undulating like its fishlike ancestors. During the metamorphosis that leads to the "second life," legs develop, and the gills and lateral line system disappear. The young frog with air-breathing lungs, a pair of external eardrums, and a digestive system adapted to a carnivorous diet crawls onto shore and begins life as a terrestrial hunter. In spite of the name amphibian, however, many frogs do not go through the aquatic tadpole stage, and many amphibians do not live a dualistic--aquatic and terrestrial--life. There are some strictly aquatic and strictly terrestrial frogs, salamanders, and caecilians. Moreover, salamander and caecilian larvae look much like adults, and typically both the larvae and the adults are carnivorous. Paedomorphosis is common among some groups of salamanders; the mudpuppy (Necturus), for instance, retains gills and other larval features when sexually mature (see FIGURE 24.21).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-18. The "dual life" of a frog (Rana temporaria). (a) The male grasps the female, stimulating her to release eggs. The eggs are laid and fertilized in water. They have a jelly coat but lack shells and would desiccate in air. (b) The tadpole is an aquatic herbivore with a fishlike tail and internal gills. (c) During metamorphosis, the gills and tail are resorbed, and walking legs develop.
+
+Most amphibians maintain close ties with water and are most abundant in damp habitats such as swamps and rain forests. Even those frogs that are adapted to drier habitats spend much of their time in burrows or under moist leaves, where the humidity is high. Most amphibians rely heavily on their moist skin to carry out gas exchange with the environment. Some terrestrial species lack lungs and breathe exclusively through their skin and oral cavity.
+
+Amphibian eggs lack a shell and dehydrate quickly in dry air. Fertilization is external in most species, with the male grasping the female and spilling his sperm over the eggs as the female sheds them (see FIGURE 34.18a). Amphibians generally lay their eggs in ponds or swamps or at least in moist environments. Some species lay vast numbers of eggs in temporary pools, and mortality is high. In contrast, some species display various types of parental care and lay relatively few eggs. Depending on the species, either males or females may house eggs on their back, in the mouth, or even in the stomach. Certain tropical tree frogs stir their egg masses into moist foamy nests that resist drying. There are also some ovoviviparous and viviparous species that retain the eggs in the female reproductive tract, where embryos can develop without drying out.
+
+Many amphibians exhibit complex and diverse social behavior, especially during their breeding seasons. Frogs are usually quiet creatures, but many species fill the air with their mating calls during the breeding season. Males may vocalize to defend breeding territory or to attract females. In some terrestrial species, migrations to specific breeding sites may involve vocal communication, celestial navigation, or chemical signaling.
+
+For the past 25 years, zoologists have been documenting a rapid and alarming decline in amphibian populations throughout the world. The causes may be multiple, including environmental degradation and spread of a pathogen, a chytrid fungus. The environmental assaults include acid precipitation, which is especially damaging to amphibians because of their dependence on wet places for completing their life cycles.
+
+
+
+
+
+ Evolution of the amniotic egg expanded the success of vertebrates on land
+
+The amniote clade consists of the mammals, the birds, and the vertebrates we commonly call reptiles, including turtles, lizards, snakes, and crocodiles.
+
+The evolution of amniotes from an amphibian ancestor involved many adaptations for terrestrial living. The amniotic egg, a reproductive adaptation that enabled terrestrial vertebrates to complete their life cycles on land and sever their last ties with their aquatic origins, was a particularly important breakthrough. (Seeds played a similar role in the evolution of land plants, as you learned in Chapter 29.) In contrast to the shell-less eggs of amphibians, amniotic eggs (of birds, most reptiles, and some mammals) have a shell that retains water and can therefore be laid in a dry place. The shells of bird eggs are calcareous (made of calcium carbonate) and inflexible, while the shells of many reptile eggs are leathery and flexible. Most mammals have dispensed with the shell; instead, the embryo implants in the wall of the uterus and obtains its nutrients from the mother.
+
+Reptiles, birds, and mammals all have specialized membranes within the amniotic egg (FIGURE 34.19). Called extra embryonic membranes because they are not part of the body of the developing animal, these structures function in gas exchange, waste storage, and the transfer of stored nutrients to the embryo. They develop from tissue layers that grow out from the embryo. The amniotic egg is named for one of these membranes, the amnion, which encloses a compartment of amniotic fluid that bathes the embryo and acts as a hydraulic shock absorber. The amniotes also show other adaptations to terrestrial life, including waterproof skin and increasing use of the rib cage to ventilate the lungs.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-19. The amniotic egg. The embryos of reptiles, birds, and mammals form four extraembryonic membranes: the amnion, yolk sac, allantois, and chorion. The shell is waterproof, an adaptation that prevents the embryo and the fluid compartments around it from drying out on land. This drawing represents the extraembryonic membranes in the shelled egg of a reptile or bird. Mammals have the four extraembryonic membranes, but in most species the embryos develop without shells in the reproductive tract of the mother.
+
+
+
+
+
+ Vertebrate systematists are reevaluating the classification of amniotes
+
+FIGURE 34.20 diagrams the phylogeny of amniotes, with some of the clades identified as boxed names on the branches. Note that the amniotes are a monophyletic group (clade), with all modern reptiles, birds, and mammals sharing a common ancestor.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-20. A hypothetical phylogeny of amniotes. Extant groups are named at the top in boldface type.
+
+An evolutionary radiation of amniotes during the early Mesozoic era gave rise to three main groups, called synapsids, anapsids, and diapsids--names based on key differences between the three groups in their skull anatomy. The synapsids included mammal-like reptiles called therapsids, from which mammals evolved. The anapsid lineage is probably totally extinct. Until recently, systematists considered turtles, based on skull anatomy, to be the only surviving anapsids. However, molecular comparisons place the turtles with the diapsids (the dotted branch in FIGURE 34.20 represents the still-uncertain ancestry of turtles). The diapsids include most or all (depending on the position of turtles) groups of modern reptiles, as well as a diversity of extinct swimming, flying, and land-based reptiles.
+
+During the early Mesozoic radiation of amniotes, the diapsid lineage split into two evolutionary branches, the lepidosaurs (which include lizards, snakes, and two species of New Zealand animals called tuataras) and the archosaurs (which include crocodiles and alligators, dinosaurs, and birds). It's important to note the position of birds in the amniote phylogeny. Birds are diapsids, specifically members of the archosaur clade. Their closest extant relatives are the crocodiles and alligators, but they are even more closely related to a branch of the extinct reptiles known as dinosaurs. In fact, neither dinosaurs nor reptiles represent monophyletic taxa unless we also include birds.
+
+FIGURE 34.21 compares the classical classification of the amniotes with three of several alternatives that are based on strict application of cladistic conventions, in which each taxon must represent a monophyletic group. The classical taxonomy (FIGURE 34.21a) divides the amniotes into three classes, Reptilia, Aves (birds), and Mammalia. It is a classification that highlights the distinctive adaptations that evolved in the avian (bird) lineage. However, another look at the cladogram in FIGURE 34.20 will reinforce the point made earlier that the traditional class Reptilia is paraphyletic because it does not include the birds. Researchers have proposed various cladistics-based alternatives for placing the birds in the taxonomy of amniotes. These options illustrate an enduring difference of taxonomic preference, between "lumpers," who prefer to minimize the number of taxa at each taxonomic level, and "splitters," who prefer a finer-grained taxonomy having more taxa at each level. In the most extreme lumpers' version of amniote classification, the bird problem is solved by simply including birds in the class Reptilia (FIGURE 34.21b). In one splitters' version, class Aves is preserved by also granting class status to other clades of reptiles (FIGURE 34.21c, which includes only extant groups). Another alternative identifies the two major diapsid branches as taxonomic classes, Lepidosauria and Archosauria (FIGURE 34.21d).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-21. Taxonomic classes of amniotes. Many zoologists prefer the classical taxonomy, which is pragmatic, though it breaks from the strict cladistic requirement that named taxa must be monophyletic groups. The turtles are omitted from alternative (d) because their phylogeny is still uncertain.
+
+Whichever classification your instructor prefers, "reptile" is still a useful informal category for discussing all the amniotes except the birds and mammals. We will also take the liberty of extending the "reptile" appellation to include the fossilized animals of the earliest amniote radiation, which branched from an amphibian ancestor. In other words, all modern amniotes, including mammals and birds, evolved from forms that most of us would probably call "reptiles" if we saw them walking around today.
+
+
+
+
+
+ A reptilian heritage is evident in all amniotes
+
+Reptilian Characteristics
+
+Reptiles have several adaptations for terrestrial living not generally found in amphibians. Scales containing the protein keratin waterproof the skin of a reptile, helping prevent dehydration in dry air. Keratinized skin is the vertebrate analogue of the chitinized cuticle of insects and the waxy cuticle of land plants. Reptiles cannot breathe through their keratinized dry skin, and they obtain all their oxygen with lungs. Many turtles also use the moist surfaces of their cloaca for gas exchange.
+
+Most reptiles lay shelled amniotic eggs on land (FIGURE 34.22). Fertilization in reptiles must occur internally, before the shell is secreted as the egg passes through the reproductive tract of the female. Some species of snakes and lizards are viviparous, their extraembryonic membranes forming a placenta that enables the embryo to obtain nutrients from its mother.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-22. A hatching reptile. This Komodo dragon is breaking out of a parchmentlike shell, a common type of shell among reptiles. The shells of some reptiles are harder because of an abundance of calcium carbonate, as in bird eggs.
+
+Reptiles are sometimes labeled "cold-blooded" animals because they do not use their metabolism extensively to control body temperature. But reptiles do regulate body temperature by using behavioral adaptations. For example, many lizards regulate their internal temperature by basking in the sun when the air is cool and seeking shade when the air is too warm. Because they absorb external heat rather than generating much of their own, reptiles are said to be ectotherms, a term more appropriate than cold-blooded. (The control of body temperature is discussed in more detail in Chapter 44.) By heating directly with solar energy rather than through the metabolic breakdown of food, a reptile can survive on less than 10%  of the calories required by a mammal of equivalent size.
+
+The Origin and Evolutionary Radiation of Reptiles
+
+Reptiles were far more widespread, numerous, and diverse during the Mesozoic era than they are today. The oldest reptilian fossils are found in rocks from Kansas, dating to the late Carboniferous period; they are about 300 million years old. Their ancestor was among the Devonian amphibians. In two great waves of adaptive radiation, reptiles became the dominant terrestrial vertebrates in a dynasty that lasted more than 200 million years.
+
+The first major reptilian radiation occurred by the dawn of the Permian, the last period of the Paleozoic era, giving rise to the three main evolutionary branches introduced in FIGURE 34.20: Synapsida, Anapsida, and Diapsida.
+
+The second great reptilian radiation was under way by late Triassic times (a little more than 200 million years ago) and was marked mainly by the origin and diversification of two groups of reptiles: the dinosaurs, which lived on land, and the pterosaurs, or flying reptiles. These groups were the dominant vertebrates on Earth for millions of years. Pterosaurs had wings formed from a membrane of skin stretched from the body wall, along the forelimb, to the tip of an elongated finger. Stiff fibers provided support for the skin of the wing. Dinosaurs, an extremely diverse group varying in body shape, size, and habitat, in cluded the largest animals ever to inhabit land. Fossils of gigantic dinosaurs that were 45 m long have recently been unearthed in New Mexico and Utah. And Paul Sereno, the paleontologist you met on pages 508-509, has led teams that have unearthed many newly described dinosaurs that lived on land masses now located in the Southern Hemisphere. There were two main dinosaur lineages: the ornithischians, mostly herbivores; and the saurischians, with both herbivorous and carnivorous dinosaurs, including the ancestors of birds.
+
+Contradicting the long-standing view that dinosaurs were slow, sluggish creatures, there is increasing evidence that many dinosaurs were agile, fast-moving, and, in some species, social. Paleontologists have also discovered signs of parental care among dinosaurs (FIGURE 34.23). There is continuing debate about whether dinosaurs were endothermic, capable of keeping the body warm through metabolism. Some anatomical evidence supports this hypothesis, but many experts are skeptical. The Mesozoic climate was relatively warm and consistent, and behavioral adaptations such as basking may have been sufficient for maintaining a suitable body temperature, especially for the land-dwelling dinosaurs. Also, large dinosaurs had low surface-to-volume ratios that reduced the effects of daily fluctuations in air temperature on the internal temperature of the animal. However, given the enormous diversity of dinosaurs, the clade could have included some endothermic species, especially among smaller forms inhabiting relatively cool climates. The dinosaur that gave rise to birds was certainly endothermic, as are all birds.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-23. Dinosaur social behavior and parental care. This artist's re-creation of duck-billed dinosaurs is based on 80-million-year-old fossils discovered in Montana. Dinosaurs of this species were relatively large, about 7 m in length. They used their bills to browse on plants. Fossilized footprints indicate that duck-billed dinosaurs traveled in large social groups, or herds. Fossilized nests contain both eggs and offspring up to a few months old, evidence that these dinosaurs took care of their young. In fact, the genus name for this dinosaur, Maiasaura, means "good mother lizard."
+
+At the end of the Cretaceous, the last period of the Mesozoic era, the dinosaurs became extinct. Some paleontologists argue that a few species survived into the early Cenozoic. The fossil record of terrestrial vertebrates in the Cretaceous is relatively poor, and it is uncertain whether the dinosaurs were undergoing a decline before they were finished off by the asteroid impact we discussed in Chapter 25. Either way, the greatest age of the reptiles had come to an end.
+
+Modern Reptiles
+
+There are about 6,500 species of extant reptiles. Taxonomists classify them into four groups: Testudines (turtles); Sphenodontia (tuataras); Squamata (lizards and snakes), and Crocodilia (alligators and crocodiles). In the traditional classification scheme of FIGURE 34.21a, these four taxa are orders within the class Reptilia; in the alternative classification of FIGURE 34.21c, the four taxa are elevated to the class level.
+
+Turtles evolved during the Mesozoic era and have scarcely changed since (FIGURE 34.24a). The usually hard shell, an adaptation that protects against predators, has certainly contributed to this long success. Those turtles that returned to water during their evolution crawl ashore to lay their eggs.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-24. Extant reptiles. (a) Turtles have changed little since their origin early in the Mesozoic era. This species is an eastern box turtle. (b) Lizards, such as this Australian frillneck, are the most numerous and diverse of the extant reptiles. A frillneck only spreads its frill when threatened, a response that probably discourages many predators. (c) Snakes may have evolved from lizards that adapted to a burrowing lifestyle. Note the loosely-hinged jaw of this western diamondback rattlesnake, photographed during an attempted strike. (d) Crocodiles and alligators are the reptiles most closely related to dinosaurs and birds. An American alligator is shown here.
+
+Lizards are the most numerous and diverse reptiles alive today (FIGURE 34.24b). Most are relatively small; perhaps they were able to survive the Cretaceous "crunch" by nesting in crevices and decreasing their activity during cold periods, a practice many modern lizards use.
+
+Snakes are probably descendants of lizards that adapted to a burrowing lifestyle. Today, most snakes live above the ground, but they have retained the limbless condition. Vestigial pelvic and limb bones in primitive snakes such as boas, however, are evidence that snakes evolved from reptiles with legs.
+
+Snakes are carnivorous, and a number of adaptations aid them in hunting and eating prey. They have acute chemical sensors, and though they lack eardrums, snakes are sensitive to ground vibrations, which helps them detect the movements of prey. Heat-detecting organs between the eyes and nostrils of pit vipers, including rattlesnakes, are sensitive to minute temperature changes, enabling these night hunters to locate warm animals. Poisonous snakes inject their toxin through a pair of sharp hollow or grooved teeth. The flicking tongue is not poisonous but helps fan odors toward olfactory organs on the roof of the mouth. Loosely articulated jaws enable most snakes to swallow prey larger than the diameter of the snake itself (FIGURE 34.24c).
+
+Crocodiles and alligators (crocodilians) are among the largest living reptiles (some turtles are heavier) (FIGURE 34.24d). They spend most of their time in water, breathing air through their upturned nostrils. Crocodilians are confined to the warm regions of Africa, China, Indonesia, India, Australia, South America, and the southeastern United States, where alligators have made a strong comeback after spending years on the endangered species list. Among the modern animals traditionally classified as reptiles, crocodilians are the most closely related to the dinosaurs (see FIGURE 34.20). However, as we pointed out earlier, the modern animals that seem to share the most recent ancestor with the dinosaurs are the birds.
+
+
+
+
+
+ Birds began as feathered reptiles
+
+Birds evolved during the great reptilian radiation of the Mesozoic era (see FIGURE 34.20). Amniotic eggs and scales on the legs are just two of the reptilian features we see in birds. But modern birds look quite different from modern reptiles because of their feathers and other distinctive flight equipment.
+
+Characteristics of Birds
+
+Almost every part of a typical bird's anatomy is modified in some way that enhances flight. The bones have an internal structure that is honeycombed, making them strong but light (FIGURE 34.25). The skeleton of a frigate bird, for instance, has a wingspan of more than 2 m but weighs only about 113 g (4 oz). Another adaptation reducing the weight of birds is the absence of some organs. Females, for instance, have only one ovary. Also, modern birds are toothless, an adaptation that trims the weight of the head. Food is not chewed in the mouth but ground in the gizzard, a digestive organ near the stomach. (Crocodiles also have gizzards, as did some dinosaurs.) The bird's beak, made of keratin, has proven to be very adaptable during avian evolution, taking on a great variety of shapes suitable for different diets.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-25. Form fits function: the avian wing and feather. (a) A wing is supported by a remodeled version of the tetrapod forelimb. (b) The honeycombed anatomy of the bones is a flight adaptation that reduces weight. (c) A feather consists of a central hollow shaft, from which radiate the vanes. The vanes are made up of barbs, in turn bearing even smaller branches called barbules. Birds have contour feathers and downy feathers. Contour feathers are the stiff ones that contribute to the aerodynamic shapes of the wings and body. Their barbules have hooks that cling to barbules on neighboring barbs. When a bird preens, it runs the length of a feather through its bill, engaging the hooks and uniting the barbs into a precisely shaped vane. Downy feathers lack hooks, and the free-form arrangement of barbs produces a fluffiness that provides excellent insulation because of the trapped air.
+
+Flying requires a great expenditure of energy from an active metabolism. Birds are endothermic; they use their own metabolic heat to maintain a warm, constant body temperature. Feathers and in some species a layer of fat provide insulation that enables birds to retain their metabolically generated heat. An efficient respiratory system and a circulatory system with a four-chambered heart keep tissues well supplied with oxygen and nutrients, supporting a high rate of metabolism. The lungs have tiny tubes leading to and from elastic air sacs that help dissipate heat and reduce the density of the body.
+
+For safe flight, senses, especially vision, must be acute. Birds have excellent eyes, perhaps the best of all the vertebrates. The visual areas of the brain are well developed, as are the motor areas; flight also requires excellent coordination.
+
+With brains proportionately larger than those of reptiles and amphibians, birds generally display very complex behavior. Avian behavior is particularly intricate during breeding season, when birds engage in elaborate rituals of courtship. Because eggs are shelled when laid, fertilization must be internal. Copulation involves contact between the mates' vents, the openings to their cloacas. After eggs are laid, the avian embryo must be kept warm through brooding by the mother, father, or both, depending on the species.
+
+A bird's most obvious adaptation for flight is its wings. Bird wings are airfoils that illustrate the same principles of aerodynamics as the wings of an airplane (FIGURE 34.26). Providing power for flight, birds flap their wings by contractions of large pectoral (breast) muscles anchored to a keel on the sternum (breastbone). Some birds, such as eagles and hawks, have wings adapted for soaring on air currents and flap their wings only occasionally; other birds, including hummingbirds, must flap continuously to stay aloft. In either case, it is the shape and arrangement of the feathers that form the wing into an airfoil. The fastest birds are the appropriately named swifts, which can fly 170 km/hr.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-26. A bald eagle in flight. Bird wings are airfoils, structures whose shape creates lift by altering air currents. The leading edge of an airfoil is thicker than the trailing edge, its upper surface is somewhat convex, and its under surface is flattened or concave. This shape makes the air passing over the wing travel farther than the air passing under the wing. As a result, air molecules are spaced farther apart (expanded) above the wing than below it. Thus, the air pressure pushing downward on the wing is less than the pressure pushing upward on the wing's bottom surface. This pressure differential provides the "lift" for flight.
+
+In being both extremely light and strong, feathers are among the most remarkable of vertebrate adaptations. Feathers are made of keratin, the same protein that forms our hair and fingernails and the scales of reptiles. Feathers may have functioned first as insulation during the evolution of endothermy, only later being co-opted as flight equipment.
+
+The evolution of flight required radical alteration in body form, but flight provides many benefits. It enhances hunting and scavenging; many birds exploit flying insects, an abundant, highly nutritious food resource. Flight also provides ready escape from earthbound predators and enables some birds to migrate great distances to utilize different food resources and seasonal breeding areas. The bird that travels farthest in its annual migration is the arctic tern, which flies round-trip between the North Pole and South Pole each year.
+
+The Origin of Birds
+
+Cladistic analyses of fossilized skeletons support the hypothesis that the closest reptilian relatives of birds were the theropods, a group of relatively small, bipedal, carnivorous dinosaurs. (The velociraptors of Jurassic Park fame were theropods.) Most researchers agree that the ancestor of birds was a feathered theropod. However, some scientists place the origin of birds much earlier, from an ancestor common to both birds and dinosaurs.
+
+The most famous Mesozoic bird is Archaeopteryx, known from fossils discovered in Bavarian limestone in Germany. This ancient bird lived about 150 million years ago, during the late Jurassic period. Unlike modern birds, but similar to reptiles, Archaeopteryx had clawed forelimbs, teeth, and a long tail containing vertebrae (FIGURE 34.27). Thus, Archaeopteryx was even more anatomically similar to dinosaurs than are modern birds. In fact, if it were not for the preservation of its feathers, Archaeopteryx would probably be classified as a theropod dinosaur. The skeletal anatomy of Archaeopteryx indicates that it was a weak flyer, perhaps mainly a tree-dwelling glider. A combination of gliding downward and jumping into the air from the ground may have been the precursor of actual flight in the evolution of birds. However, Archaeopteryx is not considered to be the ancestor of modern birds but probably represents an extinct side branch of avian evolution. Nonetheless, the evolutionary branch that included Archaeopteryx probably stemmed from an ancestor that also gave rise to the lineage from which modern birds evolved.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-27. Archaeopteryx, a Jurassic bird-reptile.
+
+In 1998, paleontologists described a diversity of fossils in Chinese sediments that may help fill in the gap between dinosaurs and early birds such as Archaeopteryx. The Chinese fossils are feathered but flightless dinosaurs (FIGURE 34.28). Such anatomy is consistent with a hypothesis that feathers evolved as adaptations with functions other than flight, such as thermoregulation or courtship displays for mating. However, the Chinese fossils are about 20 million years younger than Archaeopteryx. Do the Chinese fossils represent descendants of feathered, flightless dinosaurs that survived for tens of millions of years, even as Archaeopteryx and other birds also evolved from those flightless ancestors? This hypothesis makes the prediction that paleontologists may one day unearth flightless dinosaurs with feathers that predate Archaeopteryx. Or did these flightless, feathered animals evolve secondarily from early flying birds, analogous to the abandonment of flight in such modern birds as ostriches? Certain skeletal features support this second hypothesis.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 34-28. Cretaceous theropod dinosaurs with putative feathers from Chinese sediments. (a) Sinoauropteryx was a flightless dinosaur with a fringe of filaments along its back that may have been "protofeathers."(b) Caudipteryx, also flightless, bore true feathers (inset).
+
+The Chinese sediments also include younger fossils with wings, such as an abundant Cretaceous bird named Confuciusornis. It had many features suggesting a closer kinship to modern birds than can be claimed for Archaeopteryx. For example, the weight-trimming adaptations of Confuciusornis included the absence of teeth, the replacement of certain skull elements by a horny bill, and a tail reduced to a short stub.
+
+The intense current interest in the origin of birds will undoubtedly bring us closer to understanding how these masters of the sky evolved from nonflying reptiles.
+
+Modern Birds
+
+There are about 8,600 extant species of birds classified in about 28 orders. Flight is typical of birds, but there are several flightless species, including the ostrich, kiwi, and emu (FIGURE 34.29a). Flightless birds are collectively called ratites (Latin, "flat-bottomed") because their breastbone lacks a keel and the large breast muscles that attach to it in flying birds.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-29. A small sample of birds. (a) Emus. These flightless birds (ratites) live in Australia. (b) Harlequin duck. In common with many species, the harlequin duck, which inhabits mountain streams and coastal areas of the Pacific Northwest, exhibits pronounced color differences between the sexes.(c) Laysan albatrosses. Most birds, as exhibited here by a pair of Laysan albatrosses, have specific courtship and mating behavior. (d) Barn swallow. The barn swallow is a member of the order Passeriformes. Passeriformes are called perching birds because the toes of their feet can lock around a tree branch, enabling the bird to rest in place for long periods of time.
+
+In contrast to ratites, other birds are called carinates because they have a carina, or sternal keel, supporting their large breast muscles. These muscles provide flight power in flying birds. The demands of flight have rendered the general body form of carinate birds similar to one another, yet experienced bird watchers can distinguish many species by their body profile. Carinate birds also exhibit great variety in feather colors, beak and foot shape, behavior, and flying style (FIGURE 34.29b-d). Among the most unusual carinate birds are the penguins, which do not fly, but use their powerful breast muscles in swimming. Nearly 60%  of the living bird species belong in one carinate order called the passeriformes, or perching birds. These are the familiar jays, swallows, sparrows, warblers, and many others (FIGURE 34.29d).
+
+
+
+
+
+ Mammals diversified extensively in the wake of the Cretaceous extinctions
+
+With the extinction of the dinosaurs and the fragmentation of continents that occurred at the close of the Mesozoic era, mammals underwent an extensive adaptive radiation. There are about 4,500 species of mammals on Earth today. As mammals ourselves, we naturally have a special interest in this class of vertebrates. Let's examine some of the features we share with all other mammals.
+
+Mammalian Characteristics
+
+Vertebrates of the class Mammalia were first defined by Linnaeus by their possession of mammary glands. Mammary glands, which produce milk, are a distinctively mammalian characteristic: All mammalian mothers nourish their babies with milk, a balanced diet rich in fats, sugars, proteins, minerals, and vitamins. Hair is another mammalian characteristic. Like the feathers of birds, hair is made of keratin, although zoologists are uncertain about its evolutionary origin. Mammals are endothermic and most mammals have an active metabolism. Efficient respiratory and circulatory systems (including a four-chambered heart) support a high metabolic rate. A sheet of muscle called the diaphragm helps ventilate the lungs. Hair and a layer of fat under the skin help the body retain metabolic heat.
+
+Most mammals are born rather than hatched. Fertilization is internal, and the embryo develops inside the uterus of the female's reproductive tract. In eutherian (placental) mammals and marsupials, the lining of the mother's uterus and extraembryonic membranes arising from the embryo collectively form a placenta, where nutrients diffuse into the embryo's blood. Eutherians are commonly called placental mammals because, compared to marsupials, their placentas are more complex and provide a more intimate and long-lasting association between the mother and her developing young.
+
+Mammals generally have larger brains than other vertebrates of equivalent size, and many species are capable learners. The relatively long duration of parental care extends the time for offspring to learn important survival skills by observing their parents.
+
+Differentiation of teeth is another important mammalian trait. Whereas the teeth of reptiles are generally conical and uniform in size, the teeth of mammals come in a variety of sizes and shapes adapted for chewing many kinds of foods. Our own dentition, for example, includes teeth modified for shearing (incisors and canine teeth) and for crushing and grinding (premolars and molars). Another part of the feeding apparatus, the jaw, was also remodeled during the evolution of mammals from reptiles, and two of the bones formerly making up the jaw joint were incorporated into the mammalian inner ear (FIGURE 34.30).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-30. The evolution of the mammalian jaw and ear bones. The reptile Dimetrodon (left) was an early synapsid, the lineage that eventually gave rise to the mammals. Morganucodon (right) was one of the first mammals. (a) Notice that the lower jaw of the reptile is composed of several fused bones. In the reptile, two small bones, the quadrate and articular, form part of the jaw joint. (b) The mammalian lower jaw is reduced to a single bone, the dentary, and the location of the jaw joint has shifted. The single-bone lower jaw of mammals is stronger than the multibone jaw of reptiles. (c)-(d) During the evolutionary remodeling of the mammalian skull, the quadrate and articular bones became incorporated into the middle ear as two of the three bones that transmit sound from the eardrum to the inner ear. The steps in this evolutionary remodeling are evident in a succession of fossils of mammal-like reptiles.
+
+The Evolution of Mammals
+
+Mammals evolved from reptilian stock even earlier than birds. The oldest fossils believed to be mammalian date back 220 million years, into the Triassic period. The ancestor of mammals was among the therapsids, part of the synapsid branch of reptilian phylogeny (see FIGURE 34.20). An extensive record of fossils from the Permian and Triassic connects mammals with their reptilian ancestors. These fossils show that the distinctively mammalian structure of the legs, skull, jaws, and teeth evolved in many small stages. The therapsids disappeared during the reign of the dinosaurs, but their mammalian descendants coexisted with the dinosaurs throughout the Mesozoic era. Most Mesozoic mammals were very small--about the size of shrews--and most probably ate insects. A variety of evidence, such as the size of the eye sockets, suggests that these tiny mammals were nocturnal.
+
+As the Cenozoic era dawned in the wake of the Cretaceous extinctions, mammals were in the midst of a great adaptive radiation (though the major lineages may have originated earlier--see FIGURE 25.19). That diversity is represented today in the three major groups: monotremes (egg-laying mammals), marsupials (mammals with pouches), and eutherian (placental) mammals.
+
+Monotremes
+
+Monotremes--the platypuses and the echidnas (spiny anteaters)--are the only living mammals that lay eggs (FIGURE 34.31a). The egg, which is reptilian in structure and development, contains enough yolk to nourish the developing embryo. Monotremes have hair and produce milk, two of the most important trademarks of Mammalia. On the belly of a monotreme mother are specialized glands that secrete milk. After hatching, the baby sucks the milk from the fur of the mother, who has no nipples. The mixture of ancestral reptilian characters and derived characters of mammals suggests that monotremes descended from a very early branch in the mammalian genealogy. Today, monotremes are found only in Australia and New Guinea.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-31. Australian monotremes and marsupials. (a) Short-beaked echidna, a monotreme. Monotremes are the only mammals that lay eggs (inset). Monotremes have hair and milk, but no nipples. (b) A young marsupial. The young of marsupials, such as this Australian brushtail possum, are born very early in their develop ment. They finish their growth while nursing from a nipple (in their mother's pouch in most species).(c) Long-nosed bandicoot, a marsupial. Bandicoots have a pouch that opens to the rear, whereas in other marsupials, such as the kangaroos, it opens to the front. Most bandicoots are diggers and burrowers that eat mainly insects but also some small vertebrates and plant material. Their rear-opening pouch helps protect the young from dirt as the mother digs.
+
+Marsupials
+
+Opossums, kangaroos, bandicoots, and koalas are examples of marsupial mammals. A marsupial is born very early in its development and completes its embryonic development while nursing (FIGURE 34.31b). In most species, the nursing young are held within a maternal pouch called a marsupium. A red kangaroo, for instance, is about the size of a honeybee at its birth, just 33 days after fertilization. Its hind legs are merely buds, but the forelimbs are strong enough for the offspring to crawl from the exit of the reproductive tract to the mother's pouch, a journey lasting a few minutes.
+
+In Australia, marsupials have radiated and filled niches occupied by eutherian (placental) mammals in other parts of the world. Convergent evolution has resulted in a diversity of marsupials that resemble their eutherian counterparts occupying similar ecological roles (FIGURE 34.32, p. 704).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-32. Evolutionary convergence of marsupial and eutherian (placental) mammals. Adaptive radiation in Australia has fit marsupials to many of the ecological roles filled by eutherian mammals on other continents. Convergent evolution has produced a number of remarkable look-alikes. (Drawings are not to scale.)
+
+The opossums of North and South America are the most diverse of only three families of extant marsupials outside the Australian region, though South America had a diverse marsupial fauna throughout the Tertiary period. After the breakup of Pangaea, South America and Australia became island continents, and their marsupials diversified in isolation from the placental mammals that began an adaptive radiation on the northern continents. Australia has not been in contact with another continent since early in the Cenozoic era, about 65 million years ago. The South American fauna, meanwhile, has not remained cloistered. Placental mammals reached South America throughout the Cenozoic. The most important migrations occurred about 12 million years ago and then again about 3 million years ago, when North and South America joined at the Panamanian isthmus. Extensive two-way traffic of animals took place over the land bridge. The biogeography of mammals is another example of the interplay between biological and geologic evolution.
+
+Eutherian (Placental) Mammals
+
+Compared to marsupials, eutherian mammals (placentals) have a longer period of pregnancy. Young eutherians complete their embryonic development within the uterus, joined to the mother by the placenta.
+
+Adaptive radiation during the Cretaceous and early Tertiary periods produced the orders of eutherian mammals we recognize today (Table 34.1). Marsupials and eutherians are more closely related to each other than either is to monotremes. Fossil evidence indicates that marsupials and eutherians may have diverged from a common ancestor about 80 to 100 million years ago, but the molecular clock suggests an older date, at least 125 million years ago. The common ancestor of monotremes and the other two groups may have lived more like 200 million years ago.
+
+Table 34-1. Major Orders of Mammals (Orders are color-coded according to the clades in FIGURE 34.33)
+
+Order ExamplesMain CharacteristicsMonotremata Platypuses, echidnasLay eggs; have no nipples; suck milk from fur of mother
+
+
+
+Marsupialia Kangaroos, opossums, koalasEmbryonic development completed in marsupial pouch
+
+
+
+Proboscidea ElephantsHave a long, muscular trunk; thick, loose skin; upper incisors elongated as tusks
+
+
+
+Sirenia Sea cows (manatees)Aquatic herbivores; possess finlike forelimbs and no hindlimbs
+
+
+
+Edentata Sloths, anteaters, armadillosHave reduced or no teeth
+
+
+
+Rodentia Squirrels, beavers, rats, porcupines, micePossess chisel-like continuously growing incisor teeth
+
+
+
+Lagomorpha Rabbits, hares, pikasPossess chisel-like incisors, hind legs longer than forelegs and adapted for running and jumping
+
+
+
+Primates Lemurs, monkeys, apes, humansOpposable thumb; forward-facing eyes; well-developed cerebral cortex; omnivorous
+
+
+
+Carnivora Dogs, wolves, bears, cats, weasels, otters, seals, walrusesCarnivorous; possess sharp, pointed canine teeth and molars for shearing
+
+
+
+CetartiodactylaArtiodactyls Sheep, pigs, cattle, deer, giraffesPossess hooves with an even number of toes on each foot;herbivorous
+
+
+
+Cetaceans Whales, dolphins, porpoisesMarine forms with fish-shaped bodies, paddlelike forelimbs and no hind limbs; thick layer of insulating blubber
+
+
+
+Perissodactyla Horses, zebras, tapirs, rhinocerosesPossess hooves with an odd number of toes on each foot; herbivorous
+
+
+
+Chiroptera BatsAdapted for flying; possess a broad skinfold that extends from elongated fingers to body and legs
+
+
+
+Insectivora"Core insectivores": some moles, some shrewsInsect-eating mammals
+
+
+
+Molecular systematics has helped to clarify the evolutionary relationships among the orders of eutherian mammals, though there is still no broad consensus on a phylogenetic tree. The main current hypothesis clusters the eutherian orders into four main clades (FIGURE 34.33).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-33. Hypothetical cladogram of mammals.
+
+One branch includes the elephants, together with several less well-known African mammals, such as the aardvarks and hyraxes, as well as manatees. This eutherian clade is referred to as the Afrotheria.
+
+A second branch underwent a radiation in South America, and consists of the sloths, anteaters, and armadillos--the order Edentata in TABLE 34.1.
+
+A third clade includes the bats (Chiroptera), certain insectivorous mammals (the "core insectivores," such as some of the animals that have the common names shrews and moles), carnivores, two ungulate (hoofed) orders--artiodactyls (pigs, cows, camels, and hippos) and perissodactyls (horses and rhinoceroses)--together with the cetaceans (dolphins and whales). One of the most striking results of recent phylogenetic research on mammals is that the cetaceans probably form a branch within the artiodactyls. Thus, hippos are more closely related to whales and dolphins than they are to other artiodactyls, such as sheep and camels. In late 2001, in fact, researchers reported an Eocene whale fossil (Rodhocetus) in Pakistan that has a foot skeleton very similar to the foot anatomy of hippos and pigs. The hypothetical mammalian phylogeny based on molecular systematics predicts that whales with hoof-like swimming appendages once lived, and now the fossil record has corroborated the molecular evidence. The traditional order Artiodactyla is therefore not monophyletic, and researchers suggest that the cetaceans and artiodactyls should be combined in the order Cetartiodactyla (see TABLE 34.1). The order Carnivora includes cats, dogs, raccoons, skunks, and the pinnipeds (seals, sea lions, and walruses). Seals and their relatives apparently evolved from middle Cenozoic carnivorans that became adapted for swimming.
+
+The fourth eutherian branch is by far the largest in terms of numbers of modern species. It contains the lagomorphs (rabbits and relatives) and rodents, together with the primates. Order Rodentia includes rats, mice, squirrels, and beavers. With about 1,770 species, this is by far the largest order of mammals. The name Rodentia, from the Latin word for "gnawing," refers to one of the distinctive features of the group: Both the upper jaw and the lower jaw have a pair of large front teeth (incisors) that resist heavy wear by growing continually. Order Primates, which we discuss next, includes monkeys, apes, and humans.
+
+
+
+
+
+ Primate evolution provides a context for understanding human origins
+
+We have tracked vertebrate evolution through the mammalian orders and can now begin to trace our own specific ancestry. Order Primates includes Homo sapiens and its closest kin. We are primates.
+
+Some General Primate Characteristics
+
+Primates are difficult to define unambiguously in terms of morphological attributes, but most primates have hands and feet adapted for grasping, and, relative to other mammals, they have large brains and short jaws, giving them a flat face. Primates have forward-looking eyes, close together on the front of the face. They also have flat nails on their digits rather than the narrow claws of other mammals. There are other changes in the hands and feet, such as the evolution of the skin ridges on fingers (these account for our fingerprints). Primates, perhaps related to their large brains, also have relatively well-developed parental care and relatively complex social behavior.
+
+The earliest primates were probably tree dwellers, shaped through natural selection to the demands of living in the trees. For example, the grasping hands and feet of primates are adaptations for hanging on to tree branches. All modern primates, except Homo, have a big toe that is widely separated from the other toes, enabling them to grasp onto branches with their feet. A similar separation of the thumb from the other fingers evolved in the hands of primates. Humans have a fully opposable thumb; that is, we can touch the ventral surface (fingerprint side) of the tip of all four fingers with the ventral surface of the thumb of the same hand. The thumb is relatively mobile and separate from the fingers in all primates, but a fully opposable thumb is found only in anthropoid primates (monkeys, apes, and humans). The opposable thumb, like the grasping foot, evolved first for gripping branches. In monkeys and apes, the opposable thumb functions in a grasping "power grip," but in humans, the opposable thumb has adaptations that enable more precise manipulation; we have a distinctive bone structure at the base of our thumbs associated with our "precision grip." The unique dexterity of humans represents descent with modification from ancestral hands adapted for life in the trees. Some of the other primate features also originated as adaptations for tree dwelling. For instance, the overlapping fields of vision of the two eyes enhance depth perception, an obvious advantage when brachiating (swinging). Excellent eye-hand coordination is also important for arboreal maneuvering. Humans, of course, do not live in trees, but we retain in modified form many of the traits that originally evolved there.
+
+Modern Primates
+
+The two subgroups of the Primates are the Prosimii and Anthropoidea. The prosimians ("premonkeys") probably resemble early arboreal primates (FIGURE 34.34). The lemurs of Madagascar and the lorises, pottos, and tarsiers that live in tropical Africa and southern Asia are examples of prosimians. The anthropoids include monkeys, apes, and humans. The oldest known anthropoid fossils, discovered in China in mid-Eocene strata about 45 million years old, support the hypothesis that tarsiers are the prosimians most closely related to anthropoids (FIGURE 34.35, p. 708).
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-34. Prosimians: crowned lemurs.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-35. A phylogenetic tree of primates. The fossil record indicates that the prosimian and anthropoid lineages were diverging by about 50 million years ago. Among the anthropoids, New World monkeys, Old World monkeys, and the apes (represented today by several species of gibbons, the orangutan, the gorilla, and chimpanzees) have been evolving on separate lineages for over 40 million years. Molecular evidence shows that chimpanzees are more closely related to humans than are any other apes. The time of divergence of the hominid lineage (human branch of the evolutionary tree) is somewhere between 5 and 7 million years ago.
+
+The fossil record indicates that by 40 million years ago, monkeys were established both in the Old World (in Africa and Asia) and in the New World (in South America). By that time, South America and Africa had drifted apart. The first monkeys probably evolved in the Old World, and may have reached South America by rafting on logs or other debris from Africa. What is certain is that New World monkeys and Old World monkeys underwent separate adaptive radiations during their many millions of years of separation (FIGURE 34.36). All New World monkeys are arboreal, whereas Old World monkeys include ground-dwelling as well as arboreal species. Most monkeys of both groups are diurnal (active during the day) and usually live in bands held together by social behavior.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-36. New World monkeys and Old World monkeys compared. (a) New World monkeys, such as spider monkeys, squirrel monkeys, and capuchins, have prehensile tails and nostrils that open to the sides. (b) Old World monkeys lack prehensile tails, and their nostrils open down-ward. The tough seat pad is unique to the Old World group, which includes macaques, mandrills, baboons, and rhesus monkeys.
+
+In addition to monkeys, the anthropoid suborder also includes the four genera of apes, shown in FIGURE 34.37: Hylobates (gibbons), Pongo (orangutans), Gorilla (gorillas), and Pan (chimpanzees and bonobos). Modern apes are confined exclusively to tropical regions of the Old World; the ancestors of the apes evolved from Old World monkeys about 25-30 million years ago. With the exception of gibbons, modern apes are larger than monkeys, with relatively long arms and short legs and no tails. Although all the apes are capable of brachiation (traveling by swinging from branch to branch in trees), only gibbons and orangutans are primarily arboreal. Social organization varies among the genera of apes; gorillas and chimpanzees are highly social. Apes have larger brains proportionate to body size than monkeys, and their behavior is more flexible.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-37. Apes. (a) Gibbons, such as this white-handed gibbon, which is brachiating, have long arms and are among the most acrobatic of all primates. These Asian primates are also the only monogamous apes. (b) The orangutan is a shy and solitary ape that lives in the rain forests of Sumatra and Borneo. Orangutans spend most of their time in trees, but they do venture onto the forest floor occasionally. Note the foot adapted for grasping and the opposable thumb. (c) Gorillas are the largest apes, with some males almost 2 m tall and weighing about 200 kg. These herbivores are confined to Africa, where they usually live in small groups of about 10 to 20 individuals. (d) Chimpanzees live in tropical Africa. They feed and sleep in trees but also spend a great deal of time on the ground. Chimpanzees are intelligent, communicative, and social. (e) Bonobos, smaller than chimpanzees, survive today only in the African nation of Congo.
+
+
+
+
+
+ Humanity is one very young twig on the vertebrate tree
+
+In the continuum of life spanning over 3.5 billion years, humans and apes have shared ancestry for all but the last few million years. Paleoanthropology, the study of human origins and evolution, focuses on this tiny fraction of geologic time during which humans and chimpanzees diverged from a common ancestor.
+
+Paleoanthropologists use two words that are easy to confuse. Hominoid is a broader term, referring to great apes and humans. (Note that "anthropoid" is an even broader term, since it includes monkeys.) If a fossil is called "hominoid," it is related to us but may be more closely related to chimpanzees, gorillas, or orangutans. Hominid is a word with narrower meaning, referring to the twigs of the evolutionary tree that are more closely related to us than to any other living species. If a fossil is called a "hominid," this implies the hypothesis that the species is closer to us than it is to a chimpanzee or a gorilla. There are two main groups of hominids: the australopithecines, which came first and are all extinct, and members of the genus Homo, with all species extinct except one: Homo sapiens.
+
+Some Common Misconceptions
+
+Paleoanthropology has a checkered history. Until about 25 years ago, researchers often gave new names to fossil forms that were undoubtedly the same species as fossils found by competing scientists. Elaborate theories have often been based on a few teeth or a fragment of jawbone. Many misconceptions about human evolution generated during the early part of the twentieth century still persist in the minds of much of the general population, long after these myths have been debunked by fossil discoveries.
+
+Let's first dispose of the myth that our ancestors were chimpanzees or any other modern apes. Chimpanzees and humans represent two divergent branches of the hominoid tree that evolved from a common ancestor that was neither a chimpanzee nor a human.
+
+Another misconception envisions human evolution as a ladder with a series of steps leading directly from an ancestral hominoid to Homo sapiens. This is often illustrated as a parade of fossil hominids becoming progressively more modern as they march across the page. If human evolution is a parade, then it is a disorderly one, with many splinter groups having traveled down dead ends. At times in hominid history, several different human species coexisted (FIGURE 34.38). Human phylogeny is more like a multibranched bush than a ladder, our species being the tip of the only twig that still lives.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-38. A timeline for some hominid species. Most of these fossils come from sites in eastern and southern Africa. Note that at most times in human history, two or more hominid species were contemporaries. The names of some of the species are controversial, reflecting phylogenetic debates about what skeletal details and biogeography imply about relationships among the hominids. For example, this diagram represents the prehistoric hominids known as Neanderthals as a species separate from Homo sapiens, but some paleoanthropologists consider Neanderthals to be a subspecies of H. sapiens.
+
+One more myth we must bury is the notion that various human characteristics, such as upright posture and an enlarged brain, evolved in unison. A popular image is of early humans as half-stooped, half-witted cave dwellers. Different features evolved at different rates--a phenomenon known as mosaic evolution--with erect posture, or bipedalism, leading the way. Our pedigree includes ancestors who walked upright but had brains much less developed than ours.
+
+After dismissing some of the folklore on human evolution, however, we must admit that many questions about our ancestry remain.
+
+Early Anthropoids: A Change of Environment
+
+Our anthropoid ancestors of 30-35 million years ago were still tree dwellers. But then about 20 million years ago, the Indian plate collided with Asia and thrust up the Himalayan range. The climate became drier and the forests of what is now Africa and Asia contracted. The result was an increased area of savanna (grassland) habitat, with fewer trees. Some of the major evolutionary changes leading to the origin of our species may have occurred as our ancestors came to live less in the trees. There was then an evolutionary modification of arboreal adaptations to a new way of life, walking on the ground in more open habitats. Based on the fossil record and comparisons of DNA between humans and chimpanzees, most researchers now agree that humans and apes diverged from a common hominoid ancestor only about 5-7 million years ago.
+
+Some Major Features of Human Evolution
+
+Brain Size.Based on skull measurements, researchers have determined that hominoids of about 6 million years ago had brains with volumes of about 400-450 cm3. That's close to the brain volume of modern chimpanzees. In contrast, modern humans have brains averaging about 1,300 cm3 in size. This tripling of brain volume is associated with such cultural trends as the development of complex language.
+
+Jaw Shape.Our hominoid ancestors had longer jaws--what anthropologists call prognathic jaws--than the jaws of modern humans. Chimpanzees retain this skeletal feature of prognathic jaws. During human evolution, shortening of the jaws resulted in flatter faces with more pronounced chins (compare your own face to that of the chimpanzee in FIGURE 34.37d). Along with this anatomical remodeling of the jaw, there were also changes in dentition (teeth).
+
+Bipedal Posture.Based on the skeletal anatomy of fossils, it is clear that our hominoid ancestors walked on all four limbs when they were on the ground, as all modern apes do. The evolution of bipedal posture--upright posture and two-legged walking--is associated with key skeletal modifications that are evident in early hominid fossils.
+
+Reduced Size Difference Between the Sexes.In hominoids, a size difference between males and females is a major feature of sexual dimorphism (see Chapter 23). On average, male gorillas and orangutans weigh about twice as much as females of their species. In chimpanzees and bonobos, the size difference is much less, with males about 1.35 times heavier than females, on average. This sexual dimorphism in size is even more reduced in humans, with males averaging about 1.2 times the weight of females.
+
+Some Key Changes in Family Structure.The study of fossils can document evolutionary changes in skull capacity, jaw shape, bipedal posture, and, when a population has left enough fossils, even in male-female size differences. But to identify evolutionary changes in social behavior, such as family structure, researchers rely more on comparisons between humans and other extant hominoids. In contrast to the social organization of most ape species (as well as most monkeys), monogamy, with long-term pair-bonding between mates, prevails in most human cultures. Newborn human infants are exceptionally dependent on their mothers, and the duration of parental care for offspring is much longer in humans than in other hominoids (apes). This extended parental care, coupled with the large brain size, enhances learning and is associated with the behavioral complexity of humans.
+
+Australopithecines: Early Hominids and the Origin of Bipedal Posture
+
+Let us now see what the fossil record tells us about the evolution of such human features as shortened jaws, increased brain size, bipedal posture, and reduced size difference between males and females. All known hominid (human) fossils older than about 1.5 million years are from eastern and southern Africa. Most of these fossils are teeth and fragments of jaws, skulls, and other skeletal pieces, although paleontologists have also unearthed some spectacular skeletons that are much more complete, especially for relatively recent hominids. Researchers must try to reconstruct human phylogeny from this incomplete record, revising their hypotheses to account for new fossil evidence, as well as data from new research strategies such as molecular systematics. We will focus here mainly on the hominids known as the australopithecines, the various pre-Homo species classified in the genus Australopithecus (see FIGURE 34.38).
+
+In 1924, British anthropologist Raymond Dart announced that a fossilized skull discovered in a South African quarry was the remains of an early human. He named his "ape-man"Australopithecus africanus ("southern ape of Africa"). With the discovery of more fossils, it became clear that A. africanus was in fact a hominid that walked fully erect (was bipedal) and had humanlike hands and teeth. However, the brain of A. africanus was only about one-third the size of a modern human's brain. Various species of Australopithecus existed for about 3 million years, beginning nearly 4 million years ago (see FIGURE 34.38).
+
+In 1974, in the Afar region of Ethiopia, paleoanthropologists discovered an Australopithecus skeleton that was 40%  complete. "Lucy," as the fossil was named, was petite--only about 1 m tall. The skeleton is 3.24 million years old. Lucy and similar fossils have been considered sufficiently different from Australopithecus africanus to be named a separate species, Australopithecus afarensis (for the Afar region). Lucy's head was the size of a softball, indicating a brain size about the same as that of a chimpanzee of Lucy's body size. A. afarensis skulls are also apelike in being prognathic. And sexual dimorphism in size was more apelike than human, with males about 1.5 times the size of females. However, the fragments of the pelvis and skull bones indicate that A. afarensis walked on two legs (FIGURE 34.39a). Fossils discovered in the early 1990s extend the longevity of A. afarensis as a species to a span of at least one million years.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-39. Upright posture predates an enlarged brain in human evolution. (a) Lucy, a 3.24-million-year-old skeleton, represents the hominid species Australopithecus afarensis. Fragments of the pelvis and skull show that A. afarensis was bipedal, though the arms indicate that Lucy was also adapted for arboreal locomotion. (b) The Laetoli footprints, over 3.5 million years old, confirm that upright posture evolved quite early in hominid history.
+
+At the risk of oversimplifying, one could say that A. afarensis was more apelike than human above the neck, but more humanlike below. Fossilized footprints in Laetoli, Tanzania, corroborate the skeletal evidence that homonids living at the time of A. afarensis were bipedal (FIGURE 34.39b). However, the skeletons also suggest a capacity for arboreal locomotion, with arms relatively long in proportion to body size compared to the proportions for modern humans. A. afarensis may have been able to move well both in the trees and on the ground, suggesting a mixed forest-savanna habitat.
+
+In the past few years, paleoanthropologists have found hominid species that predate A. afarensis. The oldest fossil that is unambiguously human--that is, definitely more closely related to humans than to apes based on skeletal analysis--is Australopithecus anamensis, which lived just over 4 million years ago. And note in FIGURE 34.38 that there are even older fossils of putative hominids going back 6 million years. Thus, the australopithecine fossils indicate that hominids were bipedal at least 4 million years ago, and perhaps hundreds of thousands of years earlier. The fossil record of humanity is creeping closer to the ape-human split that molecular systematists estimate occurred about 5-7 million years ago.
+
+One of the key questions in paleoanthropology is which of the australopithecines were evolutionary dead ends and which were either on, or close to, the phylogenetic lineage that eventually sprouted the Homo branch. For the million years that A. afarensis is represented in the fossil record, it changed little. Then, beginning about 3 million years ago, what was apparently an adaptive radiation produced several new hominid species, including A. africanus, the human first discovered by Dart 80 years ago. Either A. africanus or some closely related species was probably ancestral to two hominid branches known from later fossils. One lineage consisted of the "robust" australopithecines. They had sturdy skulls with powerful jaws and large teeth, adapted for grinding and chewing hard, tough foods. These robust forms contrast with other australopithecines, including the earlier A. afarensis and A. africanus, which were what anthropologists call "gracile" (slender) australopithecines. The gracile forms had lighter feeding equipment adapted for softer foods. Most researchers agree that the robust australopithecines were an evolutionary dead end, and that the ancestors of Homo were among the gracile australopithecines.
+
+Homo: The Evolution of Larger Brains and the Global Dispersion of Humans
+
+The earliest fossils that anthropologists place in our genus, Homo, are classified as Homo habilis. These fossils, ranging in age from about 2.5 to 1.6 million years old, show clear signs of some modern hominid characters above the neck. Compared to the australopithecines, H. habilis had less prognathic jaws and larger brains, about 600-750 cm3 compared to the average of 500 cm3 for Australopithecus africanus. In some cases, anthropologists have found sharp stone tools with fossils of Homo habilis, which means "handy man." After walking upright for at least 2 million years, some hominids had started to use their brains and hands to fashion tools.
+
+A remarkably complete fossil of a young hominid known as "Turkana Boy" indicates that even larger brains had evolved by 1.6 million years ago (FIGURE 34.40). The boy had a brain that would probably be over 900 cm3 in an adult of his species. This brain size is between that of H. habilis and another species, Homo erectus. It is a reasonable hypothesis that Turkana Boy represents hominid forms linking H. habilis to H. erectus in our phylogeny.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-40. The Turkana boy. This 1.7 million-year-old fossil is anatomically intermediate between H. habilis and H. erectus. Some anthropologists classify the specimen as H. erectus, while others assign it to a separate species (H. ergaster), hypothetically ancestral to both H. erectus and H. sapiens.
+
+Homo erectus was the first hominid species to migrate out of Africa. These humans colonized Asia, including the Indonesian archipelago, leaving fossils known by such names as "Beijing Man" and "Java Man."H. erectus lived from about 1.8 million years ago to 500,000 years ago, and had already populated Asia by at least 1.5 million years ago. Compared to H. habilis, H. erectus was taller and had a larger brain, averaging about 1,100 cm3. And H. erectus males were only about 1.2 times the size of females in the same population, a sexual dimorphism in size matching that of modern humans. Some anthropologists interpret this to mean that monogamy based on pair-bonding had evolved in H. erectus societies, replacing a more polygamous system where the largest, strongest males generally outcompeted smaller males and left the most offspring.
+
+In addition to dispersing from Africa to Asia, H. erectus also spread into Europe, though the timing of that migration is less certain than for Asia. In Europe, H. erectus gave rise to the humans known as Neanderthals.
+
+Neanderthals are named for the locale where their fossils were first discovered, the Neander Valley of Germany. Anthropologists now use the name for humans who lived throughout Europe from about 200,000 to 40,000 years ago. Fossilized skulls indicate that Neanderthals had brains as large as ours, though somewhat different in shape. Neanderthals were also generally more heavily built than modern humans. Despite these differences, it is unlikely that an appropriately dressed Neanderthal misplaced in time would stand out from the crowd on a city street today.
+
+Controversy surrounds the classification of fossils of the humans that lived in Europe, Asia, and Africa from about 500,000 to 100,000 years ago. These fossils represent the various regional descendants of H. erectus, including Neanderthals. One school of researchers refers to all of these regional forms as "archaic Homo sapiens," classifying them in the same species, but with subspecies names for the regional variants. In the view of these scientists, for example, the scientific name for Neanderthals should be Homo sapiens neanderthalensis. The other school restricts the name Homo sapiens to later fossils and gives separate species names to the regional fossils of the earlier period--for example, Homo neanderthalensis for the European fossils. Though this controversy may seem like trivial semantic quibbling, it is really a debate between advocates of alternative hypotheses for the origin of modern humans.
+
+The Origin of Anatomically Modern Humans
+
+When and where did fully modern humans--what paleoanthropologists call anatomically modern humans--originate?
+
+One hypothesis for the origin of fully modern humans is that Homo sapiens evolved in each region from the local populations of H. erectus. This model of parallel evolution of modern humans is called the multiregional hypothesis (FIGURE 34.41a, p. 714). It is mainly advocates of this hypothesis who refer to the regional derivatives of H. erectus as "archaic Homo sapiens," giving the geographic variants of fossils subspecies names, such as H. sapiens neanderthalensis for European forms. In this view, the great genetic similarity of all modern people is the product of occasional interbreeding between neighboring populations that has provided corridors for gene flow throughout the geographic range of humans.
+
+
+
+Click image to enlarge
+
+
+
+Fig 34-41. Two hypotheses for the origin of anatomically modern humans. (a) Multiregional hypothesis. According to the multiregional hypothesis, modern humans evolved in many parts of the world from regional descendants of Homo erectus, who dispersed from Africa between 1 and 2 million years ago. The dashed line symbolizes interbreeding and gene flow between regional populations. (b) "Out of Africa" hypothesis (replacement hypothesis). According to the "Out of Africa" hypothesis, only the African descendants of Homo erectus gave rise to modern humans. All other regional descendants of H. erectus, including Neanderthals, became extinct without contributing significantly to the gene pool of modern humanity. Advocates of this hypothesis argue that anatomically modern humans began spreading from Africa just 100,000 years ago, giving rise to all the diverse human populations on Earth today.
+
+On the other side of a very lively debate about human origins are the proponents of the "Out of Africa" hypothesis, also called the replacement hypothesis. According to this hypothesis, all Homo sapiens throughout the world evolved from a second major migration out of Africa that occurred about 100,000 years ago--a migration of anatomically modern humans that completely replaced all the regional populations of Homo derived from the first hominid migrations of H. erectus out of Africa about 1.5 million years ago (FIGURE 34.41b). Most advocates of the replacement hypothesis prefer to give separate species names to the regional hominids that were not anatomically modern, such as Homo neanderthalensis for the Neanderthals in Europe.
+
+Note that both hypotheses recognize the fossil evidence for humanity's African origin. The debate centers on the vintage of the most recent hominid ancestor in Africa common to all the world's modern populations. The multiregional hypothesis places that last common ancestor in Africa over 1.5 million years ago, when H. erectus began migrating to other parts of the world. But according to the replacement hypothesis, the diverse human populations of the world are much more closely related. In this view, all of the world's populations diverged from anatomically modern Homo sapiens that evolved from an African H. erectus population and then migrated throughout the world beginning only 100,000 years ago. These anatomically modern humans--Homo sapiens--completely replaced all the other regional descendants of H. erectus, including Neanderthals, which are therefore evolutionary dead ends in the view of the replacement hypothesis.
+
+A third alternative to the multiregional and replacement hypotheses suggests that Homo sapiens dispersing from Africa 100,000 years ago interbred with the regional descendants of the earlier H. erectus migration. This hypothesis predicts that the genomes of the indigenous people around the globe today should reflect a complex mix of ancestries. More generally, the key to our past, and a way to test the predictions made by the competing hypotheses, is to assess our current genetic diversity.
+
+So far, the genetic data have mostly supported the replacement hypothesis. One approach has been to compare the mitochondrial DNA (mtDNA) between population samples from various parts of the world. Using changes in the mtDNA as a molecular clock (see Chapter 25), researchers have reported a time of genetic divergence of about 100,000 years ago, consistent with the replacement hypothesis. Some other researchers question the reliability of this approach. However, studies of genetic markers from the nucleus have corroborated the mtDNA data in tracing the geographic branching of Homo sapiens to about 100,000 years ago. And in the late 1990s, the replacement hypothesis accrued further support from researchers who sequenced mtDNA extracted from Neanderthal bones. The multiregional hypothesis predicts that the mtDNA of modern Europeans should be more similar to this Neanderthal mtDNA than to mtDNA from modern humans indigenous to other geographic regions. But the mtDNA from four Neanderthals all fall completely outside the range of mtDNA for modern Europeans. These data suggest that Neanderthals contributed nothing to the ancestry of anatomically modern humans in Europe. So far, however, there have been no such comparisons of DNA between local fossils and local indigenous people in regions outside Europe, such as Asia.
+
+In testing the predictions of contesting hypotheses on the origin of modern humans, perhaps the most important genetic data so far are comparisons of Y chromosomes that a large research team published in 2001. In contrast to other human chromosomes, copies of a Y chromosome transmitted from male to male through the generations of a family retain their genetic identity because there is no crossing over for the Y chromosome during meiosis (except for a very small portion, which may cross over with the X chromosome). The diversity among Y chromosomes is thus limited to mutations, which serve as markers for tracing the ancestry and relationships among males alive today. By comparing the Y chromosomes of males from various geographic regions, researchers were able to infer divergence from a common African ancestor less than 100,000 years ago. As one former advocate of the multiregional hypothesis put it when he learned of these Y-chromosome data: "I have undergone a conversion--a sort of epiphany. There are no old Y chromosome lineages [in modern humans]. There are no old mtDNA lineages. Period. It was total replacement." However, not all multiregionalists find the genetic data so conclusive.
+
+So far, the fossil evidence has been less one-sided than the genetic data in testing the alternative explanations for the origin of modern humans. The fossil evidence in western Europe is consistent with a total replacement of Neanderthals about 40,000 years ago by anatomically modern humans, known as Cro-Magnons in the case of the European fossils. There is no evidence for a transition in skeletal morphology that would suggest interbreeding between Neanderthals and the later arrivals. Thus, for western Europe, at least, the fossil evidence corroborates the genetic evidence in support of the replacement hypothesis. However, the fossil data outside of Europe are more ambiguous. For example, some paleoanthropologists interpret certain Asian fossils to be intermediate between older fossils of H. erectus in Asia and skeletal features of modern Asians, a result predicted by the multiregional hypothesis (or implying interbreeding with H. erectus after modern humans arrived in Asia).
+
+Scientific debates about our evolutionary history, including the origin of anatomically modern humans, will certainly continue to make paleonanthropology one of the most exciting research fields in science.
+
+Though we are ending this unit of chapters on the evolution of biological diversity with the origin of modern humans, we do not mean to reinforce the common misconception of a "ladder of life leading from lowly microbes to lofty humanity." Biological diversity is the product of branching phylogeny, not ladderlike "progress," however we choose to measure it. The fact that there are more species of bony fishes alive today than all other verterbrates combined is a clear indication that our finned relatives are not outmoded underachievers that failed to get out of the water. The tetrapods--amphibians, reptiles, birds, and mammals--are derived from one fish population. As tetrapods diversified on land, fishes continued their branching evolution in the greatest portion of the biosphere's volume. Similarly, the ubiquitous presence of diverse prokaryotes throughout the biosphere today is a reminder of the enduring ability of these relatively simple organisms to keep up with the times through adaptive evolution. Biology exalts life's diversity, past and present.
+
+
+
+

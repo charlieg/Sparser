@@ -1,0 +1,382 @@
+
+Chapter 16: THE MOLECULAR BASIS OF INHERITANCE
+
+DNA AS THE GENETIC MATERIAL
+
+   The search for the genetic material led to DNA
+
+   Watson and Crick discovered the double helix by building models to conform to X-ray data
+
+
+
+DNA REPLICATION AND REPAIR
+
+   During DNA replication, base pairing enables existing DNA strands to serve as templates for new complementary strands
+
+   A large team of enzymes and other proteins carries out DNA replication
+
+   Enzymes proofread DNA during its replication and repair damage in existing DNA
+
+   The ends of DNA molecules are replicated by a special mechanism
+
+In April 1963, James Watson and Francis Crick shook the scientific world with an elegant double-helical model for the structure of deoxyribonucleic acid, or DNA. The photograph on this page captures Watson and Crick admiring their DNA model. DNA, the substance of inheritance, is the most celebrated molecule of our time. Mendel's heritable factors and Morgan's genes on chromosomes are, in fact, composed of DNA. Chemically speaking, your genetic endowment is the DNA you inherited from your parents.
+
+Of all nature's molecules, nucleic acids are unique in their ability to direct their own replication. Indeed, the resemblance of offspring to their parents has its basis in the precise replication of DNA and its transmission from one generation to the next. In other words, DNA is the substance behind the adage "Like begets like." Hereditary information is encoded in the chemical language of DNA and reproduced in all the cells of your body. It is this DNA program that directs the development of your biochemical, anatomical, physiological, and, to some extent, behavioral traits. In this chapter, you will learn how biologists deduced that DNA is the genetic material, how Watson and Crick discovered its structure, and how cells replicate and repair their DNA--the molecular basis of inheritance.
+
+
+
+
+
+DNA AS THE GENETIC MATERIAL
+
+ 
+
+ The search for the genetic material led to DNA
+
+
+
+ 
+
+ Watson and Crick discovered the double helix by building models to conform to X-ray data
+
+
+
+Today, even schoolchildren have heard of DNA, and scientists routinely manipulate DNA in the laboratory and use it to change the heritable characteristics of cells. Early in the 20th century, however, the identification of the molecules of inheritance loomed as a major challenge to biologists.
+
+
+
+
+
+DNA REPLICATION AND REPAIR
+
+ 
+
+ During DNA replication, base pairing enables existing DNA strands to serve as templates for new complementary strands
+
+
+
+ 
+
+ A large team of enzymes and other proteins carries out DNA replication
+
+
+
+ 
+
+ Enzymes proofread DNA during its replication and repair damage in existing DNA
+
+
+
+ 
+
+ The ends of DNA molecules are replicated by a special mechanism
+
+
+
+The relationship between structure and function, one of the themes of biology, is manifest in the double helix. The idea that there is specific pairing of nitrogenous bases in DNA was the flash of inspiration that led Watson and Crick to the correct double helix. At the same time, they saw the functional significance of the base-pairing rules. They ended their classic paper with this wry statement: "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material." In the next section, you will learn about this basic mechanism of DNA replication. Some important details of the process will be presented in the section that follows.
+
+
+
+
+
+ The search for the genetic material led to DNA
+
+Once T. H. Morgan's group showed that genes are located on chromosomes, the two chemical components of chromosomes--DNA and protein--became the candidates for the genetic material. Until the 1940s, the case for proteins seemed stronger, especially since biochemists had identified them as a class of macromolecules with great heterogeneity and specificity of function, essential requirements for the hereditary material. Moreover, little was known about nucleic acids, whose physical and chemical properties seemed far too uniform to account for the multitude of specific inherited traits exhibited by every organism. This view gradually changed, as experiments with micro-organisms yielded unexpected results. As with the work of Mendel and Morgan, a key factor in determining the identity of the genetic material was the choice of appropriate experimental organisms. Bacteria and the viruses that infect them are far simpler than pea plants, fruit flies, or humans, and the role of DNA in heredity was first worked out by studying such microbes. In this section, we will trace the search for the genetic material in some detail as a case study of the scientific process.
+
+Evidence That DNA Can Transform Bacteria
+
+We can trace the discovery of the genetic role of DNA back to 1928. Frederick Griffith, a British medical officer, was studying Streptococcus pneumoniae, a bacterium that causes pneumonia in mammals. Griffith had two strains (varieties) of the bacterium, a pathogenic (disease-causing) one and a variant that was harmless. He was surprised to find that when he killed the pathogenic bacteria with heat and then mixed the cell remains with living bacteria of the harmless strain, some of the living cells were converted to the pathogenic form (FIGURE 16.1). Furthermore, this new trait of pathogenicity was inherited by all the descendants of the transformed bacteria. Clearly, some chemical component of the dead pathogenic cells caused this heritable change, although the identity of the substance was not known. Griffith called the phenomenon transformation, now defined as a change in genotype and phenotype due to the assimilation of external DNA by a cell. (This usage of transformation should not be confused with the conversion of a normal animal cell to a cancerous one, discussed in Chapter 12.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-1. Transformation of bacteria. The S strain of Streptococcus pneumoniae causes pneumonia; the R strain is nonpathogenic. Griffith discovered that a mixture of heat killed S cells and live R cells killed mice and that live S bacteria could be retrieved from the dead mice. He concluded that molecules from the dead S cells had genetically transformed living R bacteria into S bacteria.
+
+Griffith's work set the stage for a 14-year search for the identity of the transforming substance by American bacteriologist Oswald Avery. Avery purified various chemicals from the heat-killed pathogenic bacteria, then tried to transform live nonpathogenic bacteria with each chemical. Only DNA worked. Finally, in 1944, Avery and his colleagues Maclyn McCarty and Colin MacLeod announced that the transforming agent was DNA. Their discovery was greeted with considerable skepticism, in part because of the lingering belief that proteins were better candidates for the genetic material. Moreover, many biologists were not convinced that the genes of bacteria would be similar in composition and function to those of more complex organisms. But the major reason for the continued doubt was that so little was known about DNA. No one could imagine how DNA could carry genetic information.
+
+Evidence That Viral DNA Can Program Cells
+
+Additional evidence for DNA as the genetic material came from studies of a virus that infects bacteria. Viruses are much simpler than cells. A virus is little more than DNA (or sometimes RNA) enclosed by a protective coat of protein. To reproduce, a virus must infect a cell and take over the cell's metabolic machinery.
+
+Viruses that infect bacteria are widely used as research tools in molecular genetics. These viruses are called bacteriophages (meaning "bacteria eaters"), or just phages. In 1952, Alfred Hershey and Martha Chase performed experiments showing that DNA is the genetic material of a phage known as T2. This is one of many phages that infect Escherichia coli (E. coli), a bacterium that normally lives in the intestines of mammals. At that time, biologists already knew that T2, like many other viruses, was composed almost entirely of DNA and protein. They also knew that the phage could quickly turn an E. coli cell into a T2-producing factory that released phages when the cell ruptured. Somehow, T2 could reprogram its host cell to produce viruses. But which viral component--protein or DNA--was responsible?
+
+Hershey and Chase answered this question by devising an experiment showing that only one of the two components of T2 actually enters the E. coli cell during infection (FIGURE 16.2). In preparation for their experiment, they used different radioactive isotopes to tag phage DNA and protein. First, they grew T2 with E. coli in the presence of radioactive sulfur. Because protein, but not DNA, contains sulfur, the radioactive atoms were incorporated only into the protein of the phage. Next, in a similar way, the DNA of a separate batch of phage was labeled with atoms of radioactive phosphorus; because nearly all the phage's phosphorus is in its DNA, this procedure left the phage protein unlabeled. In the experiment, the protein-labeled and DNA-labeled batches of T2 were each allowed to infect separate samples of nonradioactive E. coli cells. Shortly after the onset of infection, the cultures were whirled in a kitchen blender to shake loose any parts of the phages that remained outside the bacterial cells. The mixtures were then spun in a centrifuge, forcing the bacterial cells to form a pellet at the bottom of the centrifuge tubes, but allowing free phages and parts of phages, which are lighter, to remain suspended in the liquid, or supernatant. The scientists then measured the radioactivity in the pellet and in the supernatant.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 16-2. The Hershey-Chase experiment. In their famous 1952 experiment, Hershey and Chase demonstrated that DNA, not protein, functions as the T2 phage's genetic material.
+
+Hershey and Chase found that when the bacteria had been infected with the T2 phage containing radioactively labeled proteins, most of the radioactivity was found in the supernatant, which contained phage particles (but not bacteria). This result suggested that the protein of the phage did not enter the host cells. But when the bacteria had been infected with T2 phage whose DNA was tagged with radioactive phosphorus, then the pellet of mainly bacterial material contained most of the radio-activity. Moreover, when these bacteria were returned to a culture medium, the infection ran its course, and the E. coli released phages that contained some radioactive phosphorus.
+
+Hershey and Chase concluded that the DNA of the virus is injected into the host cell during infection, leaving the protein outside. The injected DNA provides genetic information that makes the cells produce new viral DNA and proteins, which assemble into new viruses. Thus, the Hershey-Chase experiment provided powerful evidence that nucleic acids, rather than proteins, are the hereditary material, at least for viruses.
+
+Additional Evidence That DNA Is the Genetic Material of Cells
+
+Additional circumstantial evidence pointed to DNA as the genetic material in eukaryotes. Prior to mitosis, a eukaryotic cell exactly doubles its DNA content, and during mitosis, this DNA is distributed exactly equally to the two daughter cells. Also, diploid sets of chromosomes have twice as much DNA as the haploid sets found in the gametes of the same organism.
+
+Still more evidence came from the laboratory of biochemist Erwin Chargaff. It was already known that DNA is a polymer of nucleotides, each consisting of three components: a nitrogenous (nitrogen-containing) base, a pentose sugar called deoxyribose, and a phosphate group. (See FIGURE 16.3 for review.) The base can be adenine (A), thymine (T), guanine (G), or cytosine (C). Chargaff analyzed the base composition of DNA from a number of different organisms. In 1947, he reported that DNA composition varies from one species to another: In the DNA of any one species, the amounts of the four nitrogenous bases are not all equal but are present in a characteristic ratio. Such evidence of molecular diversity, which had been presumed absent from DNA, made DNA a more credible candidate for the genetic material.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-3. The structure of a DNA strand. Each nucleotide unit of the polynucleotide chain consists of a nitrogenous base (T, A, C, or G), the sugar deoxyribose, and a phosphate group. The phosphate of one nucleotide is attached to the sugar of the next nucleotide in line. The result is a "backbone" of alternating phosphates and sugars, from which the bases project.
+
+Chargaff also found a peculiar regularity in the ratios of nucleotide bases. In the DNA of each species he studied, the number of adenines approximately equaled the number of thymines, and the number of guanines approximately equaled the number of cytosines. In human DNA, for example, the four bases are present in these percentages: A = 30.9%  and T = 29.4% ; G = 19.9%  and C = 19.8% . The A = T and G = C equalities, later known as Chargaff's rules, remained unexplained until the discovery of the double helix.
+
+
+
+
+
+ Watson and Crick discovered the double helix by building models to conform to X-ray data
+
+Once most biologists were convinced that DNA was the genetic material, the challenge was to determine how the structure of DNA could account for its role in inheritance. By the beginning of the 1950s, the arrangement of covalent bonds in a nucleic acid polymer was well established (FIGURE 16.3), and researchers focused on discovering the three-dimensional structure of DNA. Among the scientists working on the problem were Linus Pauling, in California, and Maurice Wilkins and Rosalind Franklin, in London. First to come up with the correct answer, however, were two scientists who were relatively unknown at the time--the American James Watson and the Englishman Francis Crick.
+
+The brief but celebrated partnership that solved the DNA puzzle began soon after the young Watson journeyed to Cambridge University, where Crick was studying protein structure with a technique called X-ray crystallography (see FIGURE 5.27). While visiting the laboratory of Maurice Wilkins at King's College in London, Watson saw an X-ray diffraction image of DNA produced by Wilkins's colleague, Rosalind Franklin (FIGURE 16.4a). Images produced by X-ray crystallography are not actually pictures of molecules. The spots and smudges in FIGURE 16.4b were produced by X-rays that were diffracted (deflected) as they passed through aligned fibers of purified DNA. Crystallographers use mathematical equations to translate such patterns of spots into information about the three-dimensional shapes of molecules, and Watson was familiar with the types of patterns that helical molecules produce. Just a glance at Franklin's X-ray diffraction photo of DNA not only told him that DNA was helical in shape but also enabled him to deduce the width of the helix and the spacing of the nitrogenous bases along it. The width of the helix suggested that it was made up of two strands, contrary to a three-stranded model that Linus Pauling had recently proposed. The presence of two strands accounts for the now-familiar term double helix.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-4. Rosalind Franklin and her X-ray diffraction photo of DNA. Franklin, an X-ray crystallographer, took the photo that Watson and Crick used in deducing the double-helical structure of DNA. Franklin died of cancer when she was only 38. Her colleague, Maurice Wilkins, received the Nobel Prize in 1962 along with Watson and Crick. Because the Nobel Prize is not awarded posthumously, science historians can only speculate about whether the committee would have recognized Franklin's contribution to the discovery of the double helix. (a) Rosalind Franklin (b) Franklin's X-ray diffraction photograph of DNA
+
+Using molecular models made of wire, Watson and Crick began building models of a double helix that would conform to the X-ray measurements and what was then known about the chemistry of DNA. After failing to make a satisfactory model that placed the sugar-phosphate chains on the inside of the molecule, Watson tried putting them on the outside and forcing the nitrogenous bases to swivel to the interior of the double helix (FIGURE 16.5). Imagine this double helix as a rope ladder having rigid rungs, with the ladder twisted into a spiral. The side ropes are the equivalent of the sugar-phosphate backbones, and the rungs represent pairs of nitrogenous bases. Franklin's X-ray data indicated that the helix makes one full turn every 3.4 nm along its length. With the bases stacked just 0.34 nm apart, there are ten layers of base pairs, or rungs on the ladder, in each turn of the helix. This arrangement was appealing because it put the relatively hydrophobic nitrogenous bases in the molecule's interior and thus away from the surrounding aqueous medium.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-5. The double helix. (a) The "ribbons" in this diagram represent the sugar-phosphate backbones of the two DNA strands. The helix is "right-handed," curving up to the right. The two strands are held together by hydrogen bonds (dotted lines) between the nitrogenous bases, which are paired in the interior of the double helix. (b) For clarity, the two DNA strands are shown untwisted in this partial chemical structure. Notice that the strands are oriented in opposite directions. (c) The tight stacking of the base pairs is clear in this computer model. Van der Waals attractions between the stacked pairs play a major role in holding the molecule together.
+
+The nitrogenous bases of the double helix are paired in specific combinations: adenine (A) with thymine (T), and guanine (G) with cytosine (C). It was mainly by trial and error that Watson and Crick arrived at this key feature of DNA. At first, Watson imagined that the bases paired like-with-like--for example, A with A and C with C. But this model did not fit the X-ray data, which suggested that the double helix had a uniform diameter. Why is this requirement inconsistent with like-with-like pairing of bases? Adenine and guanine are purines, nitrogenous bases with two organic rings. In contrast, cytosine and thymine belong to the family of nitrogenous bases known as pyrimidines, which have a single ring. Thus, purines (A and G) are about twice as wide as pyrimidines (C and T). A purine-purine pair is too wide and a pyrimidine-pyrimidine pair too narrow to account for the 2-nm diameter of the double helix. The solution is to always pair a purine with a pyrimidine:
+
+Watson and Crick reasoned that there must be additional specificity of pairing dictated by the structure of the bases. Each base has chemical side groups that can form hydrogen bonds with its appropriate partner: Adenine can form two hydrogen bonds with thymine and only thymine; guanine forms three hydrogen bonds with cytosine and only cytosine. In shorthand, A pairs with T, and G pairs with C (FIGURE 16.6).
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-6. Base pairing in DNA. The pairs of nitrogenous bases in a DNA double helix are held together by hydrogen bonds as shown here.
+
+The Watson-Crick model explained Chargaff's rules. Wherever one strand of a DNA molecule has an A, the partner strand has a T. And a G in one strand is always paired with a C in the complementary strand. Therefore, in the DNA of any organism, the amount of adenine equals the amount of thymine, and the amount of guanine equals the amount of cytosine. Although the base-pairing rules dictate the combinations of nitrogenous bases that form the "rungs" of the double helix, they do not restrict the sequence of nucleotides along each DNA strand. The linear sequence of the four bases can be varied in countless ways, and each gene has a unique order, or base sequence.
+
+In April 1953, Watson and Crick surprised the scientific world with a succinct, one-page paper in the British journal Nature.* The paper reported their molecular model for DNA: the double helix, which has since become the symbol of molecular biology. The beauty of the model was that its structure suggested the basic mechanism of DNA replication.
+
+
+
+
+
+ During DNA replication, base pairing enables existing DNA strands to serve as templates for new complementary strands
+
+In a second paper that followed their announcement of the double helix, Watson and Crick stated their hypothesis for how DNA replicates:
+
+Now our model for deoxyribonucleic acid is, in effect, a pair of templates, each of which is complementary to the other. We imagine that prior to duplication the hydrogen bonds are broken, and the two chains unwind and separate. Each chain then acts as a template for the formation onto itself of a new companion chain, so that eventually we shall have two pairs of chains, where we only had one before. Moreover, the sequence of the pairs of bases will have been duplicated exactly.*
+
+FIGURE 16.7 illustrates Watson and Crick's basic idea. To make it easier to follow, the diagram shows only a short section of double helix, in untwisted form. Notice that if you cover one of the two DNA strands of FIGURE 16.7a, you can still determine its linear sequence of bases by referring to the unmasked strand and applying the base-pairing rules. The two strands are complementary; each stores the information necessary to reconstruct the other. When a cell copies a DNA molecule, each strand serves as a template (mold) for ordering nucleotides into a new complementary strand. One at a time, nucleotides line up along the template strand according to the base-pairing rules. The nucleotides are linked to form the new strands. Where there was one double-stranded DNA molecule at the beginning of the process, there are now two, each an exact replica of the "parent" molecule. The copying mechanism is analogous to using a photographic negative to make a positive image, which can in turn be used to make another negative, and so on. (See FIGURE 5.30 for a helical version of FIGURE 16.7.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-7. A model for DNA replication: the basic concept. In this simplification, a short segment of DNA has been untwisted into a structure that resembles a ladder. The rails of the ladder are the sugar-phosphate backbones of the two DNA strands; the rungs are the pairs of nitrogenous bases. Simple shapes symbolize the four kinds of bases. Dark blue represents DNA strands originally present in the parent cell; light blue represents newly synthesized DNA.
+
+This model of gene replication remained untested for several years following publication of the DNA structure. The requisite experiments were simple in concept but difficult to perform. Watson and Crick's model predicts that when a double helix replicates, each of the two daughter molecules will have one old strand, derived from the parent molecule, and one newly made strand. This semiconservative model can be distinguished from a conservative model of replication, in which the parent molecule somehow emerges from the replication process intact (that is, it is conserved). In yet a third model, called the dispersive model, all four strands of DNA following replication have a mixture of old and new DNA (FIGURE 16.8, p. 294). Although mechanisms for conservative or dispersive DNA replication are not easy to devise, these models remained possibilities until they could be ruled out. Finally, in the late 1950s, Matthew Meselson and Franklin Stahl devised experiments that tested the three hypotheses. Their experiments supported the semiconservative model, as predicted by Watson and Crick (FIGURE 16.9, p. 294).
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-8. Three alternative models of DNA replication. The short segments of double helix here symbolize the DNA within a cell. Beginning with a parent cell, we follow the DNA for two generations of cells--two rounds of DNA replication. Newly made DNA is lighter blue.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-9. The Meselson-Stahl experiment tested three models of DNA replication. Meselson and Stahl cultured E. coli bacteria for several generations on a medium containing a heavy isotope of nitrogen, 15N. The bacteria incorporated the heavy nitrogen into their nucleotides and then into their DNA. The scientists then transferred the bacteria to a medium containing 14N, the lighter, more common isotope of nitrogen. Any new DNA that the bacteria synthesized would be lighter than the "old" DNA made in the 15N medium. Meselson and Stahl could distinguish DNA of different densities by centrifuging DNA extracted from the bacteria. The centrifuge tubes in this drawing represent the results predicted by each of the three models in FIGURE 16.8. The first replication in the 14N medium produced a band of hybrid (15N-14N) DNA. This result eliminated the conservative model. A second replication produced both light and hybrid DNA, a result that eliminated the dispersive model and supported the semiconservative model.
+
+The basic principle of DNA replication is elegantly simple. However, the actual process involves complex biochemical gymnastics, as we will now see.
+
+
+
+
+
+ A large team of enzymes and other proteins carries out DNA replication
+
+The bacterium E. coli has a single chromosome of about 5 million base pairs. In a favorable environment, an E. coli cell can copy all this DNA and divide to form two genetically identical daughter cells in less than an hour. Each of your cells has 46 DNA molecules in its nucleus, one giant molecule per chromosome. In all, that represents about 6 billion base pairs, or over a thousand times more DNA than is found in a bacterial cell. If we were to print the one-letter symbols for these bases (A, G, C, and T) the size of the letters you are now reading, the 6 billion bases of a single human cell would fill about 900 books as thick as this text. Yet it takes a cell just a few hours to copy all this DNA. This replication of an enormous amount of genetic information is achieved with very few errors--only one per billion nucleotides. The copying of DNA is remarkable in its speed and accuracy.
+
+More than a dozen enzymes and other proteins participate in DNA replication. Much more is known about how this "replication machine" works in bacteria than in eukaryotes. However, most of the process seems to be fundamentally similar for prokaryotes and eukaryotes. In this section, we take a closer look at the basic steps.
+
+Getting Started: Origins of Replication
+
+The replication of a DNA molecule begins at special sites called origins of replication. The bacterial chromosome, which is circular, has a single origin, a stretch of DNA having a specific sequence of nucleotides. Proteins that initiate DNA replication recognize this sequence and attach to the DNA, separating the two strands and opening up a replication "bubble." Replication of DNA then proceeds in both directions, until the entire molecule is copied (see FIGURE 18.11). In contrast to the bacterial chromosome, a eukaryotic chromosome may have hundreds or even thousands of replication origins. Multiple replication bubbles form and eventually fuse, thus speeding up the copying of the very long DNA molecules (FIGURE 16.10). As in bacteria, DNA replication proceeds in both directions from each origin. At each end of a replication bubble is a replication fork, a Y-shaped region where the new strands of DNA are elongating.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-10. Origins of replication in eukaryotes.
+
+Elongating a New DNA Strand
+
+Elongation of new DNA at a replication fork is catalyzed by enzymes called DNA polymerases. As nucleotides align with complementary bases along a template strand of DNA, they are added by polymerase, one by one, to the growing end of the new DNA strand. The rate of elongation is about 500 nucleotides per second in bacteria and 50 per second in human cells.
+
+What is the source of energy that drives the polymerization of nucleotides to form new DNA strands? The nucleotides that serve as substrates for DNA polymerase are actually nucleo side triphosphates, which are nucleotides with three phosphate groups (FIGURE 16.11, p. 296). You have already encountered such a molecule--ATP. The only difference between the ATP of energy metabolism and the nucleoside triphosphate that supplies adenine to DNA is the sugar component, which is deoxyribose in the building block of DNA, but ribose in ATP. (As you might guess, ribose-containing ATP is a substrate for RNA synthesis.) Like ATP, the triphosphate monomers used for DNA synthesis are chemically reactive, partly because their triphosphate tails have an unstable cluster of negative charge. As each monomer joins the growing end of a DNA strand, it loses two phosphate groups as a molecule of pyrophosphate P - Pi). Subsequent hydrolysis of the pyrophosphate to two molecules of inorganic phosphate (Pi) is the exergonic reaction that drives the polymerization reaction.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-11. Incorporation of a nucleotide into a DNA strand. When a nucleoside triphosphate links to the sugar-phosphate backbone of a growing DNA strand, it loses two of its phosphates as a pyrophosphate molecule. The enzyme catalyzing the reaction is a DNA polymerase, and hydrolysis of the bonds between the phosphate groups of the pyrophosphate provides the energy for the reaction.
+
+The Antiparallel Arrangement of the DNA Strands
+
+There is more to the scenario of DNA synthesis at the replication fork. Until now, we have ignored an important feature of the double helix: The two DNA strands are antiparallel; that is, their sugar-phosphate backbones run in opposite directions. In FIGURE 16.12, the five carbons of one deoxyribose sugar of each DNA strand are numbered from 1&#39; to 5&#39;. (The prime sign is used to distinguish the carbon atoms of the sugar from the carbon and nitrogen atoms of the nitrogenous bases.) Notice in FIGURE 16.12 that a nucleotide's phosphate group is attached to the 5&#39; carbon of deoxyribose. Notice also that the phosphate group of one nucleotide is joined to the 3&#39; carbon of the adjacent nucleotide. The result is a DNA strand of distinct polarity. At one end, denoted the 3&#39; end, a hydroxyl group is attached to the 3&#39; carbon of the terminal deoxyribose. At the opposite end, the 5&#39; end, the sugar-phosphate backbone terminates with the phosphate group attached to the 5&#39; carbon of the last nucleotide. In the double helix, the two sugar-phosphate backbones are essentially upside down (antiparallel) relative to each other.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-12. The two strands of DNA are antiparallel. The 5&#39; 3&#39; direction of one strand runs counter to the 5&#39; 3&#39; direction of the other strand. The numbers assigned to the carbon atoms of the deoxyribose units are shown for two of them.
+
+How does the antiparallel structure of the double helix affect replication? DNA polymerases add nucleotides only to the free 3&#39; end of a growing DNA strand, never to the 5&#39; end. Thus, a new DNA strand can elongate only in the 5&#39; 3&#39; direction. With this in mind, let's examine a replication fork (FIGURE 16.13). Along one template strand, DNA polymerase can synthesize a continuous complementary strand by elongating the new DNA in the mandatory 5&#39; 3&#39; direction. The polymerase simply nestles in the replication fork on that template strand and continuously adds nucleotides to a complementary strand as the fork progresses. The DNA strand made by this mechanism is called the leading strand.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-13. Synthesis of leading and lagging strands during DNA replication.
+
+To elongate the other new strand of DNA, polymerase must work along the other template strand in the direction away from the replication fork. The DNA synthesized in this direction is called the lagging strand. The process is analogous to a sewing method called backstitching. As a replication bubble opens, a polymerase molecule can work its way away from a replication fork and synthesize a short segment of DNA. As the bubble grows, another short segment of the lagging strand can be made in a similar way. In contrast to the leading strand, which elongates continuously, the lagging strand is first synthesized as a series of segments. These pieces are called Okazaki fragments, after the Japanese scientist who discovered them. The fragments are about 100 to 200 nucleotides long in eukaryotes. Another enzyme, DNA ligase, joins (ligates) the sugar-phosphate backbones of the Okazaki fragments to create a single DNA strand.
+
+Priming DNA Synthesis
+
+There is another important restriction for DNA polymerases. None of these enzymes can actually initiate synthesis of a polynucleotide; they can only add nucleotides to the end of an already existing chain that is base-paired with the template strand (see FIGURE 16.11). In the replication of cellular DNA, the start of a new chain, its primer, is not DNA, but a short stretch of RNA, the other class of nucleic acid. An enzyme called primase joins RNA nucleotides to make the primer, which is about 10 nucleotides long in eukaryotes (FIGURE 16.14). (Like all RNA-synthesizing enzymes, primase can start an RNA chain from scratch.) Another DNA polymerase later replaces the RNA nucleotides of the primers with DNA versions. Only one primer is required for a DNA polymerase to begin synthesizing the leading strand of new DNA. For the lagging strand, each Okazaki fragment must be primed; the primers are converted to DNA before ligase joins the fragments together.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-14. Priming DNA synthesis with RNA. DNA polymerase cannot initiate a polynucleotide strand; it can only add to the 3&#39; end of an already-started strand. The primer is a short segment of RNA synthesized by the enzyme primase. Each primer is eventually replaced by DNA.
+
+Other Proteins Assisting DNA Replication
+
+You have learned about three kinds of proteins that function in DNA synthesis: DNA polymerase, ligase, and primase. Other kinds of proteins also participate; two of these are helicase and single-strand binding protein. A helicase is an enzyme that untwists the double helix at the replication fork, separating the two old strands. Molecules of single-strand binding protein then line up along the unpaired DNA strands, holding them apart while they serve as templates for the synthesis of new complementary strands.
+
+FIGURE 16.15 summarizes the functions of the main proteins that cooperate in DNA replication. FIGURE 16.16 is a visual summary of DNA replication.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-15. The main proteins of DNA replication and their functions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-16. A summary of DNA replication. The detailed diagram shows one replication fork, but as indicated in the overview diagram, replication usually occurs simultaneously at two forks, one at either end of a replication bubble. Notice in the overview diagram that a leading strand is initiated by an RNA primer (magenta), as is each Okazaki fragment in a lagging strand. Viewing each daughter strand in its entirety, you can see that half of it is made continuously as a leading strand, while the other half (on the other side of the origin) is synthesized in fragments as a lagging strand.
+
+The DNA Replication Machine as a Stationary Complex
+
+It is traditional--and convenient--to represent DNA polymerase molecules as locomotives moving along a DNA "railroad track," but such a model is inaccurate in two important ways. First, the various proteins that participate in DNA replication actually form a single large complex, a DNA replication "machine." Second, this machine is probably stationary during the replication process. In eukaryotic cells, the multiple copies of the machine, perhaps grouped into "factories," may anchor to the nuclear matrix, a framework of fibers extending through the interior of the nucleus. Recent studies support a model in which DNA polymerase molecules "reel in" the parental DNA and "extrude" newly made daughter DNA molecules.
+
+
+
+
+
+ Enzymes proofread DNA during its replication and repair damage in existing DNA
+
+We cannot attribute the accuracy of DNA replication solely to the specificity of base pairing. Although errors in the completed DNA molecule amount to only one in a billion nucleotides, initial pairing errors between incoming nucleotides and those in the template strand are 100,000 times more common--an error rate of one in 10,000 base pairs. During DNA replication, DNA polymerase itself proofreads each nucleotide against its template as soon as it is added to the growing strand. Upon finding an incorrectly paired nucleotide, the polymerase removes the nucleotide and then resumes synthesis. (This action resembles correcting a word-processing error by using the "delete" key and then entering the correction.)
+
+Mismatched nucleotides sometimes evade proofreading by DNA polymerase or arise after DNA synthesis is completed--by damage to a nucleotide base, for instance. In mismatch repair, cells use special enzymes to fix incorrectly paired nucleotides. Researchers spotlighted the importance of such proteins when they found that a hereditary defect in one of them is associated with a form of colon cancer. Apparently, this defect allows cancer-causing errors to accumulate in the DNA.
+
+Maintenance of the genetic information encoded in DNA requires frequent repair of various kinds of damage to existing DNA. DNA molecules are constantly subjected to potentially harmful chemical and physical agents. Reactive chemicals (in the environment and occurring naturally in cells), radioactive emissions, X-rays, and ultraviolet light can change nucleotides in ways that can affect encoded genetic information, usually adversely. In addition, DNA bases often undergo spontaneous chemical changes under normal cellular conditions. Fortunately, changes in DNA are usually corrected before they become self-perpetuating mutations. Each cell continuously monitors and repairs its genetic material. Because repair of damaged DNA is so important to the survival of an organism, it is no surprise that many different DNA repair enzymes have evolved. Almost 100 are known in E. coli, and 130 have been identified so far in humans.
+
+Most mechanisms for repairing DNA damage take advantage of the base-paired structure of DNA. Usually, a segment of the strand containing the damage is cut out (excised) by a DNA-cutting enzyme--a nuclease--and the resulting gap is filled in with nucleotides properly paired with the nucleotides in the undamaged strand. The enzymes involved in filling the gap are a DNA polymerase and ligase. DNA repair of this type is called nucleotide excision repair (FIGURE 16.17).
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-17. Nucleotide excision repair of DNA damage. A team of enzymes detects and repairs damaged DNA. This figure shows DNA containing a thymine dimer, a type of damage often caused by ultra-violet radiation. Repair enzymes can excise the damaged region from the DNA and replace it with a normal DNA segment.
+
+One function of the DNA repair enzymes in our skin cells is to repair genetic damage caused by the ultraviolet rays of sunlight. One type of damage, the type shown in FIGURE 16.17, is the covalent linking of thymine bases that are adjacent on a DNA strand. Such thymine dimers cause the DNA to buckle and interfere with DNA replication. The importance of repairing this kind of damage is underscored by the disorder xeroderma pigmentosum, which in most cases is caused by an inherited defect in a nucleotide excision repair enzyme. Individuals with this disorder are hypersensitive to sunlight; mutations in their skin cells caused by ultraviolet light are left uncorrected and cause skin cancer.
+
+
+
+
+
+ The ends of DNA molecules are replicated by a special mechanism
+
+Most DNA repair processes involve DNA polymerases, but these enzymes are helpless to fix a "defect" that results from their own limitations. For linear DNA, such as the DNA of eukaryotic chromosomes, the fact that a DNA polymerase can only add nu cleotides to the 3&#39; end of a preexisting polynucleotide leads to a potential problem. The usual replication machinery provides no way to complete the 5&#39; ends of daughter DNA strands; as a result, repeated rounds of replication produce shorter and shorter DNA molecules (FIGURE 16.18, p. 300). If a cell divided enough times, essential genes would be deleted. Clearly, if this trend continued over generations, we would not be here today!
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-18. The end-replication problem. When a linear DNA molecule replicates, a gap is left at the 5&#39; end of each new strand (light blue) because DNA polymerase can only add nucleotides to a 3&#39; end. As a result, with each round of replication, the DNA molecules get slightly shorter. For simplicity we show only one end of a linear DNA molecule.
+
+Prokaryotes avoid this problem by having circular DNA molecules (which have no ends), but what about eukaryotes? Eukaryotic chromosomal DNA molecules have special nucleotide sequences called telomeres at their ends (FIGURE 16.19). Telomeres do not contain genes; instead, the DNA consists of multiple repetitions of one short nucleotide sequence. The repeated unit in human telomeres, which is typical, is the six-nucleotide sequence TTAGGG. The number of repetitions in a telomere varies between about 100 and 1,000. Telomeric DNA protects the organism's genes from being eroded through successive rounds of DNA replication. In addition, telomeric DNA and special proteins associated with it somehow prevent the ends from activating the cell's systems for monitoring DNA damage. (The end of a DNA molecule that is "seen" as a double-strand break may otherwise trigger signal-transduction pathways leading to cell cycle arrest or cell death.)
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 16-19. Telomeres and telomerase. Eukaryotes deal with the end-replication issue by having expendable, noncoding sequences called telomeres at the ends of their DNA and the enzyme telomerase in some of their cells.
+
+In the long term, over the course of generations, eukaryotic organisms need a way of restoring their shortened telomeres. This is provided by telomerase, a special enzyme that catalyzes the lengthening of telomeres. But how does telomerase synthesize DNA where the DNA template has been lost? Telomerase is unusual in having a short molecule of RNA along with its protein. The RNA contains a nucleotide sequence that serves as the template for new telomere segments at the 3&#39; end of the telo-mere. FIGURE 16.19 shows how telomerase and DNA polymerase work together to lengthen telomeres.
+
+Telomerase is not present in most cells of multicellular organisms like ourselves, and the DNA of dividing somatic cells does tend to be shorter in older individuals and in cultured cells that have divided many times. Thus, it is possible that telomeres are a limiting factor in the life span of certain tissues and even the organism as a whole. In any case, telomerase is present in germ-line cells, those that give rise to gametes. The enzyme produces long telomeres in these cells and hence in the newborn.
+
+Intriguingly, researchers have also found telomerase in somatic cells that are cancerous. Cells from large tumors often have unusually short telomeres, as one would expect for cells that have undergone many cell divisions. Progressive shortening would presumably lead eventually to self-destruction of the cancer unless telomerase became available to stabilize telomere length. This is exactly what seems to happen in cancer cells and also in immortal strains of cultured cells (see Chapter 12). If telomerase is indeed an important factor in many cancers, it may provide a useful target for both cancer diagnosis and chemotherapy.
+
+DNA replication provides the copies of genes that parents pass to offspring via gametes. However, it is not enough that genes be copied and transmitted; they must also be expressed. How do genes manifest themselves in phenotypic characters such as eye color? In the next chapter, we will examine the molecular basis of gene expression--how the cell translates genetic information encoded in DNA.
+
+
+
+

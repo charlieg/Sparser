@@ -1,0 +1,46 @@
+
+ Fermentation enables some cells to produce ATP without the help of oxygen
+
+How can food be oxidized without oxygen? Remember, oxidation refers to the loss of electrons to any electron acceptor, not just to oxygen. Glycolysis oxidizes glucose to two molecules of pyruvate. The oxidizing agent of glycolysis is NAD+, not oxygen. Overall, glycolysis is exergonic, and some of the energy made available is used to produce two ATPs (net) by substrate-level phosphorylation. If oxygen is present, then additional ATP is made by oxidative phosphorylation when NADH passes electrons removed from glucose to the electron transport chain. But glycolysis generates two ATPs whether oxygen is present or not--that is, whether conditions are aerobic or anaerobic (from the Greek aer, air, and bios, life; the prefix an- means "without").
+
+Anaerobic catabolism of organic nutrients can occur by fermentation, as mentioned at the beginning of the chapter. Fermentation is an extension of glycolysis that can generate ATP solely by substrate-level phosphorylation--as long as there is a sufficient supply of NAD+ to accept electrons during the oxidation step of glycolysis. Without some mechanism to recycle NAD+ from NADH, glycolysis would soon deplete the cell's pool of NAD+ and shut itself down for lack of an oxidizing agent. Under aerobic conditions, NAD+ is recycled productively from NADH by the transfer of electrons to the electron transport chain. The anaerobic alternative is to transfer electrons from NADH to pyruvate, the end product of glycolysis.
+
+Fermentation consists of glycolysis plus reactions that regenerate NAD+ by transferring electrons from NADH to pyruvate or derivatives of pyruvate. The NAD+ can then be reused to oxidize sugar by glycolysis, which nets two molecules of ATP by substrate-level phosphorylation. There are many types of fermentation, differing in the waste products formed from pyruvate. Two common types are alcohol fermentation and lactic acid fermentation.
+
+In alcohol fermentation (FIGURE 9.17a), pyruvate is converted to ethanol (ethyl alcohol) in two steps. The first step releases carbon dioxide from the pyruvate, which is converted to the two-carbon compound acetaldehyde. In the second step, acetaldehyde is reduced by NADH to ethanol. This regenerates the supply of NAD+ needed for glycolysis. Alcohol fermentation by yeast, a fungus, is used in brewing and winemaking. Many bacteria also carry out alcohol fermentation under anaerobic conditions.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 9-17. Fermentation. In the absence of oxygen, many cells use fermentation to produce ATP by substrate-level phosphorylation. Pyruvate, the end product of glycolysis, serves as an electron acceptor for oxidizing NADH back to NAD+, which can then be reused in glycolysis. Two of the common waste products formed from fermen-tation are (a) ethanol and (b) lactate, the ionized form of lactic acid.
+
+During lactic acid fermentation (FIGURE 9.17b), pyruvate is reduced directly by NADH to form lactate as a waste product, with no release of CO2. (Lactate is the ionized form of lactic acid.) Lactic acid fermentation by certain fungi and bacteria is used in the dairy industry to make cheese and yogurt. Acetone and methanol (methyl alcohol) are among the by-products of other types of microbial fermentation that are commercially important.
+
+Human muscle cells make ATP by lactic acid fermentation when oxygen is scarce. This occurs during the early stages of strenuous exercise, when sugar catabolism for ATP production outpaces the muscle's supply of oxygen from the blood. Under these conditions, the cells switch from aerobic respiration to fermentation. The lactate that accumulates as a waste product may cause muscle fatigue and pain, but the lactate is gradually carried away by the blood to the liver. Lactate is converted back to pyruvate by liver cells.
+
+Fermentation and Respiration Compared
+
+Fermentation and cellular respiration are anaerobic and aerobic alternatives, respectively, for producing ATP by harvesting the chemical energy of food. Both pathways use glycolysis to oxidize glucose and other organic fuels to pyruvate, with a net production of 2 ATP by substrate-level phosphorylation. And in both fermentation and respiration, NAD+ is the oxidizing agent that accepts electrons from food during glycolysis. A key difference is the contrasting mechanisms for oxidizing NADH back to NAD+, which is required to sustain glycolysis. In fermentation, the final electron acceptor is an organic molecule such as pyruvate (lactic acid fermentation) or acetaldehyde (alcohol fermentation). In respiration, by contrast, the final acceptor for electrons from NADH is oxygen. This not only regenerates the NAD+ required for glycolysis but pays an ATP bonus when the stepwise electron transport from NADH to oxygen drives oxidative phosphorylation. An even bigger ATP payoff comes from the oxidation of pyruvate in the Krebs cycle, which is unique to respiration. Without oxygen, the energy still stored in pyruvate is unavailable to the cell. Thus, cellular respiration harvests much more energy from each sugar molecule than fermentation can. In fact, respiration yields as much as 19 times more ATP per glucose molecule than does fermentation--38 ATP for respiration, compared to 2 ATP produced by substrate-level phosphorylation in fermentation.
+
+Some organisms, including yeasts and many bacteria, can make enough ATP to survive using either fermentation or respiration. Such species are called facultative anaerobes. On the cellular level, our muscle cells behave as facultative anaerobes. In a facultative anaerobe, pyruvate is a fork in the metabolic road that leads to two alternative catabolic routes (FIGURE 9.18). Under aerobic conditions, pyruvate can be converted to acetyl CoA, and oxidation continues in the Krebs cycle. Under anaerobic conditions, pyruvate is diverted from the Krebs cycle, serving instead as an electron acceptor to recycle NAD+. To make the same amount of ATP, a facultative anaerobe would have to consume sugar at a much faster rate when fermenting than when respiring.
+
+
+
+Click image to enlarge
+
+
+
+Fig 9-18. Pyruvate as a key juncture in catabolism. Glycolysis is common to fermentation and respiration. The end product of glycolysis, pyruvate, represents a fork in the catabolic pathways of glucose oxidation. In a cell capable of both respiration and fermentation, pyruvate is committed to one of those two pathways, usually depending on whether or not oxygen is present.
+
+The Evolutionary Significance of Glycolysis
+
+The role of glycolysis in both fermentation and respiration has an evolutionary basis. Ancient prokaryotes probably used glycolysis to make ATP long before oxygen was present in Earth's atmosphere. The oldest known fossils of bacteria date back over 3.5 billion years, but appreciable quantities of oxygen probably did not begin to accumulate in the atmosphere until about 2.7 billion years ago. (According to fossil evidence, the cyanobacteria that produce O2 as a by-product of photosynthesis had evolved by then.) Therefore, the first prokaryotes may have generated ATP exclusively from glycolysis, which does not require oxygen. In addition, glycolysis is the most widespread metabolic pathway, which suggests that it evolved very early in the history of life. The cytosolic location of glycolysis also implies great antiquity; the pathway does not require any of the membrane-enclosed organelles of the eukaryotic cell, which evolved nearly 2 billion years after the prokaryotic cell. Glycolysis is a metabolic heirloom from the earliest cells that continues to function in fermentation and as the first stage in the breakdown of organic molecules by respiration.
+
+
+
+

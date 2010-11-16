@@ -1,0 +1,175 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
+;;; copyright (c) 1992-1999  David D. McDonald  -- all rights reserved
+;;; extensions copyright (c) 2008-2009 BBNT Solutions LLC. All Rights Reserved
+;;; $Id$
+;;;
+;;;     File:  "object"
+;;;   Module:  "model;core:places:"
+;;;  version:  April 2009
+
+;; initiated in 10/12/92 v2.3. Added 'kind of location' 1/17/94.  Added location-
+;; phrase 11/16/95. Added relative-location 11/99. 11/25 Moved in spatial-
+;; orientation (from [words;]). 12/12 fixed choice of category name.
+;; 0.1 (7/13/08) Included a subcategory within define-kind-of-location so we no
+;;   longer have to write kind-specific categories and rules. 
+;; 0.2 (4/19/09) Commented out the relative-location rule because it is
+;;   masking verb-centric categories. 4/27 Added here, there as deictic-locations
+;;   6/15 Added over here, over there as deictic-locations
+;;   7/23 Added a treatment for "from," not sure if I'm happy with it.
+
+(in-package :sparser)
+
+;;;-------------------------------------------------
+;;; base category - not intended to be instantiated
+;;;-------------------------------------------------
+
+(define-category  location
+  :instantiates  self
+  :specializes   nil )
+
+
+(define-autodef-data 'location
+  :display-string "Locations"
+  :not-instantiable t)
+
+
+;;;------------------------------------
+;;; relative (prepositional) locations
+;;;------------------------------------
+
+(define-category  spatial-orientation
+  :specializes location
+  :instantiates :self
+  :binds ((name :primitive word))
+  :realization (:preposition name))
+
+(defun define-spatial-preposition (string)
+  (define-individual 'spatial-orientation :name string))
+
+
+
+(define-category  relative-location  ;; "above the house"
+  :instantiates self
+  :specializes location
+  :binds ((place)
+          (functor spatial-orientation))
+  :realization (:tree-family content-pp
+                :mapping ((type . :self)
+                          (articulator . functor)
+                          (item . place)
+                          (pp . :self)
+                          (preposition . spatial-orientation)
+                          (complement . np))))
+
+
+;;;----------------------
+;;; location description
+;;;----------------------
+
+(define-category  location-description    ;; e.g. "international", "local"
+  :instantiates  self
+  :specializes   location
+  :binds ((name :primitive word))
+  :index (:permanent :key name)
+  :realization (:adjective name))
+
+#| There will also be location-descriptions that are relative to some
+   other location, e.g. "foreign", "overseas", and these will want a
+   specialization of this category that adds that 'reference' location. |#
+
+
+(defun define-location-description (string)
+  (define-individual 'location-description
+    :name string))
+
+(define-autodef-data 'location-description
+  :form 'define-location-description
+  :dossier "dossiers;location descriptions"
+  :display-string "descriptions of locations"
+  :module *location*
+  :description "A word that names a generic location"
+  :examples "\"international\", \"local\"" )
+
+
+
+(define-category  location-phrase       ;; "city-wide", "New York-based"
+  :instantiates location-description
+  :specializes location-description
+  :binds ((place))
+  :index (:key place))
+
+#| there are a lot of these, so I'll set them up off the wb in the
+dossier file [location descriptions]  |#
+
+
+;;;--------------------
+;;; kinds of locations
+;;;--------------------
+
+(define-category  kind-of-location    ;; e.g. "city", "village"
+  :instantiates  self
+  :specializes   location
+  :binds ((name :primitive word))
+  :index (:permanent :key name)
+  :realization (:adjective name))
+
+
+(defun define-kind-of-location (string)
+  (define-individual 'kind-of-location
+    :name string)
+  (let ((word (word-named string)))
+    (unless word (break "bad timing??"))
+    ;; copied from find-or-define-kind
+    (let* ((symbol (intern string (find-package :category))) ;; upcase?
+	   (category (category-named symbol))
+	   ;; This category is for actual cities, wards, etc.
+	   ;; The individual we've created soaks up the word
+	   (exp `(define-category ,symbol
+		     :specializes location)))
+;;      (when category
+;;	(break "Should there already be a ~a category?" symbol))
+      )))
+
+    
+
+(define-autodef-data 'kind-of-location
+  :form 'define-kind-of-location
+  :dossier "dossiers;location kinds"
+  :display-string "kinds of locations"
+  :module *location*
+  :description "A word that names a kind of place"
+  :examples "\"city\", \"lake\"" )
+
+
+;;;------------------------------------------------
+;;; Deictics  -- needs a story about dereferencing
+;;;------------------------------------------------
+
+(define-category  deictic-location 
+  :instantiates  location ;;self
+  :specializes   location
+  :binds ((name :primitive word))
+  :index (:permanent :key name)
+  :realization (:proper-noun name))
+
+(define-individual 'deictic-location :name "over there")
+
+(define-individual 'deictic-location :name "over here")
+
+(define-individual 'deictic-location :name "here")
+
+(define-individual 'deictic-location :name "there")
+
+
+;;;------------------------------------------------
+;;; From  -- is this the best way to do this?
+;;;------------------------------------------------
+
+(define-category  prep-location  ;; for "prepositional location"
+  :instantiates  location ;;self
+  :specializes   location
+  :binds ((name :primitive word))
+  :index (:permanent :key name)
+  :realization (:preposition name))
+
+(define-individual 'prep-location :name "from")

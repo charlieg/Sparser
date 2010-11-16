@@ -1,0 +1,25 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
+;;; copyright (c) 1991-1997  David D. McDonald  -- all rights reserved
+;;; 
+;;;     File:  "loader"
+;;;   Module:  "grammar;rules:SGML:"
+;;;  Version:  June 1996
+
+;; file created 7/91, first populated 10/19/91, order tweeked 10/23
+;; and again 12/9/93.  1/13/94 added [Apple cases]. 6/13 moved them to
+;; [interface;Apple:].  Moved in [defining html] 10/5/95.  Added [sentence]
+;; 6/18/96. Moved [form] in 6/25.
+
+(in-package :sparser)
+
+(gload "SGML;form")
+(gload "SGML;rules")
+(gload "SGML;action")
+(gload "SGML;defining html")
+(gload "SGML;html actions")
+(gload "SGML;DJNS/WSJ cases")
+(gload "SGML;Tipster cases")
+(gload "SGML;DCI cases")
+(gload "SGML;sentence")
+
+

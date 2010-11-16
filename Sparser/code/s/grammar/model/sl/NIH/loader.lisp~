@@ -1,0 +1,18 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
+;;; copyright (c) 1996-1997  David D. McDonald  -- all rights reserved
+;;;
+;;;     File:  "loader"
+;;;   Module:  "model:sl:NIH:"
+;;;  version:  September 1996
+
+;; started 7/21/96. Added [actions] 9/12.
+
+(in-package :sparser)
+
+(gload "nih;gene/protein")
+(gload "nih;receptor")
+(gload "nih;amino acid")
+(gload "nih;actions")
+(gload "nih;site")
+(gload "nih;association")
+

@@ -1,0 +1,24 @@
+
+ Gradients of maternal molecules in the early embryo control axis formation
+
+As previously mentioned, cytoplasmic determinants are the substances that initially establish the axes of theDrosophilabody. Already present in the unfertilized egg, they are encoded by genes of the mother calledmaternal effect genes.A maternal effect gene is a gene that, when mutant in the mother, results in a mutant phenotype in the offspring, regardless of their genotype. In fruit fly development, maternal effect genes encode proteins or mRNA that are placed in the egg while it is still in the mother's ovary. When the mother has a mutation in such a gene, she makes a defective gene product (or none at all), and her eggs are defective; when these eggs are fertilized, they fail to develop properly.
+
+Because they control the orientation (polarity) of the egg and consequently of the fly, maternal effect genes are also calledegg-polarity genes.One group of these genes sets up the anterior-posterior axis of the embryo, while a second group establishes the dorsal-ventral axis. Like mutations in segmentation genes, mutations in these genes are generally embryonic lethals.
+
+How do products of maternal effect genes determine the body axes of the offspring? Let's focus on one important egg-polarity gene,bicoid, and see how it works. The term bicoid means "two-tailed," and an embryo whose mother was defective in this gene lacks the front half of its body. Instead, the embryo has duplicate posterior structures at both ends (FIGURE 21.12a). This phenotype suggested the hypothesis that the product of the mother'sbicoidgene is essential for setting up the anterior end of the fly and that the gene's product is concentrated at the future anterior end. This hypothesis is a more specific version of thegradient hypothesisfirst proposed by embryologists a century ago. According to this idea, gradients of substances calledmorphogensestablish an embryo's axes and other features of its form.
+
+
+
+Click image to enlarge
+
+
+
+Fig 21-12. The effect of thebicoidgene, a maternal effect (egg-polarity) gene inDrosophila.
+
+DNA technology and other modern biochemical methods enabled researchers to test the hypothesis that thebicoidproduct is in fact a morphogen that determines the anterior end of the fly. The researchers cloned thebicoidgene and used it as a DNA probe to learn the location ofbicoidmRNA in the eggs produced by wild-type female flies. As predicted by the hypothesis, thebicoidmRNA is concentrated at the extreme anterior end of the egg cell (FIGURE 21.12b). After the egg is fertilized, the mRNA is translated into protein, which diffuses from the anterior end toward the posterior, resulting in a gradient of protein within the early embryo. These results were consistent with the hypothesis that bicoid protein was responsible for specifying the fly's anterior end. To test the hypothesis more specifically, the scientists injected purebicoidmRNA into various regions of early embryos. The protein that resulted from its translation caused anterior structures to form at the injection sites.
+
+Thebicoidresearch is important for several reasons. First, it led to the identification of a specific protein required for some of the earliest steps in pattern formation. Second, it increased our understanding of the mother's role in the development of an embryo. (As one developmental biologist has put it, "Mom tells Junior which way is up.") Finally, the principle that a gradient of molecules can determine polarity and position has proved to be a key developmental concept, just as early embryologists had thought. InDrosophila, gradients of specific proteins determine the posterior end as well as the anterior and also are responsible for establishing the dorsal-ventral axis. Saturation screening has led to the identification of most of the genes and proteins involved.
+
+
+
+

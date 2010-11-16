@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+
+
+
+<TempEval>
+
+
+
+ ABC<TIMEX3 tid="t93" type="DATE" value="1998-01-20" temporalFunction="false" functionInDocument="CREATION_TIME">19980120</TIMEX3>.1830.0957 
+ NEWS STORY 
+
+
+
+
+
+ <s>For his part, Fidel Castro is the ultimate political survivor.</s> <s>People have <EVENT eid="e1" class="I_ACTION" stem="predict" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">predicted</EVENT> his <EVENT eid="e86" class="OCCURRENCE" stem="demise" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">demise</EVENT> so many times, and the US has <EVENT eid="e2" class="I_ACTION" stem="try" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">tried</EVENT> to <EVENT eid="e4" class="OCCURRENCE" stem="hasten" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">hasten</EVENT> it on
+ several occasions.</s> <s>Time and again, he <EVENT eid="e87" class="OCCURRENCE" stem="endure" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">endures</EVENT>.</s> <s>He has <EVENT eid="e7" class="OCCURRENCE" stem="outlast" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">outlasted</EVENT> and
+ sometimes <EVENT eid="e8" class="OCCURRENCE" stem="outsmart" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">outsmarted</EVENT> eight American presidents.</s>
+ <s>Fidel Castro <EVENT eid="e9" class="OCCURRENCE" stem="invite" aspect="NONE" tense="PAST" polarity="POS" pos="VERB">invited</EVENT> John Paul to <EVENT eid="e11" class="OCCURRENCE" stem="come" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">come</EVENT> for a reason.</s> <s>This is clearly an
+ opportunity for Cuba to look good internationally.</s>
+
+
+ <s>The entire world will <EVENT eid="e15" class="PERCEPTION" stem="see" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">see</EVENT> images of the Pope in Cuba.</s> <s>They'll <EVENT eid="e16" class="PERCEPTION" stem="see" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">see</EVENT> images
+ of
+ the Pope with Fidel Castro.</s> <s>It will <EVENT eid="e18" class="OCCURRENCE" stem="give" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">give</EVENT> the rest of the world the <EVENT eid="e90" class="I_STATE" stem="view" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">view</EVENT>
+ that Cuba is <EVENT eid="e385" class="STATE" stem="like" aspect="NONE" tense="PRESENT" polarity="POS" pos="ADJECTIVE">like</EVENT> any other nation, something the US has, of course,
+ <EVENT eid="e22" class="I_ACTION" stem="try" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">tried</EVENT> to <EVENT eid="e24" class="I_ACTION" stem="persuade" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">persuade</EVENT> the world that it is not .</s>
+
+
+ <s>For <TIMEX3 tid="t94" type="DURATION" value="P40Y" mod="EQUAL_OR_LESS" temporalFunction="false" functionInDocument="NONE">nearly forty years</TIMEX3>, the United States has <EVENT eid="e26" class="REPORTING" stem="say" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">said</EVENT> categorically it would not <EVENT eid="e99" class="I_ACTION" stem="tolerate" aspect="NONE" tense="NONE" polarity="NEG" pos="VERB">tolerate</EVENT> totalitarian <EVENT eid="e97" class="STATE" stem="rule" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">rule</EVENT> in its own backyard.</s> <s>It is the US economic
+ and political <EVENT eid="e240" class="OCCURRENCE" stem="embargo" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">embargo</EVENT> which has <EVENT eid="e30" class="ASPECTUAL" stem="keep" aspect="PERFECTIVE" tense="PRESENT" polarity="POS" pos="VERB">kept</EVENT> Cuba <EVENT eid="e381" class="STATE" stem="in" aspect="NONE" tense="NONE" polarity="POS" pos="PREPOSITION">in</EVENT> a box.</s>
+
+
+ <s>The main positive for Castro to <EVENT eid="e32" class="OCCURRENCE" stem="invite" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">invite</EVENT> the Pope is international, to be
+ <EVENT eid="e100" class="I_STATE" stem="able" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="ADJECTIVE">able</EVENT>
+ to <EVENT eid="e35" class="REPORTING" stem="say" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">say</EVENT> to the rest of the world, this government is not  as <EVENT eid="e382" class="STATE" stem="closed" aspect="NONE" tense="PRESENT" polarity="NEG" pos="ADJECTIVE">closed</EVENT>, as
+ <EVENT eid="e383" class="STATE" stem="intolerant" aspect="NONE" tense="PRESENT" polarity="NEG" pos="ADJECTIVE">intolerant</EVENT>, uh as <EVENT eid="e384" class="STATE" stem="totalitarian" aspect="NONE" tense="PRESENT" polarity="NEG" pos="ADJECTIVE">totalitarian</EVENT> as some <EVENT eid="e38" class="I_ACTION" stem="make" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">make</EVENT> it out to be.</s>
+
+
+ <s>One of the scenarios widely <EVENT eid="e103" class="REPORTING" stem="advance" aspect="NONE" tense="PASTPART" polarity="POS" pos="VERB">advanced</EVENT> before the <EVENT eid="e42" class="OCCURRENCE" stem="visit" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visit</EVENT> is that through the
+ Pope, Cuba, still <EVENT eid="e44" class="OCCURRENCE" stem="lead" aspect="NONE" tense="PASTPART" polarity="POS" pos="VERB">led</EVENT> by Castro, can <EVENT eid="e45" class="ASPECTUAL" stem="begin" aspect="NONE" tense="NONE" polarity="POS" pos="VERB">begin</EVENT> a more productive <EVENT eid="e107" class="STATE" stem="relationship" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">relationship</EVENT>
+ with the world.</s> <s>That will, in turn, <EVENT eid="e48" class="OCCURRENCE" stem="bring" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">bring</EVENT> pressure on Washington to <EVENT eid="e50" class="OCCURRENCE" stem="change" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">change</EVENT>.</s>
+
+
+ <s>Those observers <EVENT eid="e51" class="I_ACTION" stem="look" aspect="NONE" tense="PRESPART" polarity="POS" pos="VERB">looking</EVENT> for a <EVENT eid="e52" class="OCCURRENCE" stem="battle" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">battle</EVENT> between uncompromising representatives
+ and very different ideologies will, in all likelihood, be <EVENT eid="e53" class="STATE" stem="disappoint" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">disappointed</EVENT>.</s>
+
+
+ <s>Castro has said that you can be a Communist and still be a
+ Christian.</s> <s>He <EVENT eid="e56" class="REPORTING" stem="say" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">says</EVENT> he and the Pope both <EVENT eid="e57" class="I_STATE" stem="want" aspect="NONE" tense="PRESENT" polarity="POS" pos="VERB">want</EVENT> to <EVENT eid="e59" class="ASPECTUAL" stem="end" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">end</EVENT> the <EVENT eid="e60" class="OCCURRENCE" stem="exploitation" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">exploitation</EVENT> of
+ man by man.</s> <s>The question is who will Cubans <EVENT eid="e378" class="STATE" stem="believe" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">believe</EVENT>?</s>
+
+
+ <s>The main negative is the <EVENT eid="e109" class="I_STATE" stem="risk" aspect="NONE" tense="PRESENT" polarity="POS" pos="NOUN">risk</EVENT> that the Pope's <EVENT eid="e63" class="OCCURRENCE" stem="visit" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visit</EVENT> will <EVENT eid="e64" class="I_ACTION" stem="persuade" aspect="NONE" tense="FUTURE" polarity="POS" pos="VERB">persuade</EVENT> a great
+ many more Cubans to <EVENT eid="e66" class="OCCURRENCE" stem="break" aspect="NONE" tense="INFINITIVE" polarity="POS" pos="VERB">break</EVENT> loose of the Cuban government.</s> <s>If so, then the
+ Pope's <EVENT eid="e67" class="OCCURRENCE" stem="visit" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">visit</EVENT> would really <EVENT eid="e112" class="ASPECTUAL" stem="open" aspect="NONE" tense="NONE" polarity="POS" pos="ADJECTIVE">open</EVENT> up a new chapter in the government's
+ <EVENT eid="e69" class="OCCURRENCE" stem="relation" aspect="NONE" tense="NONE" polarity="POS" pos="NOUN">relations</EVENT> with its own society.</s> <s>For the Cuban government, that is the
+ risk.</s>
+
+
+ <s>At the end of the broadcast this evening, one more trip around Havana to see
+ what it's been like since the last time.</s> <s>And in just a moment Diane Sawyer will have some other news.</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" eventID="e26" relatedToTime="t94" task="A"/>
+<TLINK lid="l2" relType="UNKNOWN" eventID="e2" relatedToTime="t93" task="B"/>
+<TLINK lid="l3" relType="UNKNOWN" eventID="e11" relatedToTime="t93" task="B"/>
+<TLINK lid="l4" relType="UNKNOWN" eventID="e15" relatedToTime="t93" task="B"/>
+<TLINK lid="l5" relType="UNKNOWN" eventID="e16" relatedToTime="t93" task="B"/>
+<TLINK lid="l6" relType="UNKNOWN" eventID="e18" relatedToTime="t93" task="B"/>
+<TLINK lid="l7" relType="UNKNOWN" eventID="e22" relatedToTime="t93" task="B"/>
+<TLINK lid="l8" relType="UNKNOWN" eventID="e26" relatedToTime="t93" task="B"/>
+<TLINK lid="l9" relType="UNKNOWN" eventID="e38" relatedToTime="t93" task="B"/>
+<TLINK lid="l10" relType="UNKNOWN" eventID="e35" relatedToTime="t93" task="B"/>
+<TLINK lid="l11" relType="UNKNOWN" eventID="e45" relatedToTime="t93" task="B"/>
+<TLINK lid="l12" relType="UNKNOWN" eventID="e50" relatedToTime="t93" task="B"/>
+<TLINK lid="l13" relType="UNKNOWN" eventID="e57" relatedToTime="t93" task="B"/>
+<TLINK lid="l14" relType="UNKNOWN" eventID="e56" relatedToTime="t93" task="B"/>
+<TLINK lid="l15" relType="UNKNOWN" eventID="e378" relatedToTime="t93" task="B"/>
+</TempEval>

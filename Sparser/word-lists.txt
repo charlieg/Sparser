@@ -1,0 +1,54 @@
+Wandering around my hard drive -- ddm 6/17-18/09
+
+ ~/Library/ ddm/Moby-lexicon 
+ 	    Has subdirectories pointing to such things as
+
+	   mobythes.aur -- the head elements of an assembled
+	          thesaurus. Sort of unorganized syn sets
+		  
+	    mobyposi -- a 273 thousand word list with POS for each word. Would
+	        need a lemmatizer to set it up correctly
+
+            10001fr.equ -- List of the thousand most frequent words
+                taken from various sources.
+
+
+  ~/apps/nlp/snapshot_G4_1-2-07/nlp/Fawkes/model/
+
+	Has a set of categories and associated paradigms in Zo
+	format. Almost completely oriented towards emotional valience
+	in the Monster though.
+
+		generic-verbs, prince-lists, general-categories
+
+
+ ~/Library/ ddm/WordNet/2.1/dict/
+ 	    Has files by POS with implicit structure. E.g. adv.exc, verb.exc 
+	    have parts of the paradigm on a single line.
+
+	      verb.Framestext has the number to paradigm concordance
+	        for the verbs so that gives us some information about
+	        constructions. Might go with the raw list in
+	        index.verb and work out given a one-off parser but we
+	        need the decoder ring.
+
+~/Library/ ddm/verbnet/v1.5 
+
+          Knows a lot about a relatively small number of verbs, with
+          cross reference to Beth Levin's classes.  It's in XML --
+          there are cross references to WN synsets.
+
+~/Library/ ddm/Molokini-libary/downloaded code/nltk-data-0.3/
+
+	   Lots of good stuff. The 1911 Rogets, excepts from
+	   gutenberg, the Brown corpus, Beth Levin's classes (in some
+	   form -- haven't unzipped it).
+
+	   The /lexicon subdirectory has the wordlists from Brown and
+	   WSJ with POS information but not lemmatized.
+
+	   The Brown corpus itself is the raw text, sentence by
+	   sentence, with POS after each word. Separated into a bunch
+	   of files presumably by article. Mixed case. Not
+	   self-evident where the tag set is taken from.
+

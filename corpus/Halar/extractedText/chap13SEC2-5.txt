@@ -1,0 +1,56 @@
+
+ Sexual life cycles produce genetic variation among offspring
+
+In species that reproduce sexually, the behavior of chromosomes during meiosis and fertilization is responsible for most of the variation that arises each generation. Let's examine three mechanisms that contribute to the genetic variation arising from sexual reproduction: independent assortment of chromosomes, crossing over, and random fertilization.
+
+Independent Assortment of Chromosomes
+
+One way sexual reproduction generates genetic variation is shown in FIGURE 13.9, which features meiosis of a diploid cell with two homologous pairs of chromosomes. The red and blue colors distinguishing the maternal and paternal chromosomes of each homologous pair allow us to track individual chromosomes as meiosis proceeds and they are packaged in gametes. At metaphase I, the homologous pairs of chromosomes, each consisting of one maternal and one paternal chromosome, are situated on the metaphase plate. The orientations of the homologous pairs relative to the poles of the cell are random; there are two alternative possibilities for each pair. Thus, there is a fifty-fifty chance that a particular daughter cell of meiosis I will get the maternal chromosome of a certain homologous pair and a fifty-fifty chance that it will receive the paternal chromosome.
+
+
+
+Click image to enlarge
+
+
+
+Fig 13-9. The results of alternative arrangements of two homologous chromosome pairs on the metaphase plate in meiosis I. In this figure we consider the consequences of meiosis in a hypothetical organism with a diploid chromosome number of 4 (2n = 4). The parental origins of the chromosomes are designated with different colors, blue for chromosomes inherited from one parent, red for chromosomes from the other parent. The positioning of each homologous pair of chromosomes at metaphase I is a matter of chance and determines which chromosomes will be packaged together in the haploid daughter cells.
+
+Because each homologous pair of chromosomes is positioned independently of the other pairs at metaphase I--its orientation is as random as the flip of a coin--the first meiotic division results in independent assortment of maternal and paternal chromosomes into daughter cells. Each gamete represents one outcome of all possible combinations of maternal and paternal chromosomes. The number of combinations possible for gametes formed by meiosis starting with two homologous pairs of chromosomes (2n = 4, n = 2) is four, as shown in FIGURE 13.9. (Only two of the four combinations of gametes shown in the figure would result from meiosis of a single diploid cell, but starting with a large number of diploid cells, gametes of all four types would be produced in approximately equal numbers.) In the case of n = 3, eight combinations of chromosomes are possible for gametes. More generally, the number of combinations possible when chromosomes assort independently into gametes during meiosis is 2n, where n is the haploid number of the organism.
+
+In the case of humans, the haploid number (n) in the formula is 23. Thus, the number of possible combinations of maternal and paternal chromosomes in the resulting gametes is 223, or about 8 million. The variety of gametes is analogous to the different combinations of heads and tails possible for the simultaneous tossing of 23 coins. Thus, each gamete that a human produces contains one of roughly 8 million possible assortments of chromosomes inherited from that individual's mother and father.
+
+Crossing Over
+
+As a consequence of the independent assortment of chromosomes during meiosis, each of us produces a collection of gametes differing greatly in their combinations of the chromosomes we inherited from our two parents. But from what you have learned so far, it would seem that each individual chromosome in a gamete would be exclusively maternal or paternal in origin; that is, it would consist of DNA derived from our mother or father, but not from both. In fact, this is not the case. The process called crossing over produces recombinant chromosomes, which combine genes inherited from our two parents (FIGURE 13.10).
+
+
+
+Click image to enlarge
+
+
+
+Fig 13-10. The results of crossing over during meiosis. During prophase of meiosis I, nonsister chromatids of homologous chromosomes exchange corresponding segments. Following these chromosomes through meiosis, we can see that crossing over gives rise to recombinant chromosomes, individual chromosomes that have some combination of DNA originally derived from two different parents.
+
+Recent research has revealed that crossing over begins very early in prophase I, as homologous chromosomes pair loosely along their lengths and before the synaptonemal complex forms between them. The pairing is precise, the homologues aligning with each other gene by gene. In crossing over, homologous portions of two nonsister chromatids trade places. (For humans, an average of two or three such crossover events occur per chromosome pair.) After the synaptonemal complex disappears, the locations where these genetic exchanges have occurred are visible as chiasmata.
+
+At metaphase II, chromosomes that contain one or more recombinant chromatids can be oriented in two alternative, nonequivalent ways with respect to other chromosomes, because their sister chromatids are no longer identical twins. The independent assortment of these nonidentical sister chromatids during meiosis II increases still more the number of genetic types of gametes that can result from meiosis.
+
+You will learn more about crossing over in Chapter 15. The important point for now is that crossing over, by combining DNA inherited from two parents into a single chromosome, is an important source of genetic variation in sexual life cycles.
+
+Random Fertilization
+
+The random nature of fertilization adds to the genetic variation arising from meiosis. Consider a zygote resulting from a mating between a woman and a man. A human ovum, representing one of approximately 8 million possible chromosome combinations, is fertilized by a single sperm cell, which represents one of 8 million different possibilities. Thus, even without considering crossing over, any two parents will produce a zygote with any of about 64 trillion (8 million &#160;X&#160; 8 million) diploid combinations. (If you calculate 223&#160;X&#160; 223 exactly, you will find that the total is actually over 70 trillion.) Adding in the variation brought about by crossing over, the number of possibilities is truly astronomical. No wonder brothers and sisters can be so different. You really are unique.
+
+So far, we have seen that there are three sources of genetic variability in a sexually reproducing population of organisms:
+
+Independent assortment of homologous chromosomes during meiosis I (and of nonidentical sister chromatids during meiosis II)
+
+Crossing over between homologous chromosomes during prophase of meiosis I
+
+Random fertilization of an ovum by a sperm
+
+All three mechanisms reshuffle the various genes carried by the individual members of a population. However, as you will learn in subsequent chapters, mutations are what ultimately create a population's diversity of genes.
+
+
+
+

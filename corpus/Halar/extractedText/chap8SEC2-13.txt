@@ -1,0 +1,28 @@
+
+ Exocytosis and endocytosis transport large molecules
+
+Water and small solutes enter and leave the cell by passing through the lipid bilayer of the plasma membrane or by being pumped or carried across the membrane by transport proteins. Large molecules, such as proteins and polysaccharides, generally cross the membrane by a different mechanism involving vesicles. As we described in Chapter 7, the cell secretes macromolecules by the fusion of vesicles with the plasma membrane; this is exocytosis. A transport vesicle that has budded from the Golgi apparatus moves along fibers of the cytoskeleton to the plasma membrane. When the vesicle membrane and plasma membrane come into contact, the lipid molecules of the two bilayers rearrange themselves so that the two membranes fuse. The contents of the vesicle then spill to the outside of the cell (see FIGURE 8.8).
+
+Many secretory cells use exocytosis to export their products. For example, certain cells in the pancreas manufacture the hormone insulin and secrete it into the blood by exocytosis. Another example is the neuron, or nerve cell, which uses exocytosis to release chemical signals that stimulate other neurons or muscle cells (see FIGURE 2.18). When plant cells are making walls, exocytosis delivers carbohydrates from Golgi vesicles to the outside of the cell.
+
+In endocytosis, the cell takes in macromolecules and particulate matter by forming new vesicles from the plasma membrane. The steps are basically the reverse of exocytosis. A small area of the plasma membrane sinks inward to form a pocket. As the pocket deepens, it pinches in, forming a vesicle containing material that had been outside the cell.
+
+There are three types of endocytosis: phagocytosis ("cellular eating"), pinocytosis ("cellular drinking"), and receptor-mediated endocytosis. In phagocytosis, a cell engulfs a particle by wrapping pseudopodia around it and packaging it within a membrane-enclosed sac large enough to be classified as a vacuole (FIGURE 8.19a, p. 152). The particle is digested after the vacuole fuses with a lysosome containing hydrolytic enzymes. In pinocytosis, the cell "gulps" droplets of extracellular fluid into tiny vesicles (FIGURE 8.19b). Because any and all solutes dissolved in the droplet are taken into the cell, pinocytosis is unspecific in the substances it transports. In contrast, receptor-mediated endocytosis is very specific (FIGURE 8.19c). Embedded in the membrane are proteins with specific receptor sites exposed to the extracellular fluid. The extracellular substances that bind to the receptors are called ligands, a general term for any molecule that binds specifically to a receptor site of another molecule (from the Latin ligare, to bind). The receptor proteins are usually clustered in regions of the membrane called coated pits, which are lined on their cytoplasmic side by a fuzzy layer of protein. These coat proteins probably help deepen the pit and form the vesicle. After the ingested material is liberated from the vesicle for metabolism, the receptors are recycled to the plasma membrane.
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-19. The three types of endocytosis in animal cells.
+
+Receptor-mediated endocytosis enables the cell to acquire bulk quantities of specific substances, even though those substances may not be very concentrated in the extracellular fluid. For example, human cells use the process to take in cholesterol for use in the synthesis of membranes and as a precursor for the synthesis of other steroids. Cholesterol travels in the blood in particles called low-density lipoproteins (LDLs), complexes of lipids and proteins. These particles bind to LDL receptors on membranes and then enter the cells by endocytosis. In humans with familial hypercholesterolemia, an inherited disease characterized by a very high level of cholesterol in the blood, the LDL receptor proteins are defective, and the LDL particles cannot enter cells. Cholesterol accumulates in the blood, where it contributes to early atherosclerosis (the buildup of fat deposits on blood vessel linings).
+
+Vesicles not only transport substances between the cell and its surroundings but also provide a mechanism for rejuvenating or remodeling the plasma membrane. Endocytosis and exocytosis occur continually to some extent in most eukaryotic cells, and yet the amount of plasma membrane in a nongrowing cell remains fairly constant over the long run. Apparently, the addition of membrane by one process offsets the loss of membrane by the other.
+
+Energy and cellular work have figured prominently in our study of membranes. We have seen, for example, that active transport is powered by ATP. In the next two chapters, you will learn more about how cells acquire chemical energy to do the work of life. We'll call membranes back for an encore in these chapters, as they play a major role in how mitochondria and chloroplasts make energy available to cells.
+
+
+
+

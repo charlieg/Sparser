@@ -1,0 +1,140 @@
+
+ Populations may be linked by competition, predation, mutualism, and commensalism
+
+The possible interspecific interactions are introduced in TABLE 53.1. In this simplified view, we use a pair of signs, such as +/-, to symbolize how an interspecific interaction affects the population densities of the two species. For example, mutual symbiosis (mutualism) is a +/+ interaction, meaning that the density of each species is increased in the presence of the other. Predation is an example of a +/- interaction, with a positive effect on the population density of one species (the predator) and a negative effect on the density of the other population (the prey).
+
+Table 53-1. Interspecific Interactions
+
+InteractionEffects on Population DensityCompetition (-/-)The interaction is detrimental to both species.Predation (+/-) (includes parasitism)The interaction is beneficial to one species and detrimental to the other.Mutualism (+/+)The interaction is beneficial to both species.Commensalism (+/0)One species benefits from the interaction but the other is unaffected.Competition
+
+Interspecific competition for resources can occur when resources are in short supply. The weeds growing in a garden are competing with garden plants for soil nutrients and water. Grasshoppers and bison compete in the Great Plains for the grass they eat. Lynx and foxes compete for prey such as snowshoe hares in the northern forests of Alaska and Canada. There is a potential for competition between any two species that need the same limited resource. Some resources, such as oxygen, are not usually in short supply, and although many species use this resource, they do not compete for it. If two populations do compete for a resource, the result may be a reduction in the density of one or both species or the local elimination of one of the two competitors.
+
+The Competitive Exclusion Principle. In 1934, Russian ecologist G. F. Gause studied the effects of interspecific competition in laboratory experiments with two closely related species of protists, Paramecium aurelia and Paramecium caudatum. Gause cultured the protists under stable conditions with a constant amount of food added every day. When he grew the two species in separate cultures, each population grew rapidly and then leveled off at what was apparently the carrying capacity of the culture. But when Gause cultured the two species together, P. aurelia apparently had a competitive edge in obtaining food, and P. caudatum was driven to extinction in the culture. Gause concluded that two species so similar that they compete for the same limiting resources cannot coexist in the same place. One will use the resources more efficiently and thus reproduce more rapidly. Even a slight reproductive advantage will eventually lead to local elimination of the inferior competitor. Ecologists call Gause's concept the competitive exclusion principle.
+
+The Ecological Niche. The sum total of a species' use of the biotic and abiotic resources in its environment is called the species' ecological niche. One way to grasp the concept is through an analogy made by ecologist Eugene Odum: If an organism's habitat is its address, the niche is that habitat plus the organism's occupation. Put another way, an organism's niche is its ecological role--how it "fits into" an ecosystem. The niche of a population of tropical tree lizards, for example, consists of, among many other components, the temperature range it tolerates, the size of branches on which it perches, the time of day in which it is active, and the size and type of insects it eats.
+
+We can now restate the competitive exclusion principle to say that two species cannot coexist in a community if their niches are identical. However, ecologically similar species can coexist in a community if there are one or more significant differences in their niches. Numerous tests of competitive exclusion hypotheses include classic field experiments with two species of barnacles that attach to intertidal rocks on the North Atlantic coast (FIGURE 53.2).
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-2. Testing a competitive exclusion hypothesis in the field. Balanus balanoides and Chthamalus stellatus are two species of barnacles that grow on rocks exposed during low tide along the Scottish coast. The barnacles have a stratified distribution, with Balanus most concentrated on the lower portions of the rocks and Chthamalus on the higher portions. The swimming larvae of the barnacles may settle randomly on the rocks and begin to develop into sessile adults, but Balanus fails to survive high on the rocks because it is unable to resist desiccation when these areas are exposed to air for several hours during low tides. Its fundamental niche (potential niche) and its realized niche (actual niche) are similar. Even though Chthamalus is concentrated primarily on the upper strata of rocks, when ecologist Joseph Connell removed Balanus from the lower strata, the Chthamalus population spread into that area. Thus, Chthamalus could survive lower on the rocks than where it is generally found, were it not for competition from Balanus. Its realized niche is only a fraction of its fundamental niche.
+
+Resource Partitioning. There are two possible outcomes of competition between species having identical niches: Either the less competitive species will be driven to local extinction, or one of the species may evolve enough through natural selection to use a different set of resources. This differentiation of niches that enables similar species to coexist in a community is called resource partitioning (FIGURE 53.3, p. 1178). We can think of resource partitioning within a community as "the ghost of competition past"--circumstantial evidence of earlier interspecific competition resolved by the evolution of niche differentiation.
+
+a.
+
+b.
+
+c.
+
+Click image to enlarge
+
+
+
+Fig 53-3. Resource partitioning in a group of lizards.
+
+Character Displacement. As a complement to studies of resource partitioning, a related line of circumstantial evidence for the importance of competition comes from comparisons of closely related species whose populations are sometimes sympatric and sometimes allopatric. Although allopatric populations of such species are similar in structure and use similar resources, sympatric populations often show differences in body structures and in the resources they use. The tendency for characteristics to be more divergent in sympatric populations of two species than in allopatric populations of the same two species is called character displacement. The Gal&aacute;pagos finches described in Chapter 25 provide a good example of character displacement in beak sizes and, presumably, in the seeds that they can eat most efficiently. Allopatric populations of Geospiza fuliginosa and G. fortis have beaks of similar size, but on an island where both species occur, a significant difference in beak depth has evolved (FIGURE 53.4, p. 1178). This difference presumably enables the two species to avoid competition by feeding on seeds of different sizes and probably represents an evolutionary outcome of past competition.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-4. Character displacement: circumstantial evidence for competition in nature. Although allopatric populations of potential competitors are often similar in morphology and use equivalent resources, sympatric populations may diverge in both characteristics. In this example, two species of Gal&eacute;pagos finches have similar beak morphologies and presumably eat similarly sized seeds where their populations are allopatric on Daphne and Los Hermanos islands. However, where the two species are sympatric on Santa Mar&iacute;a and San Crist&oacute;bal, Geospiza fuliginosa has a shallower, smaller beak and G. fortis a deeper, larger one. Such evolutionary changes in body structure are thought to reflect resource partitioning. In this case, the two species have adapted to eating different sizes of seeds.
+
+Predation
+
+The term predation illicits such images as a lion killing and eating an antelope or other prey. But ecologists extend the definition of predation to include herbivory, in which an herbivore such as a bison eats part of a plant, and parasitism, in which a parasite lives on or in its host organism and depends on the host species for nutrition.
+
+It won't surprise you that predation is a potent factor in adaptive evolution. Eating and avoiding being eaten are prerequisite to reproductive success. Natural selection refines the adaptations of both predators and prey.
+
+Predator Adaptations. Many important feeding adaptations of predators are both obvious and familiar. Most predators have acute senses that enable them to locate and identify potential prey. In addition, many predators have adaptations such as claws, teeth, fangs, stingers, or poison that help catch and subdue the organisms on which they feed. Rattlesnakes and other pit vipers, for example, locate their prey with special heat-sensing organs located between each eye and nostril, and they kill small birds and mammals by injecting them with toxins through their fangs. Similarly, many herbivorous insects locate appropriate food plants by the using chemical sensors on their feet, and their mouthparts are adapted for shredding tough vegetation. Predators that pursue their prey are generally fast and agile, whereas those that lie in ambush are often camouflaged in their environments.
+
+Plant Defenses Against Herbivores. Plants cannot run away from herbivores. Chemical toxins, often in combination with antipredator spines and thorns, are a plant's main arsenal against being eaten to extinction. Among such chemical weapons are the poison strychnine, produced by the tropical vine Strychnos toxifera; morphine, from the opium poppy; nicotine, from the tobacco plant; mescaline, from peyote cactus; and tannins, from a variety of plant species. Other defensive compounds that are not toxic to humans but may be distasteful to other herbivores are responsible for the familiar flavors of cinnamon, cloves, and peppermint. Some plants even produce chemicals that imitate insect hormones and cause abnormal development in some insects that eat them.
+
+Animal Defenses Against Predators. Animals can avoid being eaten by using passive defenses, such as hiding, or active defenses, such as escaping or defending themselves against predators. Fleeing is a common antipredator response, though it can be very costly in terms of energy. Many animals flee into a shelter and avoid being caught without expending the energy required for a prolonged flight. Active self-defense is less common, though some large grazing mammals will vigorously defend their young from predators such as lions. Other behavioral defenses include alarm calls, which often bring in many individuals of the prey species that mob the predator. For example, crows will sometimes gang up and peck on barn owls, which prey on crow eggs.
+
+Many other defenses rely on adaptive coloration, which has evolved repeatedly among animals. Camouflage, or cryptic coloration, is a passive defense that makes potential prey difficult to spot against its background (FIGURE 53.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-5. Camouflage: a canyon tree frog disappearing into a background of granite.
+
+Some animals have mechanical or chemical defenses against would-be predators (see the interview with Thomas Eisner on p. 24). Most predators are strongly discouraged by the familiar defenses of skunks and porcupines. Some animals, such as poisonous toads and frogs, can synthesize toxins. Others acquire chemical defense passively by accumulating toxins from the plants they eat. For example, monarch butterflies store poisons from the milkweed plants they eat as larvae, making the butterflies distasteful to some potential predators.
+
+Animals with effective chemical defenses are often brightly colored, a warning to predators known as aposematic coloration (FIGURE 53.6). This warning coloration seems to be adaptive; there is evidence that predators are more cautious in dealing with bright color patterns in potential prey, perhaps because so many aposematic animals tend to be dangerous prey. In an example of convergent evolution, unpalatable animals in several different taxa have similar patterns of coloration--black with yellow or red stripes characterize unpalatable animals as diverse as yellow-jacket wasps and coral snakes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-6. Aposematic (warning) coloration of a poison-arrow frog. The skin of this tree frog, an inhabitant of rain forests in Costa Rica, produces noxious chemicals. Predators apparently learn to associate the vivid markings of the frog with danger as soon as they touch the frog's skin. In some parts of South America, human hunters in the rain forest tip their arrows with poisons from similar frogs to bring down large mammals.
+
+A species of prey may gain significant protection through mimicry, a "copycat" adaptation in which one species mimics the appearance of another. In Batesian mimicry, a palatable or harmless species mimics an unpalatable or harmful model. In one intriguing example, the larva of the hawkmoth puffs up its head and thorax when disturbed, looking like the head of a small poisonous snake, complete with eyes (FIGURE 53.7). The mimicry even involves behavior; the larva weaves its head back and forth and hisses like a snake. In M&uuml;llerian mimicry, two or more unpalatable species resemble each other. Presumably, each species gains an additional advantage because the pooling of numbers causes predators to learn more quickly to avoid any prey with a particular appearance (FIGURE 53.8).
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-7. Batesian mimicry. When disturbed, (a) the hawkmoth larva resembles (b) a snake.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-8. M&uuml;llerian mimicry. Both (a) the cuckoo bee and (b) the yellow jacket wasp have stingers that release toxins. The cross-mimicry in appearance presumably benefits both species because predators learn more quickly to avoid any prey with these distinctive markings.
+
+Predators also use mimicry in a variety of ways. For example, some snapping turtles have tongues that resemble a wriggling worm, thus luring small fish; any fish that tries to eat the "bait" is itself quickly consumed as the turtle's strong jaws snap closed.
+
+Parasites and Pathogens as Predators. Parasitism is a symbiotic interaction in which one organism, the parasite, derives its nourishment from another organism, its host, which is harmed in the process. (Note that this text adopts the most general definition of symbiosis as including parasitism, commensalism, and mutualism, which are all discussed in this chapter. However, some biologists prefer to use the term symbiosis more specifically as a synonym for mutualism.)
+
+Parasites that live within their host, such as tapeworms and malarial parasites, are called endoparasites; parasites that feed on the external surface of a host, such as mosquitoes and aphids, are called ectoparasites. In a special type of parasitism called parasitoidism, insects--usually small wasps--lay eggs on living hosts. The larvae then feed on the body of the host, eventually killing it.
+
+In terms of their effects, pathogens, or disease-causing organisms, are similar to parasites. Pathogens are typically bacteria, viruses, or protists, but fungi and prions (protein bodies; see Chapter 18) may also be pathogenic. In contrast to pathogens, which are generally microscopic, many parasites are relatively large, multicellular organisms, such as tapeworms. Also, most parasites inflict nonlethal damage on their hosts--by pilfering nutrients, for example--while many pathogens can inflict lethal harm.
+
+Mutualism
+
+Mutual symbiosis, or mutualism, is an interspecific interaction that benefits both species. Mutualistic relationships sometimes require the coevolution of adaptations in both participating species. Changes in either species are likely to affect the survival and reproduction of the other. We have described many examples of mutualism in previous chapters: nitrogen fixation by bacteria in the root nodules of legumes; the digestion of cellulose by microorganisms in the digestive systems of termites and ruminant mammals; photosynthesis by unicellular algae in the tissues of corals: and the exchange of nutrients in mycorrhizae, the association of fungi and the roots of plants. FIGURE 53.9 illustrates another example, a mutualism between ants and acacia trees in Central and South America.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-9. Mutualism between acacia trees and ants. Certain species of Central and South American acacia trees have hollow thorns that house stinging ants of the genus Pseudomyrmex. The ants feed on sugar produced by nectaries on the tree and on protein-rich swellings called Beltian bodies (orange in the photograph) that grow at the tips of leaflets. The acacia benefits from housing and feeding a population of pugnacious ants, which attack anything that touches the tree. The ants sting other insects, remove fungal spores and other debris, and clip surrounding vegetation that happens to grow close to the foliage of the acacia.
+
+Many mutualistic relationships may have evolved from predator-prey or host-parasite interactions. Most angiosperm plants, for example, have adaptations that attract animals that function in pollination or seed dispersal. Any plants that could derive some benefit by sacrificing such organic materials as nectar rather than pollen or seeds would increase their reproductive success.
+
+Commensalism
+
+Commensalism is an interaction between species that benefits only one of the species involved in the interaction. "Hitchhiking" species, such as algae that grow on the shells of aquatic turtles or barnacles that attach to whales, are sometimes considered commensal. However, the hitchhikers may actually decrease the reproductive success of their hosts slightly by reducing the efficiency of movement in the hosts' search for food or escape from predators.
+
+Commensal associations sometimes involve one species obtaining food that is inadvertently exposed by another. For instance, cowbirds and cattle egrets (also birds) feed on insects flushed out of the grass by grazing bison, cattle, horses, and other herbivores. Because the birds increase their feeding rates when following the herbivores, they clearly benefit from the association. Much of the time, the herbivores may be unaffected by the relationship. However, there are times when they, too, derive some benefit; the birds tend to be opportunistic feeders that occasionally remove and eat ticks and other ectoparasites from the herbivores.
+
+Coevolution and Interspecific Interactions
+
+In describing the adaptations of certain organisms to the presence of other organisms in a community, the term coevolution comes up often--perhaps too often. There is actually little evidence for coevolution in most cases of interspecific interactions.
+
+Coevolution refers to reciprocal evolutionary adaptations of two interacting species. A change in one species acts as a selective force on another species, in which counteradaptation in turn acts as a selective force on the first species. This linkage of adaptations requires reciprocal genetic change in the interacting populations of the two species. An example of such dual adaptation that probably qualifies as coevolution is the gene-for-gene recognition between a plant species and a species of avirulent pathogen (see FIGURE 39.31). In contrast, the warning coloration of various tree frogs and the aversion reactions of various predators do not qualify as coevolution because these are adaptations to a category of other organisms in the community rather than coupled adaptation between just two species.
+
+Despite the current view that coevolution is difficult to demonstrate for most interspecific interactions in communities, biologists agree more generalized adaptation of organisms to other organisms in their environment--to biotic factors--is a fundamental feature of life. Which of the biological interactions we have surveyed is most important in structuring communities? At the present time, most ecologists think that predation and competition are the key processes driving community dynamics. But this conclusion is based mainly on research in temperate communities. Ecologists have far fewer data for interspecific interactions in tropical communities.
+
+
+
+

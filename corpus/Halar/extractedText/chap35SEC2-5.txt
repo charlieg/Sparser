@@ -1,0 +1,32 @@
+
+ Meristems generate cells for new organs throughout the lifetime of a plant: an overview of plant growth
+
+Most plants continue to grow as long as the plant lives, a condition known as indeterminate growth. In contrast, most animals and certain plant organs, such as flowers and leaves, undergo determinate growth; that is, they cease growing after reaching a certain size. Indeterminate growth does not imply immortality. Although they continue to grow throughout their lives, plants, of course, do die. Plants known as annuals complete their life cycle--from germination through flowering and seed production to death--in a single year or less. Many wildflowers are annuals, as are the most important food crops, including the cereal grains and legumes. A plant is called a biennial if its life generally spans two years. In many cases, plants with this biennial life cycle are those that live through an intervening cold period (winter) between vegetative growth (first spring/summer) and flowering (second spring/summer). Beets and carrots are biennials, but we rarely leave them in the ground long enough to see them flower. Plants that live many years, including trees, shrubs, and some grasses, are known as perennials. Some of the buffalo grass of the North American plains is believed to have been growing for 10,000 years from seeds that sprouted at the close of the last ice age. When a perennial plant finally dies, it is not usually from old age, but from an infection or some environmental trauma, such as fire or severe drought.
+
+For as long as it survives, a plant is capable of indeterminate growth because it has perpetually embryonic tissues called meristems in its regions of growth. Meristematic cells divide to generate additional cells. Some of the products of this division remain in the meristematic region to produce still more cells, while others become specialized and are incorporated into the tissues and organs of the growing plant. Cells that remain as wellsprings of new cells in the meristem are called initials. The new cells that are displaced from the meristem, called derivatives, continue to divide for some time, until the cells they produce begin to specialize within developing tissues.
+
+The pattern of plant growth depends on the locations of the meristems (FIGURE 35.12). Apical meristems, located at the tips of roots and in the buds of shoots, supply cells for the plant to grow in length. This elongation, called primary growth, enables roots to ramify throughout the soil and shoots to increase their exposure to light and carbon dioxide. In herbaceous (nonwoody) plants, only primary growth occurs. In woody plants, however, there is also secondary growth, a progressive thickening of the roots and shoots formed earlier by primary growth. Secondary growth is the product of lateral meristems, cylinders of dividing cells extending along the length of roots and shoots. One lateral meristem replaces the epidermis with a secondary dermal tissue, such as bark, that is thicker and tougher. A second lateral meristem adds layers of vascular tissue. Wood is the secondary xylem that accumulates over the years.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-12. Locations of major meristems: an overview of plant growth. Meristems are self-renewing populations of cells that divide and provide cells for plant growth. Apical meristems (blue in this diagram) are located near the tips of roots and shoots and are responsible for primary growth, or growth in length. Woody plants also have lateral meristems (red here) that function in secondary growth, which adds girth to roots and shoots.
+
+In woody plants, primary and secondary growth occur simultaneously but in different locations. Primary growth is restricted to the youngest parts of the plant--the tips of roots and shoots, where the apical meristems are located. The lateral meristems develop in slightly older regions of the roots and shoots, some distance away from the tips. There, secondary growth adds girth to the organs. The oldest region of a root or shoot--the base of a tree branch, for example--has the greatest accumulation of secondary tissues formed by the lateral meristems. Each growing season, primary growth produces young extensions of roots and shoots, while secondary growth thickens and strengthens the older parts of the plant.
+
+Examine a winter twig of a deciduous tree, and you can see the relationship between primary and secondary growth. At the tip is the dormant terminal bud, enclosed by scales that protect its apical meristem (FIGURE 35.13). In spring, the bud will shed its scales and begin a new spurt of primary growth, producing a series of nodes and internodes. Along each growth segment, nodes are marked by scars left when leaves fell during autumn. Above each leaf scar is either an axillary bud or a branch twig formed by an axillary bud. Farther down the twig are whorls of scars left by the scales that enclosed the terminal bud during the previous winter. Each spring and summer, as primary growth extends the shoot, secondary growth thickens the parts of the shoot that formed in previous years.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-13. Morphology of a winter twig.
+
+
+
+

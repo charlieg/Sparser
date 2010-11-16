@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+ VOA<TIMEX3 tid="t18" type="DATE" value="1998-05-01" temporalFunction="false" functionInDocument="CREATION_TIME">19980501</TIMEX3>.1800.0355 
+ NEWS STORY 
+
+
+
+
+
+ <s>Israeli Prime Minister Benjamin Netanyahu <EVENT eid="e1" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">says</EVENT> considerable <EVENT eid="e21" mainevent="NO" class="STATE" stem="gap" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">gaps</EVENT> <EVENT eid="e2" mainevent="NO" class="ASPECTUAL" stem="remain" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">remain</EVENT>
+ between Israeli and Palestinian positions before <TIMEX3 tid="t19" type="DATE" value="1998-W19" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t18">next week</TIMEX3>'s <EVENT eid="e22" mainevent="NO" class="OCCURRENCE" stem="talk" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">talks</EVENT> in
+ London.</s> <s>He and Palestinian leader Yasser Arafat <EVENT eid="e3" mainevent="YES" class="OCCURRENCE" stem="meet" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">meet</EVENT> separately <TIMEX3 tid="t20" type="DATE" value="1998-05-04" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t18">Monday</TIMEX3> with
+ US Secretary of State Madeleine Albright.</s>
+ <s>At a news <EVENT eid="e61" mainevent="NO" class="OCCURRENCE" stem="conference" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">conference</EVENT> with US Vice President Al Gore in Jerusalem, Mr.
+ Netanyahu <EVENT eid="e4" mainevent="YES" class="I_ACTION" stem="suggest" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">suggested</EVENT> Israel might be <EVENT eid="e24" mainevent="NO" class="I_STATE" stem="will" tense="NONE" aspect="PROGRESSIVE" polarity="POS" pos="VERB">willing</EVENT> to <EVENT eid="e25" mainevent="NO" class="OCCURRENCE" stem="move" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">move</EVENT> a little on issues
+ <EVENT eid="e6" mainevent="NO" class="I_STATE" stem="hold" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">holding</EVENT> up <EVENT eid="e26" mainevent="NO" class="STATE" stem="peace" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">peace</EVENT>, but he <EVENT eid="e7" mainevent="NO" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> he <EVENT eid="e8" mainevent="NO" class="I_STATE" stem="expect" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">expects</EVENT> an equal <EVENT eid="e27" mainevent="NO" class="OCCURRENCE" stem="effort" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">effort</EVENT> from the
+ Palestinians.</s>
+
+
+ <s>If Israel  is <EVENT eid="e9" mainevent="NO" class="I_ACTION" stem="ask" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">asked</EVENT> to uh <EVENT eid="e10" mainevent="NO" class="OCCURRENCE" stem="stretch" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">stretch</EVENT> itself on matters that are vital to its
+ security concerns, then we must <EVENT eid="e12" mainevent="YES" class="PERCEPTION" stem="see" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">see</EVENT> an equal effort on the other side.</s>
+
+
+ <s>Mr. Gore <EVENT eid="e15" mainevent="YES" class="I_ACTION" stem="call" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">called</EVENT> on Israel  to <EVENT eid="e16" mainevent="NO" class="ASPECTUAL" stem="continue" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">continue</EVENT> <EVENT eid="e17" mainevent="NO" class="OCCURRENCE" stem="take" tense="PRESPART" aspect="NONE" polarity="POS" pos="VERB">taking</EVENT> <EVENT eid="e29" mainevent="NO" class="OCCURRENCE" stem="risk" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">risks</EVENT> for peace.</s>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e3" eventID="e1" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e4" eventID="e3" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e12" eventID="e4" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e15" eventID="e12" task="C"/>
+
+</TempEval>

@@ -1,0 +1,40 @@
+
+ Neural integration occurs at the cellular level
+
+A single neuron may receive information from numerous neighboring neurons via thousands of synapses, some of them excitatory and some of them inhibitory (FIGURE 48.13). If you reexamine the physiology of the knee-jerk reflex in FIGURE 48.3, you-ll see examples of both types of synapses. The synapses between the sensory neurons and the motor neurons that stimulate the quadriceps muscles to contract are excitatory; the synapses between the interneurons and the motor neurons innervating the flexor muscles are inhibitory.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 48-13. Integration of multiple synaptic inputs. (a) Each neuron, especially in the central nervous system, is on the receiving end of thousands of synapses, some excitatory (green) and others inhibitory (red). At any instant an action potential may be generated at the axon hillock if the combined effect of ion currents induced by excitatory and inhibitory synapses depolarizes the membrane to the threshold potential. Synapses close to the axon hillock generally have a stronger effect on the membrane potential than other synapses. b. This micrograph reveals numerous synaptic terminals of presynaptic neurons that communicate with a single postsynaptic cell (SEM).
+
+At an excitatory synapse, the binding of neurotransmitter molecules to postsynaptic receptors opens a type of gated channel that allows Na+ to enter and K+ to leave the cell. Because the driving force is greater for Na+ than for K+ (remember, both voltage and concentration gradients drive Na+ into the cell--see FIGURE 48.7), the effect of opening these channels is a net flow of positive charge into the cell. This depolarizes the plasma membrane, moving the membrane potential closer to the threshold voltage and making it more likely that the axon of the postsynaptic cell will generate an action potential. In this case, the electrical change that is caused by the binding of neurotransmitter to the receptor is called an excitatory postsynaptic potential, or EPSP.
+
+At an inhibitory synapse, the binding of neurotransmitter molecules to the postsynaptic receptors opens gated ion channels that make the plasma membrane more permeable to K+, to Cl-, or to both of these ions. Diffusing down their concentration gradients, K+ rushes out of the cell and Cl- flows in. These ion fluxes hyperpolarize the membrane--that is, they push the membrane potential to a voltage even more negative than the resting potential--making it more difficult for an action potential to be generated. Therefore, the voltage change associated with chemical signaling at an inhibitory synapse is called an inhibitory postsynaptic potential, or IPSP. Whether a particular neurotransmitter results in an EPSP or an IPSP depends on the type of receptors and gated ion channels on the postsynaptic membrane responding to that neurotransmitter.
+
+Both EPSPs and IPSPs are graded potentials that vary in magnitude with the number of neurotransmitter molecules binding to receptors on the postsynaptic membrane. The local change in membrane voltage, either depolarization or hyperpolarization, lasts only a few milliseconds because the neurotransmitters are inactivated by enzymes soon after their release into the synapse. Recall, however, that a graded potential creates ion currents that result in a wave of voltage change that spreads along a membrane from the point of stimulation (neurotransmitter binding, in this case). Thus, EPSPs and IPSPs propagate themselves along the membrane of the postsynaptic neuron, but the successive voltage changes decrease in magnitude with the distance from the synapse. The axon hillock (see FIGURE 48.2) is the region where voltage-gated sodium channels open and generate an action potential when some stimulus has depolarized the membrane to the threshold. For the postsynaptic cell to "fire" (generate an action potential), the local ion currents due to EPSPs must be strong enough to reach and depolarize the membrane at the axon hillock to the threshold potential, usually about -50 mV.
+
+A single EPSP at one synapse, even one close to the axon hillock, is not usually strong enough to trigger an action potential (FIGURE 48.14, p. 1036). However, several synaptic terminals acting simultaneously on the same postsynaptic cell, or a smaller number of synaptic terminals discharging neurotransmitters repeatedly in rapid-fire succession, can have a cumulative impact on the membrane potential at the axon hillock, raising it to threshold. This additive effect of postsynaptic potentials is called summation. Notice in FIGURE 48.14a that repeated subthreshold EPSPs that do not overlap in time do not depolarize the membrane to threshold.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-14. Summation of postsynaptic potentials. These graphs trace changes in membrane potentials at a postsynaptic neuron's axon hillock. The arrows indicate times when signals trigger changes in membrane potentials at two excitatory synapses (E1 and 2, green) and at one inhibitory synapse (I1, red). Like most single EPSPs, those shown at E1 and E2 cannot depolarize the membrane at the axon hillock all the way to the threshold level, and thus without summation do not trigger an action potential.
+
+There are two types of summation: temporal summation and spatial summation. In temporal summation, chemical transmissions from one or more synaptic terminals occur so close together in time that each postsynaptic potential affects the membrane before the voltage has returned to the resting potential after the previous stimulation (FIGURE 48.14b). In spatial summation, several different synaptic terminals, usually belonging to different presynaptic neurons, stimulate a postsynaptic cell at the same time and have an additive effect on the membrane potential (FIGURE 48.14c). By reinforcing one another through temporal or spatial summation, the ion currents associated with several EPSPs can depolarize the membrane at the axon hillock to threshold, causing the neuron to fire. Summation also applies to IPSPs: two or more IPSPs can hyperpolarize the membrane to a more negative voltage than any single release of a neurotransmitter at an inhibitory synapse can achieve. Furthermore, IPSPs and EPSPs counter each other's electrical effects (FIGURE 48.14d).
+
+The axon hillock is the neuron's integrating center, the region where the membrane potential represents the summed effect of all EPSPs and IPSPs. At any instant, the membrane potential at the axon hillock is an average of the depolarization due to summation of all EPSPs and the hyperpolarization due to summation of all IPSPs. Whenever EPSPs overpower IPSPs enough for the membrane potential at the axon hillock to reach threshold, an action potential is generated, and the impulse is transmitted along the axon to the next synapse. A few milliseconds later, after the refractory period, the neuron may fire again if the sum of all synaptic inputs at that moment is still sufficient to depolarize the membrane at the axon hillock to threshold level. On the other hand, by that time the sum of all EPSPs and IPSPs may put the membrane potential at the axon hillock at a voltage more negative than the threshold, or may even hyperpolarize the membrane to a potential more negative than the resting potential, thereby desensitizing the neuron for the moment.
+
+Action potentials, remember, are all-or-none events. But now we see that the occurrence of these nerve impulses depends on the ability of the neuron to integrate quantitative information in the form of multiple excitatory and inhibitory inputs, each involving the specific binding of a neurotransmitter to a receptor on the postsynaptic membrane.
+
+
+
+

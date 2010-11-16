@@ -1,0 +1,454 @@
+
+Chapter 15: THE CHROMOSOMAL BASIS OF INHERITANCE
+
+RELATING MENDELISM TO CHROMOSOMES
+
+   Mendelian inheritance has its physical basis in the behavior of chromosomes during sexual life cycles
+
+   Morgan traced a gene to a specific chromosome
+
+   Linked genes tend to be inherited together because they are located on the same chromosome
+
+   Independent assortment of chromosomes and crossing over produce genetic recombinants
+
+   Geneticists can use recombination data to map a chromosome's genetic loci
+
+
+
+SEX CHROMOSOMES
+
+   The chromosomal basis of sex varies with the organism
+
+   Sex-linked genes have unique patterns of inheritance
+
+
+
+ERRORS AND EXCEPTIONS IN CHROMOSOMAL INHERITANCE
+
+   Alterations of chromosome number or structure cause some genetic disorders
+
+   The phenotypic effects of some mammalian genes depend on whether they were inherited from the mother or the father (imprinting)
+
+   Extranuclear genes exhibit a non-Mendelian pattern of inheritance
+
+It was not until the year 1900 that biology finally caught up with Gregor Mendel. At that time, three botanists, working independently on plant-breeding experiments, reproduced Mendel's results. By searching the scientific literature, the German Karl Correns, the Austrian Erich von Tschermak, and the Dutchman Hugo de Vries all found that Mendel had explained the same results 35 years before. During the intervening years, biology had grown more experimental and quantitative and thus more receptive to Mendelism. Nevertheless, many biologists remained incredulous about Mendel's laws of segregation and independent assortment until evidence had mounted that these principles of heredity had a physical basis in the behavior of chromosomes. Mendel's hereditary factors--genes--are located on chromosomes. For example, the yellow dots (a fluorescent dye) in the light micrograph on this page mark the locus of a specific gene on a homologous pair of human chromosomes (which have already replicated, hence the two dots per chromosome). This chapter integrates and extends what you have learned in the past two chapters by describing the chromosomal basis for the transmission of genes from parents to offspring, along with some important exceptions.
+
+
+
+
+
+RELATING MENDELISM TO CHROMOSOMES
+
+ 
+
+ Mendelian inheritance has its physical basis in the behavior of chromosomes during sexual life cycles
+
+
+
+ 
+
+ Morgan traced a gene to a specific chromosome
+
+
+
+ 
+
+ Linked genes tend to be inherited together because they are located on the same chromosome
+
+
+
+ 
+
+ Independent assortment of chromosomes and crossing over produce genetic recombinants
+
+
+
+ 
+
+ Geneticists can use recombination data to map a chromosome's genetic loci
+
+
+
+
+
+
+
+SEX CHROMOSOMES
+
+ 
+
+ The chromosomal basis of sex varies with the organism
+
+
+
+ 
+
+ Sex-linked genes have unique patterns of inheritance
+
+
+
+You learned earlier that Morgan's discovery of a sex-linked trait (white eyes) was a key episode in the development of a chromosome theory of inheritance. In this section, we consider the role of sex chromosomes in inheritance in more detail. We begin by reviewing the genetics of sex in humans and comparing it with sex determination in some other animals.
+
+
+
+
+
+ERRORS AND EXCEPTIONS IN CHROMOSOMAL INHERITANCE
+
+ 
+
+ Alterations of chromosome number or structurecause some genetic disorders
+
+
+
+ 
+
+ The phenotypic effects of some mammaliangenes depend on whether they were inheritedfrom the mother or the father (imprinting)
+
+
+
+ 
+
+ Extranuclear genes exhibit a non-Mendelian pattern of inheritance
+
+
+
+Sex-linked traits are not the only notable deviation from the inheritance patterns observed by Mendel, and the gene mutations that create new alleles are not the only kind of changes to the genome that can affect phenotype. The last section of this chapter discusses major chromosomal aberrations and their consequences, as well as two types of normal inheritance that are exceptions to the standard chromosome theory.
+
+
+
+
+
+ Mendelian inheritance has its physical basis in the behavior of chromosomes during sexual life cycles
+
+Using improved microscopy techniques, cytologists worked out the process of mitosis in 1875 and meiosis in the 1890s. Then, around 1900, cytology and genetics converged as biologists began to see parallels between the behavior of chromosomes and the behavior of Mendel's factors. For example, chromosomes and genes are both present in pairs in diploid cells, homologous chromosomes separate and alleles segregate during meiosis, and fertilization restores the paired condition for both chromosomes and genes. Around 1902, Walter S. Sutton, Theodor Boveri, and others independently noted these parallels, and a chromosome theory of inheritance began to take form. According to this theory, Mendelian genes have specific loci on chromosomes, and it is the chromosomes that undergo segregation and independent assortment (FIGURE 15.1, p. 270).
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-1. The chromosomal basis of Mendel's laws. Here we correlate the results of one of Mendel's dihybrid crosses (see FIGURE 14.7b) with the behavior of chromosomes. The arrangement of chromosomes at metaphase I of meiosis and their movement during anaphase I account for the segregation and independent assortment of the alleles for seed color and shape. Because the alternatives at metaphase I are equally likely, F1 plants produce equal numbers of four kinds of gametes.
+
+
+
+
+
+ Morgan traced a gene to a specific chromosome
+
+Thomas Hunt Morgan, an embryologist at Columbia University, was the first to associate a specific gene with a specific chromosome, early in the 20th century. Although Morgan was skeptical about both Mendelism and the chromosome theory, his early experiments provided convincing evidence that chromosomes are indeed the location of Mendel's heritable factors.
+
+Morgan's Choice of Experimental Organism
+
+Many times in the history of biology, important discoveries have come to those insightful enough or lucky enough to choose an experimental organism suitable for the research problem being tackled. Mendel chose the garden pea because a number of distinct varieties were available. For his work, Morgan selected a species of fruit fly, Drosophila melanogaster, a common, generally innocuous insect that feeds on the fungi growing on fruit. (Some other kinds of fruit flies, such as "medflies,"Ceratitis capitata, can seriously damage crops.) Fruit flies are prolific breeders; a single mating will produce hundreds of offspring, and a new generation can be bred every two weeks. These characteristics make the fruit fly a convenient organism for genetic studies. Morgan's laboratory soon became known as "the fly room."
+
+Another advantage of the fruit fly is that it has only four pairs of chromosomes, which are easily distinguishable with a light microscope. There are three pairs of autosomes and one pair of sex chromosomes. Female fruit flies have a homologous pair of X chromosomes, and males have one X chromosome and one Y chromosome.
+
+While Mendel could readily obtain different pea varieties, there were no convenient suppliers of fruit fly varieties for Morgan to employ. Indeed, he was probably the first person to want different varieties of this common insect. After a year of breeding flies and looking for variant individuals, Morgan was rewarded with the discovery of a single male fly with white eyes instead of the usual red. The normal phenotype for a character (the phenotype most common in natural populations), such as red eyes in Drosophila, is called the wild type (FIGURE 15.2). Traits that are alternatives to the wild type, such as white eyes in Drosophila, are called mutant phenotypes, because they are due to alleles assumed to have originated as changes, or mutations, in the wild-type allele.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-2. Morgan's first mutant. Wild-type Drosophila flies have red eyes (left). Among his flies, Morgan discovered a mutant male with white eyes (right). This variation made it possible for Morgan to trace a gene for eye color to a specific chromosome (LMs).
+
+Discovery of Sex Linkage
+
+After Morgan discovered his white-eyed male fly, he mated it with a red-eyed female. All the F1 offspring had red eyes, suggesting that the wild type was dominant. When Morgan bred the F1 flies to each other, he observed the classical 3:1 phenotypic ratio among the F2 offspring. However, there was a surprising additional result: The white-eye trait showed up only in males. All the F2 females had red eyes, while half the males had red eyes and half had white eyes. Somehow, a fly's eye color was linked to its sex.
+
+From this and other evidence, Morgan deduced that the gene affected in his white-eyed mutant is located exclusively on the X chromosome; there is no corresponding eye-color locus on the Y chromosome (FIGURE 15.3, p. 272). Thus, females (XX) carry two copies of the gene for this character, while males (XY) carry only one. Because the mutant allele is recessive, a female will have white eyes only if she receives that allele on both X chromosomes--an impossibility for the F2 females in Morgan's experiment. For a male, on the other hand, a single copy of the mutant allele confers white eyes; since a male has only one X chromosome, there can be no wild-type allele present to offset the recessive allele.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-3. Sex-linked inheritance. When Morgan bred his mutant male to a wild-type female, all F1 offspring had red eyes. The F2 generation showed a typical Mendelian 3:1 ratio of traits, but the recessive trait--white eyes--was linked to sex. All females had red eyes, but half the males had white eyes. Morgan hypothesized that the gene responsible was located on the X chromosome and that there was no corresponding locus on the Y chromosome.
+
+Genes located on a sex chromosome are called sex-linked genes. Morgan's evidence that a specific gene is carried on the X chromosome added credibility to the chromosome theory of inheritance. Recognizing the importance of this work, many bright students were attracted to Morgan's fly room, and his laboratory dominated genetics research for the next three decades. We will see the influence of Morgan and his colleagues as we consider some other important aspects of the chromosomal basis of inheritance.
+
+
+
+
+
+ Linked genes tend to be inherited together because they are located on the same chromosome
+
+The number of genes in a cell is far greater than the number of chromosomes; in fact, each chromosome has hundreds or thousands of genes. Genes located on the same chromosome tend to be inherited together in genetic crosses because the chromosome is passed along as a unit. Such genes are said to be linked genes. (Note that these genes are linked to each other. Here the use of the word linked is different from its use in the term sex-linked gene, where the gene is on a sex chromosome.) When geneticists follow linked genes in breeding experiments, the results deviate from those expected according to the Mendelian principle of independent assortment.
+
+Let's examine another of Morgan's Drosophila experiments to see how linkage between genes affects the inheritance of two different characters (FIGURE 15.4). In this case, the characters are body color and wing size. Wild-type flies have gray bodies and normal wings. Morgan had flies with mutant versions of these characters: black body and vestigial wings (much smaller than normal wings). The alleles for these traits are represented by the following symbols: b+ = gray, b = black; vg+ = normal wings, vg = vestigial wings.* The mutant alleles are recessive to the wild-type alleles, and neither gene is sex-linked.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-4. Evidence for linked genes in Drosophila. The tinted area highlights a testcross between a dihybrid female fly, heterozygous for both body color and wing size, and a double-recessive male, homozygous for both recessive alleles. (The male has a "double mutant" phenotype.) When Morgan "scored" (classified according to phenotype) 2,300 offspring from such matings, he observed a much higher proportion of parental phenotypes than would be expected if the two genes assorted independently. Morgan concluded that these genes are usually transmitted together because they are located on the same chromosome. Crossing over accounts for the recombinant phenotypes (combinations of traits different from the combination in either parent).
+
+Morgan mated true-breeding wild-type flies (b+b+vg+vg1+) with black, vestigial-winged ones (b b vg vg) to produce F1 dihybrids (b+bvg+vg), which are wild type in appearance. He then crossed female dihybrids with males of the "double-mutant" phenotype (b b vg vg). Notice that this cross corresponds to a Mendelian testcross. According to Mendel's law of independent assortment, Morgan's Drosophila testcross should produce four phenotypic classes of offspring that are about equal in number: 1 gray-normal : 1 black-vestigial : 1 gray-vestigial : 1 black-normal. (To see why, rework FIGURE 14.6 with a dihybrid.) But the actual results were different: There were disproportionately large numbers of wild-type (gray-normal) and double-mutant (black-vestigial) flies among the offspring. These two phenotypes correspond to those of the P generation parents, as well as to those of the parents in the testcross. Morgan reasoned that body color and wing shape are usually inherited together in specific combinations because the genes for these characters are on the same chromosome:
+
+Although the other two phenotypes (gray-vestigial and black-normal) numbered fewer than expected based on independent assortment, these phenotypes were represented among the offspring of Morgan's cross. These new phenotypic variations resulted from crossing over, discussed next.
+
+
+
+
+
+ Independent assortment of chromosomes and crossing over produce genetic recombinants
+
+In Chapter 13, we saw that meiosis and random fertilization generate genetic variation among offspring of sexually reproducing organisms. The general term for the production of offspring with new combinations of traits inherited from two parents is genetic recombination. Here we will examine the chromosomal basis of recombination in more detail.
+
+The Recombination of Unlinked Genes: Independent Assortment of Chromosomes
+
+Mendel learned from his study of dihybrid plants that some offspring have combinations of traits that do not match either parent in the parental (P) generation. To see an example, draw a Punnett square for a testcross between a pea plant with yellow-round seeds that is heterozygous for both seed color and seed shape (YyRr, the F1 in FIGURE 15.1) and a plant with green-wrinkled seeds (homozygous for both recessive alleles, yyrr). Your Punnett square will predict ratios of genotypes and phenotypes in the offspring similar to what Mendel actually found because the gene loci for seed color and seed shape are on separate chromosomes. In other words, the genes for seed shape and seed color are unlinked, their alleles assorting independently. Notice in your Punnett square that one-half of the offspring of the testcross should inherit a phenotype that matches one of the parental phenotypes--either yellow-round seeds or wrinkled-green seeds. These offspring are called parental types (strictly speaking, "parental" here refers to the phenotypes of the P generation plants, which are the grandparents in this case). But other phenotypes are also represented: One-fourth of the offspring have green-round seeds, and one-fourth have yellow-wrinkled seeds. Because these offspring have new combinations of seed shape and color, they are called recombinants. When 50%  of all offspring are recombinants, as in the example here, geneticists say that there is a 50%  frequency of recombination.
+
+A 50%  frequency of recombination is observed for any two genes that are located on different chromosomes. The physical basis of recombination between unlinked genes is the random orientation of homologous chromosomes at metaphase I of meiosis, which leads to the independent assortment of alleles (again, see FIGURE 15.1).
+
+The Recombination of Linked Genes: Crossing Over
+
+Linked genes do not assort independently because they are located on the same chromosomes and tend to move together through meiosis and fertilization. We would not expect linked genes to recombine into assortments of alleles not found in the parents. But in fact, recombination between linked genes does occur. To see how, let's return to Morgan's fly room.
+
+How can we explain the results of the Drosophila cross illustrated in FIGURE 15.4? The offspring of the testcross for body color and wing shape did not conform to the 1:1:1:1 phenotypic ratio we would expect if the genes for these two characters were on different chromosomes and assorted independently. But if the two genes are completely linked because their loci are on the same chromosome, then we should observe a 1:1:0:0 ratio, with only the parental phenotypes represented among offspring. The actual results satisfy neither of these expectations. Most of the offspring had parental phenotypes, suggesting linkage between the two genes, but about 17%  of the flies were recombinants. Although there was linkage, it appeared incomplete.
+
+Morgan proposed that some mechanism that exchanges segments between homologous chromosomes must occasionally break the linkage between the two genes. Subsequent experiments demonstrated that such an exchange--crossing over--accounts for the recombination of linked genes. While homologous chromosomes are paired during prophase of meiosis I, nonsister chromatids may break at corresponding points and switch fragments; that is, they cross over (see FIGURE 13.9). The recombinant chromosomes resulting from crossing over may bring together alleles in new combinations, and the subsequent events of meiosis distribute the recombinant chromosomes to gametes (FIGURE 15.5a). This sequence of events accounts for the occurrence of recombinant phenotypes in the offspring of Morgan's testcross (FIGURE 15.5b).
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 15-5. Recombination due to crossing over. These diagrams recreate the testcross in FIGURE 15.4, but this time we track chromosomes as well as genes. The b and vg loci are linked; they are on the same chromosome. The maternal chromosomes are color-coded with two shades of red so that we can distinguish one homologue from the other.
+
+
+
+
+
+ Geneticists can use recombination data to map a chromosome's genetic loci
+
+The discovery of linked genes and recombination due to crossing over led one of Morgan's students, Alfred H. Sturtevant, to a method for constructing a genetic map, an ordered list of the genetic loci along a particular chromosome.
+
+Sturtevant hypothesized that recombination frequencies calculated from experiments like the one in FIGURE 15.5 reflect the distances between genes on a chromosome. Assuming that the chance of crossing over is approximately equal at all points on a chromosome, he predicted that the farther apart two genes are, the higher the probability that a crossover will occur between them and therefore the higher the recombination frequency. His reasoning was simple: The greater the distance between two genes, the more points there are between them where crossing over can occur. With this idea in mind, Sturtevant began using recombination data from fruit fly crosses to assign to genes relative positions on chromosomes--that is, to map genes. A genetic map based on recombination frequencies is specifically called a linkage map.
+
+FIGURE 15.6 shows Sturtevant's map of three genes relative to each other, the body-color (b) and wing-size (vg) genes depicted in FIGURE 15.5 and a third gene on the same chromosome, called cinnabar (cn). Cinnabar is one of many Drosophila genes affecting eye color. Cinnabar eyes, a mutant phenotype, are a brighter red than the wild-type color. The recombination frequency between cn and b is 9% , and the recombination frequency between cn and vg is 9.5% . In other words, crossovers between cn and b and between cn and vg are only about half as frequent as crossovers between b and vg (17% ). Only a map that locates cn about midway between b and vg is consistent with the data (as you can prove to yourself by drawing alternative maps). Sturtevant expressed the distances between genes in map units, defining one map unit as equivalent to a 1%  recombination frequency. Today, the word centimorgan is often used, in honor of Morgan.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-6. Using recombination frequencies to construct a genetic map. The method for making this type of map, called a linkage map, is based on the assumption that the probability of a crossover between two genetic loci is proportional to the distance separating the loci. In this example of a linkage map, re-combination frequencies have been used to locate three Drosophila genes: b, vg, and cn. The data best fit a sequence with cn positioned about halfway between the other two genes. The likely reason for the slightly low b-vg frequency is given in the text below.
+
+Some genes on a chromosome are so far apart from each other that a crossover between them is virtually certain. The frequency of recombination measured between such genes can have a maximum value of 50% , a result indistinguishable from that for genes on different chromosomes. In fact, the seven characters that Mendel studied in his peas are not all on separate chromosomes, although the pea coincidentally has seven chromosome pairs. Seed color and flower color, for instance, are now known to be on chromosome 1. But they are so far apart on that chromosome that linkage is not observed in genetic crosses. Genes located far apart on a chromosome are mapped by adding the recombination frequencies from crosses involving each of the distant genes and a number of genes lying between them. Only for one pair of the genes Mendel studied, the genes for plant height and pod shape, do modern biologists observe linkage. Although Mendel observed segregation of alleles for each of these characters in monohybrid crosses, he did not report the results of dihybrid crosses for this particular combination of characters.
+
+Even when the distance between genetic loci on a chromosome is not great enough to "unlink" them, it may be great enough to create a significant likelihood of more than one crossover between the loci. A second crossover "cancels out" the first and thus reduces the observed number of recombinant offspring. Multiple crossovers are the main reason for the numerical discrepancy in FIGURE 15.6, where the recombination frequency between b and vg is less than the sum of the b-cn and cn-vg frequencies.
+
+Using crossover data, Sturtevant and his colleagues were able to map the other identified Drosophila genes in linear arrays. They found that the genes clustered into four groups of linked genes. Because microscopists had found four pairs of chromosomes in Drosophila cells, this clustering of genes was additional evidence that genes are located on chromosomes. Each chromosome has a linear array of specific gene loci (FIGURE 15.7).
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-7. A partial genetic map of a Drosophila chromosome. This simplified map shows just a few of the genes that have been mapped on Drosophila chromosome II. Notice that more than one gene can affect a given phenotypic characteristic, such as eye color.
+
+Because a linkage map is based on recombination frequencies, it is not really a picture of a chromosome. The frequency of crossing over is not actually uniform over the length of the chromosome, and therefore map units do not have absolute size (in nanometers, for instance). Thus, a linkage map portrays the sequence of genes along a chromosome, but it does not give the precise locations of genes. Other methods enable geneticists to construct cytological maps of chromosomes, which locate genes with respect to chromosomal features, such as stained bands, that can be seen in the microscope (see FIGURE 15.14). The ultimate genetic maps, which we'll discuss in Chapter 20, show the distances between gene loci in DNA nucleotides. Comparing a linkage map with this type of map (or even with a cytological map) of the same chromosome, we find that the sequence of genes matches, but the spacing between them does not.
+
+
+
+
+
+ The chromosomal basis of sex varies with the organism
+
+Our sex is one of our more obvious phenotypic characters. Although the anatomical and physiological differences between women and men are numerous, the chromosomal basis of sex is rather simple. In humans and other mammals, as in fruit flies, there are two varieties of sex chromosomes, designated X and Y. A person who inherits two X chromosomes, one from each parent, usually develops as a female. A male usually develops from a zygote containing one X chromosome and one Y chromosome (see FIGURE 15.8a and the karyotype in FIGURE 13.3). When meiosis occurs in the testis, the X and Y chromosomes behave like homologous chromosomes, although they are only partially homologous and undergo very little crossing over with each other.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-8. Some chromosomal systems of sex determination. Numerals indicate the number of autosomes, the nonsex chromo-somes. In Drosophila, males are XY, but sex is actually determined by the number of X chromosomes, as in part b.
+
+In both testes and ovaries, the two sex chromosomes segregate during meiosis, and each gamete receives one. Each ovum contains one X chromosome. In contrast, sperm fall into two categories: Half the sperm cells a male produces contain an X chromosome, and half contain a Y chromosome. We can trace the sex of each offspring to the moment of conception: If a sperm cell bearing an X chromosome happens to fertilize an ovum, the zygote is XX; if a sperm cell containing a Y chromosome fertilizes an ovum, the zygote is XY. Sex is a matter of chance--a fifty-fifty chance. FIGURE 15.8 compares this X-Y system of mammals to chromosomal systems of sex determination in other animal groups.
+
+In humans, the anatomical signs of sex begin to emerge when the embryo is about two months old. Before then, the rudiments of the gonads are generic--they can develop into either ovaries or testes, depending on hormonal conditions within the embryo. Which of these two possibilities occurs depends on whether or not a Y chromosome is present. In 1990, a British research team identified a gene required for the development of testes. They named the gene SRY, for sex-determining region of Y. In the absence of SRY, the gonads develop into ovaries. The researchers emphasized that the presence (or absence) of SRY is just a trigger. The biochemical, physiological, and anatomical features of sex are complex, and many genes are involved in their development. SRY codes for a protein that regulates many other genes. Recently, researchers have identified a number of additional genes on the Y chromosome that are required for normal testis functioning. In the absence of these genes, an XY individual is male but does not produce normal sperm.
+
+
+
+
+
+ Sex-linked genes have unique patterns of inheritance
+
+In addition to their role in determining sex, the sex chromosomes, especially X chromosomes, have genes for many characters unrelated to sex. In humans, the term sex-linked usually refers to genes on the X chromosome. These genes follow the same pattern of inheritance that Morgan observed for the white-eye locus in Drosophila. Fathers pass sex-linked alleles to all of their daughters but none of their sons (FIGURE 15.9). In contrast, mothers can pass sex-linked alleles to both sons and daughters.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-9. The transmission of sex-linked recessive traits. In this diagram, the superscript A represents a dominant allele carried on the X chromosome, and the superscript a represents a recessive allele. Imagine that this recessive allele is a mutation that causes a sex-linked disorder, such as hemophilia. White boxes indicate unaffected individuals, light-colored boxes indicate carriers, and dark-colored boxes indicate individuals with the sex-linked disorder.
+
+If a sex-linked trait is due to a recessive allele, a female will express the phenotype only if she is a homozygote. Because males have only one locus, the terms homozygous and heterozygous lack meaning for describing their sex-linked genes (the term hemizygous is used in such cases). Any male receiving the recessive allele from his mother will express the trait. For this reason, far more males than females have disorders that are inherited as sex-linked recessives. However, even though the chance of a female inheriting a double dose of the mutant allele is much less than the probability of a male inheriting a single dose, there are females with sex-linked disorders. For instance, color blindness is a mild disorder inherited as a sex-linked trait. A color-blind daughter may be born to a color-blind father whose mate is a carrier (see FIGURE 15.9c). However, because the sex-linked allele for color blindness is relatively rare, the probability that such a man and woman will mate is low.
+
+Sex-Linked Disorders in Humans
+
+A number of human sex-linked disorders are much more serious than color blindness. An example is Duchenne muscular dystrophy, which affects about one out of every 3,500 males born in the United States. People with Duchenne muscular dystrophy rarely live past their early 20s. The disease is characterized by a progressive weakening of the muscles and loss of coordination. Researchers have traced the disorder to the absence of a key muscle protein called dystrophin and have tracked the gene for this protein to a specific locus on the X chromosome. These discoveries may eventually lead to treatments to prevent the disease from progressing.
+
+Hemophilia is a sex-linked recessive trait defined by the absence of one or more of the proteins required for blood clotting. When a person with hemophilia is injured, bleeding is prolonged because a firm clot is slow to form. Small cuts in the skin are usually not a problem, but bleeding in the muscles or joints, which can occur without known cause, can be painful and can lead to serious damage. Today, people with hemophilia are treated as needed with intravenous injections of the missing protein.
+
+Hemophilia has an interesting history. The ancient Hebrews must have had some understanding of its hereditary pattern because sons born to women having a family history of hemophilia were exempted from circumcision. Moreover, a high frequency of sex-linked hemophilia has plagued the royal families of Europe. The first hemophiliac in the royal line seems to have been Leopold, a son of Queen Victoria (1819-1901) of England. The recessive allele for hemophilia was probably introduced to the royal family through a mutation in one of the sex cells of Victoria's mother or father, making Victoria a heterozygote, a carrier of the deadly allele. Leopold survived to father a daughter who was also a carrier, transmitting hemophilia to one of her sons. Hemophilia was eventually brought to the royal families of Prussia, Russia, and Spain through the marriages of two of Victoria's daughters.
+
+X Inactivation in Female Mammals
+
+Although female mammals, including humans, inherit two X chromosomes, one X chromosome in each cell becomes almost completely inactivated during embryonic development. As a result, the cells of females and males have the same effective dose (one copy) of genes with loci on the X chromosome. The inactive X in each cell of a female condenses into a compact object, called a Barr body, which lies along the inside of the nuclear envelope. Most of the genes of the X chromosome that forms the Barr body are not expressed, although some remain active. (Barr-body chromosomes are reactivated in the ovary cells that give rise to ova.)
+
+British geneticist Mary Lyon has demonstrated that the selection of which of the two X chromosomes will form the Barr body occurs randomly and independently in each of the embryonic cells present at the time of X inactivation. As a consequence, females consist of a mosaic of two types of cells (FIGURE 15.10): those with the active X derived from the father and those with the active X derived from the mother. After an X chromosome is inactivated in a particular cell, all mitotic descendants of that cell have the same inactive X. Therefore, if the female is heterozygous for a sex-linked trait, approximately half her cells will express one allele, while the others will express the alternate allele. This mosaicism can be seen in the coloration of a tortoiseshell cat, which has patches of orange and black fur (see FIGURE 15.10). In humans, mosaicism can be seen in a recessive X-linked mutation that prevents the development of sweat glands. A woman who is heterozygous for this trait has patches of normal skin and patches of skin lacking sweat glands.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-10. X inactivation and the tortoiseshell cat. The tortoiseshell gene is on the X chromosome, and the tortoiseshell phenotype requires the presence of two different alleles, one for orange fur and one for nonorange (black) fur. Normally, only females can have both alleles, because only they have two X chromosomes. If a female is heterozygous for the tortoiseshell gene, she is tortoiseshell. Orange patches are formed by populations of cells in which the Xchromosome with the orange allele is active: black patches have cells in which the X chromosome with the nonorange allele is active. ("Calico" cats also have white areas, which are determined by yet another gene.)
+
+Inactivation of an X chromosome involves attachment of methyl groups (--CH3) to cytosine, one of the nitrogenous bases of DNA nucleotides. (The regulatory role of DNA methylation is discussed in more detail in Chapter 19.) But what determines which of the two X chromosomes is targeted for methylation? Researchers have discovered a gene that is active only on the Barr-body chromosome. The gene is called XIST, for X-inactive specific transcript. The gene's product, or "specific transcript," is an RNA molecule, and multiple copies of this molecule apparently attach to the X chromosome where they are made, eventually almost covering it. Interaction of this RNA with the chromosome seems to initiate X inactivation. But this finding leads to more questions. What exactly is the connection between XIST RNA and DNA methylation? And what determines which of the two X chromosomes in each of a female's cells will have a continually active XIST gene and become the Barr body? Our understanding of X inactivation is still rudimentary.
+
+
+
+
+
+ Alterations of chromosome number or structurecause some genetic disorders
+
+Physical and chemical disturbances, as well as errors during meiosis, can damage chromosomes in major ways or alter their number in a cell. Here we survey such chromosomal alterations and see how they relate to some important human disorders.
+
+Alterations of Chromosome Number: Aneuploidy and Polyploidy
+
+Ideally, the meiotic spindle distributes chromosomes to daughter cells without error. But there is an occasional mishap called a nondisjunction, in which the members of a pair of homologous chromosomes do not move apart properly during meiosis I or sister chromatids fail to separate during meiosis II. In these cases, one gamete receives two of the same type of chromosome and another gamete receives no copy (FIGURE 15.11). The other chromosomes are usually distributed normally. If either of the aberrant gametes unites with a normal one at fertilization, the offspring will have an abnormal chromosome number, known as aneuploidy. If a chromosome is present in triplicate in the fertilized egg (so that the cell has a total of 2n + 1 chromosomes), the aneuploid cell is said to be trisomic for that chromosome. If a chromosome is missing (so that the cell has 2n - 1 chromosomes), the aneuploid cell is monosomic for that chromosome. Mitosis will subsequently transmit the anomaly to all embryonic cells. If the organism survives, it usually has a set of symptoms caused by the abnormal dose of the genes associated with the extra or missing chromosome. Nondisjunction can also occur during mitosis. If such an error takes place early in embryonic development, then the aneuploid condition is passed along by mitosis to a large number of cells and is likely to have a substantial effect on the organism.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-11. Meiotic nondisjunction. Either type of meiotic error will produce gametes with an abnormal chromosome number.
+
+Some organisms have more than two complete chromosome sets. The general term for this chromosomal alteration is polyploidy, with the specific terms triploidy (3n) and tetraploidy (4n) indicating three or four chromosomal sets, respectively. One way a triploid cell may be produced is by the fertilization of an abnormal diploid egg produced by nondisjunction of all its chromosomes. An example of an accident that would result in tetraploidy is the failure of a 2n zygote to divide after replicating its chromosomes. Subsequent mitosis would then produce a 4n embryo.
+
+Polyploidy is relatively common in the plant kingdom, and we will see in Chapter 24 that the spontaneous origin of polyploid individuals plays an important role in the evolution of plants. In the animal kingdom, polyploid species are much less common, although they are known to occur among the fishes and amphibians. Recently, researchers in Chile have identified the first mammalian candidate for polyploidy, a rodent (Tympanoctomys barrerae) whose cells seem to be tetraploid (FIGURE 15.12). In general, polyploids are more nearly normal in appearance than aneuploids. One extra (or missing) chromosome apparently disrupts genetic balance more than does an entire extra set of chromosomes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-12. A tetraploid mammal? The somatic cells of this red viscacha rat from Argentina, Tympanoctomys barrerae, have about twice as many chromosomes as those of closely related species. (Interestingly, its sperm's head is unusually large, presumably a necessity for holding all that genetic material.) Scientists think that this rat may be a tetraploid species that arose when an ancestor somehow doubled its chromosome number, presumably by errors in mitosis or meiosis within the animal's reproductive organs. Researchers are studying the rat's chromosomes to determine if it actually has four homologous sets.
+
+Alterations of Chromosome Structure
+
+Breakage of a chromosome can lead to four types of changes in chromosome structure. A deletion occurs when a chromosomal fragment lacking a centromere is lost during cell division. The chromosome from which the fragment originated will then be missing certain genes. In some cases, if meiosis is in progress, such a fragment may become attached as an extra segment to a sister chromatid, producing a duplication in the recipient chromosome. (Alternatively, a detached fragment could produce a duplication by attaching to a homologous chromosome, but in that case, the "duplicated" pieces of chromosome might not be identical.) A chromosomal fragment may also reattach to the original chromosome but in the reverse orientation, producing an inversion. A fourth possible result of chromosomal breakage is for the fragment to join a nonhomologous chromosome, a rearrangement called a translocation. FIGURE 15.13 illustrates these different types of structural alterations of chromosomes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-13. Alterations of chromosome structure. Vertical arrows indicate points of chromosome breakage. Dark purple highlights the chromosomal parts affected by the rearrangements.
+
+Deletions and duplications are especially likely to occur during meiosis. Homologous (nonsister) chromatids sometimes break and rejoin at "incorrect" places, so that one partner gives up more genes than it receives. The products of such a nonreciprocal crossover are one chromosome with a deletion and one chromosome with a duplication.
+
+A diploid embryo that is homozygous for a large deletion (or has a single X chromosome with a large deletion, in a male) is usually missing a number of essential genes, a condition that is ordinarily lethal. Duplications and translocations also tend to have harmful effects. In reciprocal translocations, in which segments are exchanged between nonhomologous chromosomes, and in inversions, the balance of genes is not abnormal--all genes are present in their normal doses. Nevertheless, inversions and translocations can alter phenotype because a gene's expression can be influenced by its location among neighboring genes.
+
+Human Disorders Due to Chromosomal Alterations
+
+Alterations of chromosome number and structure are associated with a number of serious human disorders. When nondisjunction occurs in meiosis, the result is aneuploidy, an abnormal number of chromosomes in the gamete produced and, later, in the zygote. Although the frequency of aneuploid zygotes may be quite high in humans, most of these chromosomal alterations are so disastrous to development that the embryos are spontaneously (naturally) aborted long before birth. However, some types of aneuploidy appear to upset the genetic balance less than others, with the result that individuals with certain aneuploid conditions can survive to birth and beyond. These individuals have a set of symptoms--a syndrome--characteristic of the type of aneuploidy. Genetic disorders caused by aneuploidy can be diagnosed before birth by fetal testing (p. 265).
+
+One aneuploid condition, Down syndrome, affects approximately one out of every 700 children born in the United States. Down syndrome is usually the result of an extra chromosome 21, so that each body cell has a total of 47 chromosomes (FIGURE 15.14). In chromosomal terms, the cells are trisomic for chromosome 21. Although chromosome 21 is the smallest human chromosome, its trisomy severely alters the individual's phenotype. Down syndrome includes characteristic facial features, short stature, heart defects, susceptibility to respiratory infection, and mental retardation. Furthermore, individuals with Down syndrome are prone to developing leukemia and Alzheimer's disease. (It is probably not a coincidence that certain genes associated with the latter two diseases are located on chromosome 21.) Although people with Down syndrome, on average, have a life span shorter than normal, some live to middle age or beyond. Most are sexually underdeveloped and sterile. Most cases of Down syndrome result from nondisjunction during gamete production in one of the parents.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-14. Down syndrome. The karyotype shows trisomy 21. The child exhibits the facial features characteristic of Down syndrome.
+
+The frequency of Down syndrome correlates with the age of the mother. Down syndrome occurs in 0.04%  of children born to women under age 30. The risk climbs to 1.25%  for mothers in their early 30s and is even higher for older mothers. Because of this relatively high risk, pregnant women over 35 are candidates for fetal testing to check for trisomy 21 in the embryo. The correlation of Down syndrome with maternal age has not yet been explained. Most cases result from nondisjunction during meiosis I, and recent research suggests the involvement of some age-dependent abnormality in the spindle checkpoint, which delays anaphase until all the kinetochores are attached to the spindle (like the M-phase checkpoint of the mitotic cell cycle; see Chapter 12). Trisomies of other chromosomes also increase in incidence with maternal age, although infants with autosomal trisomies rarely survive for long.
+
+Nondisjunction of sex chromosomes produces a variety of aneuploid conditions in humans. Most of these conditions appear to upset genetic balance less than aneuploid conditions involving autosomes. This may be because the Y chromosome carries relatively few genes and because extra copies of the X chromosome become inactivated as Barr bodies in the somatic cells.
+
+An extra X chromosome in a male, producing XXY, occurs approximately once in every 2,000 live births. People with this disorder, called Klinefelter syndrome, have male sex organs, but the testes are abnormally small and the man is sterile. The syndrome often includes breast enlargement and other feminine body characteristics. The affected individual is usually of normal intelligence. Males with an extra Y chromosome (XYY) are not characterized by any well-defined syndrome, although they tend to be somewhat taller than average. Females with trisomy X (XXX), which occurs once in approximately 1,000 live births, are healthy and cannot be distinguished from XX females except by karyotype. Monosomy X, called Turner syndrome, occurs about once in every 5,000 births and is the only known viable monosomy in humans. Although these X0 individuals are phenotypically female, their sex organs do not mature at adolescence, and they are sterile. However, when provided with estrogen replacement therapy, girls with Turner syndrome do develop secondary sex characteristics. Most have normal intelligence.
+
+Even if chromosome number is normal, structural alterations of chromosomes can cause human disorders. Many deletions in human chromosomes (see FIGURE 15.13a), even in a heterozygous state, cause severe physical and mental problems. One such syndrome is known as cri du chat ("cry of the cat"). A child born with this specific deletion in chromosome 5 is mentally retarded, has a small head with unusual facial features, and has a cry that sounds like the mewing of a distressed cat. Such individuals usually die in infancy or early childhood.
+
+Another type of chromosomal structural alteration associated with human disorders is chromosomal translocation, the attachment of a fragment from one chromosome to another, nonhomologous chromosome (see FIGURE 15.13d). Chromosomal translocations have been implicated in certain cancers, including chronic myelogenous leukemia (CML). Leukemia is a cancer affecting the cells that give rise to white blood cells, and in the cancerous cells of CML patients, a reciprocal translocation has occurred. A portion of chromosome 22 has switched places with a small fragment from a tip of chromosome 9. (How such a switch might cause cancer will be discussed in Chapter 19.)
+
+A small fraction of individuals with Down syndrome have a chromosomal translocation of a different sort. All the cells of such people have the normal number of chromosomes, 46. Close inspection of the karyotype, however, shows the presence of part or all of a third chromosome 21 attached to an other chromosome by translocation.
+
+
+
+
+
+ The phenotypic effects of some mammaliangenes depend on whether they were inheritedfrom the mother or the father (imprinting)
+
+Throughout our discussions of Mendelian genetics and the chromosomal basis of inheritance, we have assumed that a specific allele will have the same effect regardless of whether it was inherited from the mother or the father. This is probably a safe assumption most of the time. For example, when Mendel crossed purple-flowered peas with white-flowered peas, he observed the same results regardless of whether the purple-flowered parent supplied the ova or pollen. In recent years, however, geneticists have identified some traits in mammals, including certain inherited disorders in humans, that depend on which parent passed along the alleles for those traits. (Note that the issue here is not sex linkage; the genes involved may or may not lie on the X chromosome.)
+
+Consider the two disorders called Prader-Willi syndrome and Angelman syndrome. The symptoms are different. Prader-Willi syndrome is characterized by mental retardation, obesity, short stature, and unusually small hands and feet. People with Angelman syndrome exhibit spontaneous (uncontrollable) laughter, jerky movements, and other motor and mental symptoms. For both disorders, the genetic cause seems to be the same: deletion of a particular segment of chromosome 15. If a child inherits the abnormal chromosome from the father, the result is Prader-Willi syndrome. If the abnormal chromosome is inherited from the mother, the result is Angelman syndrome. It appears that the genes of the deleted region normally behave differently in offspring, depending on whether they belong to the maternal or the paternal chromosome.
+
+A process called genomic imprinting can explain the Prader-Willi/Angelman enigma and some similar phenomena. In this process, a gene on one chromosome is somehow silenced, while its allele on the homologous chromosome is left free to be expressed. In mammals, certain genes are imprinted in some way in each generation, with the imprinting status of a given gene depending on whether the gene resides in a female or in a male (FIGURE 15.15). In other words, the same alleles may have different effects on offspring, depending on whether they arrive in the zygote via the ovum or via the sperm. In the new generation, both maternal and paternal imprints are apparently "erased" in gamete-producing cells, and all the chromosomes are reimprinted according to the sex of the individual in which they now reside.
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-15. Genomic imprinting. The sperm and ova of mammals convey chromosomes that are differently imprinted. The phenotypic effect of a particular allele in an offspring may therefore depend on whether the allele came from the mother or the father. In each generation, the old imprints are "erased" when sperm or ova are produced, and all the chromosomes are newly imprinted according to the sex of the individual.
+
+What exactly is a genomic imprint? In many cases, it seems to consist of methyl (--CH3) groups that are added to cytosine nucleotides of one of the alleles. The hypothesis that this methylation directly silences the allele is consistent with evidence that heavily methylated genes are usually inactive (see p. 363) and suggests that in these cases, the animal uses the allele that is not imprinted. But in other cases of imprinting, the absence of methylation in the vicinity of an allele plays a role in silencing it, whereas methylation does occur near the active allele on the homologous chromosome. Researchers are trying to work out the mechanisms involved.
+
+Researchers have so far identified about 20 mammalian genes subject to imprinting, and there may be a couple of hundred more. Most of the known imprinted genes are critical for embryonic development. In experiments with mice, embryos engineered to inherit both copies of certain chromosomes from the same parent inevitably die before birth, whether that parent is male or female. Normal development apparently requires that certain genes have exactly one active copy--not zero, not two.
+
+In humans, in addition to the Prader-Willi/Angelman case, genomic imprinting may help explain the inheritance pattern of other disorders, including one called fragile X syndrome. This disorder is named for the physical appearance of an abnormal X chromosome, the tip of which hangs on to the rest of the chromosome by a thin thread of DNA. Children with fragile X syndrome--about one in every 1,500 males and one in every 2,500 females--are mentally retarded. Of all forms of mental retardation with a genetic basis, fragile X is the most common.
+
+Inheritance of fragile X has a complex pattern, but the syndrome is more common when the abnormal chromosome is inherited from the mother rather than the father. This is consistent with the disorder being more common in males: If a male (XY) inherits a fragile X chromosome, it has to be from his mother. The fragile X case is one in which imprinting (methylation) of the abnormal allele by the mother somehow causes (rather than "silences") the syndrome. An unusual molecular characteristic of this abnormal allele will be described in Chapter 19.
+
+
+
+
+
+ Extranuclear genes exhibit a non-Mendelian pattern of inheritance
+
+Although our focus in this chapter has been on the chromosomal basis of inheritance, we end with an important amendment: Not all of a eukaryotic cell's genes are located on nuclear chromosomes, or even in the nucleus. Extranuclear genes are found on small circles of DNA in mitochondria and in plants' plastids, including chloroplasts. Both mitochondria and plastids reproduce themselves and transmit their genes to daughter organelles. These cytoplasmic genes do not display Mendelian inheritance because they are not distributed to offspring according to the same rules that direct the distribution of nuclear chromosomes during meiosis.
+
+Cytoplasmic genes were first observed in plants. In 1909, Karl Correns studied the inheritance of yellow or white patches on the leaves of an otherwise green plant. He found that the coloration of the offspring was determined only by the maternal parent (the source of seeds that germinate to give rise to the offspring) and not by the paternal parent (the pollen source). Subsequent research has shown that such coloration patterns are due to genes in the plastids that control pigmentation. In most plants, a zygote receives all its plastids from the cytoplasm of the ovum and none from pollen. Thus, as the zygote of these plants develops, its pattern of leaf coloration depends only on maternal plastid genes (FIGURE 15.16).
+
+
+
+Click image to enlarge
+
+
+
+Fig 15-16. Cytoplasmic inheritance in tomato leaves. Variegated (striped or spotted) leaves result from genes located in the plastids rather than on the nuclear chromosomes of plant cells. Because only the ovum contributes plastids to a plant zygote, all plastid genes are inherited from the maternal parent.
+
+Maternal inheritance is also the rule for the mitochondrial genes in mammals, because the mitochondria passed on by the zygote all come from the cytoplasm of the ovum. In recent years, scientists have learned that mutations in mitochondrial DNA cause a number of rare human disorders. The products of most mitochondrial genes help make up the protein complexes of the electron transport chain and ATP synthase (see Chapter 9). Defects in one or more of these proteins therefore reduce the amount of ATP the cell can make. The parts of the body most susceptible to energy deprivation are the nervous system and the muscles, and most mitochondrial diseases affect these systems. For example, a person with the disease called mitochondrial myopathy suffers weakness, intolerance of exercise, and muscle deterioration.
+
+In addition to the rare diseases clearly caused by defects in mitochondrial DNA, mitochondrial mutations inherited from a person's mother may contribute to at least some cases of diabetes and heart disease, as well as to other disorders that commonly debilitate the elderly, such as Alzheimer's disease. In the course of a lifetime, new mutations gradually accumulate in our mitochondrial DNA, and some researchers believe that these play a role in the normal aging process.
+
+Wherever genes are located in the cell--nucleus or cytoplasm--their inheritance depends on the precise replication of DNA, the genetic material. In the next chapter, you will learn how this molecular reproduction occurs.
+
+
+
+

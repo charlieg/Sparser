@@ -1,0 +1,20 @@
+
+ Phylum Chytridiomycota: Chytrids may provide clues about fungal origins
+
+The chytrids are mainly aquatic. Some are saprobes; others parasitize protists, plants, and animals. Parasitic chytrids may be contributing to a worldwide decline in the number of amphibians.
+
+Until recently, some systematists emphasized the absence of flagellated cells as a membership requirement for the kingdom Fungi. By that criterion, chytrids were excluded and placed instead in the kingdom Protista (of the five-kingdom system) because they form uniflagellated spores called zoospores (FIGURE 31.5, p. 620). However, in the past decade, molecular systematists comparing the sequences of proteins and nucleic acids uncovered strong support for including the chytrids with the fungi as a monophyletic branch of the eukaryotic tree (see FIGURE 31.4). Other key fungal characteristics of chytrids are an absorptive mode of nutrition and cell walls made of chitin. Most chytrids form coenocytic hyphae, although some are unicellular. Chytrids also have some key enzymes and metabolic pathways that are common among fungi but are not found in the so-called funguslike protists (slime molds and water molds; see Chapter 28).
+
+
+
+Click image to enlarge
+
+
+
+Fig 31-5. Chytridiomycota (chytrids). The branched hyphae of Chytridium expose a large surface to the surrounding medium, from which the organism absorbs nutrients. Chytrids are the only fungi with a flagellated stage, the zoospore shown in the inset (TEM).
+
+Molecular evidence also supports the hypothesis that chytrids are the most primitive fungi, meaning that they belong to the lineage that diverged earliest in the phylogeny of fungi. A reasonable extension of this hypothesis is that fungi evolved from protists that had flagella, a feature retained in the fungal kingdom only by the chytrids.
+
+
+
+

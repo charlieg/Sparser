@@ -1,0 +1,170 @@
+
+ The light reactions convert solar energy to the chemical energy of ATP and NADPH: a closer look
+
+Chloroplasts are chemical factories powered by the sun. Their thylakoids transform light energy into the chemical energy of ATP and NADPH. To understand this conversion better, it is necessary to know about some important properties of light.
+
+The Nature of Sunlight
+
+Light is a form of energy known as electromagnetic energy, also called electromagnetic radiation. Electromagnetic energy travels in rhythmic waves analogous to those created by dropping a pebble into a puddle of water. Electromagnetic waves, however, are disturbances of electrical and magnetic fields rather than disturbances of a material medium such as water.
+
+The distance between the crests of electromagnetic waves is called the wavelength. Wavelengths range from less than a nanometer (for gamma rays) to more than a kilometer (for radio waves). This entire range of radiation is known as the electromagnetic spectrum (FIGURE 10.5). The segment most important to life is the narrow band that ranges from about 380 to 750 nm in wavelength. This radiation is known as visible light, because it is detected as various colors by the human eye.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-5. The electromagnetic spectrum. Visible light and other forms of electromagnetic energy radiate through space as waves of various lengths. We perceive different wavelengths of visible light, which range from about 380 to 750 nm, as different colors. White light is a mixture of all wavelengths of visible light. A prism can sort white light into its component colors by bending light of different wavelengths at different angles. Visible light drives photosynthesis.
+
+The model of light as waves explains many of light's properties, but in certain respects light behaves as though it consists of discrete particles, called photons. Photons are not tangible objects, but they act like objects in that each of them has a fixed quantity of energy. The amount of energy is inversely related to the wavelength of the light; the shorter the wavelength, the greater the energy of each photon of that light. Thus, a photon of violet light packs nearly twice as much energy as a photon of red light.
+
+Although the sun radiates the full spectrum of electro magnetic energy, the atmosphere acts like a selective window, allowing visible light to pass through while screening out a substantial fraction of other radiation. The part of the spectrum we can see--visible light--is also the radiation that drives photosynthesis.
+
+Photosynthetic Pigments: The Light Receptors
+
+As light meets matter, it may be reflected, transmitted, or absorbed. Substances that absorb visible light are called pigments. Different pigments absorb light of different wavelengths, and the wavelengths that are absorbed disappear. If a pigment is illuminated with white light, the color we see is the color most reflected or transmitted by the pigment. (If a pigment absorbs all wavelengths, it appears black.) We see green when we look at a leaf because chlorophyll absorbs red and blue light while transmitting and reflecting green light (FIGURE 10.6). The ability of a pigment to absorb various wavelengths of light can be measured with an instrument called a spectrophotometer. This machine directs beams of light of different wavelengths through a solution of the pigment and measures the fraction of the light transmitted at each wavelength (FIGURE 10.7). A graph plotting a pigment's light absorption (the fraction not transmitted or reflected) versus wavelength is called an absorption spectrum.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-6. Why leaves are green: interaction of light with chloroplasts. The pigment molecules of chloroplasts absorb blue and red light and reflect or transmit green light. This is why leaves appear green. It turns out that blue and red are the colors of light most effective in photosynthesis.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-7. Determining an absorption spectrum. A spectrophotometer measures the relative amounts of light of different wavelengths absorbed and transmitted by a pigment solution. Inside the spectrophotometer, white light is separated into colors (wavelengths) by a prism. Then, one by one, the different colors of light are passed through the sample. The transmitted light strikes a photoelectric tube, which converts the light energy to electricity, and the electrical current is measured by a galvanometer. Each time the wavelength of light is changed, the meter indicates the fraction of light transmitted through the sample (or, conversely, the fraction of light absorbed). This figure shows the transmittance reading on the meter when (a) green light and then (b) blue light are passed through a chlorophyll solution.
+
+The absorption spectra of chloroplast pigments provide clues to the relative effectiveness of different wavelengths for driving photosynthesis, since light can perform work in chloroplasts only if it is absorbed. FIGURE 10.8 a shows the absorption spectra of a type of chlorophyll called chlorophyll a and some other pigments in the chloroplast. If we look first at the absorption spectrum of chlorophyll a, it suggests that blue and red light work best for photosynthesis, while green is the least effective color. This is confirmed by an action spectrum for photosynthesis (FIGURE 10.8b), which profiles the relative performance of the different wavelengths. An action spectrum is prepared by illuminating chloroplasts with different colors of light and then plotting wavelength against some measure of photosynthetic rate, such as carbon dioxide consumption or oxygen release. The action spectrum for photosynthesis was first demonstrated in 1883 in an elegant experiment performed by the German botanist Thomas Engelmann, who used bacteria to measure rates of photosynthesis in filamentous algae (FIGURE 10.8c).
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-8. Evidence that chloroplast pigments participate in photosynthesis: absorption and action spectra for photosynthesis in an alga.
+
+Notice by comparing FIGURES 10.8a and 10.8b that the action spectrum for photosynthesis does not exactly match the absorption spectrum of chlorophyll a. The absorption spectrum of chlorophyll a alone underestimates the effectiveness of certain wavelengths in driving photosynthesis. This is partly because chlorophyll a is not the only photosynthetically important pigment in chloroplasts. Only chlorophyll a can participate directly in the light reactions, which convert solar energy to chemical energy. But other pigments in the thylakoid membrane can absorb light and transfer the energy to chlorophyll a, which then initiates the light reactions. One of these accessory pigments is another form of chlorophyll, chlorophyll b. Chlorophyll b is almost identical to chlorophyll a (see FIGURE 10.9 on page 184), but a slight structural difference between them is enough to give the two pigments slightly different absorption spectra and hence different colors. Chlorophyll a is blue-green, whereas chlorophyll b is yellow-green. If a photon of sunlight is absorbed by chlorophyll b, energy is conveyed to chlorophyll a, which then behaves just as though it had absorbed the photon. Other accessory pigments include carotenoids, hydrocarbons that are various shades of yellow and orange (see FIGURE 10.8a). Carotenoids may broaden the spectrum of colors that can drive photosynthesis. However, a more important function of at least some carotenoids seems to be photoprotection: Rather than transmit energy to chlorophyll, these compounds absorb and dissipate excessive light energy that would otherwise damage chlorophyll. (Interestingly, carotenoids similar to the photoprotective ones in chloroplasts have a photoprotective role in the human eye.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-9. Location and structure of chlorophyll molecules in plants. A plant's chlorophyll molecules, along with accessory pigment molecules, are immersed in the thylakoid membranes of chloroplasts, in association with protein (purple). Chlorophyll a, the pigment that participates directly in the light reactions of photosynthesis, has a "head," called a porphyrin ring, with a magnesium atom at its center. Attached to the porphyrin is a hydrocarbon tail, which interacts with hydrophobic regions of proteins inside the thylakoid membrane. Chlorophyll b differs from chlorophyll a only in one of the functional groups bonded to the porphyrin.
+
+Excitation of Chlorophyll by Light
+
+What exactly happens when chlorophyll and other pigments absorb photons? The colors corresponding to the absorbed wavelengths disappear from the spectrum of the transmitted and reflected light, but energy cannot disappear. When a molecule absorbs a photon, one of the molecule's electrons is elevated to an orbital where it has more potential energy. When the electron is in its normal orbital, the pigment molecule is said to be in its ground state. After absorption of a photon boosts an electron to an orbital of higher energy, the pigment molecule is said to be in an excited state. The only photons absorbed are those whose energy is exactly equal to the energy difference between the ground state and an excited state, and this energy difference varies from one kind of atom or molecule to another. Thus, a particular compound absorbs only photons corresponding to specific wavelengths, which is why each pigment has a unique absorption spectrum.
+
+Photons are absorbed by clusters of pigment molecules embedded in the thylakoid membrane (FIGURE 10.9). The energy of an absorbed photon is converted to the potential energy of an electron raised from the ground state to an excited state. But the electron cannot remain there long; the excited state, like all high-energy states, is unstable. Generally, when pigments absorb light, their excited electrons drop back down to the ground-state orbital in a billionth of a second, releasing their excess energy as heat. This conversion of light energy to heat is what makes the top of an automobile so hot on a sunny day. (White cars are coolest because their paint reflects all wavelengths of visible light, although it may absorb ultraviolet and other invisible radiation.) Some pigments, including chlorophyll, emit light as well as heat after absorbing photons. The electron jumps to a state of greater energy, and as it falls back to ground state, a photon is given off. This afterglow is called fluorescence. If a solution of chlorophyll isolated from chloroplasts is illuminated, it will fluoresce in the red part of the spectrum and also give off heat (FIGURE 10.10).
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-10. Excitation of isolated chlorophyll by light. (a) Absorption of a photon causes a transition of the chlorophyll molecule from its ground state to its excited state. The photon boosts an electron to an orbital where it has more potential energy. If the illuminated molecule exists in isolation, its excited electron immediately drops back down to the ground-state orbital, and its excess energy is given off as heat and fluorescence (light). (b) A chlorophyll solution excited with ultraviolet light will fluoresce with a red-orange glow.
+
+Photosystems: Light-Harvesting Complexes of the Thylakoid Membrane
+
+Chlorophyll excited by absorption of light energy produces very different results in an intact chloroplast than it does in isolation. In its native environment of the thylakoid membrane, chlorophyll is organized along with proteins and other kinds of smaller organic molecules into photosystems.
+
+A photosystem has a light-gathering "antenna complex" consisting of a cluster of a few hundred chlorophyll a, chlorophyll b, and carotenoid molecules (FIGURE 10.11). The number and variety of pigment molecules enable a photosystem to harvest light over a larger surface and a larger portion of the spectrum than any single pigment molecule could harvest. When any antenna molecule absorbs a photon, the energy is transmitted from pigment molecule to pigment molecule until it reaches a particular chlorophyll a. What is special about this chlorophyll a molecule is not its molecular structure, but its position. Only this chlorophyll molecule is located in the region of the photosystem called the reaction center, where the first light-driven chemical reaction of photosynthesis occurs.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-11. How a photosystem harvests light. Photosystems are the light-harvesting units of the thylakoid membrane. Each photosystem is a complex of proteins and other kinds of molecules and includes an antenna consisting of a few hundred pigment molecules. When a photon strikes a pigment molecule, the energy is passed from molecule to molecule until it reaches the reaction center. At the reaction center, an excited electron from the reaction-center chlorophyll is captured by a specialized molecule called the primary electron acceptor.
+
+Sharing the reaction center with the chlorophyll a molecule is a specialized molecule called the primary electron acceptor. In an oxidation-reduction reaction, the chlorophyll a molecule at the reaction center loses one of its electrons to the primary electron acceptor. This redox reaction occurs when light excites the electron to a higher energy level in chlorophyll and the electron acceptor traps the high-energy electron before it can return to the ground state in the chlorophyll molecule. Isolated chlorophyll fluoresces because there is no electron acceptor to prevent electrons of photoexcited chlorophyll from dropping right back to the ground state. In a chloroplast, the acceptor molecule functions like a dam that prevents this immediate plunge of high-energy electrons back to the ground state. Thus, each photosystem--reaction-center chlorophyll and primary electron acceptor surrounded by an antenna complex--functions in the chloroplast as a light-harvesting unit. The solar-powered transfer of electrons from chlorophyll to the primary electron acceptor is the first step of the light reactions.
+
+The thylakoid membrane is populated by two types of photosystems that cooperate in the light reactions of photosynthesis. They are called photosystem I and photosystem II, in order of their discovery. Each has a characteristic reaction center--a particular kind of primary electron acceptor next to a chlorophyll a molecule associated with specific proteins. The reaction-center chlorophyll of photosystem I is known as P700 because this pigment is best at absorbing light having a wavelength of 700 nm (the far-red part of the spectrum). The chlorophyll at the reaction center of photosystem II is called P680 because its absorption spectrum has a peak at 680 nm (also in the red part of the spectrum). These two pigments, P700 and P680, are actually identical chlorophyll a molecules. However, their association with different proteins in the thylakoid membrane affects the electron distribution in the chlorophyll molecules and accounts for the slight differences in light-absorbing properties. Now let's see how the two photosystems work together in using light energy to generate ATP and NADPH, the two main products of the light reactions.
+
+Noncyclic Electron Flow
+
+Light drives the synthesis of NADPH and ATP by energizing the two photosystems embedded in the thylakoid membranes of chloroplasts. The key to this energy transformation is a flow of electrons through the photosystems and other molecular components built into the thylakoid membrane. During the light reactions of photosynthesis, there are two possible routes for electron flow: cyclic and noncyclic. Noncyclic electron flow, the predominant route, is shown in FIGURE 10.12 on p. 186 The numbers in the text description correspond to the numbered steps in the figure.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-12. How noncyclic electron flow during the light reactions generates ATP and NADPH. The gold arrows trace the current of light-driven electrons from water to NADPH. Each photon of light excites a single electron, but the diagram tracks two electrons at a time, the number of electrons required to reduce NADP+. The numbered steps are described in the text.
+
+The energy changes of electrons as they flow through the light reactions are analogous to the cartoon in FIGURE 10.13. As complicated as the scheme is, do not lose track of its functions: The light reactions use solar power to generate ATP and NADPH, which provide chemical energy and reducing power, respectively, to the sugar-making reactions of the Calvin cycle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-13. A mechanical analogy for the light reactions.
+
+Cyclic Electron Flow
+
+Under certain conditions, photoexcited electrons take an alternative path called cyclic electron flow, which uses photosystem I but not photosystem II. You can see in FIGURE 10.14 that cyclic flow is a short circuit: The electrons cycle back from ferredoxin (Fd) to the cytochrome complex and from there continue on to the P700 chlorophyll. There is no production of NADPH and no release of oxygen. Cyclic flow does, however, generate ATP. This is called cyclic photophosphorylation, to distinguish it from noncyclic photophosphorylation.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-14. Cyclic electron flow. Photoexcited electrons from photosystem I are occasionally shunted back from ferredoxin (Fd) to chlorophyll via the cytochrome complex and plastocyanin (Pc). This electron shunt supplements the supply of ATP but produces no NADPH. The "shadow" of noncyclic electron flow is included in the diagram for comparison with the cyclic route. The two ferredoxin molecules shown in this diagram are actually one and the same--the final electron carrier in the electron transport chain of photosystem I.
+
+What is the function of cyclic electron flow? Noncyclic electron flow produces ATP and NADPH in roughly equal quantities, but the Calvin cycle consumes more ATP than NADPH. Cyclic electron flow makes up the difference. The concentration of NADPH in the chloroplast may help regulate which pathway, cyclic versus noncyclic, electrons take through the light reactions. If the chloroplast runs low on ATP for the Calvin cycle, NADPH will begin to accumulate as the Calvin cycle slows down. The rise in NADPH may stimulate a temporary shift from noncyclic to cyclic electron flow until ATP supply catches up with demand.
+
+Whether photophosphorylation is driven by noncyclic or cyclic electron flow, the actual mechanism for ATP synthesis is the same. This is a good time to review chemiosmosis, the process that uses membranes to couple redox reactions to ATP production.
+
+A Comparison of Chemiosmosis in Chloroplasts and Mitochondria
+
+Chloroplasts and mitochondria generate ATP by the same basic mechanism: chemiosmosis. An electron transport chain assembled in a membrane pumps protons across the membrane as electrons are passed through a series of carriers that are progressively more electronegative. In this way, electron transport chains transform redox energy to a proton-motive force, potential energy stored in the form of an H+ gradient across a membrane. Built into the same membrane is an ATP synthase complex that couples the diffusion of hydrogen ions down their gradient to the phosphorylation of ADP. Some of the electron carriers, including the iron-containing proteins called cytochromes, are very similar in chloroplasts and mitochondria. The ATP synthase complexes of the two organelles are also very much alike. But there are noteworthy differences between oxidative phosphorylation in mitochondria and photophosphorylation in chloroplasts. In mitochondria, the high-energy electrons dropped down the transport chain are extracted from food molecules (which are thus oxidized). Chloroplasts do not need food to make ATP; their photosystems capture light energy and use it to drive electrons to the top of the transport chain. In other words, mitochondria transfer chemical energy from food molecules to ATP, whereas chloroplasts transform light energy into chemical energy.
+
+The spatial organization of chemiosmosis also differs in chloroplasts and mitochondria (FIGURE 10.15). The inner membrane of the mitochondrion pumps protons from the mitochondrial matrix out to the intermembrane space, which then serves as a reservoir of hydrogen ions that powers the ATP synthase. The thylakoid membrane of the chloroplast pumps protons from the stroma into the thylakoid space, which functions as the H+ reservoir. The thylakoid membrane makes ATP as the hydrogen ions diffuse from the thylakoid space back to the stroma through ATP synthase complexes, whose catalytic knobs are on the stroma side of the membrane. Thus, ATP forms in the stroma, where it is used to help drive sugar synthesis during the Calvin cycle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-15. Comparison of chemiosmosis in mitochondria and chloroplasts. In both kinds of organelles, electron transport chains pump protons (H+) across a membrane from a region of low H+ concentration (light brown in this diagram) to one of high H+ concentration (darker brown). The protons then diffuse back across the membrane through ATP synthase, driving the synthesis of ATP. The diagram identifies the regions of high and low H+ concentration in the two organelles.
+
+The proton gradient, or pH gradient, across the thylakoid membrane is substantial. When chloroplasts are illuminated, the pH in the thylakoid space drops to about 5, and the pH in the stroma increases to about 8. This gradient of three pH units corresponds to a thousandfold difference in H+ concentration. If in the laboratory the lights are turned off, the pH gradient is abolished, but it can quickly be restored by turning the lights back on. Such experiments add to the evidence described in Chapter 9 in support of the chemiosmotic model.
+
+Based on studies in several laboratories, FIGURE 10.16 shows a current model for the organization of the light-reaction "machinery" within the thylakoid membrane. Each of the molecules and molecular complexes in the figure is present in numerous copies in each thylakoid. Notice that NADPH, like ATP, is produced on the side of the membrane facing the stroma, where the Calvin cycle reactions take place.
+
+
+
+Click image to enlarge
+
+
+
+Fig 10-16. The light reactions and chemiosmosis: the organization of the thylakoid membrane. This diagram shows a current model for the organization of the thylakoid membrane. The gold arrows track the noncyclic electron flow outlined in FIGURE 10.12. As electrons pass from carrier to carrier in redox reactions, hydrogen ions removed from the stroma are deposited in the thylakoid space, storing energy as a proton-motive force (H+ gradient). At least three steps in the light reactions contribute to the proton gradient: 
+			  
+		 Water is split by photosystem II on the side of the membrane facing the thylakoid space; 
+			  
+		 as plastoquinone (Pq), a mobile carrier, transfers electrons to the cytochrome complex, protons are translocated across the membrane; and 
+			  
+		 a hydrogen ion is removed from the stroma when it is taken up by NADP+. The diffusion of H+ from the thylakoid space to the stroma (along the H+ concentration gradient) powers the ATP synthase. These light-driven reactions store chemical energy in NADPH and ATP, which shuttle the energy to the sugar-producing Calvin cycle.
+
+Let's summarize the light reactions. Noncyclic electron flow pushes electrons from water, where they are at a low state of potential energy, to NADPH, where they are stored at a high state of potential energy. The light-driven electron current also generates ATP. Thus, the equipment of the thylakoid membrane converts light energy to the chemical energy stored in NADPH and ATP. (Oxygen is a by-product.) Let's now see how the Calvin cycle uses the products of the light reactions to synthesize sugar from CO2.
+
+
+
+

@@ -1,0 +1,36 @@
+
+ The ends of DNA molecules are replicated by a special mechanism
+
+Most DNA repair processes involve DNA polymerases, but these enzymes are helpless to fix a "defect" that results from their own limitations. For linear DNA, such as the DNA of eukaryotic chromosomes, the fact that a DNA polymerase can only add nu cleotides to the 3&#39; end of a preexisting polynucleotide leads to a potential problem. The usual replication machinery provides no way to complete the 5&#39; ends of daughter DNA strands; as a result, repeated rounds of replication produce shorter and shorter DNA molecules (FIGURE 16.18, p. 300). If a cell divided enough times, essential genes would be deleted. Clearly, if this trend continued over generations, we would not be here today!
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-18. The end-replication problem. When a linear DNA molecule replicates, a gap is left at the 5&#39; end of each new strand (light blue) because DNA polymerase can only add nucleotides to a 3&#39; end. As a result, with each round of replication, the DNA molecules get slightly shorter. For simplicity we show only one end of a linear DNA molecule.
+
+Prokaryotes avoid this problem by having circular DNA molecules (which have no ends), but what about eukaryotes? Eukaryotic chromosomal DNA molecules have special nucleotide sequences called telomeres at their ends (FIGURE 16.19). Telomeres do not contain genes; instead, the DNA consists of multiple repetitions of one short nucleotide sequence. The repeated unit in human telomeres, which is typical, is the six-nucleotide sequence TTAGGG. The number of repetitions in a telomere varies between about 100 and 1,000. Telomeric DNA protects the organism's genes from being eroded through successive rounds of DNA replication. In addition, telomeric DNA and special proteins associated with it somehow prevent the ends from activating the cell's systems for monitoring DNA damage. (The end of a DNA molecule that is "seen" as a double-strand break may otherwise trigger signal-transduction pathways leading to cell cycle arrest or cell death.)
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 16-19. Telomeres and telomerase. Eukaryotes deal with the end-replication issue by having expendable, noncoding sequences called telomeres at the ends of their DNA and the enzyme telomerase in some of their cells.
+
+In the long term, over the course of generations, eukaryotic organisms need a way of restoring their shortened telomeres. This is provided by telomerase, a special enzyme that catalyzes the lengthening of telomeres. But how does telomerase synthesize DNA where the DNA template has been lost? Telomerase is unusual in having a short molecule of RNA along with its protein. The RNA contains a nucleotide sequence that serves as the template for new telomere segments at the 3&#39; end of the telo-mere. FIGURE 16.19 shows how telomerase and DNA polymerase work together to lengthen telomeres.
+
+Telomerase is not present in most cells of multicellular organisms like ourselves, and the DNA of dividing somatic cells does tend to be shorter in older individuals and in cultured cells that have divided many times. Thus, it is possible that telomeres are a limiting factor in the life span of certain tissues and even the organism as a whole. In any case, telomerase is present in germ-line cells, those that give rise to gametes. The enzyme produces long telomeres in these cells and hence in the newborn.
+
+Intriguingly, researchers have also found telomerase in somatic cells that are cancerous. Cells from large tumors often have unusually short telomeres, as one would expect for cells that have undergone many cell divisions. Progressive shortening would presumably lead eventually to self-destruction of the cancer unless telomerase became available to stabilize telomere length. This is exactly what seems to happen in cancer cells and also in immortal strains of cultured cells (see Chapter 12). If telomerase is indeed an important factor in many cancers, it may provide a useful target for both cancer diagnosis and chemotherapy.
+
+DNA replication provides the copies of genes that parents pass to offspring via gametes. However, it is not enough that genes be copied and transmitted; they must also be expressed. How do genes manifest themselves in phenotypic characters such as eye color? In the next chapter, we will examine the molecular basis of gene expression--how the cell translates genetic information encoded in DNA.
+
+
+
+

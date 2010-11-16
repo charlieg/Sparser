@@ -1,0 +1,792 @@
+
+Chapter 28: THE ORIGINS OF EUKARYOTIC DIVERSITY
+
+INTRODUCTION TO THE PROTISTS
+
+   Systematists have split protists into many kingdoms
+
+   Protists are the most diverse of all eukaryotes
+
+
+
+THE ORIGIN AND EARLY DIVERSIFICATION OF EUKARYOTES
+
+   Endomembranes contributed to larger, more complex cells
+
+   Mitochondria and plastids evolved from endosymbiotic bacteria
+
+   The eukaryotic cell is a chimera of prokaryotic ancestors
+
+   Secondary endosymbiosis increased the diversity of algae
+
+   Research on the relationships between the three domains is changing ideas about the deepest branching in the tree of life
+
+   The origin of eukaryotes catalyzed a second great wave of diversification
+
+
+
+A SAMPLE OF PROTISTAN DIVERSITY
+
+   Diplomonadida and Parabasala: Diplomonads and parabasalids lack mitochondria
+
+   Euglenozoa: The euglenozoa includes both photosynthetic and heterotrophic flagellates
+
+   Alveolata: The alveolates are unicellular protists with subsurface cavities (alveoli)
+
+   Stramenopila: The stramenopile clade includes the water molds and the heterokont algae
+
+   Structural and biochemical adaptations help seaweeds survive and reproduce at the ocean's margins
+
+   Some algae have life cycles with alternating multicellular haploid and diploid generations
+
+   Rhodophyta: Red algae lack flagella
+
+   Chlorophyta: Green algae and plants evolved from a common photoautotrophic ancestor
+
+   A diversity of protists use pseudopodia for movement and feeding
+
+   Mycetozoa: Slime molds have structural adaptations and life cycles that enhance their ecological roles as decomposers
+
+   Multicellularity originated independently many times
+
+"No more pleasant sight has met my eye than this of so many thousands of living creatures in one small drop of water," wrote Anton van Leeuwenhoek after his discovery of the microbial world more than three centuries ago. It is a world every biology student rediscovers by peering through a microscope into a droplet of pond water filled with diverse creatures we call protists (see the photograph on this page).
+
+Protists are eukaryotic, and thus even the simplest protists are much more complex than the prokaryotes. The first eukaryotes to evolve from prokaryotic ancestors were unicellular. The primal eukaryotes were not only the predecessors of the great variety of modern protists but were also ancestral to all other eukaryotes--plants, fungi, and animals. Two of the most significant chapters in the history of life--the origin of the eukaryotic cell and the subsequent emergence of multicellular eukaryotes--unfolded during the evolution of protists.
+
+This chapter traces the origins of eukaryotic cells, examines the diversity, evolution, and ecology of protists, and considers the evolutionary origins of multicellular organization.
+
+
+
+
+
+INTRODUCTION TO THE PROTISTS
+
+ 
+
+ Systematists have split protists into many kingdoms
+
+
+
+ 
+
+ Protists are the most diverse of all eukaryotes
+
+
+
+In Chapter 26, we discussed eukaryotic fossils that are 2.1 billion years old and "chemical signatures" characteristic of eukaryotes dating back 2.7 billion years. For about 2 billion years before there were animals, fungi, and plants, the early eukaryotes gave rise to a great diversity of the mostly microscopic organisms we know by the informal name "protists."
+
+
+
+
+
+THE ORIGIN AND EARLY DIVERSIFICATION OF EUKARYOTES
+
+ 
+
+ Endomembranes contributed to larger, more complex cells
+
+
+
+ 
+
+ Mitochondria and plastids evolved from endosymbiotic bacteria
+
+
+
+ 
+
+ The eukaryotic cell is a chimera of prokaryotic ancestors
+
+
+
+ 
+
+ Secondary endosymbiosis increased the diversity of algae
+
+
+
+ 
+
+ Research on the relationships between the three domains is changing ideas about the deepest branching in the tree of life
+
+
+
+ 
+
+ The origin of eukaryotes catalyzed a second great wave of diversification
+
+
+
+Even a very small protist such as Euglena, shown in FIGURE 28.3, is far more complex in structure than any prokaryote. During the genesis of protists, the cellular structures and processes unique to eukaryotic cells arose: a membrane-enclosed nucleus, the endomembrane system, mitochondria, chloroplasts, the cytoskeleton, 9 + 2 flagella, multiple chromosomes consisting of linear DNA molecules compactly arranged with proteins, and life cycles that include mitosis, meiosis, and sex. Among the most fundamental questions in biology is how the complex eukaryotic cell evolved from much simpler prokaryotic cells.
+
+
+
+
+
+A SAMPLE OF PROTISTAN DIVERSITY
+
+ 
+
+ Diplomonadida and Parabasala: Diplomonads and parabasalids lack mitochondria
+
+
+
+ 
+
+ Euglenozoa: The euglenozoa includes both photosynthetic and heterotrophic flagellates
+
+
+
+ 
+
+ Alveolata: The alveolates are unicellular protists with subsurface cavities (alveoli)
+
+
+
+ 
+
+ Stramenopila: The stramenopile clade includes the water molds and the heterokont algae
+
+
+
+ 
+
+ Structural and biochemical adaptations help seaweeds survive and reproduce at the ocean's margins
+
+
+
+ 
+
+ Some algae have life cycles with alternating multicellular haploid and diploid generations
+
+
+
+ 
+
+ Rhodophyta: Red algae lack flagella
+
+
+
+ 
+
+ Chlorophyta: Green algae and plants evolved from a common photoautotrophic ancestor
+
+
+
+ 
+
+ A diversity of protists use pseudopodia for movement and feeding
+
+
+
+ 
+
+ Mycetozoa: Slime molds have structural adaptations and life cycles that enhance their ecological roles as decomposers
+
+
+
+ 
+
+ Multicellularity originated independently many times
+
+
+
+
+
+
+
+ Systematists have split protists into many kingdoms
+
+Molecular systematics and cladistics are combining to chip away at the traditional five-kingdom system of classification (see FIGURE 26.15). A single prokaryotic kingdom, Monera, is incompatible with the new three-domain system that divides the prokaryotes into two superkingdoms, or domains: the domain Bacteria and the domain Archaea (see Chapter 27). Within the third domain, Eukarya, we find all of the eukaryotes, which were divided in the five-kingdom system into four kingdoms: Protista, Plantae, Fungi, and Animalia. The plant, fungus, and animal kingdoms are surviving the taxonomic remodeling so far, though their boundaries have expanded somewhat to include certain groups formerly classified as protists. However, the kingdom Protista has been crumbled beyond repair by the methods of modern systematics.
+
+A protist kingdom was always a bit of a problem, even when the five-kingdom system was in its prime. Protista was defined partly by its members' structure--containing mostly unicellular eukaryotes--and partly by its role as a receptacle for all those eukaryotes that do not fit our definitions of plants, fungi, or animals. While most organisms classified as protists are single-celled and microscopic, the kingdom also included some relatively simple multicellular forms and even some relatively complex giants, such as seaweeds. Thus, organisms as diverse as amoebas and kelp (brown seaweeds) were classified in the same kingdom (FIGURE 28.1). The main thing they had in common was that they were not animals, fungi, or true plants (as we'll define them in the next chapter). The kingdom Protista was convenient, but it has not stood up to phylogenetic scrutiny. Certain protists are far less closely related to each other than plants are to animals. And certain protists are more closely related to plants, fungi, or animals than they are to other protists. To use the terminology of cladistics, the kingdom Protista was paraphyletic (FIGURE 28.2; also see FIGURE 25.9).
+
+a.
+
+b.
+
+c.
+
+d.
+
+Click image to enlarge
+
+
+
+Fig 28-1. Too diverse for one kingdom: a small sample of protists. Though systematists have split the five-kingdom system's Protista into many kingdoms, "protist" is still a convenient informal term for the great diversity of eukaryotes that are not plants, fungi, or animals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-2. The kingdom Protista problem. In this simplified tree of eukaryotes, the diverse lineages that were once combined in the kingdom Protista are highlighted by the yellow background. It was a paraphyletic taxon (see FIGURE 25.9).
+
+As biologists learned more about various groups of protists, the inclusion of such diverse lineages within a single kingdom became phylogenetically untenable. Systematists have split what was once the kingdom Protista into as many as 20 kingdoms. However, most biologists use "protist" as an informal term for this great diversity of eukaryotic kingdoms.
+
+
+
+
+
+ Protists are the most diverse of all eukaryotes
+
+Given the taxonomic fragmentation of the protists into multiple kingdoms, you shouldn't be surprised that protists are so diverse that few general characteristics can be cited without exceptions. In fact, protists vary in structure and function more than any other group of organisms. Most of the approximately 60,000 known species of extant protists are unicellular, but there are also some colonial and multicellular species (see FIGURE 28.1). Because most protists are unicellular, they are justifiably considered the simplest eukaryotic organisms. But at the cellular level, many protists are exceedingly complex--the most elaborate of all cells. We should expect this of organisms that must carry out within the boundaries of a single cell all the basic functions performed by the specialized cells that make up the bodies of plants and animals. Each unicellular protist is not at all analogous to a single cell from a human or other multicellular organism, but is itself an organism as complete as any whole plant or animal.
+
+Nutrition
+
+Protists are the most nutritionally diverse of all eukaryotes. Most protists are aerobic in their metabolism, using mitochondria for cellular respiration (a few lack mitochondria and either live in anaerobic environments or contain mutualistic respiring bacteria). Some protists are photoautotrophs, containing chloroplasts; some are heterotrophs, absorbing organic molecules or ingesting larger food particles; and still others, called mixotrophs, combine photosynthesis and heterotrophic nutrition (an example is Euglena, shown in FIGURE 28.3).
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-3. Euglena: an example of a single-celled protist. This protist, one of the most common inhabitants of murky pond water, is mixotrophic: In light, its chloroplasts are photosynthetic; if placed in the dark, the organism can live as a heterotroph by absorbing organic nutrients from the environment. Some related species lack chloroplasts and ingest food by phagocytosis.
+
+The different modes of nutrition are scattered throughout the various phylogenetic lineages of protists. For example, there are photosynthetic species in many different protistan groups. And the same group may include photosynthetic species, heterotrophic species, and mixotrophs. Thus, nutrition is not a reliable taxonomic characteristic. However, nutrition is useful in an ecological context to help us understand the adaptations of protists and the roles they play in biological communities. In this ecological context, we can divide protists into three categories: ingestive (animal-like) protists, or protozoa (singular, protozoan); absorptive (funguslike) protists (these have no other general name); and photosynthetic (plantlike) protists, or algae (singular, alga). The term alga refers to relatively simple aquatic photoautotrophs, including some organisms that some biologists include in the plant kingdom. Though commonly used, the terms protozoa and algae have no basis in phylogeny and no significance in taxonomy.
+
+Motility
+
+Most protists are motile, usually having flagella or cilia at some time in their life cycles. It is important to understand that prokaryotic and eukaryotic versions of flagella are not homologous structures. Prokaryotic flagella are attached to the cell surface (see FIGURE 27.7). In contrast, eukaryotic flagella and cilia are extensions of the cytoplasm, with bundles of microtubules covered by the plasma membrane (see FIGURE 7.24). Eukaryotic cilia and flagella have the same basic ultrastructure (the 9 + 2 arrangement of microtubules), but cilia are shorter and more numerous.
+
+Life Cycles
+
+Reproduction and life cycles are highly varied among protists. Mitosis occurs in almost all protists, but there are many variations in the process unknown in other eukaryotes. Some protists are exclusively asexual; others can also reproduce sexually or at least employ the sexual processes of meiosis and syngamy (the union of two gametes), thereby shuffling genes between two individuals that then go on to reproduce asexually. In Chapter 13, you learned about three basic types of sexual life cycles that differ in the timing of meiosis and syngamy (see FIGURE 13.5). All three types are represented among protists, along with some variations that do not quite fit any of the three basic life cycle patterns. However, the haploid stage is the main vegetative (feeding and growing) stage of most protists, with the only diploid cell being the zygote.
+
+At some point in the life cycle of many protists, resistant cells called cysts are formed that can survive harsh conditions. Microfossils resembling the ruptured cysts of some algae are among the oldest remnants of eukaryotic life in the Precambrian era.
+
+Protistan Habitats
+
+Most protists are aquatic organisms. They are found almost anywhere there is water, including damp soil, leaf litter, and other terrestrial habitats that are sufficiently moist. In oceans, ponds, and lakes, many protists are bottom dwellers that attach themselves to rocks and other anchorages or creep through the sand and silt. Protists are also important constituents of plankton (from the Greek planktos, wandering), the communities of organisms, mostly microscopic, that drift passively or swim weakly near the water surface. Phytoplankton (planktonic eukaryotic algae, along with the prokaryotic cyanobacteria) are the bases of most marine and freshwater food webs. Accounting for at least half the photosynthetic production of organic material globally, phytoplankton supports an enormous abundance and diversity of heterotrophic protists, prokaryotes, and animals.
+
+In addition to free-living protists are the many symbionts that inhabit the body fluids, tissues, or cells of hosts. These symbiotic relationships span the continuum from mutualism to parasitism. Some parasitic protists are important pathogens of animals, including many, like the agent of malaria, that cause potentially fatal diseases in humans.
+
+In this introduction to the protists, we have previewed the enormous diversity of these organisms. The one characteristic they do share is that their cells are eukaryotic, as are those of plants, animals, and fungi. Before taking a closer look at the diversity of protists, let's consider the origin of the domain Eukarya from prokaryotic ancestors.
+
+
+
+
+
+ Endomembranes contributed to larger, more complex cells
+
+The small size and relatively simple construction of a prokaryote confer many advantages but also impose limits on the number of different metabolic activities that can be handled at one time. The relatively small size of the prokaryotic genome limits the number of genes coding for the enzymes that control these activities. This is not to say that prokaryotes are less successful than eukaryotes. Prokaryotes have been evolving and adapting since the dawn of life, and they are the most widespread organisms even today.
+
+In at least some prokaryotic groups, increasing complexity--higher levels of organization with emergent properties--evolved. One trend was the evolution of multicellular prokaryotes, such as some filamentous cyanobacteria, where different cell types are specialized for different functions (see FIGURE 27.8). A second trend was the evolution of complex communities of prokaryotes, where each species benefited from the metabolic specialties of other species. A third trend was the compartmentalization of different functions within single cells, an evolutionary solution that contributed to the origin of eukaryotes.
+
+How did compartmental organization of the eukaryotic cell evolve from the simpler prokaryotic condition? In one process, the endomembrane system of eukaryotic cells--the nuclear envelope, endoplasmic reticulum, Golgi apparatus, and related structures--may have evolved from specialized infoldings of the prokaryotic plasma membrane (FIGURE 28.4). Another process, called endosymbiosis, probably led to mitochondria, plastids, and perhaps some of the other features of eukaryotic cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-4. A model of the origin of eukaryotes.
+
+
+
+
+
+ Mitochondria and plastids evolved from endosymbiotic bacteria
+
+The hypothesis we just referred to for the origin of the endomembrane system of eukaryotic cells fits the traditional Darwinian concept of gradual refinement of existing structures through natural selection. It seems like a reasonable guess that eukaryotes evolved from a single prokaryotic ancestor that gradually accumulated greater structural complexity. But the evidence is now overwhelming that the eukaryotic cell originated from a symbiotic coalition of multiple prokaryotic ancestors, not just one. We'll examine how this merger of organisms gave rise to two key eukaryotic organelles: mitochondria and plastids (the general term for the class of eukaryotic organelles that includes chloroplasts, as well as other types of plastids, both photosynthetic and nonphotosynthetic).
+
+An idea originated by the early 20th century Russian biologist C. Mereschkovsky and developed extensively by Lynn Margulis, of the University of Massachusetts, the theory of serial endosymbiosis proposes that mitochondria and chloroplasts were formerly small prokaryotes living within larger cells. The term endosymbiont is used for the cell that lives within another cell, called the host cell. The proposed ancestors of mitochondria were aerobic heterotrophic prokaryotes that became endosymbionts. The proposed ancestors of chloroplasts were photosynthetic prokaryotes that became endosymbionts.
+
+The prokaryotic ancestors of mitochondria and chloroplasts probably gained entry to the host cell as undigested prey or internal parasites (see FIGURE 28.4). Such a mechanism suggests an earlier evolution of an endomembrane system and a cytoskeleton that made it possible for the larger cell to engulf the smaller prokaryotes and package them within vesicles. By whatever means the relationships began, it is not hard to imagine the symbiosis eventually becoming mutually beneficial. A heterotrophic host could use nutrients released from photosynthetic endosymbionts. And in a world that was becoming increasingly aerobic, a cell that was itself an anaerobe would have benefited from aerobic endosymbionts that turned the oxygen to advantage. In the process of becoming more interdependent, the host and endosymbionts would have become a single organism, its parts inseparable. All eukaryotes, whether heterotrophic or autotrophic, have mitochondria or genetic remnants of these organelles. However, not all eukaryotes have chloroplasts. Thus, the hypothesis of serial endosymbiosis (a sequence of endosymbiotic events) supposes that mitochondria evolved before chloroplasts.
+
+The evidence supporting an endosymbiotic origin of chloroplasts and mitochondria includes the existence of endosymbiotic relationships in the modern world. Another line of evidence is the similarity between bacteria and the chloroplasts and mitochondria of eukaryotes. Both chloroplasts and mitochondria are the appropriate size to be descendants of bacteria. The inner membranes of chloroplasts and mitochondria, derived from the membranes of endosymbiotic prokaryotes, according to the endosymbiotic theory, do indeed have several enzymes and transport systems that resemble those found on the plasma membranes of modern prokaryotes. Mitochondria and chloroplasts replicate by a splitting process reminiscent of binary fission in bacteria. Each chloroplast and mitochondrian contains a genome consisting of a single circular DNA molecule not associated with histones or other proteins, as in most prokaryotes. The organelles contain the transfer RNAs, ribosomes, and other equipment needed to transcribe and translate their DNA into proteins. In terms of size, biochemical characteristics, and sensitivity to certain antibiotics, the ribosomes of chloroplasts are more similar to prokaryotic ribosomes than they are to the ribosomes outside the chloroplast in the cytosol of the eukaryotic cell. Mitochondrial ribosomes vary extensively from one group of eukaryotes to another, but they are generally more similar to prokaryotic ribosomes than to their counterparts in the eukaryotic cytoplasm.
+
+A comprehensive theory for the origin of the eukaryotic cell must also account for the evolution of the cytoskeleton, including the 9 + 2 microtubule apparatus of eukaryotic flagella and cilia (see Chapter 7). Some researchers have speculated that eukaryotic flagella and cilia evolved from symbiotic bacteria (see discussion of spirochetes in TABLE 27.3), but the evidence for this is not strong.
+
+Related to the evolution of the eukaryotic flagellum is the origin of mitosis and meiosis, processes unique to eukaryotes that also employ microtubules. Mitosis made it possible to reproduce the large genomes of the eukaryotic nucleus, and the closely related mechanics of meiosis became an essential process in eukaryotic sex. The question of cytoskeleton origin clearly demonstrates how much more researchers have to learn about the genesis of eukaryotic life.
+
+
+
+
+
+ The eukaryotic cell is a chimera of prokaryotic ancestors
+
+The chimera of Greek mythology was a monster that was part goat, part lion, and part serpent. The eukaryotic cell is a chimera of prokaryotic parts, its mitochondria derived from one type of bacteria, its plastids from another, and its nuclear genome from at least one other prokaryote, the cell that hosted the endosymbiotic ancestors of the organelles. Once a consensus for the endosymbiotic theory developed from an accumulation of evidence, many researchers turned their attention to a search for the closest living prokaryotic relatives of the chimeric eukaryotic cell.
+
+The Ancestors of Mitochondria and Chloroplasts
+
+Systematists assessing relationships between organisms as different as modern prokaryotes and eukaryotes must compare molecules, for there are no morphological homologies connecting species so diverse (see Chapter 25). Molecular systematists working on the origin of eukaryotes first focused on the nucleotide sequence of the RNA in the smaller of the two ribosomal subunits. The gene for this small ribosomal subunit RNA (SSU-rRNA, for short) is present in all organisms, making it a good choice for studying the deepest branching in evolutionary history (see Chapter 27). By comparing sequences of SSU-rRNA from various prokaryotes and mitochondria, researchers have determined that the closest prokaryote relatives of mitochondria are the alpha proteobacteria (see TABLE 27.3). The sequences of SSU-rRNA from the plastids of various photosynthetic eukaryotes cluster with the prokaryotes called cyanobacteria. This corroborates other evidence of a relationship between cyanobacteria and plastids, namely that cyanobacteria are the only autotrophic prokaryotes with the water-splitting, oxygenic version of photosynthesis that characterizes chloroplasts and other plastids (see Chapter 27).
+
+Of course, cyanobacteria and proteobacteria have continued to evolve as diverse prokaryotic groups since eukaryotic life began over 2 billion years ago. But somewhere, sometime, in that murky past, cyanobacteria share an ancestor common with the plastids of plants and eukaryotic algae. And proteobacteria share a common ancestor with the mitochondria of all eukaryotes; our own cells depend on the descendants of these bacteria for their ATP supply.
+
+Gene Transfer to the Nucleus
+
+While it is true that plastids and mitochondria contain DNA and the equipment for building proteins, they are not genetically self-sufficient. Some of the proteins within mitochondria and plastids are indeed encoded by the organelles' own DNA. However, the genes for other proteins in the organelles reside in the eukaryotic cell's nucleus. And still other proteins in the organelles are molecular chimeras of polypeptides made in the organelles and polypeptides imported from the cytoplasm, where they are translated from messenger RNA transcribed in the nucleus. An example is the mitochondrial ATP synthase, the protein complex that generates ATP during cellular respiration (see Chapter 9).
+
+If mitochondria and plastids are descendants of bacteria that had their own genomes, then how do we explain the modern collaboration between the genomes of the organelles and nucleus? A reasonable hypothesis is that the endosymbionts transferred some of their DNA to the host cell's genome during the evolutionary transition from a symbiotic community of prokaryotes to an integrated eukaryotic organism. This hypothesis is consistent with the observation that the transfer of DNA between modern prokaryotic species is common--by transformation, for example, when a prokaryote takes up DNA from its surroundings and incorporates it into its own genome (see Chapter 18). It is fair to say that the eukaryotic cell, though chimeric in origin, now has only one genome, mostly nuclear, but complemented by DNA that has remained in the mitochondria and plastids.
+
+
+
+
+
+ Secondary endosymbiosis increased the diversity of algae
+
+We mentioned in our overview of protists that taxonomic groups with plastids--plants and different kinds of algae--are scattered throughout the phylogenetic tree of eukaryotes. The diverse algae display various types of plastids that differ in their ultrastructure, as revealed by electron microscopes. For example, the chloroplasts of plants and a protistan group called green algae have envelopes consisting of two membranes (see FIGURE 7.18). In contrast, some algal groups have plastid envelopes with three or four membranes. For example, the plastids of Euglena (see FIGURE 28.3) have a three-membrane envelope. We also mentioned that some algae are closely related to heterotrophic species. For instance, Euglena belongs to a group of protists that also includes flagellated, heterotrophic forms lacking plastids.
+
+How can we explain the diversity of plastids and the phylogenetic discontinuity of photosynthesis among protists? Support is building for the hypothesis that plastids were acquired independently several times during the early evolution of eukaryotes. The plastids of some algal groups, those with envelopes having more than two membranes, were acquired by secondary endosymbiosis. It was by primary endosymbiosis that certain eukaryotes first acquired the ancestors of plastids by engulfing cyanobacteria. Secondary endosymbiosis occurred after a heterotrophic protist engulfed an alga containing plastids--one eukaryote taking in another eukaryote. In FIGURE 28.5 you see these two modes of plastid acquisition, primary and secondary. How does secondary endosymbiosis explain the observation that some algae have plastids with more than two outer membranes? Each endosymbiotic event adds a membrane derived from the vacuole membrane of the host cell that engulfed the endosymbiont.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-5. Secondary endosymbiosis and the origin of algal diversity. Algal species ABC in this diagram contains plastids derived from endosymbionts that were eukaryotic algae that in turn contained plastids derived from cyanobacteria.
+
+In most cases of secondary plastid acquisition, the endosymbiont gradually lost most of its parts, except, of course, its plastid, which became a plastid within the host cell. In some algae, however, the secondary endosymbionts retained other remnants of their independent past. Consider, for example, a group of flagellated protists called cryptomonad algae. The plastids of these algae contain a structure called a nucleomorph, a vestige of the nucleus of the eukaryotic ancestor of the plastid. There is also a trace of the endosymbiont's cytoplasm, complete with ribosomes. In fact, the cryptomonad plastid contains two distinct populations of ribosomes: ribosomes of the eukaryotic type derived from those of the algal endosymbiont's cytoplasm, and ribosomes of the bacterial type derived from a cyanobacterial endosymbiont of the secondary endosymbiont. Thus, a cryptomonad is like a box containing a box containing a box. The main nucleus and cytoplasm are derived from the prokaryotic host cell that engulfed the prokaryotic ancestor of mitochondria. The eukaryotic descendant of that cell was a heterotroph that later became photosynthetic by taking in a eukaryotic alga. But that secondary endosymbiont itself acquired its plastid earlier in its evolutionary history by taking in a cyanobacterium. Thus, we can trace the ultimate origin of all plastids to cyanobacteria. But some algae acquired that photosynthetic equipment secondhand (or even thirdhand, in the case of algae containing endosymbionts of endosymbionts of endosymbionts).
+
+Through all of this discussion of the chimeric origin of eukaryotes, we have ignored the ancestry of the host cell that got it all started by engulfing the ancestor of mitochondria. We'll see in the next subsection that the search for that ancestor turned up some surprises that are changing the way biologists think about the tree of life.
+
+
+
+
+
+ Research on the relationships between the three domains is changing ideas about the deepest branching in the tree of life
+
+Note how the chimeric origin of the eukaryotic cell contrasts with the classical Darwinian view of lineal descent through a "vertical" series of ancestors. The eukaryotic cell evolved by "horizontal" fusions of species from different phylogenetic lineages. If the history of life is represented by an evolutionary tree, then the origin of eukaryotes would be depicted by cross-branches connecting the main branches of the tree. Trees, of course, aren't like that. Our metaphor of an evolutionary tree, still useful for thinking about diversification within certain lineages such as the plant and animal kingdoms, starts to break down when it comes to the origin of eukaryotes and other very early evolutionary episodes. And now, researchers who are dissecting the chimeric makeup of the nuclear genome of eukaryotes may actually uproot the tree of life even more by changing our view of how eukaryotes are related to the two prokaryotic domains, Bacteria and Archaea. The key question is, What was the identity of the host cell that engulfed the ancestors of mitochondria during the origin of eukaryotes?
+
+FIGURE 28.6 reviews the conventional model of how the three domains are related (also see FIGURE 27.2). This tree reflects molecular evidence that archaea are more closely related to eukaryotes than they are to prokaryotes. For example, archaea and eukaryotes have quite similar proteins functioning in the information-processing steps of transcription and translation (see Chapter 27). As such phylogenetic evidence accumulated, the case strengthened for the hypothesis that the host cell in the endosymbiotic origin of eukaryotes was derived from an early archaean.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-6. Traditional hypothesis for how the three domains of life are related. Tracing the domains back in time, the two prokaryotic branches converge on "LUCA," the last universal common ancestor. The hypothetical tree also depicts the origin of eukaryotes from an archaean-derived host cell with bacterial endosymbionts.
+
+The hypothesis diagrammed in FIGURE 28.6 predicts that the only DNA of bacterial origin we should find in the nucleus of eukaryotes are genes that were transferred there from the endosymbionts that gave rise to mitochondria and plastids. The rest of the genome should be uniquely eukaryotic or derived from archaeal DNA via the host cell of the endosymbiotic scenario. Thus, systematists were surprised to find that the nuclear genome of eukaryotes includes many DNA sequences of bacterial origin that have nothing to do with the functions of mitochondria or plastids. The traditional diagram for the deepest branching of the tree of life also predicts that bacterial genes migrated only to the eukaryotic lineage, not to the branch giving rise to modern archaea. Another surprise: Modern archaea have many genes of bacterial origin. All three domains--Bacteria, Archaea, and Eukarya--seem to have genomes that are chimeric mixes of DNA that was transferred across the boundaries of the domains.
+
+Many researchers who are turning up these surprising relationships among the domains' genomes suggest replacing the classical tree shown in FIGURE 28.6 with a weblike phylogeny like the one in FIGURE 28.7. The key departure from the traditional tree is the absence of a single ancestor common to the three domains (the "root" or "trunk" in the metaphor of an evolutionary tree). Instead, this new model has the three domains arising from an ancestral community of primitive cells that swapped DNA promiscuously. This would explain the chimeric nature of genomes in modern representatives of all three domains. Such gene transfer across species lines still occurs among prokaryotes (see Chapter 18). This doesn't seem to be the case for modern eukaryotes. The chimeric makeup of the eukaryotic cell is a vestige of gene transfers and endosymbiotic events that occurred in prokaryotic communities over 2 billion years ago.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-7. An alternative hypothesis for how the three domains of life are related. Based on evidence of extensive gene transfer between prokaryotic lineages today and throughout the past, this hypothesis replaces "LUCA" with an ancestral community of primitive cells that swapped genes. The diversity of organisms that evolved from that community consolidated into three main phylo genetic branches, the domains Bacteria, Archaea, and Eukarya. In the case of the endosymbiosis that gave rise to the mitochondria and chloroplasts, whole organisms of different evolutionary branches fused. However, most of the horizontal strands fusing with the vertical branches in this phylogeny symbolize the transfer of genes, not whole organisms, between different lineages.
+
+
+
+
+
+ The origin of eukaryotes catalyzed a second great wave of diversification
+
+An orchestra can play a greater variety of musical compositions than a violin soloist can. Put simply, increased complexity makes more variations possible. The origin of the eukaryotic cell catalyzed the evolution of much more structural diversity than was possible for the simpler prokaryotic cells. This built on the first great adaptive radiation, the metabolic diversification of the prokaryotes. A third wave of diversification followed the origin of multicellular bodies in several eukaryotic lineages (a topic we will consider near the end of this chapter).
+
+FIGURE 28.8 (p. 554) is a hypothetical phylogeny for some of the major groups of eukaryotes. The diversity ranges from a great variety of unicellular forms to such macroscopic, multicellular groups as brown algae (a seaweed group), plants, fungi, and animals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-8. A tentative phylogeny of eukaryotes. The eukaryotes that are labeled on the branches are grouped into larger clades that are named in the boxes at the top of the tree. The kingdoms Fungi, Animalia, and Plantae have survived from the five-kingdom system of classification, although their boundaries have changed somewhat. Most of the major groups that used to be included in the kingdom Protista are color-coded yellow. Most protistan systematists now assign kingdom status to each of these groups. In fact, the trend is to split some of the more diverse groups, such as Alveolata and Stramenopila, into multiple kingdoms. Thus, we will make no attempt to predict the outcome of future research by ranking the protistan clades into kingdoms and phyla. As we survey the diversity of protists, each group will be introduced with a miniature version of this diagram so that you can place the group into the overall phylogeny of eukaryotes. However, our diagram omits several protistan groups that are not discussed in this chapter. And the tree even omits some protists that are discussed, such as the forams, because their phylogeny is still uncertain.
+
+The clustering of eukaryotic forms into the clades of FIGURE 28.8 is based on comparisons of cell structure, life cycles, and molecules (nucleic acid and protein sequences). The molecular data include SSU-rRNA sequences and amino acid sequences for a few of the proteins of the cytoskeleton--proteins unique to eukaryotes. The protein comparisons have enabled systematists to resolve some classification issues that were not clear from SSU-rRNA data and cell structure.
+
+FIGURE 28.8 brings up the "kingdoms problem" again. If plants, fungi, and animals are designated as kingdoms in this phylogenetic classification of eukaryotes, then each of the other major clades of eukaryotic life probably deserves kingdom status as well. This taxonomic trend was mentioned earlier when we discussed the splitting of the old kingdom Protista into many kingdoms. However, as protistan systematics is still so unsettled, FIGURE 28.8 simply names major clades without committing to a ranking of groups into kingdoms and phyla; any attempt here to specify the number of kingdoms and their names would just make the tree obsolete before this book's ink had time to dry! In fact, some of the best-known protists, such as the single-celled amoebas, are not even included in this tentative phylogeny because it is still so uncertain where they fit into the overall eukaryotic tree.
+
+As tentative as our eukaryotic tree is, we'll use it to organize the survey of protistan diversity that follows.
+
+
+
+
+
+ Diplomonadida and Parabasala: Diplomonads and parabasalids lack mitochondria
+
+A few protistan groups lack mitochondria. Two of these groups are the diplomonads and the parabasalids. According to what is called the "archaezoa hypothesis," these protists are the modern forms of ancient eukaryotic lineages that evolved before the acquisition of the endosymbiotic bacteria that gave rise to mitochondria. Most protistan systematists have recently rejected that hypothesis based on the discovery of mitochondrial genes in the nuclear genomes of the diplomonads and parabasalids. In other words, the evidence now supports the hypothesis that these protists lost their mitochondria during their evolution from ancestors in which mitochondria were present. However, other details of cell structure combined with data from molecular systematics still place the diplomonads and parabasalids on the phylogenetic branch that diverged earliest in eukaryotic history (see FIGURE 28.8).
+
+The diplomonads have multiple flagella, two separate nuclei, a relatively simple cytoskeleton (compared with other eukaryotes), no plastids, and, as already pointed out, no mitochondria. An infamous example is Giardia lamblia, a parasite that infects the human intestine, causing abdominal cramps and severe diarrhea (FIGURE 28.9). People most often pick up Giardia by drinking water contaminated with human feces containing the parasite in a dormant cyst stage. Drinking such water from what seems like a pristine stream or river can ruin a camping trip. Boiling drinking water kills the cysts.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-9. Giardia lamblia, a diplomnad (colorized SEM).
+
+The parabasalids, another group lacking mitochondria, include the protists called trichomonads. The best known species is Trichomonas vaginalis, a common inhabitant of the vagina of human females. It can proliferate and infect the vaginal lining by overcoming beneficial microbial populations if the normal acidity of the vagina is disturbed. Such infections also occur in the urethras of males, though often without symptoms. Sexual transmission can spread the infection. Note in FIGURE 28.10 that T. vaginalis has both flagella and an undulating membrane, structures that enable these protists to move along the mucus-coated skin within the reproductive and urinary tracts of their human hosts.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-10. Trichomonas vaginalis, a parabasalid (colorized SEM).
+
+
+
+
+
+ Euglenozoa: The euglenozoa includes both photosynthetic and heterotrophic flagellates
+
+Several protistan groups are equipped with flagella that function in locomotion. Two of these groups of flagellates, the euglenoids and the kinetoplastids, make up the clade labeled Euglenozoa in FIGURE 28.8.
+
+The euglenoids (Euglenophyta, such as Euglena and its close relatives) are characterized by an anterior pocket, or chamber, from which one or two flagella emerge. Paramylon, a glucose polymer that functions as a storage molecule, is also characteristic of euglenoids. Euglena, the organism in FIGURE 28.3, is chiefly autotrophic. However, many euglenoids are mixotrophic or heterotrophic, absorbing organic molecules from their surroundings or engulfing prey by phagocytosis.
+
+The kinetoplastids (Kinetoplastida) have a single large mitochondrion associated with a unique organelle, the kinetoplast, that houses extranuclear DNA. The kinetoplastids are symbiotic, and some are pathogenic to their hosts. For example, species of Trypanosoma cause African sleeping sickness, a human disease that is spread by the bite of the tsetse fly (FIGURE 28.11). Sleeping sickness is a debilitating disease common in parts of Africa. Trypanosomes escape being killed by the host's defenses by being quick-change artists. They alter the molecular structure of their coats frequently, thus preventing immunity from developing in the host.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-11. Trypanosoma, the kinetoplastid that causes sleeping sickness. The squiggles among these red blood cells are the trypanosomes (colorized SEM).
+
+
+
+
+
+ Alveolata: The alveolates are unicellular protists with subsurface cavities (alveoli)
+
+Another protistan clade that is emerging from molecular systematics, Alveolata, draws together a group of flagellates (the dinoflagellates), a group of parasites (apicomplexans), and a distinctive group of eukaryotes that move by means of cilia (the ciliates). Alveolates have small membrane-bounded cavities (alveoli) under their cell surfaces. The function of the alveoli is unknown; they may help stabilize the cell surface and regulate the cell's water and ion content.
+
+Dinoflagellata (Dinoflagellates)
+
+Dinoflagellates are abundant components of the vast aquatic pastures of phytoplankton that are suspended near the water surface and provide the foundation of most marine and many freshwater food webs. There are also heterotrophic species of dinoflagellates.
+
+Of the several thousand known dinoflagellate species, most are unicellular, but some are colonial forms. Each dinoflagellate species has a characteristic shape reinforced in some species by internal plates of cellulose (FIGURE 28.12). The action of two flagella in perpendicular grooves in this "armor" produces a spinning movement for which these organisms are named (from the Greek dinos, whirling).
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-12. A dinoflagellate. Flagellar action spins this toplike form (SEM).
+
+Dinoflagellate blooms--episodes of explosive population growth--cause red tides in coastal waters. These blooms are brownish red or pinkish orange because of the predominant pigments (xanthophylls) in the plastids of dinoflagellates. Toxins produced by some red-tide organisms have resulted in massive invertebrate and fish kills and can be deadly to humans as well.
+
+One especially dangerous dinoflagellate called Pfiesteria piscicida is actually carnivorous. During blooms, its toxin stuns fish, and the dinoflagellates feed on their prey's body fluids. In the past decade, the frequency of Pfiesteria blooms and fish kills have increased in coastal waters of the U.S. mid-Atlantic states, possibly a result of pollution of the water with fertilizers (nitrates and phosphates).
+
+Some dinoflagellates are spectacularly bioluminescent. An ATP-driven chemical reaction gives off light, creating an eerie ocean glow at night when waves, boats, or human swimmers agitate water containing dense populations of the dinoflagellates. A possible function of the bioluminescence: When the surrounding water is agitated by small predators that feed on phytoplankton, the light emitted by the dinoflagellates attracts fish that eat those smaller predators. How would you test this hypothesis?
+
+Some dinoflagellates live as mutualistic symbionts of animals called cnidarians that build coral reefs; the photosynthetic output of these dinoflagellates is the main food source for reef communities.
+
+Apicomplexa (Apicomplexans)
+
+All apicomplexans are parasites of animals. Some cause serious human diseases. The parasites disseminate as tiny infectious cells called sporozoites. As seen with the electron microscope, one end (the apex) of the sporozoite cell contains a complex of organelles specialized for penetrating host cells and tissues; thus the name Apicomplexa. Most apicomplexans have intricate life cycles with both sexual and asexual stages, and these cycles often require two or more different host species for completion. An example is Plasmodium, the parasite that causes malaria (FIGURE 28.13). The incidence of malaria was greatly diminished in the 1960s by the use of insecticides that reduced populations of Anopheles mosquitoes, which spread the disease, and by drugs that killed the parasites in humans. However, the multiplication of resistant varieties of both the mosquitoes and the Plasmodium species have caused a resurgence of the disease. About 300 million people are now infected in the tropics, and up to 2 million die each year from the disease.
+
+Considerable research on possible malarial vaccines has been carried out, but with little success. Plasmodium is an extremely evasive parasite. It spends most of its time inside human liver and blood cells, hiding from the host's immune system. The problem is compounded by changes in the surface proteins of Plasmodium; the parasite continually changes the "face" that it shows to the infected person's immune system. Recent identification of a gene that seems to confer resistance to chloroquine, an important antimalarial drug, may lead to ways of blocking drug resistance in Plasmodium. Another recent discovery has exciting evolutionary and medical implications. A team of molecular biologists led by Sabine Kohler, at the University of Pennsylvania, found that Plasmodium and several other apicomplexans contain a plastid, now nonphotosynthetic, that an apicomplexan ancestor probably acquired from a green alga by secondary endosymbiosis. Once researchers discover the critical functions the plastids perform for their host cells, it may be possible to develop new antimalarial drugs that target those functions.
+
+Ciliophora (Ciliates)
+
+This diverse group of protists is named for their use of cilia to move and feed (FIGURE 28.14). Most ciliates live as solitary cells in fresh water. In contrast to most flagella, cilia are relatively short. They are associated with a submembrane system of microtubules that may coordinate the movement of the thousands of cilia.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-14. Ciliates (all LMs).
+
+Some ciliates are completely covered by rows of cilia, whereas others have their cilia clustered into fewer rows or tufts. The specific arrangements adapt the ciliates for their diverse lifestyles. Some species, for instance, scurry about on leglike structures constructed from many cilia bonded together. Other forms, such as Stentor, have rows of tightly packed cilia that function collectively as locomotor membranelles. Ciliates are among the most complex of all cells.
+
+A unique feature of ciliate genetics is the presence of two types of nuclei, a large macronucleus and usually several tiny micronuclei. The macronucleus has 50 or more copies of the genome. The genes are not distributed in typical chromosomes but are instead packaged into a much larger number of small units, each with hundreds of copies of just a few genes. The macronucleus controls the everyday functions of the cell by synthesizing RNA and is also necessary for asexual reproduction. Ciliates generally reproduce by binary fission, during which the macronucleus elongates and splits, rather than undergoing mitotic division. Some species of Paramecium have from 1 to as many as 80 micronuclei, which do not function in growth, maintenance, and asexual reproduction of the cell but are required for sexual processes that generate genetic variation. The sexual shuffling of genes occurs during the process known as conjugation (FIGURE 28.15). Notice in the diagram that in ciliates, sexual mechanisms of meiosis and syngamy are processes separate from reproduction.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-15. Conjugation and genetic recombination in Paramecium caudatum.
+
+
+
+
+
+ Stramenopila: The stramenopile clade includes the water molds and the heterokont algae
+
+A diverse protistan clade, Stramenopila includes several heterotrophic groups as well as a variety of photosynthetic protists (algae). The term stramenopila refers to the numerous fine, hairlike projections on the flagella that are characteristic of these organisms (from the Latin stramen, straw, flagellum, and pilos, hair). In most cases, the "hairy" flagellum is paired with a smooth (nonhairy) flagellum. In the life cycles of most stramenopile groups, the only flagellated stages are motile reproductive cells.
+
+Oomycota (Water Molds and Their Relatives)
+
+Oomycotes include the water molds, white rusts, and downy mildews, all examples of heterotrophic stramenopiles that lack chloroplasts. Some of these organisms are unicellular; others consist of hyphae (fine, branching filaments) that are multi-nucleated (coencytic). Hyphae in this group are analogous to the branching filaments (also called hyphae) of true fungi. However, water molds and their relatives typically have cell walls made of cellulose, while the walls of true fungi are made of another polysaccharide, chitin. The diploid condition, which is reduced in true fungi, prevails in the life cycles of most members of Oomycota. Biflagellated cells occur in the life cycles of oomycotes, while almost all true fungi lack flagella. Molecular systematics has confirmed that water molds and other oomycotes are not closely related to fungi. The similar "body plan"--a mass of thin filaments (hyphae)--is an example of convergent evolution. In both the oomycotes and fungi, the filamentous bodies have an extensive surface area, which enhances the absorption of nutrients.
+
+Oomycota means "egg fungi," a reference to the mode of sexual reproduction in water molds. A relatively large egg cell is fertilized by a smaller "sperm nucleus," forming a resistant zygote (FIGURE 28.16).
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-16. The life cycle of a water mold. Water molds help decompose dead insects, fish, and other animals submerged in fresh water (see the hyphal mass on the goldfish in the inset).
+
+Most water molds are decomposers that grow as cottony masses on dead algae and animals, mainly in fresh water. There are also parasitic water molds, such as those that grow on the skin and gills of fish in ponds or aquariums, but they usually attack only injured tissue.
+
+White rusts and downy mildews generally live on land as parasites of plants. They are dispersed primarily by windblown spores, but they also form flagellated zoospores at some point during their life cycles. One devastating plant pathogen, a downy mildew, threatened the French vineyards in the 1870s. Another oomycote species, Phytophthora infestans, causes late potato blight, which contributed to the Irish famine in the 19th century.
+
+Overview of the Heterokont Algae
+
+The stramenopile taxa with mostly photosynthetic members are collectively called the heterokont algae, with the "hetero" referring to the two different types of flagella ("hairy" and "nonhairy"), which are characteristic of the whole stramenopile group.
+
+The plastids of heterokont algae evolved by secondary endosymbiosis. This explains the three-membrane envelope and the presence of a small amount of eukaryotic cytoplasm within the plastid (see FIGURE 28.5). The probable ancestor of the plastids in heterokont algae was a red alga, its own plastid derived from a cyanobacterium by primary endosymbiosis. The heterokont algae include the diatoms, golden algae, and brown algae.
+
+Bacillariophyta (Diatoms)
+
+Yellow or brown in color, diatoms have unique glasslike walls consisting of hydrated silica embedded in an organic matrix. Each wall is in two parts that overlap like a shoe box and lid (FIGURE 28.17).
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-17. Diatoms. The glasslike shells consist of two halves that fit like the bottom and lid of a shoe box. Tiny pores in the ornate shells allow for the exchange of gases and other substances between the cell and its environment. During mitosis, each daughter cell keeps half of the parent cell's shell and builds a new complementary half.
+
+Most of the year, diatoms reproduce asexually by mitotic cell divisions, with each daughter cell receiving half of the cell wall of its parent and regenerating a new second half. Cysts are formed by some species as resistant stages. Sexual stages are not common and involve the formation of eggs and sperm; sperm cells are amoeboid or flagellated, depending on the species.
+
+Both freshwater and marine plankton are rich in diatoms; a bucket of water scooped from the surface of the sea may have millions of these microscopic algae. In common with golden algae and brown algae, diatoms store food reserves in the form of a glucose polymer called laminarin. Some diatoms also store food in the form of oil.
+
+Massive accumulations of fossilized diatom walls are major constituents of the sediments known as diatomaceous earth, which is mined for its quality as a filtering medium and for many other uses.
+
+Chrysophyta (Golden Algae)
+
+Golden algae, or chrysophytes (from the Greek chrysos, golden), are named for their color, which results from yellow and brown carotene and xanthophyll accessory pigments. Their cells are typically biflagellated, with both flagella attached near one end of the cell. Many golden algae live among freshwater and marine plankton. Some species are mixotrophic, absorbing dissolved organic compounds or ingesting food particles and bacteria by phagocytosis, which occurs near the base of the flagella. Most golden algae are unicellular, but some, such as the freshwater genus Dinobryon, are colonial (FIGURE 28.18). If cell density reaches a certain high level, many species form resistant cysts that can remain viable for decades.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-18. A golden alga. Dinobryon is a freshwater member of this algal group. This species is colonial, but most golden algae are unicellular (LM).
+
+Phaeophyta (Brown Algae)
+
+The largest and most complex algae are brown algae, or phaeophytes (from the Greek phaios, dusky, brown). All are multicellular, and most are marine. Brown algae are especially common along temperate coasts, where the water is cool. They owe their characteristic brown or olive color to accessory pigments in the plastids. The plastid structure and pigment composition of brown algae are homologous to the photosynthetic equipment of golden algae and diatoms.
+
+Many of the eukaryotes commonly called seaweeds are brown algae. Seaweeds are large marine algae, and the largest members of this important ecological group are brown algae. Two other groups, the red algae and green algae, also include seaweeds. We will examine these algal groups after we look at some of the adaptations, human uses, and life cycles of the seaweeds.
+
+
+
+
+
+ Structural and biochemical adaptations help seaweeds survive and reproduce at the ocean's margins
+
+Seaweeds, along with many animals and other heterotrophs these algae support, inhabit the intertidal and subtidal zones of coastal waters. The intertidal zone presents unique challenges to life. At times it is violently active, churned by waves and wind. Two times each day, at low tide, intertidal seaweeds are exposed to the drying atmosphere and rays of the sun. Twice each day, at high tide, the same seaweeds are submerged. Seaweeds have unique structural and biochemical adaptations that enable them to survive and thrive in this rough-and-tumble environment.
+
+Seaweeds have the most complex multicellular anatomy of all algae. Some even have differentiated tissues and organs that resemble those we find in plants. The similarities evolved independently in the algal and plant lineages and are thus analogous, not homologous. The term thallus (plural, thalli; from the Greek thallos, sprout) is used for a seaweed body that is plantlike, but a thallus lacks true roots, stems, and leaves. A typical seaweed thallus consists of a rootlike holdfast, which anchors the alga, and a stemlike stipe, which supports leaflike blades (FIGURE 28.19). The blades provide most of the surface for photosynthesis. Some brown algae are equipped with floats, which keep the blades near the water surface. Beyond the intertidal zone in deeper waters live the giant seaweeds known as kelps (FIGURE 28.20). The stipes of these brown algae may be as long as 60 m.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-19. Seaweeds: adapted to life at the ocean's margins. The sea palm, Postelsia, lives on rocks in the crashing surf along the coast of the northwestern United States and Canada. Its thallus is well adapted to maintaining a firm foothold in this extreme environment. Postelsia is a brown alga (Phaeophyta).
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-20. A kelp forest. The great kelp beds of temperate coastal waters provide habitat and food for a variety of organisms, including many species of fish caught by humans. The kelps, brown algae (Phaeophyta), are prodigiously productive. This brown alga, Macrocystis, common along the U.S. Pacific coast, grows to a length of more than 60 m in a single season, the fastest linear growth of any organism. Kelp is a renewable resource reaped by special boats that cut and collect the tops of the algae.
+
+In addition to these structural adaptations of thalli, some seaweeds are also endowed with biochemical adaptations to intertidal and subtidal conditions. For example, their cell walls are composed of cellulose and gel-forming polysaccharides, accounting for the slimy and rubbery feel of many seaweeds. These substances help cushion the thalli against the agitation of the waves.
+
+Seaweeds are an important source of food and other commodities for humans. Coastal people, particularly in Asia, harvest seaweeds for food. For example, in Japan and Korea, the brown alga Laminaria is used in soups (Japanese "kombu"), and the red alga Porphyra is used to wrap sushi (Japanese "nori"). Marine algae are rich in iodine and other essential minerals, but much of their organic material consists of unusual polysaccharides that humans cannot digest, which prevents seaweeds from becoming staple foods. They are used mostly for their rich tastes and unusual textures. The gel-forming substances in their cell walls (algin in brown algae, agar and carageenan in red algae) are extracted in commercial operations. These substances are widely used in the manufacture of thickeners for such processed foods as puddings and salad dressing and as lubricants in oil drilling, and agar is used as the gel-forming base for microbiological culture media.
+
+
+
+
+
+ Some algae have life cycles with alternating multicellular haploid and diploid generations
+
+A variety of life cycles have evolved among the multicellular brown, red, and green algae. The most complex cycles include an alternation of generations, the alternation of multicellular haploid forms and multicellular diploid forms. (Notice that haploid and diploid conditions alternate in all sexual life cycles--human gametes, for example, are a haploid stage--but the term alternation of generations is reserved for life cycles that include haploid and diploid stages that are both multicellular organisms.) As we will see in Chapter 29, alternation of generations also evolved in the life cycles of all plants.
+
+We can examine the brown alga Laminaria as an example of a complex life cycle with an alternation of generations. The diploid individual is called the sporophyte because it produces reproductive cells called spores (zoospores). The haploid individual is called the gametophyte, which is named for its production of gametes. Notice in FIGURE 28.21 (p. 564) that these two generations alternate--that is, they take turns producing one another. Spores released from the sporophyte develop into gametophytes, which in turn produce gametes. The union of two gametes (fertilization, or syngamy) results in a diploid zygote, which gives rise to a new sporophyte. In the case of Laminaria, the two generations are heteromorphic, meaning that the sporophytes and gametophytes are structurally different. Other algal life cycles have an alternation of isomorphic generations, meaning that the sporophytes and gametophytes look alike, although they differ in chromosome number.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-21. The life cycle of Laminaria: an example of alternation of generations.
+
+
+
+
+
+ Rhodophyta: Red algae lack flagella
+
+Unlike other eukaryotic algae, red algae (Rhodophyta; from the Greek rhodos, red) have no flagellated stages in their life cycle. They are commonly reddish because of an accessory pigment called phycoerythrin. It belongs to a family of pigments known as phycobilins, also found in cyanobacteria. In fact, the plastids of red algae evolved from cyanobacteria by primary endosymbiosis.
+
+Despite their name, not all rhodophytes are red. Species adapted to different water depths differ in their proportions of accessory pigments. Rhodophytes may be almost black in deep water, bright red at more moderate depths, and greenish in very shallow water because less phycoerythrin masks the green of chlorophyll. Some species lack pigmentation altogether and function heterotrophically as parasites on other red algae.
+
+Red algae are the most abundant large algae in the warm coastal waters of tropical oceans, but there are also some freshwater and soil species. The phycobilins and other accessory pigments allow some species to absorb the light wavelengths (blues and greens) that penetrate down to deep water. A species of red alga has recently been discovered living near the Bahamas at a depth of more than 260 m.
+
+Most red algae are multicellular, and the largest share the designation "seaweeds" with the brown algae, although none of the reds are as big as the giant browns (kelps). The thalli of many red algae are filamentous, often branched and interwoven in delicate lacy patterns (FIGURE 28.22). The base of the thallus is usually differentiated as a simple holdfast.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-22. Red algae.
+
+Life cycles are especially diverse among the red algae. Lacking flagella, these algae depend on water currents to bring gametes together for fertilization. Alternation of generations is common in red algae.
+
+
+
+
+
+ Chlorophyta: Green algae and plants evolved from a common photoautotrophic ancestor
+
+Green algae (chlorophytes and charophyceans in FIGURE 28.8) are named for their grass-green chloroplasts, which are much like those of organisms we traditionally call plants in ultrastructure and pigment composition. Molecular systematics and cellular morphology leave little doubt that green algae and land plants are closely related. In fact, some systematists now advocate inclusion of green algae in an expanded kingdom, the Viridiplantae of FIGURE 28.8 (Latin viridis, green). The common ancestor of green algae and plants probably had chloroplasts derived from cyanobacteria by primary endosymbiosis. Among green algae, those called charophyceans are especially closely related to land plants, and we will discuss them along with the plants in the next chapter. Here our survey of green algae features the chlorophytes (from the Greek chloros, green).
+
+More than 7,000 species of chlorophytes have been identified. Most live in fresh water, but there are also many marine species. Various species of unicellular chlorophytes live as plankton or inhabit damp soil or snow; some species live symbiotically within other eukaryotes, contributing portions of their photosynthetic products to the food supply of the hosts. Chlorophytes are among the algae that live symbiotically with fungi in the mutualistic collectives known as lichens (see FIGURE 31.16).
+
+The simplest chlorophytes are biflagellated unicells such as Chlamydomonas, which resemble the gametes and zoospores of more complex chlorophytes. In addition to unicellular chlorophytes, there are colonial species, as well as many multicellular filamentous forms that contribute to the stringy masses known as pond scum. There are also multicellular chlorophytes, with bodies large and complex enough that marine species qualify as seaweeds along with the large brown algae and red algae.
+
+Larger size and greater complexity have evolved by three different mechanisms: (1) the formation of colonies of individual cells, as seen in species of Volvox (FIGURE 28.23a); (2) the repeated division of nuclei with no cytoplasmic division, as seen in multinucleate filaments of Caulerpa (FIGURE 28.23b); and (3) the formation of true multicellular forms by cell division and cell differentiation, as in Ulva (FIGURE 28.23c).
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-23. Colonial and multicellular chlorophytes.
+
+Most green algae have complex life histories, with both sexual and asexual reproductive stages. Nearly all reproduce sexually by way of biflagellated gametes having cup-shaped chloroplasts (FIGURE 28.24). The exceptions are the conjugating algae, such as Spirogyra, which produce amoeboid gametes. Alternation of generations evolved in the life cycles of some green algae, including the Ulva of FIGURE 28.23c.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-24. The life cycle of Chlamydomonas. This unicellular chlorophyte exhibits sexual as well as asexual reproduction.
+
+Throughout our survey of protists so far, we have encountered algae, or photosynthetic protists, as members of several different clades, often alongside heterotrophic members of the same clades. Recall from FIGURE 28.5 that different episodes of secondary endosymbiosis account for the diversity of protists with plastids. As a follow-up to that illustration, FIGURE 28.25 (p. 568) places the algal groups we've discussed in the context of their plastids' origins.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-25. A hypothetical history of plastids in the photosynthetic eukaryotes. In this simplified model, the host cells in the endosymbiotic episodes are illustrated without their nuclei and mitochondria; here we are concerned only with the origin of the plastids in diverse eukaryotic groups. Note that this "plastid phylogeny" is not the same as a phylogeny of the organisms themselves. The heterokont algae, for example, did not evolve from red algae, but from some heterotrophic protist that engulfed a red alga. Note also that the dinoflagellates have plastids of diverse origins, including via tertiary endosymbiosis of an alga. But the host cells in the various endosymbiotic origins of dinoflagellate plastids were probably closely related as members of the alveolate group.
+
+
+
+
+
+ A diversity of protists use pseudopodia for movement and feeding
+
+The three groups we discuss in this section represent some of the immense diversity of eukaryotes that move and often feed by means of cellular extensions called pseudopodia. Most of these organisms are heterotrophs that actively seek and consume bacteria, other protists, and detritus (dead organic matter). There are also symbiotic species, including some parasites that cause human disease. We discuss these three groups together only for convenience. Little is known about their phylogeny, although it is clear that they represent several distinct eukaryotic lineages. Because of taxonomic uncertainties, we have not included these protists on the phylogenetic tree shown in FIGURE 28.8.
+
+Rhizopoda (Amoebas)
+
+Rhizopods, more often called amoebas, are all unicellular and use pseudopodia to move and to feed. You may have observed their mode of motility in Amoeba proteus in the laboratory (see FIGURE 28.1a). Pseudopodia may bulge from virtually anywhere on the cell surface. When an amoeba moves, it extends a pseudopodium and anchors its tip, and then more cytoplasm streams into the pseudopodium (rhizopoda means "rootlike feet"). The cytoskeleton, consisting of microtubules and microfilaments, functions in amoeboid movement (see FIGURE 7.27b). Pseudopodial activity may appear chaotic, but in fact amoebas show directed movement as they creep toward a food source (FIGURE 28.26). Some amoebas live inside a protein shell that they secrete. Pseudopodia extend outward through an opening in the shell, which in some species is coated with fine sand grains.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-26. Use of pseudopodia for feeding. In this series of images selected from a video, an Amoeba cell uses its pseudopodia to approach and then engulf its prey, a ciliate. Phagocytosis enables Amoeba to take in the ciliate and package it in a food vacuole, which will fuse with lysosomes containing digestive enzymes (see FIGURE 7.13).
+
+Amoebas inhabit both freshwater and marine environments and are also abundant in soils. The majority of amoebas are free-living, but some are important parasites, including Entamoeba histolytica, which causes amoebic dysentery in humans. These organisms spread via contaminated drinking water, food, or eating utensils.
+
+Actinopoda (Heliozoans and Radiolarians)
+
+Actinopod means "ray foot," a reference to the slender pseudopodia called axopodia that radiate from these exceptionally beautiful protists (FIGURE 28.27). Each axopodium is reinforced by a bundle of microtubules covered by a thin layer of cytoplasm. Most actinopods are planktonic, and their projections place an extensive area of cellular surface in contact with the surrounding water, helping the organisms float and feed. Smaller protists and other microorganisms stick to the axopodia and are phagocytized by the thin layer of cytoplasm. Cytoplasmic streaming then carries the engulfed prey into the main part of the cell.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-27. Actinopods.
+
+Most heliozoans ("sun animals") live in fresh water. Heliozoan skeletons consist of siliceous (glassy) or chitinous unfused plates. The term radiolarian refers to several groups of mostly marine actinopods with skeletons fused into one delicate piece, most commonly made of silica. After actinopods die, their skeletons settle to the seafloor, where they have accumulated as an ooze that is hundreds of meters thick in some locations.
+
+Foraminifera (Forams)
+
+Foraminiferans, or forams, are almost all marine. Most species live in the sand or attach themselves to rocks and algae, but some are also abundant in plankton. Foraminiferans are named for their porous shells (from the Latin foramen, little hole, and ferre, to bear). The shells are generally multichambered and consist of organic material hardened with calcium carbonate. Strands of cytoplasm (pseudopodia) extend through the pores, functioning in swimming, shell formation, and feeding (FIGURE 28.28). Many forams also derive nourishment from the photosynthesis of symbiotic algae that live within the shells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-28. Foraminiferan. Globigerina has a snail-like shell. The largest forams, though single-celled, grow to diameters of several centimeters. The calcium carbonate shells of these protists have left an excellent fossil record in limestone sediments (LM).
+
+Ninety percent of all identified species of forams are fossils. Along with the calcareous remains of other protists, the fossilized shells of forams are components of marine sediments, including sedimentary rocks that are now land formations. Foram fossils are excellent markers for correlating the ages of sedimentary rocks in different parts of the world.
+
+
+
+
+
+ Mycetozoa: Slime molds have structural adaptations and life cycles that enhance their ecological roles as decomposers
+
+Mycetozoa translates as "fungus animals," though these protists are neither fungi nor animals. The common name, slime molds, reinforces the misconception that these organisms are true fungi. But any resemblance to fungi is analogous, not homologous--an evolutionary convergence of adaptations for decomposing leaf litter and other organic refuse. In fact, if we were classifying protists strictly on the basis of their modes of motility, it would make sense to group the slime molds with the amoebas. Slime molds use pseudopodia for movement and feeding. And slime molds may in fact be phylogenetically close to some of the other amoeboid protists, especially forms such as Amoeba. But systematists are now nearing a consensus that slime molds represent a distinct eukaryotic kingdom, Mycetozoa. And a comparison of protein sequences places the slime molds relatively close to the fungi and animals in the eukaryotic tree (see FIGURE 28.8).
+
+We will see that slime molds have structures that maximize exposure to their food sources, as well as complex life cycles that contribute to survival in changing habitats and facilitate dispersal to new food sources. Mycetozoa consists of two main groups: the plasmodial slime molds and the cellular slime molds.
+
+Myxogastrida (Plasmodial Slime Molds)
+
+The plasmodial slime molds, or myxogastrids, are more attractive than their common name implies. Many species are brightly pigmented, usually yellow or orange, but all are heterotrophic. The feeding stage of the life cycle is an amoeboid mass called a plasmodium, which may grow to a diameter of several centimeters (FIGURE 28.29). Large as it is, the plasmodium is not multicellular; it is a single mass of cytoplasm that is undivided by membranes and that contains many nuclei. This "supercell" results from mitotic divisions of the nuclei which are not followed by cytokinesis, the division of cytoplasm. In most species, the nuclei of the plasmodium are diploid and divisions are synchronous, with each of thousands of nuclei going through each phase of mitosis at the same time. Because of this characteristic, plasmodial slime molds have been used to study the molecular details of the cell cycle.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-29. The life cycle of a plasmodial slime mold, such as Physarum.
+
+Within the fine channels of the plasmodium, cytoplasm streams first one way, then the other, in pulsing flows that are beautiful to watch through a microscope. The cytoplasmic streaming apparently helps distribute nutrients and oxygen. The plasmodium engulfs food particles by phagocytosis as it grows by extending pseudopodia through moist soil, leaf mulch, or rotting logs. If the habitat of a slime mold begins to dry up or there is no food left, the plasmodium ceases growth and differentiates into a stage of the life cycle that functions in sexual reproduction.
+
+Dictyostelida (Cellular Slime Molds)
+
+Cellular slime molds, or dictyostelids, pose a semantic question about what it means to be an individual organism. Although the feeding stage of the life cycle consists of solitary cells that function individually, when food is depleted the cells form an aggregate that functions as a unit (FIGURE 28.30, p. 572). Though the mass of cells resembles a plasmodial slime mold, the important distinction is that the cells of a cellular slime mold maintain their identity and remain separated by their membranes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-30. The life cycle of a cellular slime mold (Dictyostelium).
+
+Cellular slime molds also differ from plasmodial slime molds in being haploid organisms (only the zygote is diploid), whereas the diploid condition predominates in the life cycles of most plasmodial slime molds (compare FIGURES 28.29 and 28.30). Cellular slime molds have fruiting bodies that function in asexual reproduction. Also, most cellular slime molds have no flagellated stages.
+
+This completes our survey of diversity and phylogenetic relationships among the eukaryotes traditionally classified as protists. We complete this chapter with a brief discussion of the origins of multicellularity.
+
+
+
+
+
+ Multicellularity originated independently many times
+
+We have seen that the origin of eukaryotes ignited an explosion of biological diversification; unicellular eukaryotes are much more diverse in structure than the simpler prokaryotes. The evolution of multicellular bodies broke through another threshold in structural organization and provided the stock for new waves of evolutionary diversification. Multicellularity evolved several times among early eukaryotes, with diverse multicellular algae such as seaweeds as examples of the results. The evolution of multicellularity also gave rise to plants, fungi, and animals, and we will discuss the origins of those kingdoms in the following chapters.
+
+
+
+

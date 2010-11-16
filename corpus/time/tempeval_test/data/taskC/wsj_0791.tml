@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+
+<TempEval>
+
+
+
+
+ WSJ891027-0104 
+ = 891027 
+ 891027-0104. 
+ Norwood May Offer
+@  To Acquire Phoenix
+@  Technologies Shares 
+ <TIMEX3 tid="t44" type="DATE" value="1989-10-27" temporalFunction="false" functionInDocument="CREATION_TIME">10/27/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ PTEC 
+ TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) 
+ WASHINGTON  
+
+   <s>Norwood Partners Limited Partnership of Boston <EVENT eid="e1" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> it may <EVENT eid="e2" mainevent="NO" class="OCCURRENCE" stem="make" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">make</EVENT> a tender <EVENT eid="e4" mainevent="NO" class="OCCURRENCE" stem="offer" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">offer</EVENT> for some or all of Phoenix Technologies Ltd.'s common shares.</s> 
+
+   <s>Norwood, Mass.-based Phoenix, a once-high-flying maker of software for personal computers, has <EVENT eid="e6" mainevent="YES" class="OCCURRENCE" stem="have" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">had</EVENT> substantial <EVENT eid="e33" mainevent="NO" class="OCCURRENCE" stem="loss" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">losses</EVENT> in <TIMEX3 tid="t46" type="DURATION" value="P2Q" temporalFunction="true" functionInDocument="NONE" endPoint="t44">the past two quarters</TIMEX3>.</s> 
+<s>Its stock, which was as high as <EVENT eid="e36" mainevent="NO" class="STATE" stem="$18.75 a share" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">$18.75 a share</EVENT>, has been <EVENT eid="e7" mainevent="YES" class="OCCURRENCE" stem="trade" tense="PRESENT" aspect="PERFECTIVE_PROGRESSIVE" polarity="POS" pos="VERB">trading</EVENT> under <EVENT eid="e38" mainevent="NO" class="STATE" stem="$4 a share" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">$4 a share</EVENT> <TIMEX3 tid="t47" type="DATE" value="PAST_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">recently</TIMEX3>.</s> 
+<s><TIMEX3 tid="t48" type="DATE" value="1989-10-26" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">Yesterday</TIMEX3> it <EVENT eid="e8" mainevent="YES" class="OCCURRENCE" stem="close" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">closed</EVENT> at <EVENT eid="e41" mainevent="NO" class="STATE" stem="$4.375 a share" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">$4.375 a share</EVENT>, up $1.125, in national over-the-counter <EVENT eid="e9" mainevent="NO" class="OCCURRENCE" stem="trading" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">trading</EVENT>.</s> 
+
+   <s>In a Securities and Exchange Commission filing, Norwood <EVENT eid="e11" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> it's part of a group that <EVENT eid="e12" mainevent="NO" class="OCCURRENCE" stem="hold" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">holds</EVENT> 525,546 Phoenix Technologies common shares, or a 5.3% stake.</s> 
+
+   <s>Norwood has <EVENT eid="e14" mainevent="NO" class="OCCURRENCE" stem="make" tense="PRESENT" aspect="PERFECTIVE" polarity="NEG" pos="VERB">made</EVENT> "no detailed <EVENT eid="e43" mainevent="NO" class="OCCURRENCE" stem="plan" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">plans</EVENT>," but it has <EVENT eid="e16" mainevent="NO" class="OCCURRENCE" stem="engage" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">engaged</EVENT> in <EVENT eid="e17" mainevent="NO" class="OCCURRENCE" stem="talk" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">talks</EVENT> with other shareholders, the filing <EVENT eid="e20" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT>.</s> 
+<s>Phoenix <EVENT eid="e21" mainevent="YES" class="I_ACTION" stem="decline" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">declined</EVENT> to <EVENT eid="e23" mainevent="NO" class="OCCURRENCE" stem="comment" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">comment</EVENT>.</s> 
+
+   <s>Norwood is <EVENT eid="e24" mainevent="YES" class="OCCURRENCE" stem="control" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">controlled</EVENT> by Daniel L. Barnett and Paul A. Reese, both officers of Boston-based Oasis Capital Management Inc., a small Boston money management firm.</s> 
+<s>Also <EVENT eid="e25" mainevent="YES" class="OCCURRENCE" stem="involve" tense="PASTPART" aspect="NONE" polarity="POS" pos="VERB">involved</EVENT> in the group is Robert F. Angelo, formerly Phoenix's senior vice president, field operations, who <EVENT eid="e29" mainevent="NO" class="OCCURRENCE" stem="leave" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">left</EVENT> Phoenix at <TIMEX3 tid="t49" type="DATE" value="1989-10" mod="START" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t44">the beginning of October</TIMEX3>.</s> 
+<s>Mr. Angelo was <EVENT eid="e30" mainevent="YES" class="I_ACTION" stem="describe" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">described</EVENT> in the filing as a <EVENT eid="e170" mainevent="NO" class="STATE" stem="consultant" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">consultant</EVENT> to Oasis.</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e11" eventID="e8" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e8" eventID="e7" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e6" eventID="e1" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e24" eventID="e21" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e7" eventID="e6" task="C"/>
+<TLINK lid="l6" relType="UNKNOWN" relatedToEvent="e25" eventID="e24" task="C"/>
+<TLINK lid="l7" relType="UNKNOWN" relatedToEvent="e20" eventID="e11" task="C"/>
+<TLINK lid="l8" relType="UNKNOWN" relatedToEvent="e30" eventID="e25" task="C"/>
+<TLINK lid="l9" relType="UNKNOWN" relatedToEvent="e21" eventID="e20" task="C"/>
+
+</TempEval>

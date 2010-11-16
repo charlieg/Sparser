@@ -1,0 +1,34 @@
+
+ Species richness on islands depends on island size and distance from the mainland
+
+Because of their limited size and isolation, islands provide excellent opportunities for studying some of the biogeographic factors that affect the species diversity of communities. By "islands," we mean not only oceanic islands, but also habitat islands on land, such as lakes, mountain peaks separated by lowlands, or natural woodland fragments surrounded by areas disturbed by humans--in other words, any patch surrounded by an environment not suitable for the "island" species. In the 1960s, American ecologists Robert MacArthur and E. O. Wilson developed a general hypothesis of island biogeography to identify the important determinants of species diversity on an island with a given set of physical characteristics.
+
+Imagine a newly formed oceanic island some distance from a mainland that will serve as a source of colonizing species. Two factors will determine the number of species that eventually inhabit the island: the rate at which new species immigrate to the island and the rate at which species become extinct on the island. And two physical features of the island affect immigration and extinction rates: its size and its distance from the mainland. Small islands will generally have lower immigration rates, because potential colonizers are less likely to reach a small island. For example, birds blown out to sea by a storm are more likely to land by chance on a larger island than on a small one. Small islands will also have higher extinction rates. They generally contain fewer resources and less diverse habitats for colonizing species to partition, increasing the likelihood of chance losses. Distance from the mainland is also important; for two islands of equal size, a closer island will have a higher immigration rate than one farther away.
+
+The immigration and extinction rates are also affected at any given time by the number of species already present on the island. As the number of species on the island increases, the immigration rate of new species decreases, because any individual reaching the island is less likely to represent a species that is not already present. At the same time, as more species inhabit an island, extinction rates on the island increase because of the greater likelihood of competitive exclusion.
+
+These relationships that make up MacArthur and Wilson's hypothesis of island biogeography are summarized in FIGURE 53.26. Immigration and extinction rates are plotted as a function of the number of species present on the island. The main prediction of this model is that eventually an equilibrium will be reached where the rate of species immigration matches the rate of species extinction. The number of species at this equilibrium point is correlated with the island's size and distance from the mainland. Any ecological equilibrium, of course, is dynamic; immigration and extinction continue, and the exact species composition may change over time.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-26. The hypothesis of island biogeography.
+
+MacArthur and Wilson's studies of the diversity of plants and animals on many island chains, such as the Gal&eacute;pagos Islands, support the prediction that species richness increases with island size, in keeping with species-area theory (FIGURE 53.27). Species counts also fit the prediction that the number of species decreases with increasing remoteness of the island.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-27. Number of plant species on the Gal&eacute;pagos Islands in relation to the area of the island.
+
+In the past several decades, the island biogeography hypothesis has come under considerable fire as an oversimplification. Its predictions of equilibria in the species composition of communities may apply in only a limited number of cases and over relatively short time periods, where colonization is the main process affecting species composition. Over a longer period, abiotic disturbances such as storms, adaptive evolutionary changes, and speciation generally alter the species composition and community structure on islands. More important than whether the island biogeography hypothesis has widespread applicability is that it stimulated discussion and research on the effects of habitat size on species diversity, a topic of vital importance for conservation biology, to which we will turn when we discuss habitat fragmentation and biodiversity loss in Chapter 55.
+
+
+
+

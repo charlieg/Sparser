@@ -1,0 +1,56 @@
+
+ Genetic variation occurs within and between populations
+
+You have no trouble recognizing your friends in a crowd. Each person has a unique genome, reflected in individual variations of appearance and temperament. lndividual variation occurs in populations of all species of sexually reproducing organisms. We are very conscious of human diversity. We are generally less sensitive to individuality in populations of other animals and of plants, and the diversity may escape our notice because the variations are subtle. But these slight differences between individuals in a population are the variations Darwin wrote most about as the raw material for natural selection. And in addition to the differences we can see, populations have extensive variation that can only be observed at the molecular level. For example, you cannot tell a person's ABO blood group (A, B, AB, or O) just by looking at him or her.
+
+Not all the variation we observe in a population is heritable. Phenotype is the cumulative product of an inherited genotype and a multitude of environmental influences. For example, bodybuilders alter their phenotypes dramatically. FIGURE 23.7 illustrates a striking example of environmentally induced variation in a butterfly population. It is important to remember that only the genetic component of variation can have evolutionary consequences as a result of natural selection, because it is the only component that transcends generations.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-7. A nonheritable difference within a population. These two European insects, called map butterflies (Araschnia levana), are seasonal forms of the same species: (a)Individuals that emerge in the spring are orange and brown; (b) individuals that emerge in late summer are black and white. Seasonal differences in hormones are responsible for these different phenotypes; the two forms you see here are genetically identical at the loci for coloration. Therefore, if these two forms differed in survival and fertility, that in itself would not lead to any change in the frequencies of the two phenotypes in the next generation.
+
+Variation Within Populations
+
+Both quantitative and discrete characters contribute to variation within a population. Most heritable variation consists of quantitative characters that vary along a continuum within a population. For example, plant height may vary continuously in our hypothetical wildflower population, from very short individuals to very tall individuals and everything in between. Quantitative variation usually indicates polygenic inheritance, an additive effect of two or more genes on a single phenotypic character (see Chapter 14). Discrete characters, such as red versus white flowers, can be classified on an either-or basis, usually because they are determined by a single gene locus with different alleles that affect distinct phenotypes.
+
+Polymorphism. When two or more forms of a discrete character are represented in a population, the different forms are called morphs--as in the red-flowered and white-flowered morphs of our wildflower population. A population is said to be polymorphic for a character if two or more distinct morphs are each represented in high enough frequencies to be readily noticeable. (Obviously, this definition is arbitrary, but a population is not considered polymorphic if it consists almost exclusively of a single morph, with other morphs extremely rare.) Look again at the photo on page 445 to see a striking example of polymorphism in a snail population. Polymorphism is extensive in human populations, both in physical characters, such as the presence or absence of freckles, and in biochemical characters, such as ABO blood groups (for which there are four morphs: type A, type B, type AB, and type O). Polymorphism applies only to discrete characters, not to characters such as human height, which varies among people in a continuum.
+
+Measuring Genetic Variation. Population geneticists measure genetic variation at both the level of whole genes (gene diversity) and at the molecular level of DNA (nucleotide diversity). Let's consider a population of fruit flies (Drosophila). The genome of a fruit fly has about 13,000 loci. The gene diversity of Drosophila is the average percent of these loci that are heterozygous. On average, a fruit fly is homozygous (has two matching alleles) at about 86%  of its loci. In other words, the flies, on average, are heterozygous (have two different alleles) at about 14%  of their gene loci. We would therefore say that the fly population has a gene diversity of 14% , meaning that fruit flies are heterozygous at about 1,800 of their 13,000 gene loci and homozygous at all the rest.
+
+Population geneticists measure nucleotide diversity by comparing the nucleotide sequences of DNA samples from two individuals and then pooling the data from many such comparisons of two individuals. The fruit fly genome has about 180 million nucleotides, and researchers have measured a nucleotide diversity in a population of about 1% . In other words, on average, two flies from the same population have different nucleotides at about 1.8 million nucleotide sites in their DNA.
+
+Population geneticists have also measured gene diversity and nucleotide diversity in humans. It turns out that we have relatively little genetic variation compared to most other species. Gene diversity is 14%  in humans, about the same as in fruit flies. But nucleotide diversity is only about 0.1%  in humans, a tenth of the diversity found in fruit fly populations. You and your neighbor have the same nucleotide at 999 out of every 1,000 nucleotide sites in your DNA. We are clearly much more genetically alike than we are different. Still, this is enough genetic variation to account for the hereditary component of the enormous individuality we notice in how people look and act (not to mention the biochemical differences, such as blood group, that are not outwardly visible).
+
+Variation Between Populations
+
+Most species exhibit geographic variation, differences in gene pools between populations or subgroups of populations. Because at least some environmental factors are likely to be different from one place to another, natural selection can contribute to geographic variation. For example, perhaps one population of our now-familiar wildflower species has a higher frequency of recessive alleles at the flower-color locus than other populations because of a local prevalence of pollinators that prefer white flowers (recessive homozygotes). Genetic drift can also cause chance variations among different populations.
+
+Geographic variation can also occur on a more local scale--that is, within a population--either because the environment has patchlike diversity or because the population is differentiated into subpopulations resulting from the limited dispersal of individuals.
+
+One particular type of geographic variation, called a cline, is a graded change in some trait along a geographic axis. In some cases, a cline may represent a graded region of overlap where individuals of neighboring populations are interbreeding. In other cases, a gradation in some environmental variable may produce a cline. For example, the average body size of many North American species of birds and mammals increases gradually with increasing latitude. Presumably, the reduced ratio of surface area to volume that accompanies larger size is an adaptation that helps animals conserve body heat in cold environments. Experimental studies of some clines confirm the role of genetic variation--rather than strictly environmental effects--in the spatial differences of phenotype (FIGURE 23.8).
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-8. Clinal variation in a plant. Average size of yarrow plants (Achillea) growing on the slopes of the Sierra Nevada mountains gradually decreases with increasing elevation. Although the environment affects growth rates directly to some extent, some of the variation has a genetic basis. Researchers collected seeds at different elevations and grew plants in a common garden; the average sizes of the plants were correlated with the altitude at which the seeds were collected.
+
+In contrast to a cline, with its gradation of some characteristic, geographic variation between isolated populations often consists of discrete differences. FIGURE 23.9 illustrates one example, a study of geographic variation in house mice reported by researchers in 2000.
+
+
+
+Click image to enlarge
+
+
+
+Fig 23-9. Geographic variation between isolated populations of house mice. When the Portuguese first settled the small Atlantic island of Madeira during the 15th century, they inadvertently brought house mice (Mus musculus) with them. Because of the mountains that separated many of the early Portuguese settlements, several populations of the mice have evolved in isolation from one another. Today, differences can be seen in the karyotypes (chromosome sets) of some of these isolated populations. For example, researchers have found that various chromosomes in the Madeira populations are fused, reducing the chromosome count from the species' standard diploid chromosome number of 20 (2n = 20). However, the pattern of fusion in one mouse population is different from the pattern of fusion in another. Mice that live in the areas indicated by the gold dots have the karyotype shown at the top of the figure; mice in the locales with the red dots have the lower karyotype. This geographic variation in karyotypes is probably due mainly to genetic drift.
+
+
+
+

@@ -1,0 +1,26 @@
+
+ In organogenesis, the organs of the animal body form from the three embryonic germ layers
+
+Various regions of the three germ layers develop into the rudiments of organs during the process of organogenesis (TABLE 47.1). Three kinds of morphogenetic changes--folds, splits, and dense clustering (condensation) of cells--are the first evidence of organ building. The organs that begin to take shape first in the embryos of frogs and other chordates are the neural tube and notochord, the skeletal rod characteristic of all chordate embryos (see FIGURE 34.6).
+
+Table 47-1. Derivatives of the Three Embryonic Germ Layers in Vertebrates
+
+Germ LayerOrgans and Tissues in the AdultEctodermEpidermis of skin and its derivatives (e.g., skin glands, nails); epithelial lining of mouth and rectum; sense receptors in epidermis; cornea and lens of eye; nervous system; adrenal medulla; tooth enamel; epithelium of pineal and pituitary glands.EndodermEpithelial lining of digestive tract (except mouth and rectum); epithelial lining of respiratory system; liver; pancreas; thyroid; parathyroids; thymus; lining of urethra, urinary bladder, and reproductive system.MesodermNotochord; skeletal system; muscular system; circulatory and lymphatic systems; excretory system; reproductive system (except germ cells, which start to differentiate during cleavage); dermis of skin; lining of body cavity; adrenal cortex.FIGURE 47.11 on page 1008 shows early organogenesis as it occurs in a frog. The notochord is formed from dorsal mesoderm that condenses just above the archenteron, and the neural tube originates as a plate of dorsal ectoderm just above the developing notochord. The neural plate soon folds inward, rolling itself into the neural tube, which will become the central nervous system--the brain and spinal cord. These organs are hollow in most chordates because of this mechanism of development. In frogs the notochord elongates and stretches the embryo along its anterior-posterior axis. Later, the notochord will function as a core around which mesodermal cells gather and form the vertebrae. Parts of the notochord between the vertebrae persist as the vertebral discs in adults. (These are the discs that can "slip," causing back pain.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-11. Organogenesis in a frog embryo.
+
+Other condensations occur in strips of mesoderm lateral to the notochord, which separate into blocks called somites. The somites are arranged serially on both sides along the length of the notochord (FIGURE 47.11c). Cells from the somites not only give rise to the vertebrae of the backbone, they also form the muscles associated with the axial skeleton. This serial origin of the axial skeleton and muscles reinforces the point made in Chapter 34 that chordates are basically segmented animals, although the segmentation becomes less obvious later in development. (There are signs of segmentation even in the adult, as in the series of vertebrae in a human or the segments of chevron-shaped muscles in a fish.) Lateral to the somites, the mesoderm splits into two layers that form the lining of the body cavity, or coelom.
+
+As organogenesis progresses, morphogenesis and cellular differentiation continue to refine the organs that arise from the three embryonic germ layers. Review TABLE 47.1, which lists the embryonic sources of the major organs and tissues in frogs and other vertebrates. Unique to vertebrate embryos, a band of cells called the neural crest develops along the border where the neural tube pinches off from the ectoderm. Cells of the neural crest subsequently migrate to various parts of the embryo, forming pigment cells of the skin, some of the bones and muscles of the skull, the teeth, the medulla of the adrenal glands, and peripheral components of the nervous system, such as sensory and sympathetic ganglia.
+
+Embryonic development of the frog leads to a larval stage, the tadpole, which hatches from the jelly coat that originally cloaked the egg. Later, metamorphosis will transform the frog from the aquatic, herbivorous tadpole to the terrestrial, carnivorous adult.
+
+
+
+

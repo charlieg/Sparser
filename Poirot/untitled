@@ -1,0 +1,1469 @@
+ltml> (setq tr (read-trace-expression-from-file "/Users/ddm/ws/poirot/p3trunk/data/ExpertTraces/Phase3/MDIS/OctoberNGBWashington2/MDISTraceNGB21.ltml"))
+Loading LTML file /Users/ddm/ws/poirot/p3trunk/data/ExpertTraces/Phase3/MDIS/OctoberNGBWashington2/MDISTraceNGB21.ltml
+#<ltml@Trace core@MDISTraceNGB21>
+ltml> (Trace-lvl :mdis 2)
+((:default . 0) (:mdis . 2))
+ltml> (analyze-raw-trace-to-create-derived-services tr)
+
+Looking at TE: 1   #<ltml@AtomicProcess mdis@GetTaskInformation>
+
+Looking at TE: 2   #<ltml@AtomicProcess LOGIN@Do_Button_loginButton>
+Input fluent parameter: #<TraceFluent LOGIN@Text_passwordField>
+Input fluent parameter: #<TraceFluent LOGIN@Text_userIDfield>
+
+Looking at TE: 3   #<ltml@AtomicProcess HOME@Do_Button_NGBTasking>
+no grounding for "mob"
+  in #<NR-TASK@Options_rblRecordOptions NR-TASK@Selection_rblRecordOptions_0>
+no grounding for "alert"
+  in #<NR-TASK@Options_rblRecordOptions NR-TASK@Selection_rblRecordOptions_1>
+no grounding for "rbRemobY"
+  in #<NR-TASK@Options_radio1 NR-TASK@Selection_ptRadioButtons_rbRemobY>
+no grounding for "rbRemobN"
+  in #<NR-TASK@Options_radio1 NR-TASK@Selection_ptRadioButtons_rbRemobN>
+no grounding for "rbMrsAuthorizedY"
+  in #<NR-TASK@Options_radio2 NR-TASK@Selection_ptRadioButtons_rbMrsAuthorizedY>
+no grounding for "rbMrsAuthorizedN"
+  in #<NR-TASK@Options_radio2 NR-TASK@Selection_ptRadioButtons_rbMrsAuthorizedN>
+no grounding for "rbVolLtrY"
+  in #<NR-TASK@Options_radio3 NR-TASK@Selection_ptRadioButtons_rbVolLtrY>
+no grounding for "rbVolLtrN"
+  in #<NR-TASK@Options_radio3 NR-TASK@Selection_ptRadioButtons_rbVolLtrN>
+no grounding for "rbWaiverY"
+  in #<NR-TASK@Options_radio4 NR-TASK@Selection_ptRadioButtons_rbWaiverY>
+no grounding for "rbWaiverN"
+  in #<NR-TASK@Options_radio4 NR-TASK@Selection_ptRadioButtons_rbWaiverN>
+
+Looking at TE: 4   #<ltml@AtomicProcess NR-TASK@Do_Select_ddlOperation>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgResults dgResults_Record1)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgResults dgResults_Record2)>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+
+Looking at TE: 5   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record1)>) 
+no grounding for "1100C010710"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3822"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3822"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtFtn_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtUrfId_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtDescription_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calUserPidLad_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupUrfUic_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFCOMPO_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFANAME_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFPAX_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtBrPlan_out>)
+no grounding for "CONT DARPA USER1 at 12/6/2009 9:02:08 PM  test"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>)
+
+Looking at TE: 6   #<ltml@AtomicProcess NR-TASK@Do_Button_ShowTable>
+
+Looking at TE: 7   #<ltml@AtomicProcess UB-TABLE@Do_Text_STRUIC>
+Input fluent parameter: #<TraceFluent UB-TABLE@Text_STRUIC>
+(New parameter #<ltml@OutputParameter UB-TABLE@Do_Text_STRUIC.STRUIC_out>)
+
+Looking at TE: 8   #<ltml@AtomicProcess UB-TABLE@Do_Button_Search>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgUnitBreakdown dgUnitBreakdown_Record3)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgUnitBreakdown dgUnitBreakdown_Record4)>
+Input fluent parameter: #<TraceFluent UB-TABLE@Text_STRUIC>
+
+Looking at TE: 9   #<ltml@AtomicProcess NR-TASK@Do_Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Text_ajaxLookupMobUic.ajaxLookupMobUic_out>)
+
+Looking at TE: 10   #<ltml@AtomicProcess NR-TASK@Do_Button_OnMobUicChanged>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBCOMPO_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBANAME_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtHomeStation_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBHomeState_out>)
+
+Looking at TE: 11   #<ltml@AtomicProcess NR-TASK@Do_Button_URF>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dlActive dlActive_Record5)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPrevious dgPrevious_Record6)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPrevious dgPrevious_Record7)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPlanLookup dgPlanLookup_Record8)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPlanLookup dgPlanLookup_Record9)>
+Input fluent parameter: #<TraceFluent NR-TASK@VirtualField_URF_FTN>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtFTN_out>)
+no grounding for "FY10"
+  in #<pweb@Field FTNURF@Text_txtFY>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtBOS_out>)
+no grounding for "C010710"
+  in #<pweb@Field FTNURF@Text_txtReqID>
+no grounding for "1"
+  in #<pweb@Field FTNURF@Text_txtNumUnits>
+no grounding for "7"
+  in #<pweb@Field FTNURF@Text_txtJRSOI>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtNomenclature_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtComponent_out>)
+no grounding for "10-12"
+  in #<pweb@Field FTNURF@Text_txtCycle>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtUnit_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtOP_out>)
+no grounding for "Arifjan"
+  in #<pweb@Field FTNURF@Text_txtLocation>
+no grounding for "05-18-2010"
+  in #<pweb@Field FTNURF@Text_txtPlanLAD>
+no grounding for "01-01-1900"
+  in #<pweb@Field FTNURF@Text_txtAAD>
+no grounding for "N"
+  in #<pweb@Field FTNURF@Text_txtPTDO>
+no grounding for "05-17-2011"
+  in #<pweb@Field FTNURF@Text_txtBOG>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtEstPAX_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtPOCName_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtPOCPhone_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtPOCEmail_out>)
+no grounding for "Religious Support Mission. Category 1. COMMENTS REMOVED"
+  in #<pweb@Field FTNURF@Text_txtMission>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtCapabilities_out>)
+no grounding for "COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field FTNURF@Text_txtNotes>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtBOSMatrix_out>)
+
+Looking at TE: 12   #<ltml@AtomicProcess FTNURF@Do_TableCell_dgPrevious>
+Warning: Not handling #<FT exp@remove (FunctionTerm68)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPrevious dgPrevious_Record10)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgFuture dgFuture_Record11)>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtFTN_out>)
+no grounding for "FY09"
+  in #<pweb@Field FTNURF@Text_txtFY>
+no grounding for "14"
+  in #<pweb@Field FTNURF@Text_txtJRSOI>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtComponent_out>)
+no grounding for "09-11"
+  in #<pweb@Field FTNURF@Text_txtCycle>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtUnit_out>)
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtOP_out>)
+no grounding for "DIWANIYAH (ECHO)"
+  in #<pweb@Field FTNURF@Text_txtLocation>
+no grounding for "06-25-2009"
+  in #<pweb@Field FTNURF@Text_txtPlanLAD>
+no grounding for "05-25-2010"
+  in #<pweb@Field FTNURF@Text_txtBOG>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtPOCName_out>)
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtPOCPhone_out>)
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtPOCEmail_out>)
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dlActive_Record5_out>)
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dlActive_Record5_out>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>)
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+no grounding for "70"
+  in #<FTNURF@dgPlanLookup_Record FTNURF@dgPlanLookup_Record8>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+no grounding for "CP SHELBY, MS"
+  in #<FTNURF@dgPlanLookup_Record FTNURF@dgPlanLookup_Record8>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record8_out>
+
+Looking at TE: 13   #<ltml@AtomicProcess NR-TASK@Do_Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Text_txtMOBPAX.txtMOBPAX_out>)
+
+Looking at TE: 14   #<ltml@AtomicProcess NR-TASK@Do_Button_CalcDate>
+
+Looking at TE: 15   #<ltml@AtomicProcess D-CALC@Do_Text_txtStartDate1>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtStartDate1>
+(New parameter #<ltml@OutputParameter D-CALC@Do_Text_txtStartDate1.txtStartDate1_out>)
+
+Looking at TE: 16   #<ltml@AtomicProcess D-CALC@Do_Text_txtDaysBefore>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtDaysBefore>
+
+Looking at TE: 17   #<ltml@AtomicProcess D-CALC@Do_Button_CalculateDate>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtDaysBefore>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtEndDate>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtStartDate1>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtStartDate2>
+(New parameter #<ltml@OutputParameter D-CALC@Do_Button_CalculateDate.txtStartDate1_out>)
+
+Looking at TE: 18   #<ltml@AtomicProcess NR-TASK@Do_Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Text_calRECMOBDate.calRECMOBDate_out>)
+
+Looking at TE: 19   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio1>
+
+Looking at TE: 20   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio2>
+
+Looking at TE: 21   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio3>
+
+Looking at TE: 22   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio4>
+
+Looking at TE: 23   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.txtMOBPAX_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record1_out>)
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record1>
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record1>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record1>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record1_out>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record1>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record1_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record1_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record1_out>
+
+Looking at TE: 24   #<ltml@AtomicProcess NR-TASK@Do_Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+no grounding for "NGB Request the Mob only for the UIC WP6NAA in support of OIF (DEMO) 10-12; of FTN 1100C010710 Missi..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 25   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "NGB Request the Mob only for the UIC WP6NAA in support of OIF (DEMO) 10-12; of FTN 1100C010710 Missi..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 26   #<ltml@AtomicProcess NR-TASK@Do_Button_Submit>
+Warning: Not handling #<FT exp@remove (FunctionTerm121)>
+Warning: Not handling #<FT exp@remove (FunctionTerm126)>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "1100C010710"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3822"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3822"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+
+Looking at TE: 27   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record2)>) 
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtFtn_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtUrfId_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtDescription_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calUserPidLad_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupUrfUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtBrPlan_out>
+no grounding for "CONT DARPA USER1 at 12/6/2009 10:23:35 PM  test"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 28   #<ltml@AtomicProcess NR-TASK@Do_Button_ShowTable>
+
+Looking at TE: 29   #<ltml@AtomicProcess UB-TABLE@Do_Text_STRUIC>
+Input fluent parameter: #<TraceFluent UB-TABLE@Text_STRUIC>
+Retrieved parameter #<ltml@OutputParameter UB-TABLE@Do_Text_STRUIC.STRUIC_out>
+
+Looking at TE: 30   #<ltml@AtomicProcess UB-TABLE@Do_Button_Search>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgUnitBreakdown dgUnitBreakdown_Record12)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgUnitBreakdown dgUnitBreakdown_Record13)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgUnitBreakdown dgUnitBreakdown_Record14)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgUnitBreakdown dgUnitBreakdown_Record15)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgUnitBreakdown dgUnitBreakdown_Record16)>
+Input fluent parameter: #<TraceFluent UB-TABLE@Text_STRUIC>
+
+Looking at TE: 31   #<ltml@AtomicProcess NR-TASK@Do_Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_ajaxLookupMobUic.ajaxLookupMobUic_out>
+
+Looking at TE: 32   #<ltml@AtomicProcess NR-TASK@Do_Button_OnMobUicChanged>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBHomeState_out>
+
+Looking at TE: 33   #<ltml@AtomicProcess NR-TASK@Do_Button_URF>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dlActive dlActive_Record17)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPrevious dgPrevious_Record18)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPrevious dgPrevious_Record19)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPlanLookup dgPlanLookup_Record20)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPlanLookup dgPlanLookup_Record21)>
+Input fluent parameter: #<TraceFluent NR-TASK@VirtualField_URF_FTN>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtFTN_out>
+no grounding for "FY10"
+  in #<pweb@Field FTNURF@Text_txtFY>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtBOS_out>
+no grounding for "C011320"
+  in #<pweb@Field FTNURF@Text_txtReqID>
+no grounding for "1"
+  in #<pweb@Field FTNURF@Text_txtNumUnits>
+no grounding for "40"
+  in #<pweb@Field FTNURF@Text_txtJRSOI>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtNomenclature_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtComponent_out>
+no grounding for "10-12"
+  in #<pweb@Field FTNURF@Text_txtCycle>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtUnit_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtOP_out>
+no grounding for "LSA ADDER"
+  in #<pweb@Field FTNURF@Text_txtLocation>
+no grounding for "05-22-2010"
+  in #<pweb@Field FTNURF@Text_txtPlanLAD>
+no grounding for "01-01-1900"
+  in #<pweb@Field FTNURF@Text_txtAAD>
+no grounding for "N"
+  in #<pweb@Field FTNURF@Text_txtPTDO>
+no grounding for "05-21-2011"
+  in #<pweb@Field FTNURF@Text_txtBOG>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtEstPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtPOCName_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtPOCPhone_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtPOCEmail_out>
+no grounding for "Sustainment Brigade. Category 2. COMMENTS REMOVED"
+  in #<pweb@Field FTNURF@Text_txtMission>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtCapabilities_out>
+no grounding for "COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field FTNURF@Text_txtNotes>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_URF.txtBOSMatrix_out>
+
+Looking at TE: 34   #<ltml@AtomicProcess FTNURF@Do_TableCell_dgPrevious>
+Warning: Not handling #<FT exp@remove (FunctionTerm65)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPrevious dgPrevious_Record22)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgFuture dgFuture_Record23)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPlanLookup dgPlanLookup_Record24)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPlanLookup dgPlanLookup_Record25)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPlanLookup dgPlanLookup_Record26)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgPlanLookup dgPlanLookup_Record27)>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtFTN_out>
+no grounding for "FY09"
+  in #<pweb@Field FTNURF@Text_txtFY>
+no grounding for "09-11"
+  in #<pweb@Field FTNURF@Text_txtCycle>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtUnit_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtOP_out>
+no grounding for "11-09-2008"
+  in #<pweb@Field FTNURF@Text_txtPlanLAD>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtUIC_out>)
+no grounding for "11-09-2008"
+  in #<pweb@Field FTNURF@Text_txtAAD>
+no grounding for "06-17-2010"
+  in #<pweb@Field FTNURF@Text_txtBOG>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtEstPAX_out>)
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtPOCName_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtPOCPhone_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.txtPOCEmail_out>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dlActive_Record17_out>)
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dlActive_Record17_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dlActive_Record17_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dlActive_Record17_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dlActive_Record17_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dlActive_Record17_out>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>)
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+no grounding for "58"
+  in #<FTNURF@dgPlanLookup_Record FTNURF@dgPlanLookup_Record20>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+no grounding for "FT LEWIS, WA"
+  in #<FTNURF@dgPlanLookup_Record FTNURF@dgPlanLookup_Record20>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record20_out>
+(New parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>)
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+no grounding for "58"
+  in #<FTNURF@dgPlanLookup_Record FTNURF@dgPlanLookup_Record21>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+no grounding for "FT LEWIS, WA"
+  in #<FTNURF@dgPlanLookup_Record FTNURF@dgPlanLookup_Record21>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+Retrieved parameter #<ltml@OutputParameter FTNURF@Do_TableCell_dgPrevious.dgPlanLookup_Record21_out>
+
+Looking at TE: 35   #<ltml@AtomicProcess NR-TASK@Do_Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_txtMOBPAX.txtMOBPAX_out>
+
+Looking at TE: 36   #<ltml@AtomicProcess NR-TASK@Do_Button_CalcDate>
+
+Looking at TE: 37   #<ltml@AtomicProcess D-CALC@Do_Text_txtStartDate1>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtStartDate1>
+Retrieved parameter #<ltml@OutputParameter D-CALC@Do_Text_txtStartDate1.txtStartDate1_out>
+
+Looking at TE: 38   #<ltml@AtomicProcess D-CALC@Do_Text_txtDaysBefore>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtDaysBefore>
+
+Looking at TE: 39   #<ltml@AtomicProcess D-CALC@Do_Button_CalculateDate>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtDaysBefore>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtEndDate>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtStartDate1>
+Input fluent parameter: #<TraceFluent D-CALC@Text_txtStartDate2>
+Retrieved parameter #<ltml@OutputParameter D-CALC@Do_Button_CalculateDate.txtStartDate1_out>
+
+Looking at TE: 40   #<ltml@AtomicProcess NR-TASK@Do_Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_calRECMOBDate.calRECMOBDate_out>
+
+Looking at TE: 41   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio1>
+
+Looking at TE: 42   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio2>
+
+Looking at TE: 43   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio3>
+
+Looking at TE: 44   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio4>
+
+Looking at TE: 45   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.txtMOBPAX_out>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record2_out>)
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record2>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record2>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record2>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record2_out>
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record2>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record2_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record2_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record2_out>
+
+Looking at TE: 46   #<ltml@AtomicProcess NR-TASK@Do_Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 47   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 48   #<ltml@AtomicProcess NR-TASK@Do_Button_AddDerivative>
+Warning: Not handling #<FT exp@remove (FunctionTerm123)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgResults dgResults_Record28)>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Warning: Expected an index property to be restricted to a literal.
+   But the restriction on #<OwlProperty top@name>
+   in #<OwlClass mdis@UserAction>
+   is #<OwlClass top@Name>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_rblRecordOptions>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+
+Looking at TE: 49   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record28)>) 
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtFtn_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtUrfId_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtDescription_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calUserPidLad_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupUrfUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtBrPlan_out>
+no grounding for "at 8/4/2008 11:00:12 AM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 50   #<ltml@AtomicProcess NR-TASK@Do_Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_ajaxLookupMobUic.ajaxLookupMobUic_out>
+
+Looking at TE: 51   #<ltml@AtomicProcess NR-TASK@Do_Button_OnMobUicChanged>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBHomeState_out>
+
+Looking at TE: 52   #<ltml@AtomicProcess NR-TASK@Do_Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_txtMOBPAX.txtMOBPAX_out>
+
+Looking at TE: 53   #<ltml@AtomicProcess NR-TASK@Do_Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_calRECMOBDate.calRECMOBDate_out>
+
+Looking at TE: 54   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio1>
+
+Looking at TE: 55   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio2>
+
+Looking at TE: 56   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio3>
+
+Looking at TE: 57   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio4>
+
+Looking at TE: 58   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record28_out>)
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record28>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record28>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record28>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record28_out>
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record28>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record28_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record28_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record28_out>
+
+Looking at TE: 59   #<ltml@AtomicProcess NR-TASK@Do_Button_AddDerivative>
+Warning: Not handling #<FT exp@remove (FunctionTerm120)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgResults dgResults_Record29)>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Warning: Expected an index property to be restricted to a literal.
+   But the restriction on #<OwlProperty top@name>
+   in #<OwlClass mdis@UserAction>
+   is #<OwlClass top@Name>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_rblRecordOptions>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+
+Looking at TE: 60   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record29)>) 
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtFtn_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtUrfId_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtDescription_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calUserPidLad_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupUrfUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtBrPlan_out>
+no grounding for "at 8/15/2008 11:27:13 AM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 61   #<ltml@AtomicProcess NR-TASK@Do_Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_ajaxLookupMobUic.ajaxLookupMobUic_out>
+
+Looking at TE: 62   #<ltml@AtomicProcess NR-TASK@Do_Button_OnMobUicChanged>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBHomeState_out>
+
+Looking at TE: 63   #<ltml@AtomicProcess NR-TASK@Do_Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_txtMOBPAX.txtMOBPAX_out>
+
+Looking at TE: 64   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio1>
+
+Looking at TE: 65   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio2>
+
+Looking at TE: 66   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio3>
+
+Looking at TE: 67   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio4>
+
+Looking at TE: 68   #<ltml@AtomicProcess NR-TASK@Do_Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_calRECMOBDate.calRECMOBDate_out>
+
+Looking at TE: 69   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record29_out>)
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record29>
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record29>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record29>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record29_out>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record29>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record29_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record29_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record29_out>
+
+Looking at TE: 70   #<ltml@AtomicProcess NR-TASK@Do_Button_AddDerivative>
+Warning: Not handling #<FT exp@remove (FunctionTerm120)>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_dgResults dgResults_Record30)>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Warning: Expected an index property to be restricted to a literal.
+   But the restriction on #<OwlProperty top@name>
+   in #<OwlClass mdis@UserAction>
+   is #<OwlClass top@Name>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_rblRecordOptions>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+
+Looking at TE: 71   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record30)>) 
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3828"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3828"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtFtn_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtUrfId_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtDescription_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calUserPidLad_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupUrfUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtBrPlan_out>
+no grounding for "at 7/30/2008 1:50:46 PM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 72   #<ltml@AtomicProcess NR-TASK@Do_Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_ajaxLookupMobUic.ajaxLookupMobUic_out>
+
+Looking at TE: 73   #<ltml@AtomicProcess NR-TASK@Do_Button_OnMobUicChanged>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_OnMobUicChanged.txtMOBHomeState_out>
+
+Looking at TE: 74   #<ltml@AtomicProcess NR-TASK@Do_Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_calRECMOBDate.calRECMOBDate_out>
+
+Looking at TE: 75   #<ltml@AtomicProcess NR-TASK@Do_Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Text_txtMOBPAX.txtMOBPAX_out>
+
+Looking at TE: 76   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio1>
+
+Looking at TE: 77   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio2>
+
+Looking at TE: 78   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio3>
+
+Looking at TE: 79   #<ltml@AtomicProcess NR-TASK@Do_RadioButton_radio4>
+
+Looking at TE: 80   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record30_out>)
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record30>
+no grounding for "YES"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record30>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record30>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record30_out>
+no grounding for "NO"
+  in #<NR-TASK@dgResults_Record NR-TASK@dgResults_Record30>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record30_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record30_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_Button_Save.dgResults_Record30_out>
+
+Looking at TE: 81   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record2)>) 
+Warning: Not handling #<FT exp@remove (FunctionTerm57)>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WTDVB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+no grounding for "CONT DARPA USER1 at 12/6/2009 10:23:35 PM  test"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupMobUic_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBANAME_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtHomeStation_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBHomeState_out>)
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBPAX_out>)
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 82   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+Warning: Not handling #<FT exp@remove (FunctionTerm34)>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record28)>) 
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WTDVA0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+no grounding for "at 8/4/2008 11:00:12 AM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupMobUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 83   #<ltml@AtomicProcess NR-TASK@Do_Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 84   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 85   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+Warning: Not handling #<FT exp@remove (FunctionTerm49)>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record29)>) 
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WPSEB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+no grounding for "at 8/15/2008 11:27:13 AM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupMobUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBHomeState_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 86   #<ltml@AtomicProcess NR-TASK@Do_Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 87   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 88   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+Warning: Not handling #<FT exp@remove (FunctionTerm46)>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record30)>) 
+no grounding for "3828"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3828"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WPEDB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+no grounding for "at 7/30/2008 1:50:46 PM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupMobUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBHomeState_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 89   #<ltml@AtomicProcess NR-TASK@Do_Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 90   #<ltml@AtomicProcess NR-TASK@Do_Button_Save>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+
+Looking at TE: 91   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record2)>) 
+Warning: Not handling #<FT exp@remove (FunctionTerm51)>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WTDVB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+no grounding for "CONT DARPA USER1 at 12/6/2009 10:23:35 PM  test"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupMobUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBHomeState_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 92   #<ltml@AtomicProcess NR-TASK@Do_Button_Submit>
+Warning: Not handling #<FT exp@remove (FunctionTerm136)>
+Warning: Not handling #<FT exp@remove (FunctionTerm141)>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3823"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WTDVB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+
+Looking at TE: 93   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record28)>) 
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WTDVA0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtFtn_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtUrfId_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtDescription_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calUserPidLad_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupUrfUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtBrPlan_out>
+no grounding for "at 8/4/2008 11:00:12 AM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupMobUic_out>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBCOMPO_out>)
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBHomeState_out>
+(New parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calRECMOBDate_out>)
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBPAX_out>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 94   #<ltml@AtomicProcess NR-TASK@Do_Button_Submit>
+Warning: Not handling #<FT exp@remove (FunctionTerm136)>
+Warning: Not handling #<FT exp@remove (FunctionTerm141)>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3826"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WTDVA0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+
+Looking at TE: 95   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record29)>) 
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WPSEB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtFtn_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtUrfId_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtDescription_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calUserPidLad_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupUrfUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtBrPlan_out>
+no grounding for "at 8/15/2008 11:27:13 AM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupMobUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBHomeState_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calRECMOBDate_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBPAX_out>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 96   #<ltml@AtomicProcess NR-TASK@Do_Button_Submit>
+Warning: Not handling #<FT exp@remove (FunctionTerm136)>
+Warning: Not handling #<FT exp@remove (FunctionTerm141)>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3827"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WPSEB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+
+Looking at TE: 97   #<ltml@AtomicProcess NR-TASK@Do_TableRow_dgResults>
+
+(dont know how to ground
+ #<FT pweb@selectedRow (Table_dgResults dgResults_Record30)>) 
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3828"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3828"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WPEDB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtFtn_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtUrfId_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtDescription_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calUserPidLad_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupUrfUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtURFPAX_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtBrPlan_out>
+no grounding for "at 7/30/2008 1:50:46 PM  COMMENTS REMOVED FREE TEXT FIELD"
+  in #<pweb@Field NR-TASK@Text_txtComRec>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.ajaxLookupMobUic_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBCOMPO_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBANAME_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtHomeStation_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBHomeState_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.calRECMOBDate_out>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.txtMOBPAX_out>
+no grounding for "NGB Request the MOB for UIC WTDVAA in support of OIF (DEMO) 10-12; of FTN 1100C011320Mission Descrip..."
+  in #<pweb@Field NR-TASK@Text_txtJustification>
+Retrieved parameter #<ltml@OutputParameter NR-TASK@Do_TableRow_dgResults.hdnNtpId_out>
+
+Looking at TE: 98   #<ltml@AtomicProcess NR-TASK@Do_Button_Submit>
+Warning: Not handling #<FT exp@remove (FunctionTerm136)>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupMobUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_ajaxLookupUrfUic>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calRECMOBDate>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_calUserPidLad>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlOperation>
+Input fluent parameter: #<TraceFluent NR-TASK@Select_ddlUserPidType>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio1>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio2>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio3>
+Input fluent parameter: #<TraceFluent NR-TASK@RadioButton_radio4>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtBrPlan>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtComRec>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtDescription>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtFtn>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtHomeStation>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtJustification>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBHomeState>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtMOBPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFANAME>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFCOMPO>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtURFPAX>
+Input fluent parameter: #<TraceFluent NR-TASK@Text_txtUrfId>
+no grounding for "1100C011320"
+  in #<pweb@VirtualField NR-TASK@VirtualField_URF_FTN>
+no grounding for "3828"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Com_NTPID>
+no grounding for "3828"
+  in #<pweb@VirtualField NR-TASK@VirtualField_His_NTPID>
+no grounding for "PLN"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_SOURCE>
+no grounding for "WPEDB0"
+  in #<pweb@VirtualField NR-TASK@VirtualField_Rot_UIC>
+
+Looking at TE: 99   #<ltml@AtomicProcess NR-TASK@Do_Link_logout>
+Warning: Not handling
+         #<FT pweb@tableHasRow (Table_Table2 Table2_Record31)>
+Warning: LOGIN@ListOfTable2_GroundedRecord, :type was defined in
+         /Users/ddm/ws/nlp/Poirot/load-nlp-poirot.lisp and is now being
+         defined at the top level
+; Evaluation aborted.
+ltml> 

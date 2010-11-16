@@ -1,0 +1,84 @@
+
+ Fertilization activates the egg and brings together the nuclei of sperm and egg
+
+The gametes, sperm and egg that unite during fertilization, are both highly specialized cell types produced by a complex series of developmental events in the testes and ovaries of the parents (see Chapter 46). The main function of fertilization is to combine haploid sets of chromosomes from two individuals into a single diploid cell, the zygote. Another key function is activation of the egg: Contact of the sperm with the egg's surface initiates metabolic reactions within the egg that trigger the onset of embryonic development.
+
+Fertilization has been studied most extensively by combining the gametes of sea urchins in the laboratory. Although the details of fertilization vary with different animal groups, sea urchins (phylum Echinodermata) provide a good general model for the important events of fertilization. While sea urchins are not vertebrates or even chordates, they are deuterostomes (see Chapter 32), and their early development is similar to that of vertebrates.
+
+The Acrosomal Reaction
+
+The eggs of sea urchins are fertilized externally after the animals release their gametes into the surrounding seawater. When a sperm cell is exposed to molecules from the slowly dissolving jelly coat that surrounds an egg, a vesicle at the tip of the sperm called the acrosome discharges its contents by exocytosis (FIGURE 47.2, p. 1000). This acrosomal reaction releases hydrolytic enzymes that enable an elongating structure called the acrosomal process to penetrate the jelly coat of the egg. The tip of the acrosomal process is coated with a protein that adheres to specific receptor molecules located under the jelly coat, on the vitelline layer just external to the plasma membrane of the egg. In sea urchins and many other animals, "lock-and-key" recognition of molecules ensures that eggs will be fertilized only by sperm of the same species. This specificity is especially important when fertilization occurs externally in water, where gametes of other species are likely to be present.
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-2. The acrosomal and cortical reactions during sea urchin fertilization. The events following contact of a single sperm and egg ensure that only one sperm nucleus enters the cytoplasm of the egg.
+
+The acrosomal reaction leads to the fusion of sperm and egg plasma membranes and the entry of a single sperm nucleus into the cytoplasm of the egg. Fusion of the membranes causes ion channels to open in the egg cell's plasma membrane, allowing sodium ions to flow into the egg cell and change the membrane potential, the voltage across the membrane (see Chapter 8, pp. 149-150). This membrane depolarization, as such a change is called, is common among animal species. Occurring within about 1 to 3 seconds after a sperm binds to the vitelline layer, the depolarization is also called the fast block to polyspermy because it prevents more than one sperm cell from fusing with the egg's plasma membrane. Without this block, multiple sperm could fertilize the egg--resulting in an aberrant number of chromosomes in the zygote.
+
+The Cortical Reaction
+
+Another major effect of the fusion of egg and sperm plasma membranes is the cortical reaction, a series of changes in the outer zone (cortex) of the egg cytoplasm (see FIGURE 47.2, step 6). The fusion of sperm and egg triggers a signal-transduction pathway that causes the egg's endoplasmic reticulum to release calcium (Ca2+) into the cytosol. The calcium release from the ER begins at the site of sperm entry and then propagates in a wave across the fertilized egg (FIGURE 47.3). Apparently the signaling pathway leads to production of the "second messengers" IP3 and DAG (see FIGURE 11.15). The IP3 opens ligand-gated calcium channels in the ER membrane; the Ca2+ released then triggers the opening of other channels, and so on. Within seconds, the high concentration of Ca2+ brings about a change in vesicles called cortical granules, which lie just under the egg's plasma membrane. Responding to the Ca2+ increase, the cortical granules fuse with the plasma membrane and release their contents into the perivitelline space between the plasma membrane and the vitelline layer. Enzymes from the granules separate the vitelline layer from the plasma membrane while mucopolysaccharides produce an osmotic gradient, drawing water into the perivitelline space and swelling it. The swelling pushes the vitelline layer away from the plasma membrane, and other enzymes harden it. The result is that the vitelline layer becomes the fertilization envelope, which resists the entry of additional sperm. By this time, usually about a minute after sperm and egg fuse, the voltage across the plasma membrane has returned to normal, and the fast block to polyspermy no longer functions. But the fertilization envelope, along with other changes in the egg's surface, functions as a slow block to polyspermy.
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-3. A wave of Ca2+ release during the cortical reaction. A fluorescent dye that glows when it binds free Ca2+ was used in this experiment to track the cortical reaction from the point of sperm contact (0 sec) during the fertilization of a fish egg (LM). The spreading wave of calcium ions, released into the cytosol from the endoplasmic reticulum, triggers the release of more and more Ca2+. The high cytosolic concentration of Ca2+ causes the cortical granules to fuse with the plasma membrane, leading to formation of the fertilization membrane. The Ca2+ also helps activate metabolic changes inside the fertilized egg.
+
+Activation of the Egg
+
+The sharp rise in the egg's cytosolic concentration of Ca2+ not only triggers the cortical reaction but also incites metabolic changes within the egg cell. The unfertilized egg has a very slow metabolism, but within a few minutes of fertilization, the rates of cellular respiration and protein synthesis increase substantially. With these rapid changes, the egg cell is said to be activated. In sea urchins and many other species, the DAG produced during the cortical reaction activates a membrane protein that transports H+ out of the egg, making the egg cytosol slightly alkaline. This pH change seems to be indirectly responsible for the metabolic responses of the egg to fertilization.
+
+Although the binding and fusion of sperm are triggers for egg activation, sperm cells do not contribute any materials required for activation. Indeed, the unfertilized eggs of many species can be artificially activated by the injection of Ca2+ or by a variety of mildly injurious treatments, such as temperature shock. This artificial activation switches on the metabolic responses of the egg and causes it to begin developing by parthenogenesis (without fertilization by a sperm). It is even possible to artificially activate an egg that has had its own nucleus removed, showing that the molecules involved in activation reside in the cytoplasm. (Of course, embryonic development of such an egg terminates at a very early stage, because the embryo lacks a genome.) The fact that an egg lacking a nucleus can begin making new kinds of proteins upon activation means that mRNA coding for these proteins must be stockpiled in an inactive form in the cytoplasm of the unfertilized egg.
+
+While the activated egg gears up its metabolism, the nucleus of the sperm cell within the egg starts to swell. After about 20 minutes, the sperm nucleus merges with the egg nucleus, creating the diploid nucleus of the zygote. DNA synthesis begins, and the first cell division occurs in about 90 minutes (in the case of sea urchins and some frogs). The events of fertilization in sea urchins are summarized in FIGURE 47.4.
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-4. Timeline for the fertilization of sea urchin eggs. The process begins when a sperm cell contacts the jelly coat of an egg (top of chart). Notice that the scale is logarithmic.
+
+Fertilization in Mammals
+
+In Chapter 46 you learned how in vitro fertilization of human eggs is enabling some couples with fertility problems to have children. The techniques for test-tube fertilization have also made it possible for developmental biologists to study the process of fertilization in mammals. Many of the events turn out to be similar to what has been observed in sea urchins, but there are also important differences.
+
+In contrast to the external fertilization of sea urchins and most other marine invertebrates, fertilization in terrestrial animals, including mammals, is generally internal. Secretions in the mammalian female reproductive tract alter certain molecules on the surface of sperm cells that have been deposited during the male's ejaculation and also increase the motility of the sperm. This enhancement of sperm function in the female reproductive tract, called capacitation, requires about 6 hours in humans (FIGURE 47.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-5. Fertilization in mammals. 
+			  
+		 The sperm migrates through the coat of follicle cells and binds to receptor molecules in the zona pellucida of the egg. (Receptor molecules are not shown here.) 
+			  
+		 This binding induces the acrosomal reaction, in which the sperm releases hydrolytic enzymes into the zona pellucida. 
+			  
+		 With the help of these enzymes, the sperm reaches the plasma membrane of the egg, and membrane proteins of the sperm bind to receptors on the egg membrane. 
+			  
+		 The plasma membranes fuse, making it possible for the contents of the sperm cell to enter the egg. 
+			  
+		 Enzymes released during the egg's cortical reaction harden the zona pellucida, which now functions as a block to polyspermy.
+
+The mammalian egg (actually a secondary oocyte at this stage; see FIGURE 46.13) is cloaked by follicle cells that were released with the egg during ovulation. A capacitated sperm cell must migrate through this layer of follicle cells before it reaches the zona pellucida, the extracellular matrix of the egg. The zona pellucida consists of three different glycoproteins forming filaments that are cross-linked in a three-dimensional network. One of the glycoproteins, ZP3, also functions as a sperm receptor, binding to a complementary molecule on the surface of the sperm head. The binding of the sperm head to receptor molecules induces the acrosome of the sperm cell to release its contents in an acrosomal reaction similar to that of sea urchin sperm. Protein-digesting enzymes and other hydrolases spilled from the acrosome enable the sperm cell to penetrate the zona pellucida and reach the plasma membrane of the egg. The acrosomal reaction also exposes a protein in the sperm membrane that binds and fuses with the egg membrane.
+
+The binding of a sperm cell to the egg triggers depolarization of the egg membrane, which functions as a fast block to polyspermy, as in sea urchin fertilization. A cortical reaction, in which granules in the cortex of the egg release their contents to the outside of the cell via exocytosis, also occurs. Enzymes released from the cortical granules catalyze alterations of the zona pellucida, which then functions as the slow block to polyspermy.
+
+Fingerlike extensions of the egg cell, called microvilli, take the whole sperm cell, tail and all, into the egg. The basal body of the sperm's flagellum divides and forms two centrosomes (with centrioles) in the zygote. These will generate the mitotic spindle for cell division; unfertilized mammalian eggs have no centrosomes of their own.
+
+In contrast to sea urchin fertilization, the haploid nuclei of sperm and egg do not fuse immediately in mammals. Instead, the envelopes of both nuclei disperse, and the chromosomes from the two gametes share a common spindle apparatus during the first mitotic division of the zygote. Thus, it is not until after this first division, as diploid nuclei form in the two daughter cells, that the chromosomes from the two parents come together in common nuclei to form the genome of the offspring.
+
+
+
+

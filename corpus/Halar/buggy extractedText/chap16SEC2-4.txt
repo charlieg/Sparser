@@ -1,0 +1,98 @@
+
+ A large team of enzymes and other proteins carries out DNA replication
+
+The bacterium E. coli has a single chromosome of about 5 million base pairs. In a favorable environment, an E. coli cell can copy all this DNA and divide to form two genetically identical daughter cells in less than an hour. Each of your cells has 46 DNA molecules in its nucleus, one giant molecule per chromosome. In all, that represents about 6 billion base pairs, or over a thousand times more DNA than is found in a bacterial cell. If we were to print the one-letter symbols for these bases (A, G, C, and T) the size of the letters you are now reading, the 6 billion bases of a single human cell would fill about 900 books as thick as this text. Yet it takes a cell just a few hours to copy all this DNA. This replication of an enormous amount of genetic information is achieved with very few errors--only one per billion nucleotides. The copying of DNA is remarkable in its speed and accuracy.
+
+More than a dozen enzymes and other proteins participate in DNA replication. Much more is known about how this "replication machine" works in bacteria than in eukaryotes. However, most of the process seems to be fundamentally similar for prokaryotes and eukaryotes. In this section, we take a closer look at the basic steps.
+
+Getting Started: Origins of Replication
+
+The replication of a DNA molecule begins at special sites called origins of replication. The bacterial chromosome, which is circular, has a single origin, a stretch of DNA having a specific sequence of nucleotides. Proteins that initiate DNA replication recognize this sequence and attach to the DNA, separating the two strands and opening up a replication "bubble." Replication of DNA then proceeds in both directions, until the entire molecule is copied (see FIGURE 18.11). In contrast to the bacterial chromosome, a eukaryotic chromosome may have hundreds or even thousands of replication origins. Multiple replication bubbles form and eventually fuse, thus speeding up the copying of the very long DNA molecules (FIGURE 16.10). As in bacteria, DNA replication proceeds in both directions from each origin. At each end of a replication bubble is a replication fork, a Y-shaped region where the new strands of DNA are elongating.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-10. Origins of replication in eukaryotes.
+
+Elongating a New DNA Strand
+
+Elongation of new DNA at a replication fork is catalyzed by enzymes called DNA polymerases. As nucleotides align with complementary bases along a template strand of DNA, they are added by polymerase, one by one, to the growing end of the new DNA strand. The rate of elongation is about 500 nucleotides per second in bacteria and 50 per second in human cells.
+
+What is the source of energy that drives the polymerization of nucleotides to form new DNA strands? The nucleotides that serve as substrates for DNA polymerase are actually nucleo side triphosphates, which are nucleotides with three phosphate groups (FIGURE 16.11, p. 296). You have already encountered such a molecule--ATP. The only difference between the ATP of energy metabolism and the nucleoside triphosphate that supplies adenine to DNA is the sugar component, which is deoxyribose in the building block of DNA, but ribose in ATP. (As you might guess, ribose-containing ATP is a substrate for RNA synthesis.) Like ATP, the triphosphate monomers used for DNA synthesis are chemically reactive, partly because their triphosphate tails have an unstable cluster of negative charge. As each monomer joins the growing end of a DNA strand, it loses two phosphate groups as a molecule of pyrophosphate P - Pi). Subsequent hydrolysis of the pyrophosphate to two molecules of inorganic phosphate (Pi) is the exergonic reaction that drives the polymerization reaction.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-11. Incorporation of a nucleotide into a DNA strand. When a nucleoside triphosphate links to the sugar-phosphate backbone of a growing DNA strand, it loses two of its phosphates as a pyrophosphate molecule. The enzyme catalyzing the reaction is a DNA polymerase, and hydrolysis of the bonds between the phosphate groups of the pyrophosphate provides the energy for the reaction.
+
+The Antiparallel Arrangement of the DNA Strands
+
+There is more to the scenario of DNA synthesis at the replication fork. Until now, we have ignored an important feature of the double helix: The two DNA strands are antiparallel; that is, their sugar-phosphate backbones run in opposite directions. In FIGURE 16.12, the five carbons of one deoxyribose sugar of each DNA strand are numbered from 1&#39; to 5&#39;. (The prime sign is used to distinguish the carbon atoms of the sugar from the carbon and nitrogen atoms of the nitrogenous bases.) Notice in FIGURE 16.12 that a nucleotide's phosphate group is attached to the 5&#39; carbon of deoxyribose. Notice also that the phosphate group of one nucleotide is joined to the 3&#39; carbon of the adjacent nucleotide. The result is a DNA strand of distinct polarity. At one end, denoted the 3&#39; end, a hydroxyl group is attached to the 3&#39; carbon of the terminal deoxyribose. At the opposite end, the 5&#39; end, the sugar-phosphate backbone terminates with the phosphate group attached to the 5&#39; carbon of the last nucleotide. In the double helix, the two sugar-phosphate backbones are essentially upside down (antiparallel) relative to each other.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-12. The two strands of DNA are antiparallel. The 5&#39; 3&#39; direction of one strand runs counter to the 5&#39; 3&#39; direction of the other strand. The numbers assigned to the carbon atoms of the deoxyribose units are shown for two of them.
+
+How does the antiparallel structure of the double helix affect replication? DNA polymerases add nucleotides only to the free 3&#39; end of a growing DNA strand, never to the 5&#39; end. Thus, a new DNA strand can elongate only in the 5&#39; 3&#39; direction. With this in mind, let's examine a replication fork (FIGURE 16.13). Along one template strand, DNA polymerase can synthesize a continuous complementary strand by elongating the new DNA in the mandatory 5&#39; 3&#39; direction. The polymerase simply nestles in the replication fork on that template strand and continuously adds nucleotides to a complementary strand as the fork progresses. The DNA strand made by this mechanism is called the leading strand.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-13. Synthesis of leading and lagging strands during DNA replication.
+
+To elongate the other new strand of DNA, polymerase must work along the other template strand in the direction away from the replication fork. The DNA synthesized in this direction is called the lagging strand. The process is analogous to a sewing method called backstitching. As a replication bubble opens, a polymerase molecule can work its way away from a replication fork and synthesize a short segment of DNA. As the bubble grows, another short segment of the lagging strand can be made in a similar way. In contrast to the leading strand, which elongates continuously, the lagging strand is first synthesized as a series of segments. These pieces are called Okazaki fragments, after the Japanese scientist who discovered them. The fragments are about 100 to 200 nucleotides long in eukaryotes. Another enzyme, DNA ligase, joins (ligates) the sugar-phosphate backbones of the Okazaki fragments to create a single DNA strand.
+
+Priming DNA Synthesis
+
+There is another important restriction for DNA polymerases. None of these enzymes can actually initiate synthesis of a polynucleotide; they can only add nucleotides to the end of an already existing chain that is base-paired with the template strand (see FIGURE 16.11). In the replication of cellular DNA, the start of a new chain, its primer, is not DNA, but a short stretch of RNA, the other class of nucleic acid. An enzyme called primase joins RNA nucleotides to make the primer, which is about 10 nucleotides long in eukaryotes (FIGURE 16.14). (Like all RNA-synthesizing enzymes, primase can start an RNA chain from scratch.) Another DNA polymerase later replaces the RNA nucleotides of the primers with DNA versions. Only one primer is required for a DNA polymerase to begin synthesizing the leading strand of new DNA. For the lagging strand, each Okazaki fragment must be primed; the primers are converted to DNA before ligase joins the fragments together.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-14. Priming DNA synthesis with RNA. DNA polymerase cannot initiate a polynucleotide strand; it can only add to the 3&#39; end of an already-started strand. The primer is a short segment of RNA synthesized by the enzyme primase. Each primer is eventually replaced by DNA.
+
+Other Proteins Assisting DNA Replication
+
+You have learned about three kinds of proteins that function in DNA synthesis: DNA polymerase, ligase, and primase. Other kinds of proteins also participate; two of these are helicase and single-strand binding protein. A helicase is an enzyme that untwists the double helix at the replication fork, separating the two old strands. Molecules of single-strand binding protein then line up along the unpaired DNA strands, holding them apart while they serve as templates for the synthesis of new complementary strands.
+
+FIGURE 16.15 summarizes the functions of the main proteins that cooperate in DNA replication. FIGURE 16.16 is a visual summary of DNA replication.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-15. The main proteins of DNA replication and their functions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 16-16. A summary of DNA replication. The detailed diagram shows one replication fork, but as indicated in the overview diagram, replication usually occurs simultaneously at two forks, one at either end of a replication bubble. Notice in the overview diagram that a leading strand is initiated by an RNA primer (magenta), as is each Okazaki fragment in a lagging strand. Viewing each daughter strand in its entirety, you can see that half of it is made continuously as a leading strand, while the other half (on the other side of the origin) is synthesized in fragments as a lagging strand.
+
+The DNA Replication Machine as a Stationary Complex
+
+It is traditional--and convenient--to represent DNA polymerase molecules as locomotives moving along a DNA "railroad track," but such a model is inaccurate in two important ways. First, the various proteins that participate in DNA replication actually form a single large complex, a DNA replication "machine." Second, this machine is probably stationary during the replication process. In eukaryotic cells, the multiple copies of the machine, perhaps grouped into "factories," may anchor to the nuclear matrix, a framework of fibers extending through the interior of the nucleus. Recent studies support a model in which DNA polymerase molecules "reel in" the parental DNA and "extrude" newly made daughter DNA molecules.
+
+
+
+

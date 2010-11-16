@@ -1,0 +1,16 @@
+If you start up  the new RMCL application and call ROOM, you will see  
+it report the total size of the lisp heap as being a
+few percent less than 10MB rather than a few percent less than 100MB as  
+it did previously.
+
+Welcome to Macintosh Common Lisp Version 5.2!
+? (room)
+                 Total Size                Free                   Used
+Lisp Heap:  1026313016 (978.8 MB)  1022691456 (975.3 MB)     3621560  (3.454 MB)
+Stacks:       13377324 (12.76 MB)    13373764 (12.75 MB)        3560  (3 kB)
+Static:           5400 (5 kB)               0 (0)               5400  (5 kB)
+?
+
+The size of the lisp heap is controlled by the value contained in an  
+"NSIZ" resource; by default, this is  now 1GB.  You can try to save
+a copy of RMCL that uses a larger value by doing something like:

@@ -1,0 +1,120 @@
+
+ The relationship between genotype and phenotype is rarely simple
+
+In the 20th century, geneticists have extended Mendelian principles not only to diverse organisms, but also to patterns of inheritance more complex than Mendel actually described. It was brilliant (or lucky) that Mendel chose pea plant characters that turned out to have a relatively simple genetic basis: Each character he studied is determined by one gene, for which there are only two alleles, one completely dominant to the other.* But these conditions are not met by all heritable characters, not even in garden peas. The relationship between genotype and phenotype is rarely so simple. This does not diminish the utility of Mendelian genetics, for the basic principles of segregation and independent assortment apply even to more complex patterns of inheritance. In this section, we will extend Mendelian genetics to hereditary patterns that were not reported by Mendel.
+
+Incomplete Dominance
+
+The F1 offspring of Mendel's classic pea crosses always looked like one of the two parental varieties because of the complete dominance of one allele over another. But for some genes, there is incomplete dominance, where the F1 hybrids have an appearance somewhere in between the phenotypes of the two parental varieties. For instance, when red snapdragons are crossed with white snapdragons, all the F1 hybrids have pink flowers (FIGURE 14.9). This third phenotype results from flowers of the heterozygotes having less red pigment than the red homozygotes (unlike the situation in Mendel's pea plants, where the Pp heterozygotes make enough pigment for the flowers to be a purple color indistinguishable from those of PP plants). We should not, however, regard incomplete dominance as evidence for the blending hypothesis, which would predict that the red or white traits could never be retrieved from the pink hybrids. In fact, breeding the F1 hybrids produces F2 offspring with a phenotypic ratio of one red to two pink to one white. (Because heterozygotes have a separate phenotype, the genotypic and phenotypic ratios for the F2 generation are the same, 1:2:1.) The segregation of the red-flower and white-flower alleles in the gametes produced by the pink-flowered plants confirms that the alleles for flower color are heritable factors that maintain their identity in the hybrids; that is, inheritance is particulate.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-9. Incomplete dominance in snapdragon color. When red snapdragons are crossed with white ones, the F1 hybrids have pink flowers. Segregation of alleles into gametes of the F1 plants results in an F2 generation with a 1:2:1 ratio for both genotype and phenotype. CR = allele for red flower color; CW = allele for white flower color.
+
+What Is a Dominant Allele?
+
+Now that you have learned about incomplete dominance, let's reexamine the meaning of dominance and recessiveness. What is a dominant allele? Or, more importantly, what is it not?
+
+In complete dominance, the situation described by Mendel, the phenotypes of the heterozygote and dominant homozygote are indistinguishable. This represents one extreme of a spectrum in the dominance/recessiveness relationships of alleles. At the other extreme is codominance, in which the two alleles affect the phenotype in separate, distinguishable ways. One example is the existence of three different human blood groups called the M, N, and MN blood groups. These groupings are based on two specific molecules located on the surface of red blood cells. People of group M have one of these two types of molecules, and people of group N have the other type. Group MN is characterized by the presence of both molecules on red blood cells. What is the genetic basis of these phenotypes? A single gene locus, at which two allelic variations are possible, determines these blood groups. M individuals are homozygous for one allele; N individuals are homozygous for the other allele. A heterozygous condition results in the blood of the MN group.
+
+Note that the MN phenotype is not intermediate between the M and N phenotypes; both the M and N phenotypes are individually expressed by the presence of the two types of molecules on red blood cells. In contrast, incomplete dominance is characterized by an intermediate phenotype, as in the pink flowers of snapdragon hybrids. Thus, the range of relative effects of two alleles includes complete dominance, codominance, and different degrees of incomplete dominance. These variations are reflected in the phenotypes of heterozygotes.
+
+For any character, the dominance/recessiveness relationship we observe depends on the level at which we examine phenotype. For example, consider Tay-Sachs disease, an inherited disorder in humans. The brain cells of a baby with Tay-Sachs disease are unable to metabolize gangliosides, a type of lipid, because a crucial enzyme does not work properly. As the lipids accumulate in the brain, the brain cells gradually cease to function normally, leading to death. Only children who inherit two copies of the Tay-Sachs allele (homozygotes) have the disease. Thus, on the organismal level of normal versus Tay-Sachs phenotype, the Tay-Sachs allele qualifies as a recessive. At the biochemical level, however, we observe an intermediate phenotype characteristic of incomplete dominance: The enzyme deficiency that causes Tay-Sachs disease can be detected in heterozygotes, who have an activity level of the lipid-metabolizing enzyme that is intermediate between individuals homozygous for the normal allele and individuals with Tay-Sachs disease. Heterozygotes lack symptoms of the disease, apparently because half the normal amount of functional enzyme is sufficient to prevent lipid accumulation in the brain. In fact, heterozygous individuals produce equal numbers of normal and dysfunctional enzyme molecules. Thus, at the molecular level, the normal allele and the Tay-Sachs allele are codominant. As you can see, dominance/recessiveness relationships are rarely as straightforward as Mendel reported.
+
+It is also important to understand that an allele is not termed dominant because it somehow subdues a recessive allele. Recall that alleles are simply variations in a gene's nucleotide sequence. When a dominant allele coexists with a recessive allele in a heterozygous genotype, they do not actually interact at all. It is in the pathway from genotype to phenotype that dominance and recessiveness come into play. We can use one of Mendel's characters--round versus wrinkled pea seed shape--as an example. The dominant allele codes for the synthesis of an enzyme that helps convert sugar to starch in the seed. The recessive allele codes for a defective form of this enzyme. Thus, in a recessive homozygote, sugar accumulates in the seed because it is not converted to starch. As the seed develops, the high sugar concentration causes the osmotic uptake of water, and the seed swells. When the mature seed dries, it develops wrinkles. In contrast, if a dominant allele is present, sugar is converted to starch, and the seeds do not wrinkle when they dry. One dominant allele results in enough of the enzyme to convert sugar to starch, and thus dominant homozygotes and heterozygotes have the same phenotype: round seeds. By exploring the mechanisms responsible for phenotype, we can demystify the concepts of dominance and recessiveness.
+
+There is another important lesson about the meaning of the term dominance. Because an allele for a particular character is dominant does not necessarily mean that it is more common in a population than the recessive allele for that character. For example, about one baby out of 400 in the United States is born with extra fingers or toes, a condition known as polydactyly. The allele for polydactyly is dominant to the allele for five digits per appendage. In other words, 399 out of every 400 people are recessive homozygotes for this character; the recessive allele is far more prevalent than the dominant allele in the population. In Chapter 23, you will learn how the relative frequencies of alleles in a population are affected by natural selection.
+
+Let's summarize three important points about dominance/recessiveness relationships:
+
+1. They range from complete dominance, through various degrees of incomplete dominance, to codominance.
+
+2. They reflect the mechanisms by which specific alleles are expressed in phenotype and do not involve the ability of one allele to subdue another at the level of the DNA.
+
+3. They do not determine or correlate with the relative abundance of alleles in a population.
+
+Multiple Alleles
+
+Most genes actually exist in populations in more than two allelic forms. The ABO blood groups in humans are one example of multiple alleles of a single gene. There are four possible phenotypes for this character: A person's blood group may be either A, B, AB, or O (FIGURE 14.10a). These letters refer to two carbohydrates--the A substance and the B substance--that may be found on the surface of red blood cells. (These groups are based on blood-cell molecules different from those used for the MN classification discussed earlier.) A person's blood cells may have one substance or the other (type A or B), both (type AB), or neither (type O).
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-10. Multiple alleles for the ABO blood groups.
+
+The four blood groups result from various combinations of three different alleles of one gene, symbolized as IA (for the A carbohydrate), IB (for B), and i (giving rise to neither A nor B). Because each person carries two alleles, six genotypes are possible (FIGURE 14.10b). Both the IA and the IB alleles are dominant to the i allele. Thus, IAIA and IAi individuals have type A blood, and IBIB and IBi individuals have type B. Recessive homozygotes, ii, have type O blood, because neither the A nor the B substance is produced. The IA and IB alleles are codominant; both are expressed in the phenotype of the IAIB heterozygote, who has type AB blood.
+
+Matching compatible blood groups is critical for blood transfusions, because a person produces specific proteins called antibodies against foreign blood factors (FIGURE 14.10c). If the donor's blood has a factor (A or B) that is foreign to the recipient, antibodies produced by the recipient bind to the foreign molecules and cause the donated blood cells to clump together (FIGURE 14.10d). This agglutination (clumping) can kill the recipient.
+
+Pleiotropy
+
+So far, we have treated Mendelian inheritance as though each gene affects one phenotypic character. Most genes, however, have multiple phenotypic effects. The ability of a gene to affect an organism in many ways is called pleiotropy (from the Greek pleion, more). For example, pleiotropic alleles responsible for certain hereditary diseases in humans, such as sickle-cell disease, cause multiple symptoms (see FIGURE 14.15). Considering the intricate molecular and cellular interactions responsible for an organism's development, it is not surprising that a gene can affect a number of an organism's characteristics.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-15. Pleiotropic effects of the sickle-cell allele in a homozygote. At the molecular level, the recessive allele responsible for sickle-cell disease has a single direct effect: It causes red blood cells to produce an abnormal version of the protein hemoglobin. An individual who inherits a sickle-cell allele from each parent has only the abnormal variety of hemoglobin. The abnormal hemoglobin deforms the red blood cells, starting a cascade of symptoms throughout the body.
+
+Epistasis
+
+Dominance, multiple alleles, and pleiotropy all involve the effects of alleles for single genes. We now turn to situations involving more than one gene. One such situation is epistasis (from the Greek for "stopping" or "causing to stand"), in which a gene at one locus alters the phenotypic expression of a gene at a second locus. An example will help clarify this concept. In mice and many other mammals, black coat color is dominant to brown. Let's designate B and b as the two alleles for this character. For a mouse to have brown fur, its genotype must be bb. But there is more to the story. A second gene, said to be epistatic to the first, determines whether or not pigment will be deposited in the hair. For this second gene, the dominant allele, symbolized by C (for color), results in the deposition of pigment. This allows either black or brown color, depending on the genotype at the first locus. But if the mouse is homozygous recessive for the second locus (cc), then the coat is white (albino), regardless of the genotype at the black/brown locus.
+
+What happens if we mate black mice that are heterozygous for both genes (BbCc)? Although the two genes affect the same phenotypic character (coat color), they follow the law of independent assortment (the two genes are inherited separately). Thus, our breeding experiment represents an F1 dihybrid cross, like those that produced a 9:3:3:1 ratio in Mendel's experiments. In the case of coat color, however, the ratio of phenotypes among F2 offspring is nine black to three brown to four white. FIGURE 14.11 uses a Punnett square to account for this ratio in terms of epistasis. Other types of epistatic interactions produce different ratios.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-11. An example of epistasis. This Punnett square illustrates the genotypes and phenotypes predicted for offspring of matings between two black mice of genotype BbCc, where the C/cgene is epistatic to the B/b gene. One gene determines whether the coat will be black (dominant, B) or brown (recessive, b). The second gene controls whether or not pigment of any color will be deposited in the hair, with the allele for the presence of color (C) dominant to the allele for the absence of color (c). The epistatic relationship of the color gene to the black/brown gene results in an F2 phenotypic ratio of 9 black to 3 brown to 4 white.
+
+Polygenic Inheritance
+
+Mendel studied characters that could be classified on an either-or basis, such as purple versus white flower color. For many characters, however, such as human skin color and height, an either-or classification is impossible, because the characters vary in the population along a continuum (in gradations). These are called quantitative characters. Quantitative variation usually indicates polygenic inheritance, an additive effect of two or more genes on a single phenotypic character (the converse of pleiotropy, where a single gene affects several phenotypic characters).
+
+There is evidence, for instance, that skin pigmentation in humans is controlled by at least three separately inherited genes (probably more, but we will simplify). Let's consider three genes, with a dark-skin allele for each gene (A, B, C) contributing one "unit" of darkness to the phenotype and being incompletely dominant to the other alleles (a, b, c). An AABBCC person would be very dark, while an aabbcc individual would be very light. An AaBbCc person would have skin of an intermediate shade. Because the alleles have a cumulative effect, the genotypes AaBbCc and AABbcc would make the same genetic contribution (three units) to skin darkness. FIGURE 14.12 shows how this polygenic inheritance could result in a bell-shaped curve, called a normal distribution, for skin darkness among the members of a hypothetical population. (You are probably familiar with the concept of a normal distribution for class curves of test scores.) Environmental factors, such as exposure to the sun, also affect the skin-color phenotype and help make the graph a smooth curve rather than a stairlike histogram.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-12. A simplified model for polygenic inheritance of skin color. According to this model, three separately inherited genes affect the darkness of skin. For each gene, an allele for dark skin (A, B, C) is incompletely dominant to an allele for light skin (a, b, c), Thus, the heterozygous individuals (AaBbCc), represented by the two rectangles at the top of this figure, each carry three "units" of darkness. (Black dots symbolize dark-skin alleles.) Imagine a large number of matings between such heterozygotes. Along the top of the graph are the variations that can occur among offspring. The y axis represents the fractions of these variations among offspring of the matings. The resulting histogram is smoothed into a bell-shaped curve by environmental factors that affect skin color.
+
+Nature and Nurture: The Environmental Impact on Phenotype
+
+Phenotype depends on environment as well as on genes. A single tree, locked into its inherited genotype, has leaves that vary in size, shape, and greenness, depending on exposure to wind and sun. For humans, nutrition influences height, exercise alters build, sun-tanning darkens the skin, and experience improves performance on intelligence tests. Even identical twins, who are genetic equals, accumulate phenotypic differences as a result of their unique experiences.
+
+Whether it is genes or the environment--nature or nurture--that most influences human characteristics is a very old and hotly contested debate that we will not attempt to settle here. We can say, however, that the product of a genotype is generally not a rigidly defined phenotype, but a range of phenotypic possibilities over which there may be variation due to environmental influence. This phenotypic range is called the norm of reaction for a genotype (FIGURE 14.13). There are cases where the norm of reaction has no breadth whatsoever; that is, a given genotype mandates a very specific phenotype. An example is the gene locus that determines a person's ABO blood group. In contrast, a person's blood count of red and white cells varies, depending on such factors as the altitude of one's home, the person's customary level of physical activity, and the presence of infectious agents.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-13. The effect of environment on phenotype. The out-come of a genotype lies within its norm of reaction, a phenotypic range that depends on the environment in which the genotype is expressed. For example, hydrangea flowers of the same genetic variety range in color from blue-violet to pink, depending on the acidity of the soil.
+
+Generally, norms of reaction are broadest for polygenic characters. Environment contributes to the quantitative nature of these characters, as we have seen in the continuous variation of skin color. Geneticists refer to such characters as multifactorial, meaning that many factors, both genetic and environmental, collectively influence phenotype.
+
+Integrating a Mendelian View of Heredity and Variation
+
+Over the past several pages, we have broadened our view of Mendelian inheritance by exploring incomplete dominance and other variations in dominance/recessiveness relationships, as well as multiple alleles, pleiotropy, polygenic inheritance, and the phenotypic impact of the environment. How can we integrate these refinements into a comprehensive theory of Mendelian genetics? The key is to make the transition from the reductionist emphasis on single genes and phenotypic characters to the idea of the organism as a whole, one of the themes of this book. In fact, the term phenotype does double duty. We have been using the word in the context of specific characters, such as flower color and blood group. But phenotype is also used to describe the organism in its entirety-- aspects of its physical appearance, internal anatomy, physiology, and behavior. Similarly, the term genotype can also refer to an organism's entire genetic makeup, not just its alleles for a single genetic locus. In most cases, a gene's impact on phenotype is affected by other genes and by the environment. In this integrated view of heredity and variation, an organism's phenotype reflects its overall genotype and unique environmental history.
+
+Considering all that can occur in the pathway from genotype to phenotype, it is indeed impressive that Mendel could simplify the complexities to reveal the fundamental principles governing the transmission of individual genes from parents to offspring. By extending the principles of segregation and independent assortment to help explain such hereditary patterns as epistasis and quantitative characters, we begin to see how broadly Mendelism applies. From Mendel's abbey garden came a theory of particulate inheritance that anchors modern genetics. In the last section of this chapter, we will apply Mendelian genetics to human inheritance, especially the transmission of hereditary diseases.
+
+
+
+

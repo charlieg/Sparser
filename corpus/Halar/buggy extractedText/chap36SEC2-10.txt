@@ -1,0 +1,56 @@
+
+ The ascent of xylem sap depends mainly on transpiration and the physical properties of water
+
+Xylem sap rises against gravity, without the help of any mechanical pump, to reach heights of more than 100 m in the tallest trees. Is the sap pushed upward from the roots, or is it pulled upward from the leaves? Let's evaluate the relative contributions of these two possible mechanisms.
+
+Pushing Xylem Sap: Root Pressure
+
+At night, when transpiration is very low or zero, the root cells are still expending energy to pump mineral ions into the xylem. The endodermis surrounding the stele of the root helps prevent the leakage of these ions back out of the stele. The accumulation of minerals in the stele lowers water potential there. Water flows in from the root cortex, generating a positive pressure that forces fluid up the xylem. This upward push of xylem sap is called root pressure.
+
+Root pressure causes guttation, the exudation of water droplets that can be seen in the morning on tips of grass blades or the leaf margins of some small, herbaceous (nonwoody) dicots. During the night, when the rate of transpiration is low, the roots of some plants keep accumulating minerals, and root pressure pushes xylem sap into the shoot system. More water enters leaves than is transpired, and the excess is forced out as guttation fluid (FIGURE 36.9).
+
+
+
+Click image to enlarge
+
+
+
+Fig 36-9. Guttation. Root pressure is forcing excess water from this strawberry leaf.
+
+In most plants, root pressure is not the major mechanism driving the ascent of xylem sap. At most, root pressure can force water upward only a few meters, and many plants generate no root pressure at all. Even in plants that display guttation, root pressure cannot keep pace with transpiration after sunrise. For the most part, xylem sap is not pushed from below by root pressure but pulled upward by the leaves themselves.
+
+Pulling Xylem Sap: The Transpiration-Cohesion-Tension Mechanism
+
+If we want to move solid material upward, we can either push it from below or pull it from above. It is less obvious that something as seemingly fluid as water could be pulled up a pipe. Nevertheless, that is what happens in the xylem vessels of plants. As we investigate this mechanism of transport, we will see that transpiration provides the pull, and the cohesion of water due to hydrogen bonding transmits the upward pull along the entire length of the xylem to the roots.
+
+Transpirational Pull.Stomata, the microscopic pores on the surface of a leaf, lead to a maze of internal air spaces that expose the mesophyll cells to the carbon dioxide they need for photosynthesis. The air in these spaces is saturated with water vapor because it is in contact with the moist walls of the cells. On most days, the air outside the leaf is drier; that is, it has a lower water concentration than the air inside the leaf. Therefore, gaseous water, diffusing down its concentration gradient, exits the leaf via the stomata. It is this loss of water vapor from the leaf that we call transpiration.
+
+How is transpiration translated into a pulling force for the movement of water in a plant? The mechanism depends on the generation of a negative pressure (tension) in the leaf due to the unique physical properties of water. Evaporation from the thin film of water that coats the mesophyll cells replaces the water vapor that is lost from the leaf's air spaces by transpiration. As water evaporates, the remaining film of liquid water retreats into the pores of the cell walls, attracted by adhesion to the hydrophilic walls (FIGURE 36.10). At the same time, cohesive forces in the water resist an increase in the surface area of the film (a surface-tension effect; see Chapter 3). The combination of the two forces acting on the water -- adhesion to the wall and surface tension -- causes the surface of the water film to form a meniscus, or concave shape. In a sense, the water is being "pulled on" by the adhesive and cohesive forces. Thus, the water film at the surface of leaf cells has a negative pressure, a pressure less than atmospheric pressure. And the more concave the meniscus, the more negative the pressure of the water film. This negative pressure, or tension, is the pulling force that draws water out of the leaf xylem, through the mesophyll, and toward the cells and surface film bordering the air spaces near stomata.
+
+
+
+Click image to enlarge
+
+
+
+Fig 36-10. The generation of transpirational pull in a leaf. Water vapor diffuses from the moist air spaces of the leaf to the drier air outside via stomata. Evaporation from the water film coating the mesophyll cells maintains the high humidity of the air spaces. This loss of water causes the water film to form menisci that become more and more concave as the rate of transpiration increases. A meniscus has a tension that is inversely proportional to the radius of the curved water surface. Thus, as the water film recedes and its menisci become more concave, the tension of the water film increases. Tension is a negative pressure--a force that pulls water from locations where hydrostatic pressure is greater. The tension of water lining the air spaces of the leaf is the physical basis of transpirational pull, which draws water out of xylem.
+
+This mechanism of water flow fits with what you learned earlier about water potential. In the equation for water potential, a tension (negative pressure) lowers the potential. And since water moves from where its potential is higher to where it is lower, mesophyll cells will lose water to the surface film lining air spaces, which in turn loses water by transpiration. The water lost via the stomata is replaced by water that is pulled out of the leaf xylem. The negative water potential of leaves provides the "pull" in transpirational pull.
+
+Cohesion and Adhesion in the Ascent of Xylem Sap.The transpirational pull on xylem sap is transmitted all the way from the leaves to the root tips and even into the soil solution (FIGURE 36.11). The cohesion of water due to hydrogen bonding makes it possible to pull a column of sap from above without the water separating. Water molecules exiting the xylem in the leaf tug on adjacent water molecules, and this pull is relayed, molecule by molecule, down the entire column of water in the xylem. Also helping to fight gravity is the strong adhesion of water molecules (again by hydrogen bonds) to the hydrophilic walls of the xylem cells. The very small diameter of tracheids and vessel elements exposes a large proportion of the water to the hydrophilic walls, thus enhancing adhesion in overcoming the downward force of gravity.
+
+
+
+Click image to enlarge
+
+
+
+Fig 36-11. Ascent of water in a tree. Hydrogen bonding forms an unbroken chain of water molecules extending from leaves all the way to the soil. The force that drives the ascent of xylem sap is a gradient of water potential (y). For the bulk flow over long distance, the y gradient is due mainly to a gradient of the pressure potential (yP). Transpiration results in the yP at the leaf end of xylem being lower than the yP at the root end.
+
+The upward pull on the cohesive sap creates tension within the xylem. Pressure will cause an elastic pipe to swell, but tension will pull the walls of the pipe inward. You can actually measure a decrease in the diameter of a tree trunk on a warm day, when transpirational pull puts the xylem under tension. The rings of secondary walls prevent xylem vessels from collapsing, much as wire rings maintain the shape of a vacuum hose. Transpirational pull puts the xylem under tension all the way down to the root tips, even in the tallest trees. This tension lowers water potential in the root xylem to such an extent that water flows passively from the soil, across the root cortex, and into the stele.
+
+Transpirational pull can extend down to the roots only through an unbroken chain of water molecules. Cavitation, the formation of a water vapor pocket in a xylem vessel, such as when xylem sap freezes in winter, breaks the chain. Small plants can use root pressure to refill xylem vessels in spring, but in trees, root pressure cannot push water to the top, so a vessel with a water vapor pocket can never function as a water pipe again. However, the transpiration stream can detour around the water vapor pocket through pits between adjacent xylem vessels, and secondary growth adds a layer of new xylem vessels each year. In some angiosperm trees, including oaks and elms, the youngest, outermost growth ring of xylem transports most of the water. The older xylem functions to support the tree (see Chapter 35).
+
+
+
+

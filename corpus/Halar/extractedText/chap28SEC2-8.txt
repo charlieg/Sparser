@@ -1,0 +1,24 @@
+
+ The origin of eukaryotes catalyzed a second great wave of diversification
+
+An orchestra can play a greater variety of musical compositions than a violin soloist can. Put simply, increased complexity makes more variations possible. The origin of the eukaryotic cell catalyzed the evolution of much more structural diversity than was possible for the simpler prokaryotic cells. This built on the first great adaptive radiation, the metabolic diversification of the prokaryotes. A third wave of diversification followed the origin of multicellular bodies in several eukaryotic lineages (a topic we will consider near the end of this chapter).
+
+FIGURE 28.8 (p. 554) is a hypothetical phylogeny for some of the major groups of eukaryotes. The diversity ranges from a great variety of unicellular forms to such macroscopic, multicellular groups as brown algae (a seaweed group), plants, fungi, and animals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-8. A tentative phylogeny of eukaryotes. The eukaryotes that are labeled on the branches are grouped into larger clades that are named in the boxes at the top of the tree. The kingdoms Fungi, Animalia, and Plantae have survived from the five-kingdom system of classification, although their boundaries have changed somewhat. Most of the major groups that used to be included in the kingdom Protista are color-coded yellow. Most protistan systematists now assign kingdom status to each of these groups. In fact, the trend is to split some of the more diverse groups, such as Alveolata and Stramenopila, into multiple kingdoms. Thus, we will make no attempt to predict the outcome of future research by ranking the protistan clades into kingdoms and phyla. As we survey the diversity of protists, each group will be introduced with a miniature version of this diagram so that you can place the group into the overall phylogeny of eukaryotes. However, our diagram omits several protistan groups that are not discussed in this chapter. And the tree even omits some protists that are discussed, such as the forams, because their phylogeny is still uncertain.
+
+The clustering of eukaryotic forms into the clades of FIGURE 28.8 is based on comparisons of cell structure, life cycles, and molecules (nucleic acid and protein sequences). The molecular data include SSU-rRNA sequences and amino acid sequences for a few of the proteins of the cytoskeleton--proteins unique to eukaryotes. The protein comparisons have enabled systematists to resolve some classification issues that were not clear from SSU-rRNA data and cell structure.
+
+FIGURE 28.8 brings up the "kingdoms problem" again. If plants, fungi, and animals are designated as kingdoms in this phylogenetic classification of eukaryotes, then each of the other major clades of eukaryotic life probably deserves kingdom status as well. This taxonomic trend was mentioned earlier when we discussed the splitting of the old kingdom Protista into many kingdoms. However, as protistan systematics is still so unsettled, FIGURE 28.8 simply names major clades without committing to a ranking of groups into kingdoms and phyla; any attempt here to specify the number of kingdoms and their names would just make the tree obsolete before this book's ink had time to dry! In fact, some of the best-known protists, such as the single-celled amoebas, are not even included in this tentative phylogeny because it is still so uncertain where they fit into the overall eukaryotic tree.
+
+As tentative as our eukaryotic tree is, we'll use it to organize the survey of protistan diversity that follows.
+
+
+
+

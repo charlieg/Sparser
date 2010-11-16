@@ -1,0 +1,28 @@
+
+ Molecular clocks may keep track of evolutionary time
+
+The timing of evolutionary history in TABLE 25.1 is based mainly on the fossil record. In the past few decades, however, molecular biology has provided an independent method for placing the origin of taxonomic groups in time. Called molecular clocks, these new timing methods are based on the observation that at least some regions of genomes evolve at constant rates. If certain homologous DNA sequences or their protein products are compared for taxa that are known to have diverged from common ancestors during certain periods in the past, the number of nucleotide and amino acid substitutions is proportional to the time that has elapsed since the lineages branched. For example, the homologous proteins of bats and dolphins are much more alike than are those of sharks and tuna. This is consistent with the fossil evidence that sharks and tuna have been on separate evolutionary paths much longer than bats and dolphins. In this case, molecular divergence has kept better track of the time than have changes in morphology.
+
+Using Molecular Clocks to Measure Absolute Time
+
+It's one thing to use molecular clocks to help assess the relative chronology of branching in phylogeny--that sharks and tuna diverged earlier than bats and dolphins did, for example. But how accurate are molecular clocks for keeping absolute time? No genes mark time with precise tick-tock accuracy in their rates of base sequence changes. In fact, some regions of genomes evolve in fits and starts that are not at all clocklike. And even those genes that make good molecular clocks are accurate only in the statistical sense of a fairly smooth average rate of change; over time, there may still be chance deviations above and below that average rate.
+
+For a gene having a reliable average rate of evolution, the molecular clock can be calibrated in actual time. This is done by graphing the number of amino acid or nucleotide differences against the times for a series of evolutionary branch points known from the fossil record. The graph line representing the evolution rate of the molecular clock can then be used to estimate how long ago certain evolutionary episodes that cannot be discerned from the fossil record occurred--the origin of a species or some higher taxa, for example.
+
+Some biologists remain skeptical about the accuracy of molecular clocks. The regularity of some genes as molecular clocks implies that much of the change in DNA sequences is due to genetic drift and that the changes are mostly neutral--neither adaptive nor detrimental. Molecular evolution due to natural selection favoring certain DNA changes over others would probably be too irregular to mark time accurately. Thus, the skepticism of some scientists about molecular clocks partly reflects a more general debate about the extent to which neutral genetic variation can account for DNA diversity. Biologists who doubt some of the evolutionary conclusions based on molecular clocks are also critical of extrapolation to time spans beyond what has been calibrated to the fossil record. For example, molecular clocks that have been calibrated to fossil history extending back a few hundred million years have on occasion been used to attach time to evolutionary divergence that occurred a billion or more years ago. If molecular clocks are used judiciously, however, they will continue to help evolutionary biologists reconstruct the past.
+
+Using a Molecular Clock to Date the Origin of HIV
+
+In the year 2000, a research team at Los Alamos National Laboratory in New Mexico used a molecular clock to date the origin of HIV infections in humans. The pathogen HIV is the virus that causes AIDS. The virus descended from related viruses that infect chimpanzees and another primate called the sooty mangabey (the viruses do not cause any AIDS-like diseases in these nonhuman hosts). When did the virus jump from its simian hosts to first infect humans? The question does not have a simple answer because the virus has spread to humans more than once. These multiple origins of HIV are reflected in the various major strains (genetic types) of the virus that cause AIDS in humans. The most widespread strain in the global AIDS epidemic is HIV-1 M. Because HIV evolves very rapidly, samples of the virus differ even when taken from patients who were infected with HIV-1 M just a few years apart. To pinpoint the time of the earliest HIV-1 M infection, the Los Alamos researchers calibrated a molecular clock by comparing DNA sequences in a specific HIV gene obtained from patients sampled at different times in the history of the epidemic. The data enabled the scientists to project backward to the 1930s as the probable time of the first HIV-1 M invasion of humans (FIGURE 25.17, p. 504).
+
+
+
+Click image to enlarge
+
+
+
+Fig 25-17. Dating the origin of HIV-1 M with a molecular clock. The numerous dots in the upper right-hand corner of this graph are based on DNA sequences for a specific HIV gene in blood samples collected from patients at different known times. The scale on the y axis is a measure of the number of base changes in the gene serving as the molecular clock. Note that during the span of time that the HIV samples were collected from the patients in this data set, between the early 1980s and the late 1990s, the gene evolved at a relatively consistent rate. If we project that rate backward in time, we intersect the time axis (x axis) of the graph during the 1930s. The team that published this research concluded that the HIV-1 M strain first infected humans in the 1930s.
+
+
+
+

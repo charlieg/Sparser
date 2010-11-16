@@ -1,0 +1,10 @@
+
+ Growth, morphogenesis, and differentiation produce the plant body
+
+Consider a small annual weed. It may consist of billions of cells--some large, some small, some highly specialized and others not, but all derived from a single fertilized egg. The increase in mass, or growth, that occurs during the life of the plant results from both cell division and cell expansion, but what controls these processes? Why do leaves stop growing upon reaching a certain size, whereas apical meristems divide perpetually? Also, note that the millions of cells in our hypothetical weed are not an undifferentiated clump of cells. They are organized into recognizable tissues and organs. Leaves arise from nodes; roots (unless adventitious) do not. Epidermis forms on the exterior of the leaf, and vascular tissue in the interior--never vice versa. This development of body form and organization is called morphogenesis. Each cell in the plant body contains the same set of genes, exact copies of the genome present in the fertilized egg. But how can this same set of genetic instructions produce such a diversity of cell types--guard cells, mesophyll, sieve-tube members, root hairs, and so on? This generation of cellular diversity is called differentiation (see p. 403).
+
+Next, let's take a closer look at the molecular mechanisms that underlie growth, morphogenesis, and cellular differentiation in plants.
+
+
+
+

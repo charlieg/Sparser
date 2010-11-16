@@ -1,0 +1,52 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/model/core/places/geo
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2008-08-15T19:19:28.135530Z
+124
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c8849605-d826-0410-9f5d-9d9903a7241f
+
+rules2.lisp
+file
+
+
+
+
+2008-06-17T21:30:34.000000Z
+22a787774d57ac1ed9102b5ae12d8c9a
+2008-08-15T19:19:28.135530Z
+124
+dmcdonal
+
+loader.lisp
+file
+
+
+
+
+2007-01-04T03:28:25.000000Z
+64225e22e0cedbe094505cb221fae778
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+

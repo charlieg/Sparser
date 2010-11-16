@@ -1,0 +1,22 @@
+
+ Contrasting views of communities are rooted in the individualistic and interactive hypotheses
+
+How can we account for the species found together as members of a community? Two different views on this question emerged among ecologists in the 1920s and 1930s, based primarily on observations of plant distributions. We will briefly describe these historical arguments because they are the forerunners of the closely related rivet and redundancy models, two community models still debated today.
+
+An individualistic hypothesis of community structure was first enunciated by H. A. Gleason, of the University of Chicago, in the early 1900s. It depicted the plant community as a chance assemblage of species found in the same area simply because they happen to have similar abiotic requirements--for example, for temperature, rainfall, and soil type. An alternative view, the interactive hypothesis, was advocated by F. E. Clements, also in the early 1900s. Clements saw the community as an assemblage of closely linked species, locked into association by mandatory biotic interactions that cause the community to function as an integrated unit--as a superorganism. Evidence for the interactive view was based on the observation that certain species of plants are consistently found together as a group. For example, deciduous forests in the northeastern United States usually include certain species of oak, maple, birch, and beech, along with a specific assemblage of shrubs and vines. These two very different ways of thinking about community structure--individualistic versus interactive--suggest different priorities in studying biological communities. The individualistic hypothesis emphasizes studying single species, while the interactive hypothesis emphasizes entire assemblages of species as the essential units for understanding the interrelationships and distributions of organisms.
+
+These two hypotheses of plant community organization make contrasting predictions about how plant species should be distributed along an environmental gradient, such as a gradual change in moisture or temperature over some distance. The individualistic hypothesis predicts that communities should generally lack discrete geographic boundaries because each species has an independent distribution along the environmental gradient. In other words, each species will be distributed according to its tolerance ranges for abiotic factors that vary along a gradient, and communities should change continuously along the gradient, with the addition or loss of particular species (FIGURE 53.1a). In contrast, the interactive hypothesis predicts that species should be clustered into discrete communities with noticeable boundaries, because the presence or absence of a particular species is largely governed by the presence or absence of other species with which it interacts in its group (FIGURE 53.1b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-1. Testing the individualistic and interactive hypotheses of communities. Ecologist Robert Whittaker tested these two hypotheses by graphing the abundance of different plant species (y axis) along environmental gradients of abiotic factors such as temperature or moisture (x axis). Each colored curve represents the abundance of one species.
+
+In most actual cases, especially where there are broad regions characterized by gradients of environmental variation, the composition of plant communities does seem to change continuously, with each species more or less independently distributed (FIGURE 53.1c). Such distributions generally support the view of plant communities as relatively loose associations without discrete boundaries. However, where some key factor in the physical environment changes abruptly, adjacent communities are delineated by correspondingly sharp boundaries. The most striking examples of sharp boundaries result from changes in soil type. In general, sharp boundaries between plant communities are rare in nature. However, humans have altered the landscape through agriculture and forestry to produce many artificial sharp boundaries, and in Chapter 55, we will explore the consequences of this habitat alteration.
+
+
+
+

@@ -1,0 +1,20 @@
+
+ The genetic code must have evolved very early in the history of life
+
+The genetic code is nearly universal, shared by organisms from the simplest bacteria to the most complex plants and animals. The RNA codon CCG, for instance, is translated as the amino acid proline in all organisms whose genetic code has been examined. In laboratory experiments, genes can be transcribed and translated after they are transplanted from one species to another (FIGURE 17.5). One important application is that bacteria can be programmed by the insertion of human genes to synthesize certain human proteins that have important medical uses. Such applications have produced many exciting developments in biotechnology, which you will learn about in Chapter 20.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-5. A tobacco plant expressing a firefly gene. Because diverse forms of life share a common genetic code, it is possible to program one species to produce proteins characteristic of another species by transplanting DNA. In this experiment, researchers were able to incorporate a gene from a firefly into the DNA of a tobacco plant. The gene codes for the firefly enzyme that catalyzes the chemical reaction that releases energy in the form of light.
+
+Exceptions to the universality of the genetic code are translation systems where a few codons differ from the standard ones. The main examples are found in certain single-celled eukaryotes, such as Paramecium, an organism you may know from the lab. Other examples are found in certain mitochondria and chloroplasts, which transcribe and translate the genes carried by their small amount of DNA. However, the evolutionary significance of the code's near universality is clear. A language shared by all living things must have been operating very early in the history of life--early enough to be present in the common ancestors of all modern organisms. A shared genetic vocabulary is a reminder of the kinship that bonds all life on Earth.
+
+Now that we have considered the linguistic logic and evolutionary significance of the genetic code, we are ready to reexamine transcription, translation, and related topics in more detail.
+
+
+
+

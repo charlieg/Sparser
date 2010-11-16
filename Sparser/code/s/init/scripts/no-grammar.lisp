@@ -1,0 +1,75 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(CL-USER COMMON-LISP) -*-
+;;; copyright (c) 1991-1996  David D. McDonald  -- all rights reserved
+;;; extensions copyright (c) 2010 BBNT Solutions LLC. All Rights Reserved
+;;; $Id: no-grammar.lisp 354 2010-03-15 13:47:53Z dmcdonal $
+;;;
+;;;      File:   "no grammar"
+;;;    Module:   "init;scripts:"
+;;;   version:   February 2010
+
+;; This file sets up the parameter settings to load an otherwise
+;; normal parsing engine but with no grammar beyond that which the
+;; parser requires for its own operation.
+;;
+;; Note the hard pathname in the call that loads "everything".
+
+;; Initiated 11/92. 6/19/96 updated the package references.
+;; 2/14/10 Unpdated pathname for use with truename
+
+(in-package :cl-user)
+
+;;;------------------------
+;;; Locate the base system
+;;;------------------------
+
+(unless (boundp 'location-of-sparser-directory)
+  (defparameter location-of-sparser-directory
+    (cond
+      ((member :allegro *features*)
+       (namestring
+	(merge-pathnames
+	 (make-pathname :directory 
+			'(:relative :
+			  :up ;; scripts
+			  :up ;; init
+			  :up ;; s
+			  :up ;; code
+			  ))
+	 (make-pathname :directory (pathname-directory *load-truename*)))))
+      (t
+       (break "Not running under Allegro Common Lisp. ~
+              ~%Can't construct relative pathname to location of Sparser~
+              ~%You'll have to set the value of ~
+              ~%        cl-user::location-of-sparser-directory~
+              ~%by hand in a wrapper to this file.")))))
+
+
+;;;--------------------
+;;; define the package
+;;;--------------------
+
+(or (find-package :sparser)
+    (make-package :sparser
+                  :use #+:apple '(ccl common-lisp)
+                       #+:unix  '(common-lisp)
+                       ))
+
+
+;;;----------------------
+;;; setup the parameters
+;;;----------------------
+
+(defparameter sparser::*just-bracketing* t)
+
+
+;;;-------------
+;;; do the load
+;;;-------------
+
+(load (concatenate 'string 
+        location-of-sparser-directory
+	#+apple "code:s:init:everything"
+	#+unix  "code/s/init/everything.lisp"
+	#+mswindows "code\\s\\init\\everything.lisp"
+	))
+

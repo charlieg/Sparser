@@ -1,0 +1,18 @@
+
+ Vacuolated plant cells have three major compartments
+
+Outside the protoplast of a plant cell is a thick cell wall that helps maintain the cell's shape (see FIGURES 7.8 and 35.10). The cell wall itself, however, does not play a direct role in regulating the traffic of molecules into and out of the protoplast; that is the role of the selectively permeable plasma membrane. The plasma membrane serves as a barrier between two major compartments: the cell wall and the cytosol (the part of the cytoplasm contained within the plasma membrane but outside the intracellular organelles). Most mature plant cells have a third major compartment, the vacuole, a large organelle that can occupy as much as 90%  of the protoplast's volume (FIGURE 36.6a). The membrane that bounds the vacuole, the tonoplast, regulates molecular traffic between the cytosol and the vacuolar contents, called cell sap. For example, the tonoplast has proton pumps that expel H+ from the cytosol into the vacuole. This augments the ability of the proton pumps of the plasma membrane to maintain a low cytosolic concentration of H+.
+
+
+
+Click image to enlarge
+
+
+
+Fig 36-6. Compartments of plant cells and tissues and routes for lateral transport. (a) The cell wall, cytosol, and vacuole are the three main compartments of most mature plant cells. Specific transport proteins embedded in the plasma membrane and tonoplast regulate traffic of molecules between the three compartments. (b) At the tissue level, there are two compartments, the symplast and the apoplast. This anatomy provides three routes for lateral transport in a plant tissue or organ. In this diagram, substances seem confined to one of the three routes; in fact, substances may transfer from one route to another during their commute across an organ.
+
+In most plant tissues, two of the three cellular compartments are continuous from cell to cell. Plasmodesmata connect the cytosolic compartments of neighboring cells, forming a continuous pathway for transport of certain molecules between cells. This cytoplasmic continuum is called the symplast (see FIGURE 36.6). The walls of adjacent plant cells are also in contact, forming a second compartment at the tissue level. This compartment, the continuum of cell walls, is called the apoplast. The third cellular compartment, the vacuole, is not shared with neighboring cells.
+
+
+
+

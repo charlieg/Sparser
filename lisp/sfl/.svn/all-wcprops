@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/poirot/!svn/ver/16139/trunk/extlib/sfl
+END
+completion.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/completion.lisp
+END
+load.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/poirot/!svn/ver/12297/trunk/extlib/sfl/load.lisp
+END
+comparison-functions.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/comparison-functions.lisp
+END
+simple-logic.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/simple-logic.lisp
+END
+sfl.asd
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/poirot/!svn/ver/12153/trunk/extlib/sfl/sfl.asd
+END
+macros.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/macros.lisp
+END
+extended-vr.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/extended-vr.lisp
+END
+basic-mixins.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/basic-mixins.lisp
+END
+instances.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/instances.lisp
+END
+connect.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/connect.lisp
+END
+hacks.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/poirot/!svn/ver/12297/trunk/extlib/sfl/hacks.lisp
+END
+inheritance.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/inheritance.lisp
+END
+concept-role.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poirot/!svn/ver/12297/trunk/extlib/sfl/concept-role.lisp
+END
+define.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/define.lisp
+END
+kill.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/kill.lisp
+END
+save.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/poirot/!svn/ver/12431/trunk/extlib/sfl/save.lisp
+END
+sfl-defclasses.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/sfl-defclasses.lisp
+END
+sysdcl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/sysdcl.lisp
+END
+defsystem.asd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/defsystem.asd
+END
+slot-handling.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poirot/!svn/ver/16139/trunk/extlib/sfl/slot-handling.lisp
+END
+vsfl-master.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/vsfl-master.lisp
+END
+slots.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/slots.lisp
+END
+make-classes.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/make-classes.lisp
+END
+functions.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/functions.lisp
+END
+variables.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poirot/!svn/ver/11922/trunk/extlib/sfl/variables.lisp
+END

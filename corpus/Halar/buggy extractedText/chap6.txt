@@ -1,0 +1,42 @@
+
+Chapter 6: AN INTRODUCTION TO METABOLISM
+
+METABOLISM, ENERGY, AND LIFE
+
+   The chemistry of life is organized into metabolic pathways
+
+   Organisms transform energy
+
+   The energy transformations of life are subject to two laws of thermodynamics
+
+   Organisms live at the expense of free energy
+
+   ATP powers cellular work by coupling exergonic reactions to endergonic reactions
+
+
+
+ENZYMES
+
+   Enzymes speed up metabolic reactions by lowering energy barriers
+
+   Enzymes are substrate specific
+
+   The active site is an enzyme's catalytic center
+
+   A cell's physical and chemical environment affects enzyme activity
+
+
+
+THE CONTROL OF METABOLISM
+
+   Metabolic control often depends on allosteric regulation
+
+   The localization of enzymes within a cell helps order metabolism
+
+   The theme of emergent properties is manifest in the chemistry of life: a review
+
+The living cell is a chemical industry in miniature, where thousands of reactions occur within a microscopic space. Sugars are converted to amino acids, and vice versa. Small molecules are assembled into polymers, which may be hydrolyzed later as the needs of the cell change. In plants and animals, many cells export chemical products that are used in other parts of the organism. The process known as cellular respiration drives the cellular economy by extracting the energy stored in sugars and other fuels. Cells apply this energy to perform various types of work, such as the synthesis of the macromolecules featured in Chapter 5. In a more exotic example, cells of the fungus in the photo above convert the energy stored in certain organic molecules to light, a process called bioluminescence. (The glow may attract insects that benefit the fungus by dispersing its spores.) Bioluminescence and all other metabolic activities carried out by a cell are precisely coordinated and controlled. In its complexity, its efficiency, its integration, and its responsiveness to subtle changes, the cell is peerless as a chemical institution. The concepts of metabolism you learn in this chapter will help you further understand the connections between chemistry and life.
+
+
+
+

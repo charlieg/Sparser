@@ -1,0 +1,48 @@
+
+ Social interactions depend on diverse modes of communication
+
+Defining Animal Signals and Communication
+
+Much of what we have discussed under the topics of competitive social interactions and mating behaviors involves animals transmitting information by special behaviors called displays, or signals. In behavioral ecology, a signal is a behavior that causes a change in behavior in another animal. The transmission of, reception of, and response to signals make up what we call communication. Note that physically forcing another individual to behave in a certain way does not qualify as signaling. For example, if you were to push a sprinter out of the starting blocks at a track meet, the sprinter's behavior would change, but your action would not count as a signal. A signal would be shouting "Ready, set, go!" It is characteristic of signals that they are very efficient in energy costs. It takes less energy to shout "Go!" than it does to push someone down the track.
+
+Singing by male birds is an example of signaling. It transmits the information, "This is my territory. Keep out!" and has the effect that other males are less likely to encroach on the male's territory. This is almost certainly an important message of singing; if we play the tape-recorded songs of another male in a male bird's territory, he becomes highly agitated, approaching and sometimes even attacking the speaker. Another bird has not only ignored his warning but has claimed the territory for himself. This simple experiment is so infallible that some bird-watchers routinely use it to find and see secretive birds that would otherwise stay hidden. This "prerecorded message" procedure makes another important point. We cannot get into an animal's brain to determine whether it has received a message sent by another individual. How, then, do we know when communication has occurred? We usually say that communication has occurred when an act by a sender produces a detectable change in the behavior of another individual, the receiver. Bird song is communication because it produces a response.
+
+Animals communicate using visual, auditory, chemical (olfactory), tactile, and electrical signals. Which mode is used to transmit information is closely related to an animal's basic lifestyle. Most terrestrial mammals are nocturnal, which makes visual displays relatively ineffective. But olfactory and auditory signals work as well in the dark as in the light, and most mammalian species emphasize these signals. Birds, by contrast, are mostly diurnal and use mostly visual and auditory signals. They almost never use olfactory signals, probably because they can fly faster than chemical signals can travel. (It is hard to imagine a system in which it would be adaptive for a messenger to arrive before its message.) Unlike most mammals, humans are diurnal and in common with birds use mainly visual and auditory communication. Therefore, we can detect the songs and bright colors that birds use to communicate with each other. This may explain why bird-watching is so popular. If humans had the well-developed olfactory abilities of most mammals and could detect their rich world of chemical cues, mammal-sniffing might be as popular as bird-watching.
+
+Pheromones
+
+Animals that communicate by odors emit chemical signals called pheromones. These are especially common among mammals and insects and often relate to reproductive behavior. Female silkworm moths, for example, emit a pheromone that can attract males from several kilometers away. Once the moths are together, pheromones also trigger specific courtship behaviors. Another example is the familiar trailing behavior of ants, in which scouts release scents that guide other ants to the food (FIGURE 51.26).
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-26. Fire ants following a pheromone trail. When a worker fire ant of the species Solenopsis invicta finds food on a scouting venture, she deposits a scent trail on her trip back to the ant colony. Other workers can then follow this pheromone trail to the food source.
+
+One of the most complex communication systems--certainly among invertebrates--is that of social, or hive, bees. Pheromones produced by a hive's queen and her daughters, the workers, maintain the social order of honeybee colonies. Recent studies indicate that varied blends of two fatty acids, rather than single chemicals, underlie the social behavior and reproduction of honeybees. The context of a chemical signal can be as important as the chemical itself. When male honeybees (drones) are outside the hive (where they can mate with a queen), they are attracted to her pheromone; however, when drones are inside the hive, they are unaffected by the queen's pheromone.
+
+The Dance of the Honeybee
+
+For maximum foraging efficiency, worker bees must convey to one another the location of good food sources, which may change frequently as various flowers bloom or new patches are discovered. How do bees communicate? The study of honeybee communication has a long and rich tradition of experimental research that continues to reveal new elements of the bees' language. The problem was first studied in the 1940s by Karl von Frisch, who carefully watched individual European honeybees (Apis mellifera carnica) as they returned to special observation hives. A returning bee would quickly become the center of attention by other bees, called followers (FIGURE 51.27a, p. 1144). The returning bee would go through a repetitive behavior that von Frisch called a dance. If the food source was close to the hive (less than 50 m away), the returning bee moved in tight circles while waggling its abdomen from side to side (FIGURE 51.27b). This dance was usually accompanied by the bee's regurgitating some of the acquired nectar. This behavior, which von Frisch called the "round dance," had the effect of exciting the follower bees and motivating them to leave the hive and search for food that was nearby.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-27. Communication in bees: one hypothesis. (a) Worker bees cluster around one of their sisters, recently returned from a foraging trip. (b) The round dance indicates that food is near but may provide no information on directionality or specific distance. (c) The waggle dance is performed when food is distant. This dance pattern resembles a figure eight, with a straight run between two semicircular movements. According to von Frisch's hypothesis, the waggle dance indicates both distance and direction. Distance is indicated by the duration of each waggle run or dance and the number of abdominal waggles performed per waggle run. Direction is indicated by the angle (in relation to the vertical surface of the hive) of the straight run that forms part of the dance itself. 
+			  
+		 For instance, if the straight run is directly upward, this signals that food is in the same direction as the sun. 
+			  
+		 If the straight run is directly downward, the food is in the direction opposite the sun. 
+			  
+		 If the angle is 30&#176; to the right of vertical, the food is 30&#176; to the right of the horizontal direction of the sun. And so forth. Odor cues (pheromones) and sound may also convey information about the location and type of food.
+
+However, bees often forage at great distances from the hive, sometimes in excess of 5 km. In such cases, the round dance is insufficient, lacking both directionality and distance cues necessary for the followers to locate the food source efficiently. A worker returning from a longer distance does a "waggle dance" (FIGURE 51.27c): a half-circle swing in one direction, followed by a straight run and then a half-circle swing in the other direction. This dance seems to indicate both direction and distance. The angle of the straight run in relation to the vertical surface of the open hive is the same as the horizontal angle of the food in relation to the sun. For example, if the bee runs at a 30&#176; angle to the right of vertical, the other workers will fly 30&#176; to the right of the horizontal direction of the sun. Distance to the food is indicated by a variety of elements of the waggle dance. For example, a longer straight run during the dance, and hence an increasing number of abdominal waggles per run, indicates a greater distance to the food source. During waggle dances, the bee also regurgitates nectar; thus, when bees leave to forage, they already "know" the type of food to seek, its distance, and its direction. There is also evidence that the sounds and odors emanating from the dancing bee provide information about the food source.
+
+
+
+

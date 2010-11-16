@@ -1,0 +1,20 @@
+
+ Cloned genes are stored in DNA libraries
+
+Because the gene-cloning procedure in FIGURE 20.3 starts with a mixture of fragments from the entire genome of an organism, it is called a "shotgun" approach--no single gene is targeted for cloning. Thousands of different recombinant plasmids are actually produced in step 2 of FIGURE 20.3, and a clone of each ends up in a (white) colony in step 4. The complete set of thousands of recombinant plasmid clones, each carrying copies of a particular segment from the initial genome, is referred to as a genomic library (FIGURE 20.6a). A researcher can save such a library and use it as a source of other genes of interest or for genome mapping (as we'll discuss later).
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-6. Genomic libraries. A genomic library is a collection of many bacterial or phage clones, each containing copies of a particular DNA segment from a foreign genome. In a complete genomic library, the foreign DNA segments represented cover the entire genome of an organism. This diagram shows parts of two genomic libraries.
+
+In addition to plasmids, certain bacteriophages are also common cloning vectors for making genomic libraries. Fragments of foreign DNA can be spliced into a phage genome, as into a plasmid, by using a restriction enzyme and ligase. The recombinant phage DNA is then packaged into capsids in vitro and introduced into a bacterial cell through the normal infection process. Once inside the cell, the phage DNA replicates and produces new phage particles, each carrying the foreign DNA. A genomic library made using phage is stored as collections of phage clones (FIGURE 20.6b). Whatever the cloning vector, restriction enzymes do not respect gene boundaries in cutting up genomic DNA, so some genes in a genomic library may be divided up among two or more clones.
+
+Researchers can make a more limited kind of gene library by using complementary DNA (cDNA). When they first isolate mRNA from cells (step 3 in FIGURE 20.5), they actually obtain a mixture of all the mRNA molecules in the cell, transcribed from a number of different genes. Therefore, the cDNA that is made is a library containing a collection of genes. Such a cDNA library represents only part of a cell's genome--only the genes that were transcribed in the starting cells. This is an advantage if a researcher wants to study the genes responsible for specialized functions of a particular kind of cell, such as a brain or liver cell. Also, by making cDNA from cells of the same type at different times in the life of an organism, one can trace changes in patterns of gene expression.
+
+
+
+

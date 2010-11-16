@@ -1,0 +1,34 @@
+
+ The mammalian hearing organ is within the inner ear
+
+The mammalian ear can be divided into three regions. The outer ear consists of the external pinna and the auditory canal, which collect sound waves and channel them to the tympanic membrane (eardrum) separating the outer ear from the middle ear. Within the middle ear, vibrations are conducted through three ossicles (small bones)--the malleus (hammer), incus (anvil), and stapes (stirrup)--to the inner ear, passing through the oval window, a membrane beneath the stapes (FIGURE 49.17a and b, p. 1070). The middle ear also opens into the Eustachian tube, which connects with the pharynx and equalizes pressure between the middle ear and the atmosphere, enabling you to "pop" your ears when changing altitude, for example. The inner ear consists of a labyrinth of channels within a skull bone (the temporal bone). These channels are lined by a membrane and contain fluid that moves in response to sound or movement of the head.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-17. Structure and function of the human ear.
+
+The part of the inner ear involved in hearing is a coiled organ known as the cochlea (Latin, "snail"). The cochlea has two large chambers, an upper vestibular canal and a lower tympanic canal, separated by a smaller cochlear duct (FIGURE 49.17c). The vestibular and tympanic canals contain a fluid called perilymph, and the cochlear duct is filled with a liquid called endolymph. The floor of the cochlear duct, the basilar membrane, bears the organ of Corti, which contains the actual receptor cells of the ear, hair cells with hairs projecting into the cochlear duct (FIGURE 49.17d). Many of the hairs are attached to the tectorial membrane, which hangs over the organ of Corti like a shelf.
+
+How is the anatomy of the ear correlated with the function of hearing? The ear converts the energy of pressure waves traveling through air into nerve impulses that the brain perceives as sound. Vibrating objects, such as the reverberating strings of a guitar or the vocal cords of a speaking person, create percussion waves in the surrounding air. These waves cause the tympanic membrane to vibrate with the same frequency as the sound. The three bones of the middle ear transmit the mechanical movements to the oval window, a membrane on the surface of the cochlea. Vibrations of the oval window produce pressure waves in the fluid within the cochlea.
+
+The cochlea transduces the energy of the vibrating fluid into action potentials. The stapes vibrating against the oval window creates a traveling pressure wave in the fluid of the cochlea that passes into the vestibular canal (FIGURE 49.18a, p. 1071). This wave continues around the tip of the cochlea and through the tympanic canal, dissipating as it strikes the round window. The pressure waves in the vestibular canal push downward on the cochlear duct and basilar membrane. The basilar membrane vibrates up and down in response to the pressure waves, and its hair cells alternately brush against and are withdrawn from the tectorial membrane. Deflection of the hairs opens ion channels in the plasma membrane of the hair cells, and positive ions (K+, in this case) enter. The resulting depolarization increases neurotransmitter release from the hair cell and the frequency of action potentials in the sensory neuron with which the hair cell synapses. This neuron carries the sensations to the brain through the auditory nerve.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-18. How the cochlea distinguishes pitch. (a) Vibrations of the stapes against the oval window agitate the fluid within the cochlea (uncoiled here), causing pressure waves having a frequency equivalent to the sound waves that entered the ear. The waves (black arrows) pass through the vestibular canal to the apex of the conchlea then back toward the base of the cochlea via the tympanic canal. The energy causes the cochlear duct, with its basilar membrane and organ of Corti, to vibrate up and down. The bouncing of the basilar membrane stimulates the hair cells within the cochlear duct. (b) Fibers span the width of the basilar membrane. Like harp strings, these fibers vary in length, being shorter near the base of the membrane and longer near its apex. The length of the fibers "tunes" specific regions of the basilar membrane to vibrate at specific frequencies. (c) Different frequencies of pressure waves in the cochlea cause certain places along the basilar membrane to vibrate, stimulating particular hair cells and sensory neurons. The differential stimulation of hair cells is perceived in the brain as sound of a certain pitch.
+
+Sound is detected by increases in the frequency of impulses in the sensory neuron, but how is the quality of that sound determined? Two important sound variables are volume and pitch. Volume (loudness) is determined by the amplitude, or height, of the sound wave. The greater the amplitude of a sound, the more vigorous the vibrations of fluid in the cochlea, the greater the bending of the hair cells, and the more action potentials generated in the sensory neurons. Pitch is a function of a sound wave's frequency, or number of vibrations per second, expressed in hertz (Hz). Short, high-frequency waves produce high-pitched sound, while long, low-frequency waves generate low-pitched sound. Healthy young humans can hear sounds in the range of 20 to 20,000 Hz, dogs can hear sounds as high as 40,000 Hz, and bats can emit and hear clicking sounds of even higher frequency, using this ability to locate objects by sonar.
+
+Pitch can be distinguished by the cochlea because the basilar membrane is not uniform along its length (see FIGURE 49.18b and c). The proximal end near the oval window is relatively narrow and stiff, while the distal end near the tip is wider and more flexible. Each region of the basilar membrane is most affected by a particular vibration frequency. The sensory neurons associated with the region vibrating most vigorously at any instant send the most action potentials along the auditory nerve. But the actual perception of pitch depends on neural mapping of the brain. Sensory neurons from the auditory pathway project onto specific auditory areas of the cerebral cortex according to the region of the basilar membrane in which the signal originated. When a particular site of the cortex is stimulated, we perceive a sound of a particular pitch.
+
+
+
+

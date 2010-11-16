@@ -1,0 +1,46 @@
+
+ Metabolic control often dependson allosteric regulation
+
+In many cases, the molecules that naturally regulate enzyme activity in a cell behave something like reversible noncompetitive inhibitors (see FIGURE 6.17c): These regulatory molecules change an enzyme's shape and function by binding weakly to an allosteric site, a specific receptor site on some part of the enzyme molecule remote from the active site. The effect of this allosteric regulation may be either inhibition or stimulation of the enzyme's activity.
+
+Allosteric Regulation
+
+Most allosterically regulated enzymes are constructed from two or more polypeptide chains, or subunits (FIGURE 6.18). Each subunit has its own active site, and allosteric sites are often located where subunits are joined. The entire complex oscillates between two conformational states, one catalytically active and the other inactive. The binding of an activator to an allosteric site stabilizes the conformation that has a functional active site, whereas the binding of an allosteric inhibitor stabilizes the inactive form of the enzyme. The areas of contact between the subunits of an allosteric enzyme fit together in such a way that a conformational change in one subunit is transmitted to all others. Through this interaction of subunits, a single activator or inhibitor molecule that binds to one allosteric site will affect the active sites of all subunits.
+
+
+
+Click image to enlarge
+
+
+
+Fig 6-18. Allosteric regulation of enzyme activity.
+
+The activity of an allosteric enzyme changes in response to fluctuating concentrations of the regulators. In some cases, an inhibitor and an activator are similar enough in shape to compete for the same allosteric site. For example, some enzymes of catabolic pathways may have an allosteric site that fits both ATP and AMP (adenosine monophosphate), which the cell routinely derives from ADP. Such enzymes are inhibited by ATP and activated by AMP. This is logical because a major function of catabolism is to regenerate ATP. If ATP production lags behind its use, AMP accumulates and activates key enzymes that speed up catabolism. If the supply of ATP exceeds demand, then catabolism slows down as ATP molecules accumulate and compete for allosteric sites. In this way, allosteric enzymes control the rates of key reactions in metabolic pathways.
+
+Feedback Inhibition
+
+The inhibition of an ATP-generating catabolic pathway by the allosteric binding of ATP to an enzyme in the pathway is an example of feedback inhibition, one of the most common methods of metabolic control. Feedback inhibition is the switching off of a metabolic pathway by its end product, which acts as an inhibitor of an enzyme within the pathway. FIGURE 6.19 shows an example of this control mechanism operating on an anabolic pathway. Some cells use this pathway of five steps to synthesize the amino acid isoleucine from threonine, another amino acid. As isoleucine, the end product of the pathway, accumulates, it slows down its own synthesis by allosterically inhibiting the enzyme for the very first step of the pathway. Feedback inhibition thereby prevents the cell from wasting chemical resources to synthesize more isoleucine than is necessary.
+
+
+
+Click image to enlarge
+
+
+
+Fig 6-19. Feedback inhibition. Many metabolic pathways are switched off by an end product, which acts as an allosteric inhibitor of an enzyme earlier in the pathway. This example is the pathway for synthesizing the amino acid isoleucine. (Enzyme 1 is actually a tetramer of four identical subunits, like the hypothetical enzyme in FIGURE 6.18.)
+
+Cooperativity
+
+By a mechanism that resembles allosteric activation, substrate molecules may stimulate the catalytic powers of an enzyme (FIGURE 6.20). Recall that the binding of a substrate to an enzyme can induce a favorable change in the shape of the enzyme's active site (induced fit). If an enzyme has two or more subunits, such an interaction with one substrate molecule can trigger the same favorable conformational change in all other subunits of the enzyme. Called cooperativity, this mechanism amplifies the response of enzymes to substrates: One substrate molecule primes an enzyme to accept additional substrate molecules more readily.
+
+
+
+Click image to enlarge
+
+
+
+Fig 6-20. Cooperativity. In an enzyme molecule with multiple subunits, the binding of one substrate molecule to the active site of one subunit causes all the subunits to assume their active conformation.
+
+
+
+

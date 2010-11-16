@@ -1,0 +1,76 @@
+
+ Competitive social behaviors often represent contests for resources
+
+Because members of a population have a common niche, there is a strong potential for conflict, especially among members of species that normally maintain densities near what the environment can sustain. Sometimes social behavior seems to involve cooperation, as when a group carries out behavior more efficiently than is possible for a single individual (FIGURE51.18). Keep in mind, however, that even when behavior requires some cooperation and seems to be mutually beneficial to interacting individuals, as in mating behavior, each participant usually acts in a way that will maximize its benefits, even if this is at a cost to the other participant. In this section, we examine competitive social interactions, where this "selfish" aspect of behavior is most obvious. Subsequent sections focus on social behaviors involving cooperation.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-18. Cooperative prey capture. (a) African wild dogs. This pack of African wild dogs is killing a wildebeest much larger than themselves. (b) White pelicans. This line of white pelicans is moving toward a school of fish. This cooperative behavior makes it more difficult for fish to escape by swimming around the birds.
+
+Agonistic Behavior
+
+In agonistic behavior, a contest involving both threatening and submissive behavior determines which competitor gains access to some resource, such as food or a mate. Sometimes the encounter involves tests of strength. More commonly, the contestants engage in threat displays that make them look large or fierce, often with exaggerated posturing and vocalizations. Eventually, one individual stops threatening and presents a submissive or appeasement display, in effect surrendering. Much of this behavior includes ritual, the use of symbolic activity, with no serious harm done to either combatant (FIGURE 51.19). Dogs and wolves show aggression by baring their teeth; erecting their ears, tail, and fur; standing upright; and looking directly at their opponent--all of which make the animal appear large and threatening. The eventual loser, on the other hand, sleeks its fur, tucks its tail, and looks away.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-19. Ritual wrestling by rattlesnakes. The rattlesnakes attempt to pin each other to the ground, but they never use their deadly fangs in such combat.
+
+The degree to which combat is ritualized depends on the scarcity of the resource and the likelihood that the resource will be available again. For example, male ground squirrels often inflict severe injury upon, or even kill, each other when battling for access to sexually receptive females. In this case, the females for which the ground squirrels are competing are in estrus and receptive to male courtship for only a few hours each year; thus, a male's entire reproductive fitness may depend on his ability to compete against other males that one day.
+
+In animals that live in fairly permanent social groups, there are often conflicts in which there is no clear winner and loser; although one of the animals may win a particular face-off, that individual would still benefit from having friendly relations with the "loser." In this case, there is usually some kind of reconciliation behavior between the conflicting individuals following the conflict itself. For example, a chimpanzee that has threatened another member of its group may invite reconciliation by a hand gesture, leading to a bout of friendly grooming (FIGURE 51.20). Social primates seem to spend substantial time in reconciliation and pacification-type behavior.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-20. Reconciliation in chimpanzees. This photo shows two male chimpanzees 10 minutes after a conflict between them. The male at left had threatened the male at right, who had eventually run up a tree. Now the male at left initiates reconciliation by a hand gesture and by making eye contact. Soon after, the two males descended to the ground and groomed each other.
+
+Dominance Hierarchies
+
+Many animals live in social groups maintained by agonistic behavior. Chickens are an example. If several hens who are unfamiliar with one another are put together, they respond by skirmishing and pecking each other. Eventually, the group establishes a clear "pecking order"--a more or less linear dominance hierarchy. Within a group, the alpha (top-ranked) hen controls the behavior of all the others, often by mere threats rather than actual pecking. The beta (second-ranked) hen similarly subdues all others except the alpha, and so on down the line to the omega, or lowest-ranking, animal. The advantage to the top-ranked bird is obvious; it is assured access to resources, such as food. And for lower-ranked animals, the system ensures that they do not waste energy or risk harm in futile combat.
+
+Territoriality
+
+A territory is an area that an individual defends, usually excluding other members of its own species. Territories are typically used for feeding, mating, and rearing young. A territory is usually fixed in location, its size varying with the species, the territory's function, and the amount of resources available. Song sparrow pairs, for example, may have territories of about 3,000 m2, in which they carry out all activities during the several months of their breeding season. Gannets and most other seabirds, in contrast, mate and nest in territories of only a few square meters or less and feed away from their territories (FIGURE 51.21). Bull sea lions defend small territories used only for mating, whereas red squirrels have rather large territories apparently based on feeding patterns. In many species that defend their territories only during the breeding season, individuals may form social groups at other times. Chickadees, for instance, form monogamous breeding pairs that defend small territories in the summer. In the winter, they form larger flocks, enabling the birds to forage more efficiently and benefit from the increased protection from predators that results from membership in a large group.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-21. Territories. Gannets nest virtually only a peck apart and defend their territories by calling and pecking at each other. This is a population of Australian gannets in New Zealand.
+
+Note that there is a distinction between a territory and a home range, which is simply the area in which an animal roams about and which is often not defended. In some species, such as breeding song sparrows, territory and home range are the same; but for other species, such as gannets, a territory is considerably smaller than the home range. The distinction is not always clear. Gray squirrels, for example, typically have home ranges that overlap extensively, but one individual may defend part of the range from competitors.
+
+Territories are established and defended through agonistic behavior, and an individual that has gained a territory is often difficult to dislodge. Why do owners usually win? One explanation in behavioral ecology is that a territory is worth more to an owner than to an intruder because the owner is already familiar with it. Thus, because it has more to gain from a territory, an owner is more likely to escalate a battle than is an intruder. In addition, established territory holders are likely to be older and more experienced at engaging in agonistic interactions.
+
+Natural selection does not always favor territoriality, and not all species are territorial. However, for those animals that are, the territory can provide exclusive access to food supplies, breeding areas, and places to raise young. Moreover, familiarity with a specific area may help individuals avoid predators. In a territorial species, such benefits outweigh the energy costs of defending the territory and thereby increase fitness.
+
+Ownership of a territory is usually continually proclaimed; this is a primary function of most familiar bird songs, as well as the noisy bellowing of sea lions and the chatter of red squirrels. Other animals may use scent marks or frequent patrols to warn potential invaders (FIGURE 51.22). Gray wolves, which live in packs in huge territories (hundreds of square kilometers), use multiple strategies to advertise territorial boundaries, including scent marking and howling. Multiple signals help dispel any ambiguities as to the boundaries of a territory, thereby minimizing the risk that one group will accidentally stray into the territory of a rival pack. This is especially important for wolves because actual face-to-face meetings between groups are often violent.
+
+
+
+Click image to enlarge
+
+
+
+Fig 51-22. Staking out territory with chemical markers. (a) This male cheetah, a resident of Africa's Serengeti National Park, is spray-urinating on a tree. The odor will serve as a chemical "No Trespassing" sign to other males. (b) Another male cheetah snifts a marked rock. With their keen olfactory sense, cheetahs can distinguish their own marks from those left by others. These signals help prevent face-to-face meetings that could escalate into violence.
+
+Defense of territory is usually directed only at conspecifics; a white-crowned sparrow may live within a song sparrow's territory because a different species usually occupies a different niche, or role in the environment, and is less likely to be a direct competitor. Another adaptive reason for concentrating defense on conspecifics is that they are likely to mate with a territory holder's mate.
+
+Although dominance hierarchies and territoriality evolved as a result of their advantages to individuals, such systems have important consequences at the population level because they tend to stabilize density. If resources were allocated evenly among all members of a population, the "fair share" that each individual received might not be enough to sustain anyone, leading to occasional population crashes. With dominance and territoriality, at least some individuals receive an adequate amount of a resource. In fact, if a resource such as food becomes scarce, territories often expand somewhat. In addition, there are usually individuals low in the hierarchy or lacking territories that are ready to move up or step in if one of the successful individuals dies. The result may be relatively stable populations from year to year.
+
+
+
+

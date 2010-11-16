@@ -1,0 +1,38 @@
+
+Chapter 12: THE CELL CYCLE
+
+THE KEY ROLES OF CELL DIVISION
+
+   Cell division functions in reproduction, growth, and repair
+
+   Cell division distributes identical sets of chromosomes to daughter cells
+
+
+
+THE MITOTIC CELL CYCLE
+
+   The mitotic phase alternates with interphase in the cell cycle: an overview
+
+   The mitotic spindle distributes chromosomes to daughter cells: a closer look
+
+   Cytokinesis divides the cytoplasm: a closer look
+
+   Mitosis in eukaryotes may have evolved from binary fission in bacteria
+
+
+
+REGULATION OF THE CELL CYCLE
+
+   A molecular control system drives the cell cycle
+
+   Internal and external cues help regulate the cell cycle
+
+   Cancer cells have escaped from cell cycle controls
+
+The ability of organisms to reproduce their kind is the one characteristic that best distinguishes living things from nonliving matter. This unique capacity to procreate, like all biological functions, has a cellular basis. Rudolf Virchow, a German physician, put it this way in 1855: "Where a cell exists, there must have been a preexisting cell, just as the animal arises only from an animal and the plant only from a plant." He summarized with the Latin axiom,"Omnis cellula e cellula,"meaning "Every cell from a cell." The continuity of life is based on the reproduction of cells, or cell division. The series of images in the micrograph on this page follows an animal cell's chromosomes through one round of cell division, starting at the lower left.
+
+In this chapter, you will learn how cells reproduce to form genetically equivalent daughter cells.*This division process is an integral part of the cell cycle, the life of a cell from its origin in the division of a parent cell until its own division into two.
+
+
+
+

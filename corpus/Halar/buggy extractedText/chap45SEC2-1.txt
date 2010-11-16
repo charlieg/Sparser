@@ -1,0 +1,20 @@
+
+ The endocrine system and the nervous system are structurally, chemically, and functionally related
+
+In this chapter we will see many examples of the close relationship between the endocrine system and the nervous system. Many endocrine organs and tissues contain specialized nerve cells, called neurosecretory cells, that secrete hormones. Animals as distinct as insects and vertebrates have neurosecretory cells in their brain that secrete hormones into the blood. Several chemicals serve both as hormones of the endocrine system and as signals in the nervous system. Epinephrine, for example, functions in the vertebrate body as the so-called "fight or flight" hormone (produced by the adrenal medulla, an endocrine gland) and as a neurotransmitter that conveys messages between neurons in the nervous system.
+
+The regulation of several physiological processes involves structural and functional overlap between the endocrine and nervous systems. Each system affects the output of the other. For instance, the release of milk by a nursing mother is controlled by a series of interdependent nervous and hormonal signals. Suckling stimulates sensory cells in the nipples, and nervous signals to the part of the brain called the hypothalamus trigger the release of the hormone oxytocin from the pituitary gland. Oxytocin then causes the mammary glands to secrete milk.
+
+Feedback is another feature common to both the endocrine and nervous systems. The chemical and neural events leading to milk release involve positive feedback. The generation of nerve signals (impulses) also involves positive feedback, as we will see in Chapter 48. Negative feedback regulates many endocrine and nervous mechanisms, especially those involved in maintaining homeostasis. FIGURE 45.1 illustrates one example, and we will see several others in this chapter.
+
+
+
+Click image to enlarge
+
+
+
+Fig 45-1. An example of how feedback regulation maintains homeostasis. The concentration of calcium ions in the blood is maintained close to a set point by the antagonistic (opposite) actions of two hormones, calcitonin and parathyroid hormone (PTH). Excess blood calcium triggers the secretion of calcitonin, which decreases the calcium level; when calcium gets too low, secretion of PTH causes it to rise.
+
+
+
+

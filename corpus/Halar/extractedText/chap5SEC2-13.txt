@@ -1,0 +1,12 @@
+
+ We can use DNA and proteins as tape measures of evolution
+
+Genes (DNA) and their products (proteins) document the hereditary background of an organism. The linear sequences of nucleotides in DNA molecules are passed from parents to offspring, and these DNA sequences determine the amino acid sequences of proteins. Siblings have greater similarity in their DNA and proteins than do unrelated individuals of the same species. If the evolutionary view of life is valid, we should be able to extend this concept of "molecular genealogy" to relationships between species: We should expect two species that appear to be closely related based on fossil and anatomical evidence to also share a greater proportion of their DNA and protein sequences than do more distantly related species. That is the case. For example, TABLE 5.2 compares a polypeptide chain of human hemoglobin with the corresponding hemoglobin polypeptide in five other vertebrates. In this chain of 146 amino acids, humans and gorillas differ in just one amino acid. More distantly related species have chains that are less similar. Molecular biology has added a new tape measure to the toolkit biologists use to assess evolutionary kinship.
+
+Table 5-2. Polypeptide Sequence as Evidence for Evolutionary Relationships
+
+SpeciesNumber of Amino Acid Differences in the b Chain of Hemoglobin, Compared to Human Hemoglobin (total chain length = 146 amino acids)Human0Gorilla1Gibbon2Rhesus monkey8Mouse27Frog67We have concluded our survey of macromolecules, but not our study of the chemistry of life. Applying the reductionist strategy, we have examined the architecture of molecules, but we have yet to explore the dynamic interactions between molecules that result in the biochemical changes collectively called cellular metabolism. Chapter 6, the final chapter of this unit, will take us another step up the hierarchy of biological order by introducing the fundamental principles of metabolism.
+
+
+
+

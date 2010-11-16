@@ -1,0 +1,32 @@
+
+ Internal and external cues help regulate the cell cycle
+
+Research scientists are only in the early stages of working out the signaling pathways that link cyclin-dependent kinases to other molecules and events inside and outside the cell. For example, they know that active Cdks function by phosphorylating substrate proteins that affect particular steps in the cell cycle. But identifying the specific substrates of the various Cdks that become active at different phases of the cell cycle has proved difficult. In other words, scientists don't yet know what Cdks actually do in most cases. However, they have identified some steps of the signaling pathways that convey information to the cell cycle machinery. We'll next discuss two examples of such signaling, one originating inside the cell and one outside.
+
+Internal Signals: Messages from the Kinetochores
+
+Anaphase, the separation of sister chromatids, does not begin until all the chromosomes are properly attached to the spindle at the metaphase plate. The gatekeeper is the M phase checkpoint, and it ensures that daughter cells do not end up with missing or extra chromosomes. Researchers have learned that a signal that delays anaphase originates at kinetochores that are not yet attached to spindle microtubules. Certain associated proteins trigger a signaling pathway that keeps an anaphase-promoting complex (APC) in an inactive state. Only when all the kinetochores are attached to the spindle does this "wait" signal cease. The APC then becomes active and indirectly triggers both the breakdown of cyclin and the inactivation of proteins holding the sister chromatids together.
+
+External Signals: Growth Factors
+
+By growing animal cells in culture, researchers have been able to identify many external factors, both chemical and physical, that can influence cell division. For example, cells fail to divide if an essential nutrient is left out of the culture medium. And even if all other conditions are favorable, most types of mammalian cells divide in culture only if the growth medium includes specific growth factors. As mentioned in Chapter 11, a growth factor is a protein released by certain body cells that stimulates other cells to divide.
+
+One example of a growth factor is platelet-derived growth factor (PDGF), which is made by blood cells called platelets. The experiment illustrated in FIGURE 12.15, p. 228, demonstrates that PDGF is required for the division of fibroblasts in culture. Fibroblasts, a type of connective tissue cell, have PDGF receptors on their plasma membranes. The binding of PDGF molecules to these receptors (which are tyrosine-kinase receptors; see Chapter 11) triggers a signal-transduction pathway that leads to stimulation of cell division. Presumably, the pathway activates one or more components of the cell cycle control system.
+
+PDGF stimulates fibroblast division not only in the artificial conditions of cell culture, but in an animal's body as well. When an injury occurs, platelets release PDGF in the vicinity. The resulting proliferation of fibroblasts helps heal the wound. Researchers have discovered a number of different growth factors. Each cell type probably responds specifically to a certain growth factor or combination of growth factors.
+
+The discovery of growth factors provided the key to understanding density-dependent inhibition of cell division, a phenomenon in which crowded cells stop dividing (FIGURE 12.16a). As first observed many years ago, cultured cells normally divide until they form a single layer of cells on the inner surface of the culture container, at which point the cells stop dividing. If some cells are removed, those bordering the open space begin dividing again and continue until the vacancy is filled. Apparently, when a cell population reaches a certain density, the amount of required growth factors and nutrients available to each cell becomes insufficient to allow continued cell growth.
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-16. Density-dependent inhibition of cell division. Individual cells are shown disproportionately large.
+
+Most animal cells also exhibit anchorage dependence. To divide, they must be attached to a substratum, such as the inside of a culture jar or the extracellular matrix of a tissue. Experiments suggest that anchorage is signaled to the cell cycle control system via pathways involving plasma membrane proteins and elements of the cytoskeleton linked to them. Density-dependent inhibition and anchorage dependence probably function in the body's tissues as well as in cell culture, checking the growth of cells at some optimal density and location. Cancer cells, which we discuss next, exhibit neither density-dependent inhibition nor anchorage dependence (FIGURE 12.16b).
+
+
+
+

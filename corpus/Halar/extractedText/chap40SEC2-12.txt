@@ -1,0 +1,30 @@
+
+ Energy budgets reveal how animals use energy and materials
+
+Different species of animals use the energy and materials in food in different ways, depending on their environment, behavior, size, and basic energy "strategy" of endothermy or ectothermy. For most animals, the majority of food is devoted to the production of ATP, and relatively little goes to growth or reproduction. However, the amount of energy used for BMR (or SMR), activity, and temperature control varies considerably between species. For example, consider the typical annual energy "budgets" of four terrestrial vertebrates: a 25 gram female deer mouse, a 4-kg female python, a 4-kg male Ad&eacute;lie penguin, and a 60-kg female human (FIGURE 40.13). We will assume that all of these animals reproduce during the year in question.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 40-13. Annual energy budgets for four animals.
+
+The female human spends a large fraction of her energy budget for BMR and relatively little for activity and temperature regulation. The small amount of growth, about 1%  of her annual energy budget, is equivalent to adding about 1 kg of body fat or 5-6 kg of other tissues. The cost of nine months of pregnancy and several months of breast-feeding amounts to only 5-8%  of the mother's annual energy requirements.
+
+A male penguin spends a much larger fraction of his energy expenditures for activity because he must swim to catch his food. Since the penguin is well insulated and fairly large, he has relatively low costs of temperature regulation in spite of living in the cold Antarctic environment. His reproductive costs, about 6%  of annual energy expenditures, mainly come from incubating eggs and bringing food to his chicks. Penguins, like most birds, do not grow once they are adults.
+
+The deer mouse spends a large fraction of her energy budget for temperature regulation. Because of the high surface-to-volume ratio that goes with small size, mice lose body heat rapidly to the environment and must constantly generate metabolic heat to maintain body temperature. Female deer mice spend about 12%  of their energy budgets on reproduction.
+
+In contrast to these endothermic animals, the ectothermic python has no temperature regulation costs. Like most reptiles, she grows continuously throughout life. In the FIGURE 40.13 example, the snake added about 750 g of new body tissue. She also produced about 650 g of eggs. The python's economical ectothermic strategy is revealed by her very low annual energy expenditure, which is only 1/40 of the energy expended by the same-sized endothermic penguin (see FIGURE 40.13b).
+
+Throughout our study of animal biology, we will encounter many other examples of how bioenergetics relates to the form and function of diverse animals.
+
+Having examined some general principles of animal biology, we are now ready to compare how diverse animals perform such activities as digestion, circulation, gas exchange, excretion of wastes, reproduction, and coordination--the topics of the next several chapters.
+
+
+
+

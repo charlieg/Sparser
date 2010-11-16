@@ -1,0 +1,143 @@
+
+ Translation is the RNA-directed synthesis of a polypeptide: a closer look
+
+In the process of translation, a cell interprets a genetic message and builds a protein accordingly. The message is a series of codons along an mRNA molecule, and the interpreter is called transfer RNA (tRNA). The function of tRNA is to transfer amino acids from the cytoplasm's amino acid pool to a ribosome. A cell keeps its cytoplasm stocked with all 20 amino acids, either by synthesizing them from other compounds or by taking them up from the surrounding solution. The ribosome adds each amino acid brought to it by tRNA to the growing end of a polypeptide chain (FIGURE 17.12, p. 314).
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-12. Translation: the basic concept. As a molecule of mRNA is moved through a ribosome, codons are translated into amino acids, one by one. The interpreters are tRNA molecules, each type with a specific anticodon at one end and a certain amino acid at the other end. A tRNA adds its amino acid cargo to a growing polypeptide chain when the anticodon bonds to a complementary codon on the mRNA. The figures that follow show some of the details of translation in the prokaryotic cell.
+
+Molecules of tRNA are not all identical. The key to translating a genetic message into a specific amino acid sequence is that each type of tRNA molecule links a particular mRNA codon with a particular amino acid. As a tRNA molecule arrives at a ribosome, it bears a specific amino acid at one end. At the other end is a nucleotide triplet called an anticodon, which base-pairs with a complementary codon on mRNA. For example, consider the mRNA codon UUU, which is translated as the amino acid phenylalanine (see FIGURE 17.4). The tRNA that plugs into this codon by hydrogen bonding has AAA as its anticodon and carries phenylalanine at its other end. As an mRNA molecule is moved through a ribosome, phenylalanine will be added to the polypeptide chain whenever the codon UUU is presented for translation. Codon by codon, the genetic message is translated as tRNAs deposit amino acids in the order prescribed, and the ribosome joins the amino acids into a chain. The tRNA molecule is like a flash card with a nucleic acid word (anticodon) on one side and a protein word (amino acid) on the other.
+
+Translation is simple in principle but complex in its biochemistry and mechanics, especially in the eukaryotic cell. In dissecting translation, we'll concentrate on the slightly less complicated version of the process that occurs in prokaryotes. Let's first look at some of the major players in this cellular drama, then see how they act together to make a polypeptide.
+
+The Structure and Function of Transfer RNA
+
+Like mRNA and other types of cellular RNA, transfer RNA molecules are transcribed from DNA templates. In a eukaryotic cell, tRNA, like mRNA, is made in the nucleus and must travel from the nucleus to the cytoplasm, where translation occurs. In both prokaryotic and eukaryotic cells, each tRNA molecule is used repeatedly, picking up its designated amino acid in the cytosol, depositing this cargo at the ribosome, and then leaving the ribosome to pick up another load.
+
+As illustrated in FIGURE 17.13, a tRNA molecule consists of a single RNA strand that is only about 80 nucleotides long (compared to hundreds of nucleotides for most mRNA molecules). This RNA strand folds back upon itself to form a molecule with a three-dimensional structure reinforced by interactions between different parts of the nucleotide chain. Nucleotide bases in certain regions of the tRNA strand form hydrogen bonds with complementary bases of other regions. Flattened into one plane to reveal this base pairing, a tRNA molecule looks like a cloverleaf. The tRNA actually twists and folds into a compact three-dimensional structure that is roughly L-shaped. The loop protruding from one end of the L includes the anticodon, the specialized base triplet that binds to a specific mRNA codon. From the other end of the L-shaped tRNA molecule protrudes its 3&#39; end, which is the attachment site for an amino acid. Thus, the structure of a tRNA molecule fits its function.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 17-13. The structure of transfer RNA (tRNA). Anticodons are conventionally written 3&#39; 5&#39; to align properly with codons written 5&#39; 3&#39; (see FIGURE 17.12). For base pairing, RNA strands must be antiparallel, like DNA (see FIGURE 16.12). For example, anticodon 3&#39;-AAG-5&#39; pairs with mRNA codon 5&#39;-UUC-3&#39;.
+
+If one tRNA variety existed for each of the mRNA codons that specifies an amino acid, there would be 61 tRNAs (see FIGURE 17.4). The actual number is smaller: about 45. This number is sufficient because some tRNAs have anticodons that can recognize two or more different codons. Such versatility is possible because the rules for base pairing between the third base of a codon and the corresponding base of a tRNA anticodon are not as strict as those for DNA and mRNA codons. For example, the base U of a tRNA anticodon can pair with either A or G in the third position of an mRNA codon. This relaxation of the base-pairing rules is called wobble. The most versatile tRNAs are those with inosine (I), a modified base, in the wobble position of the anticodon. Inosine is formed by enzymatic alteration of adenine after tRNA is synthesized. When anticodons associate with codons, the base I can hydrogen-bond with any one of three bases: U, C, or A. Thus, the tRNA molecule that has CCI as its anticodon can bind to the codons GGU, GGC, and GGA, all of which code for the amino acid glycine. Wobble explains why the synonymous codons for a given amino acid can differ in their third base, but usually not in their other bases.
+
+Aminoacyl-tRNA Synthetases
+
+Codon-anticodon bonding is actually the second of two recognition steps required for the accurate translation of a genetic message. It must be preceded by a correct match between tRNA and an amino acid. A tRNA that binds to an mRNA codon specifying a particular amino acid must carry only that amino acid to the ribosome. Each amino acid is joined to the correct tRNA by a specific enzyme called an aminoacyl-tRNA synthetase. There are 20 of these enzymes in the cell, one enzyme for each amino acid. The active site of each type of aminoacyl-tRNA synthetase fits only a specific combination of amino acid and tRNA. The synthetase catalyzes the covalent attachment of the amino acid to its tRNA in a process driven by the hydrolysis of ATP (FIGURE 17.14). The resulting aminoacyl tRNA, also called an activated amino acid, is released from the enzyme and delivers its amino acid to a growing polypeptide chain on a ribosome.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-14. An aminoacyl-tRNA synthetase joins a specific amino acid to a tRNA. Linkage of the tRNA and amino acid is an endergonic process that occurs at the expense of ATP. The ATP loses two phosphate groups, becoming AMP (adenosine monophosphate).
+
+Ribosomes
+
+Ribosomes facilitate the specific coupling of tRNA anticodons with mRNA codons during protein synthesis. A ribosome, which is large enough to be seen with an electron microscope, is made up of two subunits, called the large and small subunits (FIGURE 17.15). The ribosomal subunits are constructed of proteins and RNA molecules named ribosomal RNA (rRNA). In eukaryotes, the subunits are made in the nucleolus. Ribosomal RNA genes on the chromosomal DNA are transcribed, and the RNA is processed and assembled with proteins imported from the cytoplasm. The resulting ribosomal subunits are then exported via nuclear pores to the cytoplasm. In both prokaryotes and eukaryotes, large and small subunits join to form a functional ribosome only when they attach to an mRNA molecule. About two-thirds of the mass of a ribosome is rRNA. Because most cells contain thousands of ribosomes, rRNA is the most abundant type of RNA.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-15. The anatomy of a functioning ribosome.
+
+Although the ribosomes of prokaryotes and eukaryotes are very similar in structure and function, those of eukaryotes are slightly larger and differ somewhat from prokaryotic ribosomes in their molecular composition. The differences are medically significant. Certain antibiotic drugs can paralyze prokaryotic ribosomes without inhibiting the ability of eukaryotic ribosomes to make proteins. These drugs, including tetracycline and streptomycin, are used to combat bacterial infections.
+
+The structure of a ribosome reflects its function of bringing mRNA together with amino acid-bearing tRNAs. In addition to a binding site for mRNA, each ribosome has three binding sites for tRNA (see FIGURE 17.15). The P site (peptidyl-tRNA site) holds the tRNA carrying the growing polypeptide chain, while the A site (aminoacyl-tRNA site) holds the tRNA carrying the next amino acid to be added to the chain. Discharged tRNAs leave the ribosome from the E site (exit site). The ribosome holds the tRNA and mRNA close together and positions the new amino acid for addition to the carboxyl end of the growing polypeptide. It then catalyzes the formation of the peptide bond.
+
+Four decades of genetic and biochemical research on ribosome structure recently culminated in the detailed structure of the bacterial ribosome. One view of the large subunit is shown in FIGURE 17.16, and a ribbon model of the entire ribosome appears at the beginning of this chapter. Ribosome structure strongly supports the hypothesis that rRNA, not protein, carries out the ribosome's functions. RNA is the main constituent of the interface between the two subunits and of the A and P sites, and it is the catalyst of peptide bond formation. Thus, a ribosome can be regarded as one colossal ribozyme! The ribosome's proteins are largely on the exterior, apparently playing a mainly structural role.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-16. Structure of the large ribosomal subunit at the atomic level. In 2000, researchers succeeded in determining the atomic structures of both subunits of the bacterial ribosome using X-ray crystallography (see FIGURE 5.27). This computer model shows the large subunit from a point of view different from that in FIGURE 17.15. Here we are looking at the "bottom" of the large subunit, as it would look from an attached small subunit. The rRNA molecules are colored orange or maroon (sugar-phosphate backbones) and gray (bases) and the proteins are purple. Notice that the proteins are mostly on the outside of the subunit, whereas the rRNA, responsible for the ribosome's functions, is mostly in the interior. The tRNA molecules are included for orientation.
+
+Building a Polypeptide
+
+We can divide translation, the synthesis of a polypeptide chain, into three stages (analogous to those of transcription): initiation, elongation, and termination. All three stages require protein "factors" that aid mRNA, tRNA, and ribosomes in the translation process. For chain initiation and elongation, energy is also required. It is provided by the hydrolysis of GTP (guanosine triphosphate), a molecule closely related to ATP.
+
+Initiation. The initiation stage of translation brings together mRNA, a tRNA bearing the first amino acid of the polypeptide, and the two subunits of a ribosome (FIGURE 17.17). First, a small ribosomal subunit binds to both mRNA and a special initiator tRNA. The small ribosomal subunit attaches to the leader segment at the 5&#39; (upstream) end of the mRNA. In bacteria, rRNA of the small subunit base-pairs with a specific sequence of nucleotides within the mRNA leader; in eukaryotes, the 5&#39; cap first tells the small subunit to attach to the 5&#39; end of the mRNA. Downstream on the mRNA is the initiation codon, AUG, which signals the start of translation. The initiator tRNA, which carries the amino acid methionine, attaches to the initiation codon.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-17. The initiation of translation.
+
+The union of mRNA, initiator tRNA, and a small ribosomal subunit is followed by the attachment of a large ribosomal subunit, completing a translation initiation complex. Proteins called initiation factors are required to bring all these components together. The cell also spends energy in the form of a GTP molecule to form the initiation complex. At the completion of the initiation process, the initiator tRNA sits in the P site of the ribosome, and the vacant A site is ready for the next aminoacyl tRNA. The synthesis of a polypeptide is initiated at its amino end (see FIGURE 5.16b).
+
+Elongation. In the elongation stage of translation, amino acids are added one by one to the preceding amino acid. Each addition involves the participation of several proteins called elongation factors and occurs in a three-step cycle (FIGURE 17.18):
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-18. The elongation cycle of translation. Not shown in this diagram are the proteins called elongation factors. The hydrolysis of GTP drives the elongation process.
+
+
+			  
+		Codon recognition. The mRNA codon in the A site of the ribosome forms hydrogen bonds with the anticodon of an incoming molecule of tRNA carrying its appropriate amino acid. An elongation factor ushers the tRNA into the A site. This step requires the hydrolysis of two molecules of GTP.
+
+
+			  
+		Peptide bond formation. An rRNA molecule of the large ribosomal subunit, functioning as a ribozyme, catalyzes the formation of a peptide bond that joins the polypeptide extending from the P site to the newly arrived amino acid in the A site. In this step, the polypeptide separates from the tRNA to which it was attached, and the amino acid at its carboxyl end bonds to the amino acid carried by the tRNA in the A site.
+
+
+			  
+		Translocation. The ribosome now translocates (moves) the tRNA in the A site, with its attached polypeptide, to the P site. As the tRNA moves, its anticodon remains hydrogen-bonded to the mRNA codon; the mRNA moves along with it and brings the next codon to be translated into the A site. Meanwhile, the tRNA that was in the P site is moved to the E (exit) site and from there leaves the ribosome. The translocation step requires energy, which is provided by hydrolysis of a GTP molecule. The mRNA is moved through the ribosome in one direction only, 5&#39; end first; this is equivalent to the ribosome moving 5&#39; 3&#39;on the mRNA. The important point is that the ribosome and the mRNA move relative to each other, unidirectionally, codon by codon. The elongation cycle takes less than a tenth of a second and is repeated as each amino acid is added to the chain until the polypeptide is completed.
+
+Termination. The final stage of translation is termination (FIGURE 17.19). Elongation continues until a stop codon in the mRNA reaches the A site of the ribosome. The special base triplets UAA, UAG, and UGA do not code for amino acids but instead act as signals to stop translation. A protein called a release factor binds directly to the stop codon in the A site. The release factor causes the addition of a water molecule instead of an amino acid to the polypeptide chain. This reaction hydrolyzes the completed polypeptide from the tRNA that is in the P site, freeing the polypeptide from the ribosome. The remainder of the translation assembly then comes apart.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-19. The termination of translation.
+
+Polyribosomes
+
+A single ribosome can make an average-sized polypeptide in less than a minute. Typically, however, a single mRNA is used to make many copies of a polypeptide simultaneously, because a number of ribosomes work on translating the message at the same time. Once a ribosome moves past the initiation codon, a second ribosome can attach to the mRNA, and thus, multiple ribosomes may trail along the same mRNA. Such strings of ribosomes, called polyribosomes, can be seen with the electron microscope (FIGURE 17.20). Polyribosomes are found in both prokaryotic and eukaryotic cells.
+They help a cell to make many copes of a polypeptide very quickly.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-20. Polyribosomes.
+
+From Polypeptide to Functional Protein
+
+During and after its synthesis, a polypeptide chain begins to coil and fold spontaneously, forming a functional protein of specific conformation: a three-dimensional molecule with secondary and tertiary structure (see FIGURE 5.24). A gene determines primary structure, and primary structure in turn determines conformation. In many cases, a chaperone protein helps the polypeptide fold correctly (see FIGURE 5.26).
+
+Additional steps--posttranslational modifications--may be required before the protein can begin doing its particular job in the cell. Certain amino acids may be chemically modified by the attachment of sugars, lipids, phosphate groups, or other additions. Enzymes may remove one or more amino acids from the leading (amino) end of the polypeptide chain. In some cases, a single polypeptide chain may be enzymatically cleaved into two or more pieces. For example, the protein insulin is first synthesized as a single polypeptide chain but becomes active only after an enzyme cuts out a central part of the chain, leaving a protein made up of two polypeptide chains connected by disulfide bridges (see FIGURE 5.22). In other cases, two or more polypeptides that are synthesized separately may join to become the subunits of a protein that has quaternary structure.
+
+
+
+

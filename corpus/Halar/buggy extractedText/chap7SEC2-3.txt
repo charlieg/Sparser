@@ -1,0 +1,58 @@
+
+ Prokaryotic and eukaryotic cells differ in size and complexity
+
+All cells have several basic features in common: They are all bounded by a membrane, called a plasma membrane. Within the membrane is a semifluid substance, cytosol, in which organelles are found. All cells contain chromosomes, carrying genes in the form of DNA. And all cells have ribosomes, tiny organelles that make proteins according to instructions from the genes.
+
+A major difference between prokaryotic and eukaryotic cells, indicated by their names, is that the chromosomes of a eukaryotic cell are located in a membrane-enclosed organelle called the nucleus. The word prokaryotic is from the Greek pro, before, and karyon, kernel, referring here to the nucleus. In a prokaryotic cell (FIGURE 7.4), the DNA is concentrated in a region called the nucleoid, but no membrane separates this region from the rest of the cell. In contrast, the eukaryotic cell (Greek eu, true, and karyon) has a true nucleus, bounded by a membranous nuclear envelope (see FIGURES 7.7 and 7.8, pp. 114-115). The entire region between the nucleus and the plasma membrane is called the cytoplasm, a term also used for the interior of a prokaryotic cell. Within the cytoplasm of a eukaryotic cell, suspended in cytosol, are a variety of membrane-bounded organelles of specialized form and function. These are absent in prokaryotic cells. Thus, the presence or absence of a true nucleus is just one example of the disparity in structural complexity between the two types of cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-4. A prokaryotic cell. Lacking a true nucleus and the other membrane-enclosed organelles of the eukaryotic cell, the prokaryotic cell is much simpler in structure. Only organisms of the domains Bacteria and Archaea have prokaryotic cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-7. Overview of an animal cell. This drawing of an animal cell incorporates the most common structures of animal cells (no cell actually looks just like this). The cell has a variety of organelles ("little organs"), many of which are bounded by membranes. The most prominent organelle in an animal cell is usually the nucleus. Most of the cell's metabolic activities occur in the cytoplasm, the entire region between the nucleus and the plasma membrane. The cytoplasm contains many organelles suspended in a semifluid medium, the cytosol. Pervading much of the cytoplasm is a labyrinth of membranes called the endoplasmic reticulum (ER).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-8. Overview of a plant cell. This drawing of a generalized plant cell reveals the similarities and differences between an animal cell and a plant cell. In addition to most of the features seen in an animal cell, a plant cell has membrane-enclosed organelles called plastids. The most important type of plastid is the chloroplast, which carries out photosynthesis. Many plant cells have a large central vacuole. Outside a plant cell's plasma membrane is a thick cell wall, perforated by channels called plasmodesmata.
+
+Eukaryotic cells are generally much bigger than prokaryotic cells (see FIGURE 7.1). Size is a general aspect of cell structure that relates to function. The logistics of carrying out metabolism set limits on cell size. At the lower limit, the smallest cells known are bacteria called mycoplasmas, which have diameters between 0.1 and 1.0 mm. These are perhaps the smallest packages with enough DNA to program metabolism and enough enzymes and other cellular equipment to carry out the activities necessary for a cell to sustain itself and reproduce. Most bacteria are 1-10 mm in diameter, a dimension about ten times bigger than that of mycoplasmas. Eukaryotic cells are typically 10-100 mm in diameter, ten times bigger than bacteria.
+
+Metabolic requirements also impose upper limits on the size that is practical for a single cell. As an object of a particular shape increases in size, its volume grows proportionately more than its surface area. (Area is proportional to a linear dimension squared, whereas volume is proportional to the linear dimension cubed.) Thus, the smaller the object, the greater its ratio of surface area to volume (FIGURE 7.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-5. Geometric relationships explain why most cells are microscopic. In this diagram, cells are represented as boxes. Using arbitrary units of length, we can calculate the cell's surface area (in square units), volume (in cubic units), and surface-to-volume ratio. A high surface-to-volume ratio facilitates the exchange of materials between a cell and its environment.
+
+At the boundary of every cell, the plasma membrane functions as a selective barrier that allows sufficient passage of oxygen, nutrients, and wastes to service the entire volume of the cell (FIGURE 7.6). For each square micrometer of membrane, only so much of a particular substance can cross per second. Rates of chemical exchange with the extracellular environment might be inadequate to maintain a cell with a very large cytoplasm. The need for a surface sufficiently large to accommodate the volume helps explain the microscopic size of most cells. Larger organisms do not generally have larger cells than smaller organisms--simply more cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 7-6. The plasma membrane. The plasma membrane and the membranes of organelles consist of a double layer (bilayer) of phospholipids with various proteins attached to or embedded in it. The phospholipid tails in the interior of a membrane are hydrophobic; the phospholipid heads, the exterior proteins and parts of proteins, and any carbohydrate side chains are hydrophilic and in contact with the aqueous solution on either side of the membrane. Carbohydrate side chains are found only on the outer surface of the plasma membrane. The specific functions of a membrane depend on the kinds of phospholipids and proteins present.
+
+Prokaryotic cells will be described in detail in Chapters 18 and 27, and the possible evolutionary relationships between prokaryotic and eukaryotic cells will be discussed in Chapter 28. Most of the discussion of cell structure that follows in this chapter applies to eukaryotic cells.
+
+
+
+

@@ -1,0 +1,10 @@
+
+ The remodeling of phylogenetic trees illustrates the process of scientific inquiry
+
+On one hand, many biology students must find it frustrating that the phylogenetic trees pressed onto textbook pages cannot be memorized as fossilized truths. On the other hand, the current revolution in systematics is a healthy reminder that science is a process of inquiry that makes even the so-called "classical" fields, such as systematics and taxonomy, dynamic. As emerging technologies such as molecular biology and fresh approaches such as cladistics produce new data or stimulate scientists to reconsider old data, hypotheses sometimes bend or even break under the pressure of the closer scrutiny. New hypotheses or refinements of the old ones represent the latest versions of what we understand about nature based on the best available evidence. And evidence is the key word in this disclaimer that even our most cherished ideas in science are probationary. Science is partly distinguished from other ways of knowing because its ideas can be falsified through testing with experiments or observation. The more testing a hypothesis withstands, the more credible it becomes.
+
+In comparing the traditional phylogenetic tree of animals based on anatomy and embryology with the remodeled tree based on molecular biology, we'll see agreement on some issues and disagreement on others. And though the new data from molecular systematics are compelling, the traditional view of animal phylogeny still offers some important advantages for helping us understand the diversity of animal body plans. That is the rationale for looking at both the "old" tree and the "new" tree in some detail as an overview of animal diversity.
+
+
+
+

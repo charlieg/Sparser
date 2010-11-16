@@ -1,0 +1,130 @@
+
+ By the law of segregation, the two alleles for a character are packaged into separate gametes
+
+If the blending model of inheritance were correct, the F1 hybrids from a cross between purple-flowered and white-flowered pea plants would have pale purple flowers, intermediate between the two varieties of the P generation. Notice in FIGURE 14.1 that the experiment produced a very different result: The F1 offspring all had flowers just as purple as the purple-flowered parents. What happened to the white-flowered plants' genetic contribution to the hybrids? If it were lost, then the F1 plants could produce only purple-flowered offspring in the F2 generation. But when Mendel allowed the F1 plants to self-pollinate and planted their seeds, the white-flower trait reappeared in the F2 generation. Mendel used very large sample sizes and kept accurate records of his results: 705 of the F2 plants had purple flowers, and 224 had white flowers. These data fit a ratio of about three purple to one white (FIGURE 14.2). Mendel reasoned that the heritable factor for white flowers did not disappear in the F1 plants, but only the purple-flower factor was affecting flower color in these hybrids. In Mendel's terminology, purple flower is a dominant trait and white flower is a recessive trait. The occurrence of white-flowered plants in the F2 generation was evidence that the heritable factor causing that recessive trait had not been diluted in any way by coexisting with the purple-flower factor in the F1 hybrids.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-2. Mendel tracked heritable characters for three generations. When F1 hybrids were allowed to self-pollinate, or when they were cross-pollinated with other F1 hybrids, a 3:1 ratio of the two varieties occurred in the F2 generation. A genetic cross, or mating, is symbolized by &#160;X&#160;.
+
+Mendel observed the same pattern of inheritance in six other characters, each represented by two different varieties (TABLE 14.1, p. 250). For example, the parental pea seeds either had a smooth, round shape or were wrinkled. When Mendel crossed his two true-breeding varieties, all the F1 hybrids produced round seeds; this is the dominant trait. In the F2 generation, 75%  of the seeds were round and 25%  were wrinkled--a 3:1 ratio, as in FIGURE 14.2. How did Mendel explain this pattern, which he consistently observed in his crosses? He developed a hypothesis that we can break down into four related ideas. (We will replace some of Mendel's original terms with modern words; for example, "gene" will be used in place of Mendel's "heritable factor.")
+
+Table 14-1. The Results of Mendel's F1 Crosses for Seven Characters in Pea Plants
+
+CharacterDominant Trait&#160;X&#160;Recessive TraitF2 Generation Dominant:RecessiveRatioFlower color
+
+
+
+&#160;X&#160;
+
+
+
+705:2243.15:1PurpleWhiteFlower position
+
+
+
+&#160;X&#160;
+
+
+
+651:2073.14:1AxialTerminalSeed color
+
+
+
+&#160;X&#160;
+
+
+
+6022:20013.01:1YellowGreenSpeed shape
+
+
+
+&#160;X&#160;
+
+
+
+5474:18502.96:1RoundWrinkledPod shape
+
+
+
+&#160;X&#160;
+
+
+
+882.2992.95:1InflatedConstrictedPod color
+
+
+
+&#160;X&#160;
+
+
+
+428:1522.82:1GreenYellowStem length
+
+
+
+&#160;X&#160;
+
+
+
+787:2772.84:1Alternative versions of genes (different alleles) account for variations in inherited characters. The gene for flower color, for example, exists in two versions, one for purple flowers and the other for white. These alternative versions of a gene are now called alleles (FIGURE 14.3). Today, we can relate this concept to chromosomes and DNA. As we mentioned in Chapter 13, each gene resides at a specific locus on a specific chromosome. The DNA at that locus, however, can vary somewhat in its sequence of nucleotides and hence in its information content. The purple-flower allele and the white-flower allele are two DNA variations possible at the flower-color locus on one of a pea plant's chromosomes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-3. Alleles, alternative versions of a gene. The gene for a particular inherited character, such as flower color in garden peas, resides at a specific locus (position) on a certain chromosome. Alleles are variants of that gene. In the case of peas, the flower-color gene exists in two versions: the allele for purple flowers and the allele for white flowers. This homologous pair of chromosomes represents an F1 hybrid, which inherited the allele for purple flowers from one parent and the allele for white flowers from the other parent.
+
+For each character, an organism inherits two alleles, one from each parent. Mendel made this deduction without knowing about the role of chromosomes, but what you learned about chromosomes in Chapter 13 will help you understand Mendel's idea. Recall that a diploid organism has homologous pairs of chromosomes, one chromosome of each pair inherited from each parent. Thus, a genetic locus is actually represented twice in a diploid cell. These homologous loci may have identical alleles, as in the true-breeding plants of Mendel's P generation. Or the two alleles may differ, as in the F1 hybrids. In the flower-color example, the hybrids inherited a purple-flower allele from one parent and a white-flower allele from the other parent (see FIGURE 14.3). This brings us to the third part of Mendel's hypothesis.
+
+If the two alleles differ, then one, thedominant allele, is fully expressed in the organism's appearance; the other, therecessive allele, has no noticeable effect on the organism's appearance. According to this part of the hypothesis, Mendel's F1 plants had purple flowers because the allele for that variation is dominant and the allele for white flowers is recessive.
+
+The two alleles for each character segregate (separate) during gamete production. Thus, an ovum and a sperm each get only one of the two alleles that are present in the somatic cells of the organism. In terms of chromosomes, this segregation corresponds to the distribution of homologous chromosomes to different gametes in meiosis. Note that if an organism has identical alleles for a particular character--that is, the organism is true-breeding for that character--then that allele exists in a single copy in all gametes. But if different alleles are present, as in the F1 hybrids, then 50%  of the gametes receive the dominant allele, while 50%  receive the recessive allele. It is this last part of the hypothesis, the separation of alleles into separate gametes, for which Mendel's law of segregation is named.
+
+One test of Mendel's segregation hypothesis is whether or not it can account for the 3:1 ratio he observed in the F2 generation of his numerous crosses. The hypothesis predicts that the F1 hybrids will produce two classes of gametes. When alleles segregate, half the gametes receive a purple-flower allele, while the other half get a white-flower allele. During self-pollination, the gametes of these two classes unite randomly. An ovum with a purple-flower allele has an equal chance of being fertilized by a sperm with a purple-flower allele or one with a white-flower allele. Since the same is true for an ovum with a white-flower allele, there are a total of four equally likely combinations of sperm and ovum. FIGURE 14.4 illustrates these combinations using a type of diagram called a Punnett square, a handy device for predicting the results of a genetic cross between individuals of known genotype. Notice that we use a capital letter to symbolize a dominant allele and a lowercase letter for a recessive allele. In our example, P is the purple-flower allele, and p is the white-flower allele.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-4. Mendel's law of segregation. A genetically specific version of FIGURE 14.2, this diagram illustrates Mendel's model for the inheritance of the alleles of a single gene. The purple-flower allele (P) is dominant, and the white-flower allele (p) is recessive. Each plant has two alleles for the gene controlling flower color, one allele inherited from each parent.
+
+What will be the physical appearance of these F2 offspring? One-fourth of the plants have two alleles specifying purple flowers; clearly, these plants will have purple flowers. But one-half of the F2 offspring have inherited one allele for purple flowers and one allele for white flowers; like the F1 plants, these plants will also have purple flowers, the dominant trait. Finally, one-fourth of the F2 plants have inherited two alleles specifying white flowers and will, in fact, express the recessive trait. Thus, Mendel's model accounts for the 3:1 ratio that he observed in the F2 generation.
+
+Some Useful Genetic Vocabulary
+
+An organism having a pair of identical alleles for a character is said to be homozygous for the gene controlling that character. A pea plant that is true-breeding for purple flowers (PP) is an example. Pea plants with white flowers are also homozygous, but for the recessive allele (pp). If we cross dominant homozygotes with recessive homozygotes, as in the parental (P generation) cross of FIGURE 14.4, every offspring will have two different alleles--Pp in the case of the F1 hybrids of our flower-color experiment. Organisms having two different alleles for a gene are said to be heterozygous for that gene. Unlike homozygotes, heterozygotes are not true-breeding, because they produce gametes having one or the other of the different alleles. We have seen that a Pp plant of the F1 generation will produce both purple-flowered and white-flowered offspring when it self-pollinates.
+
+Because of dominance and recessiveness, an organism's traits do not always reveal its genetic composition. Therefore, we have to distinguish between an organism's traits, called its phenotype, and its genetic makeup, its genotype. In the case of flower color in peas, PP and Pp plants have the same phenotype (purple) but different genotypes. FIGURE 14.5 reviews these terms. Note that phenotype refers to physiological traits as well as traits relating directly to appearance. For example, there is a pea variety that lacks the normal trait of being able to self-pollinate. This physiological variation is a phenotype.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-5. Genotype versus phenotype. Grouping F2 offspring from a cross for flower color according to phenotype results in the typical 3:1 ratio. In terms of genotype, however, there are actually two categories of purple-flowered plants: PP (homozygous) and Pp (heterozygous).
+
+The Testcross
+
+Suppose we have a pea plant that has purple flowers. We cannot tell from its flower color if this plant is homozygous or heterozygous because the genotypes PP and Pp result in the same phenotype. But if we cross this pea plant with one having white flowers, the appearance of the offspring will reveal the genotype of the purple-flowered parent (FIGURE 14.6). The genotype of the plant with white flowers is known: Because this is the recessive trait, the plant must be homozygous (pp). If all the offspring of the cross have purple flowers, then the other parent must be homozygous for the dominant allele; a PP&#160;X&#160;pp cross produces nothing but Pp offspring. But if both the purple and the white phenotypes appear among the offspring, then the purple-flowered parent must be heterozygous. The offspring of a Pp&#160;X&#160;pp cross will have a 1:1 phenotypic ratio. This breeding of a recessive homozygote with an organism of dominant phenotype but unknown genotype is called a testcross. It was devised by Mendel and continues to be an important tool of geneticists.
+
+
+
+Click image to enlarge
+
+
+
+Fig 14-6. A testcross. A testcross is designed to reveal the genotype of an organism that exhibits a dominant trait, such as purple flowers in pea plants. Such an organism could be either homozygous for the dominant allele or heterozygous. The most efficient way to determine the genotype is to cross the organism with an individual expressing the recessive trait. Since the white-flowered parent must be homozygous, we can deduce the genotype of the purple-flowered parent by observing the phenotypes of the offspring.
+
+
+
+

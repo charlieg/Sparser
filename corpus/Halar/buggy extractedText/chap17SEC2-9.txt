@@ -1,0 +1,10 @@
+
+ RNA plays multiple roles in the cell: a review
+
+As we have seen, the cellular machinery of protein synthesis (and ER targeting) is dominated by RNA of various kinds. In addition to mRNA, these include tRNA, rRNA, and, in eukaryotes, snRNA and SRP RNA (TABLE 17.1). The diverse functions of these molecules range from structural to informational to catalytic. The ability of RNA to perform so many different functions is based on two related characteristics of this kind of molecule: RNA can hydrogen-bond to other nucleic acid molecules (DNA or RNA), and it can assume a specific three-dimen sionalshape by forming hydrogen bonds between bases in different parts of its polynucleotide chain (you saw an example of this intramolecular bonding in tRNA, FIGURE 17.13). DNA may be the genetic material of all living cells today, but RNA is much more versatile. You will learn in Chapter 18 that many viruses even use RNA rather than DNA as their genetic material.
+
+Table 17-1. Types of RNA in a Eukaryotic Cell
+
+Type of RNAFunctionsMessenger RNA (mRNA)Carries information specifying amino acid sequences of proteins from DNA to ribosomes.Transfer RNA (tRNA)Serves as adapter molecule in protein synthesis; translates mRNA codons into amino acids.Ribosomal RNA (rRNA)Plays catalytic (ribozyme) roles and structural roles in ribosomes.Primary transcriptServes as a precursor to mRNA, rRNA, or tRNA and may be processed by splicing or cleavage. In eukaryotes, pre-mRNA commonly contains introns, noncoding segments that are spliced out as the primary transcript is processed. Some intron RNA acts as a ribozyme, catalyzing its own splicing.Small nuclear RNA (snRNA)Plays structural and catalytic roles in spliceosomes, the complexes of protein and RNA that splice pre-mRNA in the eukaryotic nucleus.SRP RNAIs a component of the signal-recognition particle (SRP), the protein-RNA complex that recognizes the signal peptides of polypeptides targeted to the ER.
+
+

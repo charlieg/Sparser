@@ -1,0 +1,58 @@
+
+Chapter 43: THE BODY'S DEFENSES
+
+NONSPECIFIC DEFENSES AGAINST INFECTION
+
+   The skin and mucous membranes provide first-line barriers to infection
+
+   Phagocytic cells, inflammation, and antimicrobial proteins function early in infection
+
+
+
+HOW SPECIFIC IMMUNITY ARISES
+
+   Lymphocytes provide the specificity and diversity of the immune system
+
+   Antigens interact with specific lymphocytes, inducing immune responses and immunological memory
+
+   Lymphocyte development gives rise to an immune system that distinguishes self from nonself
+
+
+
+IMMUNE RESPONSES
+
+   Helper T lymphocytes function in both humoral and cell-mediated immunity: an overview
+
+   In the cell-mediated response, cytotoxic T cells counter intracellular pathogens: a closer look
+
+   In the humoral response, B cells make antibodies against extracellular pathogens: a closer look
+
+   Invertebrates have a rudimentary immune system
+
+
+
+IMMUNITY IN HEALTH AND DISEASE
+
+   Immunity can be achieved naturally or artificially
+
+   The immune system's capacity to distinguish self from nonself limits blood transfusion and tissue transplantation
+
+   Abnormal immune function can lead to disease
+
+   AIDS is an immunodeficiency disease caused by a virus
+
+An animal must defend itself against unwelcome intruders, the many potentially dangerous viruses, bacteria, and other pathogens it encounters in the air, in food, and in water. It must also deal with abnormal body cells, which, in some cases, may develop into cancer. Three cooperative lines of defense that counter these threats have evolved (FIGURE 43.1). Two of these are nonspecific--that is, they do not distinguish one infectious agent from another. The first line of nonspecific defense is external, consisting of epithelial tissues that cover and line our bodies (skin and mucous membranes) and the secretions they produce. The second line of nonspecific defense is internal: It is triggered by chemical signals and involves phagocytic cells and antimicrobial proteins that indiscriminately attack invaders that penetrate the body's outer barriers. The appearance of inflammation is a sign that this second line of defense has been deployed.
+
+
+
+Click image to enlarge
+
+
+
+Fig 43-1. An overview of the body's defenses.
+
+The third line of defense is the immune system. The immune system comes into play simultaneously with the second line of defense, but it responds in a specific way to particular microorganisms, aberrant body cells, toxins, and other substances marked by foreign molecules. The body's three lines of defense are somewhat analogous to the defenses of a besieged city: first the city walls, then ordinary soldiers, and finally intelligence officers who identify and track down specific dangerous infiltrators. The immune response, which includes the production of specific defensive proteins called antibodies, involves a diverse group of white blood cells called lymphocytes (seeFIGURES 42.14andFIGURES 42.15). The photograph on this page (a colorized SEM) shows specialized lymphocytes (light green) attacking a cancer cell (brown). This chapter examines how an animal's nonspecific and specific defenses work together to protect the body. Our main focus is on the defense mechanisms of vertebrates, which have a highly developed immune system.
+
+
+
+

@@ -1,0 +1,18 @@
+
+ Some algae have life cycles with alternating multicellular haploid and diploid generations
+
+A variety of life cycles have evolved among the multicellular brown, red, and green algae. The most complex cycles include an alternation of generations, the alternation of multicellular haploid forms and multicellular diploid forms. (Notice that haploid and diploid conditions alternate in all sexual life cycles--human gametes, for example, are a haploid stage--but the term alternation of generations is reserved for life cycles that include haploid and diploid stages that are both multicellular organisms.) As we will see in Chapter 29, alternation of generations also evolved in the life cycles of all plants.
+
+We can examine the brown alga Laminaria as an example of a complex life cycle with an alternation of generations. The diploid individual is called the sporophyte because it produces reproductive cells called spores (zoospores). The haploid individual is called the gametophyte, which is named for its production of gametes. Notice in FIGURE 28.21 (p. 564) that these two generations alternate--that is, they take turns producing one another. Spores released from the sporophyte develop into gametophytes, which in turn produce gametes. The union of two gametes (fertilization, or syngamy) results in a diploid zygote, which gives rise to a new sporophyte. In the case of Laminaria, the two generations are heteromorphic, meaning that the sporophytes and gametophytes are structurally different. Other algal life cycles have an alternation of isomorphic generations, meaning that the sporophytes and gametophytes look alike, although they differ in chromosome number.
+
+
+
+Click image to enlarge
+
+
+
+Fig 28-21. The life cycle of Laminaria: an example of alternation of generations.
+
+
+
+

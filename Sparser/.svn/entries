@@ -1,0 +1,68 @@
+9
+
+dir
+344
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2010-01-11T01:55:41.122369Z
+344
+cgreenba
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c8849605-d826-0410-9f5d-9d9903a7241f
+
+just-dm&p.lisp alias
+file
+
+
+
+
+2007-01-23T16:08:02.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+documentation
+dir
+
+code
+dir
+

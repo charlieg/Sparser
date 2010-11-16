@@ -1,0 +1,38 @@
+
+DNA CLONING
+
+ 
+
+ DNA technology makes it possible to clone genes for basic research and commercial applications: an overview
+
+
+
+ 
+
+ Restriction enzymes are used to make recombinant DNA
+
+
+
+ 
+
+ Genes can be cloned in recombinant DNA vectors: a closer look
+
+
+
+ 
+
+ Cloned genes are stored in DNA libraries
+
+
+
+ 
+
+ The polymerase chain reaction (PCR) clones DNA entirely in vitro
+
+
+
+The molecular biologist studying a particular gene faces a challenge. Naturally occurring DNA molecules are very long, and a single molecule usually carries many genes. Moreover, genes may occupy only a small proportion of the chromosomal DNA, the rest being noncoding nucleotide sequences. A human gene, for example, might constitute only 1/100,000 of a chromosomal DNA molecule. As a further complication, the distinctions between a gene and the surrounding DNA are subtle, consisting only of differences in nucleotide sequence. To work directly with specific genes, scientists needed to develop methods for preparing well-defined, gene-sized pieces of DNA in multiple identical copies. In other words, they needed techniques for gene cloning.
+
+
+
+

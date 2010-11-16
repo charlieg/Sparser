@@ -1,0 +1,32 @@
+
+ Independent assortment of chromosomes and crossing over produce genetic recombinants
+
+In Chapter 13, we saw that meiosis and random fertilization generate genetic variation among offspring of sexually reproducing organisms. The general term for the production of offspring with new combinations of traits inherited from two parents is genetic recombination. Here we will examine the chromosomal basis of recombination in more detail.
+
+The Recombination of Unlinked Genes: Independent Assortment of Chromosomes
+
+Mendel learned from his study of dihybrid plants that some offspring have combinations of traits that do not match either parent in the parental (P) generation. To see an example, draw a Punnett square for a testcross between a pea plant with yellow-round seeds that is heterozygous for both seed color and seed shape (YyRr, the F1 in FIGURE 15.1) and a plant with green-wrinkled seeds (homozygous for both recessive alleles, yyrr). Your Punnett square will predict ratios of genotypes and phenotypes in the offspring similar to what Mendel actually found because the gene loci for seed color and seed shape are on separate chromosomes. In other words, the genes for seed shape and seed color are unlinked, their alleles assorting independently. Notice in your Punnett square that one-half of the offspring of the testcross should inherit a phenotype that matches one of the parental phenotypes--either yellow-round seeds or wrinkled-green seeds. These offspring are called parental types (strictly speaking, "parental" here refers to the phenotypes of the P generation plants, which are the grandparents in this case). But other phenotypes are also represented: One-fourth of the offspring have green-round seeds, and one-fourth have yellow-wrinkled seeds. Because these offspring have new combinations of seed shape and color, they are called recombinants. When 50%  of all offspring are recombinants, as in the example here, geneticists say that there is a 50%  frequency of recombination.
+
+A 50%  frequency of recombination is observed for any two genes that are located on different chromosomes. The physical basis of recombination between unlinked genes is the random orientation of homologous chromosomes at metaphase I of meiosis, which leads to the independent assortment of alleles (again, see FIGURE 15.1).
+
+The Recombination of Linked Genes: Crossing Over
+
+Linked genes do not assort independently because they are located on the same chromosomes and tend to move together through meiosis and fertilization. We would not expect linked genes to recombine into assortments of alleles not found in the parents. But in fact, recombination between linked genes does occur. To see how, let's return to Morgan's fly room.
+
+How can we explain the results of the Drosophila cross illustrated in FIGURE 15.4? The offspring of the testcross for body color and wing shape did not conform to the 1:1:1:1 phenotypic ratio we would expect if the genes for these two characters were on different chromosomes and assorted independently. But if the two genes are completely linked because their loci are on the same chromosome, then we should observe a 1:1:0:0 ratio, with only the parental phenotypes represented among offspring. The actual results satisfy neither of these expectations. Most of the offspring had parental phenotypes, suggesting linkage between the two genes, but about 17%  of the flies were recombinants. Although there was linkage, it appeared incomplete.
+
+Morgan proposed that some mechanism that exchanges segments between homologous chromosomes must occasionally break the linkage between the two genes. Subsequent experiments demonstrated that such an exchange--crossing over--accounts for the recombination of linked genes. While homologous chromosomes are paired during prophase of meiosis I, nonsister chromatids may break at corresponding points and switch fragments; that is, they cross over (see FIGURE 13.9). The recombinant chromosomes resulting from crossing over may bring together alleles in new combinations, and the subsequent events of meiosis distribute the recombinant chromosomes to gametes (FIGURE 15.5a). This sequence of events accounts for the occurrence of recombinant phenotypes in the offspring of Morgan's testcross (FIGURE 15.5b).
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 15-5. Recombination due to crossing over. These diagrams recreate the testcross in FIGURE 15.4, but this time we track chromosomes as well as genes. The b and vg loci are linked; they are on the same chromosome. The maternal chromosomes are color-coded with two shades of red so that we can distinguish one homologue from the other.
+
+
+
+

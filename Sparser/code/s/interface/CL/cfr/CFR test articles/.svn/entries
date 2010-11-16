@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-01-23T16:08:02.390158Z"
+   url="svn+ssh://dmcdonal@hops.dsl.bbn.com/cvs2/svn/nlp/Sparser/code/s/interface/C&amp;L/cfr/CFR%20test%20articles"
+   last-author="dmcdonal"
+   kind="dir"
+   repos="svn+ssh://dmcdonal@hops.dsl.bbn.com/cvs2/svn/nlp"
+   revision="1"/>
+</wc-entries>

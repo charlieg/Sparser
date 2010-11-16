@@ -1,0 +1,134 @@
+
+ Several terrestrial adaptations distinguish land plants from charophycean algae
+
+Several characteristics are common to all four land plant groups--bryophytes, pteridophytes, gymnosperms, and angiosperms--but are absent in even their closest algal relatives, the charophyceans. Here we'll examine five derived characters unique to land plants.
+
+Apical Meristems, Producers of a Plant's Tissues
+
+In terrestrial habitats, the resources that a photosynthetic organism needs are found in two very different places. Light and carbon dioxide are mainly available aboveground; water and mineral nutrients are found mainly in the soil. Thus, the complex bodies of plants show varying degrees of structural specialization for subterranean and aerial organs--roots and leaf-bearing shoots, respectively, in most plants.
+
+Though plants cannot move from place to place, the elongation and branching of their shoots and roots maximize their exposure to environmental resources. This growth in length is sustained throughout the life of a plant by the activity of apical meristems, localized regions of cell division at the tips of shoots and roots (FIGURE 29.3). Cells produced by these meristems differentiate into the plant's various tissues, including a surface epidermis that protects the body and several types of internal tissues. Shoot meristems also generate leaves in most plants.
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-3. Apical meristems of plant shoots and roots. The light micrographs are longitudinal sections at the tips of a shoot and root.
+
+Multicellular, Dependent Embryos
+
+Multicellular plant embryos develop from zygotes that are retained within tissues of the female parent (FIGURE 29.4). The parental tissues provide the developing embryo with nutrients, such as sugars and amino acids. The embryo has specialized placental transfer cells, sometimes present in the adjacent maternal tissue as well, which enhance the transfer of nutrients from parent to embryo (FIGURE 29.5). This interface is analogous to the nutrient-transferring embryo-mother interface of eutherian (placental) mammals. Land plants are also known as embryophytes, a distinction that recognizes multicellular, dependent embryos as a derived characteristic common to the land plant clade.
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-4. Embryos of land plants.
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-5. Placental transfer cell in a liverwort (a bryophyte). In these specialized cells at the embryo-maternal tissue interface, elaborate ingrowths of the cell surface (plasma membrane and cell wall) increase the surface area for the transfer of nutrients (TEM).
+
+Alternation of Generations
+
+During the life cycles of all land plants, two multicellular body forms alternate, each form producing the other. This type of reproductive cycle, called alternation of generations, also evolved in various groups of algae (see FIGURE 28.24). However, alternation of generations does not occur in the charophyceans, the algae most closely related to land plants. We can infer from this observation that alternation of generations evolved independently as a derived characteristic of land plants that was not present in the ancestor common to land plants and charophyceans.
+
+The two multicellular body forms that alternate in the life cycles of land plants are the gametophyte and sporophyte generations. The cells of the gametophyte are haploid, meaning that they have a single set of chromosomes (see Chapter 13). The gametophyte is named for its production of gametes--eggs and sperm. Fusion of eggs and sperm during the process of fertilization forms diploid zygotes. Mitotic division of the zygote produces the multicellular sporophyte. Thus, the cells of a sporophyte are diploid, having two sets of chromosomes, one set contributed by each gamete. Meiosis in a mature sporophyte produces haploid reproductive cells called spores (hence the name sporophyte). A spore is a reproductive cell that can develop into a new organism without fusing with another cell (in contrast to gametes, which cannot develop directly into a multicellular organism; they must first fuse to form zygotes). Mitotic division of a plant spore produces a new multicellular gametophyte. And so the alternation of generations continues, sporophytes producing spores that develop into gametophytes, and gametophytes producing gametes that unite to form the zygotes that develop into sporophytes (FIGURE 29.6).
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-6. Alternation of generations: a generalized scheme.
+
+Don't confuse alternation of generations with the more general occurrence of haploid and diploid stages in the life cycles of all sexually reproducing organisms, including animals (see FIGURE 13.4). In humans, for example, meiosis in the gonads (ovaries and testes) produces haploid gametes, which unite to form diploid zygotes. In this case, the only haploid stage in the life cycle is the gamete, which is single-celled. What distinguishes alternation of generations as a special type of haploid  diploid sexual cycle is that both stages are represented by multicellular bodies.
+
+In some algae with alternation of generations, the multicellular sporophyte and gametophyte look alike to the unaided eye, though microscopic examination would reveal the difference in chromosome count. However, in other algal groups and all land plants, the sporophyte and gametophyte generations are very different in their morphology.
+
+The relative size and complexity of the sporophyte and gametophyte depend on the plant group. In bryophytes, the gametophyte is the "dominant" generation--that is, the organism that is larger and more conspicuous. In contrast, the sporophyte form is the dominant generation in the life cycles of pteridophytes, gymnosperms, and angiosperms. For example, the fern plant most of us are familiar with--the plant with the fronds as leaves--is the diploid sporophyte. The gametophyte is a tiny plant on the forest floor.
+
+Walled Spores Produced in Sporangia
+
+Plant spores are haploid reproductive cells that have the potential to grow into multicellular, haploid gametophytes by mitosis (see FIGURE 29.6). A polymer called sporopollenin, the most durable organic material known, makes the walls of plant spores very tough and resistant to harsh environments (FIGURE 29.7). This chemical adaptation makes it possible for wind-carried spores to disperse through dry air without harm. All four major plant groups produce spores.
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-7. A fern spore (LM).
+
+Multicellular organs called sporangia (singular, sporangium), found on the sporophyte generation of a plant, produce the spores (FIGURE 29.8). Within a sporangium, spore mother cells undergo meiosis and generate the haploid spores. The outer tissues of the sporangium protect developing spores until they are ready to be released into the air.
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-8. Sporangium of a hornwort (a bryophyte) sporophyte (LM).
+
+Sporangia and resistant spores with sporopollenin-enriched walls are key terrestrial adaptations of land plants. Although the charophyceans produce spores, these algae lack multicellular sporangia, and the flagellated, water-dispersed spores lack sporopollenin.
+
+Multicellular Gametangia
+
+The gametophyte forms of bryophytes, pteridophytes, and gymnosperms all produce their gametes within multicellular organs called gametangia (FIGURE 29.9). The female gametangia are called archegonia (singular, archegonium). Each archegonium is a vase-shaped organ that produces a single egg cell and retains the egg within the base of the organ. Male gametangia, called antheridia, produce many sperm cells that are released to the environment when mature. The sperm cells of bryophytes, pteridophytes, and some gymnosperms bear flagella and swim through water droplets or water films to eggs. Eggs are fertilized within archegonia, where the zygote begins to develop into an embryo.
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-9. Gametangia.
+
+Other Terrestrial Adaptations Common to Many Land Plants
+
+In addition to the characteristics we have discussed so far that distinguish the land plant clade from charophycean algae, most plants have additional terrestrial adaptations. These include adaptations for acquiring, transporting, and conserving water; adaptations for reducing the harmful effects of UV radiation, which is much more intense on land than in aquatic habitats; and adaptations for repelling terrestrial herbivores and resisting pathogens.
+
+Adaptations for Water Conservation. The epidermis (outer cell layers) of leaves and other aerial parts of most land plants is coated with a cuticle, a layer consisting of polymers called polyesters and waxes (FIGURE 29.10). The cuticle helps protect the plant from microbial attack, and its waxy nature acts as waterproofing that helps prevent excessive water loss from the aboveground plant organs.
+
+
+
+Click image to enlarge
+
+
+
+Fig 29-10. Cuticle of a stem from Psilotum (a pteridophyte). The yellow "glow" on the surface is caused by fluorescence of the cuticle's waxy chemicals when they are illuminated with ultraviolet light in a special type of light microscope.
+
+The epidermis of leaves and other photosynthetic organs has pores called stomata (singular, stoma) that support photosynthesis by allowing the exchange of carbon dioxide and oxygen between the outside air and the leaf interior (see FIGURE 10.2). Stomata are also the main avenues by which water exits the leaves by evaporation. Changes in the shapes of the cells that border the stomata can close the pores to minimize water loss in hot, dry conditions.
+
+Adaptations for Water Transport. Except for bryophytes, land plants have true roots, stems, and leaves, which are defined by the presence of vascular tissues. The two types of tissues that conduct materials in the plant's vascular system are xylem and phloem (FIGURE 29.11). Tube-shaped cells in the xylem carry water and minerals up from roots. These water-conducting cells are actually dead, with only their walls remaining to provide a system of microscopic water pipes. Phloem is a living tissue with nutrient-conducting cells arranged into tubes that distribute sugars, amino acids, and other organic products throughout the plant.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 29-11. Xylem and phloem in the stem of Polypodium, a fern (a pteridophyte) (LM).
+
+Secondary Compounds as Terrestrial Adaptations. Land plants produce many unique molecules called secondary compounds. They are so named because they are products of "secondary" metabolic pathways, side branches off the primary metabolic pathways that produce lipids, carbohydrates, and the other compounds common to all organisms.
+
+Examples of secondary compounds in plants are alkaloids, terpenes, tannins, and phenolics such as Flavonoids. Various alkaloids, terpenes, and tannins have bitter tastes, strong odors, or toxic effects that help defend land plants against herbivorous animals. Flavonoids absorb harmful UV radiation, and some of these compounds also act as signals that function in symbiotic relationships with beneficial soil microbes (see FIGURE 37.13). Some phenolics deter attack by pathogenic microbes. Other phenolics play key structural roles in land plants. For example, the phenolic polymer called lignin hardens the cell walls of "woody" tissues in vascular plants, supporting even the tallest of trees.
+
+Humans have found many uses, including medicinal applications, for secondary compounds extracted from plants. Just one example is the alkaloid quinine, used to help prevent malaria.
+
+Now that we have examined many terrestrial adaptations that define land plants, let's take a closer look at how these descendants of aquatic algae colonized land.
+
+
+
+

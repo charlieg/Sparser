@@ -1,0 +1,30 @@
+
+ Species richness generally declines along an equatorial-polar gradient
+
+Tropical habitats support much larger numbers of species of plants, animals, and other organisms than do temperate and polar regions. A few examples from biodiversity studies will illustrate this global gradient. A 50 ha (1 hectare = 10,000 m2) plot of tropical rain forest in Malaysia contained 830 species of trees, and a 6.6 ha area in Sarawak (in Malaysia) contained 711 tree species. Contrast this richness with a deciduous forest in Michigan, which contained 10 to 15 species on a plot of 2 ha. And the whole of Europe north of the Alps has only 50 tree species. Ants are also much more diverse in the tropics. There are over 200 species of ants in Brazil, 73 species in Iowa, and 7 species in Alaska. There are 293 species of snakes in Mexico, 126 in the United States, and 22 in Canada. FIGURE 53.23 maps the number of breeding land bird species in different parts of North and Central America. Over 600 bird species occur in Central America, while arctic Canada has less than 40 species of birds. Freshwater fishes have their greatest diversity in tropical rivers and lakes. Lakes Victoria, Tanganyika, and Malawi in East Africa contain about 1,450 species of fishes. Over 1,000 species of fishes have been found in the Amazon River in South America, and exploration is still incomplete in this region. In contrast, Central America has 456 fish species, and the Great Lakes of North America have 173 species. Lake Baikal, in Asia, has 39 fish species; and Great Bear Lake, in northwestern Canada, has only 14 species of fishes.
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-23. Geographic pattern of species richness in the land birds of North and Central America. Contour lines give the number of species present.
+
+What causes these equatorial-polar gradients in species richness? The two key factors are probably evolutionary history and climate. On the scale of evolutionary time, species diversity may increase in a community because more speciation events have occurred. And tropical communities are generally older than temperate or polar communities. This age difference is partly a consequence of the much longer growing season in the tropics. The growing season in tropical forests is about five times longer than the growing season in the tundra communities of high latitudes. In effect, biological time, and hence time for speciation, runs about five times faster in the tropics than near the poles. And many polar and temperate communities have had to "start over" several times as a result of major disturbance in the form of glaciations.
+
+Most ecologists see climate as the major explanation for the latitudinal gradient in biodiversity. And the two main climatic factors correlated with biodiversity are solar energy input and water availability. Solar energy is the source of both light and heat, two variables that impact the growth of vegetation. The water factor includes both precipitation and humidity.
+
+One way to integrate the energy and water factors of climate is to measure the rate of a community's evapotranspiration, the evaporation of water from soil plus the transpiration of water from plants (see Chapter 36). Evapotranspiration is much higher in hot areas with abundant rainfall than in areas with low temperatures or low precipitation. The species richness of both plants and animals correlates with evapotranspiration (FIGURE 53.24).
+
+
+
+Click image to enlarge
+
+
+
+Fig 53-24. Energy and species richness. Species richness of (a) trees and (b) vertebrates from North America are related to annual available energy at each site, measured by evapotranspiration (which combines solar radiation and temperature). The evapotranspiration values are expressed as their rainfall equivalents in millimeters per year.
+
+
+
+

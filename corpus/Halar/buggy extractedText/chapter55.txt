@@ -1,0 +1,662 @@
+
+Chapter 55: CONSERVATION BIOLOGY
+
+THE BIODIVERSITY CRISIS
+
+   The three levels of biodiversity are genetic diversity, species diversity, and ecosystem diversity
+
+   Biodiversity at all three levels is vital to human welfare
+
+   The four major threats to biodiversity are habitat destruction, introduced species, overexploitation, and food chain disruptions
+
+
+
+CONSERVATION AT THE POPULATION AND SPECIES LEVELS
+
+   According to the small-population approach, a population's small size can draw it into an extinction vortex
+
+   The declining-population approach is a proactive conservation strategy for detecting, diagnosing, and halting population declines
+
+   Conserving species involves weighing conflicting demands
+
+
+
+CONSERVATION AT THE COMMUNITY, ECOSYSTEM, AND LANDSCAPE LEVELS
+
+   Edges and corridors can strongly influence landscape biodiversity
+
+   Conservation biologists face many challenges in setting up protected areas
+
+   Nature reserves must be functional parts of landscapes
+
+   Restoring degraded areas is an increasingly important conservation effort
+
+   The goal of sustainable development is reorienting ecological research and challenging all of us to reassess our values
+
+   The future of the biosphere may depend on our biophilia
+
+Biology is the science of life. Thus, it is fitting that our final chapter be about preserving life. Conservation biology is a goal-oriented science that seeks to counter the biodiversity crisis, the current rapid decrease in Earth's great variety of life.
+
+To date, scientists have described and formally named about 1.5 million species of organisms. We can only estimate how many more currently exist. Some biologists believe that the number is about 10 million, but others estimate it to be between 30 million and 80 million. Some of the greatest concentrations of species are found in the tropics, where the scene in the photograph on this page is commonplace: tropical forests (such as the one in Ecuador shown here) being destroyed at an alarming rate to make room for and support a burgeoning human population.
+
+Throughout the biosphere, human activities are altering trophic structures, energy flow, chemical cycling, and natural disturbance--ecosystem processes on which we and other species depend. The amount of human-altered land surface is approaching 50% , and we use over half of all accessible surface fresh water. In the oceans, stocks of many fishes are being depleted by overharvest, and some of the most productive and diverse areas, such as coral reefs and estuaries, are being severely stressed. By some estimates, we are in the process of doing more damage to the biosphere and pushing more species toward extinction than the large asteroid that seems to have triggered the mass extinctions at the close of the Cretaceous period 65 million years ago (seeFIGURE 25.6). Globally, the rate of species loss may be as much as 1,000 times higher than at any time in the past 100,000 years.
+
+In this chapter, we take a closer look at the biodiversity crisis and at the science of conservation biology. We will examine some of the research and conservation strategies biologists are using in attempts to slow the rate of species loss. Along the way, we will see that conservation biology relies on research at all levels of ecology, from populations to ecosystems and landscapes.
+
+
+
+
+
+THE BIODIVERSITY CRISIS
+
+ 
+
+ The three levels of biodiversity are genetic diversity, species diversity, and ecosystem diversity
+
+
+
+ 
+
+ Biodiversity at all three levels is vital to human welfare
+
+
+
+ 
+
+ The four major threats to biodiversity are habitat destruction, introduced species, overexploitation, and food chain disruptions
+
+
+
+Extinction is a natural phenomenon that has been occurring almost since life first evolved; it is the current rate of extinction that underlies the biodiversity crisis. Because we can only estimate the number of species currently existing, we cannot determine the actual rate of species loss or the real magnitude of the biodiversity crisis. We do know for certain that we are experiencing a high rate of species extinction caused by an escalating rate of ecosystem degradation by a single species--Homo sapiens. Conservation biology is about trying to understand what is happening to biodiversity, why it is happening, and what we can do about it.
+
+
+
+
+
+CONSERVATION AT THE POPULATION AND SPECIES LEVELS
+
+ 
+
+ According to the small-population approach, a population's small size can draw it into an extinction vortex
+
+
+
+ 
+
+ The declining-population approach is a proactive conservation strategy for detecting, diagnosing, and halting population declines
+
+
+
+ 
+
+ Conserving species involves weighing conflicting demands
+
+
+
+Among biologists focusing on conservation at the population and species levels, there are two main approaches, which we will call the small-population approach and the declining-population approach.
+
+
+
+
+
+CONSERVATION AT THE COMMUNITY, ECOSYSTEM, AND LANDSCAPE LEVELS
+
+ 
+
+ Edges and corridors can strongly influence landscape biodiversity
+
+
+
+ 
+
+ Conservation biologists face many challenges in setting up protected areas
+
+
+
+ 
+
+ Nature reserves must be functional parts of landscapes
+
+
+
+ 
+
+ Restoring degraded areas is an increasingly important conservation effort
+
+
+
+ 
+
+ The goal of sustainable development is reorienting ecological research and challenging all of us to reassess our values
+
+
+
+ 
+
+ The future of the biosphere may depend on our biophilia
+
+
+
+Most preservation efforts in the past have focused on saving endangered species, but today, conservation biology increasingly aims to sustain the biodiversity of entire communities and ecosystems. On a broader scale yet, the principles of community and ecosystem ecology are being brought to bear on studies of the biodiversity of whole landscapes. In an ecological sense, a landscape is a regional assemblage of interacting ecosystems, such as a forest or forest patches, adjacent open fields, wetlands, streams, and streamside (riparian) habitats.
+
+Landscape ecology is the application of ecological principles to the study of human land-use patterns. Understanding landscape dynamics is critically important in conservation because many species use more than one kind of ecosystem, and many live on the borders between ecosystems. The goal of landscape ecology, of which ecosystem management is part, is to understand patterns of landscape use in the past, present, and foreseeable future and to make biodiversity conservation a functional part of the picture. Such a broad view requires understanding community and ecosystem ecology as well as human population dynamics and economics.
+
+
+
+
+
+ The three levels of biodiversity are genetic diversity, species diversity, and ecosystem diversity
+
+Biodiversity--short for biological diversity--has three main components, or levels (FIGURE 55.1).
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-1. Three levels of biodiversity. (The oversized chromosomes in the voles symbolize the genetic variation within the population.)
+
+Loss of Genetic Diversity
+
+The first level of biodiversity is genetic variation. In addition to the individual variation within a population, there is also genetic variation between populations, associated with adaptations to local conditions (see Chapter 23). If one local population becomes extinct, then a species has lost some of the genetic diversity that makes adaptation possible. This erosion of genetic diversity is, of course, detrimental to the overall adaptive prospects of the species. But the loss of genetic diversity throughout the biosphere also has implications for human welfare. For example, wild populations of plants closely related to our agricultural species are genetic resources for improving certain crop qualities through plant breeding.
+
+Loss of Species Diversity
+
+The second level of biodiversity is the variety of species in an ecosystem or throughout the entire biosphere--what we called species richness in Chapter 53. Much of the popular and political discussion of the biodiversity crisis centers on species. The U.S. Endangered Species Act (ESA) defines an endangered species as one that is "in danger of extinction throughout all or a significant portion of its range." Also defined for protection by the ESA, threatened species are those that are likely to become endangered in the foreseeable future throughout all or a significant portion of their range.
+
+Here are just a few examples of why conservation biologists are so concerned about species loss:
+
+According to the International Union for Conservation of Nature and Natural Resources (IUCN), 13%  of the 9,040 known bird species in the world are threatened with extinction. That's 1,183 species! In the past 40 years, population densities of migratory songbirds in the mid-Atlantic United States dropped 50% .
+
+A recent survey conducted by the Center for Plant Conservation showed that of the approximately 20,000 known plant species in the United States, 200 species have become extinct since such records have been kept. Another 730 plant species in the United States are endangered or threatened with extinction.
+
+About 20%  of the known freshwater fishes in the world have either become extinct during historical times or are seriously threatened. One of the largest rapid extinction events yet recorded is the ongoing loss of freshwater fishes in Lake Victoria in East Africa. About 200 of the 300 species of cichlids in the lake have been lost, mainly as a result of the recent introduction by Europeans of an exotic predator, the Nile perch.
+
+Since 1900, 123 freshwater vertebrate and invertebrate species have become extinct in North America, and hundreds more species are threatened. Extinction rates for North American freshwater fauna are about five times higher than those for terrestrial animals. About 4%  of the known freshwater species will become extinct each decade unless habitat loss and degradation are reversed.
+
+Harvard biologist Edward O. Wilson has compiled what he grimly calls the Hundred Heartbeat Club. The species that belong are those animals that number fewer than 100 individuals and so are only that many heartbeats away from extinction (FIGURE 55.2).
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-2. A hundred heartbeats from extinction. These are just three of the many members of what E. O. Wilson calls the Hundred Heartbeat Club, species with fewer than 100 individuals remaining on Earth.
+
+Several researchers estimate that at the current rate of destruction, over half of all plant and animal species will be gone by the end of this new century.
+
+Extinction of species may be local; for example, a species may be lost in one river system but survive in an adjacent one. Global extinction of a species means that it is lost from all its locales. Extinction is often an unseen process. To know for certain that a given species is extinct, we must know its exact distribution. But millions of the world's species have not even been identified. Arthropods (especially insects), nematodes, fungi, protists, and prokaryotes head the list of taxa with great numbers of undiscovered species. But even well-studied taxa, such as birds and mammals, are not completely known. In the past decade, scientists have increased the list of known mammals by about 15% . Without a more complete catalog of species diversity and knowledge of the geographic distribution and ecological roles of Earth's species, our efforts to understand the structure and function of ecosystems on which our survival depends will remain incomplete.
+
+Loss of Ecosystem Diversity
+
+The variety of the biosphere's ecosystems is the third level of biological diversity. Within each ecosystem, the biological community has a network of interactions among populations of different species. The local extinction of one species--say, a keystone predator--can have a negative impact on the overall species richness of the community (see FIGURE 53.14). More broadly, each ecosystem can have an important impact on the whole biosphere. Be it a rain forest, peat bog, or expanse of open ocean, an ecosystem has characteristic patterns of energy flow and chemical cycling. For example, the productive "pastures" of phytoplankton in the oceans may help moderate the greenhouse effect by consuming massive quantities of CO2 for photosynthesis and for building shells made of bicarbonate.
+
+Some ecosystems are being erased from Earth at an astonishing pace. For example, the cumulative area of all tropical rain forests on the planet is about the size of the 48 contiguous United States, and we lose an area equal to the state of West Virginia each year.
+
+The biodiversity crisis is most often equated to species extinctions, but conservation biologists now realize that the disappearance of a species is often the result of losses in diversity at other levels, including the loss of genetic diversity and ecosystem diversity.
+
+
+
+
+
+ Biodiversity at all three levels is vital to human welfare
+
+Why should we care about the loss of biodiversity? Perhaps the purest reason is what E. O. Wilson calls biophilia, our sense of connection to nature and other forms of life. The concept that other species are important and should be protected is a pervasive theme of many religions and the basis of the moral argument that we should protect biodiversity. There is also a concern for future human generations. Do we have the right to deprive them of Earth's species richness? Paraphrasing an old Chinese proverb, G. H. Brundtland, former prime minister of Norway, put it this way: "We must consider our planet to be on loan from our children, rather than being a gift from our ancestors."
+
+Benefits of Species Diversity and Genetic Diversity
+
+In addition to the aesthetic and ethical reasons for preserving biodiversity, there are practical reasons as well. Biodiversity is a crucial natural resource, and species that are threatened could provide crops, fibers, and medicines for human use. In the United States, 25%  of all prescriptions dispensed from pharmacies contain substances derived from plants. For example, in the 1970s, researchers discovered that the rosy periwinkle from Madagascar contains alkaloids that inhibit cancer cell growth (FIGURE 55.3). The result of this discovery is remission for most victims of two potentially deadly forms of cancer, Hodgkin's disease and a childhood leukemia. There are five other species of periwinkles on Madagascar, and one is approaching extinction.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-3. The rosy periwinkle (Catharanthus roseus): a plant that saves lives. Before alkaloids that inhibit cancer cell growth were discovered in the rosy periwinkle over 20 years ago, Hodgkin's disease and acute lymphocytic leukemia were two of the deadliest cancers. Now most victims are cured. This plant is one of hundreds used to treat human diseases.
+
+The loss of species also means the loss of genes. Each species has certain unique genes, and biodiversity represents the sum of all the genomes of all organisms on Earth. Because many millions of species may become extinct before we even know about them, we stand to lose irretrievably the valuable genetic potential held in their unique libraries of genes.
+
+Recently, U.S. National Park Service officials have been negotiating with private industry to sell samples of extremophilic prokaryotes from the numerous hot springs in Yellowstone National Park. The corporations anticipate using DNA extracted from the prokaryotes to mass-produce commercially useful enzymes. Consider the historical example of the polymerase chain reaction (PCR), the gene-cloning technology based on an enzyme extracted from thermophilic prokaryotes from hot springs (see FIGURE 20.7). Many researchers and industry officials are enthusiastic about the potential that such "bioprospecting" holds for the future development of new medicines, foods, petroleum substitutes, industrial chemicals, and other important products.
+
+Ecosystem Services
+
+The benefits that individual species provide to humans are often substantial, but saving individual species is only part of the rationale for saving ecosystems. Humans evolved in Earth's ecosystems, and our bodies are finely adjusted to these systems. While it is possible to survive in a world with considerably less biodiversity, it is important to realize that humans are dependent on ecosystems and on interactions with other species. By allowing the extinction of species and the degradation of habitats to continue, we risk our own species' survival.
+
+In the urban and suburban settings in which most of us live today, it is easy to lose sight of the vital ecosystem services on which we depend. Ecosystem services encompass all the processes through which natural ecosystems and the species they contain help sustain human life on Earth. Here are just a few of these ecosystem services:
+
+Purification of air and water
+
+Reduction of the severity of droughts and floods
+
+Generation and preservation of fertile soils
+
+Detoxification and decomposition of wastes
+
+Pollination of crops and natural vegetation
+
+Dispersal of seeds
+
+Nutrient cycling
+
+Control of many agricultural pests by natural enemies
+
+Protection of coastal shores from erosion
+
+Protection from ultraviolet rays
+
+Moderation of weather extremes
+
+Provision of aesthetic beauty
+
+Human life would cease without these ecosystem services; and yet we generally undervalue them, perhaps because we don't attach a monetary value to them.
+
+In a 1997 article, ecologist Robert Costanza and colleagues attempted to put a dollar figure on ecosystem services. Their bottom-line estimate was $33 trillion per year, nearly twice as much as the gross national product of all the countries of the globe ($18 trillion). It is, of course, difficult to speculate about the dollar value of ecosystem services. Perhaps it is more realistic to do the accounting on a small scale. What, for example, is the true price of building a dam or clear-cutting a patch of forest if we include the dollar loss of ecosystem services in the cost column?
+
+One large-scale experiment illustrates how little we understand about ecosystem services. Biosphere II, in Oracle, Arizona, was an attempt to create a closed ecosystem covering 1.27 ha (3.1 acres). Benefactors curious about the outcome invested over $200 million to build the giant airtight terrarium (FIGURE 55.4). Biosphere II had a forest with soil, a miniature ocean, and several other "ecosystems." In 1991, with much fanfare, eight people entered Biosphere II for what was supposed to be two years of isolated habitation. But the artificial biosphere failed, and the experiment had to be stopped after 15 months. Oxygen concentration dropped to 65%  of Earth's atmospheric O2 concentration, and CO2 concentration fluctuated wildly. Most of the vertebrate species became extinct in Biosphere II, and all of the pollinators died. There were population explosions of cockroaches and other pests. But in a sense, the experiment was not a failure, for it taught us that no one yet knows how to engineer a system that can provide humans with all the life-support services that natural ecosystems produce for free.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-4. What scientists learned about ecosystem services from the world's largest terrarium. Biosphere II, in Arizona, covers an area the size of two football fields. The eight biospherians who entered the container in 1991 all had to abandon Biosphere II within 15 months. An investment of over $200 million was not enough to create a system that provides all the ecosystem services required to sustain human life. In fact, a greater appreciation for the pricelessness and complexity of ecosystem services and the biodiversity that provides them was perhaps the most important lesson from Biosphere II.
+
+
+
+
+
+ The four major threats to biodiversity are habitat destruction, introduced species, overexploitation, and food chain disruptions
+
+Habitat Destruction
+
+Human alteration of habitat is the single greatest threat to biodiversity throughout the biosphere. Massive destruction of habitats throughout the world has been brought about by agriculture, urban development, forestry, mining, and environmental pollution. The IUCN (see p. 1225) implicates destruction of physical habitat in 73%  of the species designated extinct, endangered, vulnerable, or rare.
+
+Though most studies have focused on terrestrial ecosystems, habitat loss also appears to be a major threat to marine biodiversity, especially on continental coasts and coral reefs. About 93%  of Earth's coral reefs, among the most species-rich aquatic communities, have been damaged by human activities. At the current rate of destruction, 40-50%  of the reefs could be lost in the next 30 to 40 years. About a third of the planet's marine fish species utilize coral reefs, which occupy only about 0.2%  of the ocean floor.
+
+In addition to habitat destruction over large regions, many natural landscapes have been fragmented, broken up into small patches (FIGURE 55.5). FIGURE 55.6 illustrates how forest areas in southern Wisconsin were fragmented over a 119-year period. Forest fragmentation is also occurring at a rapid rate in tropical forests. For example, tropical rain forest losses around Veracruz, Mexico, exceeded 85%  during the 20-year span from 1967 to 1987. Deforestation continued to proceed up from the lowlands, and by 2000, only 8%  of the original forest remained, in the form of an archipelago of small forest islands. Deforestation in this area is due mostly to clearing for cattle ranches. The human population of this region has more than doubled in the last 25 years.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-5. Fragmentation of a forest ecosystem. In this aerial photograph of Mt. Hood National Forest in the western United States, you can see the "islands" of coniferous forest that were created when much of the original forest was cut for timber.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-6. The history of habitat reduction and fragmentation in a Wisconsin forest. Between 1831 and 1950, more than 95%  of the original forest (green) in Cadiz Township was lost, and the remaining 5%  consisted of small fragments.
+
+In almost all cases, habitat fragmentation leads to species loss. The prairies of North America are a good example. Prairie covered about 800,000 ha of southern Wisconsin when Europeans first arrived, but now occupies less than 0.1%  of its original area. Plant diversity surveys of 54 Wisconsin prairie remnants were conducted in 1948-1954 and then repeated in 1987-1988. During the few decades between surveys, the prairie fragments lost between 8%  and 60%  of their plant species, depending on the fragment.
+
+Introduced Species
+
+Ranking second behind habitat loss as a cause of the biodiversity crisis, introduced species have probably contributed to about 40%  of the extinctions recorded since 1750. Sometimes called exotic species, introduced species are those that humans move from the species' native locations to new geographic regions. (We discussed zebra mussels and Africanized bees in the United States in FIGURES 50.7 and 50.8.) In some cases, the introductions are intentional. For example, European red foxes were intentionally introduced to Australia in the late 1800s because of an interest in fox hunting. By preying on medium-sized native mammals, foxes have contributed to several of these mammals' becoming extinct. Another example, mentioned earlier, was the disastrous 1960s introduction of the Nile perch to Lake Victoria (FIGURE 55.7a, p. 1230). In other cases, humans transplant species accidentally. For instance, the brown tree snake was accidentally introduced to Guam as a "stowaway" in military cargo after World War II (FIGURE 55.7b). Since then, 12 species of birds and 6 lizard species on which the snakes prey have become extinct on Guam. All 18 of these species continue to live on Guam's small offshore islands, which the snake has not colonized. Intentional or not, introduced species that gain a foothold usually disrupt their adopted community, often by preying on native organisms or outcompeting native species for resources.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-7. A small sample of disastrous species introductions. (a) One of the largest freshwater fishes (up to 2 m long and weighing up to 450 kg), the Nile perch was introduced to Lake Victoria in East Africa to provide high-protein food for the growing human population. Unfortunately, the perch's main effect has been to wipe out about 200 smaller native species, reducing its own food supply to a critical level. (b) The brown tree snake, accidentally introduced to Guam at the end of World War II, has probably eliminated 18 species of birds and lizards in its new home. (c) Kudzu has invaded much of the U.S. South. (d) European starlings have displaced many native songbirds in North America. (e) Argentine ants are seen here ganging up on a red ant native to California. (f) In this underwater photo of a California lagoon, you can see an aquarium-bred, hyper-vigorous variety of the seaweed Caulerpa (in foreground) crowding out the native eelgrass.
+
+Humans have also introduced many species with the best of intentions. For example, the U.S. Department of Agriculture encouraged the import of a Japanese plant called kudzu to the American South in the 1930s to help control erosion, especially along irrigation canals. At first, the government paid farmers to plant kudzu vines. The enthusiasm for the new vines led to kudzu festivals in southern towns, complete with the crowning of kudzu queens. But kudzu celebrations ended decades ago as the invasive plant took over vast expanses of the southern landscape (FIGURE 55.7c). Another introduced plant called purple loosestrife is claiming over 200,000 acres of wetlands per year, crowding out native plants and the animals that feed on the native flora. The story is similar for the introduction to the United States of a bird called the European starling (FIGURE 55.7d). A citizens group intent on introducing all plants and animals mentioned in Shakespeare's plays imported 120 starlings to New York's Central Park in 1890 (the starling is mentioned in just one line of Shakespeare's Henry IV). From that foothold, starlings spread rapidly across North America. In less than a century, the population increased to about 100 million, displacing many of the native songbird species in the United States and Canada.
+
+The ease of travel by ships and airplanes has accelerated the transplant of species, especially unintentional introductions. For example, fire ants, which can inflict very painful beelike stings, reached the southeastern United States in the early 1900s from South America, probably in the hold of a produce ship. Fire ants have been extending their range northward and westward ever since. In Texas, for example, fire ants have apparently managed to eliminate about two-thirds of the native ant species. And another accidentally introduced ant species, the Argentine ant, is decimating populations of native ants in California (FIGURE 55.7e).
+
+An even more recent example of introduced species is the appearance in 2000 of an alga called Caulerpa in a California lagoon (FIGURE 55.7f). The small seaweed was probably introduced by someone dumping a home saltwater aquarium. Native to Caribbean waters, the California invader is a variety of the alga that has been domesticated and selectively bred as an aquarium alga for its vigor and resistance to disease and herbivores. An earlier invasion of the Mediterranean Sea by this super seaweed is displacing many of the native algae there, and the same thing could happen now all along the Pacific coast of North America.
+
+Introduced species are, of course, an international problem. But in the United States alone, there are at least 50,000 introduced species, with a cost to the economy of over $130 billion in damage and control efforts. And that does not include the priceless loss of native species.
+
+Overexploitation
+
+Overexploitation refers generally to the human harvesting of wild plants or animals at rates exceeding the ability of populations of those species to rebound. It is possible for overexploitation to endanger certain plant species, such as rare trees that produce valuable wood or some other commercial product. But overexploitation more often refers to the overhunting and overfishing of animals. Especially susceptible to overexploitation are large species with low intrinsic reproductive rates, such as elephants, whales, rhinoceroses, and other animals considered valuable by humans. Species on small islands are particularly vulnerable to extinction due to overexploitation. For example, by the 1840s, humans had overhunted the great auk, a large, flightless seabird, to extinction on islands in the Atlantic Ocean because of a demand for feathers, eggs, and meat (FIGURE 55.8).
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-8. The great auk (Pinguinis impennis). Endemic to islands in the North Atlantic Ocean, the great auk was hunted to extinction by 1844.
+
+The decline of the African elephant, the largest extant terrestrial animal, is a classic example of the impact of overhunting. African elephants take 10 to 11 years to reach sexual maturity, and then a fertile female has a single calf every 3 to 9 years. The potential rate of population increase is only about 6%  per year, a low growth rate. Elephant populations have been declining in most of Africa during the last 50 years. Only in South Africa have elephant populations been stable or increasing. Illegal hunting for ivory is the major cause of this collapse of elephant populations. When the price of ivory increased during the 1970s, the amount of poaching for ivory grew dramatically. Currently, there is a ban on ivory trade, but this is having little impact in central and eastern Africa, where poaching is rampant.
+
+Overfishing has dramatically reduced the population sizes of many commercially important fish species. Just over a century ago, British biologist T. H. Huxley declared, "Probably all the great sea fisheries are inexhaustible: that is to say that nothing we do seriously affects the number of fish." Huxley and his contemporaries grossly underestimated an increasing demand for protein by an exploding human population coupled with overexploitation made possible by new harvesting technologies, such as long-line fishing and modern trawlers. Many populations of fishes that humans consume have now been reduced to levels that cannot sustain further exploitation. The fate of the North Atlantic bluefin tuna is just one example. Until the past few decades, this big tuna was considered a sport fish of little commercial value--just a few cents per pound for cat food. Then, beginning in the 1980s, wholesalers began airfreighting fresh, iced bluefin to Japan for sushi and sashimi. In that market, the fish now brings up to $100 per pound (FIGURE 55.9). With that kind of demand, the results are predictable. It took just ten years to reduce the North American bluefin population to less than 20%  of its 1980 size. The collapse of the northern cod fishery off Newfoundland in the 1990s is a recent example of how it is even possible to overharvest what had been a very common species.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-9. North Atlantic bluefin tuna auctioned in a Japanese fish market. In spite of quotas, the high price that bluefin tuna brings may doom the species to extinction.
+
+Disruption of Food Chains
+
+Like falling dominoes, the extinction of one species can doom its predators. But this is likely only if the predator feeds exclusively on one species, which is a rare trophic arrangement. Certainly, host-specific parasites can become extinct if their host becomes extinct. But such extinctions have not been the subject of much research.
+
+Most of the evidence for secondary extinctions of larger organisms due to loss of prey is circumstantial. For example, the forest eagle of New Zealand, which preyed on large ground birds, became extinct around 1400 following the extinction of flightless birds called moas. After humans reached New Zealand around A.D. 1000, they probably hunted all 11 species of the large, tame moas to extinction. Although it is a reasonable hypothesis that the disappearance of the forest eagle was related to the loss of its main prey, we cannot be sure of a cause-and-effect relationship. Similarly, the decline of the black-footed ferret on the Great Plains of North America paralleled the decline of its main prey, prairie dogs. But other factors may have contributed to the decrease in ferret populations. Because most predators are not so specialized in the prey they'll eat, food chain disruption is probably less important as a cause of extinction than habitat destruction, introduced species, and overexploitation.
+
+Now that we have an overview of the biodiversity crisis and its causes, let's examine how conservation biologists hope to apply basic principles of evolutionary biology and ecology to slow the loss of biodiversity at its various levels.
+
+
+
+
+
+ According to the small-population approach, a population's small size can draw it into an extinction vortex
+
+A species is designated as endangered when its populations are very small. Conservation biologists who adopt the small-population approach study the processes that can cause very small populations to finally become extinct. In other words, it is a population's smallness itself that finally drives it to extinction after such factors as habitat loss have taken their toll on population size. At the center of this concept is the extinction vortex, a downward spiral unique to small populations. A small population is prone to positive feedback loops of inbreeding and genetic drift that draw the population down the vortex toward smaller and smaller population size until no individuals exist (FIGURE 55.10).
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-10. The extinction vortex of the small-population approach. Small populations can fall into a vortex of positive feedback loops leading to smaller and smaller population size.
+
+The key factor driving the extinction vortex is the loss of the genetic variation on which a population depends for adaptive evolution. Both inbreeding and genetic drift can cause a loss of genetic variation, and both of these processes intensify as a population shrinks (see Chapter 23 to review how genetic drift reduces genetic variation in a population).
+
+Not all populations are doomed by low genetic diversity. A number of plant species, such as the lousewort Pedicularis and several grasses, seem to have inherently low genetic variability. Furthermore, low genetic variability does not necessarily lead to permanently small populations. For example, overhunting of northern elephant seals in the 1890s reduced the species to only 20 individuals--clearly a bottleneck with reduced genetic variation. Since that time, however, the northern seal populations have rebounded to about 150,000 individuals today. Genetic variation in these populations remains relatively low. Among plants, many populations of cord grass (Spartina anglica), which thrives in saltmarshes, are genetically uniform at many loci. S. anglica arose from a few parent plants only about a century ago by hybridization and allopolyploidy (see FIGURE 24.15). Having spread by cloning, this species now dominates large areas of tidal mudflats in Europe and Asia. Thus, in some cases, low genetic diversity is associated with population expansion rather than decline. But these cases may stand out precisely because they are so unusual. Thus, conservation biologists have good reason to be concerned about very small populations with low genetic variation.
+
+How Small Is Too Small for a Population?
+
+How small does a population have to be before it starts down the extinction vortex? The answer depends on the type of organism and several other factors and must be evaluated case by case. For example, large predators that feed high on the food chain usually require very large individual ranges, resulting in very low population densities. Thus, not all rare species concern conservation biologists. But whatever the number, most populations presumably require some minimum size to remain viable.
+
+Minimum Viable Population Size (MVP). At some minimal population size, rare species will be able to sustain their numbers and survive. That number is the minimum viable population size (MVP). For a given species, MVP is usually estimated using computer models that integrate many factors. For example, the calculation may include an estimate for how many individuals in a small population are likely to be killed by some natural catastrophe such as fire or flood. Once in the extinction vortex, two or three bad weather years in a row could finish off a population that is already below MVP.
+
+Conservation biologists factor a population's MVP into what is called the population viability analysis (PVA). The objective of the analysis is to make a reasonable prediction of a population's chances for survival, usually expressed as a certain probability of survival (for example, a 99%  chance of survival) over a particular time (for instance, 100 years).
+
+Effective Population Size (Ne). Genetic variation is the key issue in the small-population approach. The total size of a population may be misleading because only certain members of the population breed successfully and pass their genetic alleles on to offspring. Therefore, a meaningful estimate of MVP requires the researcher to determine the effective population size, which is based on the breeding potential of the population. The following formula incorporates the sex ratio of breeding individuals into the estimate of effective population size, abbreviated Ne:  where Nf and Nm are, respectively, the numbers of females and males that successfully breed. Applying this formula to an idealized population whose total size is 1,000 individuals, Ne will also be 1,000 if every individual breeds and the sex ratio is 500 females to 500 males. In this case, Ne = (4 &#160;X&#160; 500 &#160;X&#160; 500)/(500 + 500) = 1,000. Deviation from these conditions (not all individuals breed and/or there is not a 50:50 sex ratio) reduces Ne. For instance, if the total population size is 1,000 but only 400 females breed with 400 males, then Ne = (4 &#160;X&#160; 400 &#160;X&#160; 400)/(400 + 400) = 800, or 80%  of the total population size.
+
+In actual study populations, Ne is always some fraction of the total population. Thus, simply censusing a small population--determining the total number of individuals--does not provide a good measure of whether the population is large enough to avoid extinction. Whenever possible, conservation programs are geared to sustain total population sizes that include, at least, the minimum viable number of reproductively active individuals. Numerous life history traits can influence Ne, and alternate formulas for estimating Ne take into account family size, maturation age, genetic relatedness among population members, the effects of gene flow between geographically separated populations, and population fluctuations.
+
+Remember that the conservation goal of sustaining effective population size (Ne) above minimum viable population size (MVP) stems from the concern that populations retain enough genetic diversity to be evolutionarily adaptable. Populations with low Ne are prone to inbreeding, reduced heterozygosity, and the random effects of genetic drift and bottlenecking (see Chapter 23). The basic premise of the small-population approach will seem less abstract in light of three case studies.
+
+Case Study: The Greater Prairie Chicken and the Extinction Vortex
+
+When Europeans arrived in North America, the greater prairie chicken (Tympanuchus cupido) was common from New England to Virginia and all across the western prairies of the United States and Canada. Agriculture later fragmented the populations of the greater prairie chicken in the central and western states and provinces. For example, in Illinois alone, greater prairie chickens numbered in the millions in the 19th century but declined to 25,000 birds by 1933. And by 1993, the Illinois population of prairie chickens was down to only 50, though large populations remained in Kansas, Minnesota, and Nebraska.
+
+Researchers found that the decline in the Illinois prairie chicken population was associated with a decrease in the hatching rate of eggs. Was this due to low levels of genetic diversity? By comparing DNA samples from the endangered Illinois population with DNA extracted from feathers in museum specimens collected earlier, the biologists confirmed that genetic variation had indeed declined in their study population in Jasper County, Illinois. As a further test of the extinction vortex hypothesis, the scientists imported genetic variation by transplanting birds from the larger populations in Kansas, Minnesota, and Nebraska. Over a five-year period ending in 1997, the researchers moved over 270 greater prairie chickens into their study site in Jasper County (FIGURE 55.11). The viability of eggs rapidly improved, and the population rebounded. The researchers concluded that the Jasper County population of prairie chickens was on its way down the extinction vortex until rescued by a transfusion of genetic variation from other populations.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-11. The decline of the greater prairie chicken (Tympanuchus cupido) in central Illinois from 1970 to 1997. The population collapse was mirrored in a reduction in fertility. In 1992, researchers began experimental translocations (blue arrow) of prairie chickens from Minnesota, Kansas, and Nebraska in an attempt to increase genetic variability. The population rebounded strongly.
+
+Case Study: Population Viability Analysis for Two Popular Herbs
+
+For his doctoral dissertation in environmental sciences in 1994 at the University of Quebec, Patrick Nantel presented a population viability analysis of two edible herbaceous plants, American ginseng (Panax quinquefolius) and wild leek (Allium tricoccum). These perennial herbs are found in deciduous forest communities in eastern North America (FIGURE 55.12), and both plants are at risk of extinction. The key factors in their decline are destruction and fragmentation of habitat and overharvesting by people who collect the herbs for food. Extinction has already claimed some populations of the two plants. Nantel's PVA for surviving populations in southeastern Canada incorporated data on trends in the numbers of individuals capable of reproducing in two-, three-, and four-year periods. Computer simulations projected the likely effect of environmental influences on these populations. Minimum viable population sizes generated by these computer models were about 170 ginseng plants and between 300 and 1,030 leek plants. There are only about 20 known ginseng populations in Canada having more than 170 individuals, and leek populations of more than a few hundred are rare. Thus, most populations of American ginseng and wild leek in Canada are currently too small to persist unless completely protected from harvesting by humans. Nantel's work is an example of the increasing use of predictive models in planning conservation strategy.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-12. Two species of edible plants whose persistence is threatened by habitat loss and overharvesting.
+
+Case Study: Analysis of Grizzly Bear Populations
+
+Mark Shaffer, currently with the Wilderness Society, performed one of the first population viability analyses as part of a long-term study of grizzly bears (Ursus artos) in Yellowstone National Park and its surrounding areas (FIGURE 55.13). Grizzly bears require very large areas of habitat. For instance, estimates of the grizzly's minimum habitat needs in western Canada are about 5 million ha for a population of 50 individuals and about 200 million ha for 1,000 individuals. A threatened species in the United States, the grizzly is currently found in only 4 of the 48 contiguous states. Its populations in those states have been drastically reduced and fragmented: In 1800, an estimated 100,000 grizzlies ranged over about 500 million ha of more or less continuous habitat, while today there are six virtually isolated populations totaling about 1,000 individuals with a total range of less than 5 million ha. The Yellowstone population is the largest, with about 200 bears in an area of about 1 million ha.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-13. Long-term monitoring of a grizzly bear population. The ecologist is fitting this tranquilized bear with a radiotransmitter so that its movements can be tracked and compared with other individuals in the Yellowstone National Park population.
+
+Attempting to determine viable sizes for the U.S. grizzly populations, Shaffer used life history data obtained for individual Yellowstone bears over a 12-year period and simulated the effects of environmental factors on survival and reproduction. His models predicted that a total grizzly bear population of 70 to 90 individuals in suitable habitat will have about a 95%  chance of surviving for 100 years. Achieving a 99%  chance of survival for a century or a 95%  chance for 200 years requires enough habitat to support at least 100 bears. Because of habitat limitations, however, recovery targets--the specific goals mandated by the Endangered Species Act--for several of the U.S. populations have been tentatively set at fewer than 100 bears. In such cases, biologists are hopeful that the small populations can be sustained by careful monitoring and special protective measures.
+
+Concerned that policy decisions have been made without information on potential losses of genetic variability in grizzly bear populations, Fred Allendorf and his co-workers at the University of Montana developed a computer model that augmented Shaffer's work. Using detailed life history and kinship data from individual bears for populations in Montana, Wyoming, and British Columbia, Allendorf's model estimated that the effective population size (Ne) of grizzly populations is only about 25%  of the total population size. Usually, only a few dominant males breed, and locating females may be difficult, since individuals inhabit such extensive areas. Moreover, females may reproduce only when there is abundant food. Thus, even the relatively large Yellowstone population of 200 bears has an effective population size of only 50, a level that might lead to a loss of genetic variability and possibly fitness. Effective population size could be increased if there was migration between isolated populations of grizzlies. Computer models predict that introducing only two unrelated bears each decade into populations of 100 individuals would reduce the loss of genetic variation by about half. For the grizzly bear, and probably for many other species whose populations are very small, finding ways to promote dispersal among populations may be one of the most urgent conservation needs.
+
+The three case studies we have examined bridge small-population theory to practical applications in conservation. Next, we look at an alternative approach to understanding the biology of extinction.
+
+
+
+
+
+ The declining-population approach is a proactive conservation strategy for detecting, diagnosing, and halting population declines
+
+We saw that the small-population approach emphasizes minimum viable population size and the extinction vortex as ways to understand the extinction process. There are, of course, interventions based on small-population theory, including introducing genetic variation from one population to another. But the declining-population approach is even more action oriented, focusing on threatened and endangered populations even if they are far greater than minimum viable size. To conservation biologists who lean toward this approach, a downward trend in a species may be cause for alarm and, when possible, corrective action.
+
+The distinction between a declining population (which may be small) and a small population (which may be declining) is less important than the different priorities of the two basic conservation approaches. Practitioners of both the small-population and declining-population approaches recognize that most modern extinctions are due to the human factors of habitat destruction, introduced species, and overexploitation. But the small-population approach emphasizes smallness itself as an ultimate cause of a population's extinction, especially through loss of genetic diversity. In contrast, the declining-population approach emphasizes the environmental factors that caused a population decline in the first place. If, for example, an area is deforested, then species that depend on trees will decline and become locally extinct, whether or not they retain genetic variation.
+
+The declining-population approach requires that population declines be evaluated on a case-by-case basis, with researchers carefully dissecting the causes of a decline before recommending or trying corrective measures. If, for example, the biological magnification of a particular toxic pollutant is causing a decline in some top-level consumer such as a predatory bird, then only reduction or elimination of the poison in the environment can save that particular species. Rarely is the situation so straightforward, but there are procedures to help with even complex cases.
+
+Steps in the Diagnosis and Treatment of Declining Populations
+
+Like all scientific processes, analyses in conservation biology rarely follow exact formulas for investigation, but we can identify a series of logical steps that are common in the declining-population approach:
+
+Confirm that the species is presently in decline or that it was formerly more widely distributed or more abundant. This step requires assessment of population trends and distribution.
+
+Study the species' natural history to determine its environmental requirements. Existing research literature on the natural history of this or related species may help with this step.
+
+Determine all the possible causes of the decline. In listing all possible hypotheses for the decline, human activities that could contribute to losses may become evident, but hypotheses cannot be restricted to human causes. For example, a series of unusually harsh winters could cause local declines in populations of certain species.
+
+List the predictions of each hypothesis for the decline. Ideally, the investigation would emphasize contrasting predictions based on the different hypotheses (see Chapter 1).
+
+Test the most likely hypothesis first, designing an experiment to determine if this factor is the main cause of the decline. Many factors may be correlated with the decline without being the direct cause. In the ideal experiment, researchers remove the suspected agent of decline to see if the experimental population rebounds relative to a control population. It may turn out that there are multiple causes of decline.
+
+Apply the results of this diagnosis to the management of the threatened species. This requires monitoring recovery until the problem of decline is resolved.
+
+As with our discussion of the small-population approach, the declining-population approach will seem less abstract in the context of a case study.
+
+Case Study: Diagnosing and Treating the Decline of the Red-Cockaded Woodpecker
+
+To practice conservation biology, we must understand the often subtle habitat requirements of an endangered species. The red-cockaded woodpecker (Picoides borealis) is an endangered, endemic species (found nowhere else) originally found throughout the southeastern United States. This species requires mature pine forests, preferably ones dominated by the longleaf pine. Such habitats have been destroyed or fragmented by logging and agriculture. Most woodpeckers nest in dead trees, but the red-cockaded woodpecker drills its nest holes in mature, living pine trees (FIGURE 55.14a). The heartwood (deep wood) of mature longleaf pines is usually rotted and softened by fungi, allowing the woodpeckers adequate space for nesting once they excavate into the heartwood. Red-cockaded woodpeckers also drill small holes around the entrance to their nest cavity, which causes resin from the tree to ooze down the trunk. The resin seems to repel certain predators, such as corn snakes, that eat bird eggs and nestlings.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-14. Habitat requirements of the red-cockaded woodpecker. (a) A red-cockaded woodpecker at the entrance to its nest site in a longleaf pine tree (b) Forest that can sustain red-cockaded woodpeckers has low undergrowth (c) Forest that cannot sustain red-cockaded woodpeckers has high, dense undergrowth that impacts the woodpeckers' access to feeding grounds
+
+Another critical habitat factor for this woodpecker is that the understory of plants around the pine trunks must be of low profile (FIGURE 55.14b). Breeding birds tend to abandon nests when vegetation among the pines is thick and higher than about 15 feet (FIGURE 55.14c). Apparently, the birds require a clear flight path between their home trees and the neighboring feeding grounds. Historically, periodic fires swept through longleaf pine forests, keeping the undergrowth low.
+
+The recent recovery of the red-cockaded woodpecker from near extinction to sustainable populations was achieved by recognizing the key habitat factors and protecting some longleaf pine forests that support viable numbers of the birds. The use of controlled fires to reduce forest undergrowth helps maintain mature pine trees as well as the woodpeckers.
+
+Designing a recovery program for the red-cockaded woodpecker was complicated by the social organization of this species. These birds live in groups of a breeding pair and up to four helpers, mostly males. Helpers do not breed but assist in incubating eggs and feeding nestlings. Some young birds disperse to new territories, but most remain behind as helpers to breeders. They may eventually attain breeding status when older birds die, but the wait may take years, and even then, helpers must compete to fill breeding vacancies. Young birds that disperse as members of new groups also have a tough path to reproductive success. New groups usually occupy abandoned territories or start at a new site and must excavate the cavities needed for nesting. This nest building can take several years. Individuals generally have a better chance of reproducing by remaining behind and competing when breeding vacancies open than by dispersing and excavating homes in new territories. Perhaps this behavioral feature contributed to the decline of the red-cockaded woodpecker.
+
+Ecologists tested the hypothesis that behavior constrains the ability of red-cockaded woodpecker populations to rebound by constructing cavities in pine trees at 20 sites in North Carolina. The results were dramatic: 18 of the 20 sites were colonized by red-cockaded woodpeckers, and new breeding groups formed only in areas where artificial cavities were drilled. The experiment supported the hypothesis that this woodpecker species was leaving much suitable habitat unoccupied because of an absence of breeding cavities. And the research informed a management strategy for reversing the decline of the red-cockaded woodpecker. A combination of controlled burning to clear understory vegetation and excavation of breeding cavities in unoccupied areas that provide good habitat has enabled a once endangered species to rebound. This example of the declining-population approach to conservation biology illustrates the need for case-by-case investigation of the factors contributing to a species' decline.
+
+
+
+
+
+ Conserving species involves weighing conflicting demands
+
+Determining population numbers and habitat needs is only part of the effort to save species. It is also necessary to weigh a species' biological and ecological needs against other conflicting demands. Conservation biology often highlights the relationship between science, technology, and society--one of the themes of this book. For example, an ongoing, sometimes bitter debate in the U.S. Pacific Northwest pits saving habitat for populations of the northern spotted owl, timber wolf, grizzly bear, and bull trout against demands for jobs in the timber, mining, and other resource extraction industries. Programs to restock wolves in Yellowstone and to bolster the populations of grizzly bears and other large carnivores are opposed by some recreationists concerned for their safety and by many ranchers concerned with potential losses of livestock.
+
+Large, high-profile vertebrates are not always the focal point in these conflicts, but habitat use is almost always at issue. Should work proceed on a new highway bridge if it destroys the only remaining habitat of a species of freshwater mussel? If you were the owner of a coffee plantation growing varieties that thrive in bright sunlight, do you think you would be willing to change to shade-tolerant coffee varieties that are less productive and less profitable but support large numbers of songbirds?
+
+In addition to questions about human habitat needs, another important factor to weigh is the ecological role of species. Because we will not be able to save every endangered species, we must determine which ones are most important for conserving biodiversity as a whole. Species do not exert equal influence on community and ecosystem processes. Some organisms, called keystone species, have disproportionately large impacts relative to their numbers (see Chapter 53). Some keystone species significantly modify habitats, creating diverse patches that support numerous other species. Keystone mutualists provide other species with nutrients, defense against predators and parasites, or, in the case of pollinators, the means to reproduce. Identifying keystone species and finding ways to sustain their populations can ensure the continuance of numerous other species and can be central to the survival of whole communities. Conservation must move beyond its preoccupation with single species like the northern spotted owl and look at the whole community and ecosystem as an important unit of biodiversity.
+
+
+
+
+
+ Edges and corridors can strongly influence landscape biodiversity
+
+The boundaries, or edges, between ecosystems (between a lake and the surrounding forest, for example, or between cropland and suburban housing tracts) and within ecosystems (such as roadsides and rock outcroppings) are defining features of landscapes (FIGURE 55.15). An edge has its own set of physical conditions, such as soil type, topography, and disturbance features, that differ from those on either side. For instance, the soil surface of an edge between a forest patch and a burned area receives more sunlight and is usually hotter and drier than the forest interior but cooler and wetter than the soil surface in the burned area. Blown-down trees are a common disturbance feature of forest edges, which are less protected from strong winds than are forest interiors.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-15. Edges between ecosystems. (a) Natural edges between ecosystems. In this landscape in Kakadu National Park in northern Australia, you can see edges of a dry forest, a rocky area with grassy islands, and a flat, grassy lakeshore. (b) Edges created by human activity. Human activities that degrade and fragment habitats often create edges that are more abrupt than those seen in natural landscapes. Pronounced edges (roads) surround clear-cuts in this photograph of a heavily logged rain forest in Malaysia.
+
+Associated with their specific physical features, edges also have their own communities of organisms. Some organisms thrive in edge communities because they require resources of the two adjacent areas. For instance, a bird called the ruffed grouse (Bonasa umbellatus) needs forest habitat for nesting, winter food, and shelter, as well as forest openings with dense shrubs and herbs for summer food. White-tailed deer also thrive in edge habitats, where they can browse on woody shrubs, and deer populations often expand when forests are logged.
+
+The proliferation of edge species can have positive or negative effects on a community's biodiversity. A recent study of edge communities in a tropical rain forest in Cameroon showed that these areas may be important sites of speciation. On the other hand, communities in which edges have proliferated as a result of human alterations often have reduced biodiversity owing to the preponderance of edge-adapted species. For example, populations of the brown-headed cowbird (Molothrus ater), an edge-adapted species that lays its eggs in the nests of other birds, are currently expanding in many areas of the western United States. Cowbirds forage in open fields on insects disturbed by or attracted to cattle and other large herbivores, but they need forests where they can parasitize the nests of other birds. Cowbird numbers are burgeoning where forests are being heavily cut and fragmented, creating more edge habitat and open land for cattle, horses, and sheep. Increasing cowbird parasitism and loss of habitat are correlated with declining populations of several of the cowbird's host species--migratory songbirds such as the yellow warbler, red-eyed vireo, and American redstart.
+
+Another important landscape feature, especially where habitats have been severely fragmented, is a movement corridor, a narrow strip or series of small clumps of quality habitat connecting otherwise isolated patches. Streamside habitats often serve as corridors, and government policy in some nations prohibits destruction of these riparian areas. In areas of heavy human use, artificial corridors are sometimes constructed. For example, highways bisect habitat patches required for survival of the few remaining Florida panthers (Felis concolor coryi). The state of Florida has erected high fences to reduce road kills and artificial corridors under highways to allow movement through protected areas for the panthers (FIGURE 55.16).
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-16. An artificial corridor. This pass under a highway allows movement between protected areas for the few remaining Florida panthers. High fences along the highway reduce road kills of panthers and other species.
+
+Movement corridors can promote dispersal and reduce inbreeding in declining populations. Corridors are especially important to species that migrate among different habitats seasonally. However, a corridor can also be harmful--as, for example, in the spread of disease, especially among small populations in closely situated habitat patches. The effects of corridors have not been thoroughly studied, and researchers tend to evaluate their potential impact on a case-by-case basis.
+
+
+
+
+
+ Conservation biologists face many challenges in setting up protected areas
+
+Conservation biologists are applying current ecological research in setting up reserves or protected areas to slow the loss of biodiversity. National parks are examples of such protected places. In choosing locations for protection and designing nature reserves, conservation biologists face many challenges. If a community is subject to fire, grazing, and predation, for example, should the reserve be managed to minimize the risks of these processes to endangered or threatened species? Or should the reserve be left as natural as possible, with such processes as fires ignited by lightning allowed to play out without any human intervention? This is just one of the debates that arise among people who share an interest in the health of national parks and other protected areas.
+
+Governments have set aside about 7%  of the world's land in various forms of reserves. How are these protected locations selected? Much of the focus has been on hot spots of biological diversity. A biodiversity hot spot is a relatively small area with an exceptional concentration of endemic species and a large number of endangered and threatened species. For example, nearly 30%  of all bird species are confined to only about 2%  of Earth's land area. And about 50,000 plant species, or 20%  of all known plant species, inhabit just 18 hot spots making up a total of only 0.5%  of the global land surface. Overall, the "hottest" of the biodiversity hot spots, including rain forests and dry shrublands (such as California's chaparral), total less than 1.5%  of Earth's land but are home to a third of all species of plants and vertebrates (FIGURE 55.17). Conservation biologists have also identified aquatic ecosystems, including certain river systems and coral reefs, as biodiversity hot spots.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-17. Some biodiversity hot spots. Only dry shrubland (such as chaparral) and tropical forest hot spots are mapped here.
+
+Biodiversity hot spots are obviously good choices for nature reserves. However, recognizing hot spots is not always straightforward. And even if all hot spots could be protected, that effort would fall woefully short of conserving the planet's biodiversity. One problem is that a hot spot for one taxonomic group, such as birds, may not be a hot spot for some other taxonomic group, such as butterflies. Designating an area as a biodiversity hot spot is often taxonomically biased toward saving vertebrates and plants, with less attention paid to invertebrates and microorganisms. Some biologists are also concerned that the hot-spot strategy focuses so much of the conservation effort on such a small fraction of Earth's land.
+
+As conservation biologists learn more about the requirements for achieving minimum viable population sizes for endangered species, it is becoming clear that most national parks and other reserves are far too small. For example, FIGURE 55.18 compares the boundaries of Yellowstone and Grand Teton National Parks with the actual area required to prevent extinction of grizzly bears. The biotic boundary, the area needed to sustain the grizzly, is more than ten times as large as the legal boundary, the actual area of the parks. Given political and economic realities, it is unlikely that many existing parks will be enlarged, and most new reserves will also be too small. Areas of private and public land surrounding reserves will have to contribute to the conservation of biodiversity. In particular, this means integrating how land is used for agriculture and forestry into conservation strategies.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-18. The legal and biotic boundaries for grizzly bears in Yellowstone and Grand Teton National Parks.
+
+
+
+
+
+ Nature reserves must be functional parts of landscapes
+
+Nature reserves are biodiversity islands in a sea of habitat degraded to varying degrees by human activity. It is important to realize, however, that protected "islands" are not isolated from their surroundings and that nonequilibrium ecology applies to nature reserves as well as the landscapes in which they are embedded.
+
+An earlier policy--that protected areas should be set aside to remain unchanged forever--was based on the old concept that ecosystems are balanced, self-regulating units. However, as we have discussed in Chapter 53, disturbance is a functional component of all ecosystems, and management policies that ignore natural disturbances or attempt to prevent them have generally proved to be self-defeating. For instance, setting aside an area of a fire-dependent community, such as a portion of a tallgrass prairie, chaparral, or dry pine forest, with the intention of saving it is unrealistic if periodic burning is excluded. Without the dominant disturbance, the fire-adapted species are usually outcompeted by other species, and biodiversity is reduced.
+
+Because human disturbance and fragmentation are increasingly common landscape features, patch dynamics, population dynamics, edges, and corridors are important in the design and management of protected areas. Unfortunately, there are many more questions than answers. For example, is it better to create one large preserve or a group of smaller preserves? One argument for extensive preserves is that large, far-ranging animals with low-density populations, such as the grizzly bear, require extensive habitats. In addition, more extensive areas have proportionately smaller perimeters than smaller areas and are therefore less affected by edges. An argument favoring smaller, disjunct preserves is that they may slow the spread of disease throughout a population. Often outweighing all other considerations, recent and ongoing land use by humans may largely dictate the size and shape of protected areas. Conservationists typically inherit the land that is useless for exploitation by agriculture or forestry.
+
+Several nations have adopted an approach to landscape management called zoned reserve systems. A zoned reserve is an extensive region of land that includes one or more areas undisturbed by humans surrounded by lands that have been changed by human activity and are used for economic gain. The key challenge of the zoned reserve concept is the development of a social and economic climate in the surrounding lands that is compatible with the long-term viability of the protected core area. These surrounding areas continue to be used to support the human population, but with regulations that prevent the types of extensive alterations likely to impact the protected areas. As a result, surrounding tracts of land serve as buffer zones against further intrusion into the undisturbed areas.
+
+The small Central American nation of Costa Rica has become a world leader in establishing zoned reserves. In exchange for reducing its international debt, the Costa Rican government established eight zoned reserves, called "conservation areas" (FIGURE 55.19). Costa Rica is making progress toward managing its zoned reserves, and the buffer zones provide a steady, lasting supply of forest products, water, and hydroelectric power and also support sustainable agriculture and tourism. An important goal is providing a stable economic base for people living there. As ecologist Daniel Janzen, a leader in tropical conservation, has said, "The likelihood of long-term survival of a conserved wildland area is directly proportional to the economic health and stability of the society in which that wildland is embedded." Destructive practices that are not compatible with long-term ecosystem conservation and from which there is often little local profit are gradually being discouraged. Such destructive practices include massive logging, large-scale single-crop agriculture, and extensive mining. Costa Rica looks to its zoned reserve system to maintain at least 80%  of its native species.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-19. Zoned reserves in Costa Rica.
+
+The continued high rate of human exploitation of ecosystems leads to the prediction that considerably less than 10%  of the biosphere will ever be protected as nature reserves. Sustaining biodiversity often involves working in landscapes that are almost entirely human dominated. For example, the Florida scrub jay, an endangered endemic species, inhabits dry scrub oak communities that have nearly been replaced by housing developments and citrus groves (FIGURE 55.20). Attempting to understand whether this species could coexist with human development, avian ecologist Reed Bowman, at the Archbold Biological Station in central Florida, examined scrub jay population viability across a gradient of human density. Unfortunately, housing developments, even if they contain some scrub habitats, turn out to be relatively poor environments for the jay. Bowman is now convinced that long-term survival of this bird depends on reserves of contiguous, intact scrub surrounded by areas where some natural vegetation remains--the zoned reserve concept applied to suburbia.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 55-20. An endangered, endemic species in its unique habitat. (a) The Florida scrub jay (Aphelocoma coerulescens) inhabits desertlike scrub communities in central Florida. (b) New housing developments and expanding citrus groves threaten this bird and the remaining fragments of its unique habitat. Ecologists at the Archbold Biological Station, a small reserve with a stable scrub jay population, have found that housing developments do not provide enough food (arthropods) for the jays and are associated with higher mortality of adults. Even if a housing development contains some scrub habitat, it is a difficult place for these birds to rear enough young to offset the increased death rate. Archbold researchers predict that the Florida scrub jay will survive only if reserves of intact oak scrub habitat are maintained and properly managed with prescribed fire.
+
+
+
+
+
+ Restoring degraded areas is an increasingly important conservation effort
+
+Eventually, some areas that are altered by human activity are abandoned. For instance, the soils of many tropical areas become unproductive and are abandoned less than five years after being cleared for farming. Mining activities may last for several decades, but the lands are then abandoned in a degraded state. Many ecosystems are also damaged inadvertently by the dumping of toxic chemicals or such mishaps as oil spills. These degraded habitats and ecosystems are increasing in area because the natural rates of recovery by successional processes are slower than the rate of degradation by human activities.
+
+A new subdiscipline of conservation biology called restoration ecology applies ecological principles in an effort to return degraded ecosystems to conditions as similar as possible to their natural, predegraded state. Restoration ecology seeks to reverse population and community declines. One basic assumption of restoration ecology is that most environmental damage is reversible. This optimism must be balanced by a second basic assumption--that communities are not infinitely resilient to damage.
+
+Biological communities can recover naturally from many types of disturbances through a series of restoration mechanisms that occur during the various stages of ecological succession (see Chapter 53). The amount of time required for such natural recovery is more closely related to the spatial scale of the disturbance than the type of disturbance: The larger the area disturbed, the longer the time frame for recovery. Whether the disturbance is natural or caused by humans seems to make little difference in this size-time relationship (FIGURE 55.21). One of the goals of restoration ecology is to identify the processes that most limit the speed of recovery so that those factors can be manipulated to reduce the time it takes for a community to bounce back from the impact of disturbances. Thus, understanding the specific characteristics of succession after each type of disturbance and for each type of ecosystem provides essential background for restoration ecologists.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-21. The size-time relationship for community recovery from natural (salmon-colored ellipses) and human-caused (white rectangles) disasters. Note that the scales are logarithmic. The aim of restoration ecology is to reduce the recovery time by manipulating ecological factors that slow recovery.
+
+Two key strategies in restoration ecology are bioremediation and augmentation of ecosystem processes. Bioremediation is the use of living organisms, usually prokaryotes, fungi, or plants, to detoxify polluted ecosystems (see Chapter 27). Some plants adapted to soils with heavy metals are capable of accumulating high concentrations of potentially toxic metals such as zinc, nickel, lead, and cadmium. Restoration ecologists can use these plants to revegetate sites degraded by mining and other human activities and then harvest the plants to recover the particular metals. A number of researchers are also focusing on the ability of certain prokaryotes and lichens to concentrate metals. Researchers in the United Kingdom recently discovered a lichen species that grows on soil polluted with uranium dust left over from mining. Useful as a biological monitor of uranium and potentially as a remediator, the lichen concentrates uranium in a dark pigment similar to melanin in human skin. And several extremeophilic bacteria and archaea thrive in natural environments similar to industrially polluted sites. Restoration ecologists have achieved some success in using the bacterium Pseudomonas, supplied with growth stimulants, to clean up oil spills on beaches. More common still is the use of certain prokaryotes to metabolize toxins in dump sites. Genetic engineering may become increasingly important as a tool for improving the performance of certain species as bioremediators.
+
+In contrast to bioremediation, which is a strategy for removing harmful substances, biogiocal augmentation uses organisms to add essential materials to a degraded ecosystem. Augmenting ecosystem processes requires determining what factors, such as chemical nutrients, have been removed from an area and are limiting its rate of recovery. Encouraging the growth of plants that thrive in nutrient-poor soils often speeds up the rate of successional changes that can lead to recovery of damaged sites. Ariel Lugo, director of the U.S. Forest Service's Institute of Tropical Forestry in Puerto Rico, has evidence of a positive effect of an introduced plant species on the recovery of native vegetation (FIGURE 55.22). Thriving on nitrogen-poor soils, the leguminous plant Albizzia procera, exotic in Puerto Rico, helps set the stage for recolonization by native tropical forest species.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-22. Restoration of degraded roadsides in the tropics. Forest ecologist Ariel Lugo has monitored rapid regrowth of indigenous communities along roadsides in Puerto Rico. An exotic plant, Albizzia procera (shown here), which thrives on nitrogen-poor soils, first colonized these sites after the original forest was removed and soils were depleted of nutrients. Apparently, the rapid buildup of organic material from dense stands of Albizzia enabled indigenous plants to recolonize the area and overgrow the exotic plant in a relatively brief time.
+
+To date, the most extensive and successful restoration projects have been in marginally disturbed wetlands in landscapes where biodiversity has not been greatly depleted. In these projects, restoring the natural water flow patterns and replanting indigenous vegetation have led to recolonization by animal populations. Restoring viable populations of highly sensitive wetland species to heavily degraded wetlands is much more challenging, as are similar restoration efforts in most ecosystems.
+
+Because of the novelty of restoration science, the complexity of ecosystems, and the unique features of each situation, restoration ecologists usually must learn as they go. Many restoration ecologists advocate adaptive management, which is the use of the experimental method in trying several promising types of management to find out what works best. The key to adaptive management and the key to restoration ecology is to consider alternative ways of accomplishing goals and to learn from mistakes. The long-term objective of restoration is to speed the reestablishment of the predisturbance ecosystem. But a pragmatic initial goal is often to approximate the original ecosystem, which can be accomplished much sooner than complete restoration to the original state.
+
+
+
+
+
+ The goal of sustainable development is reorienting ecological research and challenging all of us to reassess our values
+
+Facing increasing loss and fragmentation of habitats, how can we best manage Earth's resources? If we are to conserve most of a nation's species, which habitat patches are most crucial? Among the limited choices, which areas are most practical to protect and manage if we are to save rare species or the greatest number of species?
+
+We must understand the complex interconnections of the biosphere if we are to make sensible decisions about how to conserve these networks. To this end, many nations, scientific societies, and private foundations have embraced the concept of sustainable development, the long-term prosperity of human societies and the ecosystems that support them. The forward-looking Ecological Society of America, the world's largest organization of professional ecologists, endorses a research agenda called the Sustainable Biosphere Initiative. The goal of this initiative is to define and acquire the basic ecological information necessary for the intelligent and responsible development, management, and conservation of Earth's resources. The research agenda includes studies of global change, including interactions between climate and ecological processes; biological diversity and its role in maintaining ecological processes; and the ways in which the productivity of natural and artificial ecosystems can be sustained. This initiative requires a strong commitment of human and economic resources.
+
+Sustainable development, of course, is not just about science. It depends on most of us reassessing our values. Those of us living in affluent developed nations are responsible for the greatest amount of environmental degradation. Reality demands that we distinguish what we need from what we want, learn to revere the natural processes that sustain us, and reduce our orientation toward short-term personal gain. The current state of the biosphere demonstrates that we are treading precariously on uncharted ecological ground and that the importance of our scientific and personal efforts cannot be overstated.
+
+Conservation science is an intersection of numerous facets of biology, including ecology, evolution, physiology, molecular biology, genetics, and behavior. Efforts to sustain ecosystem processes and stem the loss of biodiversity also connect life science with the social sciences, economics, and humanities. In fact, we'll end our book with a note of optimism based on our humanity.
+
+
+
+
+
+ The future of the biosphere may depend on our biophilia
+
+Despite the uncertainties about the future of the biosphere, now is not the time for gloom and doom but the time to reconnect with the rest of nature. Not many people today live in truly wild environments or even visit such places often. Our modern lives are very different from those of early humans, who hunted and gathered and painted wildlife murals on cave walls. But our behavior reflects remnants of our ancestral attachment to nature and the diversity of life--what Edward O. Wilson calls biophilia (FIGURE 55.23). Biophilia includes our sense of connection to diverse organisms and also our attraction to pristine landscapes with clean water and lush vegetation. We evolved in natural environments rich in biodiversity, and we still have an affinity for such settings. Wilson makes the case that our biophilia is innate, an evolutionary product of natural selection acting on a brainy species whose survival depended on a close connection to the environment and a practical appreciation of plants and animals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-23. Biophilia, past and present. (a) Art history goes way back--and so does our fascination with and dependence on biodiversity. A Cro-Magnon wildlife artist created this remarkable painting of rhinoceroses about 30,000 years ago. Three cave explorers found the painting in a prehistoric art gallery on Christmas Eve, 1994, when they ventured into a cavern near Vallon-Pont d'Arc, in southern France. (b) Biologist Carlos Rivera Gonzales, who is participating in a biodiversity survey in a remote region of Peru, could not resist a closer look at a tiny tree frog.
+
+It will come as no surprise that most biologists have embraced the concept of biophilia. After all, these are people who have turned their passion for nature into careers. But biophilia strikes a harmonic chord with biologists for another reason. If biophilia is evolutionarily embedded in our genomes, then there is hope that we can become better custodians of the biosphere. If we all pay more attention to our biophilia, a new environmental ethic could catch on among individuals and societies. And that ethic is a resolve never to knowingly allow a single species to become extinct or any ecosystem to be destroyed as long as there are reasonable ways to prevent such ecological violence. It is an environmental ethic that balances out another human trait--our tendency to "subdue Earth." Yes, we should be motivated to preserve biodiversity because we depend on it for food, medicine, building materials, fertile soil, flood control, habitable climate, drinkable water, and breathable air. But maybe we can also work harder to prevent the extinction of other forms of life just because it is the ethical thing for us to do as the most thoughtful species in the biosphere. Again, Wilson sounds the call: "Right now, we're pushing the species of the world through a bottleneck. We've got to make it a major moral principle to get as many of them through this as possible. It's the challenge now and for the next century. And there's one good thing about our species: We like a challenge!"
+
+It is appropriate that we end this textbook with biophilia, for biology is a scientific expression of our desire to know nature. We are most likely to save what we appreciate, and we are most likely to appreciate what we understand. By learning about the processes and diversity of life, we also become more aware of ourselves and our place in the biosphere. We hope this book serves you well in this lifelong adventure.
+
+
+
+

@@ -1,0 +1,834 @@
+
+Chapter 48: NERVOUS SYSTEMS
+
+AN OVERVIEW OF NERVOUS SYSTEMS
+
+   Nervous systems perform the three overlapping functions of sensory input, integration, and motor output
+
+   Networks of neurons with intricate connections form nervous systems
+
+
+
+THE NATURE OF NERVE SIGNALS
+
+   Every cell has a voltage, or membrane potential, across its plasma membrane
+
+   Changes in the membrane potential of a neuron give rise to nerve impulses
+
+   Nerve impulses propagate themselves along an axon
+
+   Chemical or electrical communication between cells occurs at synapses
+
+   Neural integration occurs at the cellular level
+
+   The same neurotransmitter can produce different effects on different types of cells
+
+
+
+EVOLUTION AND DIVERSITY OF NERVOUS SYSTEMS
+
+   The ability of cells to respond to the environment has evolved over billions of years
+
+   Nervous systems show diverse patterns of organization
+
+
+
+VERTEBRATE NERVOUS SYSTEMS
+
+   Vertebrate nervous systems have central and peripheral components
+
+   The divisions of the peripheral nervous system interact in maintaining homeostasis
+
+   Embryonic development of the vertebrate brain reflects its evolution from three anterior bulges of the neural tube
+
+   Evolutionarily older structures of the vertebrate brain regulate essential automatic and integrative functions
+
+   The cerebrum is the most highly evolved structure of the mammalian brain
+
+   Regions of the cerebrum are specialized for different functions
+
+   Research on neuron development and neural stem cells may lead to new approaches for treating CNS injuries and diseases
+
+The scanning electron micrograph on this page shows an unusual juxtaposition of the basic components of animal nervous systems and computers--a single nerve cell (a neuron) on the surface of a microprocessor. Your own nervous system, made of living neurons, is using processes vastly more complex than those of a computer as you read and comprehend these words. Indeed, the human nervous system is probably the most intricately organized aggregate of matter on Earth. A single cubic centimeter of the human brain may contain well over 50 million nerve cells, each of which may communicate with thousands of other neurons in information-processing networks that make the most elaborate computer look primitive. These neural pathways control our every feeling, perception, and movement and enable us to learn, remember, think, and be conscious of ourselves and our surroundings.
+
+The nervous system, endocrine system, and immune system often cooperate and interact in regulating internal body functions and behavior (see Chapters 43 and 45). In the maintenance of homeostasis, certain parts of the brain receive and process data about the body's internal environment and correct imbalances by sending out commands to other organs. Neural and endocrine pathways can also collaborate during responses to stress--enhancing or suppressing immune function, for example.
+
+Despite their structural and functional linkage, the nervous system and endocrine system play somewhat different roles in body coordination. With its incomparable structural complexity, the nervous system can integrate vast amounts of information, such as that required for human thought and speech. Timing can also be a key difference. The endocrine system may take minutes, hours, or even days to act, partly because of the time it takes for hormones to be made and carried in the blood to their target organs. In contrast, the nervous system is a signaling network with branches carrying information directly to and from specific sites. Neurons are specialized for the fast transmission of impulses--as quickly as 150 m/sec (over 330 mph). In humans, information can travel from the brain to the hands (or vice versa) in a few milliseconds.
+
+Animal survival and reproduction depends on rapid and flexible responses to changes in the environment, and a diversity of nervous systems has evolved in various animal phyla. This chapter discusses the form and function of these nervous systems. As we have seen in many other organ systems, animal nervous systems are remarkably similar at the cellular level--in how neurons work, for example--but differ at higher levels of organization, such as the structure and function of their brains.
+
+
+
+
+
+AN OVERVIEW OF NERVOUS SYSTEMS
+
+ 
+
+ Nervous systems perform the three overlapping functions of sensory input, integration, and motor output
+
+
+
+ 
+
+ Networks of neurons with intricate connections form nervous systems
+
+
+
+
+
+
+
+THE NATURE OF NERVE SIGNALS
+
+ 
+
+ Every cell has a voltage, or membrane potential, across its plasma membrane
+
+
+
+ 
+
+ Changes in the membrane potential of a neuron give rise to nerve impulses
+
+
+
+ 
+
+ Nerve impulses propagate themselves along an axon
+
+
+
+ 
+
+ Chemical or electrical communication between cells occurs at synapses
+
+
+
+ 
+
+ Neural integration occurs at the cellular level
+
+
+
+ 
+
+ The same neurotransmitter can produce different effects on different types of cells
+
+
+
+Descriptions of the anatomy of neurons and nervous systems were made possible in the 18th and 19th centuries by increasingly sophisticated compound microscopes, but this did not explain how neurons communicate with each other. Toward the end of the 18th century Luigi Galvani discovered that frog muscle cells produce electricity, and in the 19th century Hermann von Helmholtz and others found that the electrical activity of nerve cells provides a means of carrying signals from one end of a cell to another and also between cells. Work over the past hundred years has shown that virtually all nerve signals are changes in the voltage across the plasma membranes of nerve cells. These voltage changes are caused by the movement of ions across the plasma membrane by way of specialized ion channels. Learning how these cellular processes work is central to an understanding of the nervous system. First we will examine the voltage gradient that exists across a cell's plasma membrane.
+
+
+
+
+
+EVOLUTION AND DIVERSITY OF NERVOUS SYSTEMS
+
+ 
+
+ The ability of cells to respond to the environment has evolved over billions of years
+
+
+
+ 
+
+ Nervous systems show diverse patterns of organization
+
+
+
+
+
+
+
+VERTEBRATE NERVOUS SYSTEMS
+
+ 
+
+ Vertebrate nervous systems have central and peripheral components
+
+
+
+ 
+
+ The divisions of the peripheral nervous system interact in maintaining homeostasis
+
+
+
+ 
+
+ Embryonic development of the vertebrate brain reflects its evolution from three anterior bulges of the neural tube
+
+
+
+ 
+
+ Evolutionarily older structures of the vertebrate brain regulate essential automatic and integrative functions
+
+
+
+ 
+
+ The cerebrum is the most highly evolved structure of the mammalian brain
+
+
+
+ 
+
+ Regions of the cerebrum are specialized for different functions
+
+
+
+ 
+
+ Research on neuron development and neural stem cells may lead to new approaches for treating CNS injuries and diseases
+
+
+
+
+
+
+
+ Nervous systems perform the three overlapping functions of sensory input, integration, and motor output
+
+In general, a nervous system has three overlapping functions: sensory input, integration, and motor output (FIGURE 48.1). Sensory receptors, such as the light-detecting cells in the eyes, collect information about the physical world outside the body as well as processes inside the organism; this sensory input is then conveyed to integration centers. Integration is the process by which the input is interpreted and associated with appropriate responses of the body. The circular arrow in FIGURE 48.1 indicates that integration is a continuous background activity. For the most part, integration is carried out in the central nervous system (CNS), which consists of the brain and spinal cord in vertebrates. Motor output is the conduction of signals from the integration center, the CNS, to effector cells, the muscle cells or gland cells that actually carry out the body's responses to stimuli. The signals are conducted by nerves, ropelike bundles of extensions of neurons tightly wrapped in connective tissue. The nerves that communicate motor and sensory signals between the central nervous system and the rest of the body are collectively called the peripheral nervous system (PNS). From receptor to effector, information is communicated along a pathway of neurons by a combination of electrical and chemical signals. In this chapter we concentrate on communication within the nervous system. Chapter 49 connects the nervous system to its inputs and outputs by discussing sensory receptors and the physiology of movement.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-1. Overview of a vertebrate nervous system. Integration of sensory input and motor output is not usually rigid and linear, but involves the continuous background activity symbolized by the brain's cyclical arrow in this diagram.
+
+
+
+
+
+ Networks of neurons with intricate connections form nervous systems
+
+Neuron Structure and Synapses
+
+The structural and functional unit of the nervous system is the neuron, or nerve cell (FIGURE 48.2a). A neuron has a cell body, which contains the nucleus and other organelles, and it has fiberlike processes (extensions) of two general types. Dendrites (from the Greek dendron, tree) are short, highly branched processes that receive incoming messages from other cells and carry this information as an electrical signal toward the cell body. Axons, usually much longer than dendrites, convey outgoing messages from the neuron to other cells. Some axons, such as the ones connecting your spinal cord to your foot, can be over a meter long. The conical region of the axon where it joins the cell body is called the axon hillock; this region plays an essential role in the transmission and integration of nerve signals. Many axons are enclosed by an insulating layer called the myelin sheath. The supporting cells that form this sheath are described later in this section.
+
+Axons have specialized endings called synaptic terminals, which relay signals from the neuron to other cells by releasing chemical messengers called neurotransmitters. The site of contact between a synaptic terminal and a target cell is called a synapse (FIGURE 48.2b). The target cell may be either another neuron or an effector, such as a muscle cell or gland cell. The transmitting cell is called the presynaptic cell, and the target cell is called the postsynaptic cell. An axon may be branched, and each branch may give rise to hundreds or thousands of synaptic terminals.
+
+A Simple Nerve Circuit--the Reflex Arc
+
+The simplest type of nerve circuit regulates a reflex, or automatic response, and is called a reflex arc. For example, this is the type of circuit that causes a clam to shut its shell when a shadow (which might be a potential predator) passes overhead.
+
+The simplest reflex arcs require only two kinds of nerve cells. A sensory neuron receives information from a sensory receptor about a change in a stimulus such as light, pressure, or sound and passes this information on to a motor neuron. In turn, the motor neuron signals an effector cell, a muscle cell or gland cell that carries out the response. FIGURE 48.3 illustrates this sequence in the human knee-jerk reflex, the one that makes your leg jerk forward when the doctor hits your kneecap with a small hammer. The sudden, unexpected stretching of the tendon attached to the quadriceps (the front thigh muscle) is sensed by a specialized sensory neuron in the quadriceps. This sensory neuron signals a motor neuron to quickly counter the stretch by commanding the quadriceps to contract, causing your leg to jerk forward slightly.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-3. The knee-jerk reflex. For simplicity, only one neuron of each type is shown here, but actually many neurons are involved in the knee-jerk reflex.
+
+Actually, our knee-jerk reflex involves more than this simple sensory/motor circuit. Contraction of the front thigh muscle is accompanied by inhibition of the back thigh muscles that flex the lower leg (pull it toward the body), and this inhibition involves a second nerve circuit. The sensory neurons from the quadriceps form synapses not only with motor neurons but also with interneurons in the spinal cord. In turn, these interneurons inhibit motor neurons to the flexor muscles, preventing them from contracting.
+
+Most nerve circuits include large collections of interneurons that intervene between sensory receptors and effector cells to organize or integrate the most appropriate behaviors. Even in the simplest animals, most interneurons are constantly active, essentially "talking" to themselves. This continuous internal "conversation" within the CNS provides context for interpreting sensory input and directing an appropriate action in response. The large collections of interneurons that make up vertebrate brains, particularly human brains, bring an ongoing history to bear on what action is taken. If, for example, you decide that you don't want your knee to jerk forward when a doctor taps it with the hammer, interneurons passing from your brain to the spinal cord segment shown in FIGURE 48.3 can inhibit that reflex.
+
+The cell bodies of motor neurons and interneurons are generally located in the gray matter of the central nervous system; the gray matter of the spinal cord is shown in FIGURE 48.3. The outer white matter in the spinal cord consists of motor and sensory axons. Notice, however, that the cell body of the sensory neuron in FIGURE 48.3 is located outside the spinal cord in a structure called the dorsal root ganglion. A ganglion (plural, ganglia) is a cluster of nerve cell bodies, often of similar function, located in the peripheral nervous system. Similar clusters within vertebrate brains are called nuclei (not to be confused with the nuclei of individual cells).
+
+Adapted for different functions, sensory neurons, motor neurons, and interneurons differ markedly in shape, and there is also a variety of shapes within each class. Examples of this structured diversity are shown in FIGURE 48.4. A nervous system involves the coordinated activity of tens of thousands to billions of these diverse nerve cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-4. Structural diversity of neurons. These examples illustrate some of the variety in neuron shape. Cell bodies and dendrites are black; axons are magenta. (a) Vertebrate sensory neuron. The short, multibranched dendrites communicate with sensory receptor cells. A single, long axon, which is usually myelinated, conveys signals from the dendrites to synapses with neurons in the CNS. The cell body is connected only to the axon. This configuration is markedly different from that of the neuron in FIGURE 48.2a, which is a vertebrate motor neuron. (b) Two types of interneurons found in the mammalian brain. The top one has multiple dendrites and a branched axon; the bottom one has finely branched, meshlike dendrites. (c) An invertebrate motor neuron. In contrast to the vertebrate motor neuron in FIGURE 48.2a, the cell body connects only to the dendrites.
+
+Types of Nerve Circuits
+
+Nerve circuits show three basic patterns of organization. One kind of circuit takes information from a single source, such as an eye, to several parts of the brain; in this case the information from a single presynaptic neuron spreads out to several postsynaptic neurons. In a second kind of circuit, information from several presynaptic neurons converges at a single postsynaptic neuron. The convergent circuits can bring together information from several sources, such as vision, touch, and hearing, to identify an object in the environment. In a third type of circuit, information flows in a circular path, from one neuron to others and then back to its source. In the human brain, memories may be processed via circular paths and eventually stored.
+
+Supporting Cells (Glia)
+
+Supporting cells, or glia (from the Greek, glue) are essential for the structural integrity of the nervous system and for the normal functioning of neurons. Glia outnumber neurons tenfold to fiftyfold. Until recently, researchers assumed that glia play a supportive role without actually participating in nerve signaling. However, recent studies have suggested that some synaptic interactions do occur between glia and neurons.
+
+There are several types of glia in the brain and spinal cord, and as a group these cells do much more than simply glue neurons together. In the developing embryo, supporting cells called radial glia form tracks along which neurons migrate or grow out from the neural tube, the structure that gives rise to the CNS (see FIGURE 47.11). In the mature CNS, glia called astrocytes provide structural and metabolic support for neurons. Astrocytes also induce the formation of tight junctions (see FIGURE 7.30) between cells lining the capillaries in the brain. The result is the blood-brain barrier, which restricts the passage of most substances into the brain, allowing the extracellular chemical environment of the CNS to be tightly controlled. Recent evidence also suggests that astrocytes communicate with one another and with neurons via chemical signals.
+
+Oligodendrocytes (in the CNS) and Schwann cells (in the PNS) are glia that form insulating myelin sheaths around the axons of many neurons. The structure of a myelinated PNS axon is shown in FIGURE 48.5. Neurons become myelinated in a developing nervous system when Schwann cells or oligodendrocytes grow around axons such that their plasma membranes form concentric layers, somewhat like a jelly roll. The membranes are mostly lipid, which is a poor conductor of electrical currents. Thus, the myelin sheaths provide electrical insulation of the axon, analogous to the insulation that covers copper electrical wires. We will see later in this chapter that the myelin sheath also increases the speed of propagation of nerve impulses. In the degenerative disease known as multiple sclerosis, myelin sheaths gradually deteriorate, resulting in a progressive loss of coordination due to the disruption of nerve impulse transmission. Clearly, supporting cells are indispensable partners of neurons in a working nervous system.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-5. Schwann cells. In the peripheral nervous system, supporting cells called Schwann cells wrap many axons with an insulating myelin sheath. Gaps between successive Schwann cells are called nodes of Ranvier.
+
+
+
+
+
+ Every cell has a voltage, or membrane potential, across its plasma membrane
+
+As we saw in Chapter 8, all living cells have an electrical charge difference (electrical potential, or voltage) across their plasma membranes. This membrane potential exists because of the different concentrations of ions on the inside and outside of a cell: Anions are more concentrated inside a cell and cations are more concentrated in the extracellular fluid. As a result, the plasma membrane is electrically polarized, meaning that it is more negatively charged on one side than on the other.
+
+Measuring Membrane Potentials
+
+Electrophysiologists can measure a cell's membrane potential as a voltage by using microelectrodes connected to a sensitive voltmeter or oscilloscope (FIGURE 48.6a). Precise mechanical devices called micromanipulators (seen next to the microscope in FIGURE 48.6b) are used to position one electrode just inside the cell for comparison with a reference electrode located outside the cell. The voltmeter indicates the magnitude of the charge separation across the membrane, typically about -50 to -100 mV (millivolts) in an animal cell. The minus sign indicates that the inside of the cell is negative in charge with respect to the outside. A neuron in its resting state (that is, not transmitting an electrical signal) usually has a membrane potential of about -70 mV (about 5%  of the voltage in a flashlight battery). This membrane potential of an unstimulated neuron is called the resting potential.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 48-6. Measuring membrane potentials. (a) Microelectrodes inside and outside the cell measure the voltage (membrane potential) across a cell's plasma membrane. (b) Apparatus for measuring membrane potentials.
+
+A number of invertebrates, including squid, lobsters, and earthworms, have some unusually large neurons that make excellent research models for studying nerve impulses. For example, the squid nervous system includes some neurons whose axons have diameters of about 1 mm. These giant axons are relatively easy to impale with microelectrodes. Once the electrodes are in place, they can be used to measure the voltage of the resting potential as well as to record changes in voltage due to ion currents that occur during the transmission of a nerve impulse. Much of the pioneering research on membrane potentials and on the nature of nerve signals was performed using squid giant axons.
+
+How a Cell Maintains a Membrane Potential
+
+The membrane potential exists because of differences in the ionic composition of the intracellular and extracellular fluids. The selective permeability of the plasma membrane maintains these ionic differences, which are shown in FIGURE 48.7a. Inside a cell the principal cation is potassium (K+), although there is also some sodium (Na+). Outside a cell the situation is reversed, with Na+ the principal cation and K+ having a much lower concentration. Inside a cell the principal anions are proteins, amino acids, sulfate, phosphate, and other negatively charged ions that we can group and symbolize by A-; chloride (Cl-) is also present but in a relatively low concentration. Outside a cell, Cl- is the main anion, with other anions present but less important in the context of membrane potentials.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-7. The basis of the membrane potential. (a) Shown here are the approximate concentrations for a mammalian cell (in millimoles per liter, abbreviated mM) of potassium, [K+]; sodium [Na+]; chloride, [Cl-]; and anions that remain inside the cell, [A-]. K+ diffuses out of the cell down its concentration gradient, but the A- anions cannot follow, so the interior of the cell develops a net negative charge. (b) There is a steady diffusion of K+ out of the cell and steady diffusion of Na+ into the cell; the thickness of the arrows indicates the relative permeability of the membrane to K+ and Na+ (the permeability mainly reflects the number of ion-specific channels). Over time, diffusion would cause the ionic gradients shown in part (a) to dissipate. Dissipation is prevented by the sodium-potassium pump, which uses ATP to actively transport Na+ out of the cell and K+ into the cell.
+
+Recall from Chapter 8 that the plasma membrane is a phospholipid bilayer with associated membrane proteins. Ions, being electrically charged, cannot dissolve in lipid and therefore cannot directly diffuse across the lipid bilayer of the plasma membrane. In order to cross the membrane, ions must either be pumped by membrane proteins or move passively through ion channels, which are aqueous pores made up of specific transmembrane protein molecules. These channels are selective for specific ions; some allow only Na+ to cross, others allow only K+, and still others only Cl-. Depending on how many ion channels of each kind are present in the plasma membrane of a cell, it is possible for the membrane to have very different permeabilities to different ions. Most cells, including neurons, have much greater permeability to K+ than to Na+, suggesting that the membrane has many more potassium channels than sodium channels (FIGURE 48.7b). In a resting neuron, for instance, potassium permeability is about fiftyfold higher than sodium permeability. Because the internal anions (A-) are primarily large organic molecules such as proteins, they cannot cross the membrane and thus are a pool of internal negative charge that remains in the cell.
+
+Although selective ion channels control the types of ions that diffuse passively into and out of a cell, they do not determine the direction or rate of passage. As you learned in Chapter 8, ions diffuse down an electrochemical gradient made up of two components: the concentrations of the specific ion in different regions (its chemical gradient); and the relative electrical charge in those regions (the electrical gradient). We would expect the ions that pass through ion channels to diffuse along the electrochemical gradient until reaching an equilibrium point when each type of ion enters the cell at the same rate it exits. Given this tendency toward equilibrium, how does a cell establish and maintain the distribution of ions shown in FIGURE 48.7a?
+
+Consider the case of potassium ions. There is a large concentration gradient for diffusion of K+ out of the cell, and the membrane has a high permeability to potassium. Thus, there is a net outward flux (efflux) of K+, which transfers positive charge from the inside to the outside of the cell. Since negative charge, in the form of large anions (A-), is trapped within the cell, the inside of the cell becomes progressively more negative with respect to the outside, creating an electrical gradient across the membrane. In essence, this electrical gradient competes with the K+ concentration gradient: The increasing negative charge inside the cell attracts positively charged potassium, supporting an influx of K+.
+
+If K+ were the only ion that could cross the membrane, the voltage across the membrane would continue to build up until the influx of K+ down the electrical gradient exactly balanced the efflux of K+ down its concentration gradient. At that point, there would be no further net transfer of charge across the membrane, and the membrane potential would reach a stable, resting value. For the potassium concentration gradient shown in FIGURE 48.7a, which is typical of a resting neuron, a stable membrane potential of about -85 mV would be required to exactly counterbalance the concentration gradient of K+. This value of the membrane potential is called the equilibrium potential for potassium ions, because it is the potential at which there will be no net movement of K+ across the membrane (in other words, potassium is at equilibrium).
+
+Potassium, however, is not the only ion to which the plasma membrane is permeable. Although the membrane is much less permeable to Na+ than to K+, the permeability to Na+ is not zero (see FIGURE 48.7b). For sodium, both the concentration gradient (higher sodium concentration outside the cell) and the electrical gradient (more negative charge inside the cell) tend to move sodium ions into the cell. The resulting steady trickle of positive charge into the cell, carried by Na+, makes the actual value of the membrane potential somewhat more positive than would be expected if the membrane were permeable only to potassium ions. This explains why the membrane potential of a resting neuron is typically about -70 mV rather than about -85 mV.
+
+Over time, a steady influx of sodium would cause a progressive increase in the sodium concentration inside a cell. Also, because the influx of Na+ makes the cell interior less negative than the -85 mV required to balance the potassium concentration gradient, there would be a steady efflux of potassium and a progressive decline in the internal K+ concentration. In other words, if the situation were left unchecked, the concentration gradients for Na+ and K+ shown in FIGURE 48.7a would gradually dissipate. This equilibrium is prevented by the sodium-potassium pump shown in FIGURE 48.7b. This protein, found in abundance in neurons, uses energy from ATP to drive the active transport of sodium back out of the cell, against both the concentration and electrical gradients for sodium. At the same time, the pump moves potassium into the cell, thus restoring the concentration gradient for this ion as well (see FIGURE 8.14 for details). In essence, the cell uses metabolic energy, in the form of ATP, to maintain the ionic gradients across the membrane that give rise to the steady-state membrane potential.
+
+
+
+
+
+ Changes in the membrane potential of a neuron give rise to nerve impulses
+
+All cells have a membrane potential; however, only certain kinds of cells, including neurons and muscle cells, have the ability to generate large changes in their membrane potentials. Collectively these cells are called excitable cells. The membrane potential of an excitable cell in a resting (unexcited) state is called the resting potential. As we will see, a change in this voltage may result in an electrical impulse. Changes in the membrane potential are made possible by the specialized ion channels of excitable cells. The ion channels we have discussed so far are called ungated, since they are open all of the time. Some cells, including neurons, also have gated ion channels, which open or close in response to stimuli. The resulting change in ion concentrations may cause a change in the membrane potential in response to the stimulus. In the case of a sensory neuron, the stimulus may come from the organism's environment--for example, light in the case of photoreceptors in the eye, or vibrations in the air in the case of receptors in the ear. In the case of an interneuron, the stimulus is ordinarily produced by the other neurons that provide chemical or electrical inputs to the cell.
+
+Gated ion channels open or close in response to only one kind of stimulus. Chemically-gated ion channels open or close in response to a chemical stimulus, such as a neurotransmitter released from a synaptic terminal. Voltage-gated ion channels respond to a change in membrane potential. In addition, a gated ion channel (like other ion channels) allows only one kind of ion to pass through it. Thus, there are chemically-gated sodium channels and chemically-gated potassium channels, as well as voltage-gated sodium channels and voltage-gated potassium channels. Each type of channel plays an essential role in the generation and transmission of electrical signals.
+
+Graded Potentials: Hyperpolarization and Depolarization
+
+A change in membrane potential is a localized electrical event at the point of stimulation. Let us consider what happens in a region of a dendrite that is stimulated by a neurotransmitter. The specific effect of this stimulus on membrane polarization depends on the type of chemically-gated ion channel that is opened. FIGURE 48.8a and b show two types of local responses. Some stimuli trigger a hyperpolarization, an increase in the voltage across the membrane (FIGURE 48.8a). One of the ways a stimulus can produce a hyperpolarization is by opening a potassium channel, which increases K+ outflow and causes the inside of the cell to become more negative. In contrast, a depolarization is a reduction in the voltage across the membrane (FIGURE 48.8b). One of the ways this can occur is by a stimulus opening a sodium channel; the increased inflow of Na+ makes the inside of the cell less negative. These voltage changes are called graded potentials because the magnitude of change (either hyperpolarization or depolarization) depends on the strength of the stimulus: A larger stimulus will open more channels, producing a larger change in permeability and thus a larger change in the membrane potential.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-8. Graded potentials and the action potential in a neuron. Environmental changes can alter the cell's membrane potential. (a) One way a neuron can be hyperpolarized is by stimuli that open potassium channels. (b) A neuron can be depolarized by stimuli that open sodium channels. (c) A depolarizing stimulus of sufficient strength will change the membrane potential to a critical level called the threshold potential. This triggers an action potential, or nerve impulse. Unlike a graded potential, an action potential is an all-or-none event; the size of the action potential is not affected by the strength of the stimulus that triggered it.
+
+The Action Potential: All or Nothing Depolarization
+
+Depolarization of a neuron's plasma membrane is graded with stimulus intensity only up to a particular voltage, called the threshold potential. If a sufficiently strong stimulus causes depolarization to reach this threshold, it triggers a different type of response, called an action potential (FIGURE 48.8c). In a neuron, an action potential can be generated only in the axon. The action potential is typically triggered by a graded depolarization that originates in a dendrite or in the cell body and spreads along the membrane to the axon. The threshold potential is typically about 15 to 20 mV more positive than the resting potential--that is, about -50 to -55 mV for the plasma membrane of an axon. Hyperpolarizing stimuli do not produce action potentials; in fact, as we will see, hyperpolarization makes it more difficult for a stimulus to raise the membrane potential to threshold.
+
+The action potential of an axon is the nerve impulse. It is a nongraded all-or-none event, meaning that the magnitude of the action potential is independent of the strength of the depolarizing stimulus that triggered it, provided the depolarization reaches threshold. Once an action potential is triggered, the membrane potential goes through a stereotypical sequence of changes, illustrated in FIGURE 48.9. The membrane polarity reverses abruptly, with the interior of the cell becoming positive with respect to the outside. This reversal (the spike in the graph) is followed by a rapid repolarizing phase, during which the membrane potential returns to its resting level. The whole event is typically over within a few milliseconds.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-9. The role of voltage-gated ion channels in the action potential. The circled numbers on the action potential graph correspond to the five diagrams of voltage-gated sodium and potassium channels in a neuron's plasma membrane.
+
+Note that an action potential is an example of positive feedback (see Chapter 1). Depolarization of an axon's membrane to the threshold potential triggers an even larger depolarization, the action potential.
+
+The action potential arises because the plasma membranes of axons have voltage-gated ion channels. The gates of these ion channels open and close in response to changes in membrane potential, controlling rapid influx and efflux of ions. Voltage-gated channels are activated when graded depolarization of an axon's membrane reaches the threshold level. Two types of voltage-gated channels, sodium channels and potassium channels, contribute to the action potential (see FIGURE 48.9). Each voltage-gated potassium channel has a single voltage-sensitive gate that is closed in the resting state and opens slowly in response to depolarization. By contrast, each voltage-gated sodium channel has two voltage-sensitive gates: 1) an activation gate that is closed in the resting state and opens rapidly in response to depolarization; and 2) an inactivation gate that is open in the resting state and closes slowly in response to depolarization.
+
+What is the status of the voltage-gated channels in the instant after a threshold potential is reached? The K+ gates are opening slowly, and K+ is beginning to trickle out of the cell. At the same instant, Na+ is gushing into the cell because the activation gates of the Na+ channels are wide open, but the inactivation gates are just beginning to close slowly. It is this rapid influx of Na+ relative to the K+ efflux that accounts for the voltage change called the action potential.
+
+Note in FIGURE 48.9 that the action potential spikes, with the rapid depolarization followed immediately by a repolarization that is just as rapid. Two factors underlie this repolarizing phase of the action potential as the membrane potential is returned to its resting state. First, the sodium channel inactivation gate, which is slow to respond to changes in voltage, has time to respond to depolarization by closing, returning sodium permeability to its low resting level. Second, potassium channels, whose voltage-sensitive gates also respond relatively slowly to depolarization, have had time to open. As a result, K+ flows rapidly out of the cell during repolarization, helping restore the internal negativity of the resting neuron. The potassium channel gates are also the main cause of an undershoot, or hyperpolarization, that follows the repolarizing phase (see FIGURE 48.9). Instead of returning immediately to their resting position, these relatively slow-moving gates remain open during the undershoot, allowing potassium to keep flowing out of the neuron. The continued potassium outflow makes the membrane potential more negative than the resting potential--that is, it hyperpolarizes the membrane.
+
+Notice that during the undershoot, both the activation gate and the inactivation gate of the sodium channel are closed. If a second depolarizing stimulus arrives during this period, it will be unable to trigger an action potential because the inactivation gates have not had time to reopen after the preceding action potential. This period when the neuron is insensitive to depolarization is called the refractory period, and it sets the limit on the maximum frequency with which action potentials can be generated.
+
+If the action potential is an all-or-none event with amplitude (size) unaffected by the intensity of the stimulus, how can the nervous system distinguish strong stimuli from weaker ones that are still sufficient to trigger action potentials? Strong stimuli result in a greater frequency of action potentials than weaker stimuli; if a stimulus is intense, the neuron will fire repeatedly, producing action potentials as rapidly as the refractory period will allow. Thus, it is the number of action potentials per second, not their amplitude, that codes for stimulus intensity in the nervous system.
+
+
+
+
+
+ Nerve impulses propagate themselves along an axon
+
+For an action potential to function as a long-distance signal, it must somehow "travel" along the axon to the far end of the cell. The action potential does not actually travel but is regenerated repeatedly along the axon. The regeneration mechanism is the same as for graded depolarization: Na+ entering the cell creates an electrical current that depolarizes the next neighboring region of the membrane. In the case of an action potential, however, the Na+ influx is extensive enough to assure that the neighboring region will be depolarized above threshold, triggering a new action potential at that position (FIGURE 48.10, p. 1032). Thus, the effect of an action potential is like tipping the first of a row of standing dominoes. Just as the first domino's fall is relayed to the end of the row, the first action potential generates an action potential in the next part of the membrane, and so on to the end of the axon.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-10. Propagation of the action potential. The three parts of this figure show the changes that occur in a portion of an axon at three successive times as a nerve signal passes from left to right. At each point along the axon, the voltage-gated channels go through the sequence described in FIGURE 48.9, reproducing the sequence of voltage changes associated with the action potential. (The "status" of the membrane is color-coded to FIGURE 48.9.)
+
+What prevents Na+ entry from reexciting the region behind the action potential, which would cause the impulse to spread back along the axon toward the cell body as well as in the normal direction of propagation? Recall that an action potential is followed by a refractory period, when inactivation gates of sodium channels are closed and an action potential cannot be triggered. A wave of depolarization passing a point along the axon cannot induce another action potential behind it, but only in the forward direction. Thus, the axon is normally a one-way avenue for the conduction of nerve impulses.
+
+Several factors affect the speed at which action potentials propagate along an axon. One factor is the diameter of the axon: The larger the axon's diameter, the faster the speed of transmission. This is because resistance to the flow of electrical current is inversely proportional to the cross-sectional area of the "wire" that conducts the current. In a thick axon, the depolarization associated with an action potential at a particular location can effectively reach farther along the interior of the axon and set up a new action potential at a greater distance away than in a thin axon. Transmission speed varies from several centimeters per second in very thin axons to about 100 m/sec in the giant axons of certain invertebrates, including squid and lobsters. These giant axons function in behavioral responses requiring great speed, such as the backward tail-flip that enables a threatened lobster or crayfish to escape.
+
+A different means of speeding the propagation of action potentials has evolved in vertebrates. Recall that many axons in vertebrate nervous systems are myelinated, coated with insulating layers of membranes deposited by oligodendrocytes or Schwann cells (see FIGURE 48.5). The voltage-gated ion channels that produce the action potential are concentrated in the nodes of Ranvier, small gaps between successive Schwann cells along the axon. Also, extracellular fluid is in contact with the axon membrane only at the nodes, so that the flow of ions between the inside and outside of the axon can occur only in these regions. For these reasons, the action potential does not propagate itself in the regions between the nodes. Rather, the Na+ current generated by the action potential at a node travels all the way to the next node, where it stimulates depolarization and a new action potential (FIGURE 48.11). This mechanism is called saltatory conduction (from the Latin saltare, to leap) because the action potential appears to "jump" along the axon from node to node. Saltatory conduction can transmit impulses at speeds up to 150 m/sec in myelinated neurons.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-11. Saltatory conduction. In a myelinated axon, the ion current during an action potential at one node of Ranvier spreads along the interior of the axon to the next node (blue arrows), triggering an action potential there. The action potential thus jumps from node to node as it propagates along the axon (red arrows).
+
+We have seen how stimulating the dendrite of a neuron can produce an action potential in the axon that is propagated to the very tip of the cell. Our next step is to find out how the impulse is transmitted from a neuron to another neuron or an effector (muscle or gland cell).
+
+
+
+
+
+ Chemical or electrical communication between cells occurs at synapses
+
+Synapses are unique cell junctions that control communication between a neuron and another cell. Synapses are found between two neurons, between sensory receptors and sensory neurons, between motor neurons and the muscle cells they control, and between neurons and gland cells. Here we focus on synapses between neurons, which usually conduct signals from an axon's synaptic terminals to dendrites or cell bodies of the next cells in a neural pathway. Synapses are of two types: electrical synapses and chemical synapses.
+
+Electrical Synapses
+
+An electrical synapse allows action potentials to spread directly from the presynaptic cell to the postsynaptic cell. The cells are connected by gap junctions (see FIGURE 7.30), intercellular channels that allow the local ion currents of an action potential to flow between neurons. The giant axons of lobsters and other crustaceans are connected end to end and coupled by electrical synapses. These make it possible for impulses to travel from neuron to neuron without delay and with no loss of signal strength. Electrical synapses in the central nervous systems of vertebrates synchronize the activity of neurons responsible for some rapid, stereotypical movements. For example, electrical synapses in the brain enable some fishes to flap their tail very rapidly when escaping from predators. However, chemical synapses are much more common than electrical synapses in vertebrates and most invertebrates.
+
+Chemical Synapses
+
+At a chemical synapse, a narrow gap, or synaptic cleft, separates the presynaptic cell from the postsynaptic cell. Because of the cleft, the cells are not electrically coupled, and an action potential occurring in the presynaptic cell cannot be transmitted directly to the membrane of the postsynaptic cell. Instead, a series of events converts the electrical signal of the action potential arriving at the synaptic terminal into a chemical signal that travels across the synapse, where it is converted back into an electrical signal in the postsynaptic cell.
+
+The key to understanding the function of a chemical synapse is to examine its structure. The cytoplasm at the tip of the presynaptic axon contains numerous sacs called synaptic vesicles (FIGURE 48.12). Each vesicle contains thousands of molecules of a neurotransmitter, the substance that is released as an intercellular messenger into the synaptic cleft. Although many different neurotransmitters have been discovered in the nervous systems of animals, most neurons secrete only one kind of neurotransmitter. However, a single postsynaptic neuron may receive chemical signals from a variety of neurons that secrete different neurotransmitters from their synaptic terminals.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-12. A chemical synapse. When an action potential depolarizes the membrane of the synaptic terminal, it 1 triggers an influx of Ca2+ that 2 causes synaptic vesicles to fuse with the membrane of the presynaptic neuron. 3 The vesicles release neurotransmitter molecules into the synaptic cleft. These molecules diffuse across the cleft and bind to the receptors of ion channels embedded in the postsynaptic membrane. 4 The binding of neurotransmitter molecules to their specific receptors opens specific ion channels--Na+ channels, in the synapse illustrated here, causing a Na+ influx that depolarizes the postsynaptic membrane. 5 The neurotransmitter molecules are quickly degraded by enzymes or are taken up by another neuron, closing the ion channels and terminating the synaptic response.
+
+A presynaptic neuron dispatches neurotransmitter molecules into the synapse when an action potential arrives at the synaptic terminal and depolarizes the presynaptic membrane, the surface of the synaptic terminal that faces the cleft. Calcium ions play a central role in this conversion of the electrical impulse into a chemical signal. Depolarization of the presynaptic membrane causes Ca2+ to rush into the neuron through voltage-gated channels. The sudden rise in the cytosolic concentration of Ca2+ stimulates the synaptic vesicles to fuse with the presynaptic membrane and spill the neurotransmitter into the synaptic cleft by exocytosis (see Chapter 8). Thousands of vesicles may respond in unison to a single action potential. The neurotransmitter diffuses the short distance from the presynaptic membrane to the postsynaptic membrane, the plasma membrane of the cell body or dendrite on the other side of the synapse.
+
+The postsynaptic membrane is specialized to receive the chemical message. Projecting from the extracellular surface of the membrane are proteins that function as specific receptors for neurotransmitters. The receptors are part of selective ion channels that open and close, controlling movements of ions across the postsynaptic membrane. A receptor is keyed to a particular type of neurotransmitter, and when it binds to this chemical, the gate of the ion channel opens, allowing specific ions, such as Na+, K+, or Cl-, to cross the membrane. Thus, the ion channels of the postsynaptic membrane are chemically gated, in contrast to the voltage-gated channels responsible for the action potential.
+
+The ion movements resulting from the binding of neurotransmitter to its receptors alter the membrane potential of the postsynaptic cell. Depending on the type of receptors and the ion channels they control, neurotransmitters binding to the postsynaptic membrane may either depolarize or hyperpolarize the postsynaptic membrane. As we will soon see, depolarization and hyperpolarization have opposite effects on the activity of the postsynaptic neuron. In either case, the neurotransmitter is quickly removed, either by chemical breakdown or uptake into adjacent cells. This removal ensures that the effect of a neurotransmitter on a postsynaptic cell will be brief and precise, so that the next action potential arriving at the synapse will be transmitted. For example, the neurotransmitter known as acetylcholine is rapidly degraded by cholinesterase, an enzyme present in both the synaptic cleft and the postsynaptic membrane.
+
+Note that one important function of the synapse is to allow nerve impulses to be transmitted only in a single direction over a neural pathway. Synaptic vesicles are present only in synaptic terminals, and thus only the presynaptic membrane can discharge neurotransmitters. And receptors are restricted to the postsynaptic membrane, ensuring that only this membrane can receive a chemical signal from another neuron.
+
+
+
+
+
+ Neural integration occurs at the cellular level
+
+A single neuron may receive information from numerous neighboring neurons via thousands of synapses, some of them excitatory and some of them inhibitory (FIGURE 48.13). If you reexamine the physiology of the knee-jerk reflex in FIGURE 48.3, you-ll see examples of both types of synapses. The synapses between the sensory neurons and the motor neurons that stimulate the quadriceps muscles to contract are excitatory; the synapses between the interneurons and the motor neurons innervating the flexor muscles are inhibitory.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 48-13. Integration of multiple synaptic inputs. (a) Each neuron, especially in the central nervous system, is on the receiving end of thousands of synapses, some excitatory (green) and others inhibitory (red). At any instant an action potential may be generated at the axon hillock if the combined effect of ion currents induced by excitatory and inhibitory synapses depolarizes the membrane to the threshold potential. Synapses close to the axon hillock generally have a stronger effect on the membrane potential than other synapses. b. This micrograph reveals numerous synaptic terminals of presynaptic neurons that communicate with a single postsynaptic cell (SEM).
+
+At an excitatory synapse, the binding of neurotransmitter molecules to postsynaptic receptors opens a type of gated channel that allows Na+ to enter and K+ to leave the cell. Because the driving force is greater for Na+ than for K+ (remember, both voltage and concentration gradients drive Na+ into the cell--see FIGURE 48.7), the effect of opening these channels is a net flow of positive charge into the cell. This depolarizes the plasma membrane, moving the membrane potential closer to the threshold voltage and making it more likely that the axon of the postsynaptic cell will generate an action potential. In this case, the electrical change that is caused by the binding of neurotransmitter to the receptor is called an excitatory postsynaptic potential, or EPSP.
+
+At an inhibitory synapse, the binding of neurotransmitter molecules to the postsynaptic receptors opens gated ion channels that make the plasma membrane more permeable to K+, to Cl-, or to both of these ions. Diffusing down their concentration gradients, K+ rushes out of the cell and Cl- flows in. These ion fluxes hyperpolarize the membrane--that is, they push the membrane potential to a voltage even more negative than the resting potential--making it more difficult for an action potential to be generated. Therefore, the voltage change associated with chemical signaling at an inhibitory synapse is called an inhibitory postsynaptic potential, or IPSP. Whether a particular neurotransmitter results in an EPSP or an IPSP depends on the type of receptors and gated ion channels on the postsynaptic membrane responding to that neurotransmitter.
+
+Both EPSPs and IPSPs are graded potentials that vary in magnitude with the number of neurotransmitter molecules binding to receptors on the postsynaptic membrane. The local change in membrane voltage, either depolarization or hyperpolarization, lasts only a few milliseconds because the neurotransmitters are inactivated by enzymes soon after their release into the synapse. Recall, however, that a graded potential creates ion currents that result in a wave of voltage change that spreads along a membrane from the point of stimulation (neurotransmitter binding, in this case). Thus, EPSPs and IPSPs propagate themselves along the membrane of the postsynaptic neuron, but the successive voltage changes decrease in magnitude with the distance from the synapse. The axon hillock (see FIGURE 48.2) is the region where voltage-gated sodium channels open and generate an action potential when some stimulus has depolarized the membrane to the threshold. For the postsynaptic cell to "fire" (generate an action potential), the local ion currents due to EPSPs must be strong enough to reach and depolarize the membrane at the axon hillock to the threshold potential, usually about -50 mV.
+
+A single EPSP at one synapse, even one close to the axon hillock, is not usually strong enough to trigger an action potential (FIGURE 48.14, p. 1036). However, several synaptic terminals acting simultaneously on the same postsynaptic cell, or a smaller number of synaptic terminals discharging neurotransmitters repeatedly in rapid-fire succession, can have a cumulative impact on the membrane potential at the axon hillock, raising it to threshold. This additive effect of postsynaptic potentials is called summation. Notice in FIGURE 48.14a that repeated subthreshold EPSPs that do not overlap in time do not depolarize the membrane to threshold.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-14. Summation of postsynaptic potentials. These graphs trace changes in membrane potentials at a postsynaptic neuron's axon hillock. The arrows indicate times when signals trigger changes in membrane potentials at two excitatory synapses (E1 and 2, green) and at one inhibitory synapse (I1, red). Like most single EPSPs, those shown at E1 and E2 cannot depolarize the membrane at the axon hillock all the way to the threshold level, and thus without summation do not trigger an action potential.
+
+There are two types of summation: temporal summation and spatial summation. In temporal summation, chemical transmissions from one or more synaptic terminals occur so close together in time that each postsynaptic potential affects the membrane before the voltage has returned to the resting potential after the previous stimulation (FIGURE 48.14b). In spatial summation, several different synaptic terminals, usually belonging to different presynaptic neurons, stimulate a postsynaptic cell at the same time and have an additive effect on the membrane potential (FIGURE 48.14c). By reinforcing one another through temporal or spatial summation, the ion currents associated with several EPSPs can depolarize the membrane at the axon hillock to threshold, causing the neuron to fire. Summation also applies to IPSPs: two or more IPSPs can hyperpolarize the membrane to a more negative voltage than any single release of a neurotransmitter at an inhibitory synapse can achieve. Furthermore, IPSPs and EPSPs counter each other's electrical effects (FIGURE 48.14d).
+
+The axon hillock is the neuron's integrating center, the region where the membrane potential represents the summed effect of all EPSPs and IPSPs. At any instant, the membrane potential at the axon hillock is an average of the depolarization due to summation of all EPSPs and the hyperpolarization due to summation of all IPSPs. Whenever EPSPs overpower IPSPs enough for the membrane potential at the axon hillock to reach threshold, an action potential is generated, and the impulse is transmitted along the axon to the next synapse. A few milliseconds later, after the refractory period, the neuron may fire again if the sum of all synaptic inputs at that moment is still sufficient to depolarize the membrane at the axon hillock to threshold level. On the other hand, by that time the sum of all EPSPs and IPSPs may put the membrane potential at the axon hillock at a voltage more negative than the threshold, or may even hyperpolarize the membrane to a potential more negative than the resting potential, thereby desensitizing the neuron for the moment.
+
+Action potentials, remember, are all-or-none events. But now we see that the occurrence of these nerve impulses depends on the ability of the neuron to integrate quantitative information in the form of multiple excitatory and inhibitory inputs, each involving the specific binding of a neurotransmitter to a receptor on the postsynaptic membrane.
+
+
+
+
+
+ The same neurotransmitter can produce different effects on different types of cells
+
+Dozens of different substances, many of them small, nitrogen containing organic molecules, are known to function as neurotransmitters, and researchers expect to find many more. Table 48.1 summarizes the major known neurotransmitters. Notice that a particular neurotransmitter can trigger different responses in postsynaptic cells. This versatility depends on the receptors present on different postsynaptic cells and on the receptor's mode of action. Many neurotransmitters bind with receptors that have a direct effect on ion channel proteins, altering the membrane permeability of the postsynaptic cell (see FIGURE 48.12). This type of synaptic communication can take only a few milliseconds, serving the rapid and precise transfer of information at a single synapse. Other neurotransmitters take much longer (up to several minutes) because they communicate via complex signal-transduction pathways in the postsynaptic cell. In some cases neurotransmitters in the brain--such as those regulating mood, attention, and arousal--remain active long enough after their release to diffuse to many synapses and modulate their activity.
+
+Table 48-1. The Major Known Neurotransmitters
+
+NeurotransmitterStructureFunctional ClassSecretion SitesAcetylcholineExcitatory to vertebrate skeletal muscles; excitatory or inhibitory at other sitesCNS; PNS; vertebrate neuromuscular junctionBiogenic AminesNorepinephrineExcitatory or inhibitoryCNS; PNSDopamineGenerally excitatory; may be inhibitory at some sitesCNS; PNSSerotoninGenerally inhibitoryCNSAmino AcidsGABA (gamma aminobutyric acid)InhibitoryCNS; invertebrate neuromuscular junctionGlycineInhibitoryCNSGlutamateExcitatoryCNS; invertebrate neuromuscular junctionAspartateExcitatoryCNSNeuropeptidesSubstance PExcitatoryCNS; PNSMet-enkephalin (an endorphin)Generally inhibitoryCNSAcetylcholine
+
+Acetylcholine is one of the most common neurotransmitters in both invertebrates and vertebrates. In the vertebrate central nervous system, acetylcholine can be inhibitory or excitatory, depending on the type of receptor. At the vertebrate neuromuscular junction, the synapse between a motor neuron and a skeletal muscle cell, acetylcholine is released from the synaptic terminal of the motor neuron. It binds with a receptor that has a direct stimulatory effect on the muscle cell plasma membrane. The effect is excitatory, depolarizing the membrane of the postsynaptic muscle cell. A second type of acetylcholine receptor in heart muscle activates a signal-transduction pathway whose G proteins have two effects: They inhibit adenyl cyclase and open K+ channels in the muscle cell membrane, making it less able to generate an action potential. Both effects reduce the strength and rate of cardiac muscle cell contraction.
+
+Biogenic Amines
+
+The biogenic amines are neurotransmitters derived from amino acids. One group, known as catecholamines, consists of neurotransmitters produced from the amino acid tyrosine. This group includes epinephrine and norepinephrine, which also function as hormones (see Chapter 45), and a closely related compound called dopamine. Another biogenic amine, serotonin, is synthesized from the amino acid tryptophan. The biogenic amines often affect biochemical processes within the postsynaptic cell. In many cases they bind to specific receptors on the postsynaptic membrane, triggering signal-transduction pathways that affect the activities of specific enzymes in the postsynaptic cell.
+
+The biogenic amines most commonly function as transmitters within the CNS. However, norepinephrine also functions in a branch of the peripheral nervous system called the autonomic nervous system, which we will examine shortly. Dopamine and serotonin are widespread in the brain and affect sleep, mood, attention, and learning. Imbalances of these neurotransmitters are associated with several disorders. For example, the degenerative illness Parkinson's disease is associated with a lack of dopamine in the brain, and an excess of dopamine is linked to schizophrenia. Some psychoactive drugs, including LSD and mescaline, apparently produce their hallucinatory effects by binding to serotonin and dopamine receptors in the brain.
+
+Other Chemical Neurotransmitters
+
+Four amino acids are known to function as CNS neurotransmitters: gamma aminobutyric acid (GABA), glycine, glutamate, and aspartate. GABA, believed to be the transmitter at most inhibitory synapses in the brain, produces IPSPs by increasing the chloride permeability of the postsynaptic membrane.
+
+Several neuropeptides, relatively short chains of amino acids, serve as neurotransmitters. In common with the biogenic amines, neuropeptides often operate via signal-transduction pathways. A neuropeptide called substance P is a key excitatory signal that mediates our perception of pain. The endorphins are neuropeptides that function as natural analgesics, decreasing the perception of pain by the CNS. Neurochemists first discovered endorphins in the 1970s while studying the mechanism of opium addiction. Candace Pert and Solomon Snyder of Johns Hopkins University found specific receptors for the opiates morphine and heroin on neurons in the brain. It seemed odd that humans would have receptors keyed to chemicals from a plant (the opium poppy). Further research showed that, in fact, the drugs bind to these receptors in the brain by mimicking endorphins, the natural painkillers produced in the brain during times of physical or emotional stress, such as the labor of childbirth (see FIGURE 2.19). In addition to relieving pain, endorphins also decrease urine output (by affecting ADH secretion; see Chapter 45), depress respiration, produce euphoria, and have other emotional effects through specific pathways in the brain. An endorphin is also released from the anterior pituitary gland as a hormone that affects specific regions of the brain. Once again, we see the overlap between endocrine and nervous system control.
+
+Gaseous Signals of the Nervous System
+
+In common with many other types of cells, some neurons of the vertebrate PNS and CNS utilize gas molecules, notably nitric oxide (NO, see Chapter 45) and carbon monoxide (CO), as local regulators. For example, during sexual arousal of human males, certain neurons release NO gas into the erectile tissue of the penis. In response, smooth muscle cells in the blood vessel walls of the erectile tissue dilate and the spongy erectile tissue fills with blood, producing an erection. The male impotence drug, Viagra&#174;, increases the ability to achieve and maintain an erection during sexual arousal by inhibiting an enzyme that slows the muscle-relaxing effects of NO.
+
+Many cells release gas molecules in response to chemical signals. For instance, the neurotransmitter acetylcholine released by neurons into the walls of blood vessels stimulates the endothelial cells of the vessels to synthesize and release NO. In turn, NO signals the neighboring smooth muscle cells to relax, dilating the vessels. The discovery of this mechanism in the late 1980s explained the medicinal action of nitroglycerin, which had been used for a century to treat angina (chest pain associated with reduced blood supply to the heart). Enzymes convert nitroglycerin to NO, which dilates the blood vessels that supply cardiac muscle.
+
+Unlike typical neurotransmitters, NO and other gaseous messengers are not stored in cytoplasmic vesicles; cells synthesize them on demand. They diffuse into neighboring target cells, produce a change, and are broken down--all within a few seconds. In many of its targets, including smooth muscle cells, NO works like many hormones, stimulating a membrane-bound enzyme to synthesize a second messenger that directly affects cellular metabolism.
+
+Now that we have discussed some key concepts about neurons, nerve signals, and neurotransmitters, we can consider how this cellular level of life contributes to the workings of the overall nervous system.
+
+
+
+
+
+ The ability of cells to respond to the environment has evolved over billions of years
+
+The fact that you are reading the words on this page illustrates what an extraordinary product of biological evolution our human brains are. At the cellular level, however, the physiology of excitability originated billions of years ago with prokaryotes that could sense changes in their environment and respond in ways that enhanced survival and reproductive success--for example, by chemotaxis steering certain bacteria to food sources (see Chapter 27). Modification of this simple single-celled behavior of sensing and reacting to environmental chemicals provided multicellular organisms with a mechanism for communication between cells of the body. By the time of the Cambrian explosion nearly 600 million years ago (see Chapter 34), systems of nerve cells that allowed animals to sense and move rapidly had evolved in essentially their modern forms.
+
+
+
+
+
+ Nervous systems show diverse patterns of organization
+
+While there is remarkable uniformity in how nerve cells function throughout the animal kingdom, there is great diversity in how nervous systems are organized. What distinguishes the various levels of complexity among animal nervous systems is not so much their basic building blocks, the neurons themselves, but how these cells are networked. These networks are responsible for the feats of sensing and acting we will examine in Chapter 49 and for the animal behaviors we will describe in Chapter 51.
+
+Some simple multicellular animals lack a nervous system altogether; sponges, for instance, have no cells specialized for impulse conduction (see FIGURE 33.3). The simplest animals with nervous systems, the cnidarians, have bodies organized around radially symmetrical cavities that ingest and expel food (see FIGURE 33.4). In some of these animals, such as the hydra shown in FIGURE 48.15a, the neurons controlling the contractions and expansions of these cavities are arranged in diffuse nerve nets. Nerve nets also play a role as components of the nervous system of more complex animals. For example, the sea star shown in FIGURE 48.15b has a nerve ring connected to radial nerves that link to a nerve net in each arm, allowing for more complex movement patterns than the hydra. And a netlike system of neurons in the walls of our intestines controls the smooth muscles that function in peristalsis (see Chapter 41).
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-15. Diversity in nervous systems.
+
+Greater complexity of nervous systems and more complex behavior evolved with cephalization, which included the clustering of sensory neurons and other nerve cells to form a small brain near the anterior (head) end and mouth region in animals with elongated, bilaterally symmetrical bodies. In relatively simple cephalized animals such as the planarian shown in FIGURE 48.15c, small brains and longitudinal nerve cords, which control the animals- directional movements, constitute the first clearly defined central nervous system (CNS). In more complex invertebrates such as insects and mollusks, behavior is regulated by more complicated brains and ventral nerve cords containing segmentally arranged ganglia (FIGURE 48.15e, f, and g). The longitudinal nerve cord of vertebrates, such as the salamander shown in FIGURE 48.15h, runs along the dorsal rather than the ventral surface of the body and does not contain segmental ganglia (though there are segmental ganglia lateral to the nerve cord--see FIGURE 48.2).
+
+Mollusks are good examples of how nervous system organization correlates with how various animals live and interact with their environments. Sessile or slow-moving mollusks such as clams or chitons have little or no cephalization and relatively simple sense organs (FIGURE 48.15f). In contrast, cephalopod mollusks (squid and octopuses) have the most sophisticated nervous systems of any invertebrates, rivaling even those of some vertebrates. The large brain of a squid or octopus, accompanied by large, image-forming eyes and rapid signaling along giant axons, correlates well with the active predatory life of these animals (FIGURE 48.15g). Researchers have demonstrated in laboratory experiments that octopuses can learn to discriminate among visual patterns and perform complex tasks.
+
+Now that we have surveyed nervous systems of varying complexity, let's take a closer look at the structure and function of nervous systems in our own subphylum.
+
+
+
+
+
+ Vertebrate nervous systems have central and peripheral components
+
+All vertebrate nervous systems have some fundamental similarities, including distinct central and peripheral elements and a high degree of cephalization. In all vertebrates the brain and spinal cord make up the central nervous system (CNS), and the peripheral nervous system (PNS) is everything outside the CNS (FIGURE 48.16). The brain provides the integrative power that underlies the complex behavior of all vertebrates. The spinal cord, which runs lengthwise inside the vertebral column (spine), integrates simple responses to certain kinds of stimuli (such as the knee-jerk reflex) and conveys information to and from the brain. The vertebrate PNS transmits information to and from the CNS and regulates the internal environment of the organism.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-16. The nervous system of a vertebrate. The components of the central nervous system (brain and spinal cord) develop from the dorsal, hollow nerve cord, a hallmark of chordates. Cranial nerves (originating in the brain), spinal nerves (originating in the spinal cord), and ganglia outside the central nervous system make up the peripheral nervous system.
+
+Neurons of the central nervous system surround a continuous system of fluid-filled cavities. The vertebrate CNS is derived from the dorsal hollow nerve cord of the embryo--one of the phylogenetic hallmarks of chordates (see Chapter 34). This development from a tube explains why both the brain and spinal cord contain fluid-filled spaces. The narrow central canal of the spinal cord is continuous with the fluid-filled spaces, called ventricles, of the brain. These cavities are filled with cerebrospinal fluid, which is formed in the brain by filtration of the blood. Circulating through the central canal and ventricles (and then draining back into the veins), the cerebrospinal fluid conveys nutrients, hormones, and white blood cells across the blood-brain barrier described earlier to different parts of the brain. Among the most important functions of cerebrospinal fluid is to act as a shock absorber, cushioning the brain. Also protecting the brain and spinal cord are layers of connective tissue, called meninges. In mammals, cerebrospinal fluid circulates between two of the meninges, providing an additional cushion for the brain.
+
+Axons within the CNS are located in well-defined bundles, or tracts, whose myelin sheaths give them a whitish appearance. In cross sections of the brain and spinal cord, this white matter is clearly distinguishable from gray matter, which consists mainly of dendrites, unmyelinated axons, and clusters of nerve-cell bodies, or nuclei.
+
+
+
+
+
+ The divisions of the peripheral nervous system interact in maintaining homeostasis
+
+Structurally, the vertebrate PNS consists of paired cranial and spinal nerves and associated ganglia (see FIGURE 48.16). The cranial nerves originate in the brain and innervate organs of the head and upper body. The spinal nerves originate in the spinal cord and innervate the entire body. Mammals have 12 pairs of cranial nerves and 31 pairs of spinal nerves. Most of the cranial nerves and all of the spinal nerves contain both sensory and motor neurons; a few of the cranial nerves are sensory only (the olfactory and optic nerves, for example).
+
+Because most nerves contain a diversity of neurons that play different roles, it is convenient to divide the PNS into a hierarchy of components that differ in function (FIGURE 48.17). The sensory division of the PNS is made up of the sensory, or afferent (incoming), neurons that convey information to the CNS from sensory receptors that monitor the external and internal environment. The motor division is composed of the motor, or efferent (outgoing), neurons that convey signals from the CNS to effector cells. The motor division is divided, in turn, into two functional divisions, called the somatic and autonomic nervous systems.
+
+The somatic nervous system carries signals to skeletal muscles, mainly in response to external stimuli. The somatic nervous system is often considered voluntary because it is subject to conscious control, but a substantial proportion of skeletal muscle movement is actually determined by reflexes mediated by the spinal cord or lower brain.
+
+The autonomic nervous system conveys signals that regulate the internal environment by controlling smooth and cardiac muscles and the organs of the gastrointestinal, cardiovascular, excretory, and endocrine systems. This control is generally involuntary.
+
+The autonomic nervous system consists of two divisions that act on our body organs with opposing effects (FIGURE 48.18). Activation of the sympathetic division correlates with arousal and energy generation: the heart beats faster, the liver converts glycogen to glucose, bronchi of the lungs dilate and support increased gas exchange, digestion is inhibited, and secretion of adrenaline from the adrenal medulla is stimulated. Activity of the parasympathetic division causes approximately the mirror image of this: a calming and a return to emphasis on self-maintenance functions. For example, activity of parasympathetic nerves decreases heart rate and energy storage and also enhances digestion. When sympathetic and parasympathetic nerves innervate the same organ, they often (but not always) have antagonistic (opposite) effects.
+
+The somatic and autonomic nervous systems often cooperate in maintaining homeostasis. In response to a drop in temperature, for example, the hypothalamus of the brain signals the autonomic nervous system to constrict surface blood vessels, which reduces heat loss; at the same time the hypothalamus signals the somatic nervous system and causes shivering.
+
+
+
+
+
+ Embryonic development of the vertebrate brain reflects its evolution from three anterior bulges of the neural tube
+
+We begin studying the vertebrate brain by examining its embryonic development from the neural tube (see FIGURE 47.11). In all vertebrates, three bilaterally symmetrical, anterior bulges of the dorsal hollow nerve cord--the forebrain, midbrain, and hindbrain--become evident as the neural tube differentiates (FIGURE 48.19a). In the course of vertebrate evolution, the brain became further divided structurally and functionally. This regionalization provided additional capacity for complex integration, with the forebrain becoming much larger in birds and mammals than in fishes, amphibians, and reptiles. The cerebrum, the most sophisticated center of homeostatic control and integration, is an outgrowth of the forebrain that surrounds many of the older brain regions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-19. Embryonic development of the brain.
+
+By the fifth week of human embryonic development, five brain regions have formed from the three primary bulges (FIGURE 48.19b). Two of these regions, the telencephalon and the diencephalon, develop from the forebrain. A single region, the mesencephalon, develops from the midbrain (and is also called the midbrain in the adult). Two regions, called the metencephalon and myelencephalon, develop from the hindbrain.
+
+As a human brain develops further, the most profound changes occur in the telencephalon, the division of the forebrain that gives rise to the cerebrum (FIGURE 48.19c). Rapid, expansive growth of this region during the second and third months creates the two halves of the cerebrum, called the right and left cerebral hemispheres, which extend over and around many of the other brain centers. In the adult, the cerebral hemispheres include white matter (tracts of axons), internal gray matter (nuclei, or clusters of neuron cell bodies), and a highly convoluted outer region of gray matter called the cerebral cortex. Major brain centers that develop from the diencephalon--the division of the forebrain that evolved earliest in vertebrate history--are the thalamus, epithalamus, and hypothalamus.
+
+The three regions derived from the midbrain and hindbrain give rise to structures deep within the brain that are collectively called the brainstem. The adult brainstem consists of the midbrain (from the mesencephalon), the pons (from the metencephalon), and the medulla oblongata (from the myelencephalon). The metencephalon also gives rise to another major brain center, the cerebellum, which is not part of the brain stem. FIGURE 48.20 reviews brain anatomy in a three-dimensional view.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-20. The main parts of the human brain.
+
+
+
+
+
+ Evolutionarily older structures of the vertebrate brain regulate essential automatic and integrative functions
+
+The Brainstem
+
+The brainstem, sometimes called the "lower brain," forms a stalk with caplike swellings at the anterior end of the spinal cord. The three parts of the brainstem--the medulla oblongata, the pons, and the midbrain--are derived from the embryonic hindbrain and midbrain (see FIGURE 48.19). They function in homeostasis, coordination of movement, and conduction of information to higher brain centers.
+
+The Medulla and Pons. Several centers in the brainstem contain nerve cell bodies that send axons to many different areas of the cerebral cortex and cerebellum, releasing neurotransmitters such as norepinephrine, dopamine, serotonin, and acetylcholine. These signals from the brainstem cause changes in attention, alertness, appetite, and motivation. The medulla oblongata, commonly called the medulla, contains centers that control several visceral (automatic, homeostatic) functions, including breathing, heart and blood vessel activity, swallowing, vomiting, and digestion. The pons also participates in some of these activities, having nuclei that regulate the breathing centers in the medulla, for example.
+
+All the bundles of axons carrying sensory information to and motor instructions from higher brain regions pass through the brainstem, making data conduction one of the most important functions of the medulla and pons. The brainstem also helps coordinate large-scale body movements such as walking. Most of the descending axons carrying instructions about movement to the spinal cord from the midbrain and forebrain cross from one side of the CNS to the other as they pass through the medulla. As a result, the right side of the brain controls much of the movement of the left side of the body, and vice versa.
+
+The Midbrain.The midbrain contains centers for the receipt and integration of several types of sensory information. It also serves as a projection center, sending coded sensory information along neurons to specific regions of the forebrain. Prominent nuclei of the midbrain are the inferior and superior colliculi, which are part of the auditory and visual systems, respectively. All fibers involved in hearing either terminate in or pass through the inferior colliculi. In nonmammalian vertebrates, the superior colliculi take the form of prominent optic lobes and may be the only visual centers. In mammals, vision is integrated in the cerebrum, leaving the superior colliculi to coordinate visual reflexes, such as automatically turning your head when your peripheral vision picks up something moving toward you from the side.
+
+The Reticular System, Arousal, and Sleep
+
+As anyone who has sat through a lecture on a warm spring day knows, attentiveness and mental alertness vary from moment to moment. Arousal is a state of awareness of the external world. The counterpart of arousal is sleep, when an individual continues to receive external stimuli but is not conscious of them. Sleep and arousal are controlled by several centers in the the brainstem and cerebrum.
+
+A system of neurons called the reticular formation, containing over 90 separate nuclei, passes through the core of the brain stem (FIGURE 48.21). Part of the reticular formation, the reticular activating system (RAS), regulates sleep and arousal. Acting as a sensory filter, the RAS selects which information reaches the cerebral cortex, and the more input the cortex receives, the more alert and aware a person is. But arousal is not just a generalized phenomenon; certain stimuli can be ignored while the brain is actively processing other input. Also, specific centers in the brain stem regulate sleep and wakefulness. The pons and medulla contain nuclei that cause sleep when stimulated, and the midbrain has a center that causes arousal. Serotonin may be the neurotransmitter of the sleep-producing centers. Drinking milk before bedtime may induce sleep because milk contains large amounts of tryptophan, the amino acid from which serotonin is synthesized.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-21. The reticular formation. This system of over 90 separate nuclei extends through the brainstem. The reticular formation receives input from sensory receptors (blue arrows). Working closely with the cerebral cortex (green arrows), it prevents sensory overload, filtering out familiar and repetitive information that constantly enters the nervous system. Part of this filtering system, the reticular activating system (RAS), is a vital link in determining states of arousal and consciousness.
+
+Sleep and wakefulness produce different patterns in the electrical activity of the brain, which can be recorded in an electroencephalogram, or EEG (FIGURE 48.22). As a general rule, the less mental activity taking place, the more synchronous the brain waves of the EEG. When a healthy person is lying quietly with closed eyes, slow and synchronous alpha waves predominate. When the eyes are opened or the person solves a complex problem, faster beta waves take over, indicating desynchronization of the parts of the brain.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 48-22. Brain waves recorded by an electroencephalogram (EEG).
+
+A sleeping person's EEG reflects the fact that sleep is a dynamic process. In the early stages, theta waves, more irregular than beta waves, often predominate. Deeper sleep produces delta waves, which are quite slow and highly synchronized. Deep sleep also includes periods when a desynchronized EEG reminiscent of wakefulness occurs. During these periods, called REM (rapid eye movement) sleep, the eyes move actively across the visual field behind closed lids. Most dreaming occurs during REM sleep. Like sleep, dreaming has been ascribed magical or prophetic importance, but its true function remains unknown.
+
+The question of why we sleep remains a compelling research problem. All birds and mammals sleep and show a characteristic sleep-wake cycle. One hypothesis is that sleep is involved in the consolidation of learning and memory, and experiments show that regions of the brain activated during a learning task can become active again during sleep.
+
+The Cerebellum
+
+The cerebellum develops from part of the metencephalon (see FIGURE 48.19). It functions in coordination and error-checking during motor, perceptual, and cognitive performances. There is strong evidence that the cerebellum is involved in learning and remembering motor responses, because such learning can be blocked by damage to one of its major subdivisions. The cerebellum receives sensory information about the position of the joints and the length of the muscles, as well as information from the auditory and visual systems. It also receives input from the motor pathways, telling it which actions are being commanded from the cerebrum. The cerebellum uses this information to provide automatic coordination of movements and balance. Hand-eye coordination is one example of such a function. If the cerebellum is damaged, the eyes can follow a moving object, but they will not stop at the same place as the object.
+
+The Thalamus and Hypothalamus
+
+The embryonic diencephalon, a division of the forebrain, develops into three adult brain regions: the epithalamus, thalamus, and the hypothalamus (see FIGURE 48.19). The epithalamus includes a choroid plexus, one of several clusters of capillaries that produce cerebrospinal fluid. The epithalamus also has a tiny projection, the pineal gland. The endocrine function of the pineal gland was described in Chapter 45. The thalamus and hypothalamus are major integrating centers.
+
+The thalamus is the main input center for sensory information going to the cerebrum and the main output center for motor information leaving the cerebrum. It contains many different nuclei, each one dedicated to sensory information of a particular type. Incoming information from all the senses is sorted out in the thalamus and sent on to the appropriate higher brain centers for further interpretation and integration. The thalamus also receives input from the cerebrum and other parts of the brain that regulate emotion and arousal.
+
+Although it weighs only a few grams, the hypothalamus is one of the most important brain regions for homeostatic regulation. We saw in Chapter 45 that the hypothalamus is the source of two sets of hormones, posterior pituitary hormones and releasing hormones that act on the anterior pituitary (see FIGURE 45.6). The hypothalmus contains the body's thermostat, as well as centers for regulating hunger, thirst, and many other basic survival mechanisms. Hypothalamic nuclei also play a role in sexual and mating behaviors, the fight-or-flight response, and pleasure. Stimulation of specific centers can cause what are known as "pure" behaviors. For example, rats placed in an experimental situation where they can press a lever to stimulate a "pleasure" center will do so to the exclusion of eating and drinking. Stimulation of another area can produce rage.
+
+The Hypothalamus and Circadian Rhythms.Animals, including humans, exhibit all kinds of regularly repeated, rhythmic behaviors. What maintains our daily rhythms--when, for example, we sleep, our blood pressure is highest, or our sex drive peaks? Many animals exhibit seasonal rhythms, reproducing or migrating only in the spring or fall, for instance. We have already discussed circadian (daily) and seasonal rhythms in plants (see Chapter 39).
+
+Numerous studies have assessed the relative importance of external cues and internal timekeepers in maintaining rhythmic behavior. These studies show that circadian rhythms usually have a strong internal component, referred to as a biological clock. Locating the internal mechanisms responsible for behavioral rhythms has been challenging for researchers. An early hypothesis that the location of these control mechanisms varies across taxonomic boundaries has proved true. For instance, fruit flies (Drosophila) appear to have many biological clocks throughout their body and at the outer edges of their wings. In mammals, a pair of structures called the suprachiasmatic nuclei (SCN) in the hypothalamus functions as a biological clock. Experiments with rodents have revealed that the cells of the SCN produce specific proteins in response to changing light-dark cycles. The function of this or any other biological clock may be the regulation of a variety of physiological processes, such as hormone release, hunger, and heightened sensitivity to external stimuli that motivate specific rhythmic behaviors.
+
+Researchers have also investigated the role of external cues in circadian rhythms. Usually, a clock's rhythm does not exactly match events in the environment, and external cues are necessary to keep cycles timed to the outside world. Light is a common external cue for circadian rhythms; visual information received by the SCN via sensory neurons from the eyes enables the mammalian clock to remain synchronized with the natural cycles of day length and darkness. For example, activity of the North American flying squirrel normally begins with the onset of darkness and ends at dawn, which suggests that light is an important external cue. If a squirrel is placed in constant light or constant darkness, its rhythmic activity continues, but the duration of its activity cycle (one period of activity plus one period of inactivity) falls a little more out of sync with the outside world each day (FIGURE 48.23). The squirrel's internal clock continues to run without external cues, but on its own cycle, which turns out to be 21 minutes shorter than 24 hours. External cues, such as day length and night length, adjust the clock, so that the rhythmic behavior it controls is synchronized with the outside world.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 48-23. Activity rhythms in a nocturnal mammal. An inhabitant of forests in North America, the northern flying squirrel is active at night and usually sleeps in a nest cavity in a hollow tree from dawn to dusk. (a) To study its activity rhythms, researchers have placed flying squirrels in cages containing an exercise wheel in which a squirrel can run. The wheel is connected to a chart recorder, which moves graph paper past a pen at a fixed speed. When a squirrel runs on the wheel, the pen is activated and marks the graph paper. The graphs shown in (b) and (c) trace the activity of two flying squirrels kept under different light conditions for 23 days. The longer black bars indicate periods of extended activity. (b) This graph shows the activity pattern of a squirrel exposed to 12 hours of darkness, simulating natural conditions. (c) This graph shows the activity pattern of a squirrel held in constant darkness for 23 days. Although the activity of both squirrels remained rhythmic throughout the recording period, with a distinct period of extended activity every day, the high-activity period of the squirrel shifted each day (actually by 21 minutes). After 23 days its period of greatest activity was nearly 8 hours out of synchronization with the actual time of day. (The small magenta arrows indicate when the period of greatest activity began on days 1 and 23.) Experiments with flying squirrels, humans, and other animals show that environmental cues are needed to keep biological clocks tuned to external conditions.
+
+Human circadian rhythms have been studied by placing individuals in comfortable living quarters deep underground, where they could make their own schedules with no external cues of any kind. Under these free-running conditions (see Chapter 39), the biological clock of humans seems to have a period of about 25 hours, but with much individual variation. Like other animals, humans use external cues to adjust their rhythms to 24 hours in the real world.
+
+
+
+
+
+ The cerebrum is the most highly evolved structure of the mammalian brain
+
+The cerebrum develops from the embryonic telencephalon, an outgrowth of the forebrain that arose early in vertebrate evolution as a region supporting olfactory reception as well as auditory and visual centers. The cerebrum is divided into right and left cerebral hemispheres (FIGURE 48.24a). Each hemisphere consists of an outer covering of gray matter, the cerebral cortex, mentioned earlier; internal white matter; and a cluster of nuclei called basal nuclei deep within the white matter. The basal nuclei are important centers for planning and learning movement sequences. Damage in this region can cause devastating motor disorders in humans such as Parkinson's disease and Huntington's disease, or even render a person passive and immobile because the nuclei no longer allow motor impulses to be sent to the muscles.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-24. Structure and functional areas of the cerebrum. (a) This rear view of the human brain shows the bilateral nature of the cerebral hemispheres. The corpus collosum (large fiber tracts connecting the hemispheres) and basal nuclei (ganglia) are completely covered (and not visible from the surface) by the convoluted gray matter of the cerebral cortex. (b) The surface of each cerebral hemisphere is divided into four lobes. (A fifth lobe, the insula, located within the fold separating the temporal and parietal lobes, is not shown in this drawing of the left hemisphere.) Specialized functions are localized in each lobe. The association areas of the left hemisphere have different functions than those of the right hemisphere.
+
+The cerebral cortex ("gray matter") is the largest and most complex part of the mammalian brain, and the part that has changed the most during vertebrate evolution. Some of its components are also found in the brains of reptiles, which share a common ancestor with mammals (see FIGURE 34.20). Unique to mammals, however, is the neocortex, an additional outer layer of cortex consisting of six sheets of neurons running tangential to the brain surface. Among mammals, greater cognitive abilities and more sophisticated behavior are associated with the relative size of the cerebral cortex and the presence of convolutions that increase the surface area of the neocortex. Although less than 5 mm thick, the human neocortex has a surface area of about 0.5 m2 and accounts for about 80%  of the total brain mass. Nonhuman primates and cetaceans (whales and porpoises, for example) also have exceptionally large and complex neocortices. In fact, the surface area (relative to body size) of a porpoise's neocortex is second only to that of a human.
+
+Like the rest of the cerebrum, the cerebral cortex is divided into right and left sides, each of which is responsible for the opposite half of the body. The left hemisphere receives information from, and controls the movement of, the right side of the body, and vice versa. A thick band of fibers (cerebral white matter) known as the corpus callosum communicates between the right and left cerebral hemispheres (see FIGURE 48.24a).
+
+In the discussion of cerebral functions that follows, the words cognition and cognitive will come up often. Cognition is defined as the process of knowing, including both awareness and judgment. Thus, the cognitive functions of the brain include learning, decision making, consciousness, and an integrated sensory awareness of the surroundings.
+
+
+
+
+
+ Regions of the cerebrum are specialized for different functions
+
+Each side of the cerebral cortex is customarily described as having four lobes, called the frontal, temporal, occipital, and parietal lobes. Researchers have identified a number of functional areas within each lobe (FIGURE 48.24b). These areas include primary sensory areas for input of different kinds of sensory information, and association areas that integrate the input with information from other parts of the brain.
+
+Two functional cortical areas, the primary motor cortex and the primary somatosensory cortex, form the boundary between the frontal lobe and the parietal lobe. The motor cortex functions mainly in sending commands to the skeletal muscles, signaling appropriate responses to any sensory stimuli. The somatosensory cortex receives and partially integrates signals from touch, pain, pressure, and temperature receptors throughout the body. The proportion of motor or somatosensory cortex devoted to a particular part of the body is correlated with the relative importance of sensory or motor information for that part of the body (FIGURE 48.25).
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-25. Primary motor and somatosensory areas of the human cerebral cortex. In these cross-sectional maps of the cortex, the surface area devoted to each body part is symbolized by the relative sizes of the body parts in the cartoon.
+
+Integrative Function of the Association Areas
+
+Sensory information coming into the cortex, mainly via the thalamus, is first directed to primary sensory areas within the lobes: visual information to the occipital lobe; auditory input to the temporal lobe; and somatosensory information about touch, pain, pressure, temperature, and the position of muscles and limbs to the parietal lobe (see FIGURE 48.24b). Information about taste goes to a separate sensory region of the parietal lobe. Olfactory information is sent first to "primitive" regions of the cortex and then via the thalamus to an interior region of the frontal lobe (by "primitive" regions here, we mean cerebral regions that are similar between mammals and reptiles). All this information is then passed to the adjacent association areas, which integrate ("associate") the input from different types of senses, assess the significance of the overall sensory input, and then transmit signals to still more association areas, these located in the frontal lobes. The association regions of the frontal lobes then compose an appropriate motor response plan, which is used by the primary motor cortex to direct the movement of skeletal muscles.
+
+The major increase in the size of the neocortex that occurred during mammalian evolution expanded the association areas that integrate higher cognitive functions that make more complex behavior and learning possible. The cortical surface of a rat's brain is relatively smooth and is occupied mainly by primary sensory areas, which receive direct input from sensory receptors. In contrast, the cortical surface of our brains is much more convoluted and consists mainly of association regions. Regional specializations in this association cortex first appear during brain development as infants and children learn routines for sensing and acting. While these regional specializations are roughly the same in different humans, damage to one brain area early in development can frequently cause redirection of its normal functions to other areas. Perhaps the most dramatic example of this is observed in some human infants with intractable epilepsy who are treated by removing the entire right or left cerebral hemisphere. Amazingly, the remaining hemisphere takes over most of the functions normally provided by two hemispheres. Some plasticity is maintained in adult brains, for they can sometimes recover from damage to a portion of the cerebral cortex by developing or using new circuits.
+
+Lateralization of Brain Function
+
+During an infant's or child's brain development, competing functions segregate and displace each other into the cortex of opposite cerebral hemispheres. The left hemisphere becomes most adept at language, math, logic operations, and the processing of serial sequences of information. It has a bias for the detailed, speed-optimized activities required for skeletal motor control and processing of fine visual and auditory details. The right hemisphere is stronger at pattern recognition, face recognition, spatial relations, nonverbal ideation, emotional processing in general, and parallel processing of many kinds of information. Understanding and generating the stress and intonation patterns of speech that convey its emotional content emphasizes right-hemisphere function, as does music. The right hemisphere appears to specialize in perception of the relationship between images and the whole context in which they occur, whereas the left hemisphere is better at focused perception. While working with their hands, most right-handed people use the left hand (right hemisphere) for context or holding and use the right hand (left hemisphere) for fine detailed movement.
+
+Language and Speech
+
+The systematic and detailed mapping of higher cognitive functions to specific brain areas began in the 19th century when physicians performed post-mortem examinations of the brains of patients with language impairments. Those who could understand language but not speak usually had damage to a frontal lobe area, now called Broca's area, just in front of motor cortex controlling face and lips. Studies of brain activity using a modern imaging technology called PET (for positron emission tomography) have confirmed that Broca's area is active during generation of speech (FIGURE 48.26, lower left image). Autopsies during the 19th century also suggested that damage to a posterior portion of the temporal lobe, now called Wernicke's area (upper left image of FIGURE 48.26), could abolish the ability to comprehend speech but leave speech generation intact.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-26. Mapping language areas of the cerebral cortex. A modern imaging technology called PET scanning maps regions of an organ that are most metabolically active. These four computer-generated brain maps show "hot spots" of activity in the brain of one individual under four different conditions, all related to speech.
+
+More detailed modern studies, both of brain lesions and imaging of brain activity, have now demonstrated that language is processed by multiple areas in the cortex. An instruction to simply read a printed word out loud activates the visual cortex (upper right image of FIGURE 48.26) and Broca's area. Frontal and temporal areas become active when meaning must be attached to words, as in generating verbs to go with nouns or in grouping together related words or concepts (FIGURE 48.26, lower right image). Researchers can monitor the effect of practice on this cognitive development. An instruction to associate a verb with each noun projected on a screen initially activates frontal lobes. But after 15 minutes of practice, the activation has contracted mainly to those areas used in simply reading a word out loud. This illustrates an important principle of brain function: novel stimuli or instructions cause the greatest mobilization of brain areas and resources. Once a situation or procedure has become familiar, it is accommodated by a much lower level of brain activity.
+
+Emotions
+
+Two components of the cerebral cortex, the hippocampus and the olfactory cortex, are common to reptiles and mammals. In mammals, these structures, together with some inner portions of the cortex's lobes and sections of the thalamus and hypothalamus, form a ring around the brainstem called the limbic system (FIGURE 48.27, p. 1050). By interacting with sensory areas of the neocortex and other higher brain centers, the limbic system generates the feelings we generally call emotions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-27. The limbic system. Portions of the diencephalon (thalamus and hypothalamus) and inner parts of the cerebral cortex, including the amygdala and hippocampus, make up this functional center of human emotions and memory. Signals from the nose enter the brain through the olfactory bulb, which is part of the limbic system. Other sensory information enters the limbic system via other parts of the cerebral cortex (arrows). A "higher" center of integration in the cerebrum, the prefrontal cortex, apparently consults the limbic system and other brain centers in processing and retrieving memories and may use memories to modify behavior.
+
+The limbic system is central to some of the behaviors, such as the extended nurturing of infants and an emotional bonding to other individuals, that distinguish mammals from most reptiles and amphibians. The limbic system mediates primary emotions that manifest in such behaviors as laughing and crying. But the system also attaches emotional "feelings" to basic survival-related programs of the brainstem, such as feeding, aggression, and sexuality.
+
+Structures of the emotional brain centered in the limbic system form early in development, and provide a foundation for the higher cognitive functions that appear later during the development of neocortical areas. We, along with other primates, are born with emotional brain circuits prepared to support bonding to a caretaker, to recognize the crude elements of a human face, to have visual and vocal interactions with that caretaker, and to express fear, distress and anger. Learning and memory processes are then set in motion to build a history of what sensing and motor actions "work" in obtaining warmth and food. We also begin very early to distinguish "right" from "wrong"--for example, by causing happy or angry facial or vocal expressions from a caretaker. The amygdala, a nucleus in the temporal lobe (see FIGURE 48.27), is central in recognizing the emotional content of facial expressions and laying down emotional memories.
+
+This emotional memory system seems to appear earlier in development than the system that supports explicit recall of events, which requires another limbic structure, the hippocampus. Adults who learn to avoid an aversive situation, such as a picture that is always followed by a mild electric shock, remember the picture and experience autonomic arousal--as measured by heart rate increase or sweating--if the picture is presented again. Some adults with damage to the hippocampus report that they do not recognize the picture, but the autonomic arousal mediated by the amygdala still occurs, for the emotional memory mediated by this structure is still intact. Conversely, other patients with damage just to the amygdala do not exhibit the autonomic reactions but recall the picture, because the hippocampus which is involved in explicit memory is functioning.
+
+As children develop, primary emotions such as pleasure and fear are associated with different situations in a process that requires portions of the neocortex, especially the frontal lobes. The existence of learning processes by which we accumulate emotional reactions to different situations are revealed by their disruption in some patients who have lesions or tumors in their frontal lobes. Their behavior is superficially normal most of the time--intellect and memory seem intact--but motivation, foresight, goal formation, and decision making are flawed. These patients are subject to bursts of immodest, impolite, or other inappropriate behaviors; they act almost as though their free will had been taken from them. Their emotions and feelings also are diminished. Frontal lobotomies, which disrupt the connection between the frontal lobes and the limbic system, were once performed widely to treat severe emotional disorders. However, the resulting docility was usually accompanied by a loss of the ability to concentrate, plan, and work toward goals, and thus drug therapy has replaced lobotomy for treating such severely ill individuals.
+
+Memory and Learning
+
+Our daily life is a constant checking of what is happening right now against what just happened a few moments ago. We hold information, anticipations, or goals for a time in short-term memory locations in the frontal lobes and then release them if they become irrelevant. Should we wish to retain knowledge of a face or a phone number, the mechanisms of long-term memory are activated in a process that requires the hippocampus, part of the limbic system (see FIGURE 48.27). If we later need to remember a name or number, we can fetch it from that long-term memory and place it back in our working memory. The transfer of information from short-term to long-term memory is enhanced by rehearsal ("practice makes perfect"), positive or negative emotional states mediated by the amygdala, and the association of new data with data previously learned and stored in long-term memory (it's easier to learn a new card game if you already have "card sense" from playing other games).
+
+Many sensory and motor association areas of the cerebral cortex outside the classical language areas are involved in storing and retrieving words and images from our mental dictionary. Studies of patients with brain lesions and imaging studies on unimpaired patients suggest, for example, that knowledge of unique persons is associated with the anterior portion of the left temporal lobe, knowledge of animals with activity in the middle lower part of this lobe, and knowledge of tools with the lower posterior part.
+
+The memorization of phone numbers, facts, and places--which can be very rapid and may require only one exposure to the relevant item--may rely mainly on rapid changes in the strength of existing nerve connections. In contrast, the slow learning and remembering of skills and procedures, such as a person's experience when trying to improve his or her tennis game, appear to involve cellular mechanisms very similar to those responsible for brain growth and development. Nerve cells actually make new connections. Skill memories usually involve motor activities that are learned by repetition without consciously remembering specific information. You perform learned motor skills, such as walking, tying your shoes, riding a bicycle, or writing without consciously recalling the individual steps required to do these tasks correctly. Once a skill memory is learned, it is difficult to unlearn. For example, a person who has played tennis for years with a self-taught, awkward backhand has a much tougher time learning the correct form than a beginner just learning the game. Bad habits, as we know, are difficult to break.
+
+Many exciting new experiments are documenting changes in gene expression and synaptic molecules that correlate with memory formation. Functional changes at certain synapses in the hippocampus and amygdala seem to be directly related to memory storage and emotional conditioning. One kind of change, called long-term depression (LTD), is decreased responsiveness to an action potential by a postsynaptic cell. LTD is induced by repeated, weak stimulation. A second kind of synaptic change, called long-term potentiation (LTP), is an enhanced responsiveness to action potentials by a postsynaptic cell. It can result when a presynaptic cell bombards a synapse with a series of brief, repeated action potentials that strongly depolarize the postsynaptic membrane. With LTP established, a single action potential from the presynaptic cell has a much greater effect at the synapse than before. Lasting for a matter of hours, days, or weeks, depending on the number and frequency of repeated action potentials, LTP may be what happens when a memory is being stored or when learning takes place. LTP is associated with the release of the excitatory neurotransmitter glutamate by the presynaptic cell. Glutamate binds with a specific class of receptors in the postsynaptic membrane, opening gated channels that are highly permeable to calcium ions (Ca2+). In turn, the Ca2+ triggers a cascade of enzyme activity in the postsynaptic cell, making it more responsive to stimulation.
+
+Human Consciousness
+
+When we use the word consciousness, we are usually referring to our own human version of self-consciousness, in which we experience ourselves as not only sensing, acting, and feeling in the present moment but also thinking about the past and the future. How many of these capabilities extend to other animals is a subject of a vigorous debate (see Chapter 51). Until relatively recently the study of human consciousness has been considered outside the province of hard science, more appropriate as a subject for philosophy and religion. This situation is changing as we learn more about the brain activities that underlie our behaviors. Brain imaging studies are showing changes in neuronal activity that correlate with conscious perceptual choices, unconscious versus conscious processing, retrieval of memories, and engaging working memory to plan for the future. There is a growing consensus that consciousness is an emergent property of the brain that recruits activities in many areas of the cortex. Several models suggest a scanning mechanism that repetitively sweeps across the brain to unite many of these disparate processes into a unified conscious moment. Rather than just being a matter of describing the details of how the areas described above are put together, approaching consciousness may also require the understanding of dynamic whole-brain patterns of activity that bear no more direct relationship to individual nerve cells than do hurricanes to their constituent water molecules.
+
+Understanding whole-brain phenomena such as consciousness represents one end of the spectrum of questions about nervous systems. At the other (microscopic) end is a frontier where neuroscientists are studying how neurons develop and organize into networks.
+
+
+
+
+
+ Research on neuron development and neural stem cells may lead to new approaches for treating CNS injuries and diseases
+
+Unlike the peripheral nervous system, the mammalian central nervous system cannot repair itself when damaged or assaulted by disease. The human brain can make new connections between surviving neurons and thus sometimes compensate for damage, as in the remarkable recoveries of some stroke victims. Generally speaking, however, spinal cord injuries, strokes, brain injuries, and diseases that destroy brain cells, such as Parkinson's and Alzheimer-s, have devastating effects. Current research on nerve cell development and the discovery of neural stem cells enhance our fundamental knowledge of the nervous system and may one day make it possible for physicians to repair or replace damaged neurons.
+
+Nerve Cell Development
+
+One of the key questions in neurobiology is how certain cells in a developing animal differentiate into neurons, migrate to their proper location, grow axons to specific places, and make synapses with the proper target cells. How is this accomplished without ending up with a useless tangle of neurons? The labs of Corey Goodman (University of California, Berkeley) and Marc Tessier-Lavigne (University of California, San Francisco) study how neurons find their way during development of the central nervous system. Their work combines elements of cell-to-cell communication (Chapter 11), control of gene expression (Chapter 19), and the genetic basis of development (Chapter 21).
+
+To reach their target cells, axons must grow anywhere from a few microns up to a meter in length (for example, from the human spinal cord to the foot). Axons do not follow a straight path from point A to point B; rather, molecular signposts along the way direct and redirect the growing axon in a series of mid-course corrections that result in a meandering, but not random, trek. The responsive region at the leading edge of the growing axon is called the growth cone. Signal molecules released by target cells bind to receptors on the plasma membrane of the growth cone, triggering a signal-transduction pathway (FIGURE 48.28). The response of the axon may be to grow toward the source of the signal molecules (attraction) or grow away from the source (repulsion). Cell adhesion molecules (CAMs) on the axon's growth cone also play a role; they attach to complementary cell adhesion molecules on surrounding cells that provide tracks for the growing axon to follow. Nerve growth factor released by astrocytes and growth-promoting proteins produced by the neurons themselves contribute to the process by stimulating growth of axons.
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-28. How do developing axons know which way to go? The region at the leading edge of a developing axon is called the growth cone; this area displays various receptors and cell adhesion molecules that bind to guidance signals from surrounding cells. This figure illustrates a few of the factors involved in axon guidance. In the examples shown here, (a) interneurons are induced to cross the midline of the spinal cord whereas (b) motor neurons are induced to grow away from the spinal cord, eventually to synapse with muscle or gland cells.
+
+Goodman, Tessier-Lavigne, and their colleagues have found the genes, gene products, and process of axon guidance to be remarkably similar in nematode worms (C. elegans), insects (Drosophila), and vertebrates, indicating evolutionary conservation of the genes and basic mechanism for this complex process.
+
+Development occurs in a space and time sequence that would seem difficult to replicate in order to repair or replace neurons in humans with damaged nervous systems. The growing axon expresses different genes at different times during its development, and is influenced by surrounding cells that it moves away from. Work continues on deciphering these developmental mechanisms, however, with the ultimate goal of repairing damaged neurological tissue. Using the right combination of attractants, repellants, growth-associated proteins, and growth factors, researchers hope to coax damaged axons to regrow, following the correct pathway and forming connections with the correct targets.
+
+Neural Stem Cells
+
+Until 1998, it was "common knowledge" that you were born with all the brain cells you would ever have. In that year, however, Fred Gage (Salk Institute for Biological Studies, La Jolla, California) and Peter Ericksson (Sahlgrenska University Hospital, G&ouml;teborg, Sweden) made a startling announcement: the human brain does produce new nerve cells in adulthood. Newly-divided cells were found in the hippocampus, an area of the brain involved with memory and learning (see FIGURE 48.27). It is not clear what function these new cells play in the human brain. However, mice that live in stimulating environments and run on exercise wheels have more new brain cells in their hippocampus and perform better on learning tasks than genetically-identical mice who live in standard cages. Perhaps people can also improve their brain capacity by stimulating their minds and exercising their bodies, resulting in a greater capacity for learning.
+
+The discovery of young brain cells in adult brains came about because of a bit of scientific serendipity and the generosity of some terminally ill cancer patients. Ericksson had been on sabbatical in Gage's lab, where the chemical marker bromodeoxyuridine (BrdU) was injected in mice to label the DNA of dividing cells. In a postmortem study, the brains of the mice were examined for new brain cells, which were identified by the marker. After Ericksson returned to Sweden for clinical work, he was on call with a cancer specialist who happened to mention that a group of terminally ill cancer patients was being given bromodeoxyuridine as part of a study to monitor tumor growth. Ericksson recognized this substance as the marker being used to look for new brain cells in the Gage lab. The patients agreed to donate their brains to science upon their death, and new neurons were found in all the patients.
+
+Mature brain cells, with their extensive processes and intricate connections to other cells, clearly are not able to undergo cell division. Therefore, the new brain cells must have come from stem cells. Recall from Chapter 21 that stem cells are relatively unspecialized cells that continually divide. Some offspring cells may differentiate into specialized cells under the right conditions, while cell division retains a supply of undifferentiated cells.
+
+One of the difficulties of conducting research on stem cells is finding a source of human stem cells. Various ethical and political issues surround the use of embryonic stem cells. In addition to the stem cells of an early embryo, certain tissues of an adult also have stem cells, though they may be less developmentally versatile than embryonic stem cells. For example, the bone marrow has stem cells that can differentiate into the various kinds of blood cells (see FIGURE 42.15). The existence of stem cells in the brain, however, is an exciting surprise.
+
+In May 2001, Gage and his colleagues announced that they had cultured neural progenitor cells from the brains of recently-deceased individuals and surgical tissue samples. The term "progenitor" refers to the fact that these stem cells are committed to becoming nerve cells; they are not as "plastic" as embryonic stem cells. In the lab, the neural progenitor cells divided 30-70 times and differentiated into neurons and astrocytes (FIGURE 48.29). Gage noted, "These results confirm that the adult human brain contains cells that can continue to divide and differentiate."
+
+
+
+Click image to enlarge
+
+
+
+Fig 48-29. Neural progenitor cell. This progenitor cell from the spinal cord has been stained to show the nucleus (green) and plasma membrane (red). The condensed chromosomes are aligned at the metaphase plate in the nucleus, indicating that the cell is undergoing mitosis.
+
+One of the goals of further research is to find a way to induce the body's own neural progenitor cells to differentiate into glia or specific types of neurons when and where they are needed. Also, cultured neural progenitor cells could be transplanted into damaged neurological tissue.
+
+In addition to the studies we-ve described here, many other researchers are exploring various approaches to preventing and treating central nervous system disorders and injuries.
+
+In the next chapter we examine in more detail the input and output elements of the nervous system--sensory receptors and motor effectors.
+
+
+
+

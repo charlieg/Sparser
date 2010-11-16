@@ -1,0 +1,58 @@
+
+ Species dispersal contributes to the distribution of organisms
+
+Why are there no kangaroos in North America? The biogeographer answers with the simplest response: They could not get there because of barriers to dispersal; the area was inaccessible to kangaroos. The dispersal of organisms is a critical process for understanding both geographic isolation in evolution (see Chapter 24) and the broad patterns of current geographic distributions.
+
+Species Transplants
+
+One way to determine if dispersal is a key factor limiting distribution is by observing the results when humans have accidentally or intentionally transplanted a species to areas where that species was previously absent. Some organisms can survive in new areas but cannot reproduce there, so we cannot determine the success of a transplant until at least one life cycle is complete. The two possible outcomes of the transplant direct further research.
+
+OutcomeInterpretationTransplant successfulDistribution limited because the area is inaccessible, time has been too short to reach the area, or the species fails to recognize the area as suitable living spaceTransplant unsuccessfulDistribution limited either by other species or by physical and chemical factorsIf a transplant is successful, then the potential range of the species is larger than its actual range, as FIGURE 50.6 illustrates for a hypothetical species. If a species does not occupy all of its potential range, we must determine why. Does the species lack suitable means of dispersal to reach new areas? Some animal species can in fact move into new areas but "choose" not to do so. For these species, we must study their mechanisms of habitat selection.
+
+
+
+Click image to enlarge
+
+
+
+Fig 50-6. Set of transplant experiments for a hypothetical species. The results of many separate transplant experiments would be needed to define the limits of the potential range; only four are shown here.
+
+If the species cannot survive and reproduce in the transplant areas, we must ask whether biotic or abiotic factors exclude it from these areas. Limits imposed by other species (biotic factors) may involve the negative effects of predators, parasites, pathogens, or competitors. Or the transplant area could lack required positive effects of interdependent species, such as pollinators that are present within the actual range of a transplanted angiosperm. If other species do not set limits on the range, we are left with the last possibility that physical or chemical factors (abiotic factors) set the geographic range limits. For example, many tropical plant species cannot withstand freezing temperatures, and the frost line effectively limits their distribution.
+
+A proper transplant experiment should have a control, transplants done within the existing distribution to provide data on the effects of handling and transplanting the individual organisms. However, ecologists rarely conduct transplant experiments today. Instead, they document the outcomes when species have been transplanted for other purposes, such as to introduce game animals, or when species have been accidentally transplanted.
+
+Problems with Introduced Species
+
+Although many species are naturally restricted to particular biogeographic realms by their dispersal abilities, humans have managed to move species around the globe, particularly during the last 200 years. In fact, the most spectacular examples of dispersal affecting distribution occur when species that have been deliberately or accidentally introduced by humans explode to occupy a new area. Let's examine a couple of examples.
+
+The African Honeybee. The African honeybee is a good example of how the human introduction of a species to new areas can have unpredicted and undesirable consquences. The African honeybee (Apis mellifera scutellata) is a very aggressive subspecies of honeybee that was brought to Brazil in 1956 to breed a variety that would produce more honey in the tropics than the standard Italian honeybee (Apis mellifera ligustica). The African bees escaped by accident in 1957 and have been spreading throughout the Americas ever since (FIGURE 50.7). Because African bees are aggressive, they may drive out the established colonies of Italian honeybees. In other situations, hybrids form between the African and Italian subspecies. In 1982, the African honeybee crossed the Panama Canal. It reached Mexico in 1985 and southern Texas in 1990. Moving roughly 110 km per year, it crossed the border into California in 1994 and is currently spreading into the southern United States. By December 2000, the African bee had reached northern Texas, southern California, southern Nevada, and all of Arizona. Unfortunately, African bees are aggressive toward humans and domestic animals, and accounts of severe stinging and even deaths have served to map the spread of the African bee. By 2000, ten people had been killed by these bees in the United States, and beekeepers are understandably worried that the African bee will damage the established honeybee industry. What factors limit the distribution of the African honeybee in North America? Will this species be able to live as far north as northern California and North Carolina? Will cold winters prevent it from moving farther north? Ecologists do not yet know the answers to these questions.
+
+
+
+Click image to enlarge
+
+
+
+Fig 50-7. Spread of the African honeybee in the Americas since 1956.
+
+The Zebra Mussel. In 1988, the zebra mussel (Dreissena polymorpha), a fingernail-sized mollusk native to the freshwater Caspian Sea of Asia, was discovered in Lake St. Claire near Detroit. No one knows for sure how the species got transplanted there. The best guess is that around 1985, a ship carried larvae of the mussel in its ballast water from a freshwater port in Europe to the Great Lakes, where the ballast water was emptied with no concern about what organisms it might contain.
+
+The zebra mussel quickly became a pest in North America. It reproduces rapidly and forms dense clusters several layers thick on hard surfaces. The mussels were first noticed when they reached densities of 750,000 per square meter in water pipes in Lake Erie and clogged the water intakes of city water systems, electrical power stations, and other industrial facilities in the Great Lakes.
+
+Since 1988, zebra mussels have spread rapidly in the river systems of the central United States (FIGURE 50.8). Because they are such efficient suspension feeders, zebra mussels actually make the water much clearer, but they alter the native communities of organisms in the process. By feeding on phytoplankton, the mussels depress populations of zooplankton; and the clearer water admits more sunlight, increasing the growth of rooted aquatic plants in shallow waters. In the Hudson River in New York, phytoplankton biomass was reduced about 85%  after zebra mussels invaded; zooplankton, which feed on phytoplankton, declined by more than 70% . Some fish and ducks eat zebra mussels, but these predators are too few to slow down population growth of the mussels. Zebra mussels crowd out native mollusk species by colonizing all hard surfaces, including the shells of freshwater clams. The result can be local extinction of the native species.
+
+
+
+Click image to enlarge
+
+
+
+Fig 50-8. Expansion of the geographic range of the zebra mussel (Dreissena polymorpha) since its discovery near Detroit in 1988.
+
+The Tens Rule. Not all introduced species thrive in their new homes, and many of the species humans have moved around the globe have failed to colonize new areas. For example, bird introductions into continental areas are usually failures. In North America, for example, only 13 species of introduced birds are common, although 98 species have been introduced. In Europe, only 13 successful establishments of birds are recorded out of 85 species introduced. A rough generalization for the success of introduced species is the tens rule, which makes the statistical prediction that an average of one out of ten introduced species become established, and one out of ten established species become common enough to become pests.
+
+The ability of species to disperse is important on a global scale but rarely an important factor limiting the local distribution of organisms. Species have many special adaptations for dispersal and often colonize nearby areas. On a global scale, barriers to dispersal help to determine the biogeographic distribution patterns among continents and islands. The ability of humans to overcome these barriers and move species is just one example of how we are altering the biosphere.
+
+
+
+

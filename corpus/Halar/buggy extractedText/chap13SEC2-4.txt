@@ -1,0 +1,52 @@
+
+ Meiosis reduces chromosome number from diploid to haploid: a closer look
+
+Many of the steps of meiosis closely resemble corresponding steps in mitosis. Meiosis, like mitosis, is preceded by the replication of chromosomes. However, this single replication is followed by two consecutive cell divisions, called meiosis I and meiosis II. These divisions result in four daughter cells (rather than the two daughter cells of mitosis), each with only half as many chromosomes as the parent cell. Study the overview of meiosis in FIGURE 13.6, and be sure you understand the difference between homologous chromosomes and sister chromatids. The two chromosomes of a homologous pair are individual chromosomes that were inherited from different parents. Homologues appear alike in the microscope, but they have different versions of genes at some of their corresponding loci (for example, a gene for freckles on one chromosome and a gene for the absence of freckles at the same locus on the homologue).
+
+
+
+Click image to enlarge
+
+
+
+Fig 13-6. Overview of meiosis: how meiosis reduces chromosome number. After the chromosomes replicate once, the diploid cell divides twice, yielding four haploid daughter cells. This overview tracks just one pair of homologous chromosomes, which for the sake of simplicity are drawn in the condensed state throughout (they would not normally be condensed during interphase). Homologues in this and later figures are colored red and blue to remind you that they carry different versions of some genes.
+
+FIGURE 13.7 on pages 240-241 describes in some detail the two divisions of meiosis for an animal cell whose diploid number is 4. Study FIGURE 13.7 thoroughly before going on to the next section.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 13-7. The stages of meiotic cell division. These diagrams show meiotic cell division for an animal cell with a diploid number of 4 (2n = 4). The behavior of the chromosomes is emphasized by the use of red and blue to differentiate the members of each homologous pair. For a discussion of the spindle and other features common to mitosis and meiosis, see Chapter 12.
+
+Mitosis and Meiosis Compared
+
+Now that you have followed chromosomes through meiosis in FIGURE 13.7, let's summarize the key differences between meiosis and mitosis. The chromosome number is reduced by half in meiosis but not in mitosis. The genetic consequences of this difference are important. Whereas mitosis produces daughter cells genetically identical to their parent cell and to each other, meiosis produces cells that differ genetically from their parent cell and from each other.
+
+FIGURE 13.8 compares the key steps of mitosis and meiosis. Although meiosis involves two cell divisions, three events that are unique to meiosis all occur during the first of the divisions, meiosis I:
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 13-8. A comparison of mitosis and meiosis. (In this chapter, we consider prophase to include prometaphase.)
+
+During prophase I of meiosis, the duplicated chromosomes pair with their homologues, a process called synapsis. For part of prophase I, a protein "zipper"--the synaptonemal complex--holds the homologous chromosomes tightly together all along their lengths. When the synaptonemal complex disappears in late prophase, the four closely associated chromatids of a homologous pair are visible in the light microscope as a tetrad. Also visible in the light microscope are X-shaped regions called chiasmata (singular, chiasma). They represent a crossing of nonsister chromatids, which are two chromatids belonging to separate but homologous chromosomes. Chiasmata are the physical manifestations of a genetic rearrangement called crossing over, discussed in the next section. Neither synapsis nor chiasma formation occurs during mitosis.
+
+At metaphase I of meiosis, homologous pairs of chromosomes, rather than individual chromosomes, align on the metaphase plate.
+
+At anaphase I of meiosis, sister chromatids do not separate, as they do in mitosis. Rather, the two sister chromatids of each chromosome remain attached and go to the same pole of the cell. Meiosis I separates homologous pairs of chromosomes, not sister chromatids of individual chromosomes.
+
+The second meiotic division, meiosis II, separates sister chromatids and is virtually identical in mechanism to mitosis. However, since the chromosomes do not replicate between meiosis I and meiosis II, the final outcome of meiosis is a halving of the number of chromosomes per cell--a reduction from two haploid sets to one haploid set in each cell.
+
+
+
+

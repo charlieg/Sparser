@@ -1,0 +1,48 @@
+
+Chapter 19: THE ORGANIZATION AND CONTROL OF EUKARYOTIC GENOMES
+
+EUKARYOTIC CHROMATIN STRUCTURE
+
+   Chromatin structure is based on successive levels of DNA packing
+
+
+
+GENOME ORGANIZATION AT THE DNA LEVEL
+
+   Repetitive DNA and other noncoding sequences account for much of a eukaryotic genome
+
+   Gene families have evolved by duplication of ancestral genes
+
+   Gene amplification, loss, or rearrangement can alter a cell's genome during an organism's lifetime
+
+
+
+THE CONTROL OF GENE EXPRESSION
+
+   Each cell of a multicellular eukaryote expresses only a small fraction of its genes
+
+   The control of gene expression can occur at any step in the pathway from gene to functional protein: an overview
+
+   Chromatin modifications affect the availability of genes for transcription
+
+   Transcription initiation is controlled by proteins that interact with DNA and with each other
+
+   Post-transcriptional mechanisms play supporting roles in the control of gene expression
+
+
+
+THE MOLECULAR BIOLOGY OF CANCER
+
+   Cancer results from genetic changes that affect the cell cycle
+
+   Oncogene proteins and faulty tumor-suppressor proteins interfere with normal signaling pathways
+
+   Multiple mutations underlie the development of cancer
+
+Eukaryotic cells face the same challenges as prokaryotic cells in expressing their genes, but with two main differences: the much greater size of the typical eukaryotic genome and the importance of cell specialization in multicellular eukaryotes. These two complications present a formidable information-processing task for the eukaryotic cell.
+
+Consider the genome of a human cell. It has an estimated 35,000 genes--more than ten times that of a typical bacterium. It also includes an enormous amount of DNA that does not program the synthesis of RNA or protein. The entire mass of DNA must be precisely replicated with each turn of the cell cycle. Managing so much DNA requires that it be elaborately organized. In both prokaryotes and eukaryotes, DNA associates with proteins to form chromatin, but in the eukaryotic cell, the chromatin is ordered into higher structural levels. The light micrograph above gives a sense of the complex organization of chromatin in a developing salamander ovum. Part of the chromatin (white) is packed into the main axis of each of the chromosome's two chromatids, while other parts (red loops) are being actively transcribed. As in prokaryotes, transcription is the stage at which eukaryotic gene expression is most often regulated. In this chapter, you will learn more about the structure of eukaryotic chromosomes, the organization of nucleotide sequences in eukaryotic genomes, and the mechanisms of eukaryotic gene control. You will also learn about DNA changes that disrupt gene regulation and lead to cancer.
+
+
+
+

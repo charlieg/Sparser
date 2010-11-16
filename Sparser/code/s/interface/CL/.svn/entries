@@ -1,0 +1,50 @@
+9
+
+dir
+1
+svn+ssh://dmcdonal@hops.dsl.bbn.com/cvs2/svn/nlp/Sparser/code/s/interface/C&L
+svn+ssh://dmcdonal@hops.dsl.bbn.com/cvs2/svn/nlp
+
+
+
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+testing-pkg.lisp
+file
+
+
+
+
+
+0aaa47b4377f42cda0f2b08a0528c26f
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+has-props
+has-prop-mods
+
+eta
+dir
+
+cfr
+dir
+
+loader1.lisp
+file
+
+
+
+
+
+f3da92a85ce740f78516521c8aa88809
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+has-props
+has-prop-mods
+

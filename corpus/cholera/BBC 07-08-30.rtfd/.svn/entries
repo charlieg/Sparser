@@ -1,0 +1,41 @@
+9
+
+dir
+344
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/corpus/cholera/BBC%2007-08-30.rtfd
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+news_logo.gif
+file
+
+
+
+
+2007-09-26T19:48:09.000000Z
+0e147ccbffabb54aeb84d344a6454af0
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+has-props
+
+TXT.rtf
+file
+
+
+
+
+2007-09-26T19:48:09.000000Z
+d8b5da0f6f3c2f2ff36e141a7edaf24c
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+

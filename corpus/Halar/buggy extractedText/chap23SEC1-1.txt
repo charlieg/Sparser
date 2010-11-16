@@ -1,0 +1,26 @@
+
+POPULATION GENETICS
+
+ 
+
+ The modern evolutionary synthesis integrated Darwinian selection and Mendelian inheritance
+
+
+
+ 
+
+ A population's gene pool is defined by its allele frequencies
+
+
+
+ 
+
+ The Hardy-Weinberg theorem describes a nonevolving population
+
+
+
+The Origin of Species convinced most biologists that species are products of evolution, but Darwin was not nearly so successful in gaining acceptance for his idea that natural selection is the main mechanism of evolution. Natural selection requires hereditary processes that Darwin could not explain. His theory was based on what seems like a paradox of inheritance: Like begets like--but not exactly. What was missing in Darwin's explanations was an understanding of inheritance that could explain how chance variations arise in a population while also accounting for the precise transmission of these variations from parents to offspring. Although Gregor Mendel and Charles Darwin were contemporaries, Mendel's discoveries were unappreciated at the time, and apparently no one noticed that he had elucidated the very principles of inheritance that could have resolved Darwin's paradox and given credibility to natural selection.
+
+
+
+

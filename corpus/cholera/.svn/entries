@@ -1,0 +1,34 @@
+9
+
+dir
+344
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/corpus/cholera
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+BBC 07-08-30.rtfd
+dir
+
+BBC 07-05-09.rtfd
+dir
+
+BBN 07-09-26.rtf
+file
+
+
+
+
+2007-09-26T16:31:27.000000Z
+741c9246839c502b044ee37a88c606a7
+2008-04-28T13:25:51.714038Z
+123
+dmcdonal
+

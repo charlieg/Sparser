@@ -1,0 +1,32 @@
+
+ Cell division distributes identical sets of chromosomes to daughter cells
+
+A cell's endowment of DNA, its genetic information, is called its genome. Although a prokaryotic genome is often a single long DNA molecule, eukaryotic genomes usually consist of a number of DNA molecules. The overall length of DNA in a eukaryotic cell is enormous. A typical human cell, for example, has about 3 m of DNA--a length about 300,000 times greater than the cell's diameter. Yet before the cell can divide, all of this DNA must be copied and then the two copies separated so that each daughter cell ends up with a complete genome.
+
+The replication and distribution of so much DNA is manageable because the DNA molecules are packaged into chromosomes, so named because they take up certain dyes used in microscopy (chromo, colored, and somes, bodies) (FIGURE 12.2). Every eukaryotic species has a characteristic number of chromosomes in each cell nucleus. For example, the nuclei of human somatic cells (all body cells except the reproductive cells) each contain 46 chromosomes. Reproductive cells, or gametes--sperm cells and egg cells--have half as many chromosomes as somatic cells, or 23 chromosomes in humans.
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-2. Eukaryotic chromosomes. A tangle of chromosomes (stained orange) is visible within the nucleus of this kangaroo rat epithelial cell. The cell is preparing to divide (LM).
+
+Incorporated into each eukaryotic chromosome is one very long, linear DNA molecule representing hundreds or thousands of genes, the units that specify an organism's inherited traits. The DNA is associated with various proteins that maintain the structure of the chromosome and help control the activity of the genes. This DNA-protein complex, called chromatin, is organized into a long, thin fiber. After a cell duplicates its DNA in preparation for division, the chromatin condenses: It becomes densely coiled and folded, making the chromosomes much shorter and so thick that we can see them with a light microscope.
+
+Each duplicated chromosome has two sister chromatids. The two chromatids, containing identical copies of the chromosome's DNA molecule, are initially attached by proteins all along their lengths. In its condensed form, the chromosome has a narrow "waist" at a specialized region called the centromere (FIGURE 12.3). Later in the cell division process, the sister chromatids of all the chromosomes are pulled apart and repackaged as complete chromosome sets in two new nuclei, one at each end of the cell. Mitosis, the division of the nucleus, is usually followed immediately by cytokinesis, the division of the cytoplasm. Where there was one cell, there are now two, each the genetic equivalent of the parent cell.
+
+
+
+Click image to enlarge
+
+
+
+Fig 12-3. Chromosome duplication and distribution during mitosis. A eukaryotic cell preparing to divide duplicates each of its multiple chromosomes, one of which is represented here. A duplicated chromosome consists of two sister chromatids, which narrow at their centromeres. The micrograph shows a human chromosome in this state (SEM). Each chromatid consists of one very long chromatin fiber folded and coiled in a compact arrangement. The DNA molecules of the sister chromatids are identical. As mitosis continues, mechanical processes separate the sister chromatids and distribute them to two daughter cells. Chromosomes normally exist in the highly condensed state here only during the process of mitosis.
+
+What happens to chromosome number as we follow the human life cycle through the generations? You inherited 46 chromosomes, one set of 23 from each parent. They were combined in the nucleus of a single cell when a sperm cell from your father united with an egg cell from your mother to form a fertilized egg, or zygote. Mitosis and cytokinesis produced the trillions of somatic cells that now make up your body, and the same processes continue to generate new cells to replace dead and damaged ones. In contrast, you produce gametes--eggs or sperm cells--by a variation of cell division called meiosis, which yields daughter cells that have half as many chromosomes as the parent cell. Meiosis occurs only in your gonads (ovaries or testes). In each generation of humans, meiosis reduces the chromosome number from 46 to 23. Fertilization fuses two gametes together and doubles the chromosome number to 46 again, and mitosis conserves that number in every somatic cell nucleus of the new individual. In Chapter 13, we will examine the role of meiosis in reproduction and inheritance in more detail. In the remainder of this chapter, we focus on mitosis and the rest of the mitotic cell cycle.
+
+
+
+

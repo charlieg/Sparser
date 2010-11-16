@@ -1,0 +1,42 @@
+
+ The life cycle of an angiosperm is a highly refined version of the alternation of generations common to all plants
+
+Angiosperms are heterosporous, a characteristic they share with all seed plants. The flower of the sporophyte produces microspores that form male gametophytes and megaspores that form female gametophytes (FIGURE 30.17). The immature male gametophytes are contained within pollen grains, which develop within the anthers of stamens. Each pollen grain has two haploid cells. Ovules, which develop in the ovary, contain the female gametophyte, also known as the embryo sac. It consists of only a few cells, one of which is the egg. (We'll describe the development of pollen and the embryo sac in more detail in Chapter 38.) Notice that the evolutionary trend toward reduction of the gametophyte generation in vascular plants continued with the angiosperms.
+
+
+
+Click image to enlarge
+
+
+
+Fig 30-17. The life cycle of an angiosperm. 
+			  
+		 The anthers of the flower produce 
+			  
+		 microspores that form 
+			  
+		 male gametophytes (pollen). 
+			  
+		 The ovules produce megaspores that form 
+			  
+		 female gametophytes (embryo sacs). 
+			  
+		 Pollination brings the gametophytes together in the ovary. 
+			  
+		 Double fertilization occurs, and 
+			  
+		 zygotes develop into sporophyte embryos that are packaged along with food into seeds. (The fruit tissues surrounding the seed are omitted in this diagram.) When a seed germinates, the embryo grows and develops into a sporophyte.
+
+After its release from the anther, the pollen is carried to the sticky stigma at the tip of a carpel. Although some flowers self-pollinate, most have mechanisms that ensure cross-pollination, the transfer of pollen from flowers of one plant to flowers of another plant of the same species. In some cases, stamens and carpels of a single flower may mature at different times, or the organs may be so arranged within the flower that self-pollination is unlikely.
+
+The pollen grain germinates (begins growing) after it adheres to the stigma of a carpel. The pollen grain, now containing a mature male gametophyte, extends a tube that grows down within the style of the carpel. After it reaches the ovary, the pollen tube penetrates through the micropyle, a pore in the integuments of the ovule, and discharges two sperm cells into the female gametophyte (embryo sac). One sperm nucleus unites with the egg, forming a diploid zygote. The other sperm nucleus fuses with the two nuclei in the large center cell of the female gametophyte. This central cell now has a triploid (3n) nucleus. This phenomenon, known as double fertilization, is characteristic of angiosperms. (Double fertilization also evolved independently in some gymnosperms of phylum Gnetophyta.)
+
+After double fertilization, the ovule matures into a seed. The zygote develops into a sporophyte embryo with a rudimentary root and either one or two seed leaves, the cotyledons (monocots have one seed leaf and dicots have two, hence their names). The triploid nucleus in the center of the embryo sac divides repeatedly, giving rise to a triploid tissue called endosperm, rich in starch and other food reserves. Monocot seeds such as corn store most of their food in the endosperm. Beans and many other dicots transfer most of the nutrients from the endosperm to the developing cotyledons.
+
+What is the function of double fertilization? According to one hypothesis, double fertilization synchronizes the development of food storage in the seed with development of the embryo. If a particular flower is not pollinated or sperm cells are not discharged into the embryo sacs, fertilization does not occur and neither embryo nor endosperm forms. Perhaps double fertilization is an adaptation that prevents flowering plants from squandering nutrients on infertile ovules.
+
+The seed consists of the embryo, endosperm, sporangium, and a seed coat derived from the integuments (outer layers of the ovule). An ovary develops into a fruit as its ovules develop into seeds. After being dispersed by wind or animals, a seed germinates if environmental conditions are favorable. The coat ruptures and the embryo emerges as a seedling, using the food stored in the endosperm and cotyledons.
+
+
+
+

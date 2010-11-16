@@ -1,0 +1,22 @@
+
+ Some ion pumps generate voltage across membranes
+
+All cells have voltages across their plasma membranes. Voltage is electrical potential energy--a separation of opposite charges. The cytoplasm of a cell is negative in charge compared to the extracellular fluid because of an unequal distribution of anions and cations on opposite sides of the membrane. The voltage across a membrane, called a membrane potential, ranges from about -50 to -200 millivolts. (The minus sign indicates that the inside of the cell is negative compared to the outside.)
+
+The membrane potential acts like a battery, an energy source that affects the traffic of all charged substances across the membrane. Because the inside of the cell is negative compared to the outside, the membrane potential favors the passive transport of cations into the cell and anions out of the cell. Thus, two forces drive the diffusion of ions across a membrane: a chemical force (the ion's concentration gradient) and an electrical force (the effect of the membrane potential on the ion's movement). This combination of forces acting on an ion is called the electrochemical gradient. In the case of ions, we must refine our concept of passive transport: An ion does not simply diffuse down its concentration gradient, but diffuses down its electrochemical gradient. For example, the concentration of sodium ions (Na+) inside a resting nerve cell is much lower than outside it. When the cell is stimulated, gated channels that facilitate Na+ diffusion open. Sodium ions then "fall" down their electrochemical gradient, driven by the concentration gradient of Na+ and by the attraction of cations to the negative side of the membrane.
+
+Some membrane proteins that actively transport ions contribute to the membrane potential. An example is the sodium-potassium pump. Notice in FIGURE 8.15 that the pump does not translocate Na+ and K+ one for one, but actually pumps three sodium ions out of the cell for every two potassium ions it pumps into the cell. With each crank of the pump, there is a net transfer of one positive charge from the cytoplasm to the extracellular fluid, a process that stores energy in the form of voltage. A transport protein that generates voltage across a membrane is called an electrogenic pump. The sodium-potassium pump seems to be the major electrogenic pump of animal cells. The main electrogenic pump of plants, bacteria, and fungi is a proton pump, which actively transports hydrogen ions (protons) out of the cell. The pumping of H+ transfers positive charge from the cytoplasm to the extracellular solution (FIGURE 8.17).
+
+
+
+Click image to enlarge
+
+
+
+Fig 8-17. An electrogenic pump. Proton pumps, the main electrogenic pumps of plants, fungi, and bacteria, are membrane proteins that store energy by generating voltage (charge separation) across membranes. Using ATP for power, a proton pump translocates positive charge in the form of hydrogen ions. The voltage and H+ gradient represent a dual energy source that can drive other processes, such as the uptake of nutrients.
+
+By generating voltage across membranes, electrogenic pumps store energy that can be tapped for cellular work, including a type of membrane traffic called cotransport.
+
+
+
+

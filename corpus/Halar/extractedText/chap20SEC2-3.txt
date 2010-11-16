@@ -1,0 +1,100 @@
+
+ Genes can be cloned in recombinant DNA vectors: a closer look
+
+With a restriction enzyme and DNA ligase in our toolkit, we can make the recombinant plasmid depicted in step 2 of FIGURE 20.1. The original plasmid is called a cloning vector, defined as a DNA molecule that can carry foreign DNA into a cell and replicate there. Bacterial plasmids are widely used as cloning vectors. Recombinant plasmids produced by splicing restriction fragments from foreign DNA into plasmids isolated from bacteria can be returned relatively easily to bacteria. Then, as a bacterium carrying a recombinant plasmid reproduces, the plasmid replicates within it. The resulting cell clone, which appears as a colony on solid nutrient medium, contains multiple copies--a "clone"--of the foreign DNA.
+
+Bacteria are the most commonly used host cells for gene cloning, primarily because of the ease with which DNA can be isolated from and reintroduced into such cells. Bacterial cultures also grow quickly, rapidly replicating any foreign genes they carry.
+
+Procedure for Cloning a Eukaryotic Gene in a Bacterial Plasmid
+
+Suppose we want to clone a particular eukaryotic gene using the method sketched out in steps 1-5 of FIGURE 20.1. The more detailed diagram in FIGURE 20.3 shows one way we might proceed. The step numbers in the text that follows correspond to the numbers in the figure.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-3. Cloning a human gene in a bacterial plasmid: a closer look. In this figure, double-stranded DNA is represented as a single band. (Refer to FIGURE 20.2 to see steps 2a-2c in more detail.) The circled numbers correspond to numbered steps in the text. The diagram focuses on a fragment of human DNA carrying a gene of interest (black), but steps 2a-2c actually produce an enormous variety of recombinant plasmids, each of which shows up as a separate colony in step 4. The method used to identify the clones of interest (step 4b) relies on the ampR and lacZ genes of the vector used here; other vectors and identification methods can also be used. Identifying the desired colony, step 5, is often the greatest challenge in this "shotgun" procedure.
+
+
+			  
+		Isolation of vector and gene-source DNA. We begin by preparing two kinds of DNA: the bacterial plasmid we'll use as a vector and DNA containing the gene of interest. This latter DNA comes from human tissue cells that we have grown in laboratory culture. The plasmid comes from the bacterium E. coli and carries two genes that will later prove useful: ampR, conferring resistance to the antibiotic ampicillin on its E. coli host cell, and lacZ, encoding the enzyme b-galactosidase, which catalyzes the hydrolysis of the sugar lactose. The plasmid has a single recognition sequence for the restriction enzyme used, and the sequence lies within the lacZ gene.
+
+
+			  
+		Insertion of DNA into the vector. In step 2a, we digest both the plasmid and the human DNA with the same restriction enzyme. The enzyme cuts the plasmid DNA at its single restriction site, disrupting the lacZ gene. It also cuts the human DNA, generating many thousands of fragments; one of these fragments carries the gene we want. In making the cuts, the restriction enzyme creates compatible sticky ends on both the human DNA fragments and the plasmid. For simplicity, FIGURE 20.3 shows the step-by-step processing of one human DNA fragment and one plasmid; but actually, millions of copies of the plasmid and a heterogeneous mixture of millions of human DNA fragments are treated simultaneously.
+
+In step 2b, we mix the fragments of human DNA with the clipped plasmids. The sticky ends of a plasmid base-pair with the complementary sticky ends of the human DNA fragment we are following. (Many other combinations form as well, such as two plasmids together or a plasmid with several DNA fragments; and re-formed, nonrecombinant plasmids are also common.) In step 2c, we use the enzyme DNA ligase to join the DNA molecules by covalent bonds. The result is a mixture of recombinant DNA molecules, some of which are like the one shown.
+
+
+			  
+		Introduction of the cloning vector into cells. In this step, bacterial cells take up the recombinant plasmids by transformation (the uptake of naked DNA from the surrounding solution; see pp. 341-342). The bacteria are lacZ- a mutation in gene lacZ makes them unable to hydrolyze lactose. Some of the bacteria acquire the desired recombinant plasmid DNA; many other cells take up other DNA, both recombinant and nonrecombinant.
+
+
+			  
+		Cloning of cells (and foreign genes). Finally, we arrive at the actual cloning step. We plate out the transformed bacteria on solid nutrient medium containing ampicillin and a sugar called X-gal (step 4a). Each reproducing bacterium forms a cell clone that appears as a colony on the nutrient medium. In the process, any human genes carried by recombinant plasmids are also cloned. We take advantage of the plasmid's own genes to select colonies of cells that carry recombinant plasmids. The ampicillin in the medium ensures that only plasmid-containing cells grow, for only they have the ampR gene conferring ampicillin resistance. The X-gal in the medium makes it easy to identify colonies of bacteria whose plasmids carry foreign DNA. X-gal is hydrolyzed by b-galactosidase to yield a blue product, so bacterial colonies containing plasmids with intact b-galactosidase genes will be blue. But if a plasmid has foreign DNA inserted into its lacZ gene, then a colony of cells containing it will be white, because the cells cannot produce b-galactosidase. In summary, with this method, bacteria with recombinant plasmids carrying foreign DNA will form white colonies on medium containing ampicillin and X-gal (step 4b).
+
+Our procedure to this point will have cloned many different human DNA fragments, not just the one that interests us. The next step, screening colonies for the desired human gene, is the most difficult.
+
+
+			  
+		Identification of cell clones carrying the gene of interest. How can we distinguish the colony containing our gene of interest from the many thousands of colonies carrying other pieces of human DNA? We can look either for the gene itself or for its protein product. All the methods for detecting the DNA of a gene directly depend on base pairing between the gene and a complementary sequence on another nucleic acid molecule, a process called nucleic acid hybridization. The complementary molecule, a short, single-stranded nucleic acid that can be either RNA or DNA, is called a nucleic acid probe. If we know at least part of the nucleotide sequence of our gene (perhaps from knowledge of the protein it encodes), we can synthesize a probe complementary to it.
+
+We trace the probe, which will hydrogen-bond specifically to complementary single strands of the desired gene, by labeling it with a radioactive isotope or a fluorescent tag. FIGURE 20.4 (p. 380) shows how a number of bacterial clones, growing as colonies on a plate of solid medium (agar), can be simultaneously screened for the presence of DNA complementary to a DNA probe. An essential step is the denaturation of the cells' DNA--that is, the separation of its two strands. As with protein denaturation, DNA denaturation is routinely accomplished with chemicals or heat. The labeled probe tags the colonies carrying the targeted gene.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-4. Using a nucleic acid probe to identify a cloned gene. This technique depends on the fact that complementary nucleotide sequences will base-pair, stuck together by hydrogen bonds. Here the cloned gene of interest is carried on a bacterial plasmid, and the probe is a short length of radioactive single-stranded DNA complementary to part of the gene. 
+			  
+		 Bacterial colonies on agar are pressed against special filter paper, transferring cells to the filter. 
+			  
+		 The filter is treated to break open the cells and denature their DNA; the resulting single-stranded DNA molecules stick to the filter. 
+			  
+		 A solution of probe molecules is incubated with the filter. The probe DNA hybridizes (base-pairs) with any complementary DNA on the filter; excess DNA is rinsed off. 
+			  
+		 The filter is laid on photographic film, allowing any radioactive areas to expose the film (autoradiography). 
+			  
+		 The developed film, an autoradiograph, is compared with the master culture plate to determine which colonies carry the desired gene.
+
+Once we've identified a cell clone carrying the desired gene, we can grow the cells in liquid culture in a large tank and then easily isolate large amounts of the gene. Also, we can use the cloned gene itself as a probe to identify similar or identical genes in DNA from other sources.
+
+If the cells containing a desired gene translate the gene into protein, then it is sometimes possible to identify them by screening all clones for the protein. Detection of the protein can be based on either its activity (as with an enzyme) or its structure, using antibodies that bind specifically to it. However, for bacterial cells to make a eukaryotic protein, we need to take special measures, as discussed next.
+
+Cloning and Expressing Eukaryotic Genes: Problems and Solutions
+
+Getting a cloned eukaryotic gene to function in a prokaryotic setting can be difficult because certain details of gene expression are different in the two kinds of cells. To overcome differences in promoters and other DNA control sequences, scientists usually employ an expression vector, a cloning vector that contains the requisite prokaryotic promoter just upstream of a restriction site where the eukaryotic gene can be inserted. The bacterial host cell will then recognize the promoter and proceed to express the foreign gene that has been linked to it. Expression vectors allow the synthesis of many eukaryotic proteins in bacterial cells.
+
+Another problem with cloning and expressing eukaryotic DNA in bacteria is the presence of long noncoding regions (introns) in most eukaryotic genes. Introns can make a eukaryotic gene very long and unwieldy, and they prevent correct expression of the gene by bacterial cells, which do not have RNA-splicing machinery. Fortunately, we can make artificial eukaryotic genes that lack introns (FIGURE 20.5). The starting material for this procedure is fully processed mRNA, which has been stripped of introns in the eukaryotic cell nucleus. We can extract this mRNA from cells and then use the enzyme reverse transcriptase (obtained from retroviruses) to make DNA transcripts of this RNA. Each DNA molecule produced carries the complete coding sequence for a gene but no introns. This DNA is called complementary DNA, or cDNA, and can be attached to vector DNA for replication inside a cell. Bacteria can express a eukaryotic cDNA gene if the vector provides a bacterial promoter and any other control elements necessary for the gene's transcription and translation.
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-5. Making complementary DNA (cDNA) for a eukaryotic gene. Complementary DNA is DNA made in vitro using mRNA as a template and the enzyme reverse transcriptase. The synthesis and splicing of an mRNA molecule in a cell nucleus is shown in steps 
+			  
+		 and 
+			  
+		. In step 
+			  
+		, we isolate the mRNA molecules from the cell and add reverse transcriptase, which makes a DNA strand using the RNA as a template. We provide 
+			  
+		 another enzyme to degrade the RNA and 
+			  
+		 DNA polymerase to synthesize a second DNA strand. The result is cDNA, which carries the complete coding sequence of the gene but no introns.
+
+Molecular biologists can avoid eukaryotic-prokaryotic incompatibility by using eukaryotic cells rather than bacteria as hosts for cloning and/or expressing eukaryotic genes of interest. Yeast cells, single-celled fungi, offer two advantages: They are as easy to grow as bacteria, and they have plasmids, a rarity among eukaryotes. Scientists have even constructed recombinant plasmids that combine yeast and bacterial DNA and can replicate in either type of cell. Scientists have also constructed vectors called yeast artificial chromosomes (YACs) that combine the essentials of a eukaryotic chromosome--an origin for DNA replication, a centromere, and two telomeres--with foreign DNA. These chromosomes behave normally in mitosis, cloning the foreign DNA as the yeast cell divides. A YAC can carry much more DNA than can a plasmid vector, enabling very long pieces of DNA to be cloned.
+
+Another reason to use eukaryotic host cells for expressing a cloned eukaryotic gene is that many eukaryotic proteins will not function unless they are modified after translation, for example by the addition of carbohydrate or lipid groups. Bacterial cells cannot carry out these modifications, and if the gene product requiring such processing is from a mammal, even yeast cells will not be able to modify the protein correctly. The use of host cells from an animal or plant cell culture may therefore be necessary.
+
+Like bacteria, many kinds of eukaryotic cells can take up DNA from their surroundings but sometimes not very efficiently. To deal with this problem, scientists have developed a variety of more aggressive methods for introducing recombinant DNA into cells. In electroporation, they apply a brief electrical pulse to a solution containing cells. The electricity creates a temporary hole in the cell's plasma membrane, through which DNA can enter. (This technique is now commonly used for bacteria as well.) Alternatively, scientists can inject DNA directly into single eukaryotic cells using microscopically thin needles. And in a technique used primarily for plant cells, they can attach DNA to microscopic particles of metal and fire the particles into cells with a gun (see FIGURE 38.17). Once inside the cell, the DNA has a chance to be incorporated into the cell's DNA by natural genetic recombination.
+
+
+
+

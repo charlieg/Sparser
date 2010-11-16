@@ -1,0 +1,30 @@
+
+ Body size and shape affect interactions with the environment
+
+An animal's size and shape have a direct effect on how the animal exchanges energy and materials with its surroundings. As a requirement for maintaining the fluid integrity of the plasma membranes of its cells, an animal body must be arranged so that all of its living cells are bathed in an aqueous medium. Exchange with the environment occurs as dissolved substances diffuse and are transported across the plasma membranes between the cells and their aqueous surroundings. As shown in FIGURE 40.7a, a single-celled protist living in water has a sufficient surface area of plasma membrane to service its entire volume of cytoplasm because it is so small. A large cell has less surface area relative to its volume than a smaller cell of the same shape (see FIGURE 7.5). As you learned in the preceding concept, this is one of the physical constraints on the size of protists such as amoebas.
+
+
+
+Click image to enlarge
+
+
+
+Fig 40-7. Contact with the environment. (a) In a unicellular organism, such as this amoeba, the entire surface area contacts the environment. Because of its small size, the cell has a large surface area relative to its volume through which to exchange materials with the external world. (b) A hydra is bilayered. Because the aqueous environment can circulate in and out of its mouth, virtually every one of its cells directly contacts the environment and exchanges materials with it.
+
+Multicellular animals are composed of microscopic cells, each with its own plasma membrane that functions as a loading and unloading platform for a modest volume of cytoplasm. But this only works if all the cells of the animal have access to a suitable aqueous environment. A hydra, built on the sac plan, has a body wall only two cell layers thick (FIGURE 40.7b). Because its gastrovascular cavity opens to the exterior, both outer and inner layers of cells are bathed in water. A flat body shape is another way to maximize exposure to the surrounding medium. For instance, a tapeworm may be several meters long, but because it is very thin, most of its cells are bathed in the intestinal fluid of the worm's vertebrate host, from which it obtains nutrients.
+
+Two-layered sacs and flat shapes are designs that put a large surface area in contact with the environment, but these simple forms do not allow much complexity in internal organization. Most animals are more complex and made up of compact masses of cells; their outer surfaces are relatively small compared with their volume. As an extreme comparison, the surface-to-volume ratio of a whale is millions of times smaller than that of a protozoan, yet every cell in the whale must be bathed in fluid and have access to oxygen, nutrients, and other resources. Whales and most other animals have extensively folded or branched internal surfaces specialized for exchange with the environment (FIGURE 40.8, p. 842). The circulatory system shuttles materials among all the exchange surfaces within the animal.
+
+
+
+Click image to enlarge
+
+
+
+Fig 40-8. Internal exchange surfaces of complex animals. This diagrammatic animal illustrates logistics of chemical exchange with the environment by a mammal. Most animals have expansive surfaces that are specialized for exchanging certain chemicals with the surroundings. These exchange surfaces are usually internal, but are connected to the environment via openings on the body surface (the mouth, for example). The exchange surfaces are finely branched or folded, giving them a very large area. The digestive, respiratory, and excretory systems all have such specialized surfaces. Chemicals that are transported across these surfaces are carried throughout the body by the circulatory system.
+
+Although exchange with the environment is a problem for animals whose cells are mostly internal, complex body forms have distinct benefits. Because the animal's external surface need not be bathed in water, it is possible for the animal to live on land. Also, because the immediate environment for the cells is the internal body fluid, the animal's organ systems can control the composition of the solution bathing its cells.
+
+
+
+

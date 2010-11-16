@@ -1,0 +1,762 @@
+
+Chapter 35: PLANT STRUCTURE AND GROWTH
+
+THE PLANT BODY
+
+   Both genes and environment affect plant structure
+
+   Plants have three basic organs: roots, stems, and leaves
+
+   Plant organs are composed of three tissue systems: dermal, vascular, and ground
+
+   Plant tissues are composed of three basic cell types: parenchyma, collenchyma, and sclerenchyma
+
+
+
+THE PROCESS OF PLANT GROWTH AND DEVELOPMENT
+
+   Meristems generate cells for new organs throughout the lifetime of a plant: an overview of plant growth
+
+   Primary growth: Apical meristems extend roots and shoots by giving rise to the primary plant body
+
+   Secondary growth: Lateral meristems add girth by producing secondary vascular tissue and periderm
+
+
+
+MECHANISMS OF PLANT GROWTH AND DEVELOPMENT
+
+   Molecular biology is revolutionizing the study of plants
+
+   Growth, morphogenesis, and differentiation produce the plant body
+
+   Growth involves both cell division and cell expansion
+
+   Morphogenesis depends on pattern formation
+
+   Cellular differentiation depends on the control of gene expression
+
+   Clonal analysis of the shoot apex emphasizes the importance of a cell's location in its developmental fate
+
+   Phase changes mark major shifts in development
+
+   Genes controlling transcription play key roles in a meristem's change from a vegetative to a floral phase
+
+This unit examines the biology of the flowering plants, or angiosperms. (The structure of algae, mosses, ferns, and gymnosperms was covered in Unit Five, along with the evolutionary relationships of these plant groups to the angiosperms.) With about 250,000 known species, the angiosperms are by far the most diverse and widespread group of land plants. As primary producers, flowering plants are at the base of the food web of nearly every terrestrial ecosystem. Most land animals, including humans, depend on plants directly or indirectly for sustenance. Science has increased agricultural productivity to such an extent that most of us are no longer directly involved in the growing of foods, but this is a recent development; most of us do not have to trace our ancestry too far back to find a farmer. Setting the stage for our study of plant biology, this chapter introduces the structural organization of flowering plants and how this organization develops from a single cell, the zygote.
+
+
+
+
+
+THE PLANT BODY
+
+ 
+
+ Both genes and environment affect plant structure
+
+
+
+ 
+
+ Plants have three basic organs: roots, stems, and leaves
+
+
+
+ 
+
+ Plant organs are composed of three tissue systems: dermal, vascular, and ground
+
+
+
+ 
+
+ Plant tissues are composed of three basic cell types: parenchyma, collenchyma, and sclerenchyma
+
+
+
+
+
+
+
+THE PROCESS OF PLANT GROWTH AND DEVELOPMENT
+
+ 
+
+ Meristems generate cells for new organs throughout the lifetime of a plant: an overview of plant growth
+
+
+
+ 
+
+ Primary growth: Apical meristems extend roots and shoots by giving rise to the primary plant body
+
+
+
+ 
+
+ Secondary growth: Lateral meristems add girth by producing secondary vascular tissue and periderm
+
+
+
+A plant's continuous growth and development depend on processes that shape organs and generate specific patterns of specialized cells and tissues within those organs. Growth is the irreversible increase in mass that results from cell division and cell expansion. Development is the sum of all of the changes that progressively elaborate an organism's body. The early stages of growth and development--germination of the seed and emergence of the seedling--are among the topics of Chapter 38. Here we will study how plants continue to grow after their shoot and root systems are established.
+
+
+
+
+
+MECHANISMS OF PLANT GROWTH AND DEVELOPMENT
+
+ 
+
+ Molecular biology is revolutionizing the study of plants
+
+
+
+ 
+
+ Growth, morphogenesis, and differentiation produce the plant body
+
+
+
+ 
+
+ Growth involves both cell division and cell expansion
+
+
+
+ 
+
+ Morphogenesis depends on pattern formation
+
+
+
+ 
+
+ Cellular differentiation depends on the control of gene expression
+
+
+
+ 
+
+ Clonal analysis of the shoot apex emphasizes the importance of a cell's location in its developmental fate
+
+
+
+ 
+
+ Phase changes mark major shifts in development
+
+
+
+ 
+
+ Genes controlling transcription play key roles in a meristem's change from a vegetative to a floral phase
+
+
+
+A plant begins life as a single cell, the zygote formed by the union of egg and sperm. (Fertilization and embryonic development in plants are described in Chapter 38.) The main objective of plant developmental biology is to understand how this single cell gives rise to a multicellular plant of particular form with functionally integrated cells, tissues, and organs. With each meristematic cell possessing the same genetic information, why should one cell become a sieve-tube member in the phloem while another becomes a vessel element in the xylem? Or why should a particular region of the shoot apex give rise to leaves at one time and later to flowers? In considering these questions, we must bear in mind that plants have tremendous developmental plasticity. A plant's form, including height, branching patterns, and reproductive output, is greatly influenced by environmental factors, and a broad range of morphologies can result from the same genotype. (Chapter 39 considers how plants respond to environmental factors.)
+
+Three developmental processes acting in concert are responsible for transforming the fertilized egg into a plant: growth, morphogenesis, and differentiation. The modern techniques of molecular biology are helping plant biologists explore how these processes give rise to plant form.
+
+
+
+
+
+ Both genes and environment affect plant structure
+
+In their long evolutionary journey from water onto land, plants became adapted by natural selection to the specific problems posed by terrestrial environments (see Chapters 29 and 30). A plant's structure reflects interactions with the environment on two time scales. Over the long term, entire plant species have, by natural selection, accumulated morphological adaptations that enhance survival and reproductive success in the environments in which they grow. For example, some desert plants, such as cacti, have leaves that are so highly reduced that the stem is actually the primary photosynthetic organ. This reduction in leaf size, and thus in surface area, is a morphological adaptation that reduces water loss. Over the short term, individual plants, far more than individual animals, exhibit structural responses to their specific environment. For example, look at how submersion in water affects leaf development in Cabomba, the aquatic plant illustrated in the opening illustration of this chapter. Those leaves that developed while the plant was submerged have a feathery appearance--a morphological adaptation that enhances photosynthesis by increasing the surface area of the leaf for the uptake of bicarbonate (HCO3-), the form in which CO2 occurs in water. In contrast, those leaves that develop when the growing plant reaches the surface are oval pads that aid in flotation (leaves to right of flower). The architecture of a plant is a dynamic process, continuously shaped by the plant's genetically directed growth pattern along with fine-tuning to the environment. In contrast, animal form is much less adjustable.
+
+Even faster than a plant's structural responses to environmental changes are its physiological (functional) adjustments. Unlike cacti, most plants are rarely exposed to severe drought conditions and rely mainly on physiological adaptations to cope with drought stress. In the most common response, the plant produces a hormone that causes the stomata, the pores in the leaves through which most water is lost, to close. In our study of such responses, remember that structure and function are closely related. For example, we cannot understand the function of stomata unless we also examine the structure of the guard cells that border these pores.
+
+
+
+
+
+ Plants have three basic organs: roots, stems, and leaves
+
+The plant body is a hierarchy of structural levels, with emergent properties arising from the ordered arrangement and interactions of component parts (see Chapter 1). As in multicellular animals, the plant body consists of organs that are composed of different tissues, and these tissues are teams of different types of cells. Although our exploration of the plant body will emphasize features common to all angiosperms, we will also note some important variations among plants. In particular, the two plant groups called the monocots and the dicots differ in many anatomical details (FIGURE 35.1). The dicot group includes the largest class of angiosperms, the eudicots, along with some smaller classes in which the dicot-type anatomy evolved independently (see FIGURE 30.4).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-1. A comparison of monocots and dicots. These two groups of angiosperms are named for the number of cotyledons, or seed leaves, present on the embryo of the plant. Monocots include orchids, bamboos, palms, lilies, and yuccas, as well as the grasses, such as wheat, corn, and rice. A few examples of dicots are roses, beans, sunflowers, and oaks (which are all eudicots, the largest class of angiosperms with the dicot-type anatomy).
+
+The basic morphology of plants reflects their evolutionary history as terrestrial organisms that must simultaneously inhabit and draw resources from two very different environments--soil and air. Soil provides water and minerals, but air is the main source of CO2, and light does not penetrate far into the soil. The evolutionary solution to this separation of resources was differentiation of the plant body into two main systems: a subterranean root system and an aerial shoot system consisting of stems and leaves (FIGURE 35.2). (Flowers are shoots consisting of leaves and stems highly modified for sexual reproduction). Neither system can live without the other. Lacking chloroplasts and living in the dark, roots would starve without sugar and other organic nutrients imported from the photosynthetic tissues of the shoot system. Conversely, the shoot system depends on water and minerals absorbed from the soil by the roots. As we take a closer look at the morphology of roots and shoots, try to view these systems from the evolutionary perspective of adaptations to living on land.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-2. Morphology of a flowering plant: an overview. The plant body is divided into a root system and a shoot system, connected by vascular tissue (purple strands in this diagram) that is continuous throughout the plant. The plant shown in this diagram is an idealized dicot.
+
+The Root System
+
+Roots anchor the plant in the soil, absorb minerals and water, and store food. Monocots, including grasses, generally have fibrous root systems consisting of a mat of thin roots that spread out below the soil surface. (Large monocots, such as palms and bamboo, are exceptional in having thicker roots.) The fibrous root system extends the plant's exposure to soil water and minerals and anchors it tenaciously to the ground (see FIGURE 35.1). Because their root systems are concentrated in the upper few centimeters of the soil, grasses hold the topsoil in place and make excellent ground cover for preventing erosion.
+
+Many dicots have a taproot system, consisting of one large, vertical root (the taproot) that produces many smaller lateral, or branch, roots (see FIGURES 35.1 and 35.2). If you have ever tried to pull up a dandelion, then you probably appreciate that one of the primary functions of taproots is to firmly anchor the plant in the soil. In addition, taproots often store food. The plant consumes the food reserves during flowering and fruit production. For this reason, root crops, such as carrots, turnips, and sugar beet, are harvested before they flower. Taproots are particularly long in certain desert plants, which "tap" water sources located far belowground.
+
+Although the entire root system helps anchor a plant, most absorption of water and minerals in both monocots and dicots occurs near the root tips, where vast numbers of tiny root hairs increase the surface area of the root enormously (FIGURE 35.3). Root hairs are extensions of individual epidermal cells on the root surface, not to be confused with lateral (branch) roots, which are multicellular organs. (You will learn about symbiotic relationships between plant roots and fungi and bacteria in Chapters 36 and 37.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-3. Radish root hairs. Growing by the thousands just behind the tip of each root, the hairs increase the surface area for the absorption of water and minerals by the roots (colorized SEM).
+
+In addition to roots that extend from the base of the shoot, some plants have roots arising aboveground from stems or even from leaves. Such roots are said to be adventitious (from the Latin adventicius, extraneous), a term that describes any plant part that grows in an atypical location. The adventitious roots of some plants, including corn, function as props that help support tall stems.
+
+The Shoot System: Stems and Leaves
+
+Shoots consist of stems and leaves. Shoot systems may be vegetative (leaf bearing) or reproductive (flower bearing). Here, we focus on the morphology of vegetative shoots. We'll discuss the transition of vegetative shoots into reproductive shoots later in the chapter.
+
+Stems. A stem is an alternating system of nodes, the points at which leaves are attached, and internodes, the stem segments between nodes (see FIGURE 35.2). In the angle (axil) formed by each leaf and the stem is an axillary bud, a structure that has the potential to form a vegetative branch. Most axillary buds of a young shoot are dormant (not growing). Thus, growth of a young shoot is usually concentrated at its apex (tip), where there is a terminal bud with developing leaves and a compact series of nodes and internodes.
+
+The presence of the terminal bud is partly responsible for inhibiting the growth of axillary buds, a phenomenon called apical dominance. By concentrating resources on growing taller, apical dominance is an evolutionary adaptation that increases the plant's exposure to light. But what if an animal eats the top of the plant? Or what if, because of obstructions, light is more intense to the side of a plant than directly above it? Under such conditions, axillary buds break dormancy--that is, they start growing. A growing axillary bud gives rise to a vegetative branch complete with its own terminal bud, leaves, and axillary buds. Removing the terminal bud usually stimulates the growth of axillary buds. This is the rationale for pruning trees and shrubs and "pinching back" houseplants to make them bushy.
+
+Modified shoots with diverse functions have evolved in many plants. These modified shoots, which include stolons, rhizomes, tubers, and bulbs, are often mistaken for roots (FIGURE 35.4). Stolons, such as the "runners" of strawberry plants, grow on the surface of the ground and enable a plant to colonize large areas asexually when the single parent plant fragments into many smaller offspring. Rhizomes, such as those of ginger plants, are horizontal stems similar to stolons except that they grow underground. Tubers, including potatoes, are the swollen ends of rhizomes specialized for storing food. Bulbs, such as onions, are vertical, underground shoots consisting mostly of the swollen bases of leaves that store food.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-4. Modified shoots.(a) Stolons, shown here on a strawberry plant, grow on the surface of the ground. These "runners" enable a plant to colonize a large area and to reproduce asexually if the single parent plant fragments into many smaller offspring.
+(b) Rhizomes, like the edible base of this ginger plant, are horizontal stems that grow underground.
+(c) Tubers, such as these white potatoes, are swollen ends of rhizomes specialized for storing food. The "eyes" arranged in a spiral pattern around a potato are clusters of axillary buds that mark the nodes.
+(d) Bulbs are vertical, underground shoots consisting mostly of the swollen bases of leaves that store food. You can see the many layers of modified leaves attached to the short stem by slicing an onion bulb lengthwise.
+
+Leaves. Leaves are the main photosynthetic organs of most plants, although green stems also perform photosynthesis. Leaves vary extensively in form, but they generally consist of a flattened blade and a stalk, the petiole, which joins the leaf to a node of the stem (see FIGURE 35.2). Grasses and many other monocots lack petioles; instead, the base of the leaf forms a sheath that envelops the stem. Some monocots, including palm trees, do have petioles.
+
+The leaves of monocots and dicots differ in the arrangement of their major veins (see FIGURE 35.1). Most monocots have parallel major veins that run the length of the leaf blade. In contrast, dicot leaves generally have a multibranched network of major veins.
+
+Because leaf morphology varies extensively among plant species, plant taxonomists use characteristics such as leaf shape, spatial arrangement of leaves on a stem, and the pattern of a leaf's veins to help identify and classify plants. FIGURE 35.5 illustrates one variation: simple versus compound leaves. Most very large leaves are compound or doubly compound. This structural adaptation enables large leaves to withstand strong wind with less tearing and also confines some pathogens that invade the leaf to a single leaflet, rather than allowing the pathogens to spread to the entire leaf.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-5. Simple versus compound leaves. A simple leaf has a single, undivided blade. The blade of a compound leaf is divided into several leaflets, which are themselves divided in a doubly compound leaf. You can distinguish a compound leaf from a stem with several closely spaced simple leaves by examining the locations of axillary buds. There is only one axillary bud per leaf. Thus, a compound leaf has a bud where its petiole attaches to the stem, but not at the bases of the individual leaflets.
+
+Although most leaves are specialized for photosynthesis, some plants have leaves that have become adapted by evolution for other functions (FIGURE 35.6).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-6. Modified leaves.(a) The tendrils used by this pea plant to cling to supports are modified leaflets.
+(b) The spines of cacti, such as this prickly pear, are actually leaves, and photosynthesis is carried out mainly by the fleshy green stems.
+(c) Most succulents, such as this ice plant, have leaves modified for storing water.
+(d) In many plants, brightly colored leaves help attract pollinators to the flower. The red "petals" of the poinsettia are actually leaves that surround a group of flowers.
+
+
+
+
+
+ Plant organs are composed of three tissue systems: dermal, vascular, and ground
+
+Each organ of a plant--leaf, stem, or root--has three tissue systems: the dermal, vascular, and ground tissue systems. Each tissue system is continuous throughout the plant body, although the specific characteristics of the tissues and their spatial relationships to one another vary in different organs of the plant (FIGURE 35.7). Here we survey the three tissue systems as they occur in a young, nonwoody plant.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-7. The three tissue systems. The dermal tissue system--epidermis (white) in the case of a young, nonwoody organ--is a single layer of cells that covers the entire body of a young plant. The vascular tissue system (purple) is also continuous throughout the plant, but is arranged differently in each organ. The ground tissue system (yellow), responsible for most of the plant's metabolic functions, is located between the dermal tissue and the vascular tissue in each organ.
+
+The dermal tissue, or epidermis, is generally a single layer of tightly packed cells that covers and protects all young parts of the plant--the "skin" of the plant. In addition to the general function of protection, the epidermis has more specialized characteristics consistent with the function of the particular organ it covers. For example, the root hairs so important in the absorption of water and minerals are extensions of epidermal cells near the tips of roots. The epidermis of leaves and most stems secretes a waxy coating called the cuticle that helps the aerial parts of the plant retain water--an important adaptation to living on land (see p. 581).
+
+Vascular tissue, continuous throughout the plant, is involved in the transport of materials between roots and shoots. The two types of vascular tissue are xylem, which conveys water and dissolved minerals upward from roots into the shoots, and phloem, which transports food made in mature leaves to the roots and to nonphotosynthetic parts of the shoot system, such as developing leaves and fruits. Both xylem and phloem are composed of a variety of cell types, but those directly involved in long-distance transport are so highly modified as to warrant special discussion.
+
+The water-conducting elements of xylem, the tracheids and vessel elements, are elongated cells that are dead at functional maturity. The term functional maturity refers to the stage in a cell's development when it is fully specialized for its function. When the living interior of a tracheid or vessel element disintegrates, the cell's thickened cell walls remain behind, forming a nonliving conduit through which water can flow (FIGURE 35.8). Both tracheids and vessels form in parts of the plant that are no longer elongating. Their secondary walls are interrupted only by pits, thinner regions where only primary walls are present (see FIGURE 7.28 to review primary and secondary walls). Tracheids are long, thin cells with tapered ends. Water moves from cell to cell mainly through the pits, where the water does not have to cross thick secondary walls. Because their secondary walls are hardened with lignin, tracheids function in support as well as water transport. Vessel elements are generally wider, shorter, thinner walled, and less tapered than tracheids. Vessel elements are aligned end to end, forming long micropipes, the xylem vessels. The end walls of vessel elements are perforated, enabling water to flow freely through xylem vessels.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-8. Water-conducting cells of xylem. Arrows indicate the flow of water. (a) Tracheids are spindle-shaped cells with pits through which water flows from cell to cell.
+(b) Vessel elements are linked together end to end, forming long tubes, or xylem vessels. Water streams from cell to cell through perforated end walls. Water can also migrate laterally between neighboring vessels through pits.
+(c) Wood is composed mostly of tracheids and vessels (SEM).
+
+In the phloem, sucrose, other organic compounds, and some mineral ions are transported through tubes formed by chains of cells called sieve-tube members (FIGURE 35.9). Sieve-tube members are alive at functional maturity, although they lack such organelles as the nucleus, ribosomes, and a distinct vacuole. In angiosperms, the end walls between sieve-tube members, called sieve plates, have pores that presumably facilitate the flow of fluid from cell to cell along the sieve tube. Alongside each sieve-tube member is a nonconducting cell called a companion cell, which is connected to the sieve-tube member by numerous channels, the plasmodesmata (see FIGURE 7.8). The nucleus and ribosomes of the companion cell may serve not only that cell but also the adjacent sieve-tube member, which has no nucleus or ribosomes of its own. In some plants, companion cells in leaves also help load sugar produced in the leaf into the sieve-tube members. The phloem then transports the sugar to other parts of the plant.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-9. Food-conducting cells of the phloem. Sieve-tube members transport a sugar-rich sap from areas of sugar production (such as leaves) to areas of sugar consumption (such as growing root and shoot tips). (a) This diagram of a longitudinal view shows how the sieve-tube members are arranged end to end with porous walls (sieve plates) between them. Alongside each sieve-tube member is a nucleated companion cell. (b) A transverse section showing two sieve-tube members sectioned through sieve plates.
+
+Ground tissue is tissue that is neither dermal tissue nor vascular tissue (see FIGURE 35.7). In dicot stems, ground tissue is divided into pith, internal to the vascular tissue, and cortex, external to the vascular tissue. Ground tissue is more than just filler; among its diverse functions are photosynthesis, storage, and support. In fact, ground tissue illustrates the point that each tissue system of a plant consists of a variety of cell types. The cortex of a dicot stem, for example, typically consists of both fleshy storage cells and thick-walled support cells. All plant tissues consist of a variety of the three basic plant cell types that we discuss in the next section.
+
+
+
+
+
+ Plant tissues are composed of three basic cell types: parenchyma, collenchyma, and sclerenchyma
+
+A multicellular organism is characterized by a division of labor among cell types specialized for different functions. As you consider each major type of plant cell, notice the structural adaptations that make specific functions possible. In some cases, we will find distinguishing characteristics within the protoplast, the cell contents exclusive of the cell wall. For example, only the protoplasts of photosynthetic cells contain chloroplasts. But modifications of cell walls are also important in how the specialized cells of a plant function. FIGURE 35.10 will help you review the general structure of plant cells before you proceed to our survey of specific cell types.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-10. Review of general plant cell structure.
+
+Parenchyma Cells
+
+Mature parenchyma cells have primary walls that are relatively thin and flexible, and most lack secondary walls. The protoplast generally has a large central vacuole. Parenchyma cells are often depicted as "typical" plant cells because they generally are the least specialized (FIGURE 35.11a, p. 728), but there are exceptions. For example, the highly specialized cells that function in the transport of sugar sap in the phloem--the sieve-tube members--are thin walled and living and are examples of parenchyma cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-11. The three major categories of plant cells.
+
+Parenchyma cells perform most of the metabolic functions of the plant, synthesizing and storing various organic products. For example, photosynthesis occurs within the chloroplasts of parenchyma cells in the leaf. Some parenchyma cells in stems and roots have colorless plastids that store starch. And the fleshy tissue of most fruit is composed mostly of parenchyma cells.
+
+Developing plant cells of all types are parenchyma cells before specializing further in structure and function. Those cells that retain the less specialized condition and become mature parenchyma cells do not generally undergo cell division. Most of them, however, retain the ability to divide and differentiate into other types of plant cells under special conditions--during the repair and replacement of organs after injury to the plant, for example. It is even possible in the laboratory to regenerate an entire plant from a single parenchyma cell.
+
+Collenchyma Cells
+
+Collenchyma cells have thicker primary walls than parenchyma cells, though the walls are unevenly thickened (FIGURE 35.11b). Grouped in strands or cylinders, collenchyma cells help support young parts of the plant shoot. Young stems and petioles often have a cylinder of collenchyma just below their surface (the "strings" of a celery stalk, for example). Because they lack secondary walls and the hardening agent lignin is absent in their primary walls, collenchyma cells provide support without restraining growth. Unlike sclerenchyma cells, which we discuss next, mature, functioning collenchyma cells are living and flexible and elongate with the stems and leaves they support.
+
+Sclerenchyma Cells
+
+Also functioning as supporting elements in the plant, but with thick secondary walls usually strengthened by lignin, sclerenchyma cells are much more rigid than collenchyma cells. Mature sclerenchyma cells cannot elongate, and they occur in regions of the plant that have stopped growing in length. So specialized are sclerenchyma cells for support that many are dead at functional maturity, but they produce secondary walls before the protoplast dies. The rigid walls remain as a "skeleton" that supports the plant. In parts of the plant that are still elongating, the secondary walls of sclerenchyma are deposited unevenly in spiral or ring patterns like the wire helix that reinforces the wall of a vacuum hose. These forms of cell wall thickenings enable the cell wall to stretch like a spring as the cell grows.
+
+The water-conducting vessel elements and tracheids in the xylem are sclerenchyma cells with dual functions: support and transport. But there are also two types of sclerenchyma cells called fibers and sclereids that specialize entirely in support (see FIGURE 35.11c). Long, slender, and tapered, fibers usually occur in groups. Some plant fibers are used commercially, such as hemp fibers for making rope and flax fibers for weaving into linen. Sclereids, which are shorter than fibers and irregular in shape, impart the hardness to nutshells and seed coats and the gritty texture to pear fruits.
+
+So far, our description of the types of plant tissues and cells has focused on their structure and arrangement in mature organs of the plant. But how does this organization arise? A major difference between plants and most animals is that the growth and development of plants is not just limited to an embryonic or juvenile period, but occurs throughout the life of the plant. At any given instance, a typical plant consists of embryonic organs, developing organs, and mature organs.
+
+
+
+
+
+ Meristems generate cells for new organs throughout the lifetime of a plant: an overview of plant growth
+
+Most plants continue to grow as long as the plant lives, a condition known as indeterminate growth. In contrast, most animals and certain plant organs, such as flowers and leaves, undergo determinate growth; that is, they cease growing after reaching a certain size. Indeterminate growth does not imply immortality. Although they continue to grow throughout their lives, plants, of course, do die. Plants known as annuals complete their life cycle--from germination through flowering and seed production to death--in a single year or less. Many wildflowers are annuals, as are the most important food crops, including the cereal grains and legumes. A plant is called a biennial if its life generally spans two years. In many cases, plants with this biennial life cycle are those that live through an intervening cold period (winter) between vegetative growth (first spring/summer) and flowering (second spring/summer). Beets and carrots are biennials, but we rarely leave them in the ground long enough to see them flower. Plants that live many years, including trees, shrubs, and some grasses, are known as perennials. Some of the buffalo grass of the North American plains is believed to have been growing for 10,000 years from seeds that sprouted at the close of the last ice age. When a perennial plant finally dies, it is not usually from old age, but from an infection or some environmental trauma, such as fire or severe drought.
+
+For as long as it survives, a plant is capable of indeterminate growth because it has perpetually embryonic tissues called meristems in its regions of growth. Meristematic cells divide to generate additional cells. Some of the products of this division remain in the meristematic region to produce still more cells, while others become specialized and are incorporated into the tissues and organs of the growing plant. Cells that remain as wellsprings of new cells in the meristem are called initials. The new cells that are displaced from the meristem, called derivatives, continue to divide for some time, until the cells they produce begin to specialize within developing tissues.
+
+The pattern of plant growth depends on the locations of the meristems (FIGURE 35.12). Apical meristems, located at the tips of roots and in the buds of shoots, supply cells for the plant to grow in length. This elongation, called primary growth, enables roots to ramify throughout the soil and shoots to increase their exposure to light and carbon dioxide. In herbaceous (nonwoody) plants, only primary growth occurs. In woody plants, however, there is also secondary growth, a progressive thickening of the roots and shoots formed earlier by primary growth. Secondary growth is the product of lateral meristems, cylinders of dividing cells extending along the length of roots and shoots. One lateral meristem replaces the epidermis with a secondary dermal tissue, such as bark, that is thicker and tougher. A second lateral meristem adds layers of vascular tissue. Wood is the secondary xylem that accumulates over the years.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-12. Locations of major meristems: an overview of plant growth. Meristems are self-renewing populations of cells that divide and provide cells for plant growth. Apical meristems (blue in this diagram) are located near the tips of roots and shoots and are responsible for primary growth, or growth in length. Woody plants also have lateral meristems (red here) that function in secondary growth, which adds girth to roots and shoots.
+
+In woody plants, primary and secondary growth occur simultaneously but in different locations. Primary growth is restricted to the youngest parts of the plant--the tips of roots and shoots, where the apical meristems are located. The lateral meristems develop in slightly older regions of the roots and shoots, some distance away from the tips. There, secondary growth adds girth to the organs. The oldest region of a root or shoot--the base of a tree branch, for example--has the greatest accumulation of secondary tissues formed by the lateral meristems. Each growing season, primary growth produces young extensions of roots and shoots, while secondary growth thickens and strengthens the older parts of the plant.
+
+Examine a winter twig of a deciduous tree, and you can see the relationship between primary and secondary growth. At the tip is the dormant terminal bud, enclosed by scales that protect its apical meristem (FIGURE 35.13). In spring, the bud will shed its scales and begin a new spurt of primary growth, producing a series of nodes and internodes. Along each growth segment, nodes are marked by scars left when leaves fell during autumn. Above each leaf scar is either an axillary bud or a branch twig formed by an axillary bud. Farther down the twig are whorls of scars left by the scales that enclosed the terminal bud during the previous winter. Each spring and summer, as primary growth extends the shoot, secondary growth thickens the parts of the shoot that formed in previous years.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-13. Morphology of a winter twig.
+
+
+
+
+
+ Primary growth: Apical meristems extend roots and shoots by giving rise to the primary plant body
+
+Primary growth produces the primary plant body--the parts of the root and shoot systems produced by apical meristems. An herbaceous plant and the youngest parts of a woody plant represent the primary plant body. Although apical meristems are responsible for the extension of both roots and shoots, there are important differences in the primary growth of these two systems.
+
+Primary Growth of Roots
+
+The root tip is covered by a thimblelike root cap, which physically protects the delicate meristem as the root pushes through the abrasive soil during primary growth. The cap also secretes a polysaccharide slime that lubricates the soil around the growing root tip. Growth in length is concentrated near the root's tip, where three zones of cells at successive stages of primary growth are located. From the root tip upward, they are the zone of cell division, the zone of elongation, and the zone of maturation. These regions grade together, with no sharp boundaries (FIGURE 35.14).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-14. Primary growth of a root. The diagram and light micrograph take us into the tip of an onion root. Mitosis is concentrated in the zone of cell division, where the apical meristem and its products, the three primary meristems, are located. The apical meristem also maintains the root cap by generating new cells that replace those that are sloughed off. If the apical meristem is damaged, its quiescent center is activated and restores the meristem by means of cell division. Most lengthening of the root is concentrated in the zone of elongation. Cells become functionally mature in the zone of maturation. The zones of the root grade into one another without sharp boundaries.
+
+The zone of cell division includes the apical meristem and its derivatives, called primary meristems. The apical meristem, at the heart of the zone of cell division, produces the cells of the primary meristems and also replaces cells of the root cap that are sloughed off. Near the center of the apical meristem is the quiescent center, a population of cells that divide much more slowly than the other meristematic cells. Cells of the quiescent center are relatively resistant to damage from radiation and toxic chemicals, and they may function as reserves that can be recruited to restore the meristem if it is somehow damaged. In experiments where part of the apical meristem is removed, cells of the quiescent center become more mitotically active and produce a new meristem.
+
+Just above the apical meristem, the products of its cell division form three concentric cylinders of cells that continue to divide for some time. These are the primary meristems--the protoderm, procambium, and ground meristem--that will produce the three primary tissue systems of the root: dermal, vascular, and ground tissues.
+
+The zone of cell division blends into the zone of elongation. Here the cells elongate, sometimes to more than ten times their original length. Although the meristem provides the new cells for growth, the elongation of cells is mainly responsible for pushing the root tip, including the meristem, ahead. The meristem sustains growth by continuously adding cells to the youngest end of the zone of elongation.
+
+Even before they finish elongating, the cells of the root begin to specialize in structure and function where the zone of elongation grades into the zone of maturation. In this region of the root, the three tissue systems produced by primary growth complete their differentiation, their cells becoming functionally mature.
+
+Primary Tissues of Roots. The three primary meristems give rise to the three primary tissues of roots. The light micrographs in FIGURE 35.15 show, in transverse (cross) section, the three primary tissue systems in the roots of a dicot (Ranunculus, a buttercup) and a monocot (Zea, corn). The protoderm, the outermost primary meristem, gives rise to the epidermis, a single layer of cells covering the root. Water and minerals absorbed by the plant from the soil must enter through the epidermis. The root hairs enhance this process by greatly increasing the surface area of epidermal cells.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-15. Organization of primary tissues in young roots. Parts (a) and (b) show, in transverse (cross) section, the three primary tissue systems in the roots of a dicot (Ranunculus, a buttercup) and a monocot (Zea, corn). (All LMs)
+
+The procambium gives rise to the stele, which in roots is a central cylinder of vascular tissue where both xylem and phloem develop. The main difference between dicot and monocot roots is the organization of tissues within the stele. In dicot roots, the stele is a cylinder made up almost entirely of differentiated phloem and xylem cells. In monocot roots, however, the most centrally located cells in the stele do not typically differentiate, remaining instead as unspecialized parenchyma cells. Although this region is often referred to as pith, it should not be confused with the stem pith, which is part of the ground tissue system rather than the vascular tissue system. In dicots, the xylem cells radiate from the center of the stele in two or more spokes, with phloem developing in the wedges between the spokes. In the monocot root, the pith of the stele is generally ringed by vascular tissue with an alternating pattern of xylem and phloem.
+
+Between the protoderm and procambium is the ground meristem, which gives rise to the ground tissue system. The ground tissue, which consists mostly of parenchyma cells, fills the cortex, the region of the root between the stele and epidermis. Ground tissue cells of the root store food, and their plasma membranes are active in the uptake of minerals that enter the root with the soil solution. The innermost layer of the cortex is the endodermis, a cylinder one cell thick that forms the boundary between the cortex and the stele in the roots of both monocots and dicots. You will learn in Chapter 36 how the endodermis functions as a selective barrier that regulates the passage of substances from the soil solution into the vascular tissue of the stele.
+
+An established root may sprout lateral roots, which arise from the outermost layer of the stele, the pericycle (see FIGURE 35.15). Just inside the endodermis, the pericycle is a layer of cells that may become meristematic and begin dividing again. Originating as a clump of cells formed by mitosis in the pericycle, a lateral root elongates and pushes through the cortex until it emerges from the main root (FIGURE 35.16). The stele of the lateral root retains its connection with the stele of the primary root, making the vascular tissue continuous throughout the root system.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-16. The formation of lateral roots. In this transverse section of a willow root, a lateral root emerges from the pericycle, the outermost layer of the stele (LM).
+
+Primary Growth of Shoots
+
+The apical meristem of a shoot is a dome-shaped mass of dividing cells at the tip of the terminal bud (FIGURE 35.17). As in the root, the apical meristem of the shoot tip gives rise to the primary meristems--protoderm, procambium, and ground meristem--that will differentiate into the three tissue systems. Leaves arise as leaf primordia on the flanks of the apical meristem. Axillary buds develop from islands of meristematic cells left by the apical meristem at the bases of the leaf primordia.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-17. The terminal bud and primary growth of a shoot. Leaf primordia arise from the flanks of the apical dome. The apical meristem gives rise to protoderm, procambium, and ground meristem, which in turn develop into the three tissue systems. This is a longitudinal section of the shoot tip of Coleus (LM).
+
+Within a bud, leaf primordia are crowded close together because internodes are very short. Most of the actual elongation of the shoot occurs by the growth in length of slightly older internodes below the shoot apex. This growth is due to both cell division and cell elongation within the internode. In some plants, including grasses, internodes continue to elongate all along the length of the shoot over a prolonged period. This is possible because these plants have meristematic regions, called intercalary meristems, at the base of each internode.
+
+Axillary buds have the potential to form branches of the shoot system at some later time (see FIGURE 35.2). Thus, there is an important difference in how roots and shoots form lateral organs. Lateral roots originate from deep within a main root as outgrowths from the pericycle (see FIGURE 35.16). In contrast, branches of the shoot system originate from axillary buds, at the surface of a main shoot. Only by extending from the pericycle can a lateral root be connected to the vascular system. The vascular tissue of a stem, however, is near the surface, and branches can develop with connections to the vascular tissue without having to originate from deep within the main shoot.
+
+Primary Tissues of Stems. Vascular tissue runs the length of a stem in strands called vascular bundles (FIGURE 35.18). This arrangement contrasts with that of the root, where the vascular tissue forms a vascular cylinder in the center of the root (see FIGURE 35.15). At the transition zone where the stem grades into the root, the vascular bundles of the stem converge as the root's vascular cylinder.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-18. Organization of primary tissues in young stems.
+
+Each vascular bundle of the stem is surrounded by ground tissue. In most dicots, the vascular bundles are arranged in a ring, with pith to the inside of the ring and cortex external to the ring (see FIGURE 35.18a). Both pith and cortex are part of the ground tissue system. The vascular bundles have their xylem facing the pith and their phloem facing the cortex side. Thin rays of ground tissue between the vascular bundles connect the pith and cortex. In the stems of most monocots, the vascular bundles are scattered throughout the ground tissue rather than being arranged in a ring (see FIGURE 35.18b). In both monocots and dicots, the ground tissue of the stem is mostly parenchyma, but many stems are strengthened by collenchyma located just beneath the epidermis. Sclerenchyma, in the form of fiber cells within vascular bundles, also helps support stems.
+
+The protoderm of the terminal bud gives rise to the epidermis, which covers stems and leaves as part of the continuous dermal tissue system.
+
+Tissue Organization of Leaves. The leaf epidermis is composed of cells tightly interlocked like pieces of a puzzle (FIGURE 35.19). Like our own skin, the leaf epidermis is a first line of defense against physical damage and pathogenic organisms. Also, the waxy cuticle of the epidermis is a barrier to the loss of water from the plant. The epidermal barrier is interrupted only by the stomata, tiny pores flanked by specialized epidermal cells called guard cells. Each stoma is actually a gap between a pair of guard cells. The stomata allow gas exchange between the surrounding air and the photosynthetic cells inside the leaf. Stomata are also major avenues for the evaporative loss of water from the plant--a process called transpiration.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-19. Leaf anatomy. (a) This cutaway drawing of a leaf illustrates the organization of the three tissue systems: dermal tissue (epidermis), vascular tissue, and ground tissue (the mesophyll region consisting of palisade parenchyma and spongy parenchyma). (b) This surface view of a Tradescantia leaf shows the cells of the epidermis and stomata, with their guard cells (LM). (c) Palisade and spongy regions of mesophyll are present within the leaf of a lilac, a dicot (LM).
+
+The ground tissue of a leaf is sandwiched between the upper and lower epidermis in the region called mesophyll (from the Greek mesos, middle, and phyll, leaf). It consists mainly of parenchyma cells equipped with chloroplasts and specialized for photosynthesis. The leaves of many dicots have two distinct regions of mesophyll. On the upper part of the leaf are one or more layers of palisade parenchyma, made up of cells that are columnar in shape. Below the palisade region is the spongy parenchyma, which gets its name from the labyrinth of air spaces through which carbon dioxide and oxygen circulate around the irregularly shaped cells and up to the palisade region. The air spaces are particularly large in the vicinity of stomata, where gas exchange with the outside air occurs.
+
+The vascular tissue of a leaf is continuous with the xylem and phloem of the stem. Leaf traces, which are branches from vascular bundles in the stem, pass through petioles and into leaves. Within a leaf, veins subdivide repeatedly and branch throughout the mesophyll. This brings xylem and phloem into close contact with the photosynthetic tissue, which obtains water and minerals from the xylem and loads its sugars and other organic products into the phloem for shipment to other parts of the plant. The vascular infrastructure also functions as a skeleton that reinforces the shape of the leaf.
+
+
+
+
+
+ Secondary growth: Lateral meristems add girth by producing secondary vascular tissue and periderm
+
+The stems and roots, but not the leaves, of most dicots increase in girth by secondary growth. The secondary plant body consists of the tissues produced during this secondary growth in diameter. Two lateral meristems function in secondary growth: the vascular cambium, which produces secondary xylem (wood) and secondary phloem, and the cork cambium, which produces a tough, thick covering for stems and roots that replaces the epidermis. Secondary growth occurs in all gymnosperms. Among angiosperms, secondary growth takes place in most dicot species but is rare in monocots.
+
+Secondary Growth of Stems
+
+Vascular Cambium and the Production of Secondary Vascular Tissue. The vascular cambium is a cylinder of meristematic cells that forms secondary vascular tissue (see FIGURE 35.12). The accumulation of this secondary vascular tissue over the years accounts for most of the increase in the diameter of a woody plant. The vascular cambium produces secondary xylem to its interior and secondary phloem to its exterior (FIGURE 35.20). A tree grows in girth as the diameter of the cylinder of vascular cambium increases over time, laying down successive layers of secondary tissues, each with a larger diameter than the last.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-20. Production of secondary xylem and phloem by the vascular cambium. This diagram traces the radial file of cells that develops from the meristematic activity of a single cell of the vascular cambium. The cambium ell (C) gives rise to secondary xylem (X) on the inside and secondary phloem (P) on the outside. Each time a cambium cell divides, one daughter cell retains its status as an initial, and the other, the derivative (D), differentiates into a xylem or phloem cell., As layers of xylem are added. vascular cambium itself increases in diameter.
+
+It is important to understand that primary and secondary growth occur simultaneously but in different regions of a stem. While the apical meristem serves to elongate the stem, secondary growth commences farther down the shoot. How does the primary plant body of a young shoot make the transition from primary to secondary growth? The vascular cambium forms from parenchyma cells that regain the capacity to divide; that is, the cells become meristematic. This meristem forms in a layer between the primary xylem and primary phloem of each vascular bundle and in the rays of ground tissue between the bundles. The meristematic bands within the vascular bundles and rays unite to form the vascular cambium as a continuous cylinder of dividing cells surrounding the primary xylem and pith of the stem (FIGURE 35.21, p. 736).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-21. Secondary growth of a stem. You can track the progress of secondary growth by examining the sections through sequentially older parts of the stem. (You would observe the same changes if you could follow the youngest region, near the apex, for the next three years.)
+
+Viewed in cross section, the cylinder of vascular cambium appears as a ring. If we trace around the ring, there are alternating regions of cambium cells called ray initials and fusiform initials. The ray initials are cambium cells that produce radial files of parenchyma cells known as xylem rays and phloem rays. These rays separate wedge-shaped sections of secondary vascular tissue. Xylem and phloem rays, consisting mainly of parenchyma, function as living avenues for the radial transport of water and nutrients within a woody stem and in the storage of starch and other reserves. The cambium cells within the vascular bundles are the fusiform initials, a name that refers to the shape of these cells, which have tapered (fusiform) ends and are elongated along the axis of the stem. Fusiform initials produce new vascular tissue, forming secondary xylem to the inside of the vascular cambium and forming secondary phloem to the outside (see FIGURE 35.20).
+
+As secondary growth continues over the years, layer upon layer of secondary xylem accumulates, producing the tissue we call wood. Wood consists mainly of tracheids, vessel elements (in angiosperms), and fibers. These cells, dead at functional maturity, have thick, lignified walls that give wood its hardness and strength. In temperate regions of the world, secondary growth in perennial plants is interrupted each year when the vascular cambium becomes dormant during winter. When secondary growth resumes in the spring, the first tracheids and vessel cells to develop usually have relatively large diameters and thin walls compared to the secondary xylem produced later in the summer. Thus, it is usually possible to distinguish early wood (usually produced during spring) from late wood (usually produced during summer) (see FIGURE 35.21, p. 736).
+
+The structure of the early wood maximizes delivery of water to new, expanding leaves during the start of the growth season. Though the thick-walled cells of late wood do not transport as much water as the cells of early wood, they add more physical support to the tree than do the thinner-walled cells. The annual growth rings that are evident in the cross sections of most tree trunks in temperate regions result from the yearly activity of the vascular cambium: cambium dormancy, early wood production, and late wood production. The boundary between one year's growth and the next is usually quite conspicuous, allowing us to estimate the age of a tree by counting its annual rings.
+
+Cork Cambium and the Production of Periderm. During the early stages of secondary growth, the epidermis produced by primary growth splits, dries, and falls off the stem. It is replaced by new protective tissues produced by the cork cambium, a cylinder of meristematic tissue that first forms in the outer cortex of the stem and later in the secondary phloem (FIGURE 35.22). Cork cambium produces cork cells, which accumulate to the cambium's exterior. As the cork cells mature, they deposit a waxy material called suberin in their walls and then die. The cork tissue then functions as a barrier that helps protect the stem from physical damage and pathogens. And because cork is waxy, it impedes water loss from the stems. Together, the layers of cork plus the cork cambium make up the periderm. This is the protective coat of the secondary plant body that replaces the epidermis of the primary body. In localized areas, the periderm may split open because the cork cambium is more active than elsewhere. These regions, called lenticels, make it possible for living cells within the trunk to exchange gases with the outside air for cellular respiration.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-22. Anatomy of a three-year-old stem(LM).
+
+The term bark, more inclusive than periderm, refers to all tissues external to the vascular cambium. Thus, in an outward direction, bark consists of the secondary phloem, the cork cambium, and cork. Put another way, bark is phloem plus periderm (see FIGURES 35.21 lower right and 35.22).
+
+Unlike the vascular cambium, which grows in diameter, the original cork cambium is a cylinder of fixed size. After a few weeks of cork production, the cork cambium loses its meristematic activity, and its remaining cells differentiate into cork. Expansion of the stem splits the original periderm. How is it renewed to keep pace with continued secondary growth? New cork cambium forms deeper and deeper in the cortex. Eventually, no cortex is left, and the cork cambium then develops from parenchyma cells in the secondary phloem.
+
+Only the youngest secondary phloem, which is internal to the cork cambium, functions in sugar transport. The older secondary phloem, outside the cork cambium, dies and helps protect the stem until it is sloughed off as part of the bark during later seasons of secondary growth. This is why secondary phloem does not accumulate as extensively over the years as the secondary xylem does.
+
+Examining an old tree trunk in cross section enables us to see the result of many years of secondary stem growth. Beginning at the center of the tree and tracing outward, we can distinguish several zones (FIGURE 35.23). Heartwood and sapwood both consist of secondary xylem. Heartwood is older and no longer functions in water transport; the lignified walls of its dead cells form a central column that supports the tree. This wood owes its rich color to resins and other compounds that clog the cell cavities and help protect the core of the tree from fungi and wood-boring insects. Sapwood is so named because its secondary xylem still functions in the upward transport of water and minerals (xylem sap). Because each new layer of secondary xylem has a larger circumference, secondary growth enables the xylem to transport more sap each year, providing water and minerals to an increasing number of leaves.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-23. Anatomy of a tree trunk.
+
+FIGURE 35.24 summarizes the relationships among the primary and secondary tissues of a woody shoot.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-24. A summary of primary and secondary growth in a woody stem.
+
+Secondary Growth of Roots
+
+The two lateral meristems, vascular cambium and cork cambium, also develop and produce secondary growth in roots. The vascular cambium forms within the stele and produces secondary xylem to its inside and secondary phloem to its outside. As the stele grows in diameter, the cortex and epidermis are split and shed. A cork cambium forms from the pericycle of the stele and produces the periderm, which becomes the secondary dermal tissue. Unlike the primary epidermis of a younger root, periderm is impermeable to water. Therefore, it is only the youngest parts of roots, those representing the primary plant body, that absorb water and minerals from the soil. Older parts of roots, with secondary growth, function mainly to anchor the plant and to transport water and solutes between the younger roots and the shoot system.
+
+Over the years, the root becomes woodier, and annual rings are evident in the secondary xylem. The tissues external to the vascular cambium form a thick, tough bark. After extensive secondary growth, old stems and old roots are quite similar.
+
+So far we have described the development of the plant body from meristems. In the next section, we'll move from a description of plant growth and development to the mechanisms that underlie these processes.
+
+
+
+
+
+ Molecular biology is revolutionizing the study of plants
+
+Plant biology is in the midst of a renaissance. New laboratory and field methods coupled with clever choices of experimental organisms have catalyzed a research explosion. For example, many scientists interested in the genetic control of plant development, including Joanne Chory, whom you met in the interview on pages 718-719, are focusing their research on Arabidopsis thaliana, a little weed of the mustard family (FIGURE 35.25). Arabidopsis is small enough to allow researchers to cultivate thousands of the plants in a few square meters of lab space. Arabidopsis also has a short generation span of about six weeks, making it an excellent model for genetic studies. Plant biologists are also attracted to Arabidopsis by its tiny genome; the amount of DNA per cell ranks among the least of all known plants. Because of these attributes, Arabidopsis was the first plant to have its entire genome sequenced, a multinational effort that took six years to complete.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-25. Arabidopsis thaliana. Owing to its small size, rapid life cycle, and small genome, Arabidopsis (inset) was the first plant to have its entire genome sequenced (some 26,000 genes). The pie chart represents the proportion of Arabidopsis genes in different functional categories.
+
+Arabidopsis possesses about 26,000 genes, but many of these are duplicates--there are probably fewer than 15,000 different types of genes. This level of complexity is similar to that found in the fly Drosophila. Knowing what some of the Arabidopsis genes do has already expanded our understanding of plant development. However, the functions of about 45%  of Arabidopsis';s genes are unknown (FIGURE 35.25).
+
+Now that the DNA sequence of the Arabidopsis genome is completely known, plant biologists have launched an ambitious quest to determine the function of every one of the plant's genes by the year 2010. By identifying each gene's function and tracking every chemical pathway, researchers aim to establish a blueprint for how plants are built. One of the key tasks will be to identify exactly which cells are manufacturing which gene products and at what stages in the plant's life. Researchers also plan to create mutants for every gene in the genome. As Joanne Chory predicted, it may one day be possible to create a computer-generated "virtual plant" that will enable researchers to visualize which plant genes are activated in different parts of the plant during the entire course of development.
+
+
+
+
+
+ Growth, morphogenesis, and differentiation produce the plant body
+
+Consider a small annual weed. It may consist of billions of cells--some large, some small, some highly specialized and others not, but all derived from a single fertilized egg. The increase in mass, or growth, that occurs during the life of the plant results from both cell division and cell expansion, but what controls these processes? Why do leaves stop growing upon reaching a certain size, whereas apical meristems divide perpetually? Also, note that the millions of cells in our hypothetical weed are not an undifferentiated clump of cells. They are organized into recognizable tissues and organs. Leaves arise from nodes; roots (unless adventitious) do not. Epidermis forms on the exterior of the leaf, and vascular tissue in the interior--never vice versa. This development of body form and organization is called morphogenesis. Each cell in the plant body contains the same set of genes, exact copies of the genome present in the fertilized egg. But how can this same set of genetic instructions produce such a diversity of cell types--guard cells, mesophyll, sieve-tube members, root hairs, and so on? This generation of cellular diversity is called differentiation (see p. 403).
+
+Next, let's take a closer look at the molecular mechanisms that underlie growth, morphogenesis, and cellular differentiation in plants.
+
+
+
+
+
+ Growth involves both cell division and cell expansion
+
+Cell division in meristems, by increasing cell number, increases the potential for growth, but it is cell expansion that accounts for the actual increase in plant mass. The process of plant cell division is described more fully in Chapter 12 (see FIGURE 12.9) and the process of cell elongation in Chapter 39 (see FIGURE 39.7). Here we are more concerned with how these processes contribute to plant form.
+
+The Plane and Symmetry of Cell Division
+
+The plane (direction) of cell division is an important determinant of plant form (FIGURE 35.26a). Imagine a single cell poised to undergo mitosis. If the planes of division of its descendants are parallel to the plane of the first cell division, a single file of cells will be produced (FIGURE 35.26). At the other extreme, if the planes of cell division of the descendant cells are randomly aligned, an unorganized clump of cells will result. The plane of cell division is immensely important in determining form, but so is the symmetry of cell division. Although in earlier chapters we have emphasized the symmetry of chromosomal redistribution during mitosis, the same does not necessarily hold for the cytoplasm. Asymmetrical cell division, in which one daughter cell receives more cytoplasm than the other during mitosis, is fairly common in plant cells and usually signals a key event in development. For example, the formation of guard cells typically involves both an asymmetrical cell division and a change in the plane of the cell division. An epidermal cell divides asymmetrically to form a large cell that will remain an unspecialized epidermal cell and a small cell that will become the guard cell "mother cell." This small mother cell then undergoes another cell division, in a plane perpendicular to the first, to form the guard cells (FIGURE 35.26b).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-26. The plane and symmetry of cell division influence development of form.
+
+The plane in which a cell will divide is determined during late interphase. The first sign of this spatial orientation is a rearrangement of the cytoskeleton. Microtubules in the cortex (outer cytoplasm) of the cell become concentrated into a ring called the preprophase band (FIGURE 35.27). The band disappears before metaphase, but it has already set the future plane of cell division. The "imprint" consists of an ordered array of actin microfilaments that remain after the microtubules of the preprophase band disperse. These microfilaments hold the nucleus in a fixed orientation until the spindle forms, and later they direct movement of the vesicles that produce the cell plate (see FIGURE 12.8b). When the cell finally divides, the walls separating the daughter cells form in the plane defined earlier by the preprophase band.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-27. The preprophase band and the plane of cell division. The location of the preprophase band predicts the plane of cell division. Although the cells dhown on the left and right are similar in shpae. They will divide in different planes. Eachg cell is represented by two light micrographs, one (top) unstained and the other (bottom) stained with a fluorescent dye that binds specifically to microtubules. The stained microtubules form a "halo" (preprophase band) around the nucleus in the outer cytoplasm.
+
+The Orientation of Cell Expansion
+
+Before discussing how cell expansion contributes to plant form, it is useful to consider the difference in cell expansion between plants and animals. Animal cells grow mainly by synthesizing protein-rich cytoplasm, a metabolically expensive process. Growing plant cells also produce additional organic material in their cytoplasm, but the uptake of water typically accounts for about 90%  of a plant cell's expansion. Most of this water is packaged in the large central vacuole, which forms by the coalescence of numerous smaller vacuoles as a cell grows. A plant can grow rapidly and economically because a small amount of cytoplasm can go a long way. Bamboo shoots, for instance, may elongate more than 2 m per week. Rapid extension of shoots and roots increases the exposure to light and soil, an important evolutionary adaptation to the immobile lifestyle of plants.
+
+Plant cells rarely expand equally in all directions. Their greatest expansion is usually oriented along the main axis of the plant. For example, cells near the root tip may elongate to 20 times their original length, with relatively little increase in width. The orientation of cellulose microfibrils in the innermost layers of the cell wall causes this differential growth. The microfibrils cannot stretch much, so the cell expands mainly in the direction perpendicular to the "grain" of the microfibrils, as shown in FIGURE 35.28. A rosette-shaped complex of enzymes built into the plasma membrane synthesizes microfibrils for the cell wall (FIGURE 35.29). The pattern of microfibrils in the wall mirrors the orientation of microtubules located just across the plasma membrane in the cortex of the cell. According to one hypothesis, the microtubules confine the flow of the cellulose-producing enzymes to a specific direction along the membrane. Each enzyme complex advances along one of these channels as the microfibril it extends becomes locked in place by cross-linking to other microfibrils. This specifies the alignment of microfibrils in the wall, which in turn determines the direction of cell expansion.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-28. The orientation of plant cell expansion. Growing plant cells expand mainly through water uptake. In a growing cell, enzymes weaken cross-links in the cell wall, allowing it to expand as water flows in by osmosis. The orientation of cell growth is mainly in the plane perpendicular to the orientation of cellulose microfibrils in the wall. The microfibrils are embedded in a matrix of other (noncellulose) polysaccharides, some of which form the cross-links visible in the micrograph (TEM). Loosening of the wall occurs when hydrogen ions secreted by the cell activate cell wall enzymes that break the cross-links between polymers in the wall. This reduces restraint on the turgid cell, which can take up more water and expand. Small vacuoles, which accumulate most of this water, coalesce and form the cell's central vacuole.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-29. A hypothetical mechanism for how microtubules orient cellulose microfibrils. Cellolose microfibrils are synthesized at the cell surface by complexes of enzymes that can move in the plane of the plasma membrane. According to one hypothesis, microtubules form "banks" that confine the movement of the enzymes to channels of specified direction. Each enzyme complex advances along one of these channels as the microfibril it extends becomes locked in place by cross-linking to other microfibrils.
+
+The Importance of Cortical Microtubules in Plant Growth
+
+Studies of Arabidopsis mutants have confirmed the importance of cortical microtubules in both cell division and expansion. As an example, let's consider what are called fass mutants of Arabidopsis. Fass mutants have cells that are unusually squat and that seemingly align their planes of division in a random fashion. In the roots and stems of these mutants, the ordered cell files and layers normally present are completely absent. Despite these abnormalities, fass mutants do develop into tiny adult plants with all their parts, including flowers, but these organs are compressed longitudinally (FIGURE 35.30).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-30. The fass mutant of Arabidopsis confirms the importance of cortical microtubules to plant growth. The squat body of the fass mutant results from cell division and cell elongation being randomly oriented instead of orienting in the direction of the normal plant axis.
+
+The cortical microtubular organization of fass mutants is abnormal. Although the microtubules involved in chromosome movements and in cell plate deposition are normal, the preprophase bands do not form prior to mitosis (see FIGURE 35.27). In interphase cells, the cortical microtubules are not organized in arrays but are randomly positioned, so the cellulose microfibrils deposited in the cell wall cannot be arranged to determine the direction of the cell's elongation (see FIGURES 35.28 and 35.29). This defect in cortical microtubular organization gives rise to cells that expand in all directions equally and that divide in a haphazard arrangement--hence the stout stature and disorganized tissue arrangement of these mutants.
+
+
+
+
+
+ Morphogenesis depends on pattern formation
+
+A plant's body is more than a collection of dividing and expanding cells. Morphogenesis must occur for development to proceed properly; that is, cells must be organized into multicellular arrangements such as tissues and organs. The development of specific structures in specific locations is called pattern formation.
+
+Pattern formation depends to a large extent on positional information, signals of some kind that indicate each cell's location within an embryonic structure, such as a shoot tip. Within a developing organ, each cell continues to detect positional information and responds by differentiating into a particular type of cell. Developmental biologists are accumulating evidence that gradients of specific molecules, generally proteins, provide positional information. For example, a substance diffusing from a shoot's apical meristem may "inform" the cells below of their distance from the shoot tip. We can imagine that the cells gauge their radial positions within the developing organ by detecting a second chemical signal that emanates from the outermost cells. The gradients of these two substances would be sufficient for each cell to "get a fix" on its position relative to the longitudinal and radial axes of the rudimentary organ. This idea of diffusible chemical signals is just one of several alternative hypotheses that developmental biologists are testing to learn how an embryonic cell detects its location.
+
+One type of positional information is associated with polarity. In plants, there is typically a well-developed axis, but the two ends of this axis are not the same; there is a root end and a shoot end. Such polarity is most obvious in morphological differences, but it is also manifest in several physiological properties, including the unidirectional movement of certain hormones (see Chapter 39) and the emergence of adventitious roots and shoots from the appropriate ends of "cuttings." Adventitious roots form from the root end of a stem or a root cutting, and shoots from the shoot end.
+
+The first division of a plant zygote is normally asymmetrical, initiating polarization of the plant body into shoot and root. Once this polarity has been induced, it becomes exceedingly difficult to reverse. Thus, the proper establishment of axial polarity is a critical step in a plant's morphogenesis. In the gnom mutant of Arabidopsis, the establishment of polarity is defective. The first cell division of the zygote is abnormal in being symmetrical, and the resulting ball-shaped plant has neither roots nor cotyledons (seed leaves) (FIGURE 35.31).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-31. Establishment of axial polarity. The normal Arabidopsis seedling (left) has a shoot end and a root end. In the gnom mutant (right), the first division of the zygote was not asymmetrical; as a result, the plant is ball-shaped and lacks cotyledons (seed leaves) and roots.
+
+Let's examine another example of how genes regulate pattern formation and morphogenesis in plants. Plants, like other multicellular organisms, have master regulatory genes called homeotic genes (see Chapter 21) that mediate many of the major events in an individual's development, such as the initiation of an organ. For example, the protein product of the KNOTTED-1 homeotic gene, found in many plant species, is important in the development of leaf morphology, including the production of compound leaves. If the KNOTTED-1 gene is overexpressed in tomato plants, the normally compound leaves become "supercompound" (FIGURE 35.32).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-32. Too much "volume" from a homeotic gene. KNOTTED-1 is a homeotic gene involved in leaf and leaflet formation. Its overexpression in tomato plants results in leaves that are "supercompound" (right) compared to normal leaves (left).
+
+
+
+
+
+ Cellular differentiation depends on the control of gene expression
+
+It is remarkable that cells as diverse as guard cells, sieve-tube members (phloem), and xylem vessel elements all share the same DNA and all descend from a common cell, the zygote. This cellular differentiation occurs continuously throughout a plant's life, as meristems sustain indeterminate growth. Differentiation reflects the synthesis of different proteins in different types of cells (see Chapter 19). For example, two distinct cell types are formed in the root epidermis of Arabidopsis: root hair cells and hairless epidermal cells. Cell fate is associated with the position of the epidermal cells. Immature epidermal cells that are in contact with two underlying cortical cells differentiate into root hair cells, whereas those in contact with only one cortical cell differentiate into mature, hairless cells. A homeotic gene called GLABRA-2 is required for appropriate root hair distribution. GLABRA-2 is normally expressed only in epidermal cells that will not develop root hairs. If GLABRA-2 is rendered dysfunctional by mutation, every root epidermal cell develops a root hair. Researchers demonstrated this by coupling the GLABRA-2 gene to a "reporter gene" that causes every cell expressing GLABRA-2 in the root to turn blue following a certain treatment (FIGURE 35.33).
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-33. Example of cellular differentiation. Two distinct cell types are formed in the root epidermis of Arabidopsis: root hair cells and hairless epidermal cells.
+
+What makes differentiation so fascinating is that the cells of a developing organism synthesize different proteins and diverge in structure and function even though they share a common genome. The cloning of whole plants from somatic cells supports the conclusion that the genome of a differentiated cell remains intact (see FIGURE 21.5). If a mature cell removed from a root or leaf can "dedifferentiate" in tissue culture and give rise to the diverse cell types of a plant, then it must possess all the genes necessary to make these many kinds of cells. This means that cellular differentiation depends, to a large extent, on the control of gene expression--the regulation of transcription and translation leading to specific proteins. Cells with the same genomes follow different developmental pathways because they selectively express certain genes at specific times during their differentiation. A guard cell has the genes that program the self-destruction of a xylem protoplast, but it does not express those genes. A xylem vessel cell does express them, but only at a specific time in its differentiation, after the cell has elongated and produced its secondary wall. Researchers are beginning to unravel the molecular mechanisms that switch specific genes on and off at critical times in a cell's development (see Chapters 19 and 21).
+
+
+
+
+
+ Clonal analysis of the shoot apex emphasizes the importance of a cell's location in its developmental fate
+
+In the process of shaping a rudimentary organ, patterns of cell division and cell expansion affect the differentiation of cells by placing them in specific locations relative to other cells. Thus, positional information underlies all the processes of development: growth, morphogenesis, and differentiation. One approach to studying the relationships among these processes is clonal analysis, in which the cell lineages (clones) derived from each cell in an apical meristem are mapped as organs develop. Researchers can do this by using radiation or chemicals to induce somatic mutations that alter chromosome number or otherwise tag a cell in some way that distinguishes it from its neighbors in the shoot tip. The lineage of cells derived by mitosis from the mutant meristematic cell will also be "marked." For example, a single cell in the shoot apical meristem may undergo a somatic mutation that prevents chlorophyll from being produced. This cell and all of its descendants will be "albino," and they will appear as a linear file of colorless cells running down the long axis of the otherwise green shoot. One of the important questions that clonal analysis can address is: How early is the developmental fate of a cell determined by its position in an embryonic structure? To some extent, the developmental fates of cells in the shoot apex are predictable. For example, almost all the cells derived from division of the outermost meristematic cells end up as part of the dermal tissue of leaves and stems. But it is not possible to pinpoint precisely which cells of the meristem will give rise to specific tissues and organs. Apparently random changes in rates and planes of cell division can reorganize the meristem. For example, the outermost cells usually divide in a plane perpendicular to the surface of the shoot tip, resulting in the addition of cells to the surface layer. But occasionally, a cell at the surface divides in a plane parallel to this meristematic layer, placing one daughter cell beneath the surface among cells derived from different lineages. Thus, the cells of the meristem are not dedicated early to forming specific tissues and organs. Put another way, a cell's developmental fate is not determined by its membership in a lineage derived from a particular meristematic cell. Rather, it is the cell's final position in an emerging organ that determines what kind of cell it will become, presumably as a result of positional information.
+
+
+
+
+
+ Phase changes mark major shifts in development
+
+From what you have learned so far about the shoot apex and primary growth, it would seem as if the meristem lays down an identical repeating pattern of stems and leaves. In fact, the apical meristem can change from one developmental phase to another during its history--a process called a phase change. One of these phase changes is a gradual transition in vegetative (leaf-producing) growth from a juvenile state to a mature state in some species. Usually, the most obvious sign of this phase change is a change in the morphology of the leaves produced. The leaves of juvenile versus mature shoot regions differ in shape and other features (FIGURE 35.34). Once the meristem has laid down juvenile nodes and internodes, they retain that status even as the shoot continues to elongate and the meristem eventually changes to the mature phase. If axillary buds give rise to branches, those shoots reflect the developmental phase of the main shoot region from which they arise. Though the main shoot apex may have made the transition from the juvenile to the mature phase, an older region of the shoot below the apex will continue to give rise to branches bearing juvenile leaves if that shoot region was laid down when the main apex was still in the juvenile phase. Ironically, this means that a branch with juvenile leaves may actually be older than a branch with mature leaves. This is analogous to repairing a vintage automobile with newly manufactured body parts; the parts are new, but they must be of the old style to go with the rest of the car.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-34. Phase change in the shoot system of Eucalyptus. A silver-dollar eucalyptus (Eucalyptus polyanthemos) has both (a) juvenile leaves (the round "silver dollars") and (b) mature leaves (the lance-shaped leaves). This dual foliage reflects a phase change in the development of the apical meristem of each shoot. In its juvenile vegetative phase, a meristem lays down modules on which round leaves develop. As the meristem changes gradually to the mature vegetative phase, the leaves become more and more lance-shaped. Once a module forms, its developmental phase--juvenile or mature--is fixed; that is, round leaves do not mature into lanceolate leaves.
+
+The juvenile-to-mature phase transition is another case where it is misleading to compare plant and animal development. In an animal, this transition occurs at the level of the entire organism--as when a larva develops into an adult animal, for example. In plants, phase changes during the history of apical meristems can result in juvenile and mature regions coexisting along the axis of each shoot.
+
+
+
+
+
+ Genes controlling transcription play key roles in a meristem's change from a vegetative to a floral phase
+
+Another particularly striking passage in plant development is the transition of a vegetative shoot tip into a floral meristem. A combination of environmental cues, such as day length, and internal signals, such as hormones, trigger this transition. (You will learn more about the control of flowering in Chapter 39.) Unlike vegetative growth, which is self-renewing, the production of a flower by an apical meristem terminates primary growth of that shoot tip; the apical meristem is consumed in the production of the flower's organs. The transition from vegetative growth to flowering is associated with the switching on of floral meristem identity genes. The protein products of these genes are transcription factors that in turn help activate the genes required for development of the floral meristem.
+
+Once a shoot meristem is induced to flower, positional information commits each primordium that arises on the flanks of the shoot tip to develop into an organ of specific structure and function--for example, an anther-bearing stamen (see FIGURE 30.13 to review flower structure). Plant biologists have identified some of the genes that are regulated by positional information and that function in this development of floral pattern. Mutations in these organ identity genes substitute one type of floral organ where another would normally form (FIGURE 35.35). For example, a particular mutation may cause an extra whorl of sepals to develop in a flower where there ought to be petals. The inference is that the wild-type alleles for these organ identity genes are responsible for the development of normal floral pattern.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-35. Organ identity genes and pattern formation in flower development. (a) Arabidopsis normally has four whorls of flower parts: sepals (Se), petals (Pe), stamens (St), and carpels (Ca). (b) Researchers have identified several mutations of organ identity genes that cause abnormal flowers to develop. This flower has an extra set of petals in place of stamens and an internal flower where normal plants have carpels.
+
+Organ identity genes code for transcription factors (see FIGURE 21.20). Positional information determines which organ identity genes are expressed in a particular floral-organ primordium. The resulting transcription factors probably induce the expression of those genes responsible for building an organ of specific structure and function. FIGURE 35.36 illustrates a hypothesis for how three regulatory products of organ identity genes are responsible for normal flower development. (Chapter 21 explores this hypothesis for flower development in much greater detail--see FIGURE 21.19.) By constructing such hypotheses and designing experiments to test them, researchers are tracing the genetic basis of plant development.
+
+
+
+Click image to enlarge
+
+
+
+Fig 35-36. The ABC hypothesis for the functioning of organ identity genes in flower development. Based on their studies of mutations that affect floral morphology in Arabidopsis and other plants (a generalized flower is illustrated here), researchers have determined that three classes of organ identity genes are responsible for the spatial pattern of floral organs. (Chapter 21 presents the experimental support for this hypothesis.) The three classes of organ identity genes are designated A, B, and C in the upper drawing, a schematic diagram of a floral meristem in transverse view. The products of these genes are transcription factors that regulate expression of other genes responsible for the development of the specific floral organs: sepals, petals, stamens, and carpels. Sepals develop from the region of the meristem where only the A genes are active. Petals develop from the region where both A and B genes are expressed. Stamens arise from the meristem where both the B and C genes are active. And carpels are derived from the region where only the C genes are expressed.
+
+In dissecting the plant to examine its parts, as we have done in this chapter, we must remember that the whole plant functions as an integrated organism. In the following chapters, you will learn more about how materials are transported within the plant (Chapter 36), how plants obtain nutrients (Chapter 37), how plants reproduce (Chapter 38), and how the various functions of the plant are coordinated (Chapter 39). Remembering that structure fits function and that plant anatomy and physiology reflect evolutionary adaptation to the problems of living on land will enhance your understanding of plants.
+
+
+
+

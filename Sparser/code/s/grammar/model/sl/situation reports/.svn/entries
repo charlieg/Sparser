@@ -1,0 +1,76 @@
+9
+
+dir
+356
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp/Sparser/code/s/grammar/model/sl/situation%20reports
+svn+ssh://dmcdonal@src.dsl.bbn.com/svn/nlp
+
+
+
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+
+svn:special svn:externals svn:needs-lock
+
+late-loader.lisp
+file
+
+
+
+
+2007-01-04T03:35:50.000000Z
+482f6fe27b9429cc44e70708be18a06f
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+redundant-rules.lisp
+file
+
+
+
+
+2007-01-04T03:35:50.000000Z
+f8c1855b1032673860bfb619a98fd90b
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+new-rules.lisp
+file
+
+
+
+
+2007-01-04T03:35:50.000000Z
+762944964743c7de26d6996a8abb1035
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+undo-other-settings.lisp
+file
+
+
+
+
+2007-01-04T03:35:50.000000Z
+d0c85a8b16be4caf60e40891ff5e442f
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+
+loader.lisp
+file
+
+
+
+
+2007-01-04T03:35:50.000000Z
+7e0e468de29eee401ef510ed2b3ff9f5
+2007-01-23T16:08:02.390158Z
+1
+dmcdonal
+

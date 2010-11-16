@@ -1,0 +1,22 @@
+
+ Reduction of the gametophyte continued with the evolution of seed plants
+
+In Chapter 29, we discussed an important distinction between the life cycles of mosses and other bryophytes and the life cycles of ferns and other seedless vascular plants: a gametophyte-dominant life cycle for bryophytes versus a sporophyte-dominant life cycle for seedless vascular plants. That trend continued with the evolution of seed plants--the gymnosperms and angiosperms. The gametophytes of seed plants are even more reduced than the gametophytes of seedless vascular plants such as ferns. And in seed plants, the miniature female gametophytes develop from spores that are retained within the sporangia of the parental sporophyte. One advantage of this arrangement is that the delicate female gametophytes do not have to cope with many environmental stresses. These female gametophytes and the young embryos they produce after fertilization are sheltered from drought and harmful UV radiation by their enclosure within the moist reproductive tissues of the parental sporophyte generation. This relationship also makes it possible for the gametophytes to obtain nutrients from their parents. In contrast, the free- living gametophytes of seedless vascular plants must fend for themselves (see FIGURE 29.23).
+
+This protection of female gametophytes within sporophyte tissues required extreme miniaturization of the gametophytes. The free-living gametophytes of seedless vascular plants (pteridophytes), though small compared to the sporophytes, are visible to the unaided eye. But the gametophytes of seed plants are microscopic. FIGURE 30.1 reviews this terrestrial adaptation of seed plants by contrasting the sporophyte-gametophyte relationships for different plant groups.
+
+
+
+Click image to enlarge
+
+
+
+Fig 30-1. Three variations on gametophyte/sporophyte relationships.
+
+Why has the gametophyte generation not been completely eliminated from the plant life cycle? One hypothesis is that haploid gametophytes provide a mechanism for "screening" alleles, including new mutations. Gametophytes with deleterious mutations that affect basic metabolism and cell division will not survive to produce gametes that could combine to start new sporophytes.
+
+Another possible reason that the gametophyte has not gone completely "out of style" in seed plants is that all sporophyte embryos are dependent, at least to some extent, on tissues of the maternal gametophyte. You learned, for example, that in bryophytes the embryonic sporophyte is nourished by a gametophyte as it grows from the archegonium. You'll soon learn that even in seed plants, the gametophyte continues to play a role in nourishing the sporophyte embryo, at least during its early development.
+
+
+
+

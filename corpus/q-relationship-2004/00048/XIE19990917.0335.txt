@@ -1,0 +1,10 @@
+WASHINGTON , September 16 -LRB- Xinhua -RRB- -- U.S. President Bill Clinton on Thursday relaxed U.S. control on the export of data encryption technology , a move long sought by the domestic computer industry and resisted by federal law enforcement officials .
+The move was a defeat for the Justice Department , which had forcefully argued that criminals and terrorists might use the technology to scramble messages about crimes or deadly plots .
+Critics of restrictions on export sales said criminals and terrorists already could buy or download powerful encryption technology made in other countries .
+To help law enforcement , the White House will urge Congress to give the FBI 80 million U.S. dollars over four years to develop techniques to break messages scrambled by terrorists .
+The decision should help U.S. companies in overseas competition .
+The administration will allow high-tech companies to sell even the most powerful encryption technology overseas to private and commercial customers after a one-time technical review of their products .
+But the White House will still require companies to seek permission to sell the scrambling technology to a foreign government or military and it maintains bans on selling to seven nations accused of terrorism : Iran , Iraq , Libya , Syria , Sudan , North Korea and Cuba .
+Previously , the administration allowed companies to sell the most powerful scrambling technology only to specific industries overseas ; other foreign customers were generally limited to so-called 56-bit encryption products , meaning those with 72-quadrillion unlocking combinations .
+Critics cited more than 800 products available worldwide with stronger scrambling technology than the United States allowed its companies to sell overseas .
+A non-profit group of researchers demonstrated last summer it can unscramble a 56-bit coded message in just days using a custom-built computer worth less than 250,000 dollars .

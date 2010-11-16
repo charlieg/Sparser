@@ -1,0 +1,212 @@
+;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER COMMON-LISP) -*-
+;;; Copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
+;;; $Id:$
+
+;;;      File: "scan"
+;;;    Module: "analyzers;SDM&P:
+;;;   Version: February 2007
+
+;; Initiated 2/9/07.
+
+(in-package :sparser)
+
+;;;-----------
+;;; dispatch
+;;;-----------
+
+(defun sdm/analyze-segment (coverage) ;;(break "top of sdm/segment")
+  ;; Called from Segment-finished
+  (case coverage
+    (:one-edge-over-entire-segment
+     ;; Nothing to do, so go back through the standard path
+     ;; given in PTS.
+     (sf-action/spanned-segment))
+    
+    (:no-edges
+     (sdm-action/no-edges))
+    
+    (:discontinuous-edges
+     (sdm-action/discontinuous-edges))
+    
+    (:some-adjacent-edges
+     (sdm-action/some-adjacent-edges))
+    
+    (:all-contiguous-edges
+     (sdm-action/all-contiguous-edges))
+    
+    (otherwise
+     (break "Unanticipated value for segment coverage: ~A"
+	    coverage))))
+
+
+;;;-------
+;;; cases
+;;;-------
+
+(defun sdm-action/no-edges ()
+  (tr :sdm-no-edges)
+  (reify-segment-head-and-loop)) ;; come back in with different coverage
+
+(defun sdm-action/discontinuous-edges ()
+  (tr :sdm-discontinuous-edges)
+  (reify-segment-head-if-needed)
+  (sdm-action/some-edges))
+
+(defun sdm-action/some-adjacent-edges ()
+  (tr :sdm-some-adjacent-edges)
+  (sdm-action/some-edges))
+
+(defun sdm-action/some-edges ()
+  (reify-segment-head-if-needed)
+  (if (edge-over-segment-prefix)
+    (then
+      (sdm-span-segment/prefix)
+      (parse-at-the-segment-level *right-segment-boundary*))
+    (sdm-span-segment)))
+
+(defun sdm-action/all-contiguous-edges ()
+  (tr :sdm-all-contiguous-edges)
+  ;; When we're collecting relations then we'll have things to do here
+  (SF-action/spanned-segment))
+
+
+;;--- common subroutines
+
+(defun reify-segment-head-if-needed ()
+  (when (no-edge-over-segment-head)
+    (reify-segment-head-as-a-category)))
+
+(defun reify-segment-head-and-loop ()
+  (reify-segment-head-as-a-category) ;; lays down the edge
+  ;; See if we can do something with that edge.
+  ;; This will get us back to segment-parsed1
+  ;; and we'll loop around, but with different coverage
+  (parse-at-the-segment-level *right-segment-boundary*))
+
+ 
+(defun sdm-span-segment/prefix ()
+  (sdm-span-segment (where-prefix-edge-ends)))
+
+(defun sdm-span-segment (&optional start-at)
+  (let ((start-pos (or start-at
+		       *left-segment-boundary*))
+	(label (category-of-right-suffix))
+	(category (referent-of-right-suffix)))
+    (let ((edge (make-edge-over-long-span
+		 start-pos
+		 *right-segment-boundary*
+		 label
+		 :form (if (eq start-pos *left-segment-boundary*)
+			   (category-named 'n-bar)
+			   (category-named 'np))
+		 :referent (instantiate-reified-segment-category category)
+		 :rule 'sdm-span-segment)))
+      (tr :sdm-span-segment edge)
+      edge)))
+   
+
+;;;----------
+;;; go-fer's
+;;;----------
+
+(defun no-edge-over-segment-head ()
+  (not (edge-over-segment-head)))
+
+(defun edge-over-segment-head ()
+  (let ((right-end *right-segment-boundary*)
+	(left-end (chart-position-before *right-segment-boundary*)))
+    (edge-between left-end right-end)))
+
+(defun head-word-of-segment ()
+  (let* ((right-end *right-segment-boundary*)
+	 (left-end (chart-position-before *right-segment-boundary*))
+	 (word (pos-terminal left-end)))
+    (values word left-end right-end)))
+
+(defun edge-over-segment-suffix ()
+  (let ((right-ev (pos-ends-here *right-segment-boundary*)))
+    (ev-top-node right-ev)))
+
+(defun edge-over-segment-prefix ()
+  (let ((left-pos-start (pos-starts-here *left-segment-boundary*)))
+    (when left-pos-start
+      (ev-top-node left-pos-start))))
+    
+(defun where-prefix-edge-ends ()
+  (let* ((left-pos-start (pos-starts-here *left-segment-boundary*))
+	 (top-edge (ev-top-node left-pos-start)))
+    (if (eq top-edge :multiple-initial-edges)
+      (let ((longest (longest-edge-starting-at *left-segment-boundary*)))
+	(ev-position (edge-ends-at longest)))
+      (ev-position (edge-ends-at top-edge)))))
+
+(defun category-of-right-suffix ()
+  (let ((suffix (edge-over-segment-suffix)))
+    (unless suffix
+      (break "category-of-right-suffix -- expected there to be a suffix edge"))
+    (edge-category suffix)))
+
+(defun referent-of-right-suffix ()
+  (let ((suffix (edge-over-segment-suffix)))
+    (unless suffix
+      (break "referent-of-right-suffix -- expected there to be a suffix edge"))
+    (edge-referent suffix)))
+
+;;;--------
+;;; traces
+;;;--------
+
+(defparameter *trace-sdm&p* nil)
+
+(defun trace-sdm&p ()
+  (setq *trace-sdm&p* t))
+
+(defun untrace-sdm&p ()
+  (setq *trace-sdm&p* nil))
+
+(deftrace :sdm-no-edges ()
+  (when *trace-sdm&p*
+    (trace-msg "[SDM] no edges over p~a to p~a - \"~a\""
+      (when *left-segment-boundary*
+	(pos-token-index *left-segment-boundary*))
+      (when *right-segment-boundary*
+	(pos-token-index *right-segment-boundary*))
+      (when (and *left-segment-boundary* *right-segment-boundary*)
+	(string-of-words-between *left-segment-boundary* 
+				 *right-segment-boundary*)))))
+
+(deftrace :sdm-discontinuous-edges ()
+  (when *trace-sdm&p*
+    (trace-msg "[SDM] discontinuous edges over p~a to p~a - \"~a\""
+      (when *left-segment-boundary*
+	(pos-token-index *left-segment-boundary*))
+      (when *right-segment-boundary*
+	(pos-token-index *right-segment-boundary*))
+      (when (and *left-segment-boundary* *right-segment-boundary*)
+	(string-of-words-between *left-segment-boundary* 
+				 *right-segment-boundary*)))))
+(deftrace :sdm-some-adjacent-edges ()
+  (when *trace-sdm&p*
+    (trace-msg "[SDM] some adjacent edges over p~a to p~a - \"~a\""
+      (when *left-segment-boundary*
+	(pos-token-index *left-segment-boundary*))
+      (when *right-segment-boundary*
+	(pos-token-index *right-segment-boundary*))
+      (when (and *left-segment-boundary* *right-segment-boundary*)
+	(string-of-words-between *left-segment-boundary* 
+				 *right-segment-boundary*)))))
+
+(deftrace :sdm-all-contiguous-edges ()
+  (when *trace-sdm&p*
+    (trace-msg "[SDM] contiguous edges over p~a to p~a - \"~a\""
+      (when *left-segment-boundary*
+	(pos-token-index *left-segment-boundary*))
+      (when *right-segment-boundary*
+	(pos-token-index *right-segment-boundary*))
+      (when (and *left-segment-boundary* *right-segment-boundary*)
+	(string-of-words-between *left-segment-boundary* 
+				 *right-segment-boundary*)))))
+
+(deftrace :sdm-span-segment (edge)
+  (when *trace-sdm&p*
+    (trace-msg "[SDM] edge over segment: ~a" edge)))

@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+
+
+
+
+<TempEval>
+
+
+
+
+ WSJ891031-0006 
+ = 891031 
+ 891031-0006. 
+ International Brief -- Ratners Group PLC:
+@  British Jeweler's U.S. Unit
+@  Agrees to Buy Weisfield's 
+ <TIMEX3 tid="t41" type="DATE" value="1989-10-31" temporalFunction="false" functionInDocument="CREATION_TIME">10/31/89</TIMEX3> 
+ WALL STREET JOURNAL (J) 
+ RATNY WEIS 
+ TENDER OFFERS, MERGERS, ACQUISITIONS (TNM) 
+
+   <s>Ratners Group PLC's U.S. subsidiary has <EVENT eid="e1" mainevent="YES" class="I_ACTION" stem="agree" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">agreed</EVENT> to <EVENT eid="e3" mainevent="NO" class="OCCURRENCE" stem="acquire" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">acquire</EVENT> jewelry retailer Weisfield's Inc. for $50 a share, or about $55 million.</s> 
+
+   <s>Weisfield's shares <EVENT eid="e4" mainevent="YES" class="OCCURRENCE" stem="soar" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">soared</EVENT> on the <EVENT eid="e5" mainevent="NO" class="OCCURRENCE" stem="announcement" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">announcement</EVENT> <TIMEX3 tid="t42" type="DATE" value="1989-10-30" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t41">yesterday</TIMEX3>, closing up $11 to <EVENT eid="e9" mainevent="NO" class="OCCURRENCE" stem="close" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">close</EVENT> at <EVENT eid="e43" mainevent="NO" class="STATE" stem="$50" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">$50</EVENT> in national over-the-counter <EVENT eid="e10" mainevent="NO" class="OCCURRENCE" stem="trading" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">trading</EVENT>.</s> 
+
+   <s>Ratners and Weisfield's <EVENT eid="e12" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> they <EVENT eid="e13" mainevent="NO" class="ASPECTUAL" stem="reach" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">reached</EVENT> an <EVENT eid="e14" mainevent="NO" class="I_STATE" stem="agreement" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">agreement</EVENT> in principle for the <EVENT eid="e15" mainevent="NO" class="OCCURRENCE" stem="acquisition" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">acquisition</EVENT> of Weisfield's by Sterling Inc. 
+
+The companies <EVENT eid="e16" mainevent="NO" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> the <EVENT eid="e17" mainevent="NO" class="OCCURRENCE" stem="acquisition" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">acquisition</EVENT> is <EVENT eid="e134" mainevent="NO" class="I_STATE" stem="subject" tense="PRESENT" aspect="NONE" polarity="POS" pos="ADJECTIVE">subject</EVENT> to a definitive <EVENT eid="e18" mainevent="NO" class="I_STATE" stem="agreement" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">agreement</EVENT>.</s> 
+<s>They <EVENT eid="e19" mainevent="YES" class="REPORTING" stem="say" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">said</EVENT> they <EVENT eid="e20" mainevent="NO" class="I_STATE" stem="expect" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">expect</EVENT> the <EVENT eid="e21" mainevent="NO" class="OCCURRENCE" stem="transaction" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">transaction</EVENT> to be <EVENT eid="e23" mainevent="NO" class="ASPECTUAL" stem="complete" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">completed</EVENT> by <TIMEX3 tid="t45" type="DATE" value="1989-12-15" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t41">Dec. 15</TIMEX3>.</s> 
+
+   <s>Weisfield's, based in Seattle, Wash., currently operates 87 specialty jewelry stores in nine states.</s> 
+<s>In <TIMEX3 tid="t47" type="DURATION" value="P1Y" temporalFunction="true" functionInDocument="NONE" endPoint="t48">the fiscal year</TIMEX3> ended <TIMEX3 tid="t48" type="DATE" value="1989-01-31" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t41">Jan. 31</TIMEX3>, the company <EVENT eid="e28" mainevent="YES" class="REPORTING" stem="report" tense="PAST" aspect="NONE" polarity="POS" pos="VERB">reported</EVENT> <EVENT eid="e53" mainevent="NO" class="OCCURRENCE" stem="sale" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">sales</EVENT> of $59.5 million and pretax <EVENT eid="e51" mainevent="NO" class="STATE" stem="profit" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">profit</EVENT> of $2.9 million.</s> 
+
+   <s>Ratners, which controls 25% of the British jewelry market, would <EVENT eid="e31" mainevent="YES" class="OCCURRENCE" stem="increase" tense="NONE" aspect="NONE" polarity="POS" pos="VERB">increase</EVENT> the number of its U.S. stores to about <EVENT eid="e135" mainevent="NO" class="STATE" stem="450" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">450</EVENT> stores from <EVENT eid="e55" mainevent="NO" class="STATE" stem="360" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">360</EVENT>.</s> 
+<s>It has <EVENT eid="e33" mainevent="YES" class="REPORTING" stem="say" tense="PRESENT" aspect="PERFECTIVE" polarity="POS" pos="VERB">said</EVENT> it <EVENT eid="e34" mainevent="NO" class="I_STATE" stem="hope" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">hopes</EVENT> to <EVENT eid="e36" mainevent="NO" class="I_STATE" stem="control" tense="INFINITIVE" aspect="NONE" polarity="POS" pos="VERB">control</EVENT> 5% of jewelry <EVENT eid="e64" mainevent="NO" class="STATE" stem="business" tense="NONE" aspect="NONE" polarity="POS" pos="NOUN">business</EVENT> in the U.S. by <TIMEX3 tid="t60" type="DATE" value="1992" temporalFunction="false" functionInDocument="NONE">1992</TIMEX3>; <TIMEX3 tid="t62" type="DATE" value="PRESENT_REF" temporalFunction="true" functionInDocument="NONE" anchorTimeID="t41">currently</TIMEX3> it <EVENT eid="e38" mainevent="NO" class="I_STATE" stem="control" tense="PRESENT" aspect="NONE" polarity="POS" pos="VERB">controls</EVENT> <EVENT eid="e65" mainevent="NO" class="STATE" stem="about 2%" tense="NONE" aspect="NONE" polarity="POS" pos="OTHER">about 2%</EVENT>.</s> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<TLINK lid="l1" relType="UNKNOWN" relatedToEvent="e19" eventID="e12" task="C"/>
+<TLINK lid="l2" relType="UNKNOWN" relatedToEvent="e4" eventID="e1" task="C"/>
+<TLINK lid="l3" relType="UNKNOWN" relatedToEvent="e33" eventID="e31" task="C"/>
+<TLINK lid="l4" relType="UNKNOWN" relatedToEvent="e31" eventID="e28" task="C"/>
+<TLINK lid="l5" relType="UNKNOWN" relatedToEvent="e12" eventID="e4" task="C"/>
+
+</TempEval>

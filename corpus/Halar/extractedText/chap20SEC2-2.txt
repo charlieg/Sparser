@@ -1,0 +1,20 @@
+
+ Restriction enzymes are used to make recombinant DNA
+
+Gene cloning and genetic engineering were made possible by the discovery of enzymes that cut DNA molecules at a limited number of specific locations. These enzymes, called restriction enzymes, were discovered in the late 1960s by researchers studying bacteria. In nature, these enzymes protect the bacteria against intruding DNA from other organisms, such as phages or other bacterial cells. They work by cutting up the foreign DNA, a process called restriction. Most restriction enzymes are very specific, recognizing short nucleotide sequences in DNA molecules and cutting at specific points within these sequences. The bacterial cell protects its own DNA from restriction by adding methyl groups (CH3) to adenines or cytosines within the sequences recognized by the restriction enzyme. Hundreds of different restriction enzymes have been identified and isolated.
+
+The top of FIGURE 20.2 is a diagram of a DNA molecule containing a recognition sequence, or restriction site, for a particular restriction enzyme. As shown in this example, most restriction sites are symmetrical: The same 5&#39; 3&#39; sequence of four to eight nucleotides (here, six) is found on both strands, thus running in opposite directions (antiparallel). Restriction enzymes cut covalent phosphodiester bonds of both strands, often in a staggered way, as indicated in the diagram. Because the target sequence usually occurs (by chance) many times in a long DNA molecule, an enzyme will make many cuts. Copies of a DNA molecule always yield the same set of restriction fragments when exposed to that enzyme. In other words, a restriction enzyme cuts a DNA molecule in a reproducible way. (Later you will learn how the different fragments can be separated.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 20-2. Using a restriction enzyme and DNA ligase to make recombinant DNA. The restriction enzyme in this example (called EcoRI) recognizes a specific six-base-pair sequence and makes staggered cuts in the sugar-phosphate backbone within this sequence. Complementary "sticky ends" will attach to each other by hydrogen bonding, transiently rejoining fragments in their original combinations or in new, recombinant arrangements. DNA ligase can then catalyze the formation of covalent bonds, joining their ends. If the fragments are from different sources, the result is recombinant DNA.
+
+Notice in FIGURE 20.2 that the restriction fragments are double-stranded DNA fragments with at least one single-stranded end, called a sticky end. These short extensions will form hydrogen-bonded base pairs with complementary single-stranded stretches on other DNA molecules cut with the same enzyme. The unions formed in this way are only temporary, because only a few hydrogen bonds hold the fragments together. The DNA fusions can be made permanent, however, by the enzyme DNA ligase, which seals the strands by catalyzing the formation of phosphodiester bonds. (Recall from Chapter 16 that DNA ligase is a key enzyme in DNA replication and repair.) We now have recombinant DNA, DNA that has been spliced together from two different sources.
+
+
+
+

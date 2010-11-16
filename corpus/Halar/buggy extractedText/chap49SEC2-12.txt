@@ -1,0 +1,36 @@
+
+ Perceptions of taste and smell are usually interrelated
+
+The perceptions of taste and smell both depend on chemoreceptors that detect specific chemicals in the environment. In the case of terrestrial animals, taste is the detection of certain chemicals that are present in a solution, and smell is the detection of airborne chemicals. However, these chemical senses are usually closely related, and there really is no distinction in aquatic environments.
+
+The taste receptors of insects are located within sensory hairs called sensillae on the feet and mouthparts. The animals use their sense of taste to select food. A tasting hair contains several chemoreceptor cells, each especially responsive to a particular class of chemical stimuli, such as sugar or salt. By integrating sensations (nerve impulses) from these different receptor cells, the insect's brain can apparently distinguish a very large number of tastes (FIGURE 49.23). Insects can also smell airborne chemicals, using olfactory sensillae, usually located on the antennae (see FIGURE 49.5).
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-23. The mechanism of taste in a blowfly. (a) Gustatory sensillae (hairs) on the feet and mouthparts each contain four chemoreceptor cells with dendrites that extend to the pore at the tip of the sensory hair. (b) Each chemoreceptor (taste) cell is especially sensitive to a particular class of substance; for example, the receptor colored green here is most responsive to sugars. But this specificity is relative; each cell can respond to some extent to a broad range of chemical stimuli. Thus, any natural food probably stimulates two or more of the receptor cells. The brain apparently integrates the frequencies of impulses arriving along the axons of the four classes of receptor cells and distinguishes a great variety of tastes.
+
+In humans and other mammals, the senses of taste and smell are functionally similar and interrelated. In both cases a small molecule must dissolve in liquid to reach the receptor cell and trigger the sensation. That molecule binds to a specific protein in the receptor cell membrane, triggering a depolarization of the membrane and the release of neurotransmitter (see FIGURE 49.2).
+
+The receptor cells for taste are modified epithelial cells organized into taste buds scattered in several areas of the tongue and mouth. Most of the taste buds are on the surface of the tongue or are associated with nipplelike projections called papillae on the tongue. Although we cannot distinguish different types of taste receptors from their structures, we recognize four basic taste perceptions--sweet, sour, salty, and bitter--each detected by a chemoreceptor with a certain receptor and signal-transduction pathway. Although each receptor cell is more responsive to a particular type of substance, it can actually be stimulated by a broad range of chemicals. With each taste of food or sip of drink, the brain integrates the differential input from the taste buds, and a complex flavor is perceived.
+
+The olfactory sense of mammals detects certain airborne chemicals. Olfactory receptor cells are neurons that line the upper portion of the nasal cavity and send impulses along their axons directly to the olfactory bulb of the brain (FIGURE 49.24). The receptive ends of the cells contain cilia that extend into the layer of mucus coating the nasal cavity. When an odorous substance diffuses into this region, it binds to specific receptor molecules on the plasma membrane of the olfactory cilia. The binding triggers a signal-transduction pathway involving a G-protein-signaling pathway and, in many cases, the enzyme adenylyl cyclase and the second messenger cyclic AMP (see FIGURE 11.13). The second messenger opens Na+ channels in the olfactory receptor cell membrane, depolarizing it and generating action potentials that go to the brain. Humans can distinguish thousands of different odors, but these are probably based on a few primary odors, analogous to the basic tastes of the gustatory system.
+
+
+
+Click image to enlarge
+
+
+
+Fig 49-24. Olfaction in humans. The specific binding of molecules (blue dots) to specific receptor molecules in the plasma membrane of chemoreceptor cells triggers action potentials. Action potentials are conveyed to neurons in the olfactory bulb of the brain by axons of the receptor cells.
+
+Although the receptors and brain pathways for taste and olfaction are independent, the two senses do interact. Indeed, much of what we call taste is really smell. If the olfactory system is blocked, as by a head cold, the perception of taste is sharply reduced.
+
+Throughout our discussions of sensory mechanisms we have seen many examples of how sensory inputs to the nervous system result in the specific body movements that we observe as animal behavior. The swimming of planarians away from light, the escape behavior of a moth that hears bat sonar, the "righting" response of a crayfish turned upside-down, and the feeding movements of a hydra when it tastes glutathione--these are just a few cases that we have mentioned so far. Animal behavior flows in a seamless cycle involving continuous brain operations that generate actions, note the consequences of these actions via sensory mechanisms, and then use this information to decide on the next action. The remainder of the chapter focuses on the motor mechanisms that make these animal responses possible: how animals use their muscles and skeletons to move.
+
+
+
+

@@ -1,0 +1,25 @@
+WASHINGTON
+-LRB- AP -RRB- -- A number of Energy Department and national weapons laboratory officials face possible disciplinary action because a scientist was provided continued access to top nuclear secrets long after he became a target of an espionage investigation , government officials say .
+An internal Energy Department investigation of the scientist and possible theft of secrets by China at the Los Alamos National Laboratory in New Mexico is focusing on `` why was this man permitted access for so long , '' a senior official said Wednesday .
+The Taiwan -born scientist , Wen Ho Lee , was fired on March 8 for security violations .
+He had been the prime target of an FBI investigation into the theft of weapons secrets for nearly three years at the weapons research lab .
+Energy Secretary Bill Richardson confirmed that Lee , a computer scientist , had transferred a large number of top-secret weapons computer codes from a highly secure system to his unclassified computer , potentially making them vulnerable to outside access .
+A government official , meanwhile , said the FBI was upset by disclosure this week that investigators knew of the computer transfers because they were planning to re-interview Lee and did n't want him to know they had discovered what he had done with the files .
+The thefts allegedly occurred in the 1980s .
+Lee , who worked at the lab since 1978 , has not been charged with a crime and has denied being involved in any espionage .
+Only late last year was Lee shifted to where he would not have access to the most secure nuclear weapons material , including extensive computer codes on weapons design and performance , according to officials who spoke on condition of anonymity .
+Meanwhile , it was learned Wednesday that investigators for nearly two years were prevented from examining Lee 's personal computer at Los Alamos because Los Alamos employees never had been put on formal notice that their computers were subject to search .
+A search of Lee 's computer was proposed as early as 1996 , but both FBI and Justice Department lawyers said a warrant would be needed because the lab 's computers did not contain warnings they were subject to search as government property , the officials said , and there was not enough hard evidence to get a warrant .
+When investigators finally examined Lee 's computer after the scientist had been fired , they found the computer contained extensive files of top-secret weapons design and performance codes , although the computer was part of an unclassified system with wide access and could be used to send data in and out of the lab complex .
+The discovery of top-secret data in Lee 's less secure computer is expected to raise new questions about why he was allowed to keep his security clearance and allowed continued access to some of the lab 's most sensitive weapons data more than two years after he became a leading suspect in the alleged theft by China of information on a sophisticated nuclear warheads , the W -88 , in the 1980s .
+Senior Energy Department officials have concluded that some disciplinary action is warranted against a number of both department and Los Alamos laboratory officials for failing to take action against Lee sooner , said one official .
+`` There were communication gaffs , failures to notify officials within Los Alamos and between Los Alamos and the department about Lee 's status and why he was n't removed from sensitive areas , '' said one official familiar with an internal investigation now under way .
+Los Alamos has about 20,000 computers and only about 3,000 of them are in a classified system whose access is limited to employees with top-secret clearance , according to lab officials .
+Most of the files in Lee 's computer had been transferred from Los Alamos ' highly secure computer system in 1994-95 , although evidence was found the Lee made some authorized transfers as early as 1983 , an official said .
+He said there was no evidence that the files were accessed from outside the laboratory , but also no assurance that they were not .
+`` Classified nuclear weapons codes at Los Alamos were transferred to an unclassified computer system , '' Richardson acknowledged in a statement late Wednesday , although not commenting on specifics .
+Richardson said in an interview that new security measures -- both a physical firewall and extensive monitoring of computer systems -- `` will prevent these kinds of transfers '' in the future .
+`` I believe we are cyber security safe , '' he said .
+The top-secret data found in Lee 's computer with new file numbers included computer codes used in weapons design and analysis of nuclear tests .
+The codes are especially important in the government 's assessment of weapons performance without actual nuclear testing , but could also be helpful to someone trying to copy U.S. warhead design , nuclear weapons experts said .
+Previously , administration officials including Richardson had said no attempt was made to lift Lee 's security clearance and move him to a less sensitive job because of concern that such a move it might tip him that he was the target of an investigation .

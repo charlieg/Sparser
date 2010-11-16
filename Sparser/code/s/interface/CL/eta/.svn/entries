@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-01-23T16:08:02.390158Z"
+   url="svn+ssh://dmcdonal@hops.dsl.bbn.com/cvs2/svn/nlp/Sparser/code/s/interface/C&amp;L/eta"
+   last-author="dmcdonal"
+   kind="dir"
+   repos="svn+ssh://dmcdonal@hops.dsl.bbn.com/cvs2/svn/nlp"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="lookup1.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="38594f247dcd49edb76af11fb5e73b6e"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   name="test files"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="testing.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="150068e9d3f2aaff0ed53ae201c5a771"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="delete1.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="79f55d432f7322eb4225a3e18b2a13b7"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="setup3.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="3499a92e570b0570b6300a1ba9a38137"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="dummy-call.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="f26e859a20722ca7b3240e5851a6d58f"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="fns.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="24af27d3938d61ec9d90a74ec7fb96c9"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="object.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="17f9dc3358cefd7440bcff2dbfbd5ebf"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="forms1.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="2f38e2b00f98e3d0fd9934daa98eaf17"
+   last-author="dmcdonal"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="loader1.lisp"
+   text-time="2007-01-04T03:58:58.000000Z"
+   committed-date="2007-01-23T16:08:02.390158Z"
+   checksum="6a5e70a3c656cd6b7b2e5ba06c99ded1"
+   last-author="dmcdonal"
+   kind="file"/>
+</wc-entries>

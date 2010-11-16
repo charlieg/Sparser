@@ -1,0 +1,50 @@
+
+ Point mutations can affect protein structure and function
+
+Mutations are changes in the genetic material of a cell (or virus). In FIGURE 15.13, we considered large-scale mutations, chromosomal rearrangements that affect long segments of DNA. Now that you have learned about the genetic code and its translation, we can examine point mutations, which are chemical changes in just one base pair of a gene.
+
+If a point mutation occurs in a gamete or in a cell that gives rise to gametes, it may be transmitted to offspring and to a succession of future generations. If the mutation has an adverse effect on the phenotype of a human or other animal, the mutant condition is referred to as a genetic disorder, or hereditary disease. For example, we can trace the genetic basis of sickle-cell disease to a mutation of a single base pair in the gene that codes for one of the polypeptides of hemoglobin. The change of a single nucleotide in the DNA's template strand leads to the production of an abnormal protein (FIGURE 17.23). In individuals who are homozygous for the mutant allele, the sickling of red blood cells caused by the altered hemoglobin produces the multiple symptoms associated with sickle-cell disease (see FIGURE 14.15). Let's see how different types of point mutations translate into altered proteins.
+
+
+
+Click image to enlarge
+
+
+
+Fig 17-23. The molecular basis of sickle-cell disease: a point mutation. The allele that causes sickle-cell disease differs from the wild-type (normal) allele by a change in a single DNA base pair.
+
+Types of Point Mutations
+
+Point mutations within a gene can be divided into two general categories: base-pair substitutions and base-pair insertions or deletions. While reading about how these mutations affect proteins, refer to the appropriate parts of FIGURE 17.24.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 17-24. Categories and consequences of point mutations. Mutations are changes in DNA, but they are represented here as they are reflected in mRNA and its protein product. Strictly speaking, the example at the lower left is not a point mutation because it involves insertion or deletion of more than one nucleotide.
+
+Substitutions. A base-pair substitution is the replacement of one nucleotide and its partner in the complementary DNA strand with another pair of nucleotides. Some substitutions are called silent mutations because, owing to the redundancy of the genetic code, they have no effect on the encoded protein. In other words, a change in a base pair may transform one codon into another that is translated into the same amino acid. For example, if CCG mutated to CCA, the mRNA codon that used to be GGC would become GGU, and a glycine would still be inserted at the proper location in the protein (see FIGURE 17.4). Other changes of a single nucleotide pair may switch an amino acid but have little effect on the protein. The new amino acid may have properties similar to those of the amino acid it replaces, or it may be in a region of the protein where the exact sequence of amino acids is not essential to the protein's function.
+
+However, the base-pair substitutions of greatest interest are those that cause a readily detectable change in a protein. The alteration of a single amino acid in a crucial area of a protein--in the active site of an enzyme, for example--will significantly alter protein activity. Occasionally, such a mutation leads to an improved protein or one with novel capabilities that enhance the success of the mutant organism and its descendants. But much more often such mutations are detrimental, creating a useless or less active protein that impairs cellular function.
+
+Substitution mutations are usually missense mutations; that is, the altered codon still codes for an amino acid and thus makes sense, although not necessarily the right sense. But if a point mutation changes a codon for an amino acid into a stop codon, translation will be terminated prematurely, and the resulting polypeptide will be shorter than the polypeptide encoded by the normal gene. Alterations that change an amino acid codon to a stop signal are called nonsense mutations, and nearly all nonsense mutations lead to nonfunctional proteins.
+
+Insertions and Deletions. Insertions and deletions are additions or losses of nucleotide pairs in a gene. These mutations have a disastrous effect on the resulting protein more often than substitutions do. Because mRNA is read as a series of nucleotide triplets during translation, the insertion or deletion of nucleotides may alter the reading frame (triplet grouping) of the genetic message. Such a mutation, called a frameshift mutation, will occur whenever the number of nucleotides inserted or deleted is not a multiple of three. All the nucleotides that are downstream of the deletion or insertion will be improperly grouped into codons, and the result will be extensive missense ending sooner or later in nonsense--premature termination. Unless the frameshift is very near the end of the gene, it will produce a protein that is almost certain to be nonfunctional.
+
+Mutagens
+
+The production of mutations can occur in a number of ways. Errors during DNA replication, repair, or recombination can lead to base-pair substitutions, insertions, or deletions, as well as to mutations affecting longer stretches of DNA. Mutations resulting from such errors are called spontaneous mutations.
+
+A number of physical and chemical agents, called mutagens, interact with DNA to cause mutations. In the 1920s, Hermann Muller discovered that if he subjected fruit flies to X-rays, genetic changes increased in frequency. Using this method, Muller was able to obtain mutants of Drosophila that he could use in his genetic studies. But he also recognized an alarming implication of his discovery: Because they are mutagens, X-rays and other forms of high-energy radiation pose hazards to the genetic material of people as well as laboratory organisms. Mutagenic radiation, a physical mutagen, includes ultraviolet (UV) light, which can produce disruptive thymine dimers in DNA (see FIGURE 16.17).
+
+Chemical mutagens fall into several categories. Base analogues are chemicals that are similar to normal DNA bases but that pair incorrectly during DNA replication. Some other chemical mutagens interfere with correct DNA replication by inserting themselves into the DNA and distorting the double helix. Still other mutagens cause chemical changes in bases that change their pairing properties.
+
+Researchers have developed various methods to test the mutagenic activity of different chemicals. A major application of these tests is the preliminary screening of chemicals to identify those that may cause cancer. This approach makes sense because most carcinogens (cancer-causing chemicals) are mutagenic and, conversely, most mutagens are carcinogenic.
+
+
+
+

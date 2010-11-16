@@ -1,0 +1,78 @@
+
+ According to the small-population approach, a population's small size can draw it into an extinction vortex
+
+A species is designated as endangered when its populations are very small. Conservation biologists who adopt the small-population approach study the processes that can cause very small populations to finally become extinct. In other words, it is a population's smallness itself that finally drives it to extinction after such factors as habitat loss have taken their toll on population size. At the center of this concept is the extinction vortex, a downward spiral unique to small populations. A small population is prone to positive feedback loops of inbreeding and genetic drift that draw the population down the vortex toward smaller and smaller population size until no individuals exist (FIGURE 55.10).
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-10. The extinction vortex of the small-population approach. Small populations can fall into a vortex of positive feedback loops leading to smaller and smaller population size.
+
+The key factor driving the extinction vortex is the loss of the genetic variation on which a population depends for adaptive evolution. Both inbreeding and genetic drift can cause a loss of genetic variation, and both of these processes intensify as a population shrinks (see Chapter 23 to review how genetic drift reduces genetic variation in a population).
+
+Not all populations are doomed by low genetic diversity. A number of plant species, such as the lousewort Pedicularis and several grasses, seem to have inherently low genetic variability. Furthermore, low genetic variability does not necessarily lead to permanently small populations. For example, overhunting of northern elephant seals in the 1890s reduced the species to only 20 individuals--clearly a bottleneck with reduced genetic variation. Since that time, however, the northern seal populations have rebounded to about 150,000 individuals today. Genetic variation in these populations remains relatively low. Among plants, many populations of cord grass (Spartina anglica), which thrives in saltmarshes, are genetically uniform at many loci. S. anglica arose from a few parent plants only about a century ago by hybridization and allopolyploidy (see FIGURE 24.15). Having spread by cloning, this species now dominates large areas of tidal mudflats in Europe and Asia. Thus, in some cases, low genetic diversity is associated with population expansion rather than decline. But these cases may stand out precisely because they are so unusual. Thus, conservation biologists have good reason to be concerned about very small populations with low genetic variation.
+
+How Small Is Too Small for a Population?
+
+How small does a population have to be before it starts down the extinction vortex? The answer depends on the type of organism and several other factors and must be evaluated case by case. For example, large predators that feed high on the food chain usually require very large individual ranges, resulting in very low population densities. Thus, not all rare species concern conservation biologists. But whatever the number, most populations presumably require some minimum size to remain viable.
+
+Minimum Viable Population Size (MVP). At some minimal population size, rare species will be able to sustain their numbers and survive. That number is the minimum viable population size (MVP). For a given species, MVP is usually estimated using computer models that integrate many factors. For example, the calculation may include an estimate for how many individuals in a small population are likely to be killed by some natural catastrophe such as fire or flood. Once in the extinction vortex, two or three bad weather years in a row could finish off a population that is already below MVP.
+
+Conservation biologists factor a population's MVP into what is called the population viability analysis (PVA). The objective of the analysis is to make a reasonable prediction of a population's chances for survival, usually expressed as a certain probability of survival (for example, a 99%  chance of survival) over a particular time (for instance, 100 years).
+
+Effective Population Size (Ne). Genetic variation is the key issue in the small-population approach. The total size of a population may be misleading because only certain members of the population breed successfully and pass their genetic alleles on to offspring. Therefore, a meaningful estimate of MVP requires the researcher to determine the effective population size, which is based on the breeding potential of the population. The following formula incorporates the sex ratio of breeding individuals into the estimate of effective population size, abbreviated Ne:  where Nf and Nm are, respectively, the numbers of females and males that successfully breed. Applying this formula to an idealized population whose total size is 1,000 individuals, Ne will also be 1,000 if every individual breeds and the sex ratio is 500 females to 500 males. In this case, Ne = (4 &#160;X&#160; 500 &#160;X&#160; 500)/(500 + 500) = 1,000. Deviation from these conditions (not all individuals breed and/or there is not a 50:50 sex ratio) reduces Ne. For instance, if the total population size is 1,000 but only 400 females breed with 400 males, then Ne = (4 &#160;X&#160; 400 &#160;X&#160; 400)/(400 + 400) = 800, or 80%  of the total population size.
+
+In actual study populations, Ne is always some fraction of the total population. Thus, simply censusing a small population--determining the total number of individuals--does not provide a good measure of whether the population is large enough to avoid extinction. Whenever possible, conservation programs are geared to sustain total population sizes that include, at least, the minimum viable number of reproductively active individuals. Numerous life history traits can influence Ne, and alternate formulas for estimating Ne take into account family size, maturation age, genetic relatedness among population members, the effects of gene flow between geographically separated populations, and population fluctuations.
+
+Remember that the conservation goal of sustaining effective population size (Ne) above minimum viable population size (MVP) stems from the concern that populations retain enough genetic diversity to be evolutionarily adaptable. Populations with low Ne are prone to inbreeding, reduced heterozygosity, and the random effects of genetic drift and bottlenecking (see Chapter 23). The basic premise of the small-population approach will seem less abstract in light of three case studies.
+
+Case Study: The Greater Prairie Chicken and the Extinction Vortex
+
+When Europeans arrived in North America, the greater prairie chicken (Tympanuchus cupido) was common from New England to Virginia and all across the western prairies of the United States and Canada. Agriculture later fragmented the populations of the greater prairie chicken in the central and western states and provinces. For example, in Illinois alone, greater prairie chickens numbered in the millions in the 19th century but declined to 25,000 birds by 1933. And by 1993, the Illinois population of prairie chickens was down to only 50, though large populations remained in Kansas, Minnesota, and Nebraska.
+
+Researchers found that the decline in the Illinois prairie chicken population was associated with a decrease in the hatching rate of eggs. Was this due to low levels of genetic diversity? By comparing DNA samples from the endangered Illinois population with DNA extracted from feathers in museum specimens collected earlier, the biologists confirmed that genetic variation had indeed declined in their study population in Jasper County, Illinois. As a further test of the extinction vortex hypothesis, the scientists imported genetic variation by transplanting birds from the larger populations in Kansas, Minnesota, and Nebraska. Over a five-year period ending in 1997, the researchers moved over 270 greater prairie chickens into their study site in Jasper County (FIGURE 55.11). The viability of eggs rapidly improved, and the population rebounded. The researchers concluded that the Jasper County population of prairie chickens was on its way down the extinction vortex until rescued by a transfusion of genetic variation from other populations.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-11. The decline of the greater prairie chicken (Tympanuchus cupido) in central Illinois from 1970 to 1997. The population collapse was mirrored in a reduction in fertility. In 1992, researchers began experimental translocations (blue arrow) of prairie chickens from Minnesota, Kansas, and Nebraska in an attempt to increase genetic variability. The population rebounded strongly.
+
+Case Study: Population Viability Analysis for Two Popular Herbs
+
+For his doctoral dissertation in environmental sciences in 1994 at the University of Quebec, Patrick Nantel presented a population viability analysis of two edible herbaceous plants, American ginseng (Panax quinquefolius) and wild leek (Allium tricoccum). These perennial herbs are found in deciduous forest communities in eastern North America (FIGURE 55.12), and both plants are at risk of extinction. The key factors in their decline are destruction and fragmentation of habitat and overharvesting by people who collect the herbs for food. Extinction has already claimed some populations of the two plants. Nantel's PVA for surviving populations in southeastern Canada incorporated data on trends in the numbers of individuals capable of reproducing in two-, three-, and four-year periods. Computer simulations projected the likely effect of environmental influences on these populations. Minimum viable population sizes generated by these computer models were about 170 ginseng plants and between 300 and 1,030 leek plants. There are only about 20 known ginseng populations in Canada having more than 170 individuals, and leek populations of more than a few hundred are rare. Thus, most populations of American ginseng and wild leek in Canada are currently too small to persist unless completely protected from harvesting by humans. Nantel's work is an example of the increasing use of predictive models in planning conservation strategy.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-12. Two species of edible plants whose persistence is threatened by habitat loss and overharvesting.
+
+Case Study: Analysis of Grizzly Bear Populations
+
+Mark Shaffer, currently with the Wilderness Society, performed one of the first population viability analyses as part of a long-term study of grizzly bears (Ursus artos) in Yellowstone National Park and its surrounding areas (FIGURE 55.13). Grizzly bears require very large areas of habitat. For instance, estimates of the grizzly's minimum habitat needs in western Canada are about 5 million ha for a population of 50 individuals and about 200 million ha for 1,000 individuals. A threatened species in the United States, the grizzly is currently found in only 4 of the 48 contiguous states. Its populations in those states have been drastically reduced and fragmented: In 1800, an estimated 100,000 grizzlies ranged over about 500 million ha of more or less continuous habitat, while today there are six virtually isolated populations totaling about 1,000 individuals with a total range of less than 5 million ha. The Yellowstone population is the largest, with about 200 bears in an area of about 1 million ha.
+
+
+
+Click image to enlarge
+
+
+
+Fig 55-13. Long-term monitoring of a grizzly bear population. The ecologist is fitting this tranquilized bear with a radiotransmitter so that its movements can be tracked and compared with other individuals in the Yellowstone National Park population.
+
+Attempting to determine viable sizes for the U.S. grizzly populations, Shaffer used life history data obtained for individual Yellowstone bears over a 12-year period and simulated the effects of environmental factors on survival and reproduction. His models predicted that a total grizzly bear population of 70 to 90 individuals in suitable habitat will have about a 95%  chance of surviving for 100 years. Achieving a 99%  chance of survival for a century or a 95%  chance for 200 years requires enough habitat to support at least 100 bears. Because of habitat limitations, however, recovery targets--the specific goals mandated by the Endangered Species Act--for several of the U.S. populations have been tentatively set at fewer than 100 bears. In such cases, biologists are hopeful that the small populations can be sustained by careful monitoring and special protective measures.
+
+Concerned that policy decisions have been made without information on potential losses of genetic variability in grizzly bear populations, Fred Allendorf and his co-workers at the University of Montana developed a computer model that augmented Shaffer's work. Using detailed life history and kinship data from individual bears for populations in Montana, Wyoming, and British Columbia, Allendorf's model estimated that the effective population size (Ne) of grizzly populations is only about 25%  of the total population size. Usually, only a few dominant males breed, and locating females may be difficult, since individuals inhabit such extensive areas. Moreover, females may reproduce only when there is abundant food. Thus, even the relatively large Yellowstone population of 200 bears has an effective population size of only 50, a level that might lead to a loss of genetic variability and possibly fitness. Effective population size could be increased if there was migration between isolated populations of grizzlies. Computer models predict that introducing only two unrelated bears each decade into populations of 100 individuals would reduce the loss of genetic variation by about half. For the grizzly bear, and probably for many other species whose populations are very small, finding ways to promote dispersal among populations may be one of the most urgent conservation needs.
+
+The three case studies we have examined bridge small-population theory to practical applications in conservation. Next, we look at an alternative approach to understanding the biology of extinction.
+
+
+
+

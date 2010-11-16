@@ -1,0 +1,256 @@
+
+ Arthropods are segmented coelomates with exoskeletons and jointed appendages
+
+Zoologists estimate that the arthropod population of the world, including crustaceans, spiders, and insects, numbers about a billion billion (1018) individuals. Nearly 1 million arthropod species have been described, mostly insects. In fact, two out of every three organisms known are arthropods, and the phylum is represented in nearly all habitats of the biosphere. On the criteria of species diversity, distribution, and sheer numbers, arthropods must be regarded as the most successful of all animal phyla.
+
+General Characteristics of Arthropods
+
+The diversity and success of arthropods are largely related to their segmentation, hard exoskeleton, and jointed appendages. (arthropod means "jointed feet.") Groups of body segments and their appendages have become specialized for a great variety of functions. This evolutionary flexibility resulted not only in great diversification but also in an efficient body plan by the division of labor among regions. For example, the appendages are variously modified for walking, feeding, sensory reception, copulation, and defense. FIGURE 33.26 illustrates the diverse appendages and other arthropod characteristics of a lobster.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-26. External anatomy of an arthropod. Many of the distinctive features of arthropods are apparent in this dorsal view of a lobster, along with some uniquely crustacean characteristics. The whole body, including appendages, is covered by an exoskeleton. Distinct regions of the body are the head and thorax (together forming the cephalothorax) and the abdomen. The body is segmented, but this characteristic is obvious only in the abdomen. All body regions bear jointed appendages (including pincers, mouthparts, walking legs, and swimming appendages). The two pairs of sensory antennae are also jointed appendages. The head bears a pair of eyes, each situated on a movable stalk.
+
+The body of an arthropod is completely covered by the cuticle, an exoskeleton (external skeleton) constructed from layers of protein and chitin. The cuticle can be a thick, hard armor over some parts of the body and paper-thin and flexible in other locations, such as the joints. The exoskeleton protects the animal and provides points of attachment for the muscles that move the appendages. The skeleton of arthropods is both strong and relatively impermeable to water. As we will see, both of these qualities were largely responsible for the move onto land by various arthropod groups. The rigid exoskeleton also posed some problems. For example, in order to grow, an arthropod must occasionally shed its old exoskeleton and secrete a larger one. This molting (ecdysis) is energetically expensive and leaves the animal temporarily vulnerable to predators and other dangers.
+
+Arthropods tune in to their environment with well-developed sensory organs, including eyes, olfactory receptors for smell, and antennae for touch and smell. Cephalization is extensive, with most sensory organs concentrated at the anterior end of the animal.
+
+Arthropods have open circulatory systems in which fluid called hemolymph is propelled by a heart through short arteries and then into spaces called sinuses surrounding the tissues and organs. (The term blood is best reserved for fluid in a closed circulatory system.) Hemolymph reenters the arthropod heart through pores that are usually equipped with valves. The body sinuses are collectively called the hemocoel, which is not part of the coelom. In most arthropods, the coelom that forms in the embryo becomes much reduced as development progresses, and the hemocoel becomes the main body cavity in adults. Although this condition resembles the open circulatory system of mollusks, the two systems probably arose independently.
+
+A variety of organs specialized for gas exchange have evolved in arthropods. These organs must allow the diffusion of respiratory gases in spite of the exoskeleton. Most aquatic species have gills with thin feathery extensions that place an extensive surface area in contact with the surrounding water. Terrestrial arthropods generally have internal surfaces specialized for gas exchange. Most insects, for instance, have tracheal systems, branched air ducts leading into the interior from pores in the cuticle.
+
+Arthropod Phylogeny and Classification
+
+Molecular systematics generally supports evidence from fossils and comparative anatomy that the arthropods diverged early in their history into four main evolutionary lineages: trilobites (all extinct); chelicerates (horseshoe crabs, scorpions, ticks, spiders, and an extinct group called the eurypterids); uniramians (centipedes, millipedes, and insects); and crustaceans (crabs, lobsters, shrimps, barnacles, and many others).
+
+Crustaceans are primarily aquatic and are believed to have evolved in the ocean. Insects, millipedes, centipedes, and most extant chelicerates diversified on land.
+
+Chelicerates (from the Greek cheilos, lips, and cheir, arm) are named for clawlike feeding appendages called chelicerae. In contrast, uniramians and crustaceans have jawlike mandibles. They are also distinguished from chelicerates in having one or two pairs of sensory antennae and usually a pair of compound eyes (multifaceted eyes with many separate focusing elements). Uniramians have one pair of antennae and uniramous (unbranched) appendages; crustaceans have two pairs of antennae and typically biramous (branched) appendages (note the branched walking legs of the lobster in FIGURE 33.26). Chelicerates lack antennae, and most have simple eyes (eyes with a single lens).
+
+The move onto land by arthropods was made possible in part by the exoskeleton. When the exoskeleton first evolved in the seas, its main functions were probably protection and anchorage for muscles, but it eventually helped certain arthropods live on land by solving the problems of water loss and structural support. The arthropod cuticle is relatively impermeable to water, helping prevent desiccation. The firm exoskeleton also solved the problem of support when arthropods left the buoyancy of water. Chelicerates, insects, millipedes, and centipedes diversified on land during the late Silurian and early Devonian periods, following the colonization by plants. The oldest fossil signs of terrestrial animals are tracks of extinct chelicerates (apparently eurypterids that spent at least some of their time on land) about 450 million years old. Fossilized arachnids almost as old have also been found.
+
+Taxonomists traditionally grouped all the arthropods in one phylum, the phylum Arthropoda. TABLE 33.5, page 664, lists a few of the major arthropod classes in the context of this one-phylum tradition. However, many zoologists now prefer to split the arthropods into multiple phyla corresponding to the four great lineages: phylum Trilobita, phylum Chelicerata, phylum Uniramia, and phylum Crustacea. This trend toward splitting former taxa into a larger number of new ones, based mainly on cladistic analysis, extends to lower taxa. For example, many systematists now split what was the uniramian class Insecta into several classes. And there are other modern taxonomic issues. For instance, some systematists now question whether Uniramia is a monophyletic clade. These scientists interpret the molecular and anatomical data used to construct cladograms to mean that insects are actually more closely related to crustaceans than they are to centipedes and millipedes.
+
+Table 33-5. Some Major Arthropod Classes (based on a traditional taxonomy that places all arthropods in a single phylum, Arthropoda)
+
+Class and ExamplesMain CharacteristicsArachnida (spiders, scorpions, ticks, mites)Body having one or two main parts; six pairs of appendages (chelicerae, pedipalps, and four pairs of walking legs); mostly terrestrialDiplopoda (millipedes)Body with distinct head bearing antennae and chewing mouthparts, segmented body with two pairs of walking legs per segment; terrestrial; herbivorousChilopoda (centipedes)Body with distinct head bearing large antennae and three pairs of mouthparts; appendages of first body segment modified as poison claws; trunk segments bear one pair of walking legs each; terrestrial; carnivorousInsecta (insects)Body divided into head, thorax, and abdomen; antennae present; mouthparts modified for chewing, sucking, or lapping; usually with two pairs of wings and three pairs of legs; mostly terrestrialCrustacea (crabs, lobsters, crayfish, shrimp)Body of two or three parts; antennae present; chewing mouthparts; three or more pairs of legs; mostly marineAs we have seen throughout our survey of the diversity of life, systematics, and the taxonomy it informs, is currently one of the most vibrant fields in biology. We do want you to be aware that phylogenetic trees and classifications represent hypotheses about the history of life that are presently being reconstructed in light of molecular data and other new approaches. However we don't want the current taxonomic turmoil to detract from your appreciation of life's diverse forms. The following survey of arthropods showcases a few major groups, which can be variously classified as phyla, subphyla, or classes, depending on the taxonomic scheme.
+
+Trilobites
+
+Among the early arthropods were the trilobites (FIGURE 33.27). They were common denizens of the shallow seas throughout the Paleozoic era but disappeared with the great Permian extinctions that ended that era, about 250 million years ago. Trilobites had pronounced segmentation, but their appendages showed little variation from segment to segment. As arthropods continued to evolve, the segments tended to fuse and become fewer in number, and the appendages became specialized for a variety of functions. (Compare the trilobite in FIGURE 33.27 with the lobster in FIGURE 33.26.)
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-27. A trilobite fossil. Trilobites were prevalent arthropods throughout the Paleozoic era. Paleontologists have described about 4,000 trilobite species.
+
+Spiders and Other Chelicerates
+
+The trilobites were outlasted by the eurypterids, or water scorpions. These mainly marine and freshwater predators, up to 3 m long, were chelicerates. A chelicerate has an anterior cephalothorax and a posterior abdomen. The appendages are more specialized than those of trilobites, and the most anterior appendages are modified as chelicerae (either pincers or fangs). Most of the marine chelicerates, including all of the eurypterids, are extinct; only four marine species survive today, one being the horseshoe crab (FIGURE 33.28).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-28. Horseshoe crabs (Limulus polyphemus). This "living fossil," which has changed little in hundreds of millions of years, has survived from a rich diversity of chelicerates that once filled the seas. The horseshoe crab is common on the Atlantic and Gulf coasts of the United States.
+
+The bulk of modern chelicerates are found on land in the form of class Arachnida, which includes scorpions, spiders, ticks, and mites (FIGURE 33.29). Ticks and many mites are among a large group of parasitic arthropods. Nearly all ticks are blood-sucking parasites on the body surfaces of reptiles, birds, or mammals. Parasitic mites live on or in a wide variety of vertebrates and invertebrates, including other arthropods (FIGURE 33.29c).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-29. Arachnids. (a) Scorpions, which hunt by night, were among the first terrestrial carnivores, preying on other arthropods that fed on the early land plants. The pedipalps of scorpions are pincers specialized for defense and the capture of food. The tip of the tail bears a poisonous stinger. (b) This magnified house-dust mite is a ubiquitous scavenger in human dwellings (colorized SEM). Unlike some mites that carry disease-causing bacteria, dust mites are harmless except to people who are allergic to them. (c) Many arthropods parasitize other arthropods. In this light micrograph, the trachea (air tube) of a honeybee (an insect) is filled with parasitic mites.
+
+Arachnids have a cephalothorax with six pairs of appendages: the chelicerae, a pair of appendages called pedipalps that usually function in sensing or feeding, and four pairs of walking legs (FIGURE 33.30). Spiders use their fanglike chelicerae, equipped with poison glands, to attack prey. As the chelicerae masticate (chew) the prey, the spider spills digestive juices onto the torn tissues. The food softens, and the spider sucks up the liquid meal.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 33-30. Spiders (class Arachnida).
+
+In most spiders, gas exchange is carried out by book lungs, stacked plates contained in an internal chamber (see FIGURE 33.30b). The extensive surface area of these respiratory organs is a structural adaptation that enhances the exchange of O2 and CO2 between the hemolymph and air.
+
+A unique adaptation of many spiders is the ability to catch flying insects by stringing webs of silk, a protein produced as a liquid by special abdominal glands. The silk is spun by organs called spinnerets into fibers that solidify. Each spider engineers a style of web characteristic of its species and constructs the web perfectly on the first try. This complex behavior is apparently inherited. Besides building their webs from silk, various spiders use these fibers in other ways: as droplines for rapid escape, as cloth that covers eggs, and even as "gift wrapping" for food that certain male spiders offer females during courtship.
+
+Millipedes and Centipedes
+
+Millipedes (class Diplopoda) are wormlike, with a large number of walking legs (two pairs per segment), though fewer than the thousand their name implies (FIGURE 33.31a). They eat decaying leaves and other plant matter. Millipedes may have been among the earliest animals on land, living on mosses and primitive vascular plants.
+
+a.
+
+b.
+
+Click image to enlarge
+
+
+
+Fig 33-31. Class Diplopoda (millipedes) and class Chilopoda (centipedes). (a) Millipedes feed on decaying plant matter. (b) The house centipede (Scutigera coleoptrata), a fast-moving carnivore, feeds on insects, including cockroaches, and other small invertebrates.
+
+Centipedes (class Chilopoda) are terrestrial carnivores. The head has a pair of antennae and three pairs of appendages modified as mouthparts, including the jawlike mandibles. Each segment of the trunk region has one pair of walking legs (FIGURE 33.31b). Centipedes have poison claws on the anteriormost trunk segment that paralyze prey and aid in defense.
+
+Insects
+
+In species diversity, insects (class Insecta) outnumber all other forms of life combined. They live in almost every terrestrial habitat and in fresh water, and flying insects fill the air. Insects are rare, though not absent, in the seas, where crustaceans are the dominant arthropods. Class Insecta is divided into about 26 orders, some of which are described in TABLE 33.6, pages 668-669. Entomology, the study of insects, is a vast field with many subspecialties, including physiology, ecology, and taxonomy.
+
+Table 33-6. Some Major Orders of Insects
+
+OrderApproximate Number of SpeciesMain CharacteristicsExamplesAnoplura2,400Wingless ectoparasites; sucking mouthparts; small with flattened body, reduced eyes; legs with clawlike tarsi for clinging to skin; incomplete metamorphosis; very host-specificSucking lice
+
+
+
+Coleoptera500,000Two pairs of wings (one pair thick and leathery, one pair membranous), armored exoskeleton; biting and chewing mouthparts; complete metamorphosisBeetles
+
+
+
+Dermaptera1,000Two pairs of wings (one pair leathery, one pair membranous) or wingless; biting mouthparts; large posterior pincers; incomplete metamorphosisEarwigs
+
+
+
+Diptera120,000One pair of wings and halteres (balancing organs); sucking, piercing, or lapping mouthparts; complete metamorphosisFlies, mosquitoes
+
+
+
+Hemiptera55,000Two pairs of wings (one pair partly leathery, one pair membranous); piercing or sucking mouthparts; incomplete metamorphosisTrue bugs; assassin bug, bedbug, chinch bug
+
+
+
+Hymenoptera100,000Two pairs of membranous wings; head mobile; chewing or sucking mouthparts; posterior stinging organ on females; complete metamorphosis; many species socialAnts, bees, wasps
+
+
+
+Isoptera2,000Two pairs of membranous wings (some stages wingless); chewing mouthparts; highly social; incomplete metamorphosisTermites
+
+
+
+Lepidoptera140,000Two pairs of wings covered with tiny scales; long coiled tongue for sucking; complete metamorphosisButterflies, moths
+
+
+
+Odonata5,000Two pairs of membranous wings; biting mouthparts; incomplete metamorphosisDamselflies, dragonflies
+
+
+
+Orthoptera30,000Two pairs of wings (one pair leathery, one pair membranous); biting and chewing mouthparts; incomplete metamorphosisCrickets, roaches, grasshoppers, mantids
+
+
+
+Siphonaptera2,000Wingless, laterally compressed; adults are bloodsuckers on birds and mammals; piercing and sucking mouthparts; jumping legs; complete metamorphosisFleas
+
+
+
+Trichoptera7,000Two pairs of hairy wings; chewing or lapping mouthparts; complete metamorphosis; aquatic larvae build silken nets or cases (of sand, gravel, and wood) bound together by silkCaddisflies
+
+
+
+The oldest insect fossils date back to the Devonian period, which began about 400 million years ago. However, when flight evolved during the Carboniferous and Permian periods, it spurred an explosion in insect variety. A fossil record of diverse insect mouthparts indicates that specialized feeding on gymnosperms and other Carboniferous plants also contributed to the adaptive radiation of insects. A widely held hypothesis is that the greatest diversification of insects paralleled the evolutionary radiation of flowering plants during the Cretaceous and early Tertiary periods about 60 to 65 million years ago. This view is challenged by new research suggesting that insects diversified extensively before the angiosperm radiation. Thus, during the coevolution of flowering plants and the herbivorous insects that pollinated them, insect diversity may have been more a cause of angiosperm radiation than an effect.
+
+Flight is obviously one key to the great success of insects. An animal that can fly can escape many predators, find food and mates, and disperse to new habitats much faster than an animal that must crawl about on the ground. Many insects have one or two pairs of wings that emerge from the dorsal side of the thorax (FIGURE 33.32). Because the wings are extensions of the cuticle and not true appendages, insects can fly without sacrificing any walking legs. By contrast, the flying vertebrates--birds and bats--have one of their two pairs of walking legs modified for wings and are generally quite clumsy on the ground.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-32. Insect flight. Insect wings, such as this dragonfly's, are not modified appendages but extensions of the cuticle. Some insects beat their wings at speeds of several hundred cycles per second by using muscles to warp the shape of the entire cuticle covering the thorax. As the wings flap, they change angles, producing lift on both the up and down strokes.
+
+Insect wings may have first evolved as extensions of the cuticle that helped the insect body absorb heat, only later becoming organs for flight. Other views suggest that wings allowed the animals to glide from vegetation to the ground, or even served as gills in aquatic insects. Still another hypothesis is that insect wings functioned for swimming before they functioned for flight.
+
+Dragonflies, with two similar pairs of wings, were among the first insects to fly (see FIGURE 33.32). Several insect orders that evolved later than dragonflies have modified flight equipment. The wings of bees and wasps, for instance, are hooked together and move as a single pair. Butterfly wings operate in a similar fashion because the anterior pair overlaps the posterior wings. In beetles, the posterior wings function in flight, while the anterior ones are modified as covers that protect the flight wings when the beetle is on the ground or when the beetle is burrowing.
+
+The internal anatomy of an insect includes several complex organ systems (FIGURE 33.33). The complete digestive system is regionally specialized, with discrete organs functioning in the breakdown of food and the absorption of nutrients. Like other arthropods, an insect has an open circulatory system, with a heart pumping hemolymph through the sinuses of the hemocoel. Metabolic wastes are removed from the hemolymph by unique excretory organs called Malpighian tubules, which are outpocketings of the digestive tract. Gas exchange in insects is accomplished by a tracheal system of branched, chitin-lined tubes that infiltrate the body and carry oxygen directly to cells. The tracheal system opens to the outside of the body through spiracles, pores that can open or close to regulate air flow and limit water loss.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-33. Anatomy of a grasshopper, an insect. The insect body has three regions: a head, a thorax, and an abdomen (top drawing). Segmentation is apparent along the thorax and abdomen, but the head segments are fused. On the insect head are one pair of antennae and a pair of compound eyes. Several pairs of appendages modified for chewing (as in grasshoppers) or for lapping, piercing, or sucking (in certain other insects) form the mouthparts. The thorax of the insect bears three pairs of walking legs. The bottom drawing identifies major internal organs.
+
+The insect nervous system consists of a pair of ventral nerve cords with several segmental ganglia. The two cords meet in the head, where the ganglia of several anterior segments are fused into a cerebral ganglion (brain) close to the antennae, eyes, and other sense organs concentrated on the head.
+
+Many insects undergo metamorphosis in their development. In the incomplete metamorphosis of grasshoppers and some other orders, the young resemble adults but are smaller and have different body proportions. The animal goes through a series of molts, each time looking more like an adult, until it reaches full size. Insects with complete metamorphosis have larval stages specialized for eating and growing that are known by such names as maggot, grub, or caterpillar. The larval stage looks entirely different from the adult stage, which is specialized for dispersal and reproduction. Metamorphosis from the larval stage to the adult occurs during a pupal stage (FIGURE 33.34, p. 670).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-34. Metamorphosis of a butterfly. (a) The larva (caterpillar) spends its time eating and growing, molting as it grows. (b) After several molts, the larva encases itself in a cocoon and becomes a pupa. (c) Within the pupa, the larval tissues are broken down, and the adult is built by the division and differentiation of cells that were quiescent in the larva. (d) Finally, the adult begins to emerge from the cocoon. (e) Fluid is pumped into veins of the wings and then withdrawn, leaving the hardened veins as struts supporting the wings. Now the insect flies off and reproduces, deriving much of its nourishment from the calories stored by the feeding larva.
+
+Reproduction in insects is usually sexual, with separate male and female individuals. Adults come together and recognize each other as members of the same species by advertising with bright colors (butterflies), sound (crickets), or odors (moths). Fertilization is generally internal. In most species, sperm cells are deposited directly into the female's vagina at the time of copulation, though in some species the male deposits a sperm packet outside the female, and the female picks it up. An internal structure in the female called the spermatheca stores the sperm, usually enough to fertilize more than one batch of eggs. Many insects mate only once in a lifetime. After mating, a female lays her eggs on an appropriate food source where the next generation can begin eating as soon as it hatches.
+
+Animals so numerous, diverse, and widespread as insects are bound to affect the lives of all other terrestrial organisms, including humans. On one hand, we depend on bees, flies, and many other insects to pollinate our crops and orchards. On the other hand, insects are carriers for many diseases, including malaria (spread by mosquitos that carry Plasmodium; see FIGURE 28.13) and African sleeping sickness (spread by tsetse flies that carry Trypanosoma; see FIGURE 28.11). Furthermore, insects compete with humans for food. In parts of Africa, for instance, insects claim about 75%  of the crops. Trying to minimize their losses, farmers in the United States spend billions of dollars each year on pesticides, spraying crops with massive doses of some of the deadliest poisons ever invented. Try as they may, not even humans have challenged the preeminence of insects and their arthropod kin. Or, as Cornell University's Thomas Eisner, interviewed on page 24, puts it: "Bugs are not going to inherit the Earth. They own it now. So we might as well make peace with the landlord."
+
+Crustaceans
+
+While arachnids and insects thrived on land, crustaceans, for the most part, remained in marine and freshwater environments, where they are now represented by about 40,000 species. Crabs, lobsters, crayfish, and shrimp are the most familiar crustaceans (FIGURE 33.35).
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-35. Crustaceans. (a) This is a Sally lightfoot crab from the Gal&aacute;pagos Islands. (b) Planktonic crustaceans known as krill are consumed by the ton by whales and other large suspension-feeders. (c) Barnacles are sessile crustaceans with a shell (exoskeleton) hardened by calcium carbonate. The jointed appendages projecting from the shell capture small plankton and organic particles suspended in the water.
+
+The multiple appendages of crustaceans are extensively specialized. Lobsters and crayfish, for instance, have a toolkit of 19 pairs of appendages (see FIGURE 33.26). Crustaceans are the only arthropods with two pairs of antennae. Three or more pairs of appendages are modified as mouthparts, including the hard mandibles. Walking legs are present on the thorax, and, unlike insects, crustaceans have appendages on the abdomen. A lost appendage can be regenerated.
+
+Small crustaceans exchange gases across thin areas of the cuticle, but larger species have gills. The circulatory system is open, with a heart pumping hemolymph through arteries into sinuses that bathe the organs. Crustaceans excrete nitrogenous wastes by diffusion through thin areas of the cuticle, but a pair of glands regulates the salt balance of the hemolymph.
+
+Sexes are separate in most crustaceans. In the case of lobsters and crayfish, the male uses a specialized pair of appendages to transfer sperm to the reproductive pore of the female during copulation. Most aquatic crustaceans go through one or more swimming larval stages.
+
+One of the largest groups of crustaceans (about 10,000 species), the isopods are mostly small marine species. Some are numerous at the bottom of deep oceans. Isopods also include the land-dwelling pill bugs, or wood lice, common on the undersides of moist logs and leaves.
+
+Another group of small crustaceans, the copepods, are among the most numerous of all animals. They are important members of marine and freshwater plankton communities, eating protists and bacteria, and being eaten by many fishes.
+
+Lobsters, crayfish, crabs, and shrimp are all relatively large crustaceans called decapods (FIGURE 33.35a). The exoskeleton, or cuticle, is hardened by calcium carbonate; the portion that covers the dorsal side of the cephalothorax forms a shield called the carapace. Most decapods are marine. Crayfish, however, live in fresh water, and some tropical crabs live on land.
+
+The larvae of many larger-bodied crustaceans are also planktonic. A marine group known as krill are shrimplike planktonic organisms that grow to about 3 cm long (FIGURE 33.35b). A major food source for many species of whales, krill are now being harvested in great numbers by humans for food and agricultural fertilizer.
+
+Barnacles are sessile crustaceans with parts of their cuticles hardened into shells by calcium carbonate. They feed by using their appendages to strain food from the water (FIGURE 33.35c).
+
+How Many Times Did Segmentation Evolve in the Animal Kingdom?
+
+Before we leave the arthropods, let's consider the evolution of one of their key anatomical characteristics, the segmentation of the body. (You can see many examples of this segmentation if you reexamine some of the arthropods in the preceding illustrations--for example, note the segmentation of the scorpion in FIGURE 33.29a and of the millipede in FIGURE 33.31a.) Until recently, based partly on this segmented body plan, the majority of biologists favored the hypothesis that arthropods evolved from an annelid ancestor, or from a segmented ancestor common to both annelids and arthropods. In placing annelids and arthropods on divergent clades of Protostomia--Lophotrochozoa for annelids, Ecdysozoa for arthropods--molecular systematists have challenged the long-held view of a close kinship between the segmented worms and the arthropods. However, many biologists do not find the existing molecular data convincing enough to reject the hypothesis of a closer annelid-arthropod relationship. The debate has focused interest on the evolutionary origin of segmentation.
+
+The segmented bodies of arthropods, annelids, and certain other animals represent a special case of a more general phenomenon: the blocking-out of an embryo into regions where certain body parts will develop. Each bilaterally symmetrical animal has a particular linear arrangement of anatomical features along its anterior (head) to posterior axis. Eyes, for example, are located at the anterior end. Differential expression of various regulatory genes that code for transcription factors plays a key role in this blocking-out of anterior  posterior anatomy in the developing embryo. In those phyla with segmented bodies, certain genes first determine the segmentation, and then genes of the Hox complex determine what organs will develop at each segment (see FIGURE 21.15). For example, differential expression of various Hox genes along the length of a lobster embryo cause antennae to develop on a certain segment and walking legs to develop on other segments. But even in nonsegmented animals, such as flatworms, Hox genes determine where certain organs, such as eyes, develop along the animal's length. In fact, sponges have at least one Hox gene and cnidarians such as jellies have several. In a cnidarian, for example, expression of a Hox gene determines where tentacles will develop in the embryo.
+
+Thus, as developmental determinants of morphology, Hox genes predate the origin of the bilaterians. The mechanism for the development of segmented bodies in certain animal phyla is a variation on a basic regulatory scheme that dates back to the first animals. But an increase in Hox gene number through gene duplications and mutations, along with adaptation of Hox gene function for development of segmented bodies, made it possible for a great diversity of complex animals to evolve.
+
+Body segmentation evolved in several of the 35 animal phyla, including the annelids, arthropods, and chordates--the phylum that includes humans and other vertebrates. (The chain of vertebrae that make up your backbone is an example of this chordate segmentation.) This means that segmented animals occur in all three major clades of bilaterians: annelids are lophotrochozoans; arthropods are ecdysozoans; and chordates are deuterostomes. Each clade also includes phyla of nonsegmented animals.
+
+Three different hypotheses can account for the scattered distribution of segmentation in the phylogenetic tree of animals. In the first hypothesis, segmentation had separate evolutionary origins in each bilaterian clade (FIGURE 33.36a). In the second hypothesis, there were two separate origins of segmentation, one for the protostomes (lophotrochozoans + ecdysozoans) and one for the deuterostomes (FIGURE 33.36b). And in the third hypothesis, segmentation evolved just once, in an ancestor common to all three bilaterian lineages (FIGURE 33.36c). Note that hypotheses 2 and 3 require evolutionary loss of segmentation in the majority of animal phyla. The principle of parsimony in cladistics would seem to favor hypothesis 1 because it requires the fewest evolutionary changes (see Chapter 25 to review cladistics and parsimony). However, application of parsimony is merely an analytical aid in cladistics, not some law of evolution that life always follows. Thus, we cannot rule out hypotheses 2 and 3 as plausible explanations for the scattered distribution of segmentation among animal phyla.
+
+
+
+Click image to enlarge
+
+
+
+Fig 33-36. Three hypotheses for the origin of segmentation. The purple bars represent origins of segmentation, while the orange bars represent losses of segmentation.
+
+"Evo-devo," the research field at the interface of evolutionary biology and developmental biology, may illuminate the origin(s) of segmentation. Several lab groups are investigating how various Hox genes function during the development of segmented bodies in diverse phyla. By comparing and contrasting details in how these regulatory genes block-out the segments of annelid, arthropod, and chordate embryos, this research may bring us closer to knowing whether segmentation evolved once, twice, or three times in the animal kingdom. And these studies of how segmentation develops will help systematists test various hypotheses about animal phylogeny.
+
+
+
+

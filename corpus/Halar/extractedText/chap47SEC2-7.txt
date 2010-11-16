@@ -1,0 +1,54 @@
+
+ Morphogenesis in animals involves specific changes in cell shape, position, and adhesion
+
+Morphogenesis is a major aspect of development in both animals and plants, but only in animals does it involve the movement of cells. Movement of parts of a cell can bring about changes in cell shape or enable a cell to migrate from one place to another within the embryo. Changes in both cell shape and cell position are involved in cleavage, gastrulation, and organogenesis.
+
+Changes in the shape of a cell usually involve reorganization of the cytoskeleton (see Chapter 7). Consider, for example, how the cells of the neural plate form the neural tube (FIGURE 47.16). First, microtubules oriented parallel to the dorsal-ventral axis of the embryo apparently help lengthen the cells in that direction. At the dorsal end of each cell is a parallel array of actin filaments oriented crosswise. These contract, giving the cells a wedge shape that forces the ectoderm layer to bend inward. Similar cell-shape changes are observed for other invaginations (inpocketings) and evaginations (outpocketings) of tissue layers throughout development.
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-16. Change in cellular shape during morphogenesis. Reorganization of the cytoskeleton is associated with morphogenetic changes in embryonic tissues. As indicated here, in the formation of the neural tube of vertebrates, microtubules help elongate the cells of the neural plate. Microfilaments at the dorsal end of the cells may then contract, deforming the cells into wedge shapes and causing the ectoderm to bend inward.
+
+The cytoskeleton also drives the active movement of cells from one place to another in developing animals. Cells "crawl" within the embryo by using cytoskeletal fibers to extend and retract cellular protrusions. This type of motility is akin to the amoeboid movement described in FIGURE 7.27b, but in contrast to the thick pseudopodia of amoeboid cells, the cellular protrusions of migrating embryonic cells are usually flat sheets (lamellipodia) or spikes (filopodia). In the gastrulation of some organisms, invagination is initiated by wedging of cells on the surface of the blastula, but the penetration of cells deeper into the embryo involves the extension of filopodia by cells at the leading edge of the migrating tissue. By dragging behind them the cells that follow them through the blastopore, the leading cells help move a sheet of cells from the embryo's surface into the blastocoel, where it forms the endoderm and mesoderm of the embryo (see FIGURE 47.9). There are also many situations in which cells migrate individually, as when the cells of the neural crest disperse to various parts of the embryo.
+
+Cell crawling is also involved in a type of morphogenetic movement called convergent extension (FIGURE 47.17). In convergent extension, the cells of a tissue layer rearrange themselves in such a way that the sheet of cells becomes narrower (converges) while it becomes longer (extends). When many cells wedge between one another, the tissue can extend dramatically. Convergent extension is important in early embryonic development. It occurs, for example, as the archenteron elongates in sea urchin embryos and during involution in the frog gastrula.
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-17. Convergent extension of a sheet of cells. In this simplified diagram, changes in cell shape and position cause the layer of cells to become narrower and longer. An unknown signal causes the cells to elongate in a particular directon and to crawl between each other. The result of this convergence is the extension of the cell sheet in a direction perpendicular to the convergence.
+
+Scientists do not yet understand exactly what triggers and directs convergent extension. However, the process probably involves the extracellular matrix (ECM), the mixture of secreted glycoproteins lying outside the plasma membranes of cells (see FIGURE 7.29). The ECM is known to help guide cells in many types of morphogenetic movements. ECM fibers may function as tracks, directing migrating cells along particular routes (FIGURE 47.18). Several kinds of extracellular glycoproteins, including various fibronectins, help cells move by providing anchorage for cell crawling. Other substances in the ECM keep cells on the correct paths by inhibiting migration in certain directions. Thus, depending on the substances they secrete, nonmigratory cells situated along migration pathways may promote or inhibit movement of other cells. As migrating cells move along specific paths through the embryo, receptor proteins on their surfaces pick up directional cues from the immediate environment. Signals from the receptors direct the cytoskeletal elements to propel the cell in the proper direction.
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-18. The extracellular matrix and cell migration. The micrographs here provide evidence that the orientation of the extracellular fibers of the ECM is controlled by the orientation of the cytoskeleton in the cells that secrete the extracellular materials. This is one way that a group of cells can influence the path along which another group of cells migrates during the development of tissues and organs. (a) Cells from the neural crest migrate along a strip of fibronectin fibers placed on an artificial underlayer (LM). (b) Two different fluorescent dyes demonstrate the close relationship between the orientation of fibronectin fibers of the ECM (left) and that of contractile microfilaments of the cytoskeleton (right) for two migrating cells (LMs). Notice that the orientations of the intracellular microfilaments and extracellular fibers correspond.
+
+A good example of the role of the ECM in embryonic cell migration is the movement of mesoderm cells along fibronectin during amphibian gastrulation. Fibronectin fibers line the roof of the blastocoel, and as the mesoderm moves into the interior of the embryo, the cells at the free edge of the mesoderm sheet migrate along the fibers. Researchers can disrupt the ability of cells to attach to fibronectin by, for example, injecting embryos with antibodies against fibronectin. Such a disruption can block the inward movement of the mesoderm.
+
+The glycoproteins that attach migrating cells to an underlying ECM also play a role in holding cells together when migrating cells reach their destinations and tissues and organs take shape. Also contributing to cell migration and stable tissue structure are glycoproteins called cell adhesion molecules (CAMs), which are located on the surfaces of cells and bind to CAMs on other cells. CAMs vary in either amount or chemical identity from one type of cell to another, and these differences help regulate morphogenetic movements and tissue building.
+
+One important class of cell-to-cell adhesion molecules is the cadherins, which are so named because they require the presence of calcium ions for proper function. There are many different cadherins, and the gene for each cadherin is expressed in specific locations at specific times during embryonic development. Researchers have vividly demonstrated the importance of one particular cadherin in the formation of the frog blastula (FIGURE 47.19).
+
+
+
+Click image to enlarge
+
+
+
+Fig 47-19. The role of a cadherin in frog blastula formation. (a) Researchers injected Xenopus oocytes with nucleic acid comple-mentary to the mRNA encoding a cadherin known as EP cadherin. The "antisense" nucleic acid causes the destruction of the normal mRNA so that no protein is produced (see discussion of RNA interference in Chapter 20). The absence of EP cadherin protein interfered with the development of the blastula. The blastocoel did not form properly, and the cells arranged themselves in a disorganized fashion. (b) In control embryos, the blastocoel formed normally.
+
+
+
+

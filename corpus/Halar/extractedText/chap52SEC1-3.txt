@@ -1,0 +1,22 @@
+
+POPULATION GROWTH
+
+ 
+
+ The exponential model of population growth describes an idealized population in an unlimited environment
+
+
+
+ 
+
+ The logistic model of population growth incorporates the concept of carrying capacity
+
+
+
+To begin to understand the potential for population increase, consider a single bacterium that can reproduce by fission every 20 minutes under ideal laboratory conditions. At the end of this time, there would be two bacteria, four after 40 minutes, and so on. If this continued for only a day and a half--a mere 36 hours--there would be enough bacteria to form a layer a foot deep over the entire Earth. At the other life history extreme, elephants may produce only six young in a 100-year life span. Still, Darwin calculated that it would take only 750 years for a single pair of elephants to produce a population of 19 million. Obviously, indefinite population increase does not occur for any species, either in the laboratory or in nature. A population that begins at a low level in a favorable environment may increase rapidly for a while, but eventually the numbers must, as a result of limited resources and other factors, stop growing.
+
+As we discussed in Chapter 50, finding the answers to ecological questions depends on a combination of observation and experimentation. The two major forces affecting population growth--birth rates and death rates--can be measured in many populations and used to predict how the populations will change in size over time. Small organisms can be studied in the laboratory to determine how various factors affect their population growth rates, and natural populations can be experimentally manipulated to answer the same questions. Mathematical models can be used for testing hypotheses about the effects of different factors on population growth once we understand how birth and death rates change over time. We can begin to understand population growth by looking at a few simple models of how a population can grow.
+
+
+
+
