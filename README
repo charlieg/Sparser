@@ -17,6 +17,15 @@ been primarily tested on Intel-based Mac OS X.
 We recommend (and the default configuration assumes)
 you keep it in your home directory.
 
+Note: if you download a distribution of Sparser from
+GitHub (rather than "checking-out" the repository with git
+clone), the root directory will be named something like
+"charlieg-Sparser-xxx." Once you unzip the .tar.gz or .zip
+archive, you should rename the root directory to "Sparser"
+-- this root directory should contain immediate
+subdirectories named "corpus," "lisp," and "Sparser,"
+among others.
+
 2. If you installed the "Sparser" directory somewhere
 other than your home directory, you'll need to modify
 the paths in the "Load asdf" section of the
