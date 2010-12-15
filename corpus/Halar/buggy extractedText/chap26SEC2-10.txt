@@ -1,8 +1,0 @@
-
- Laboratory simulations of early-Earth conditions have produced organic polymers
-
-The hypothesis of an abiotic origin of life makes another prediction that can be tested in the laboratory. If the hypothesis is correct, then it should be possible to link organic monomers to form polymers such as proteins and nucleic acids without the help of enzymes and other cellular equipment. Researchers have observed such polymerization after dripping solutions of organic monomers onto hot sand, clay, or rock. The heat vaporizes the water in the solutions and concentrates the monomers on the underlying substance. Some of the monomers then spontaneously bond together to form polymers, including polypeptides, the chains of amino acids that make up proteins. On the early Earth, raindrops or waves may have splashed dilute solutions of organic monomers onto fresh lava or other hot rocks and then rinsed polypeptides and other polymers back into the sea. Alternatively, deep-sea vents, where gases and superheated water with dissolved minerals escape from Earth's interior, may have been locales for the abiotic synthesis of both organic monomers and polymers.
-
-
-
-

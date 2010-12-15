@@ -1,8 +1,0 @@
-
- Ecology and evolutionary biology are closely related sciences
-
-Many biologists recognize Charles Darwin as an able naturalist whose observations laid the groundwork for the later development of ecology. Indeed, it was the geographic distribution of organisms and their exquisite adaptations to specific environments that provided Darwin with evidence for evolution (see Chapter 22). An important cause of evolutionary change is the interaction of organisms with their environment. Thus, events that occur in the framework of ecological time (minutes, months, years) translate into effects over the longer scale of evolutionary time (decades, centuries, millennia, and longer). For instance, hawks feeding on field mice have an immediate (ecological) impact on the prey population by killing certain individuals, thereby reducing population size and altering the gene pool. One long-term evolutionary effect of this predator-prey interaction may be selection for mice with fur coloration that camouflages the animals.
-
-
-
-

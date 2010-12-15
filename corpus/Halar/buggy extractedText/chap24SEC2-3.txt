@@ -1,8 +1,0 @@
-
- The biological species concept hassome major limitations
-
-In its emphasis on reproductive barriers as the boundaries between species, the biological species concept has had an important impact on evolutionary theory and how we think of species as discrete forms of life. However, as a criterion for actually distinguishing species in nature, the biological species concept does not work in all situations and is in fact impractical for demarcating species in most cases. For example, there is no way to check interbreeding in the extinct forms represented by fossils. Biologists classify fossils into species based on differences in morphology. Even most living species are distinguished by comparative morphology because we lack the information about interbreeding necessary to apply the biological species concept as the criterion. The biological species concept also has no utility at all for life-forms that are entirely asexual, such as bacteria. (Many bacteria do transfer genes by conjugation and other processes--see Chapter 18--but there is nothing akin to the sexual union of gametes from two parents.) Biologists assign asexual organisms to species based mainly on structural and biochemical characteristics.
-
-
-
-

@@ -1,8 +1,0 @@
-
- The ability of cells to respond to the environment has evolved over billions of years
-
-The fact that you are reading the words on this page illustrates what an extraordinary product of biological evolution our human brains are. At the cellular level, however, the physiology of excitability originated billions of years ago with prokaryotes that could sense changes in their environment and respond in ways that enhanced survival and reproductive success--for example, by chemotaxis steering certain bacteria to food sources (see Chapter 27). Modification of this simple single-celled behavior of sensing and reacting to environmental chemicals provided multicellular organisms with a mechanism for communication between cells of the body. By the time of the Cambrian explosion nearly 600 million years ago (see Chapter 34), systems of nerve cells that allowed animals to sense and move rapidly had evolved in essentially their modern forms.
-
-
-
-
