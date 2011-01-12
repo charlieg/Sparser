@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991,1992,1993,1994,1995 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1995,  2010 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "index"
 ;;;   Module:  "objects;model:variables:"
-;;;  version:  2.0 June 2009
+;;;  version:  2.1 December 2010
 
 ;; initiated 11/18/91 v2.1, typo 11/24
 ;; 1.1 (7/92 v2.3) shifted from gl entries to straight categories
@@ -16,7 +16,9 @@
 ;; 2.1 (7/20/09) Added back in lambda-variable-named but have it returning
 ;;   the new notion of an anonymous-variable that will be replaces with
 ;;   a 'real' one that's associated with a category at runtime, i.e. when
-;    rules are executed. 
+;;   rules are executed. (12/14/10) method-ized find-variable-in-category
+;;   to handle lattice points as the value of the type field.
+
 
 (in-package :sparser)
 
@@ -33,15 +35,15 @@
 ;;; finding
 ;;;---------
 
-(defun find-variable-in-category (symbol category)
-  (unless (or (referential-category-p category)
-	      (mixin-category-p category))
-    (error "Expected the category argument tp be either~
-            ~%a referential or a mixing category, but~
-            ~%  ~a is of type ~a" category (type-of category)))
+(defmethod find-variable-in-category (symbol (category model-category))
   (let ((variables (cat-slots category)))
     (when variables
       (find symbol variables :key #'var-name))))
+
+(defmethod find-variable-in-category (symbol (lp lattice-point))
+  (let ((category (base-category-of-lp lp)))
+    (find-variable-in-category symbol category)))
+  
 
 (defun find-variable-for-category (variable-name category)
   "The prefered way to access variables fromtheir name."

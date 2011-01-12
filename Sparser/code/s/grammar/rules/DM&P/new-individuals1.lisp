@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994,1995  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994,1995, 2010  David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -16,7 +16,8 @@
 ;; 1.3 (1/3/95) Backed out of decision to make a cfr for the stem as well as
 ;;      for the word. Added accessors into the discourse history. Wrote Verb-term?
 ;;     (2/13) fixed bug in accessor
-;; 1.4 (2/5/07) Revised handling of punctuation - ignoring it.
+;; 1.4 (2/5/07) Revised handling of punctuation - ignoring it. (12/6/12) 'or' =>
+;;      ':or' in v/r
 
 (in-package :sparser)
 
@@ -30,7 +31,7 @@
   :instantiates self
   :binds ((word  :primitive word)
           (rewrite-rule  :primitive cfr)
-          (category  :primitive (or category polyword))
+          (category  :primitive (:or category polyword))
 
           ;; these are relationships to other words within
           ;; the same segment
@@ -332,17 +333,17 @@
 ;;; aggregations within the discourse history
 ;;;-------------------------------------------
 
-(defun the-Terms/dh ()
+(defun the-terms/dh ()
   (setq *terms/dh* (discourse-entry category::term)))
 
-(defun the-Terms ()
+(defun the-terms ()
   (let ( bare-terms )
     (dolist (t/dh (the-terms/dh))
       (push (first t/dh) bare-terms))
     (nreverse bare-terms)))
 
 
-(defun the-Nominal-terms/dh ()
+(defun the-nominal-terms/dh ()
   (or *non-verbs/dh*
       (let ((the-terms (or *terms/dh* (the-terms/dh)))
             nominals/dh  verbs/dh )
@@ -354,20 +355,20 @@
         (setq *verbs/dh* (nreverse verbs/dh)
               *non-verbs/dh* (nreverse nominals/dh)))))
 
-(defun the-Verb-terms/dh ()
+(defun the-verb-terms/dh ()
   (if *verbs/dh*
     *verbs/dh*
     (else (the-nominal-terms/dh)
           *verbs/dh*)))
 
 
-(defun the-Nominal-terms ()
+(defun the-nominal-terms ()
   (let ( bare-terms )
     (dolist (t/dh (the-nominal-terms/dh))
       (push (first t/dh) bare-terms))
     (nreverse bare-terms)))
 
-(defun the-Verb-terms ()
+(defun the-verb-terms ()
   (let ( bare-terms )
     (dolist (t/dh (the-verb-terms/dh))
       (push (first t/dh) bare-terms))

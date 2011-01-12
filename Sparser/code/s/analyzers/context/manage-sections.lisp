@@ -202,7 +202,7 @@
     (when (eq next-section-up *root-section-object*)
       (break "Check call threading -- popped all the way back~
               ~%to the root.~%")
-      (return-from Pop-back-to-siblings-or-parent))
+      (return-from pop-back-to-siblings-or-parent))
 
     ;(format t "~&~%Sibling trace: goal: ~A~
     ;           ~%   reached ~A" sm next-section-up)
@@ -398,7 +398,7 @@
     ;(unless daughters-binding
     ;  (break "There is no daughter binding on the root section object:~
     ;          ~%    ~A" root)
-    ;  (return-from Cleanup-root-section-object))
+    ;  (return-from cleanup-root-section-object))
 
     (when daughters-binding
       (let ((daughter-list (binding-value daughters-binding)))
@@ -418,7 +418,7 @@
     ;; they're 'pushed' on, so we go through them in list order
     (dolist (so daughters)
       (when (eq sm (value-of 'type so))
-        (return-from Most-recent-daughter-of-type so)))))
+        (return-from most-recent-daughter-of-type so)))))
 
 
 

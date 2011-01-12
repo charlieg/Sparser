@@ -1,5 +1,5 @@
 ;;; -*- Mode:Lisp; Syntax:Common-Lisp; Package:(SPARSER LISP)
-;;; copyright (c) 1991-2003 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2003, 2010 David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;;

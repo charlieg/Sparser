@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1992-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005, 2010  David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id: psp1.lisp 359 2010-08-13 20:13:38Z dmcdonal $
 ;;; 
 ;;;     File:  "psp"
 ;;;   Module:  "objects;traces:"
-;;;  Version:  1.4 June 2010
+;;;  Version:  1.4 December 2010
 
 ;; 1.0 (10/5/92 v2.3) added trace routines
 ;; 1.1 (4/23/93) added still more to go with the revised protocol
@@ -24,6 +24,7 @@
 ;;     (2/13/07) added traces for conjunction/TT transition.
 ;;     (5/30/09) added traces for verb+prep combination
 ;;     (6/2/10) added traces for new conditions in scan.
+;;     (12/14/10) fixed capitalization bugs
 
 (in-package :sparser)
 
@@ -902,7 +903,7 @@
 
 ;;------------ low level function flow trace --------------
 
-(deftrace :Inititate-top-edges-protocol ()
+(deftrace :inititate-top-edges-protocol ()
   (when *trace-network-flow*
     (trace-msg "[scan] Inititate-top-edges-protocol")))
 
@@ -978,7 +979,7 @@
   (when *trace-network-flow*
     (trace-msg "[scan] cwlft-cont ~A" p)))
 
-(deftrace :Check-PNF-and-continue (p)
+(deftrace :check-PNF-and-continue (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Check-PNF-and-continue ~A" p)))
 
@@ -1004,12 +1005,12 @@
                (pos-token-index pos-after))))
 
 
-(deftrace :Word-level-actions-except-terminals (pos-before)
+(deftrace :word-level-actions-except-terminals (pos-before)
   (when *trace-network-flow*
     (trace-msg "[scan] word-level-actions-except-terminals: p~A"
                (pos-token-index pos-before))))
 
-(deftrace :Edge-already-on-position (edge)
+(deftrace :edge-already-on-position (edge)
   (when *trace-network-flow*
     (trace-msg "[scan] edge-already-on-position:~
               ~%          ~A" edge)))
@@ -1037,7 +1038,7 @@
 
 
 
-(deftrace :Check-PNF-and-continue (p)
+(deftrace :check-PNF-and-continue (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Check-PNF-and-continue ~A" p)))
 
@@ -1055,12 +1056,12 @@
   (when *trace-network-flow*
     (trace-msg "[scan] introduce-terminal-edges ~A" word)))
 
-(deftrace :Check-preterminal-edges (p)
+(deftrace :check-preterminal-edges (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Check-preterminal-edges ~A" p)))
 
 
-(deftrace :Check-for-]-from-edge-after (p)
+(deftrace :check-for-]-from-edge-after (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Check-for-]-from-edge-after ~A" p)))
 
@@ -1082,11 +1083,11 @@
               ~%  started at ~a and  reached ~a" pos-before pos-reached)))
 
 
-(deftrace :Introduce-leading-brackets-from-edge-form-labels (p)
+(deftrace :introduce-leading-brackets-from-edge-form-labels (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Introduce-leading-brackets-from-edge-form-labels ~A" p)))
 
-(deftrace :Introduce-trailing-brackets-from-edge-form-labels (p)
+(deftrace :introduce-trailing-brackets-from-edge-form-labels (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Introduce-trailing-brackets-from-edge-form-labels ~A" p)))
 
@@ -1143,15 +1144,15 @@
 
 
 
-(deftrace :Leading-hidden-markup-check (p)
+(deftrace :leading-hidden-markup-check (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Leading-hidden-markup-check ~A" p)))
 
-(deftrace :Trailing-hidden-markup-check (p)
+(deftrace :trailing-hidden-markup-check (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Trailing-hidden-markup-check ~A" p)))
 
-(deftrace :Trailing-hidden-annotation-check (p)
+(deftrace :trailing-hidden-annotation-check (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Trailing-hidden-annotation-check ~A" p)))
 
@@ -1177,7 +1178,7 @@
     (trace-msg "[scan] return-to-scan-level-from-null-span: p~A"
                (pos-token-index p))))
 
-(deftrace :Resume-prescanned-segment (p)
+(deftrace :resume-prescanned-segment (p)
   (when *trace-network-flow*
     (trace-msg "[scan] Resume-prescanned-segment ~A" p)))
 

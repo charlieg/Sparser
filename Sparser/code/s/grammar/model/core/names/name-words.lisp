@@ -55,7 +55,7 @@
   ;; The two lists are the same length.
   (mapc #'(lambda (item1 item2)
             (unless (eq item1 item2)
-              (return-from Sort-lists-of-name-items
+              (return-from sort-lists-of-name-items
                 (sort-name-items item1 item2))))
         l1 l2))
 
@@ -144,7 +144,7 @@
     (if (and (individual-p lc-word)
              (indiv-typep lc-word 'name-word))
       ;; it was already converted
-      (return-from Make-name-word-for-unknown-word-in-name lc-word)
+      (return-from make-name-word-for-unknown-word-in-name lc-word)
       (break "Threading bug: should have been passed a word but ~
               got:~%  ~A~%which is a ~A" lc-word (type-of lc-word))))
 

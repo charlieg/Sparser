@@ -436,7 +436,7 @@
   (dolist (edge edges)
     (when (eq (edge-category edge)
               category::name-word)
-      (return-from One-of-the-edges-is-a-name-word edge))))
+      (return-from one-of-the-edges-is-a-name-word edge))))
 
 
 

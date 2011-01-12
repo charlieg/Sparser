@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005, 2010 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "define"
 ;;;   Module:  "objects;model:categories:"
-;;;  version:  1.1 February 2005
+;;;  version:  1.2 November 2010
 
 ;; initiated 7/16/92 v2.3
 ;; 8/5 added call to process rdata, 8/31 gated it by the field having
@@ -32,6 +32,7 @@
 ;;      have its call for constructors ordered before the rdata setup in order for
 ;;      the 'instantiates' trick in noun-creating rules to work right.
 ;;     (2/8/05) Added define-subtype-derived-category
+;; 1.2 (11/9/10) folded in optional CLOS class creation.
 
 (in-package :sparser)
 
@@ -138,6 +139,9 @@
 
     (when rdata
       (setup-rdata category rdata))
+
+    (when *CLOS*
+      (setup-backing-clos-class category :referential))
 
     category ))
 

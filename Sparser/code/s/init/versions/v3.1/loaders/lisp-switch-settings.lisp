@@ -29,8 +29,7 @@
              ;; this option isn't available in some other lisps
    ))
 
-#+:unix   
-;; actually this is definitive just for Lucid
+#+:lucid
 (defun routine-to-compile-file (source-namestring fasl-namestring)
   (compile-file
    source-namestring

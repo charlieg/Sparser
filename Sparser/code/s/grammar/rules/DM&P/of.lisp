@@ -93,13 +93,13 @@
                 ~%  ~A~%" (right-treetop-at 
                            (chart-position-after
                             (pos-edge-starts-at edge-before))))
-        (return-from Analyze-of-segment/definite-term)))
+        (return-from analyze-of-segment/definite-term)))
 
     (unless segment-head
       (if *break-on-pattern-outside-coverage?*
         (break "no head binding on~%  ~A~%"
                (edge-referent edge-after))
-        (return-from Analyze-of-segment/definite-term)))
+        (return-from analyze-of-segment/definite-term)))
 
 
     (let ((of-relation (instantiate-a-generic segment-head

@@ -1,13 +1,16 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994-2005, 2010 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "structure"
 ;;;   Module:  "objects;model:categories:"
-;;;  version:  February 2005
+;;;  version:  November 2010
 
 ;; broken out from [object] file 8/12/94. Added category-p 9/12/98
 ;; 3/26/00 Added a rnodes field to referential categories.
 ;; 2/7/05 Added subtyped-category.
+;; 11/9/10 Added 'class' field to referential-category. Took it out on the 11th
+;;  because even with a full recompile it couldn't access the slot -- was
+;;  always declared out of range. 
 
 (in-package :sparser)
 
@@ -17,7 +20,7 @@
 ;;;----------------------------------------------
 
 (defstruct (model-category
-            (:include label)
+            (:include category)
             (:conc-name #:cat-)
             (:print-function print-model-category-structures))
 
@@ -37,7 +40,8 @@
 
   operations  ;; a #<operations> object.  Constructed automatically to
               ;; fit the specifications (initially) in the index field.
-  )
+
+ )
 
 
 ;;;---------------------------
@@ -49,6 +53,7 @@
             (:conc-name #:cat-)
             (:print-function print-ref-category-structures))
 
+
   mix-ins   ;; a list of referential-categories
 
   instances  ;; a structure by which to gain access to objects with
@@ -57,6 +62,7 @@
   rnodes ;; a list of realization-nodes reflecting the different ways
          ;; this category (typically as the head of some larger phrase
          ;; has been realized.
+
   )
 
 

@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1991-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2005, 2010 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;; 
 ;;;     File:  "lookup"
 ;;;   Module:  "objects;chart:categories:"
-;;;  Version:  1.7 April 2009
+;;;  Version:  1.8 December 2010
 
 (in-package :sparser)
 
@@ -26,6 +26,7 @@
 ;;      accumulating global. See make-subtype
 ;;     (4/26/09) Added find-or-make-category to work from types other than just symbol.
 ;;      Motivated by "(come) out of" polyword.
+;; 1.8 (12/3/10) Incorporated CLOS class backing
 
 ;;;--------------
 ;;; accumulators
@@ -101,6 +102,17 @@
           (catalog/category category c-symbol)
           (note-file-location category)
           (note-grammar-module category :source source)
+
+	  (when *CLOS*  ;; CLOS backing
+	    (case source
+	      (:referential) ;; done in decode-category-parameter-list
+	      (:mixin) ;; also in decode-category-parameter-list
+	      (:form
+	       (setup-backing-clos-class category :form))
+	      (:derived
+	       (setup-backing-clos-class category :derived))
+	      ((or :def-category :define-category :dm&p)
+	       (setup-backing-clos-class category :minimal))))
 
           (ecase source
             (:referential

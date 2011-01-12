@@ -177,7 +177,7 @@
         (loop
           (when (null next-individual)
             (break "Could not find ~A~%in the person-name index list" i)
-            (return-from Reclaim/person-name nil))
+            (return-from reclaim/person-name nil))
           (when (eq next-individual sequence)
             (rplacd prior-cell (cdr next-cell))
             (deallocate-kons next-cell)

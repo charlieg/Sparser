@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-1999 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1999, 2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "index"
 ;;;   Module:  "objects;model:individuals:"
-;;;  version:  0.6 September 1999
+;;;  version:  0.6 January 2011
 
 ;; initiated 7/16/92 v2.3
 ;; 0.1 (9/18/93) added index/individual/seq-keys
@@ -18,6 +18,8 @@
 ;; 0.6 (9/30/99) Modified Index-aux/individual to allow for there not being any
 ;;      fn-data -- there will be less and less as the model evolves because of
 ;;      increasing reliance on psi.
+;;     (1/11/11) Fixed call to field of operations in index-aux/individual
+;;      when the category didn't have any because it was made by DM&P.
 
 
 (in-package :sparser)
@@ -50,7 +52,8 @@
                              bindings
                              &optional permanent? )
 
-  (let ((fn-data (cat-ops-index (cat-operations category))))
+  (let* ((operations (cat-operations category))
+	 (fn-data (when operations (cat-ops-index operations))))
 
     (unless fn-data
       (setq fn-data (lookup-fn-data-of-parent category)))

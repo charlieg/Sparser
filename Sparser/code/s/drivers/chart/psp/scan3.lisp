@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-1997  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-1997, 2010  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;; 
 ;;;     File:  "scan"
 ;;;   Module:  "drivers;chart:psp:"
-;;;  Version:  3.2 June 2010
+;;;  Version:  3.2 December 2010
 
 ;; initiated 4/23/93 v2.3
 ;; putting in fsas 5/7
@@ -52,6 +52,7 @@
 ;;      the call start to have arguments for both positions around the word, and
 ;;      the downstream code invoked by, e.g. the word-traversal-hook, expect
 ;;      that position-after to have a word in it already.
+;;     (12/15/10) Capitalization change on lots of trace calls.
 
 (in-package :sparser)
 
@@ -61,7 +62,7 @@
 
 (defun inititate-top-edges-protocol ()
   ;; called from Lookup-the-kind-of-chart-processing-to-do
-  (tr :Inititate-top-edges-protocol)  ;; "[scan] Inititate-top-edges-protocol"
+  (tr :inititate-top-edges-protocol)  ;; "[scan] Inititate-top-edges-protocol"
   (setq *left-segment-boundary* nil)
   (let* ((p0 (scan-next-position))
          (ss (pos-terminal p0)))
@@ -222,7 +223,7 @@
 
 
 (defun check-PNF-and-continue (word position-before)
-  (tr :Check-PNF-and-continue position-before)
+  (tr :check-PNF-and-continue position-before)
   ;; "[scan] Check-PNF-and-continue ~A"
   (let ((where-caps-fsa-ended (pnf position-before)))
     (if where-caps-fsa-ended
@@ -325,7 +326,7 @@
 
 
 (defun word-level-actions-except-terminals (word position-before)
-  (tr :Word-level-actions-except-terminals position-before)
+  (tr :word-level-actions-except-terminals position-before)
   (let ((position-after (chart-position-after position-before)))
     (complete-word/hugin word position-before position-after)
     (word-traversal-hook word position-before position-after)
@@ -355,7 +356,7 @@
 
 
 (defun check-preterminal-edges (edges word position-before position-after)
-  (tr :Check-preterminal-edges position-before)
+  (tr :check-preterminal-edges position-before)
   (let ((label (introduce-leading-brackets-from-edge-form-labels
                 edges position-before)))
     (if label
@@ -370,7 +371,7 @@
 
 (defun introduce-leading-brackets-from-edge-form-labels (edges
                                                          position-before)
-  (tr :Introduce-leading-brackets-from-edge-form-labels position-before)
+  (tr :introduce-leading-brackets-from-edge-form-labels position-before)
   (let ( label label-has-bracket-assignments? )
     (dolist (edge edges)
       (unless (edge-over-literal? edge)
@@ -385,7 +386,7 @@
 
 (defun introduce-trailing-brackets-from-edge-form-labels (edges
                                                          position-after)
-  (tr :Introduce-trailing-brackets-from-edge-form-labels position-after)
+  (tr :introduce-trailing-brackets-from-edge-form-labels position-after)
   (let ( label label-has-bracket-assignments? )
     (dolist (edge edges)
       (unless (edge-over-literal? edge)
@@ -403,7 +404,7 @@
                                     label )
   ;; we only get here via the main thread when some edge did introduce
   ;; bracketing, so we get its label as an argument
-  (tr :Check-for-]-from-edge-after position-before)
+  (tr :check-for-]-from-edge-after position-before)
   (let ((] (]-on-position-because-of-word? position-before label)))
     (set-status :]-from-edge-after-checked position-before)
     (if ]   ;; this is copied from the same code for words
@@ -493,7 +494,7 @@
   ;; Called from Introduce-right-side-brackets. We're looking
   ;; for markup that would be stored in the markup field of
   ;; the edge vector starting at this position.
-  (tr :Leading-hidden-markup-check position)
+  (tr :leading-hidden-markup-check position)
   (when (leading-hidden-markup-on-position? position)
     (establish-hidden-section position)))
 
@@ -501,7 +502,7 @@
   ;; Called from Check-for-]-from-word-after.  We're looking for
   ;; markup that would be stored in the markup field of the
   ;; edge vector ending at this position.
-  (tr :Trailing-hidden-markup-check position)
+  (tr :trailing-hidden-markup-check position)
   (when (trailing-hidden-markup-on-position? position)
     (terminate-hidden-section position)))
 
@@ -515,7 +516,7 @@
   ;; last pass through the word-level -- we're called just before
   ;; the check on the vector of the 'position-before' the -next-
   ;; word for the possibility of ending the segment. 
-  (tr :Trailing-hidden-annotation-check position-before)
+  (tr :trailing-hidden-annotation-check position-before)
   (when (ev-plist
          (pos-ends-here position-before))
     (trailing-annotation-hook position-before)))

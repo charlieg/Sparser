@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994,1995 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994,1995, 2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "delete"
 ;;;   Module:  "objects;model:individuals:"
@@ -7,6 +7,8 @@
 
 ;; initiated 8/9/94 v2.3.  Tweeking ...8/18.  9/28 Added capacity to look for op
 ;; off of superc.   4/19/95 wrapped gates around the breaks
+;; 1/11/11 Patched unindex-individual to not assume that the category has
+;; and operations (DM&P issue)
 
 (in-package :sparser)
 
@@ -16,17 +18,17 @@
 
 (defun unindex-individual (i c)
   ;; called from Zero-out-individual as part of the reclaimation process
-  (let ((unindex-fn
-         (cat-ops-reclaim (cat-operations c))))
-
-    (when (null unindex-fn)
+  (let* ((operations (cat-operations c))
+	 (unindex-fn
+	  (when operations (cat-ops-reclaim operations))))
+    (cond
+      ((null unindex-fn)
       ;; maybe it's inherited?
-      (setq unindex-fn (inherited-operation/reclaim c)))
-
-    (if (consp unindex-fn)
-      (funcall (car unindex-fn) (cadr unindex-fn) i (cat-instances c) c)
-      (funcall unindex-fn i (cat-instances c) c))
-
+       (setq unindex-fn (inherited-operation/Reclaim c)))
+      (unindex-fn
+       (if (consp unindex-fn)
+  	 (funcall (car unindex-fn) (cadr unindex-fn) i (cat-instances c) c)
+	 (funcall unindex-fn i (cat-instances c) c))))
     i ))
 
 

@@ -27,7 +27,7 @@
   ;; called from analyze-segment-as-assession-number during the
   ;; termination operation of the AN section when we've reached
   ;; the next section-marker.
-  (return-from Find-djns-assession-number-in-region nil)
+  (return-from find-djns-assession-number-in-region nil)
   (let ((an-edge (find-tt-in-region (category-named 'hyphenated-number)
                                     start-pos end-pos)))
     (when an-edge
@@ -106,7 +106,7 @@
         (break "Expected this edge to be a digit-sequence:~%  ~A" num-edge))
 
       (when (eq end-pos (setq next-pos (chart-position-after num-pos)))
-        (return-from Extract-numbers-from-hyphenated-number
+        (return-from extract-numbers-from-hyphenated-number
           (nreverse numbers)))
 
       ;; jump over the hyphen

@@ -1,17 +1,16 @@
 ;;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base:10; -*-
-;;; $Id:util.lisp 9571 2008-07-02 16:54:04Z matighet $
-;;; Copyright (c) 2006 BBNT Solutions LLC. All Rights Reserved
+;;; $Id$
+;;; Copyright (c) 2006 BBNT Solutions LLC.
+;;; Copyright (c) 2010 David D. McDonald
+
+;; 11/10 Folding in forgotten functions from original set, i.e. Lisp Machine days
 
 (in-package :ddm-util)
-
 ;; n.b. modify this when utilities are unified
 
 ;;;-----------------------------------------------------------
 ;;;   syntactic sugar (functions that ought to be in CL)
 ;;;-----------------------------------------------------------
-
-(defmacro then (&body forms) `(progn ,@forms))
-(defmacro else (&body forms) `(progn ,@forms))
 
 (defun d (o)
   (describe o)
@@ -369,6 +368,19 @@
        ,v)))
 
 ;;--- time routines
+; (month-day-year (decoded-to-encoded-time :month 11 :day 30 :year 2010))
+(defun decoded-to-encoded-time (&key second minute hour
+				day month year day-of-week
+				daylight-savings-time-p time-zone)
+  (encode-universal-time (or second 0)
+			  (or minute 0)
+			  (or hour 0)
+			  (or day 1)
+			  (or month 1)
+			  (or year 2010)
+			  ;(or day-of-week 0) ;; Monday
+			  ;(or daylight-savings-time-p t)
+			  (or time-zone 5))) ;; Boston
 
 (defun month-day-year ()
   (multiple-value-bind (second minute hour
@@ -428,7 +440,17 @@
 (defun ltml-time-lessthan (str1 str2)
   (< (parse-ltml-date-time-to-mins str1) (parse-ltml-date-time-to-mins str2)))
 
-
+;; from LKB
+(defun write-time-readably (&optional stream)
+  (multiple-value-bind
+      (sec min hour date month year)
+      (get-decoded-time)
+    (format (or stream t) "~%~A:~A:~A ~A ~A ~A~%" hour min sec date 
+            (ecase month
+                (1 "Jan") (2 "Feb") (3 "Mar") (4 "Apr") (5 "May") 
+                (6 "Jun") (7 "Jul") (8 "Aug") (9 "Sep") (10 "Oct")
+                (11 "Nov") (12 "Dec"))
+            year)))
 
 ;;;----------------------------
 ;;; compact trace-msg facility
@@ -517,6 +539,15 @@
 ;;;---------------------
 ;;; old Lispm functions
 ;;;---------------------
+
+(defmacro then (&body forms) `(progn ,@forms))
+(defmacro else (&body forms) `(progn ,@forms))
+
+(defmacro until (test retval &body body)
+  `(do ()
+     (,test
+      ,retval)
+     . ,body))a
 
 (defmacro dbind (lambda-list argument &body body)
   `(apply #'(lambda ,lambda-list . ,body)
@@ -778,12 +809,12 @@ tries to arrange that everything is tabbed to this column.")
 ;;;---------
 
 ;;/// prune as parts of this big file are pruned
-(export '(then else d
+(export '(then else d 
 	  string-append concat
 
 	  ;; n.b. there are other MISC.LISP lispm-era utils not yet
 	  ;; checked out and carried forward
-	  dbind defsubst
+	  until dbind defsubst
 	  let-with-dynamic-extent let-with-dynamic-extent-unless-bound
 	  let*-with-dynamic-extent comment
 	  assq memq 
@@ -795,6 +826,8 @@ tries to arrange that everything is tabbed to this column.")
 	  newline
 	  list-hash-table
 	  mbug mbreak sorry
+
+	  decoded-to-encoded-time month-day-year 
 
 	  append-new 
 	  keys-of-association-list

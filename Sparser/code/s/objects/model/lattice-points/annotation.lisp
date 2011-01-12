@@ -220,6 +220,7 @@
   ;; a larger relation. First find/make the appropriate c+v
   ;; object and then stash it on the i/psi.
   (when *annotate-realizations*
+    (push-debug `(,i/psi ,variable ,type)) ;; (i/psi variable type)
     (let* ((category (etypecase type
 		       (lattice-point (category-of-psi i/psi))
 		       (referential-category type)))
@@ -228,11 +229,11 @@
 	(psi (let ((lp (psi-lattice-point i/psi)))
 	       (unless (memq c+v (lp-psi-uses lp))
 		 (push c+v (lp-psi-uses lp)))))
-      ;(composite-referent 
-       ;; place-holder since it's not clear what this would mean
-       ;; given that composites are a mechanism for passing multiple
-       ;; referents up the line.
-      ; )
+        ;;(composite-referent 
+	;; place-holder since it's not clear what this would mean
+	;; given that composites are a mechanism for passing multiple
+	;; referents up the line.
+	;; )
 	(individual
 	 (let ((lp (cat-lattice-position (first (indiv-type i/psi)))))
 	   (unless (memq c+v (lp-indiv-uses lp))

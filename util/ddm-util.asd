@@ -14,6 +14,7 @@
   :serial t
   :components (;;(:file "lispm") --  Mine for routines not in util
 	       (:file "util")
+	       (:file "walk-directories")
 	       (:file "push-debug")
 	       (:file "indexed-object")
 	       (:file "indentation")

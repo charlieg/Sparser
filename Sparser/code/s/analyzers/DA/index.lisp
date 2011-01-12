@@ -107,7 +107,7 @@
         (setq word-data (cdr entry))
         (unless (symbolp word-data) ;; e.g. :end-of-source
           (when (eq (first word-data) word)
-            (return-from Find-word-in-tt-alist word-data)))))))
+            (return-from find-word-in-tt-alist word-data)))))))
 
 
 
@@ -139,7 +139,7 @@
     (dolist (old-arc established-arcs)
       (when (eq new-arcs-left-vertex
                 (arc-left-vertex old-arc))
-        (return-from Add-if-not-a-duplication established-arcs)))
+        (return-from add-if-not-a-duplication established-arcs)))
     (cons new-arc established-arcs)))
       
 

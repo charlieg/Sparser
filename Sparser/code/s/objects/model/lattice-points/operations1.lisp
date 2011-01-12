@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1994-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994-2005, 2011 David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "operations"
 ;;;   Module:  "objects;model:lattice-points:"
-;;;  version:  1.0 August 2009
+;;;  version:  1.0 January 2011
 
 ;; initiated 9/28/94 v2.3.  Added Super-categories-of 3/3/95
 ;; Added Compute-daughter-relationships 6/21.  Added Super-category-has-variable-named
@@ -20,6 +20,10 @@
 ;;      all-categories-in-psi. (3/17) Added self-lattice-point to all-categories-
 ;;      in-psi. (2/22/07) added top-lattice-point to it.
 ;; 1.0 (7/23/09) fan-out from psi redesign. Working on it through 8/7
+;;     (1/11/11) Fixed call to lattice field of operations when the category
+;;      didn't have any because it was made by DM&P. Also patched inherited-
+;;      operation/Reclaim to not complain if there was no parent with a
+;;      reclaim operation. Whole scheme needs to be considered.
 
 (in-package :sparser)
 
@@ -144,7 +148,7 @@
 
 (defun lookup-fn-data-of-parent (category)
   (let* ((lp (cat-lattice-position category))
-         (parent (lp-super-category lp)))
+         (parent (when lp (lp-super-category lp))))
     (unless parent
       (return-from lookup-fn-data-of-parent nil))
     (let ((fn-data (cat-ops-index (cat-operations parent))))
@@ -158,7 +162,7 @@
   ;; but maybe there's one up higher.  If it can't be found provide
   ;; a clear break.
   (let* ((lp (cat-lattice-position base-category))
-         (superc (lp-super-category lp)))
+         (superc (when lp (lp-super-category lp))))
     (if superc
       (let ((find-fn (cat-ops-find (cat-operations superc))))
         (if find-fn
@@ -184,8 +188,11 @@
           (break "Looked for a reclaim operation on the category that ~A~
                   ~%inherits from, ~A, but it doesn't have one either."
                  base-category superc)))
-      (break "There is no reclaim operation defined for ~A~
-              ~%and does not inherit from any other category" base-category))))
+; Letting it leak while we think of a better scheme as part of
+; integrating CLOS into the operations.
+;      (break "There is no reclaim operation defined for ~A~
+;              ~%and does not inherit from any other category" base-category)
+      )))
 
 
 

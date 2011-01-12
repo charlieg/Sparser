@@ -65,6 +65,7 @@
 
 (defun find-c+v (category variable)
   (let ((top-lp (cat-lattice-position category)))
+    (push-debug `(,top-lp ,category ,variable))
     (unless top-lp
       (error "Coruption: No lattice point for ~a" category))
     (let ( c+v )

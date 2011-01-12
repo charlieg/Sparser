@@ -88,7 +88,7 @@
 
   (let ((status (pos-assessed? next-position)))
     (unless status
-      (scan-next-position))
+      (scan-next-position))    
 
     (let ((next-word (pos-terminal next-position))
           newly-complete

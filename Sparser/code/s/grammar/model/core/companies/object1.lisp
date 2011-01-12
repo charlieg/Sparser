@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005, 2010  David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "model;core:names:companies:"
@@ -15,6 +15,7 @@
 ;; 1.1 (2/11/05) Decide that lp don't make sense for names (they're not relations),
 ;;  so reverting to the older scheme. Handling fanout from sequences & psi.
 ;;  (2/14/05) Define-company wasn't cleaning up the chart after its runs.
+;;  (12/14/10) Fixed capitalization problem (mlisp)
 
 (in-package :sparser)
 
@@ -67,7 +68,7 @@
         (break "Parsing this string for the full name of some company~
               ~%did not lead to a single edge that spanned the whole string.~
               ~%~%Continuing will proceed with the rest of the load.~%")
-        (return-from Define-company))
+        (return-from define-company))
 
       (let ((name (edge-referent max-edge)))
         (unless (individual-p name)
@@ -267,7 +268,7 @@
 
 
 
-(defun index/Company (company company-category bindings)
+(defun index/company (company company-category bindings)
   (let* ((name (value-of/binding 'name bindings company-category))
          (sequence (sequence-from-company-name name))
          (first-item (first (value-of 'items sequence)))
@@ -283,7 +284,7 @@
 
 
 
-(defun reclaim/Company (c alist company-category)
+(defun reclaim/company (c alist company-category)
   (declare (ignore company-category))
   (let* ((name (value-of 'name c))
          (sequence (sequence-from-company-name name))
@@ -309,7 +310,7 @@
 
 
 
-(defun find/Company (company-category binding-instructions)
+(defun find/company (company-category binding-instructions)
   (let* ((name (value-of-instr 'name binding-instructions))
          (sequence (sequence-from-company-name name))
          (dummy (unless sequence

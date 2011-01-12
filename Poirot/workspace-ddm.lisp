@@ -1,8 +1,23 @@
 ;;; -*- Mode: Lisp; Syntax: Common-lisp; -*-
 ;;; $Id$
-;;; Copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2009 BBNT Solutions LLC.
+;;; Copyright (c) 2010 David D. McDonald
 
 ;;; /nlp/Poirot/workspace-ddm.lisp
+
+;; (load "/Users/ddm/ws/nlp/load-nlp.lisp")
+
+#|
+ (setup-backing-clos-class (category-named 'time))
+ (setup-backing-clos-class (category-named 'relative-time-adverb))
+ (setup-backing-clos-class (category-named 'relative-time))
+ (setq *annotate-realizations* t)
+ (trace-psi)
+ (p "last week")
+
+ (make-an-individual 'relative-time :relativizer last :reference-time week)
+  ;; doesn't expand the rdata the way define-individual does
+|#
 
 (in-package :cl-user)
 

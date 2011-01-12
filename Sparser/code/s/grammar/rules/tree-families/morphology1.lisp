@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005, 2010 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2008-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -64,6 +64,8 @@
 ;;      standalone-word.
 ;; 1.5 (10/13/09) Modified the w/o-morph case to not laydown any brackets and added
 ;;      explicit set (with brackets) for adjectives.
+;; 1.6 (11/4/10) Earlier in October added vast amount to the stemming capabilities.
+;;      Today resurecting define-main-verb entry point from 1993 JV work.
  
 (in-package :sparser)
 
@@ -72,7 +74,7 @@
 ;;;----------
 
 (defun head-word-rule-construction-dispatch (head-word category referent)
-  ;; called from Make-rules-for-rdata. Keep etf for single-words in synch.
+  ;; called from make-rules-for-rdata. Keep etf for single-words in synch.
   (ecase (car head-word)
     (:verb (make-verb-rules
             (cdr head-word) category referent))
@@ -210,9 +212,51 @@
 
 
 
+(defun define-main-verb  (symbol-for-category
+			  &key referent 
+			  infinitive ;; "to give"
+			  tensed/singular    ;; "he gives"
+			  tensed/plural      ;; "they give"
+			  past-tense         ;; "they gave"
+			  past-participle    ;; "they have given"
+			  present-participle ;; "they are giving"
+			  nominalization)
+  "Standalone entry point developed in the early 1990s. Can be very lightweight
+ because the referent can be trivial. Provides overrides to make-verb-rules/aux
+ and handles the packaging done by "
+  (unless infinitive
+    (error "Must supply at least the infinitive word form"))
+  (let ((word (define-word/expr infinitive))
+	(category (find-or-make-category symbol-for-category :define-category))
+	(ref (or referent
+		 (category-named 'event))) ;; see /rules/syntax/tense -- should be eventuality
+	special-cases )
+    (when tensed/singular
+      (push tensed/singular special-cases)
+      (push :third-singular special-cases))
+    (let ((t/p (or tensed/plural infinitive)))
+       (push t/p special-cases)
+       (push :third-plural special-cases))
+    (when past-tense
+      (push past-tense special-cases)
+      (push :past-tense special-cases))
+    (when past-participle 
+      (push past-participle special-cases)
+      (push :past-participle special-cases))
+    (when present-participle ;; ing-form
+      (push present-participle special-cases)
+      (push :present-participle special-cases))
+    (when nominalization
+      (push nominalization special-cases)
+      (push :nominalization special-cases))
+    (let ((rules (make-verb-rules/aux word category ref special-cases)))
+      rules ;; where do we stash them when it's an independent call?
+      )))
+
+
 (defun make-verb-rules/aux (word category referent
                             &optional special-cases )
-  ;; Called from Make-verb-rules. Returns a list of the rules made
+  ;; Called from make-verb-rules. Returns a list of the rules made
 
   (let ((s-form (or (cadr (member :third-singular special-cases))
                     (s-form-of-verb word)))
@@ -238,6 +282,7 @@
                           :third-plural  third-plural
                           :nominalization  nominalization)))
   
+
              
 (defun make-verb-rules/aux2 (word category referent
                              &key s-form
@@ -366,8 +411,8 @@
   ;; will do a Comlex check. Stores the stem once it finds it.
   (or (cadr (member :stem (unit-plist word)))
       (let ((morphology (word-morphology word)))
-	;; the word-morphology field of a word is filled when it
-	;; is defined. 
+	;; the word-morphology field of a word is filled at the
+	;; time it is defined. 
 	(if morphology
 	  (let* ((putative-stem (construct-stem-form word morphology))
 		 (stem (test-against-comlex-if-possible putative-stem)))
@@ -376,22 +421,24 @@
 	    stem)	    
 	  word))))
 
-(defun test-against-comlex-if-possible (putative-stem)
-  (or (and (is-in-comlex? putative-stem)
-	   putative-stem)
-      (let ((pname-with-an-e (pname-with-an-e putative-stem)))
-	(when (is-in-comlex? pname-with-an-e)
-	  (define-word/expr pname-with-an-e)))
-      ;; fall through -- really might not be in comlex
-      putative-stem))
 
-(defun pname-with-an-e (stem)
-  (if (word-ends-in-e stem)
-    stem
-    (concatenate 'string (word-pname stem) "e")))
-      
-  
+;;--- test harness
 
+(defun test-stemmer (pname)
+  (let ((word (word-named pname)))
+    (if word
+      (let* ((plist (unit-plist word))
+	     (stem-sublist (member :stem plist)))
+	(when stem-sublist
+	  (if (eq (car plist) :stem)
+	    (setf (unit-plist word) (cddr plist))
+	    (break "stem marker is in the middle of the plist")))
+	word)
+      (setq word (define-word/expr pname)))
+    (stem-form word)))
+
+
+;;--- cases
 
 (defun construct-stem-form (word morphology-keyword)
   ;; subroutine of stem-form and stem-form-of-word
@@ -406,6 +453,31 @@
 	    morphology-keyword word))))
 
 
+(defun test-against-comlex-if-possible (putative-stem)
+  (if *comlex-word-lists-loaded* ;; do (load-comlex)
+    (or (and (is-in-comlex? putative-stem)
+	     putative-stem)
+	(let ((pname-with-an-e (pname-with-an-e putative-stem)))
+	  (when (is-in-comlex? pname-with-an-e)
+	    (define-word/expr pname-with-an-e)))
+	(let ((pname-with-a-d (pname-with-a-d putative-stem)))
+	  (when (is-in-comlex? pname-with-a-d)
+	    (define-word/expr pname-with-a-d)))
+	;; fall through -- really might not be in comlex
+	putative-stem)
+    putative-stem))
+
+(defun pname-with-an-e (stem)
+  (if (word-ends-in-e stem)
+    stem
+    (concatenate 'string (word-pname stem) "e")))
+;; Should try to avoid these patches
+(defun pname-with-a-d (stem)
+  (if (word-ends-in-e stem)
+    stem
+    (concatenate 'string (word-pname stem) "d")))
+      
+
 ;;--- A start at some abstractions
 
 (defmethod last-letter ((w word))
@@ -413,10 +485,21 @@
 (defmethod last-letter ((s string))
   (elt s (1- (length s))))
 
+(defun ends-in? (string suffix-string)
+  (let ((string-length (length string))
+	(suffix-length (length suffix-string)))
+    (string-equal suffix-string
+		  (subseq string (- string-length suffix-length)))))
+
 (defmethod word-ends-in-e ((w word))
   (word-ends-in-e (word-pname w)))
 (defmethod word-ends-in-e ((s string))
   (eql #\e (last-letter s)))
+
+(defmethod word-ends-in-d ((w word))
+  (word-ends-in-d (word-pname w)))
+(defmethod word-ends-in-d ((s string))
+  (eql #\d (last-letter s)))
 
 
 ;;--- Verbs ("s", "ed", "ing")
@@ -425,7 +508,8 @@
   ;; Called from introduce-morph-brackets-from-unknown-word, which (8/8/10) is
   ;; very conservative about what it tries to stem
   (let ((morphology (word-morphology word)))
-    (if morphology
+    (if morphology ;;/// mistakenly stems "this",
+      ;; and "species" => "specy", "during" => "dur"
       (construct-stem-form word morphology)
       word)))
 
@@ -448,7 +532,7 @@
 ;(form-stem/strip-s (define-word "describes"))
 
 
-(defun form-stem/strip-ed (word)
+(defun form-stem/strip-ed (word) ;; "called" => "cal"
   (let* ((pname (word-pname word))
          (length (length pname)))
     (if (< length 5)
@@ -457,7 +541,6 @@
       (let ((char-minus-1 (elt pname (- length 3)))
             (char-minus-2 (elt pname (- length 4)))
             (char-minus-3 (elt pname (- length 5))))
-        (declare (ignore char-minus-3))
         
         (cond
          ((doubled-consonants? char-minus-1 char-minus-2)
@@ -466,7 +549,8 @@
                 (subseq pname 0 (- length 3))))
 
          ((and (consonant? char-minus-1)
-               (vowel? char-minus-2))
+               (vowel? char-minus-2) ;; "named" => "name"
+	       (not (vowel? char-minus-3))) ;; "coiled" => "coil"
           ;; "..vced" -> "..vce"
           (setq pname
                 (subseq pname 0 (- length 1))))
@@ -488,6 +572,7 @@
 
         (define-word/expr pname)))))
 
+;(test-stemmer "coiled") -> "coile" /////
 ;(form-stem/strip-ed (define-word "expected")) ;; default
 ;(form-stem/strip-ed (define-word "named"))    ;; "..vced" -> "..vce"
 ;(form-stem/strip-ed (define-word "riddled"))  ;; "..csed" -> "..cse"  where 's' is a semi-vowel
@@ -500,21 +585,26 @@
   (define-word/expr stem-pname))
 
 
-
 (defun form-stem/strip-ing (word)
   (let* ((pname (word-pname word))
-         (length (length pname))
-         (stem-pname (subseq pname 0 (- length 3)))
-         (char-before (elt pname (- length 4))))
+         (length (length pname)))
+    (if (< length 6)
+      (then ;; what's an example where we'd stem it?
+	word)
+      (let ((stem-pname (subseq pname 0 (- length 3))) ;; remove "ing"
+	    (char-before (elt pname (- length 4))))
+	(cond
+	  ((ends-in? stem-pname "bl") ;; "assemble
+	   (setq stem-pname (string-append stem-pname "e")))
+	  ((and (doubled-consonants? char-before (elt pname (- length 5)))
+		(> (length stem-pname) 3)) ;; "cell" "add"
+	   (setq stem-pname (subseq pname 0 (- length 4)))))
+	(define-word/expr stem-pname)))))
 
-    (when (doubled-consonants? char-before
-                               (elt pname (- length 5)))
-      (setq stem-pname (subseq pname 0 (- length 4))))
-
-    (define-word/expr stem-pname)))
 
 ;(form-stem/strip-ing (define-word "setting"))
 ; BUT (stem-form (define-word/expr "assembling")) => "assembl"
+; and adding => "ad"
 
 (defun form-stem/strip-ly (word)
   ;; It's not obvious that we should do this since we'll be changing

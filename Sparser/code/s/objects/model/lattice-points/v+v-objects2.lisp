@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1998-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1998-2005, 2010 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "v+v objects"
 ;;;   Module:  "objects;model:lattice-points:"
-;;;  version:  2.0 August 2009
+;;;  version:  2.0 December 2010
 
 ;; initiated 3/7/98. Populated 7/9. 1/31/99 aded Value/var/v+v. Added
 ;; Bind-v+v 2/14.  2/11/05 Added a global trap into value/var/v+v.
@@ -14,7 +14,9 @@
 ;;   variable.
 ;; 1.0 (7/29/07) Totally making over the indexing. 7/15 moved the struct
 ;;   into the structure file. 
-;; 2.0 (7/22/09) Making it over again. Working on it through 8/30
+;; 2.0 (7/22/09) Making it over again. Working on it through 8/30.
+;;   (12/14/10) Rehabilited value/var/v+v & bind-v+v. Fixed C&S bug in
+;;   printer.
 
 (in-package :sparser)
 
@@ -35,9 +37,9 @@
 (defun print-category+value-structure (c+v stream depth)
   (declare (ignore depth))
   (let ((category (vv-category c+v)))
-    (format stream "#<v+v ~a  ~a>"
+    (format stream "#<c+v ~a  ~a>"
 	    (string-downcase (symbol-name (cat-symbol category)))
-	    (unit-plist v+v))))
+	    (unit-plist c+v))))
 
 
 ;;;-----------------
@@ -92,7 +94,7 @@
 
 (defun make-top-v+v (category)
   (let ((v+v (allocate-category+value)))
-    (setf (vv-variable v+v) category)
+    (setf (vv-category v+v) category)
     (tr :make-top-v+v v+v)
     v+v))
 
@@ -251,15 +253,11 @@
 ;;; simple accessor (cf. value/var)
 ;;;---------------------------------
 
-;;//// rehabilite these
-#+ignore
-(defvar *v+v* nil)
-#+ignore
 (defun value/var/v+v (variable psi)
+;  (push-debug `(,variable ,psi)) (break "value/var/v+v")
   (let ((v+v (find variable (psi-v+v psi)
                    :test #'eq :key #'vv-variable)))
     (when v+v
-      (setq *v+v* v+v)
       (vv-value v+v))))
 
 
@@ -284,7 +282,8 @@
 ;; decode the reference to the variable. 
 
 (defun bind-v+v (var/name value psi &optional category)
-  (break "call to bind-v+v")
+  (push-debug `(:bind-v+v ,psi ,var/name ,value ,psi ,category))
+ ;; (break "call to bind-v+v")
   (let ((variable (decode-variable-name
                    var/name :individual psi :category category)))
     (unless variable

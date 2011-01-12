@@ -1,14 +1,32 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
 ;;; copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2010 David D. McDonald  All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "correspondences"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  1.2 November 2009
+;;;  version:  0.1 December 2010
 
-;; initiated 10/5/09. Expanded 11/10
+;; initiated 10/5/09. Expanded 11/10. 
+;; (12/9/10) Reworking most of this to bring it in sync what what rnodes
+;;  encode. 
 
 (in-package :sparser)
+
+;;;----------------------
+;;; table of ETF to Tree
+;;;----------------------
+
+(defparameter *etf-name-to-phrase*
+  '((
+)))
+
+
+
+
+
+
+;;-------------- originals below here (12/9/10 ddm) -------------
 
 ;;;-------
 ;;; types

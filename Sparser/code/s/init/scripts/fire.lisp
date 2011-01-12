@@ -1,12 +1,14 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(CL-USER COMMON-LISP) -*-
 ;;; Copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2010 David D. McDonald -- all rights reserved
 ;;; $Id:$
 ;;;
 ;;;      File:   "fire"
 ;;;    Module:   "init;scripts:"
-;;;   version:   June 2007
+;;;   version:   November 2010
 
-;; Adapted from 'just dm&p' 6/20/07. (9/21/09
+;; Adapted from 'just dm&p' 6/20/07. 
+;; 11/9/10 incorporated CLOS parameter.
 
 (in-package :cl-user)
 
@@ -61,6 +63,9 @@
 (defparameter sparser::*load-ad-hoc-rules* t)
 
 (defparameter sparser::*no-image* t)
+
+(unless (boundp 'sparser::*CLOS*)
+  (defparameter sparser::*CLOS* nil))
 
 #+allegro (defparameter sparser::*binaries-directory-name* "s")
 

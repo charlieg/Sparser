@@ -112,7 +112,7 @@
                   (break "No instance of ~A in the entry~%for ~
                           ~A in the qualified-title index"
                          qualifier title)
-                  (return-from Reclaim/qualified-title))
+                  (return-from reclaim/qualified-title))
                 (when (eq (caar next-cell) qualifier)
                   (rplacd last-cell
                           (cdr next-cell)))

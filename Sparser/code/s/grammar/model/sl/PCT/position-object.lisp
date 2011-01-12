@@ -91,7 +91,7 @@
                   (break "No instance of ~A in the entry~%for ~
                           ~A in the position index"
                          title company)
-                  (return-from Reclaim/position))
+                  (return-from reclaim/position))
                 (when (eq (caar next-cell) title)
                   (rplacd last-cell
                           (cdr next-cell)))

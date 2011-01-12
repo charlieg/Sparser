@@ -357,7 +357,7 @@
 (defun classification-fsa (state position final-position)
 
   (when (eq position final-position)
-    (return-from Classification-fsa state))
+    (return-from classification-fsa state))
 
   (let* ((ev (pos-starts-here position))
          (edge/s (ev-top-node ev))
@@ -396,7 +396,7 @@
           (break "Gap in the transition net for proper names:~
                   ~%No rule for the state ~A and the item type ~A"
                  state item-type)
-          (return-from Classification-fsa/continued
+          (return-from classification-fsa/continued
             (pnf-state-named :pattern-is-outside-coverage))))
 
       (setq next-state (car transition)

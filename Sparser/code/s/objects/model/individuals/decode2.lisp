@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005, 2010 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2006-2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "decode"
 ;;;   Module:  "objects;model:individuals:"
-;;;  version:  0.5 January 2007
+;;;  version:  0.5 December 2010
 
 ;; pulled from [find] 5/25/93 v2.3
 ;; 0.1 (9/18) added referential-categories to the options for decoding
@@ -29,6 +29,7 @@
 ;;      that include special-case morphology.
 ;;     (1/9/07) Tweaked Decode-value-for-primitive-v/r since Allegro doesn't support fixnump
 ;;     (6/19/09) Fan-out from lexical treatment of variables.
+;;     (12/6/10) Turned break in decode/check-value into sort of a cerror
 
 (in-package :sparser)
 
@@ -114,7 +115,8 @@
 		   (type-of v/r) v/r)))))
     (when (consp result)
       (when (eq (car result) :violation)
-        (apply #'break (cdr result))))
+        (apply #'break (cdr result)) ;; wants to be a cerror
+	(setq result value-exp)))
     result ))
 
 
@@ -132,7 +134,7 @@
     (psi
      (if (eq (category-of exp) category)
        exp
-       (v/r-violation "The type of the partially saturateindividual given as the value,~
+       (v/r-violation "The type of the partially saturated individual given as the value,~
                        ~%   ~A~
                        ~%   whose type is ~a~
                        ~%does not match the value restriction ~A"

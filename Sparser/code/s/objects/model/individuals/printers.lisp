@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005, 2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "printers"
 ;;;   Module:  "objects;model:individuals:"
-;;;  version:  0.4 February 2005
+;;;  version:  0.4 January 2011
 
 ;; initiated 7/16/92 v2.3, 9/3 added Princ-individual
 ;; (5/26/93) added Print-individual-with-name
@@ -22,6 +22,8 @@
 ;;     (2/10/05) Added has-a-name? and name-of. (3/14) Added check for psi
 ;;     in Print-individual-structure. (3/31) Integrated named case into main
 ;;     routine.
+;;     (1/11/11) Fixed call to field of operations when the category didn't
+;;     have any because it was made by DM&P and that detail forgotten.
 
 (in-package :sparser)
 
@@ -48,9 +50,9 @@
                   (cadr (member :uid (unit-plist indiv)
                                 :test #'eq))))
          (t
-          (let ((special-routine
-                 (cat-ops-print (cat-operations
-                                 (first type-field)))))
+          (let* ((operations (cat-operations (first type-field)))
+		 (special-routine
+		  (when operations (cat-ops-print operations))))
             (if special-routine
               (funcall special-routine indiv stream)
               (if (has-a-name? indiv)

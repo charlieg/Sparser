@@ -676,7 +676,7 @@
         (break "Assumptions not supported:  Expected this edge to ~
                 be an unknown-term~%with a word as its left daughter.~
                 ~%Instead the daughter is ~A~%edge: ~A" word edge)
-        (return-from Adjust-rule-to-verb)))
+        (return-from adjust-rule-to-verb)))
 
     (let ((form (if (word-morphology word)
                   (case (word-morphology word)

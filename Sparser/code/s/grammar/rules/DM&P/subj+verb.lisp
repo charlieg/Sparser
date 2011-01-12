@@ -27,7 +27,7 @@
   :new-category subj+verb-segment )
 
 
-(defun dm&p/Note-subj+verb (subj-segment verb-segment)
+(defun dm&p/note-subj+verb (subj-segment verb-segment)
   (let ((head-of-subj
          (if (segment? subj-segment)
            (referent-of-segment subj-segment)
@@ -38,7 +38,7 @@
                          ~%The subject edge refers to neither a ~
                          segment~%or an individual:~%  ~A~%"
                         subj-segment))
-               (return-from dm&p/Note-subj+verb))
+               (return-from dm&p/note-subj+verb))
              subj-segment)))
         (verb-term
          (head-of-verb-segment verb-segment))
@@ -47,11 +47,11 @@
     (unless head-of-subj
       (when *break-on-pattern-outside-coverage?*
         (break "No value for head of subject"))
-      (return-from dm&p/Note-subj+verb))
+      (return-from dm&p/note-subj+verb))
     (unless verb-term
       (when *break-on-pattern-outside-coverage?*
         (break "No value for verb"))
-      (return-from dm&p/Note-subj+verb))
+      (return-from dm&p/note-subj+verb))
 
     (if (setq r (find-individual 'subject-verb
                   :subject head-of-subj

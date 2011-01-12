@@ -1,11 +1,12 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
 ;;; $Id$
+;;; Copyright (c) 2010 David D. McDonald
 ;;;
 ;;;     File: "comlex"
 ;;;   Module: "grammar;rules:words:one-offs:"
-;;;  Version:  August 2010
+;;;  Version:  November 2010
 
-;; initiated 8/16/10
+;; initiated 8/16/10. 11/3 cleaned up the loader. Added vivifying code.
 
 (in-package :sparser)
 
@@ -77,22 +78,6 @@ non-words 26
     (,*comlex-non-words* non-words)))
 
 
-(defun comlex-noun-verb-ambiguous-words () ;; 2,879
-  (loop for key being the hash-key in *comlex-verbs*
-     when (gethash key *comlex-nouns*)
-       collect key))
-
-(defun comlex-noun-adjective-ambiguous-words () ;; 1,008
-  (loop for key being the hash-key in *comlex-adjectives*
-     when (gethash key *comlex-nouns*)
-       collect key))
-
-(defun comlex-verb-adjective-ambiguous-words () ;; 275
-  (loop for key being the hash-key in *comlex-adjectives*
-     when (gethash key *comlex-verbs*)
-       collect key))
-
-
 
 (defun get-orth (entry) ;; adapted from comlex-util.lisp
   (getf (cdr entry) :ORTH))
@@ -138,7 +123,6 @@ non-words 26
         for name symbol = (cadr entry)
        do (format t "~&~a ~a" name (hash-table-count table))))
 
-
 (defun extract-table-entries (table)
   (loop for key being the hash-key in table
        collect key))
@@ -162,6 +146,57 @@ non-words 26
       :done)))
 
 
+
+;;;---------------------------
+;;; diff'ing the major tables
+;;;---------------------------
+
+(defvar unambiguous-verbs (make-hash-table))
+(defvar unambiguous-nouns (make-hash-table))
+(defvar unambiguous-adjectives (make-hash-table))
+(defvar unambiguous-adverbs (make-hash-table))
+
+
+(defun comlex-noun-verb-ambiguous-words () ;; 2,879
+  (loop for key being the hash-key in *comlex-verbs*
+     when (gethash key *comlex-nouns*)
+       collect key))
+
+(defun comlex-noun-adjective-ambiguous-words () ;; 1,008
+  (loop for key being the hash-key in *comlex-adjectives*
+     when (gethash key *comlex-nouns*)
+       collect key))
+
+(defun comlex-verb-adjective-ambiguous-words () ;; 275
+  (loop for key being the hash-key in *comlex-adjectives*
+     when (gethash key *comlex-verbs*)
+       collect key))
+
+(defun diff-the-comlex-word-lists ()
+  (loop for s in *comlex-verbs-list* ;; 5,665
+       when (not (or (gethash s *is-a-noun-in-comlex*)
+		     (gethash s *is-an-adjective-in-comlex*)))
+		     ;; The adverbs don't intersect with any other
+		     ;; class of words.
+       do (setf (gethash s unambiguous-verbs) t))
+  (loop for s in *comlex-nouns-list* ;; 21,932
+       when (not (or (gethash s *is-a-verb-in-comlex*)
+		     (gethash s *is-an-adjective-in-comlex*)))
+       do (setf (gethash s unambiguous-nouns) t))
+  (loop for s in *comlex-adjectives-list* ;; 8,193
+       when (not (or (gethash s *is-a-verb-in-comlex*)
+		     (gethash s *is-a-noun-in-comlex*)))
+       do (setf (gethash s unambiguous-adjectives) t))
+  (format t "~&~a unambiguous verbs~
+             ~%~a unambiguous nouns~
+             ~%~a unambiguous adjectives"
+	  (hash-table-count unambiguous-verbs) ;; 2,683
+	  (hash-table-count unambiguous-nouns) ;; 18,217
+	  (hash-table-count unambiguous-adjectives)))  ;; 7,082
+
+
+
+
 ;;;-------------------
 ;;; Comlex word lists
 ;;;-------------------
@@ -176,17 +211,16 @@ non-words 26
   "Provides a flag to gate operations that reference these lists")
 
 (defun load-comlex ()
- (load "/Users/ddm/ws/Vulcan/ws/frequencies/comlex-function-words.lisp")
- (load "/Users/ddm/ws/Vulcan/ws/frequencies/comlex-adjectives.lisp")
- (load "/Users/ddm/ws/Vulcan/ws/frequencies/comlex-adverbs.lisp")
- (load "/Users/ddm/ws/Vulcan/ws/frequencies/comlex-nouns.lisp")
- (load "/Users/ddm/ws/Vulcan/ws/frequencies/comlex-verbs.lisp")
- (populate-comlex-adjectives)
- (populate-comlex-adverbs)
- (populate-comlex-nouns)
- (populate-comlex-verbs)
- (populate-comlex-function-words)
- (setq *comlex-word-lists-loaded* t))
+  "Pupulate the hashtables used by is-in-comlex?"
+  ;; The word files are a part of the standard Sparser load
+  ;; Just having loaded the files gives us defvar's pointing
+  ;; to each of the major word lists. 
+  (populate-comlex-adjectives)
+  (populate-comlex-adverbs)
+  (populate-comlex-nouns)
+  (populate-comlex-verbs)
+  (populate-comlex-function-words)
+  (setq *comlex-word-lists-loaded* t))
 
 (defmethod is-in-comlex? ((w word))
   (is-in-comlex? (word-pname w)))
@@ -202,6 +236,70 @@ non-words 26
       (gethash s *is-an-adjective-in-comlex*)
       (gethash s *is-an-adverb-in-comlex*)
       (gethash s *is-a-function-word-in-comlex*)))
+
+
+;;;---------------------------------------------
+;;; Making the vocabulary active inside Sparser
+;;;---------------------------------------------
+#|
+ The lists in the various tables (e.g *is-a-function-word-in-comlex*)
+or the simple lists themselves (*comlex-verbs-list*) contain symbols,
+sometimes multiword symbols (e.g. |in case of|). They can be converted
+to words and given bracketing assignments. When working on generic
+texts this is most important for verbs.
+
+  If we wanted to instantiate the words as, e.g. /dossiers/semantics-
+free-verbs, and especially if we knew their subcategorization pattern,
+then we could use forms like "svo" (/rules/tree-families/shortcuts),
+but the last time we did that it took eons to load everything because
+of the hashtable manipulation in the machinery for handling individuals.
+Better to leave them uninstantiated until we know something about them
+e.g. via DM&P or Fire. 
+|#
+
+(defmethod define-new-word ((s symbol) brackets form-category)
+  ;; This is open-coding define-function-word since we're using the
+  ;; brackets many times and need to
+  (let* ((pname (symbol-name s))
+	 (known? (word-named pname)))
+    (unless known? ;; in which case we probably know a lot more than
+      ;; we're going to provide here. 
+      (let ((word (resolve-string-to-word/make pname)))
+	(etypecase word
+	  (word (setf (label-plist word)
+		      `( :function-word ,form-category ,@(label-plist word))))
+	  (polyword
+	   (setf (pw-plist word)
+		 `( :function-word ,form-category ,@(pw-plist word)))))
+	(establish-rule-set-for word)
+	(loop for b in brackets
+	     do (assign-bracket/expr word b))
+	word))))
+
+#+ignore ;; going with direct calls into Sparser's morphology
+  ;; machinery. But this is a model of what to do with other POS.
+(defmethod define-list-of-symbols-as-verbs ((list-of-symbols cons))
+  ;;/// Write it out too?
+  (let* ((verb-bracket-symbols '( ].verb  .[verb  mvb].  mvb.[))
+	 ;; see  assign-brackets-as-a-main-verb for this list
+	 (brackets (mapcar #'eval verb-bracket-symbols))
+	 (category (category-named 'verb)))
+    (loop for symbol in list-of-symbols
+	 ;; Oops! have to expand the verb to it's other forms.
+	 do (define-new-word symbol brackets category))))
+
+(defmethod define-list-of-symbols-as-verbs ((list-of-symbols cons))
+  (dolist (verb-symbol list-of-symbols)
+    (unless (word-named (symbol-name verb-symbol))
+      ;; don't overwrite known words
+      (define-main-verb verb-symbol ;; becomes the category
+	  :infinitive (symbol-name verb-symbol)))))
+
+(defmethod define-list-of-symbols-as-verbs ((table hash-table))
+  (let ((verbs (loop for s being the hash-key in table
+		    collect s)))
+    (define-list-of-symbols-as-verbs verbs)))
+    
 
 
 

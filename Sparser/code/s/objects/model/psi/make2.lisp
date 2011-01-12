@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1998-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1998-2005, 2010 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -18,6 +18,9 @@
 ;;      an identical description in fact denoted a different individual.
 ;; 1.0 (8/6/09) Reworking to use interned v+v objects in the style of 
 ;;      extend-psi-by-binding. 10/9 added in the bindings case for make/psi
+;; 1.1 (12/14/10) Changed make-psi-with-just-a-type to make a new object
+;;      every time. Then fixed make-more-saturated-psi to put the value of
+;;      the type inside a list.
 
 (in-package :sparser)
 
@@ -65,22 +68,23 @@
   (let* ((lattice-point (or provided-self-lp
 			    ;; n.b. it's not a 'self' lp at the moment
 			    (cat-lattice-position category)))
-	 (psi (lp-top-psi lattice-point)))
-    (when psi
-      (tr :make-psi-for-type/found-existing psi))
-    (unless psi
-      ;; Aways reuse the same one. (Though it could be deallocated
-      ;; and have to be rebuilt.)
-      (setq psi (allocate-psi))
-      (setf (psi-lp psi) lattice-point)
-      (setf (psi-type psi) (list category))
-      (setf (psi-source psi) :top)
-      (setf (lp-top-psi lattice-point) psi)
-      (let ((v+v (make-top-v+v category)))
-	(setf (psi-v+v psi) `(,v+v))
-	(setf (vv-psi v+v) psi)
-;;      (push-debug `(psi ,psi lattice-point ,lattice-point)) (break)
-	(tr :made-psi-for-type/psi psi category)))
+;	 psi (lp-top-psi lattice-point))
+;    (when psi
+;      (tr :make-psi-for-type/found-existing psi))
+;; 12/14/10 By some path that isn't clear from grep, that field is getting
+;;  populated with psi that has a lattice-point as its type field.
+;;  So always building a new one.
+	 (psi (allocate-psi)))
+    (setf (psi-lp psi) lattice-point)
+    (setf (psi-type psi) (list category))
+    (setf (psi-source psi) :top)
+    (setf (lp-top-psi lattice-point) psi)
+    (let ((v+v (make-top-v+v category)))
+      (setf (psi-v+v psi) `(,v+v))
+      (setf (vv-psi v+v) psi))
+;    (push-debug `(,psi ,lattice-point))
+;    (break "New top-psi: ~a" psi)
+    (tr :made-psi-for-type/psi psi category)
     psi ))
 
 
@@ -93,7 +97,7 @@
 	     variable (psi-lp parent-psi)))
 	(psi (allocate-psi)))
     (push-debug `(,lp ,psi ,v+v))
-    (setf (psi-type psi) lp)
+    (setf (psi-type psi) `(,lp))
     (setf (psi-lp psi) lp)
     (setf (psi-v+v psi) (cons v+v (psi-v+v parent-psi)))
     (setf (psi-downlinks psi) nil)

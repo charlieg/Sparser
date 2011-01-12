@@ -1,6 +1,6 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-1996  David D. McDonald  -- all rights reserved
-;;; extensions copyright (c) 2010 BBNT Solutions LLC. All Rights Reserved
+;;; copyright (c) 1992-1996, 2010  David D. McDonald
+;;; extensions copyright (c) 2010 BBNT Solutions LLC.
 ;;; $Id$
 ;;; 
 ;;;     File:  "newline"
@@ -27,6 +27,7 @@
 ;;     (8/17/97) moved in *count-input-lines*
 ;;     (2/22/10) Somewhere along the line the newline fsa got an argument but
 ;;     the "not defined" hadn't been update to match.
+;;     (11/10/10) fixed problem compiler identified
 
 (in-package :sparser)
 
@@ -81,7 +82,7 @@
 ;;;-------------------------------------------
 
 (defun newline-fsa (position)
-  (declare (ignore (position)))
+  (declare (ignore position))
   ;; called from Add-terminal-to-chart
   (break "The initialization of the analyzer is incomplete:~
           ~%   The FSA for #\newline doesn't have a value"))

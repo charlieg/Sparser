@@ -1,11 +1,10 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005, 2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2006-2009 BBNT Solutions LLC. All Rights Reserved
-;;; $Id: anaphora3.lisp 280 2009-09-02 15:41:09Z dmcdonal $
 ;;; 
 ;;;     File:  "anaphora"
 ;;;   Module:  "analyzers;CA:"
-;;;  Version:  3.4 September 2009
+;;;  Version:  3.4 January 2011
 
 ;; new design initiated 7/14/92 v2.3
 ;; 1.1 (6/17/93) bringing it into sync with Krisp
@@ -37,6 +36,8 @@
 ;;      commented out section-marker. It's not always loaded so need to conditionalize it.
 ;;     (9/1)  Added exception for
 ;;      external referents into add-subsuming-object-to-discourse-history
+;;     (1/11/11) Patched check for operations of category to look first. Problem
+;;      comes from category created by DM&P without all its parts.
 
 (in-package :sparser)
 
@@ -168,9 +169,10 @@
         (individual
          (let* ((primary-category (car (indiv-type obj)))
                 (other-categories (cdr (indiv-type obj)))
+		(operations (cat-operations primary-category))
                 (instantiates
-                 (cat-ops-instantiate
-                  (cat-operations primary-category))))
+		 (when operations
+		   (cat-ops-instantiate operations))))
 
            (when instantiates
              (update-discourse-history instantiates

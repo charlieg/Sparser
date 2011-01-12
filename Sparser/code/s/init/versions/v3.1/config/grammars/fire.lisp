@@ -1,10 +1,11 @@
 ;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
+;;; copyright (c) 2010  David D. McDonald  -- all rights reserved
 ;;; copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;;
 ;;;      File:  "fire"
 ;;;    Module:  "init/config/grammars/
-;;;   version:  June 2010
+;;;   version:  November 2010
 
 ;; Derived from Answer/init/grammar-config 6/21/07
 ;; 6/6/10 Blocked SGML because its rules (e.g. for "p") runs outside brackets
@@ -19,7 +20,7 @@
 ;; 7/5/07 Exposed the company grammar. 8/8 added *semantics-of-WH-words*
 ;; 3/27/09 added *known-verbs* to hold all the lightweight definitions
 ;; 0.1 Added in all the sublanguages, making this more like the full-
-;;  grammar configuration.
+;;  grammar configuration. 11/15/10 removed *poirot*, added *reversable*.
 
 ;;;----------------------------
 ;;; grammar modules to include
@@ -185,6 +186,13 @@
 (include-grammar-module  *SDM&P*)
 
 
+;;;--------------------------------------
+;;; reversibility (connection to Mumble)
+;;;--------------------------------------
+
+(include-grammar-module  *reversable*)
+
+
 ;;;---------------------
 ;;; select sublanguages
 ;;;---------------------
@@ -210,7 +218,6 @@
 (include-grammar-module  *call-signs*)
 (include-grammar-module  *checkpoint-ops*)
 (include-grammar-module  *disease*)
-(include-grammar-module  *poirot*)
 
 (include-grammar-module  *load-Tipster-grammar-into-image*)
 (include-grammar-module  *jv/phrases*)

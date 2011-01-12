@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1990-1996  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1990-1996, 2010  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;; 
@@ -16,7 +16,7 @@
 ;; 0.3 (6/9/10) Hacking *current-article* so we can to tf/idf analyses
 ;; 0.4 (6/19/10) Folding in Porter Stemmer. 6/30 tweaking that and the
 ;;     printers. 7/15/10 implementing tracking freq in different documents.
-;;     7/23-25 folding in #<document> object. Refining ...8/
+;;     7/23-25 folding in #<document> object. Refining ...8/16.
 
 (in-package :sparser)
 
@@ -30,14 +30,14 @@
      and use the stem it returns as the word that we count."))
 
 (unless (boundp '*include-function-words-in-frequency-counts*)
-  (defparameter *include-function-words-in-frequency-counts* t
+  (defparameter *include-function-words-in-frequency-counts* nil
     "All known words that have :function-word on their plist are
      usually lumped together under the pseudo-word that is bound
      to *function-word* below. Otherwise they will dominate any
      frequency count."))
 
 (unless (boundp '*include-punctuation-in-frequency-counts*)
-  (defparameter *include-punctuation-in-frequency-counts* t
+  (defparameter *include-punctuation-in-frequency-counts* nil
     "Any word at a position whose capitalization is flagged as
      :punctuation will usually be lumped into the pseud-word
      *punctuation-word*"))
@@ -56,6 +56,12 @@
 (defvar *word-types-at-start-of-article* 0
   "Keeps track of how many new words appear in successive articles
    when running over document streams")
+
+(defvar *function-words-seen-in-run* nil
+  "When we're aggregating function words, this records which ones were seen.")
+
+(defvar *punctuation-seen-in-run* nil
+  "When we're aggregating punctuation, this records what were seen.")
 
 (defparameter *word-frequency-classification* nil
   "Set by Establish-word-frequency-classification. Names the 
@@ -86,7 +92,9 @@
         *sorted-word-entries* nil
         *word-count-buckets* nil
         *word-count-buckets-most-freq-highest* nil
-	*documents-analyized* nil) 
+	*documents-analyized* nil
+	*function-words-seen-in-run* nil
+	*punctuation-seen-in-run* nil) 
   (reset/over-all)) ;; (readout-frequency-table)
 
 
@@ -218,12 +226,28 @@
                           *sorted-word-entries*)
   '*sorted-word-entries*)
 
+;; Subroutine that lets us include a count when displaying
+;; sorted results
+(defvar *how-many-at-each-frequency-count* (make-hash-table))
+(defun how-many-at-frequency-count (n)
+  (gethash n *how-many-at-each-frequency-count*))
+(defun count-how-many-at-each-frequency-count 
+    (&optional (list-of-entries *sorted-word-entries*))
+  (let ((frequency 0)
+	(count 0))
+    (dolist (entry list-of-entries)
+      (when (not (= (cdr entry) frequency))
+	(setf (gethash frequency *how-many-at-each-frequency-count*) count)
+	(setq frequency (cdr entry)
+	      count 0))
+      (incf count))))
 
 (defun display-sorted-results (&optional
                                (stream *standard-output*)
                                (list-of-entries *sorted-word-entries*))
   (format stream "~&~%~A words in a corpus of length ~A"
           (number-of-words-counted) *words-in-run*)
+  (count-how-many-at-each-frequency-count)
   (let ((frequency 0)
         (words-on-the-line 0))
     (dolist (entry list-of-entries)
@@ -231,7 +255,8 @@
         ;; the frequency just changed
         (setq frequency (cdr entry)
               words-on-the-line 0)
-        (format stream "~&~%Word with frequency ~A~%   "
+        (format stream "~&~% ~a words with frequency ~A~%   "
+		(how-many-at-frequency-count frequency)
 		frequency))
       (princ-word (car entry) stream)
       (write-string "  " stream)
@@ -254,11 +279,21 @@
                accumulator))             ;; per-document
      *word-frequency-table*)
     accumulator))
+;;/// replace that one with this one
+(defun readout-wf-table (&optional (table *word-frequency-table*))
+  (let ( accumulator )
+    (maphash
+     #'(lambda (word entry)
+         (push (cons word (first entry)) ;; total count, not
+               accumulator))             ;; per-document
+     table)
+    accumulator))
 
 
 (defun sort-frequency-list (list-of-entries)
   "Sorts the output of readout-word-frequency-table-into-a-list 
-   first by count and then alphabetically on the word."
+   first by count and then alphabetically on the word.
+   Ordering is from least frequent to most frequent."
   (sort list-of-entries
         #'(lambda (first second)
             (cond ((< (cdr first)
@@ -267,11 +302,21 @@
                   ((> (cdr first)
                       (cdr second))
                    nil)
-                  ((string< (word-pname (car first))
-                            (word-pname (car second)))
+                  ((string<
+		    (etypecase (car first)
+		      (word (word-pname (car first)))
+		      (polyword (pw-pname (car first))))
+		    (etypecase (car second)
+		      (word (word-pname (car second)))
+		      (polyword (pw-pname (car second)))))
                    t)
-                  ((string> (word-pname (car first))
-                            (word-pname (car second)))
+                  ((string>
+		    (etypecase (car first)
+		      (word (word-pname (car first)))
+		      (polyword (pw-pname (car first))))
+		    (etypecase (car second)
+		      (word (word-pname (car second)))
+		      (polyword (pw-pname (car second)))))
                    nil)))))
 
 
@@ -309,7 +354,6 @@
     (length *word-count-buckets*)))
 
 
-
 (defun display-word-frequency-profile (&optional
                                        (stream *standard-output*))
   (unless *word-count-buckets*
@@ -340,6 +384,75 @@
       (format stream "~&~A~5,2T~A" (car entry) (cddr entry)))))
 
 
+
+;;--- words as a percentage of the corpus they're derived from
+
+(defun sort-word-frequency-table-most-frequent-first (word-frequency-entries)
+  (let ((sort1 (sort-frequency-list (copy-list word-frequency-entries))))
+    ;; change to most frequent first
+    (nreverse sort1)))
+
+(defvar *word-frequency-corpus-distributions* nil
+  "An alist of words by which fraction of the corpus they are in.")
+
+(defun word-frequency-corpus-distribution-by-fractions
+    (corpus-length &optional (number-of-parts 12) (table *word-frequency-table*))
+  (let* ((words (readout-wf-table table))
+	 (sorted (sort-word-frequency-table-most-frequent-first words)))	 
+    (word-frequency-corpus-distribution-by-fractions1 corpus-length sorted)))
+
+(defun word-frequency-corpus-distribution-by-fractions1 (corpus-length number-of-parts
+							 sorted)
+  (setq *word-frequency-corpus-distributions* nil)
+  (let ((instances-per-fraction (round (/ corpus-length number-of-parts)))
+	(iteration 0)	 
+	(accumulated-instances 0)
+	(words-in-section nil))
+    (do* ((pair (car sorted) (car rest))
+	  (rest (cdr sorted) (cdr rest))
+	  (word (car pair) (car pair))
+	  (count (cdr pair) (cdr pair)))
+	 ((null pair))
+      (push word words-in-section)
+      (setq accumulated-instances (+ count accumulated-instances))
+      (when (>= accumulated-instances instances-per-fraction)
+	(incf iteration)
+	(format t "~&fraction ~a contains ~a words~%"
+		iteration (length words-in-section))
+	(push `(,iteration . ,(nreverse words-in-section))
+	      *word-frequency-corpus-distributions*)
+	(setq accumulated-instances 0
+	      words-in-section nil)))
+    ;; last case
+    (format t "~&fraction ~a contains ~a words"
+	    (incf iteration) (length words-in-section))
+    (push `(,iteration . ,words-in-section)
+	  *word-frequency-corpus-distributions*)
+    (setq *word-frequency-corpus-distributions*
+	  (nreverse *word-frequency-corpus-distributions*))
+    :done))
+      
+#|
+(write-out-word-frequency-corpus-distributions
+  15 "Entire Campbell Biology text"
+  "/Users/ddm/ws/Vulcan/ws/frequencies/whole-book-word-distribution.lisp")
+|#
+(defun write-out-word-frequency-corpus-distributions (fraction corpus-name full-filename)
+  (with-open-file (stream full-filename
+		   :direction :output
+		   :if-exists :overwrite
+		   :if-does-not-exist :create)
+    (format stream "~&;; Sorting of all of the words in ~a~
+                    ~%;; into ~a fractions by word frequency."
+	    corpus-name fraction)
+    (dolist (pair *word-frequency-corpus-distributions*)
+      (let* ((count (car pair))
+	     (words (cdr pair))
+	     (sorted (sort (copy-list words) #'alphabetize-words)))
+	(format stream "~&~%~%Fraction ~a - ~a words~%~a"
+		count (length sorted) sorted)))))
+
+
 ;;;------------------------------------------------------------
 ;;; Differential counts by article (baby steps towards tf/idf)
 ;;;------------------------------------------------------------
@@ -364,7 +477,7 @@
 		(null count-for-word)) ;; #<source-start>
       (let ((ratio (/ count-for-word total-tokens)))
 	(values
-	 (format nil "~,5F" ratio)
+	 (format nil "~,8F" ratio)
 	 ratio)))))
 
 
@@ -392,8 +505,41 @@
     
 (defmacro def-word (string &rest doc-freq-data)
   ;; read them back in
-  `(def-word/expr ,string ;; ,@(quote-every-second-one  ?????
-	))
+  `(def-word/expr ,string ',doc-freq-data))
+
+(defun def-word/expr (string doc-freq-data)
+  (let* ((word (or (word-named string)
+		   (define-word/expr string)))
+	 (entry (gethash word *word-frequency-table*)))
+    (dolist (data doc-freq-data)
+      (let ((article (car data))
+	    (count (third data)))
+	(if (assq article (cdr entry))
+	  (then ;; over-write with this count
+	    (break "over-write: stub")
+	    (let ((new-subentry `(,article . ,count)))
+	      (rplacd entry (cons new-subentry (cdr entry)))))
+	  (let ((entry `(,count `(,article . ,count))))
+	    (setf (gethash word *word-frequency-table*) entry)))))
+    entry))
+
+;;--- lifted from word-frequency-reader
+(defvar *wf-sections* nil
+  "For now, just a dotted pair.")
+(defmacro def-section  (section-name word-count)
+  ;; e.g. (def-section chapter11 9781)
+  `(def-section/expr ',section-name ,word-count))
+
+(defun def-section/expr (section-name word-count)
+  (push `(,section-name . ,word-count) *wf-sections*))
+
+(defun section-word-count (section-name)
+  (let ((entry (assoc section-name *wf-sections* :test #'eq)))
+    (unless entry
+      (error "No section named ~a" section-name))
+    (cdr entry)))
+
+    
 
 (defun write-def-forms-for-all-words (&optional
 				      (stream *standard-output*))
@@ -460,25 +606,21 @@
   (setq *word-frequency-classification* keyword))
 
 #|
-(establish-word-frequency-classification :standard 
-                                         'standard-wf-classification)
-(establish-word-frequency-classification :ignore-capitalization
-                                         'wf-classification/ignore-caps)
+;; only one option left. Unclear that capitalization is meaningful
+;; unless we can distinguish sentence-internal from initial and
+;; get the initial proper names vis a workable heuristic
+;;///// Where is this set?
+ (establish-word-frequency-classification :ignore-capitalization
+                                          'wf-classification/ignore-caps)
 |#
 
 (defun wf-classification/ignore-caps (word position)
-  (if (word-rules word)
+  (if (word-rules word) ;; known
     (wf-classification/ignore-caps/known word position)
     (let ((capitalization (pos-capitalization position))
-	  (stem (word-pname word))) ;; for default when not stemming
-      (when *stem-words-for-frequency-counts*
-	(let ((pname (word-pname word)))
-	  (unless (eq capitalization :lower-case)
-	    (setq pname (string-downcase pname)))
-	  (setq stem (apply-Porter-stemmer pname))
-	  ;;/// restore final "e" ?
-	  (unless (string-equal stem pname)
-	    (record-original-from-stem stem pname))))
+	  (stem (if *stem-words-for-frequency-counts*
+		  (stem-form word) ;; in rules/tree-families/morphology1.lisp
+		  (word-pname word))))
       (case capitalization
 	(:digits *number-word*)
 	(otherwise
@@ -489,14 +631,18 @@
   (if (member :function-word (word-plist word))
     (if *include-function-words-in-frequency-counts*
       word
-      *function-word*)
+      (else (pushnew word *function-words-seen-in-run*)
+	    *function-word*))
     (ecase (pos-capitalization position)
       (:lower-case word) 
       (:punctuation
        (if *include-punctuation-in-frequency-counts*
          word
-	 *punctuation-word*))
+	 (else (pushnew word *punctuation-seen-in-run*)
+	       *punctuation-word*)))
       (:digits *number-word*)
+      ;;/// Need to include the number word (ordinals and cardinals)
+      ;; in this generalization
       ((or :initial-letter-capitalized
            :all-caps
            :mixed-case
@@ -504,35 +650,22 @@
        word ))))
 
 
-;; N.b. hasn't got the stemmer option in it
-(defun standard-wf-classification (word position)
-  (if (word-rules word)
-    (standard-wf-classification/known word position)
-    (ecase (pos-capitalization position)
-      (:lower-case word)  ;;//morph. ?
-      (:digits *number-word*)
-      ((or :initial-letter-capitalized
-           :all-caps
-           :mixed-case
-           :single-capitalized-letter)
-       *capitalized-word*))))
 
-(defun standard-wf-classification/known (word position)
-  (if (member :function-word (word-plist word))
-    *function-word*
-    (ecase (pos-capitalization position)
-      (:lower-case word) 
-      (:punctuation
-       *punctuation-word*)
-      (:digits *number-word*)
-      ((or :initial-letter-capitalized
-           :all-caps
-           :mixed-case
-           :single-capitalized-letter)
-       *capitalized-word*))))
+;;--- Porter Stemming
 
-
-;;--- Stemming
+#| Lifted from wf-classification/ignore-caps
+   when shifted to Sparser-internal stemmer
+    (let ((capitalization (pos-capitalization position))
+	  (stem (word-pname word))) ;; for default when not stemming
+      (when *stem-words-for-frequency-counts*
+	(let ((pname (word-pname word)))
+	  (unless (eq capitalization :lower-case)
+	    (setq pname (string-downcase pname)))
+	  (setq stem (apply-Porter-stemmer pname))
+	  ;;/// restore final "e" ?
+	  (unless (string-equal stem pname)
+	    (record-original-from-stem stem pname))))
+|#
 
 (defun apply-Porter-stemmer (lowercase-string)
   (user::stem lowercase-string))
@@ -566,55 +699,3 @@
 
 
 
-;;;-----------------------------------
-;;; specific drivers for biology text
-;;;-----------------------------------
-
-(defun write-bio-def-forms ()
-  (with-open-file 
-      (stream 
-       "/Users/ddm/ws/Vulcan/ws/frequencies/words-11-13.lisp"
-       :direction :output
-       :if-exists :overwrite
-       :if-does-not-exist :create)
-    (write-def-forms-for-all-words stream)))
-
-(defvar *bio-texts*
-  '("/Users/ddm/ws/nlp/corpus/Halar/extractedText/chapter11.txt"
-    "/Users/ddm/ws/nlp/corpus/Halar/extractedText/chapter12.txt"
-    "/Users/ddm/ws/nlp/corpus/Halar/extractedText/chapter13.txt"))
-
-(defun run-bio-frequency (&key stem? function-words?)
-  "The :stem? keyword determines the value of *stem-words-for-frequency-counts*,
-   which is T by default. If :function-words? is non-nil then all known function
-   words will be counted as individual words, otherwise they are counted as
-   instances of the pseudo-word *function-word*."
-  (word-frequency-setting)
-  (initialize-word-frequency-data)
-  (let ((*stem-words-for-frequency-counts* stem?)
-	(*include-function-words-in-frequency-counts* function-words?))
-    (declare (special *stem-words-for-frequency-counts*
-		      *include-function-words-in-frequency-counts*))
-    ;; (setq *include-punctuation-in-frequency-counts* nil)
-    (dolist (namestring *bio-texts*)
-      (f/wf namestring))))
-
-;;--- workspace
-#|
- (run-bio-frequency :stem? nil :function-words? t)
- (write-bio-def-forms)
- (word-frequency-setting)
- (initialize-word-frequency-data)
- (f/wf "/Users/ddm/ws/nlp/corpus/Halar/extractedText/chapter12.txt")
- (f/wf "/Users/ddm/ws/nlp/corpus/Halar/extractedText/chapter13.txt")
- (f/wf "/Users/ddm/ws/nlp/corpus/Halar/extractedText/AURA.txt")
- 
- (setq *stem-words-for-frequency-counts* nil)
- (setq *include-function-words-in-frequency-counts* nil)
- (setq *include-punctuation-in-frequency-counts* nil)
-
- (normalized-count (word-named "adjustment") (get-document 'chapter12))
- (gethash (word-named "cell") *word-frequency-table*)
- (setq c13 (get-document 'chap13))
- (unique-words c12 c13)
-|#

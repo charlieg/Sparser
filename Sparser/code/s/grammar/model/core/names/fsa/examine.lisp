@@ -165,7 +165,7 @@
 		   (if items
 		     (break "Capitalized sequence internal 'a'/'an' - what ~
                              do we do?")
-		     (return-from Examine-capitalized-sequence nil)))
+		     (return-from examine-capitalized-sequence nil)))
                   
                   (otherwise
                    (if (word-mentioned-in-rules? tt)
@@ -597,7 +597,7 @@
     (unless (and (individual-p item)
                  (eq (first (indiv-type item))
                      category::initial))
-      (return-from Some-non-initial-in-items t))))
+      (return-from some-non-initial-in-items t))))
 
 
 ;;;-------------

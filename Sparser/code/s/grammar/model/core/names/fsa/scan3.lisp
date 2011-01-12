@@ -57,7 +57,7 @@
            (catch :position-scan-terminates-PNF
              (scan-next-position))))
       (when (eq value-returned :end-the-scan)
-        (return-from Cap-seq-continues-from-here?
+        (return-from cap-seq-continues-from-here?
           position-before))))
   (tr :Cap-seq-looking-at position-before)
 

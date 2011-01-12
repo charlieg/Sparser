@@ -1,16 +1,41 @@
 ;;; -*- Mode: Lisp; Syntax: Common-lisp; -*-
 ;;; $Id$
 ;;; Copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2010 David D. McDonald  All Rights Reserved
 
 ;; /Mumble/derivation-trees/make.lisp
 
 (in-package :mumble)
 
 
-(defvar *the-derivation-tree* (make-instance 'derivation-tree)
-  "This is the scratch pad for the microplanner as it works out what to say.
-   For the moment (11/9/09 ddm) I'm thinking to just have one and reinitialize it.
-   This could be a bad idea")
+(defvar *the-derivation-tree* nil
+  "This is the scratch pad for the microplanner as it works out what to say.")
+
+(defun clear-derivation-tree-data ()
+  (setq *the-derivation-tree* nil))
+
+(defun initialize-derivation-tree-data (&key root) ;; participants too?
+  ;;/// name reflects probability of more info acruing to this
+  (setq *the-derivation-tree* (make-instance 'derivation-tree
+					     :root root))
+  (when root
+    (typecase root
+      (derivation-tree-node
+       (let ((unit (referent root)))
+	 (when unit
+	   (push unit (participants *the-derivation-tree*))))))))
+
+
+
+;;--- base case
+
+(defun make-derivation-tree-node (&key referent)
+  ;; hook for a resource
+  (let ((dtn (make-instance 'derivation-tree-node
+			    :referent referent)))
+    dtn))
+
+
 
 ;;---
 

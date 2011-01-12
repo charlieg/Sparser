@@ -70,7 +70,7 @@
      (defun construct-temporary-number (word digit-string lisp-number)
        ;; called from make-edge-over-unknown-digit-sequence when
        ;; *include-model-facilities* is true
-       (declare (ignore (word lisp-number)))
+       (declare (ignore word lisp-number))
        (parse-integer digit-string)))
 
    (unless *ha*

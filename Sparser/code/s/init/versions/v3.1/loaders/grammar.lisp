@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994-2000  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994-2000, 2010  David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;;
 ;;;      File:  "grammar"
 ;;;    Module:  "init;versions:v<>:loaders:"
-;;;   version:  June 2010
+;;;   version:  November 2010
 
 ;; broken out from loaders;master-loader 4/19/94. Added Whos-news-post-dossiers-loader
 ;;  4/29 added [words;whitespace assignments].  5/25 consolidated the
@@ -36,7 +36,10 @@
 ;; and also numbers-part-2. 9/6 conditionalized finance and amounts to *lattice-points*
 ;; 2/9/07 Added *SDM&P*. 7/27 moved collections ahead of amounts and numbers.
 ;; 10/5/09 Moved in [tree-families;correspondences] because it has to be after most
-;; if not all of the grammar has been loaded. 6/19/10 added Porter-stemmer
+;; if not all of the grammar has been loaded. 6/19/10 added Porter-stemmer.
+;; 11/12/10 Removed *poirot* since that code's being revamped and redistributed
+;; and we don't have rights to its source anyway. Added mumble-interface next to
+;; correspondences.
 
 (in-package :sparser)
 
@@ -71,6 +74,9 @@
     (gload "brackets;types")
     (gload "brackets;judgements1"))
     ;; the bracket definitions reference syntactic categories
+
+;  (when *CLOS* ;; same sort of impact as model-facilities
+;    (gload "kinds:upper-model"))
 
   (gload "words;loader1")
     ;; the function words make reference to bracket types
@@ -185,9 +191,6 @@
   (gate-grammar *checkpoint-ops*
     (gload "ckpt;loader"))
 
-  (gate-grammar *poirot*
-    (gload "poirot;loader"))
-
   (gate-grammar *disease*
     (gload "disease;loader"))
 
@@ -234,9 +237,11 @@
   ;; defined by the rest of the grammar -- they don't introduce
   ;; any new categories
 
-  (gate-grammar *tree-families*
-     (when (find-package :mumble)
-       (gload "tree-families;correspondences")))
+  (when (find-package :mumble)
+    (gate-grammar *tree-families*     
+       (gload "tree-families;correspondences"))
+    (gate-grammar *tree-families* *reversable*
+       (gload "mumble-interface;loader")))
 
   (gate-grammar *proper-names*
     (gload "names;loader-2d2"))

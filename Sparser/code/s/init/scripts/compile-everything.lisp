@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(CL-USER COMMON-LISP) -*-
-;;; copyright (c) 1991-1996  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1996, 2010  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
-;;; $Id: compile-everything.lisp 207 2009-06-18 20:59:16Z cgreenba $
+;;; $Id$
 ;;;
 ;;;      File:   "compile-everything"
 ;;;    Module:   "init;scripts:"
-;;;   version:   0.2 June 2007
+;;;   version:   0.3 November 2010
 
 ;; This file sets up the parameter settings to drive the loading
 ;; of the system in it's "copy all the files to a new directory" mode.
@@ -18,6 +18,7 @@
 ;;      it automatic. Removed explicit versioning in favor of the logical.
 ;;     (1/24/07) Incorporated current pathnames. (6/25) conditionalized the
 ;;      compiler directory.
+;; 0.3 (11/10/10) Cleaned up dead wood, updated one'ies
 
 (in-package :cl-user)
 
@@ -47,69 +48,38 @@
 
 (in-package :sparser)
 
-(defparameter cl-user::location-of-sparser-directory
-  (cond
-    ((probe-file "~/ws/nlp/Sparser") ;; ddm's BBN Intel Mac
-     "~/ws/nlp/Sparser/")
+(unless (boundp 'location-of-sparser-directory)
+  (defparameter cl-user::location-of-sparser-directory
+    (cond
+      ((probe-file "~/ws/nlp/Sparser") ;; ddm's Intel Mac
+       "~/ws/nlp/Sparser/")
 
-   ((probe-file "Book:David:")  ;; M&D's powerbook
-    (unless (boundp 'cl-user::location-of-root-directory)
-      (defparameter cl-user::location-of-root-directory "Book"))
-    (unless (boundp 'sparser::*monitor-size*)
-      (defparameter sparser::*monitor-size* :8-inch))
-    (unless (boundp 'cl-user::location-of-text-corpora)
-      (defparameter cl-user::location-of-text-corpora
-        "Book:David:Sparser:corpus:")
-      ;; on the assumption that we're actually making this
-      ;; load on the Zip drive rather than the Book (because
-      ;; the book has too little memory), then we set this
-      ;; flag so that it will wait on loading the files
-      ;; that define the corpus items until the image
-      ;; is launched on the book (see config;launch)
-      (defparameter sparser::*connect-to-the-corpus* nil))
-    (unless (boundp 'sparser::*known-machine*)
-      (defparameter sparser::*known-machine* :book))
-    "Book:David:Sparser:" )
+      #+allegro ;; what other lisps can do this?
+      ((member :allegro *features*)
+       (namestring
+	(merge-pathnames
+	 (make-pathname :directory 
+			;; Assumes we're loading this file directly
+			'(:relative :
+			  :up ;; scripts
+			  :up ;; init
+			  :up ;; s
+			  :up ;; code
+			  ))
+	 (make-pathname :directory (pathname-directory *load-truename*)))))
    
-   ((probe-file "Feda:")   ;; Br700
-    (unless (boundp 'cl-user::location-of-root-directory)
-      (defparameter cl-user::location-of-root-directory
-        "Feda:ddm:professional:archive"))
-    (setq *features* (push :full-corpus *features*))
-    (unless (boundp 'sparser::*monitor-size*)
-      (defparameter sparser::*monitor-size* :20-inch))
-    (unless (boundp 'cl-user::location-of-text-corpora)
-      (defparameter cl-user::location-of-text-corpora
-        (concatenate 'string string "corpus:")))
-    (unless (boundp 'sparser::*known-machine*)
-      (defparameter sparser::*known-machine* :br-700))
-    "ddm:stuff:Sparser:" )
-   
-   ((probe-file "Sparser:writing:")  ;; ddm's 8100
-    (unless (boundp 'cl-user::location-of-root-directory)
-      (defparameter cl-user::location-of-root-directory ""))
-    (setq *features*
-          (push :full-corpus *features*))
-    (unless (boundp 'sparser::*monitor-size*)
-      (defparameter sparser::*monitor-size* :20-inch))
-    (unless (boundp 'cl-user::location-of-text-corpora)
-      (defparameter cl-user::location-of-text-corpora "Corpora:"))
-    (unless (boundp 'sparser::*known-machine*)
-      (defparameter sparser::*known-machine* :ddm-8100))
-    "Sparser:" )
-
-   (t (break "None of the anticipated values for~%    ~
-              cl-user::location-of-sparser-directory~
-              match the layout on ~A.~
-              ~%Set the symbol to the appropriate value ~
-              and continue." (user-homedir-pathname)))))
+      (t (break "None of the anticipated values for~%    ~
+                cl-user::location-of-sparser-directory~
+                match the layout on ~A.~
+                ~%Set the symbol to the appropriate value ~
+                and continue." (user-homedir-pathname))))))
          
 
 (setq *load-verbose* t)
 
 (load #+:apple (concatenate 'string cl-user::location-of-sparser-directory
                    "code:s:init:versions:"
-                   "v3.1:"   ;;/////////////////////
+                   "v3.1:"
                    "loaders:lisp-switch-settings")
       #+:unix (concatenate 'string cl-user::location-of-sparser-directory
 			   "code/s/init/versions/"
@@ -120,17 +90,11 @@
 (load #+:apple (concatenate 'string
                    cl-user::location-of-sparser-directory
                    "code:s:init:"
-                   "everything"
-                   ;; "scripts:v2.3ag"
-                   ;; "BBN"
-                   )
+                   "everything" )
       #+:unix (concatenate 'string
                    cl-user::location-of-sparser-directory
                    "code/s/init/"
-                   "everything.lisp"
-                   ;; "scripts:v2.3ag"
-                   ;; "BBN"
-                   ))
+                   "everything.lisp" ))
 
 ;; #+:unix "/usr/users/guest/sparser/s/init/everything"
  
@@ -142,27 +106,33 @@
 (just-compile "init;Lisp:ddef-logical")
 (just-compile "init;Lisp:lload")
 
-(just-compile "init;scripts:Academic version")
-(just-compile "init;scripts:Apple loader")
+(just-compile "init;scripts:Academic-loader")
+(just-compile "init;scripts:Apple-loader")
+(just-compile "init;scripts:BBN-loader")
 (just-compile "init;scripts:BBN")
-(just-compile "init;scripts:compile everything")
-(just-compile "init;scripts:compile academic")
-(just-compile "init;scripts:copy everything")
-(just-compile "init;scripts:copy academic")
-(just-compile "init;scripts:just dm&p")
-(just-compile "init;scripts:no grammar")
+(just-compile "init;scripts:checkpoint-ops")
+(just-compile "init;scripts:compile-academic")
+(just-compile "init;scripts:compile-BBN")
+(just-compile "init;scripts:compile-everything")
+(just-compile "init;scripts:copy-everything")
+(just-compile "init;scripts:copy-academic")
+(just-compile "init;scripts:copy-BBN")
+(just-compile "init;scripts:copy-everything")
+(just-compile "init;scripts:fire")
+(just-compile "init;scripts:just-dm&p")
+(just-compile "init;scripts:no-grammar")
 (just-compile "init;scripts:SUN")
 (just-compile "init;scripts:v2.3a")    ;; standard
 (just-compile "init;scripts:v2.3ag")   ;; "academic grammar"
 (just-compile "init;scripts:v2.3g")    ;; (public) "grammar"
 
+(just-compile "version;loaders:grammar-modules")
 (just-compile "version;loaders:grammar")
-(just-compile "version;loaders:grammar modules")
 (just-compile "version;loaders:lisp-switch-settings")
 (just-compile "version;loaders:logicals")
 (just-compile "version;loaders:master-loader")
 (just-compile "version;loaders:model")
-(just-compile "version;loaders:save routine")
+(just-compile "version;loaders:save-routine")
 (just-compile "version;loaders:stubs")
 
 (just-compile "version;salutation")
@@ -173,32 +143,36 @@
 (just-compile "config;launch")
 (just-compile "config;load")
 
-(just-compile "grammar-configurations;academic grammar")
+(just-compile "grammar-configurations;academic-grammar")
 (just-compile "grammar-configurations;AssetNet")
 (just-compile "grammar-configurations;bbn")
-(just-compile "grammar-configurations;Debris analysis")
-(just-compile "grammar-configurations;full grammar")
-(just-compile "grammar-configurations;minimal dm&p grammar")
-(just-compile "grammar-configurations;partial grammar")
-(just-compile "grammar-configurations;public grammar")
+(just-compile "grammar-configurations;checkpoint-ops")
+(just-compile "grammar-configurations;Debris-analysis")
+(just-compile "grammar-configurations;fire")
+(just-compile "grammar-configurations;full-grammar")
+(just-compile "grammar-configurations;just-braccketing")
+(just-compile "grammar-configurations;minimal-dm&p-grammar")
+(just-compile "grammar-configurations;partial-grammar")
+(just-compile "grammar-configurations;public-grammar")
 (just-compile "grammar-configurations;SUN")
 
 (just-compile "images;do-the-save")
 
-;;(just-compile "init;workspaces:Apple")  -- references Lingsoft pkg
+;(just-compile "init;workspaces:checkpoint") -- reference only
 (just-compile "init;workspaces:Darwin")
 (just-compile "init;workspaces:dm&p")
+(just-compile "init;workspaces:ERN")
+;(just-compile "init;workspaces:fire") -- reference only
+(just-compile "init;workspaces:fpm")
 (just-compile "init;workspaces:generic")
 (just-compile "init;workspaces:Mari")
-(just-compile "init;workspaces:quarterly earnings")
-(just-compile "init;workspaces:Sandia")
-(just-compile "init;workspaces:SUN")
-(just-compile "init;workspaces:SUN1")
-(just-compile "init;workspaces:SUN2")
+;(just-compile "init;workspaces:poirot") -- reference only
+(just-compile "init;workspaces:med")
+(just-compile "init;workspaces:quarterly-earnings")
 (just-compile "init;workspaces:Switchboard")
-(just-compile "init;workspaces:text segments")
+(just-compile "init;workspaces:text-segments")
 (just-compile "init;workspaces:tipster")
-(just-compile "init;workspaces:Who's News")
+(just-compile "init;workspaces:Who's-News")
 (just-compile "init;workspaces:workbench")
 
 

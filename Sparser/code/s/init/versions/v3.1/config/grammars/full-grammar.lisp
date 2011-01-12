@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-2000  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2000, 2010  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -27,6 +27,7 @@
 ;; out *digits-fsa*. 11/23/00 added *kinds*. 2/9/07 added *SDM&P*. 7/16 added 
 ;; ambush. 8/8 added *semantics-of-WH-words*. 7/08 added *disease* and
 ;; *call-signs*. 6/09 added *checkpoint-ops*. 8/27/09 added *poirot*.
+;; 11/15/10 removed it, added *reversable*.
 
 
 (in-package :sparser)
@@ -208,6 +209,14 @@
 
 (include-grammar-module  *DM&P*)
 (include-grammar-module  *SDM&P*)
+
+
+;;;--------------------------------------
+;;; reversibility (connection to Mumble)
+;;;--------------------------------------
+
+(include-grammar-module  *reversable*)
+
 
 ;;;--------------
 ;;; sublanguages

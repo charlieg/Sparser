@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1997-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1997-2005, 2010 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -20,6 +20,8 @@
 ;;      and v+v structs so an early load will get everything. 
 ;; 1.0 (7/22/09) Substantial adjustments to move more information to the psi
 ;;      objects. (8/30) Added a subtype of v+v for the top category case.
+;; 1.1 (11/14/10) Revived the c+v & such of the top lp struct to sustain
+;;      realizations. Fixed conc-name bug in category+value.
 
 (in-package :sparser)
 
@@ -72,19 +74,19 @@
 
   subnodes ;; an alist by number of variables bound
 
-;  index-by-variable
+  index-by-variable
     ;; an alist by {category, variable} to all of the lattice points
     ;; that include a that variable. Used in maintaining unique
     ;; objects for each combination regardless of the order in which
     ;; the variables were bound. 
 
-;  c+v ;; alist of the c+v objects that have been created for this
+  c+v ;; alist of the c+v objects that have been created for this
       ;; category. This is the registry used for indexing them.
 
-;  v+v ;; an alist by variable used for indexing them (keeping them
+  v+v ;; an alist by variable used for indexing them (keeping them
       ;; unique).
 
-; indiv-uses ;; list of c+v recording where individuals of this category
+ indiv-uses ;; list of c+v recording where individuals of this category
        ;; have been deployed as the value of these types of
        ;; bindings. Usually these individuals will have been
        ;; pre-defined when the model dossiers were loaded since
@@ -180,7 +182,7 @@
 
 (defstruct (category+value
 	     (:include variable+value)
-	     (:conc-name "#:vv-")
+	     (:conc-name #:vv-)
 	     (:print-function print-category+value-structure))
   category
   )

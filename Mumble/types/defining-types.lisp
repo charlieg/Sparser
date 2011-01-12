@@ -3,13 +3,13 @@
 
 ;;;  MUMBLE-86:  types; defining-types
 
-;;; Copyright (C) 1989-1999 David D McDonald
+;;; Copyright (C) 1989-1999, 2010 David D McDonald
 ;;; Copyright (C) 1985, 1986, 1987, 1988  David D. McDonald
 ;;;   and the Mumble Development Group.  All rights
 ;;;   reserved. Permission is granted to use and copy
 ;;;   this file of the Mumble-86 system for
 ;;;   non-commercial purposes.
-;;; Copyright (c) 2006 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2006 BBNT Solutions LLC.
 
 (in-package :mumble)
 

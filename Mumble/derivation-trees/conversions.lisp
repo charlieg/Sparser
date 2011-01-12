@@ -1,11 +1,12 @@
 ;;; -*- Mode: Lisp; Syntax: Common-lisp; -*-
 ;;; $Id$
 ;;; Copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2010 David D. McDonald  All Rights Reserved
 
 ;; /Mumble/derivation-trees/conversions.lisp
 
 ;; Initated 10/6/09. First real code 10/23. Real code that runs 11/9 (sigh)
-;; Modified through 11/27
+;; Modified through 11/27. Completely redone 12/9/10
 
 (in-package :mumble)
 
@@ -14,16 +15,63 @@
  into an object in Mumble's domain suitable for passing to the 'say' method
  by using realization knowledge associated with the class."))
 
-(defmethod convert-to-derivation-tree (dummy-class (e sparser::edge))
-  (declare (ignore dummy-class))
-  (convert-to-derivation-tree (sparser::rpath-from-edge e)
-			      (sparser::edge-referent e)))
 
-(defmethod convert-to-derivation-tree ((prd sparser::phrasal-rdata)
-				       (i ltml::LTML-class))
-  (let ((rpath (sparser::rpath prd)))
-    (convert-to-derivation-tree rpath i)))
+;;---- RNodes
 
+(defmethod convert-to-derivation-tree ((rnode sparser::realization-node)
+				       (i sparser::individual))
+  "Called from realization-for. Has to return something that is suitable for
+   consumption by realize. Initializes the top DTN if this is the
+   first call."
+  ;; Spread the rnode's information to find the right thing to dispatch
+  ;; off of in order to get the correspondence
+  (let* ((dtn (make-derivation-tree-node :referent i))
+	 (schr (sparser::rn-cfr rnode))
+	 (relation (sparser::schr-relation schr))
+	 (descriptors (sparser::schr-descriptors schr))
+	 (etf (sparser::schr-tree-family schr)))
+    (cond
+      ;; single-word cases
+      ((sparser::defined-type-of-single-word relation)
+       (let* ((sp-word (sparser::bound-word i))
+	      (m-word (find-or-make-word sp-word)))
+	 m-word))
+      (t       
+       (push-debug `(,rnode ,i))
+       (break "Next case in convert-to-derivation-tree")))))
+#|
+    (if *the-derivation-tree*
+      (then 
+	(push-debug `(,dtn ,rnode ,i))
+	(break "Root DNT already initialized. Are we in the right place?"))
+      (initialize-derivation-tree-data :root dtn))
+    dtn) |#
+
+
+
+;;--- Helpers
+
+(defmethod find-or-make-word ((sw sparser::word))
+  ;; Need to carry over the data on irregulars, which will be tricky
+  ;; Could make inference from its brackets: 
+  ;;   (rs-phrase-boundary (rule-set-for sw))
+  ;;/// Ought to really fuse the two conceptions of the word object
+  ;;  Or at least make these at the time on the sparser side when
+  ;;  we have all the information right in our hand. 
+  (find-or-make-word (sparser::word-pname sw)))
+
+(defmethod find-or-make-word ((s string))
+  (or (word-for-string s)
+      (define-word/expr s '(noun))))
+
+
+
+
+
+;;------------ 12/8/10 unreconstructed below here
+
+
+#|
 (defmethod convert-to-derivation-tree ((rpath sparser::rpath) (i ltml::LTML-class))
   (let ((ordered-rnodes (sparser::ordered-list-of-rnodes rpath))
 	(dtn (make-instance 'derivation-tree-node
@@ -36,7 +84,7 @@
       ;; so if we trust that, we can just put things where the conventionally go
       ;; and not have to examine the path.
       (read-out-rnode rnode i dtn))
-    dtn))
+    dtn))  |#
 
 
 (defun read-out-rnode (rnode i dtn)
@@ -78,19 +126,5 @@
       dtn))
 
 
-
-;;;------------------------
-;;; mixed-package printers
-;;;------------------------
-
-(defun value-short-form (o)
-  (typecase o
-    (ltml:LTML-class (ltml:tag-to-symbol o))
-    (fixnum o)
-    (otherwise
-     (push-debug o)
-     (format t "~&unknown type for value-short-form: ~a~%  ~a"
-	     (type-of o) o)
-     "<printer bug>")))
 
 

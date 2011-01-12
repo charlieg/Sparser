@@ -38,14 +38,14 @@
     (unless (and name1 name2)
       ;; the caller, Sort-individuals-alphabetically, has tested
       ;; that i1 has a name, so these both can't come up nil
-      (return-from Sort-individuals-by-their-name
+      (return-from sort-individuals-by-their-name
         (cond (name1 t)
               (name2 nil))))
 
     (when (eq name1 name2)
       ;; wouldn't expect this to happen, but if we don't check for it
       ;; then the later stages will be harder to guarentee
-      (return-from Sort-individuals-by-their-name t))
+      (return-from sort-individuals-by-their-name t))
 
     (cond
      ((and (individual-p name1) (individual-p name2))
@@ -54,13 +54,13 @@
               (sequence2 (value-of 'sequence name2)))
           
           (unless (and sequence1 sequence2)
-            (return-from Sort-individuals-by-their-name
+            (return-from sort-individuals-by-their-name
               (cond (sequence1 t)
                     (sequence2 nil)
                     (t nil))))
           
           (when (eq sequence1 sequence2)
-            (return-from Sort-individuals-by-their-name t))
+            (return-from sort-individuals-by-their-name t))
           
           (let ((length1 (value-of 'number sequence1))
                 (length2 (value-of 'number sequence2)))

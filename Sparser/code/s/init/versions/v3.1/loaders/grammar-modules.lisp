@@ -1,11 +1,11 @@
 ;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-1999  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1999, 2010  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;      File:  "grammar modules"
 ;;;    Module:  "init;versions:v2.7:loaders:"
-;;;   version:  August 2009
+;;;   version:  November 2010
 
 ;; 12/4/92 pulled word options made irrelevant in master-loader
 ;; 5/11/93 added refinements in words and syntax
@@ -31,7 +31,8 @@
 ;; 9/21 added *internet*  12/26 added *ern*  7/21 added *nih*.
 ;; 10/17/97 broke out *digits-fsa*. 12/13/99 added *kinds*. 2/9/07 added
 ;; *SDM&P*. 7/16 Added set for ambush. 8/8 added *semantics-of-WH-words*
-;; 6/09 added *checkpoint-ops*. 8/27/09 added *poirot*.
+;; 6/09 added *checkpoint-ops*. 8/27/09 added *poirot*. 11/12/10 removed it,
+;; added *reversable*.
 
 (in-package :sparser)
 
@@ -436,10 +437,6 @@
     :name "Checkpoint Operations"
     :parent *sublanguages*)
 
-(define-grammar-module *poirot*
-    :name "Mobilization domain in Poirot. Includes Poirot's time ontology."
-    :parent *sublanguages*)
-
 
 
 (define-grammar-module *disease*  ;; for bird flu
@@ -581,6 +578,15 @@
                        :name "Strong Domain Mining"
                        :parent *other* )
 
+
+
+;;;--------------------------------------
+;;; reversibility (connection to Mumble)
+;;;--------------------------------------
+
+(define-grammar-module *reversable*
+                       :name "Reversing parsing results"
+		       :parent *other*)
 
 
 ;;;------------------------------------

@@ -52,7 +52,7 @@
     (if *break-on-unexpected-cases*
       (break "Assumption violated: Expected the 'acronym' to be a word.~
               ~%It's ~A~%" acronym)
-      (return-from Setup-acronym-as-name-for-company)))
+      (return-from setup-acronym-as-name-for-company)))
 
   (let ((alternative-name
          (make-company-name-as-simple-sequence (list acronym))))

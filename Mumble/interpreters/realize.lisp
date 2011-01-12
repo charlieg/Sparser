@@ -4,7 +4,7 @@
 ;;; MUMBLE-05:  interpreters> realization> realize
 
 ;;; Copyright (c) 2006-2009 BBNT Solutions LLC. All Rights Reserved
-;;; Copyright (C) 2005 David D. McDonald
+;;; Copyright (C) 2005, 2010 David D. McDonald
 ;;; Copyright (C) 1985, 1986, 1987, 1988  David D. McDonald
 ;;;   and the Mumble Development Group.  All rights
 ;;;   reserved. Permission is granted to use and copy
@@ -49,6 +49,7 @@
 	    (realize instantiation))
 	   (derivation-tree-node
 	    (realize-dtn instantiation))
+	   (word instantiation)
 	   ;(pronoun instantiation)
 	   (otherwise
 	    (push-debug `(,instantiation))
@@ -94,16 +95,18 @@
        (break "New/unexpected type of resource in DTN: ~a~%  ~a"
 	      (type-of resource) resource)))
 
-    (push-debug `(:realize-dtn ,root-node ,phrase-type))
-    ;(break "after dtn resource instantiated") ;; replace w/ landmark??
-    ;; Handle features and adjunctions
-    (case (name phrase-type)
-      (clause
-       (clausal-bundle-driver dtn root-node))
-      (np
-       (general-np-bundle-driver dtn root-node))
-      (otherwise 
-       (error "Unexpected name of phrase-type: ~a" (name phrase-type))))
+    (typecase resource
+      (phrase
+       (push-debug `(:realize-dtn ,root-node ,phrase-type))
+       ;;(break "after dtn resource instantiated") ;; replace w/ landmark??
+       ;; Handle features and adjunctions
+       (case (name phrase-type)
+	 (clause
+	  (clausal-bundle-driver dtn root-node))
+	 (np
+	  (general-np-bundle-driver dtn root-node))
+	 (otherwise 
+	  (error "Unexpected name of phrase-type: ~a" (name phrase-type))))))
 
     ;; Pass the node back to be knit-in.
     root-node))

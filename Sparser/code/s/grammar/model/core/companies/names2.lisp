@@ -231,7 +231,7 @@
           (when (null next-individual)
             (break "Could not find ~A~%in the company-name index list" i)
             (zero-out-individual sequence category::sequence)
-            (return-from Reclaim/company-name nil))
+            (return-from reclaim/company-name nil))
           (when (eq next-individual sequence)
             (rplacd prior-cell (cdr next-cell))
             (deallocate-kons next-cell)

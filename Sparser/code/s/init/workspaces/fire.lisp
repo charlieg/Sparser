@@ -1,30 +1,50 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER COMMON-LISP) -*-
-;;; Copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2007-2010 BBNT Solutions LLC.
+;;; Copyright (c) 2010 David D. McDonald
 ;;; $Id$
+;;;     File:  "workspace"
+;;;   Module:  fire;
+;;;  version:  November 2010
+
+;; Initiated June 2007. Extended on the dates within. Most recent first
+
+(in-package :sparser)
 
 ;; ---------- this file should -not- be loaded -----------------
 
           Fire -- "Free-text Information and Relation Extraction"
             name thanks to Alice Leung, 1/24/07
 
-;;;     File:  "workspace"
-;;;   Module:  fire;
-;;;  version:  July 2010
 
-;;  (load "~/ws/nlp/Sparser/code/s/init/scripts/fire.lisp")
+;; (load "/Users/ddm/ws/nlp/load-nlp.lisp") ;; for all-in-one
+
+(make-package :sparser :use  #+:unix  '(common-lisp))
+(setq sparser::*CLOS* t) ;; nil by default
+
+
+;; (load "~/ws/nlp/Sparser/code/s/init/scripts/fire.lisp")
 
 ;; brackets & sectioning only
 ;;  (load "~/ws/nlp/Sparser/code/s/init/scripts/no-grammar.lisp")
-
-;; Initiated June 2007.
-
-(in-package :sparser)
 
 cd ws/nlp/Sparser/code/s/
 grep XX **/*.lisp **/**/*.lisp **/**/**/*.lisp **/**/**/**/*.lisp **/**/**/**/**/*.lisp
 
 (just-bracketing-setting)
 (setq *readout-segments* t)
+
+;; 11/3/10
+(load-comlex)
+(diff-the-comlex-word-lists)
+( define-list-of-symbols-as-verbs
+
+
+;; 11/1/10
+(clear-treebank-tables)  *word-count*  *word-token-count*
+(harness "/Users/ddm/ws/nlp/corpus/treebank/10s.txt")
+(harness "/Users/ddm/ws/nlp/corpus/treebank/500s.txt")
+(harness "/Users/ddm/ws/nlp/corpus/treebank/wsj_02_to_21.mixed.withdates")
+(write-words-with-frequency-data "/Users/ddm/ws/Vulcan/ws/frequencies/words-treebank.lisp")
 
 ;; 6/10/10
 (load "/Users/ddm/ws/nlp/Sparser/code/s/tools/treebank-reader.lisp")
@@ -55,7 +75,7 @@ grep XX **/*.lisp **/**/*.lisp **/**/**/*.lisp **/**/**/**/*.lisp **/**/**/**/**
 
 ;; 3/4/10
 (top-edges-setting/ddm)   (fire-setting)
-(load "~/ws/nlp/Sparser/code/s/grammar/model/sl/biology/verb.lisp")
+(load "/Users/ddm/ws/nlp/Sparser/code/s/grammar/model/sl/biology/verbs.lisp")
 ;; Needs fix in a parenthesized exp with FSA running at both ends
 ;;   "(FIGURE 11.18)"
 (f "/Users/ddm/ws/nlp/corpus/Halar/Cambell excerpts/62-elaborate-pathways.lisp")

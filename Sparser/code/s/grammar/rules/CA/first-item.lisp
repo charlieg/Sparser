@@ -25,7 +25,7 @@
 
     (when (typep left-neighbor 'edge-vector)
       ;; none of the cases below would involve ambiguous words
-      (return-from First-item-in-article nil))
+      (return-from first-item-in-article nil))
     (left-neighbor-marks-start-of-article left-neighbor)))
 
 
