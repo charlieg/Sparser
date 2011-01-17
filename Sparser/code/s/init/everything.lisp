@@ -1,11 +1,11 @@
 ;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(CL-USER COMMON-LISP) -*-
-;;; copyright (c) 1989-2005, 2010  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1989-2005,2010-2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2006-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;      File:   "everything"
 ;;;    Module:   "init;"
-;;;   Version:   November 2010
+;;;   Version:   January 2011
 ;;;
 ;;;  This is the preloader.  Launching this file loads one or
 ;;;  another version of the entire system, as determined by the
@@ -68,7 +68,7 @@
 ;; the switches in final-session-setup, so relenting and defining *poirot-interface*
 ;; as a global. 9/1 added *external-referents*. 2/3/2010 added *use-SFL* and
 ;; cl-user::*bidirectional* to handle running Sparser on its own.
-;; 11/9/10 added *CLOS* parameter. 
+;; 11/9/10 added *CLOS* parameter. 1/12/11 Set its default to T. 
 
 (in-package :cl-user)
 
@@ -723,7 +723,7 @@ or for loading the newer of the compiled or source files.
      values from earlier parses were being retrieved for later ones."))
 
 (unless (boundp 'sparser::*CLOS*)
-  (defparameter sparser::*CLOS* nil
+  (defparameter sparser::*CLOS* t
     "If not nil, every category and individual is backed by the
      equivalent CLOS class and instance. Permits free use of type-
      specific compotional methods in referents."))
