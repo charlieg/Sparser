@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005, 2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "names"
 ;;;   Module:  "model;core:companies:"
@@ -19,6 +19,8 @@
 ;;     (8/12/08) Evicerated map-name-words-to-name because its parameter values
 ;;      and what it does don't make sense anymore. Perhaps it's a left over
 ;;      from the reworking of sequences.
+;;     (1/18/11) Making render-name-as-company-name actually change the variable
+;;      in the name because of changes to how variables are tied to categories.
 
 (in-package :sparser)
 
@@ -165,17 +167,23 @@
 (defun render-name-as-company-name (name)
   ;; called from define-alternate-names-for-company. Returns the
   ;; 'company-name' individual corresponding to this name individual
-  (ecase (cat-symbol (itype-of name))
+  (case (cat-symbol (itype-of name))
     (category::uncategorized-name
      (let ((sequence (value-of 'sequence name)))
        (setf (indiv-type name)  ;; retype the same object
              (list (category-named 'company-name)))
+       (swap-variable-in-binding
+	'name/s name :to 'sequence :in (category-named 'company-name))
        (index/company-name-from-sequence sequence)
        name ))
     ;(category::name-word
     ; (break "Stub: 1st case of a name-word to be converted to a ~
     ;         company name:~%   ~A~%" name))
-    (category::company-name name)))
+    (category::company-name name)
+    (otherwise
+     (push-debug `(,name))
+     (break "New case for render-name-as-company-name: ~a"
+	    (cat-symbol (itype-of name))))))
 
 
 
