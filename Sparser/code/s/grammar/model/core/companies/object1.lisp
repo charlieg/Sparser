@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005, 2010  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005, 2010-2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "model;core:names:companies:"
-;;;  version:  1.1 February 2005
+;;;  version:  1.1 January 2011
 
 ;; initiated 5/22/93 v2.3; changed index, added print routine 6/7. Broke that out
 ;; as its own file 11/23/94.  5/3/95 added Define-company. 5/22 tweeked
@@ -16,6 +16,8 @@
 ;;  so reverting to the older scheme. Handling fanout from sequences & psi.
 ;;  (2/14/05) Define-company wasn't cleaning up the chart after its runs.
 ;;  (12/14/10) Fixed capitalization problem (mlisp)
+;;  (1/17/11) Debugging sequence-from-company-name and friends. 1/18 Fixing how
+;;   an initially uncategorized name gets converted to a company name.
 
 (in-package :sparser)
 
@@ -46,12 +48,10 @@
 ;;;--------------------------------------------
 
 (defun define-company (full-name-as-string &key list-of-abbreviations)
-
   ;; This version is only to be used off-line when there is not
   ;; analysis underway since it uses the chart and will reclaim
   ;; any existing state and temporary individuals that were 
   ;; active at the time it is called. 
-
   (let ((*index-under-permanent-instances* t)
         company )
     
@@ -72,6 +72,7 @@
 
       (let ((name (edge-referent max-edge)))
         (unless (individual-p name)
+	  (push-debug `(,name))
           (break "The analysis of the string full name did not lead to ~
                   an object of type name:~%   ~A~%" name))
 
@@ -163,7 +164,7 @@
     ;; the referent will already be a company if the full name
     ;; included terms like 'inc'
     name )
-             
+
    ((itype name 'person)
     (define-company-given-name (value-of 'name name)))
              
@@ -173,8 +174,9 @@
     ;; It does an ecase on the valid set of categories so we
     ;; know that whatever sort of name this is, it's a
     ;; reasonable one.
-    (or (find/company-with-name name)
-        (make/company-with-name name)))
+    (let ((co-name (render-name-as-company-name name)))
+      (or (find/company-with-name co-name)
+	  (make/company-with-name co-name))))
    (t
     (break "The analysis of the string full name did not lead to ~
             an object of type name:~%   ~A~%" name))))
@@ -208,8 +210,6 @@
   (let ((new-company (define-individual 'company
                        :name name)))
     new-company ))
-
-
 
 
 (defun find/company-with-name (name)
@@ -262,6 +262,7 @@
                     (category::uncategorized-name 
                      (value-of 'name/s name)))))
     (unless sequence
+      (push-debug `(,name))
       (break "Inadequate set of cases for finding the sequence in the~
             ~%company name: ~A~%" name))
     sequence ))
