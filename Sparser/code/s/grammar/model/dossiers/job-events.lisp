@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005, 2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "job events"
 ;;;   Module:  "model;dossiers:"
-;;;  version:  0.2 October 2009
+;;;  version:  0.3 January 2011
 
 ;; initiated 6/15/93 v2.3 with "retire", "confirm", "succeed", and "remain".
 ;; 5/2/95 automatically entered "appoint", refining it by hand 5/28.
@@ -15,6 +15,9 @@
 ;;  in the additional-rules fields of earlier cases, and not immediately sure
 ;;  of the fix, so commenting those out.
 ;; 0.2 10/9/09 Need to correct for drifts in the ETF
+;; 0.3 1/14/11 Starting process of exposing the as-title extensions blocked
+;;  in 2005. 1/18 made all the categories uniformly lowercase
+;;  [[ Also extending notation to mark name->person ]]
 
 (in-package :sparser)
 
@@ -43,10 +46,10 @@
 
                 :main-verb "retire"
 
-                #|:additional-rules
+                :additional-rules
                   ((:pp-adjunct (s (s as-title)
                                  :head left-referent
-                                 :binds (position  right-referent))))|#
+                                 :binds (position  right-referent))))
                   ))
 
 
@@ -71,13 +74,14 @@
 
                 :main-verb "resign"
 
-                #|:additional-rules
+                :additional-rules
                   ((:pp-adjunct (s (s as-title)
                                  :head left-referent
-                                 :binds (position  right-referent))))|#
-                  ))
-
-
+                                 :binds (position  right-referent)))
+		   (:pp-adjunct (s (s position-at-co)
+                                 :head left-referent
+                                 :binds (position  right-referent))))
+		  ))
 
 ;;;-------------
 ;;; transitives
@@ -108,13 +112,13 @@
 
                 :main-verb "confirm"
 
-                #|:additional-rules
+                :additional-rules
                   ((:pp-adjunct (s (s as-title)
                                  :head left-referent
                                  :binds (position right-referent)))
                    (:pp-adjunct (s (s in-post)
                                  :head left-referent
-                                 :binds (position right-referent))))|#
+                                 :binds (position right-referent))))
                   ))
 
 
@@ -177,7 +181,7 @@
 
 ;;--- "appoint"
 
-(define-category  Appoint-to-position
+(define-category  appoint-to-position
   :instantiates job-event
   :specializes  get-position
 
@@ -209,7 +213,7 @@
 
 ;;--- "name"
 
-(define-category  Name-to-position
+(define-category  name-to-position
   :instantiates job-event
   :specializes  get-position
 
@@ -241,7 +245,7 @@
 
 ;;--- "join"
 
-(define-category  Join-company
+(define-category  join-company
   :instantiates job-event
   :specializes  get-position
 
