@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2005, 2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;;
@@ -29,6 +29,9 @@
 ;;     (8/5/00) Rewrote value/var to handle the typecase within value-of.
 ;;     (2/2/05) Fixed format dumb-o in bound-in
 ;; 2.0 (7/14/09) Fan-out from new way of indexing variables because they're now lexical
+;; 2.1 (1/18/11) Changed value-of to have an optional category argument to overrule 
+;;      the category inferred from the individual. If the variable doesn't exist
+;;      when the category is specified then we signal an error.
 
 (in-package :sparser)
 
@@ -46,28 +49,34 @@
 ;;; operations over bindings and individuals with them
 ;;;----------------------------------------------------
 
-(defun value-of (var-name individual)
+(defun value-of (var-name individual &optional specified-category)
   ;; convenient version for using in code since the variable
   ;; is dereferenced from its name here inside the routine
   (typecase individual
     ((or individual psi)
-     (let* ((category (etypecase individual
-			(psi
-			 (category-of-psi individual))
-			(individual
-			 (first (indiv-type individual)))))
+     (let* ((category (or specified-category
+			  (etypecase individual
+			    (psi
+			     (category-of-psi individual))
+			    (individual
+			     (first (indiv-type individual))))))
 	    (variable
 	     (or (when (lambda-variable-p var-name)
 		   var-name)
 		 (find-variable-in-category var-name category))))
-       (when variable
-	 ;; There's nothing to keep you from asking for a variable
-	 ;; that isn't associated with the category
-	 (when (and (listp variable)
-		    (eq (car variable) :different-value-restrictions))
-	   (setq variable
-		 (find-variable-for-category var-name category)))
-	 (value/var variable individual))))
+       (if variable
+	 (then
+	   (when (and (listp variable)
+		      (eq (car variable) :different-value-restrictions))
+	     (setq variable
+		   (find-variable-for-category var-name category)))
+	   (value/var variable individual))
+	 (when specified-category
+	   ;; You should be asking for a variable that is associated
+	   ;; with the category, otherwise you're confused.
+	   (push-debug `(,var-name ,individual ,category))
+	   (error "Cannot find a variable named ~a~%that is associated ~
+                   with the individual ~a" var-name individual)))))
 
     (referential-category
      (let ((category individual))
@@ -76,6 +85,7 @@
            (value-of/binding var-name bindings category)))))
 
     (otherwise
+     (push-debug `(,var-name ,individual))
      (break "Object passed in as 'individual' parameter is of~
            ~%unexpected type: ~a~%~a" (type-of individual) individual))))
 
