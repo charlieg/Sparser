@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-1995,  2010 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1995, 2010-2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -18,6 +18,7 @@
 ;;   a 'real' one that's associated with a category at runtime, i.e. when
 ;;   rules are executed. (12/14/10) method-ized find-variable-in-category
 ;;   to handle lattice points as the value of the type field.
+;;   (1/18/11) Wrote swap-variable-in-binding.
 
 
 (in-package :sparser)
@@ -110,3 +111,42 @@
 	(error "There is no variable named ~a~%in the category ~a"
 	       name c))
       variable)))
+
+
+;;;-------------------------------------------
+;;; Juggling around the variables in bindings
+;;;-------------------------------------------
+
+;; Sometimes a rule uses a variable that is descriptive given what it
+;; knows at the time, but later we know more about the object and
+;; want to change our original characterization while keeping the
+;; other parts the same. 
+
+(defun swap-variable-in-binding (variable-symbol individual
+				 &key to in)
+  ;; Locate a binding in the individual whose pname is the symbol.
+  ;; Change that variable to the one named by the 'to' keyword
+  ;; taken from the 'in' category.
+  (let ((bindings (indiv-binds individual)))
+    (unless bindings (error "~a expected to have bindings" individual))
+    (let ((b (find variable-symbol bindings :test #'eq
+		   :key #'(lambda (binding)
+			    (let ((v (binding-variable binding)))
+			      (var-name v))))))
+      (unless b
+	(push-debug `(,bindings ,variable-symbol ,individual))
+	(error "No variable with the name ~a~%among the bindings of ~a"
+	       variable-symbol individual))
+      (cond
+	((and to in)
+	 (let ((var (find-variable-in-category to in)))
+	   (unless var
+	     (push-debug `(,to ,in))
+	     (error "There is no variable named ~a in the category ~a"
+		    to in))
+	   (setf (binding-variable b) var)
+	   b))
+	(t ;; placeholder for other kinds of modifications 
+	   ;; indicated by different patterns of keywords
+	 (error "No :to and or :in specified"))))))
+
