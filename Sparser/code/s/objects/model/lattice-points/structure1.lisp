@@ -5,7 +5,7 @@
 ;;;
 ;;;     File:  "structure"
 ;;;   Module:  "objects;model:lattice-points:"
-;;;  version:  1.0 August 2009
+;;;  version:  1.2 January 2011
 
 ;; initiated 11/29/97
 ;; 0.1 (2/24/98) Started reworking the initial sketch to fit all the 
@@ -22,6 +22,7 @@
 ;;      objects. (8/30) Added a subtype of v+v for the top category case.
 ;; 1.1 (11/14/10) Revived the c+v & such of the top lp struct to sustain
 ;;      realizations. Fixed conc-name bug in category+value.
+;; 1.2 (1/25/11) Removed need to check against core-omar.
 
 (in-package :sparser)
 
@@ -146,19 +147,17 @@
 
   )
 
-(when (find-package :core-omar)
 
-  (co:defobject rnode ()
-    ((lattice-point) ;; or something like it. It's a backpoint as much as anything
-     (rule-used)      ;; suitable for inverting to nlg
-     (variable-bound) ;; for extracting the right thing from the source
-     ))
+(defobject rnode ()
+  ((lattice-point) ;; or something like it. It's a backpoint as much as anything
+   (rule-used)      ;; suitable for inverting to nlg
+   (variable-bound) ;; for extracting the right thing from the source
+   ))
   
-  (co:defobject rpath () ;; a 'strand' if we pick it out of a real annotated lattice
-    ((category) ;; what kind of thing does this realize
-     (ordered-list-of-rnodes) ;; from bottom to top
-     ))
-)
+(defobject rpath () ;; a 'strand' if we pick it out of a real annotated lattice
+  ((category) ;; what kind of thing does this realize
+   (ordered-list-of-rnodes) ;; from bottom to top
+   ))
 
 
 
