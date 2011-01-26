@@ -1,7 +1,6 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(CL-USER COMMON-LISP) -*-
-;;; copyright (c) 1991-1996  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1996, 2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2010 BBNT Solutions LLC. All Rights Reserved
-;;; $Id: no-grammar.lisp 354 2010-03-15 13:47:53Z dmcdonal $
 ;;;
 ;;;      File:   "no grammar"
 ;;;    Module:   "init;scripts:"
@@ -15,6 +14,8 @@
 
 ;; Initiated 11/92. 6/19/96 updated the package references.
 ;; 2/14/10 Unpdated pathname for use with truename
+;; 1/13/11 Modified it to just look for *load-truename* rather than presuming
+;;  ACL. Switch settings to let it work with Clozure.
 
 (in-package :cl-user)
 
@@ -25,11 +26,11 @@
 (unless (boundp 'location-of-sparser-directory)
   (defparameter location-of-sparser-directory
     (cond
-      ((member :allegro *features*)
+      ((pathnamep *load-truename*) ;;(member :allegro *features*)
        (namestring
 	(merge-pathnames
 	 (make-pathname :directory 
-			'(:relative :
+			'(:relative
 			  :up ;; scripts
 			  :up ;; init
 			  :up ;; s
@@ -37,7 +38,7 @@
 			  ))
 	 (make-pathname :directory (pathname-directory *load-truename*)))))
       (t
-       (break "Not running under Allegro Common Lisp. ~
+       (break "The system global *load-truename* doesn't point to a pathname. ~
               ~%Can't construct relative pathname to location of Sparser~
               ~%You'll have to set the value of ~
               ~%        cl-user::location-of-sparser-directory~
@@ -51,7 +52,8 @@
 (or (find-package :sparser)
     (make-package :sparser
                   :use #+:apple '(ccl common-lisp)
-                       #+:unix  '(common-lisp)
+                       #+:openmcl '(ccl common-lisp)
+                       #+(and :unix (not :openmcl)) '(common-lisp)
                        ))
 
 
