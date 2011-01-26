@@ -1,15 +1,16 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
 ;;; copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
-;;; Copyright (c) 2010 David D. McDonald  All Rights Reserved
+;;; Copyright (c) 2010-2011 David D. McDonald  All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "correspondences"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  0.1 December 2010
+;;;  version:  0.2 January 2011
 
 ;; initiated 10/5/09. Expanded 11/10. 
 ;; (12/9/10) Reworking most of this to bring it in sync what what rnodes
-;;  encode. 
+;;  encode.
+;; 0.2 (1/25/11) Removed need to check against core-omar.
 
 (in-package :sparser)
 
@@ -30,28 +31,24 @@
 
 ;;;-------
 ;;; types
-;;;-------
+;;;------
 
-(when (find-package :core-omar)
+(defobject bidir-mapping () ;; useful superc?
+  ((sparser-resource)
+   (mumble-resource)))
 
-  (co:defobject bidir-mapping () ;; useful superc?
-    ((sparser-resource)
-     (mumble-resource)))
+(defvar *sparser-to-mumble* (make-hash-table) ;; how big?
+  "Given a sparser object, returns its sparser-to-mumble-mapping")
 
-  (defvar *sparser-to-mumble* (make-hash-table) ;; how big?
-    "Given a sparser object, returns its sparser-to-mumble-mapping")
+(defun set-bidir-mapping (sparser-item mumble-item)
+  (let ((bidir (make-instance 'bidir-mapping
+                              :sparser-resource sparser-item
+                              :mumble-resource mumble-item)))
+    (setf (gethash sparser-item *sparser-to-mumble*) bidir)
+    bidir))
 
-  (defun set-bidir-mapping (sparser-item mumble-item)
-    (let ((bidir (make-instance 'bidir-mapping
-		   :sparser-resource sparser-item
-		   :mumble-resource mumble-item)))
-      (setf (gethash sparser-item *sparser-to-mumble*) bidir)
-      bidir))
-
-  (defun get-mumble-side-of-bidir (sparser-item)
-    (gethash sparser-item *sparser-to-mumble*))
-
-)
+(defun get-mumble-side-of-bidir (sparser-item)
+  (gethash sparser-item *sparser-to-mumble*))
 
 
 
