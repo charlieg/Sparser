@@ -40,7 +40,9 @@
 (defun routine-to-compile-file (source-namestring fasl-namestring)
   (declare (ignore fasl-namestring))
   (compile-file
-   source-namestring))
+   source-namestring
+   :output-file fasl-namestring)
+  )
 
 #+:allegro (proclaim '(optimize 
 		       (safety 1)
