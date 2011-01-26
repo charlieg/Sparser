@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992,1993,1994,1995  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1995, 2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;      File:   "duplicates"
 ;;;    Module:   "objects;rules:cfr:"
-;;;   Version:   0.5 October 1995
+;;;   Version:   0.6 January 2011
 
 ;; broken out from [define] 9/6/92 v2.3
 ;; 0.1 (11/1) fixed polarity of dotted rules can be duplicated.
@@ -15,6 +15,7 @@
 ;; 0.6 (10/25) renamed the dotted dup. flag to be clearer, changed the rules in
 ;;      when a dotted rule can be made when not in 'all-edges' mode, put in 
 ;;      more documentation 
+;;     (1/19/11) Added flag to break when illegal duplicates have been found
 
 (in-package :sparser)
 
@@ -37,6 +38,11 @@
      and in that case take the dotted rule as the analysis of
      the prefix in preference to the binary rule.
      Standard case: 'chief executive' and 'chief executive officer'" ))
+
+(unless (boundp '*break-on-illegal-duplicate-rules*)
+  (defparameter *break-on-illegal-duplicate-rules* nil
+    "Faciliate debugging and clean up by stopping the load / rule-execution 
+     when an illegal duplicate has been found."))
 
 
 ;;;-------------------
@@ -94,7 +100,11 @@
             (duplication-msg existing-cfr rhs)))
 
          (t
-          (duplication-msg existing-cfr lhs))))
+          (duplication-msg existing-cfr lhs)
+	  (when (and *break-on-illegal-duplicate-rules*
+		     (y-or-n-p "Stop and look at the situation?"))
+	    (push-debug `(,existing-cfr ,lhs ,rhs ,form ,referent ,source))
+	    (break "")))))
 
 
 
