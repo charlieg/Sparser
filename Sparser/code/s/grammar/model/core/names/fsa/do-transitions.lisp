@@ -138,7 +138,7 @@
     
     ;; now we have to establish the referent
     (let ((referent
-           (establish-referent-of-PN
+           (establish-referent-of-pn
             final-state
             category
             basis-of-judgement

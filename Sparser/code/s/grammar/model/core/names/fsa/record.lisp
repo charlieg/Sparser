@@ -16,7 +16,7 @@
 ;;; standard case: multi-word, known-categorization
 ;;;-------------------------------------------------
 
-(defun establish-referent-of-PN (final-state
+(defun establish-referent-of-pn (final-state
                                  category
                                  basis-of-judgement
                                  item-list )
