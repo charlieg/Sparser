@@ -78,7 +78,7 @@
 
     (dolist (name list-of-names)
       (setq referent
-            (establish-referent-of-PN (itype-of name) name))
+            (establish-referent-of-pn (itype-of name) name))
       (when (consp referent)
         ;; The cons was made by Establish-referent-of-PN to record
         ;; what category it established when it succeeded in dereferencing
