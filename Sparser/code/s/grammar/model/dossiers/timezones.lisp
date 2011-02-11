@@ -32,7 +32,7 @@
 
 (def-timezone "MT")
 (def-timezone "MST")
-(def-timezone "MDT")
+;;(def-timezone "MDT") ;; conflicts with Medtronic stock symbol
 
 (def-timezone "CT")  ;; may need context-sensitive rule to disambiguate Connecticut
 (def-timezone "CST")
