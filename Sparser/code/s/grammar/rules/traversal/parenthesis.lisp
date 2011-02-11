@@ -34,55 +34,56 @@
 (set-traversal-action  word::open-paren  'mark-open-paren)
 (set-traversal-action  word::close-paren 'span-parentheses)
 
-
 (defparameter *pending-open-paren-stack* nil)
 
 (defun mark-open-paren (start-pos end-pos)
   (declare (ignore end-pos))
-  (if *position-of-pending-open-paren*
-    ;; Then we're already inside an open parenthesis
-    (then (break "double parens")
-      (push *position-of-pending-open-paren*
-            *pending-open-paren-stack*)
-      (setq *position-of-pending-open-paren* start-pos))
-    (else
-      (tr :open-paren-seen start-pos)
-      (setq *position-of-pending-open-paren* start-pos))))
+  (unless *ignore-parentheses*
+    (if *position-of-pending-open-paren*
+	;; Then we're already inside an open parenthesis
+	(then (break "double parens")
+	      (push *position-of-pending-open-paren*
+		    *pending-open-paren-stack*)
+	      (setq *position-of-pending-open-paren* start-pos))
+      (else
+       (tr :open-paren-seen start-pos)
+       (setq *position-of-pending-open-paren* start-pos)))))
 
 
 
 (defun span-parentheses (start-pos end-pos)
-  (tr :close-paren-seen start-pos)
-
-  (let ((open-pos *position-of-pending-open-paren*))
-
-    (setq *position-of-pending-open-paren*
-          (if *pending-open-paren-stack*
-            (pop *pending-open-paren-stack*)
-            nil))
-
-    (unless open-pos
-      ;(if *break-on-pattern-outside-coverage?*
-      ;  (break/debug "Can't find matching open paren")
-      ;  (else
-      (tr :matching-open-paren-not-found)
-      (return-from span-parentheses nil))
-
-    (tr :matching-open-is-at open-pos)
-
-    (do-paired-punctuation-interior :parentheses
-                                    open-pos
-                                    (chart-position-after open-pos)
-                                    start-pos
-                                    end-pos)
-
-    (let ((edge (top-edge-starting-at open-pos)))
-      ;; this will be the edge produced by the paired-punct hook
-
-      (edge-interaction-with-quiescence-check edge)
-
-      (tr :parenthesis-edge edge)
-      edge )))
+  (unless *ignore-parentheses*
+    (tr :close-paren-seen start-pos)
+    
+    (let ((open-pos *position-of-pending-open-paren*))
+      
+      (setq *position-of-pending-open-paren*
+	    (if *pending-open-paren-stack*
+		(pop *pending-open-paren-stack*)
+	      nil))
+      
+      (unless open-pos
+	;(if *break-on-pattern-outside-coverage?*
+	;  (break/debug "Can't find matching open paren")
+	;  (else
+	(tr :matching-open-paren-not-found)
+	(return-from span-parentheses nil))
+      
+      (tr :matching-open-is-at open-pos)
+      
+      (do-paired-punctuation-interior :parentheses
+				      open-pos
+				      (chart-position-after open-pos)
+				      start-pos
+				      end-pos)
+      
+      (let ((edge (top-edge-starting-at open-pos)))
+	;; this will be the edge produced by the paired-punct hook
+	
+	(edge-interaction-with-quiescence-check edge)
+	
+	(tr :parenthesis-edge edge)
+	edge ))))
 
 
 

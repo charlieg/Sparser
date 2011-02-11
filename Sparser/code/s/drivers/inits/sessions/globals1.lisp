@@ -169,6 +169,19 @@
    about them. Setting the flag to nil lets us write sublangauge-style
    rules so they are in place when we do want themm.")
 
+(defparameter *ignore-parentheses* nil
+  "Flag examined prior to setting hooks for mark-open-paren and
+   span-parentheses. Setting the flag to t prevents default parsing of
+   parenthetical expressions.")
+
+(defparameter *timezones-off* nil
+  "Flag examined prior to setting hooks for mark-open-paren and
+   span-parentheses. Setting the flag to t prevents default parsing of
+   parenthetical expressions.")
+
+(defparameter *cfg-flag* nil
+  "For debugging.")
+
 
 ;;;-----------------------------------
 ;;; semantic, bi-directional analysis

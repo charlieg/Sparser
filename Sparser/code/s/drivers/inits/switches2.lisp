@@ -360,6 +360,11 @@
   (standard-bbn-settings)
   (setq *switch-setting* :top-edges/bbn
         *current-analysis-mode* :no-dm&p))
+
+(defun cfg-setting ()
+  (setq *ignore-parentheses* t)
+  (setq *timezones-off* t)
+  (setq *cfg-flag* t))
   
 
 ;;--- Measuring word frequencies

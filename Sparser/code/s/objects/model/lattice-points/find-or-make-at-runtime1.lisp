@@ -75,7 +75,8 @@
                  (find-lattice-point-with-variables1
                   (cons variable variables-bound)
                   (lp-top-lp starting-lattice-point))))
-      (break "find-or-make-next-lp-down-for-variable - target-lp ?")
+      (unless *cfg-flag*
+	(break "find-or-make-next-lp-down-for-variable - target-lp ?"))
       ;; We've found another way into this node, so we add another uplink.
 ;      (push starting-lattice-point
 ;            (lp-upward-pointers target-lp))

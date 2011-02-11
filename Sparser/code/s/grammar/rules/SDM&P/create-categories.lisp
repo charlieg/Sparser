@@ -38,8 +38,9 @@
 	(category::ends-in-s) (category::ends-in-ing) (category::ends-in-ed)
           ;; categories giving morphological properties
 	(otherwise
-	 (break "New case of form category of edge over segment head: ~a"
-		(edge-form edge)))))))
+	 (unless *cfg-flag*
+	   (break "New case of form category of edge over segment head: ~a"
+		(edge-form edge))))))))
 
 (defun elevate-segment-edge-form-if-needed (edge)
   (let* ((form-category (edge-form edge))
@@ -59,8 +60,9 @@
 	 (setf (edge-form edge) (category-named 'vg)))
 	(category::adjunct)
 	(otherwise
-	 (break "New case of form category of edge over segment: ~a"
-		(edge-form edge)))))))
+	 (unless *cfg-flag*
+	   (break "New case of form category of edge over segment: ~a"
+		  (edge-form edge))))))))
 
 
 (defun reify-segment-head-if-needed ()
