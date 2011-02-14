@@ -52,6 +52,7 @@
 ;;      (11/13/08) Encountered "Bernard/Orleans" which ran into a break about whether
 ;;       to push the word onto the item list. Added a (unused) flag 'slash' to record
 ;;       this so we could potentially split it up again given evidence for it.
+;;       (2/14/11) "Business Factory" was causing a parser design-limit reached error, with an infinite loop in examine-capitalized-sequence, so I added a line to walk through multiple-treetops properly to fix it. - cfg
 
 (in-package :sparser)
 
@@ -373,7 +374,8 @@
                     (edge (pos-edge-ends-at tt))
                     (word (chart-position-after position)))))
           
-          (setq position next-position))
+          (setq position next-position)
+          (setq multiple-treetops (cdr multiple-treetops)))
         
         
         (when items
