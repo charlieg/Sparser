@@ -1,23 +1,26 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
 ;;; copyright (c) 1990,1991  Content Technologies Inc.
-;;; copyright (c) 1992-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005, 2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;      File:  "alists"
 ;;;    Module:   "tools:basics:syntactic sugar"
-;;;   Version:   1.0 January 2007
+;;;   Version:   1.0 February 2011
 
 ;; 1.0 January 1991
 ;; (2/8/05) Added plist-to-alist and alist-to-plist.
 ;; (1/9/07) Added assq for Allegro's benefit
 ;; (7/3) Added variant on member & assoc that can handle the mixed lists
-;;  that appear in rule referents
+;;  that appear in rule referents. 
+;; (2/8/11) Conditionalized it to Allegro so would load w/o complaint in Clozure.
 
 (in-package :sparser)
 
+#+allegro ;; already present in Clozure
 (defun assq (item alist)
   (assoc item alist :test #'eq))
+#+ccl (import '(ccl:assq) (find-package :sparser))
 
 (defun memq/assq (item alist)
   ;; Scans the toplevel of the list, acting like alist when it sees

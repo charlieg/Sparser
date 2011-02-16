@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2005, 2011 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "printers"
 ;;;   Module:  "objects;model:individuals:"
-;;;  version:  0.4 January 2011
+;;;  version:  0.5 February 2011
 
 ;; initiated 7/16/92 v2.3, 9/3 added Princ-individual
 ;; (5/26/93) added Print-individual-with-name
@@ -24,6 +24,8 @@
 ;;     routine.
 ;;     (1/11/11) Fixed call to field of operations when the category didn't
 ;;     have any because it was made by DM&P and that detail forgotten.
+;; 0.5 (2/8/11) 'name-of' is predefined in Clozure, so changing it to 
+;;     name-of-individual. 
 
 (in-package :sparser)
 
@@ -86,7 +88,7 @@
 (defun has-a-name? (i)
   (binds i 'name))
 
-(defun name-of (i)
+(defun name-of-individual (i)
   (let ((b (has-a-name? i)))
     (when b
       (let* ((value (binding-value b))
@@ -102,7 +104,7 @@
 
   (write-string "#<" stream)
 
-  (let* ((name (name-of i))
+  (let* ((name (name-of-individual i))
          (word-binding
           (unless name
             (find 'word (indiv-binds i)

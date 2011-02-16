@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1999  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1999,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "model;core:kinds:"
-;;;  version:  May 2009
+;;;  version:  0.1 February 2011
 
 ;; initiated on 12/13/99. Debugged 12/26. 2/11/07 Added rule definition.
 ;; 8/2 revised to instantiated the symbol, which means you get rules like
@@ -16,6 +16,11 @@
 ;;      is already a category corresponding to the 'unknown' work. Motivated
 ;;      by "city".  4/13/09 Added 'individual', but it probably doesn't belong
 ;;      here. 5/20 added 'modifier' slot to it.
+;;     (2/9/11) Upcased the string in find-or-define-kind for creating
+;;      the category when not loading under Allegro, i.e. Clozure makes a mixed
+;;      case symbol for the category if we take the same string as we want
+;;      to use for the word, and that won't meet references to the category
+;;      via symbols.
 
 (in-package :sparser)
 
@@ -48,22 +53,24 @@
   ;; Returns the category and a rule that will recognize it going forward
   ;; that we use for the edge that the reify routine  is going to make.
   ;;
-  (let* ((symbol (intern string
-			 (find-package :sparser)))
-	 (word (define-word string))
-	 (category (category-named symbol))
-	 (new? (null category)))
+  (let* ((string-for-category #+allegro string
+                              #-allegro (string-upcase string))
+         (symbol (intern string-for-category
+                         (find-package :sparser)))
+         (word (define-word string))
+         (category (category-named symbol))
+         (new? (null category)))
     (when new?
       ;; should check if the word is plural, otherwise the automatically
       ;; created noun won't be as general as it should be.
       ;; "asparagus" and "water" would be good examples of the wrong
       ;; thing happening for other reasons.
       (let ((expr `(define-category ,symbol
-		     :specializes kind
-		     :instantiates ,symbol
-		     :bindings (name ,word) ;; n.b. it's a plist
-		     :realization (:common-noun ,string))))
-	(setq category (eval expr))))
+                     :specializes kind
+                     :instantiates ,symbol
+                     :bindings (name ,word) ;; n.b. it's a plist
+                     :realization (:common-noun ,string))))
+        (setq category (eval expr))))
     
     (let ((rule
 	   (if (not new?)

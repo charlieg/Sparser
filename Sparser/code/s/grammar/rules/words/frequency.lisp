@@ -668,7 +668,7 @@
 |#
 
 (defun apply-Porter-stemmer (lowercase-string)
-  (user::stem lowercase-string))
+  (cl-user::stem lowercase-string))
 
 (defvar *stems-to-original-word-string* (make-hash-table))
 

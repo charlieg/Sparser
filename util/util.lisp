@@ -536,6 +536,26 @@
                (t (break-up-at0 delimeter-chars string m (1+ n) nmax polarity)))))))
 
 
+
+;;;----------
+;;; from SFL
+;;;----------
+
+(defmacro defobject (name supers slots &rest options)
+  "Like DEFCLASS but automatically defines initarg and accessor
+   for each slot.  Slots have the form (name value . options)."
+  `(defclass ,name
+	  ,supers
+	,(map 'list #'(lambda (s)
+			(let ((name (first s))
+			      (value (second s)))
+			  `(,name :initform ,value
+			    :initarg ,(intern (string name) :keyword)
+			    :accessor ,name ., (cddr s))))
+	      slots)
+	. ,options))
+
+
 ;;;---------------------
 ;;; old Lispm functions
 ;;;---------------------
@@ -832,5 +852,7 @@ tries to arrange that everything is tabbed to this column.")
 	  append-new 
 	  keys-of-association-list
 	  tail-cons deep-copy 
+
+        defobject
 	  )
 	(find-package :ddm-util))

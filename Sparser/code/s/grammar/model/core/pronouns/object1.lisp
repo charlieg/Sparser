@@ -87,7 +87,9 @@
   ;; This adds form information ////and common dereferencing routine
   ;; to the rule that is provided by the regular krisp definition of
   ;; these individuals
-  (let* ((category-name (concatenate 'string "pronoun/"
+  (let* ((prefix #+ccl "PRONOUN/"
+                 #-ccl "pronoun/") ;; really "mlisp" but has no feature apparently
+         (category-name (concatenate 'string prefix
                                      (symbol-name category-suffix)))
          (category (find-symbol category-name *category-package*))
          (form-category (category-named form))

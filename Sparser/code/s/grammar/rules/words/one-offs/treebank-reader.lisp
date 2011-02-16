@@ -1,8 +1,15 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(S2) -*-
 ;;; Copyright (c) 2006-2010 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2011  David D. McDonald  -- all rights reserved
 ;;; $Id$
+;;;
+;;;     File: /grammar/rules/words/one-offs/treebank-reader.lisp
+;;;  version: February 2011
 
-;; /tools/treebank-reader.lisp
+;; (2/9/11) Wrapped the mapcar for the top-level calls into a function that
+;;  has to be called. The 'pp' function it creates conflicts with the 'pp'
+;;  abbreviation for invoking the parser when loaded into a case-insensitive
+;;  lisp such as Clozure.
 
 (in-package :sparser)
 
@@ -183,23 +190,24 @@
 		 (constituent-reader constituents ',tag))))
     (eval form)))
 
-(mapcar #'create-top-level-call
-  '(S
-    SINV
-    SBAR
-    SBARQ
-    SQ
-    FRAG
-    UCP
-    DATE
-    NP
-    PRN
-    VP
-    PP
-    ADVP
-    ADJP
-    X
-    INTJ))
+(defun setup-toplevel-calls ()
+  (mapcar #'create-top-level-call
+          '(S
+            SINV
+            SBAR
+            SBARQ
+            SQ
+            FRAG
+            UCP
+            DATE
+            NP
+            PRN
+            VP
+            PP
+            ADVP
+            ADJP
+            X
+            INTJ)))
 
 
 

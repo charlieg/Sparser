@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2000 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2000, 2011 David D. McDonald  -- all rights reserved
 ;;; 
 ;;;     File:  "numbers"
 ;;;   Module:  "model:dossiers:"
@@ -12,6 +12,7 @@
 ;;      because they're referenced by the other numbers. See Define-number
 ;;     (8/24) reordered again so that the number one could be defined first
 ;;      and referenced in the construction of the multipliers.
+;;     (2/5/11) Added "dozen" as multiplicand argument on 12.
 
 (in-package :sparser)
 
@@ -39,7 +40,7 @@
   (define-number "9"  :ones "nine")
   
   (define-number "11" :teens "eleven")
-  (define-number "12" :teens "twelve")
+  (define-number "12" :teens "twelve" :multiplicand "dozen")
   (define-number "13" :teens "thirteen")
   (define-number "14" :teens "fourteen")
   (define-number "15" :teens "fifteen")

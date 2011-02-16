@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "do transitions"
 ;;;   Module:  "model;core:names:fsa:"
-;;;  version:  1.9 February 2009
+;;;  version:  1.9 February 2011
 
 ;; -.3 (12/17/93) added a catch to handle the fact that the capitalization of
 ;;      headers will catch them up in the initial scan.  (12/22) fixed a ramification
@@ -36,6 +36,7 @@
 ;;     result in Classify-&-record-span that's actually not going to do anything, so
 ;;     added a check.
 ;;    (8/28/09) Extensive case changes (crossed my threshold -ddm). Preping for overhaul
+;;    (2/15/11) Added another case to category-for-edge-given-name-type.
 
 (in-package :sparser)
 
@@ -239,6 +240,7 @@
      (let ((sample (first (value-of 'items name))))
        (category-for-edge-given-name-type (itype-of sample) sample)))
     (category::company  category::company)
+    (category::generic-co-word category::company)
     (category::person   category::person)
     (otherwise
      (break "Unexpected value for category of edge: ~a"

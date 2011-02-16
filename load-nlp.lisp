@@ -20,7 +20,9 @@
 
 ;;--- ASDF setup
 
-(load "~/Sparser/util/asdf.lisp") ;; N.b. this one's pretty old
+(require :asdf)
+(unless (find-package :asdf)
+  (load "~/Sparser/util/asdf.lisp")) ;; N.b. this one's pretty old
 
 ;; This assumes you have not other files on your registry already,
 ;; e.g. from an init file. Adjust it if you do. 
@@ -28,7 +30,7 @@
       '(*default-pathname-defaults*
         #p"~/Sparser/util/"   ;; ddm-util
         #p"~/Sparser/lisp/sfl/" 
-	#p"~/Sparser/Mumble/derivation-trees/" ;; mumble after sparser
+    	#p"~/Sparser/Mumble/derivation-trees/" ;; mumble after sparser
         ))
 
 

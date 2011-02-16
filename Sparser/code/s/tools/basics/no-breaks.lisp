@@ -1,14 +1,15 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(sparser LISP) -*-
-;;; copyright (c) 1990,1991 David D. McDonald -- all rights reserved
+;;; copyright (c) 1990,1991,2011 David D. McDonald -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
-;;; $Id: no-breaks.lisp 320 2009-10-20 19:36:28Z dmcdonal $
+;;; $Id$
 ;;;
 ;;;      File:  "no breaks"
 ;;;    Module:   "tools:basics"
-;;;   Version:   October 2009
+;;;   Version:   February 2011
 
 ;; Original version 2/1991 for CTI.
 ;; 7/22/09 brought package out of the dark ages. 10/8 Added on-error setup.
+;; (2/8/11) Added more conditionalization so will load in Clozure as well as ACL.
 
 (in-package :sparser)
 
@@ -16,11 +17,17 @@
 ;;; globals for saving the old values
 ;;;-----------------------------------
 
-(defconstant *original-fvalue-of-break* (symbol-function 'lisp:break))
+(defconstant *original-fvalue-of-break*
+  #+allegro (symbol-function 'lisp:break)
+  #-allegro (symbol-function 'break))
+             
+(defconstant *original-fvalue-of-error*
+  #+allegro (symbol-function 'lisp:error)
+  #-allegro (symbol-function 'error))
 
-(defconstant *original-fvalue-of-error* (symbol-function 'lisp:error))
-
-(defconstant *original-fvalue-of-cerror* (symbol-function 'lisp:cerror))
+(defconstant *original-fvalue-of-cerror*
+  #+allegro (symbol-function 'lisp:cerror)
+  #-allegro (symbol-function 'cerror))
 
 
 ;;;----------
@@ -45,15 +52,18 @@
 
 
 (defun preempt-break-function (symbol-for-new-function)
-  (setf (symbol-function 'lisp:break)
+  (setf (symbol-function #+allegro 'lisp:break  
+                         #-allegro 'break)
         (symbol-function symbol-for-new-function)))
 
 (defun preempt-error-function (symbol-for-new-function)
-  (setf (symbol-function 'lisp:error)
+  (setf (symbol-function #+allegro 'lisp:error
+                         #-allegro 'error)
         (symbol-function symbol-for-new-function)))
 
 (defun preempt-cerror-function (symbol-for-new-function)
-  (setf (symbol-function 'lisp:cerror)
+  (setf (symbol-function #+allegro 'lisp:cerror
+                         #-allegro 'cerror)
         (symbol-function symbol-for-new-function)))
 
 

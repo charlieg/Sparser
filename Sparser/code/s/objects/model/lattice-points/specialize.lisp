@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1997-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1997-2005,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "specialize"
 ;;;   Module:  "objects;model:lattice-points:"
-;;;  version:  0.2 March 2005
+;;;  version:  0.3 February 2011
 
 ;; initiated 11/29/97. Given some content 1/2/01 though punting on the issue of
 ;; cross-indexing all the different paths down to a subtype that is a specialization
@@ -15,7 +15,10 @@
 ;; 0.2 (3/14/05) revised the basis of bound/free on the subtype lp to copy what's
 ;;   already known since otherwise we lose it. (3/17) added mixin-category to cases
 ;;   in make-subtype. (3/31) Changed use of name-of in make-subtype as fanout from
-;;   the change that the routine now returns a word instead of a symbol
+;;   the change that the routine now returns a word instead of a symbol.
+;; 0.3 (2/8/11) 'name-of' is predefined in Clozure, so changing it to 
+;;   name-of-individual.
+
 
 (in-package :sparser)
 
@@ -93,7 +96,7 @@
                            (cat-symbol specializing-category))
                           (individual
                            (if (has-a-name? specializing-category)
-                             (intern (word-pname (name-of specializing-category)))
+                             (intern (word-pname (name-of-individual specializing-category)))
                              (break "stub - string for individual")))))))))
 
     (setf (lp-supertype-print-string lp) namestring)

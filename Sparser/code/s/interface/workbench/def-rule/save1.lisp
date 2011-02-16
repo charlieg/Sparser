@@ -15,7 +15,8 @@
 ;;     (3/14) fixed typo in that.  (6/26/96) checked a pending breakpoint and
 ;;      removed it.
 ;; 1.0 (7/24/09) Fan-out in define-realization/expr because of shift to lexicalized
-;;      variables bleeding into the call to instantiate-rule-schema
+;;      variables bleeding into the call to instantiate-rule-schema.
+;;     (2/8/11) #+ccl => #+mcl to deconflict with Clozure.
 
 (in-package :sparser)
 
@@ -179,7 +180,8 @@
 ;;; announcing the effect of the definition
 ;;;-----------------------------------------
 
-#+ccl(defun announce-effect-of-rule-definition ()
+#+mcl
+(defun announce-effect-of-rule-definition ()
   ;; called from rdt/Save-new-rule
   (clear-widgets-off-the-rdt-visible-window-area)
   (move-the-announcement-widgets-onto-the-rdt-window)

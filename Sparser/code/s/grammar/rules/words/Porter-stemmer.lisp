@@ -3,7 +3,7 @@
 ;; Downloaded to BBN 6/10/10 from http://tartarus.org/~martin/PorterStemmer/
 ;; Stored in /grammar/rules/word/Porter-stemmer.lisp
 
-(in-package :user)
+(in-package :cl-user)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; The Porter Stemming Algorithm, somewhat mechanically hand translated to Common Lisp by
