@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2005, 2011  David D. McDonald  -- all rights reserved
 ;;; extensions opyright (c) 2008 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "changed files"
 ;;;   Module:  "init;"
-;;;  version:   2.3 December 1994
+;;;  version:   2.3 January 2011
 
 ;;; This is a record of recently changed files. It isn't expected to be
 ;;; loaded except in unusual circumstances.  The record begins a at major
@@ -2933,5 +2933,29 @@ Doing any edge-level FSAs for the #<edge1 2 digit-sequence 3>
 Scanned "diploid" at p3
 
 
+;;------------- 1/14/11
+(p "George Ball resigned as chairman of Prudential Inc.")
+
+The as-title additional rule was commented out in the job-events dossier
+because of a clash (early 2005). So removed the comment but surprisingly
+didn't get a complaint. In any event, the sentence still isn't rolling up
+because the name isn't being converted to a person. Don't remember what 
+was supposed to have done it / did do it, so looking at the company rules
+in case there's something there that that isn't being loaded at the 
+moment.
+
+Ok. There's an ancient (CTI) csr file with the needed rules, but with
+the original 1991 rule pattern for the job-event VP. As per a note in
+the dossier file, the cs rule belongs in the ETF compiler. So probably
+should do that. Need a way to mark a CS rule as such, which will extend
+the syntax, but no real harm in that. Good excuse for documenting. 
+
+Presumably the special note has to be in the mapping, because the actual
+semantic category can know that it's warrented to change a name into
+a person when it precedes the vp. 
+
+Where dis the as-title category (rule) come from? Need the same thing
+foor as-position-at-co. Appears it's explicitly created for Join-company
+via the ditransitive/pp ETF. 
 
 |#
