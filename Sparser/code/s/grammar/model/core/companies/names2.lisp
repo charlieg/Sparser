@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005, 2011  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005,2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "names"
 ;;;   Module:  "model;core:companies:"
-;;;  version:  2.1 February 2005
+;;;  version:  2.1 February 2011
 
 ;; initiated 5/22/93 v2.3, added indexing routines 6/7
 ;; 1.1 (10/30) simplified the indexing scheme
@@ -21,6 +21,7 @@
 ;;      from the reworking of sequences.
 ;;     (1/18/11) Making render-name-as-company-name actually change the variable
 ;;      in the name because of changes to how variables are tied to categories.
+;;     (2/15) Found another case that will require design. See function.
 
 (in-package :sparser)
 
@@ -173,9 +174,15 @@
        (setf (indiv-type name)  ;; retype the same object
              (list (category-named 'company-name)))
        (swap-variable-in-binding
-	'name/s name :to 'sequence :in (category-named 'company-name))
+        'name/s name :to 'sequence :in (category-named 'company-name))
        (index/company-name-from-sequence sequence)
        name ))
+    (category::generic-co-word
+     (push-debug `(,name))
+     (break "The 'name' we're about to turn into a company name is ~
+           ~%just the single word ~a.~
+           ~%Need to do the thinking to determine whether we should create~
+           ~%a sequence for this or what. The name is on pop-debug" name))
     ;(category::name-word
     ; (break "Stub: 1st case of a name-word to be converted to a ~
     ;         company name:~%   ~A~%" name))
