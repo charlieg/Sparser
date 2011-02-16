@@ -68,7 +68,10 @@
 ;; the switches in final-session-setup, so relenting and defining *poirot-interface*
 ;; as a global. 9/1 added *external-referents*. 2/3/2010 added *use-SFL* and
 ;; cl-user::*bidirectional* to handle running Sparser on its own.
-;; 11/9/10 added *CLOS* parameter. 1/12/11 Set its default to T. 
+;; 11/9/10 added *CLOS* parameter. 1/12/11 Set its default to T. 1/24/11 commented
+;; out the use-sfl here because of complaint from CCL about SFL's asd file that I don't
+;; want to figure out. Instead just lifting out the relevant form and adding it
+;; to util. 
 
 (in-package :cl-user)
 
@@ -533,6 +536,7 @@ or for loading the newer of the compiled or source files.
 (or (boundp 'sparser::*binaries-directory-name*)
     (defparameter *binaries-directory-name*
       #+apple "f"
+      #+openmcl "f"
       #+allegro "s"
 ;     "Some Lisps seem to be incapable of storing the compiled files in
 ;       different directories than the source, which is the preferred
@@ -966,8 +970,11 @@ or for loading the newer of the compiled or source files.
 ;;; doing the load
 ;;;-----------------
 
-(when sparser::*use-SFL*
-  (asdf:operate 'asdf:load-op :sfl))
+;; 1/24/11 CCL doesn't like the :around method in its asd file,
+;; thinks that it's in the asdf package somehow. Haven't looked into it. 
+;; (when sparser::*use-SFL*
+;;   (require :asdf) 
+;;   (asdf:operate 'asdf:load-op :sfl))
 
 (when cl-user::*bidirectional*
   (unless (find-package :mumble) ;; it would load first
