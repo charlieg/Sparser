@@ -21,11 +21,11 @@
 (unless (boundp 'location-of-sparser-directory)
   (defparameter location-of-sparser-directory
     (cond
-      ((member :allegro *features*)
+      ((pathnamep *load-truename*)
        (namestring
 	(merge-pathnames
 	 (make-pathname :directory 
-			'(:relative :
+			'(:relative
 			  :up ;; scripts
 			  :up ;; init
 			  :up ;; s
@@ -33,7 +33,7 @@
 			  ))
 	 (make-pathname :directory (pathname-directory *load-truename*)))))
       (t
-       (break "Not running under Allegro Common Lisp. ~
+       (break "The system global *load-truename* doesn't point to a pathname. ~
               ~%Can't construct relative pathname to location of Sparser~
               ~%You'll have to set the value of ~
               ~%        cl-user::location-of-sparser-directory~
