@@ -5,6 +5,8 @@
 (cfg-setting)
 |#
 
+(load "~/Sparser/Sparser/code/s/grammar/model/sl/ERN/per-share1.lisp")
+(load "~/Sparser/Sparser/code/s/grammar/rules/syntax/articles.lisp")
 (in-package :sparser)
 (cfg-setting)
 
