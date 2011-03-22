@@ -1,8 +1,21 @@
 ;;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base:10; -*-
-;;; $Id: indentation.lisp 96 2007-06-18 17:27:12Z dmcdonal $
+;;; $Id$
 ;;; Copyright (c) 2006-2007 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2011 David D. McDonald  -- all rights reserved
+
+;; 3/9/11 Extended string set for Sparser
 
 (in-package :ddm-util)
+
+(eval-when (:compile-toplevel :load-toplevel :execute)
+  (export '(emit-line emit-line-continue
+            push-indentation pop-indentation
+            with-indentation
+            initialize-indentation
+            get-indentation
+            string-of-N-spaces)
+          (find-package :ddm-util)))
+
 
 ;;;------ small hack for handling the indentation ------
     
@@ -38,6 +51,13 @@
   (let ((s (cdr (assoc *indentation* *indent-strings*))))
     (or s "")))
 
+(defun string-of-N-spaces (n)
+  (let ((s (cdr (assoc *indentation* *indent-strings*))))
+    (unless s
+      (error "Add more cases, a string of length ~A ~
+              was requested." n))
+    s))
+
 (defparameter *indent-strings*
   `((0 . "")
     (1 . " ")
@@ -70,12 +90,24 @@
     (28 . "                            ")
     (29 . "                             ")
     (30 . "                              ")
+    (31 . "                               ")
+    (32 . "                                ")
+    (33 . "                                 ")
+    (34 . "                                  ")
+    (35 . "                                   ")
+    (36 . "                                    ")
+    (37 . "                                     ")
+    (38 . "                                      ")
+    (39 . "                                       ")
+    (40 . "                                        ")
+    (41 . "                                         ")
+    (42 . "                                          ")
+    (43 . "                                           ")
+    (44 . "                                            ")
+    (45 . "                                             ")
+    (46 . "                                              ")
+    (47 . "                                               ")
+    (48 . "                                                ")
+    (49 . "                                                 ")
     ))
 
-
-(export '(emit-line emit-line-continue
-	  push-indentation pop-indentation
-	  with-indentation
-	  initialize-indentation
-	  get-indentation)
-	(find-package :ddm-util))

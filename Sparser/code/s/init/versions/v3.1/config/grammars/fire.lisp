@@ -1,5 +1,5 @@
 ;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 2010  David D. McDonald  -- all rights reserved
+;;; copyright (c) 2010-2011  David D. McDonald  -- all rights reserved
 ;;; copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;;
@@ -21,6 +21,7 @@
 ;; 3/27/09 added *known-verbs* to hold all the lightweight definitions
 ;; 0.1 Added in all the sublanguages, making this more like the full-
 ;;  grammar configuration. 11/15/10 removed *poirot*, added *reversable*.
+;;  (2/21/11) turned on finance
 
 ;;;----------------------------
 ;;; grammar modules to include
@@ -138,7 +139,7 @@
 (include-grammar-module  *amounts*)
 (include-grammar-module  *time*)
 (include-grammar-module  *money*)
-;;(include-grammar-module  *finance*)
+(include-grammar-module  *finance*)
 (include-grammar-module  *titles*)
   (include-grammar-module *titles-core*)
   (include-grammar-module *full-titles*)

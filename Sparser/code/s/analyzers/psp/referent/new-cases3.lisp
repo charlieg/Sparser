@@ -164,7 +164,7 @@
              head)
             (referential-category
              (setq type-of-head head)
-	     ;; We adding a binding, so we presume that the result
+	     ;; We're adding a binding, so we presume that the result
 	     ;; will be partially saturated even it's a simple category
              (find-or-make-psi-for-base-category head))
             (individual
@@ -210,12 +210,12 @@
       ;; annotate this combination
       (cond ((and head-edge arg-edge) ;; canonical case
 	     (annotate-realization-pair
-	      (psi-lp psi) *rule-being-interpreted*
+	      psi (psi-lp psi) *rule-being-interpreted*
 	      head-edge arg-edge))
 	    
 	    (*single-daughter-edge* ;; called from unary subtype
 	     (annotate-realization-pair
-	      (psi-lp psi) *rule-being-interpreted*
+	      psi (psi-lp psi) *rule-being-interpreted*
 	      *parent-edge-getting-reference* :unary-rule))))
     psi ))
 

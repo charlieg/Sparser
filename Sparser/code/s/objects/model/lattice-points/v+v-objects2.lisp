@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1998-2005, 2010 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1998-2005,2010-2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -16,7 +16,7 @@
 ;;   into the structure file. 
 ;; 2.0 (7/22/09) Making it over again. Working on it through 8/30.
 ;;   (12/14/10) Rehabilited value/var/v+v & bind-v+v. Fixed C&S bug in
-;;   printer.
+;;   printer. (3/19/11) Cleaned up. Updated a call.
 
 (in-package :sparser)
 
@@ -83,12 +83,12 @@
 
 (defun make-and-attach-v+v (variable value parent-psi)
   (let ((v (dereference-variable variable parent-psi))
-	(v+v (allocate-v+v)))
+        (v+v (allocate-v+v)))
     (setf (vv-variable v+v) v)
     (setf (vv-value v+v) value)
     (setf (var-v+v-table v)
-	  (push `(,value . ,v+v) 
-		(var-v+v-table v)))
+          (push `(,value . ,v+v) 
+                (var-v+v-table v)))
     (tr :made-v+v v+v)
     v+v))
 
@@ -154,14 +154,14 @@
   ;; another psi. 
   ;; find/make the lattice-point for this psi at the same time.
   (tr :making-v+v-and-psi variable value parent-psi c+v)
-    (let ((v+v-table (gethash c+v *c+v-to-v-into-v+v-table*))
-	  (v+v (get-new-v+v)))
-      (unless v+v-table
-	;; If it's not available, then we didn't do a find before we
-	;; did this make.
-	(setq v+v-table (setf (gethash c+v *c+v-to-v-into-v+v-table*)
-			      (make-v+v-table)))
-	(break "check v+v-table"))
+  (let ((v+v-table (gethash c+v *c+v-to-v-into-v+v-table*))
+        (v+v (get-new-v+v)))
+    (unless v+v-table
+      ;; If it's not available, then we didn't do a find before we
+      ;; did this make.
+      (setq v+v-table (setf (gethash c+v *c+v-to-v-into-v+v-table*)
+                            (make-v+v-table)))
+      (break "check v+v-table"))
 
       (setf (vv-variable v+v) variable)
       (setf (vv-value v+v) value)
@@ -169,21 +169,21 @@
       (tr :made-v+v v+v)
 
       (let* ((starting-lattice-point (psi-lattice-point parent-psi))
-	     (lattice-point (find-or-make-next-lp-down-for-variable 
-			     variable starting-lattice-point))
-	     (psi (get-psi)))
-	(setf (psi-type psi) lattice-point)
-	(setf (psi-lattice-point psi) lattice-point)
-	(setf (psi-v+v psi) (cons v+v (psi-v+v parent-psi)))
-	(setf (psi-source psi) parent-psi)
+             (lattice-point (find-or-make-next-lp-down-for-variable 
+                             variable starting-lattice-point))
+             (psi (get-psi)))
+        (setf (psi-type psi) lattice-point)
+        (setf (psi-lattice-point psi) lattice-point)
+        (setf (psi-v+v psi) (cons v+v (psi-v+v parent-psi)))
+        (setf (psi-source psi) parent-psi)
+        
+        (setf (vv-psi v+v) `(,psi))
+        (tr :made-psi-at-lp psi lattice-point)
+        (tr :made-new-psi psi)
+        
+        (bind-variable/expr variable value psi)
 
-	(setf (vv-psi v+v) `(,psi))
-	(tr :made-psi-at-lp psi lattice-point)
-	(tr :made-new-psi psi)
-
-	(bind-variable/expr variable value psi)
-
-	psi)))
+        psi)))
 
 
 
@@ -301,5 +301,5 @@
                  ~%Should make a different psi instead, so the ~
                  threading is bad here." psi))
 
-       (extend-psi-by-binding variable value psi))))
+       (find-or-make-psi-with-binding variable value psi))))
           

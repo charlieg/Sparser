@@ -8,7 +8,7 @@
 ;;;   version:   November 2010
 
 ;; Adapted from 'just dm&p' 6/20/07. 
-;; 11/9/10 incorporated CLOS parameter.
+;; 11/9/10 incorporated CLOS parameter. 3/9/11 added use ddm-util
 
 (in-package :cl-user)
 
@@ -46,10 +46,11 @@
 
 (or (find-package :sparser)
     (make-package :sparser
-                  :use #+:apple '(ccl common-lisp)
-		       #+:unix  '(common-lisp)
-		       #+:mswindows '(common-lisp)
-                       ))
+                  :use (common-lisp
+                        ddm-util
+                        #+:apple ccl
+                        #+:openmcl ccl )))
+
 
 
 ;;;-------------------------------------------------
@@ -64,8 +65,8 @@
 
 (defparameter sparser::*no-image* t)
 
-(unless (boundp 'sparser::*CLOS*)
-  (defparameter sparser::*CLOS* nil))
+;(unless (boundp 'sparser::*CLOS*)
+;  (defparameter sparser::*CLOS* nil))
 
 #+allegro (defparameter sparser::*binaries-directory-name* "s")
 

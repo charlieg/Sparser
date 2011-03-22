@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-1997  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1997,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2006-2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;; 
 ;;;     File:  "globals"
 ;;;   Module:  "drivers;inits:sessions:"
-;;;  Version:  October 2009
+;;;  Version:  February 2011
 
 ;;;  Flags and the code to initialize them, as pertain to the state
 ;;;  of an entire session with the analyzer.
@@ -24,6 +24,7 @@
 ;; 10/31/06 added *annotate-realizations*. 2/9/07 added *do-strong-domain-modeling*
 ;; 7/2 added *new-dm&p*. 8/6 added *infer-rewriting-form-rules*  9/18/09 added
 ;; *use-subtypes*. 10/8 added *what-to-do-on-errors*.
+;; 2/20/11 added *make-edges-over-new-digit-sequences*. 
 
 (in-package :sparser)
 
@@ -81,6 +82,11 @@
 (defparameter *make-edges-for-unknown-words-from-their-properties* nil
   "Set as part of the switch settings, read within Specific-assessed-
    actions.")
+
+(defparameter *make-edges-over-new-digit-sequences* t
+  "Intended to deliberately override the effects of the previous switch
+   which probably had broader impact early on but now only effects
+   numbers that aren't explictly defined, e.g. 62.")
 
 (defparameter *make-edges-for-unknown-words-from-their-suffixes* nil
   "Set as part of the switch settings.
@@ -187,7 +193,7 @@
 ;;; semantic, bi-directional analysis
 ;;;-----------------------------------
 
-(defparameter *annotate-realizations* t
+(defparameter *annotate-realizations* nil ;; 3/21/11 not ready yet
   "Determines whether we annotate individuals and lattice points with
    the rules that lead to them")
 

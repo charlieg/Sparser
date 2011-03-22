@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2005,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "loader"
 ;;;   Module:  "model;dossiers:"
-;;;  version:  0.5 October 2009
+;;;  version:  0.5 February 2011
 
 ;; initiated in January 1991 v1.8
 ;; 0.1 (10/17/93 v2.3) started revampin to hold all the individuals
@@ -38,6 +38,7 @@
 ;;      when not running as 'everything'
 ;;     (8/26/08) added time-of-day & timezones to files to be loaded for *time*
 ;;     (10/9/09) Commented out proteins file because it isn't there.
+;;     (2/21/11) Added title-abbreviations and noted that titles was OBE.
 
 (in-package :sparser)
 
@@ -149,7 +150,8 @@
   (gload "dossiers;report verbs"))
 
 (gate-grammar *full-titles*
-  (gload "dossiers;titles"))
+ ;; (gload "dossiers;titles") ;; presently all commented out
+  (gload "dossiers;title-abbreviations"))
 (gate-grammar *title-heads*
   (gload "dossiers;title heads"))
 (gate-grammar *title-modifiers*

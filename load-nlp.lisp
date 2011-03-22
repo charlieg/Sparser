@@ -1,6 +1,6 @@
 ;;; -*- Mode: Lisp; Syntax: Common-lisp; -*-
 ;;; $Id$
-;;; Copyright (c) 2010 David D. McDonald
+;;; Copyright (c) 2010-2011 David D. McDonald
 ;;;
 ;;;   File:   load-nlp-poirot
 ;;;  Module:  /nlp/
@@ -24,7 +24,7 @@
 (unless (find-package :asdf)
   (load "~/Sparser/util/asdf.lisp")) ;; N.b. this one's pretty old
 
-;; This assumes you have not other files on your registry already,
+;; This assumes you have no other files on your registry already,
 ;; e.g. from an init file. Adjust it if you do. 
 (setf asdf:*central-registry*
       '(*default-pathname-defaults*
@@ -33,26 +33,17 @@
     	#p"~/Sparser/Mumble/derivation-trees/" ;; mumble after sparser
         ))
 
+;; Test for Clozure & more accomodating asdf2
+;(break "Got through 1st asdf region")
 
 ;;--- Directory structure
 
 (defparameter *nlp-home*
   (make-pathname :directory (pathname-directory *load-truename*)))
-;; (setq *nlp-home* "/Users/ddm/ws/nlp/")
+;; (setq *nlp-home* "/Users/ddm/Sparser/")
 
-
-;;--- Predefine :sparser so it can be referred to early
-
-(unless (find-package :sparser)
-  (make-package :sparser
-                :use '(common-lisp #+apple ccl)))
-  
 
 ;;--- Loading
-
-;; Load SFL so we can use the class-making shortcut
-;; /// If that turns out to be all we use then lift that to util
-(asdf:operate 'asdf:load-op :sfl)
 
 ;; Utilities used everywhere (though not integrated into Sparser yet 12/22/10)
 (asdf:operate 'asdf:load-op :ddm-util)
@@ -60,6 +51,16 @@
 ;; Mumble
 (load (concatenate 'string (namestring *nlp-home*) "Mumble/loader.lisp"))
 
+
+;;--- Move above Mumble ??????  Can it just wait for 1st Sparser file ????
+
+(unless (find-package :sparser)
+  (make-package :sparser
+                :use '(common-lisp
+                       ddm-util
+                       #+apple ccl
+                       #+openmcl :ccl)))
+  
 ;; Sparser 
 (unless (boundp '*sparser-script-setting*)
   (defvar *sparser-script-setting* :fire))

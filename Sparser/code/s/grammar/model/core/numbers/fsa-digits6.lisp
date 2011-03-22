@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2003  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2003,2011  David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;; 
 ;;;     File:  "fsa digits"
 ;;;   Module:  "grammar;model:core:numbers:"
-;;;  Version:  6.8 February 2007
+;;;  Version:  6.8 February 2011
 
 ;; 5.0 (10/5 v2.3) rephrased the scan step to get subtler steps
 ;; 5.1 (9/14/93) updated the scanning calls, finished 9/16
@@ -39,7 +39,7 @@
 ;;     (3/26/03) Fixed the 'has a decimal point' case of Map-out-the-distribution
 ;;       so it gets the illion done right for "93.85".
 ;;     (2/8/07) Added ws check to keep the check for a prior decimal point from
-;;       looking back across a line break.
+;;       looking back across a line break. 2/20/11 tweeked process description.
 
 (in-package :sparser)
 
@@ -48,9 +48,10 @@
 We get here because the tokenizer, when it sees a contiguous sequence of digits,
 marks the capitalization field (pos-capitalization) corresponding to the word
 it created as :digits.  This is picked up when the preterminals are being 
-introduced into the chart and reacted to by Preterminals-for-unknown, under
-the control of the flag *make-edges-for-unknown-words-from-their-properties*.
-The result is a call to Make-edge-over-unknown-digit-sequence, which leads to
+introduced into the chart and reacted to by preterminals-for-unknown, under
+the control of the flag *make-edges-over-new-digit-sequences*
+.
+The result is a call to make-edge-over-unknown-digit-sequence, which leads to
 an edge over the word, with the label Digit-sequence, nothing in its form field,
 and either a lisp number or a Krisp number as its referent, depending on the
 whether or not the model is loaded.  The category Digit-sequence has the fsa

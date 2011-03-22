@@ -4,7 +4,7 @@
 
 ;;;  MUMBLE-86:  interpreters> phrase-structure-execution
 
-;;; Copyright (C) 1985-2000, 2010  David D. McDonald
+;;; Copyright (C) 1985-2000,2010-2011  David D. McDonald
 ;;;   and the Mumble Development Group.  All rights
 ;;;   reserved. Permission is granted to use and copy
 ;;;   this file of the Mumble-86 system for
@@ -16,6 +16,7 @@
 ;;   position type was renamed mposition to avoid a class with the position
 ;;   structure in Sparser. Affected the ecase in process-slot.
 ;;  3/26/07 Beginging to knit in unconventional objects. 
+;;  3/17/11 Tweaking things a little
 
 (in-package :mumble)
 
@@ -92,10 +93,12 @@
       ((or phrasal-root node word pronoun tense-marker)
        contents)
       (otherwise
-       (if (realization-for contents)
-	 (realize-and-knit contents)
-	 (break "Unexpected type of object in realization cycle: ~a~%~a"
-		(type-of contents) contents))))))
+       (if (has-realization? contents)
+	     (realize-and-knit contents)
+         (else 
+           (push-debug `(,contents ,position))
+           (break "Unexpected type of object in realization cycle: ~a~%~a"
+                  (type-of contents) contents)))))))
 
 (defun do-all-word-stream-actions (labels visited-status)
   (dolist (label labels)

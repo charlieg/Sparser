@@ -1,10 +1,10 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;;
 ;;;     File:  "rdata"
 ;;;   Module:  "objects;model:tree-families:"
-;;;  version:  1.2 April 2005
+;;;  version:  1.3 February 2011
 
 ;; initiated 8/4/92 v2.3, fleshed out 8/10, added more cases 8/31
 ;; 0.1 (5/25/93) changed what got stored, keeping around a dereferenced
@@ -28,7 +28,9 @@
 ;;     (11/18) Added :preposition to the list in Vet-rdata-keywords and
 ;;      dereference-rdata. (7/11/00) added :quantifier.  (4/11/05) added check 
 ;;      to Decode-rdata-mapping to allow symbols to pass on through if they're
-;;      the names of functions. (7/23/09) Added interjection
+;;      the names of functions. (7/23/09) Added interjection.
+;; 1.3 (2/21/11) Added define-marker-category as another standalone def form
+;;      where we're defining a minimal category along with its realization. 
 
 (in-package :sparser)
 
@@ -47,6 +49,22 @@
      (setup-rdata (category-named ',category) ',rdata)
      (break "There is no category named ~a" ',category)))
 
+
+(defmacro define-marker-category (category-name &key realization)
+  "This amounts to reversible syntactic sugar for the light, 'glue'
+   categories that don't add any content (variables) but indicate
+   a context for a complement (folded into the realization by name)
+   that controls how it's incorporated into larger phrases.
+     The category that's created is just the minimal form of
+   simple syntactic categories. For something substantive use
+   full arguments with define-category."
+  `(define-marker-category/expr ',category-name ',realization))
+
+(defun define-marker-category/expr (category-name realization-expr)
+  (let ((category (or (category-named category-name)
+                      (find-or-make-category  
+                       category-name :def-category))))
+    (setup-rdata category realization-expr)))
 
 
 ;;;-----------------------------------------------------------

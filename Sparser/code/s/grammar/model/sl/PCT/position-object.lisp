@@ -1,13 +1,14 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005,2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "position object"
 ;;;   Module:  "model;sl:pct:"
-;;;  version:  March 2005
+;;;  version:  February 2011
 
 ;; initiated 6/11/93 v2.3
 ;; (4/23/94) fixed substr.-shape bug in Index/position. 10/3 wrote reclaimer.
 ;; (3/16/05) Wrote 'title of company' realization for the object.
+;; (2/21/11) Added "as" construction.
 
 (in-package :sparser)
 
@@ -32,6 +33,15 @@
                           (base-np . title)
                           (result-type . :self))))
 
+;;;--------------------------
+;;; preposition combinations
+;;;--------------------------
+
+(define-marker-category as-position-at-co
+  :realization (:tree-family transparent-pp
+                :mapping ((pp . as-position-at-co)
+                          (preposition . "as")
+                          (complement . position-at-co))))
 
 ;;;-----------------
 ;;; special printer

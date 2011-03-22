@@ -1,12 +1,12 @@
 ;;; -*- Mode: Lisp; Syntax: Common-lisp; -*-
 ;;; $Id$
 ;;; Copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
-;;; Copyright (c) 2010 David D. McDonald  All Rights Reserved
+;;; Copyright (c) 2010-2011 David D. McDonald  All Rights Reserved
 
 ;; /Mumble/derivation-trees/conversions.lisp
 
 ;; Initated 10/6/09. First real code 10/23. Real code that runs 11/9 (sigh)
-;; Modified through 11/27. Completely redone 12/9/10
+;; Modified through 11/27. Completely redone 12/9/10. Picked up again 3/22/11
 
 (in-package :mumble)
 
@@ -18,24 +18,27 @@
 
 ;;---- RNodes
 
+(defmethod convert-to-derivation-tree ((rnodes cons) i)
+  (convert-to-derivation-tree (car rnodes) i))
+
 (defmethod convert-to-derivation-tree ((rnode sparser::realization-node)
-				       (i sparser::individual))
+                                       (i t))
   "Called from realization-for. Has to return something that is suitable for
    consumption by realize. Initializes the top DTN if this is the
    first call."
   ;; Spread the rnode's information to find the right thing to dispatch
   ;; off of in order to get the correspondence
   (let* ((dtn (make-derivation-tree-node :referent i))
-	 (schr (sparser::rn-cfr rnode))
-	 (relation (sparser::schr-relation schr))
-	 (descriptors (sparser::schr-descriptors schr))
-	 (etf (sparser::schr-tree-family schr)))
+         (schr (sparser::rn-cfr rnode))
+         (relation (sparser::schr-relation schr))
+         (descriptors (sparser::schr-descriptors schr))
+         (etf (sparser::schr-tree-family schr)))
     (cond
       ;; single-word cases
       ((sparser::defined-type-of-single-word relation)
        (let* ((sp-word (sparser::bound-word i))
-	      (m-word (find-or-make-word sp-word)))
-	 m-word))
+              (m-word (find-or-make-word sp-word)))
+         m-word))
       (t       
        (push-debug `(,rnode ,i))
        (break "Next case in convert-to-derivation-tree")))))

@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993,1994 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993,1994,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "titles"
 ;;;   Module:  "model;dossiers:"
@@ -8,6 +8,11 @@
 ;; initiated 6/10/93 v2.3.  3/21/94 fixed "chief executive"
 
 (in-package :sparser)
+
+;;============== This file not only won't execute, it's
+;;==============   no longer loaded (2/21/11)
+;;  It's the polyword treatment from the original rule set
+;;  and does provide a nice test set.
 
 ;;;-------------------------------------
 ;;; specific titles (done as polywords)

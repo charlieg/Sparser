@@ -1,10 +1,12 @@
 ;;; -*- Mode: Lisp; package: MUMBLE; Syntax: Common-lisp; -*-
 ;;; $Id$
 ;;; Copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
+;;; copyright (c) 2011  David D. McDonald  -- all rights reserved
 
 ;; /Mumble/derivation-trees/types.lisp
 
-;; Initated 9/16/09. Added derivation tree nodes 10/6
+;; Initated 9/16/09. Added derivation tree nodes 10/6. 3/9/11 removed
+;; co: from the defobject calls not that's it's been brought into utils.
 
 (in-package :mumble) 
 
@@ -21,7 +23,7 @@
 
 ; referential: referent, expressible-type
 
-(co:defobject referential ()
+(defobject referential ()
   ((referent ;; a pointer to a model-level unit
     )))
 
@@ -29,7 +31,7 @@
 ; ?? linguistic-resource: choice-that-selects-this, anchors-adjunctions,
 ;                         higher-order-backpointers
 
-(co:defobject includes-syntax-driven-choices ()
+(defobject includes-syntax-driven-choices ()
   ;; Would get filled in with a slot or slots that would layout
   ;; alternatives that cannot be selected among without knowing
   ;; details of the syntactic environment that aren't available
@@ -44,7 +46,7 @@
 ;;; Derivation tree nodes
 ;;;-----------------------
 
-(co:defobject derivation-tree ()
+(defobject derivation-tree ()
   ;; This is what's passed to Mumble. It is not itself the basis of
   ;; the realization. Instead it points to it via its root slot. 
   ;; That lets us easily change the top resource. 
@@ -56,7 +58,7 @@
       ;; with the derivation tree node for which they are the referent.
 
 
-(co:defobject base-dt-node (referential)
+(defobject base-dt-node (referential)
   ;; This is the top of the derivation tree taxonomy. 
   ;; The 'referent' slot from referential points back to the Individual
   ;; or whatever we're realizing. The 'resource' slot points to the
@@ -71,7 +73,7 @@
      ;; top and to our immediate superior.
    ))
 
-(co:defobject derivation-tree-node (base-dt-node)
+(defobject derivation-tree-node (base-dt-node)
   ;; Gets the full name because it's the prototype.
   ;; In native Mumble terms it's the equivalent of a bundle
   ;; (The resource is the equivalent of a kernel.)
@@ -88,17 +90,17 @@
    ))
 
 
-(co:defobject satellite-dt-node ()
+(defobject satellite-dt-node ()
   ((value)
      ;; Holds the value that the parameter gets in this instance.
    ))
 
-(co:defobject adjunction-node (base-dt-node satellite-dt-node)
+(defobject adjunction-node (base-dt-node satellite-dt-node)
   ((ap)
    ;; points to one of Mumble's attachment-points
    ))
 
-(co:defobject complement-node (base-dt-node satellite-dt-node)
+(defobject complement-node (base-dt-node satellite-dt-node)
   ((phrase-parameter)
      ;; points to the open parameter that the resource in the derivation
      ;; tree that this node will fill.
@@ -112,13 +114,13 @@
 ;;;---------------------
 ;; These get decoded by instantiate-lexicalized-phrase
 
-(co:defobject lexicalized-phrase ()
+(defobject lexicalized-phrase ()
   ((resource))) ;; a phrase
 
-(co:defobject saturated-lexicalized-phrase (lexicalized-phrase)
+(defobject saturated-lexicalized-phrase (lexicalized-phrase)
   ((bound))) ;; list of parameter-value-pair
 
-(co:defobject partially-saturated-lexicalized-phrase 
+(defobject partially-saturated-lexicalized-phrase 
     (saturated-lexicalized-phrase)
   ((free)))  ;; list of parameters
 
@@ -127,7 +129,7 @@
 ;;; go'fers
 ;;;---------
 
-(co:defobject parameter-value-pair ()
+(defobject parameter-value-pair ()
   ((phrase-parameter) ;; Mumble parameter struct
    (value)))   ;; anything 
 

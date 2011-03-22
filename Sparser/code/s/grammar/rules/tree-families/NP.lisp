@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "NP"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  0.7 September 2009
+;;;  version:  0.7 March 2011
 
 ;; initiated 8/31/92 v2.3
 ;; 0.1 (6/2/93) added explicit definitions for the mix-in category
@@ -31,8 +31,21 @@
 ;; 0.7 (9/21/09) Broke out the possessive pronouns from np-common-noun into
 ;;  their own (extending) ETF to allow for earlier (reasonable) uses of 
 ;;  np-common-noun where there's no modifier slot. 
+;;  (2/20/11) Added initial listing comment. Fixed it 3/9
 
 (in-package :sparser)
+
+#|  ETFs in this file:
+
+   soak-up-indefinite-article ------ form rules for "a", "an"
+   np-common-noun/intrinsically-definite  --- "the board" (of directors)
+   np-common-noun/definite 
+   np-common-noun/defnp
+   np-common-noun/indefinite
+   np-common-noun/one-of-several 
+   np-common-noun
+   np-common-noun/possessive-pns
+|#
 
 
 (define-mixin-category indefinite)
@@ -53,7 +66,7 @@
                      :head right-edge))))
 
 
-
+  
 ;;;----------------
 ;;; full paradigms 
 ;;;----------------

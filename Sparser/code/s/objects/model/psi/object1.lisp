@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1999-2000 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1999-2000,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "objects;model:psi:"
@@ -12,8 +12,19 @@
 ;; 6/18 added is-open-in
 ;; 1.0 (7/22/09) fan-out from variable and psi make-over. Redid category-of-psi
 ;;  now that we can avoid climbing. Working on it through 8/7
+;;  (3/21/11) Added saturated? predicate.
 
 (in-package :sparser)
+
+;;;------------
+;;; predicates
+;;;------------
+
+(defun saturated? (lp)
+  (let ((bound (lp-variables-bound lp))
+        (possible (lp-variables-free (lp-top-lp lp))))
+    ;; Assumes that there's just one set of variables
+    (= (length bound) (length possible))))
 
 ;;;-----------
 ;;; accessors

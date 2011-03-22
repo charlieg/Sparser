@@ -1,12 +1,13 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1990,1991,1992  Content Technologies Inc.
-;;; copyright (c) 1992,1993  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1990-1992  Content Technologies Inc.
+;;; copyright (c) 1992-1993,2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;      File:  "loader"
 ;;;    Module:   "tools:basics:syntactic sugar"
-;;;   Version:   1.0  July 1991
+;;;   Version:   March 2011
 
-;; (12/30/93 v2.3) added [list hacking]
+;; Initiated 7/1991. (12/30/93 v2.3) added [list hacking]
+;; 3/9/11 Experimented with conditionalizing load on :ddm-utils feature,=
 
 (in-package :sparser)
 

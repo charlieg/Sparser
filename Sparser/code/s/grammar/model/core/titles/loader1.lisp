@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-1997 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1997,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "loader"
 ;;;   Module:  "model;core:titles:"
-;;;  version:  1.4 September 2009
+;;;  version:  1.4 February 2011
 
 ;; (4/19/92 v2.2) added title+miscl 
 ;; 1.0 (6/10/93 v2.3) completely revamped everything from scratch
@@ -16,6 +16,7 @@
 ;;     (5/17) added [area of responsibility]
 ;; 1.4 (12/6) moved over to [object1] with compositional titles. Bumped [operations] to 1
 ;;     (9/21/09) Put [area of responsibility] under *da* gate
+;;     (2/21/11) Annotated the state of the dossiers.
 
 (in-package :sparser)
 
@@ -48,10 +49,12 @@
 
 
 #|  loaded from dossiers
-(gload "dossiers;titles")
+(gload "dossiers;titles") ;; kept around, but all commented out and
+   ;; not loaded. Has set of full titles as used back in 1990-1992
 (gload "dossiers;title heads")
 (gload "dossiers;title modifiers")
-(gload "dossiers;title qualifiers")  |#
+(gload "dossiers;title qualifiers") 
+(gload "dossiers;title-abbreviations")  |#
 
 
 

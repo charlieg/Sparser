@@ -1,15 +1,15 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1998-2005  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1998-2005,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
-;;; $Id: psi.lisp 207 2009-06-18 20:59:16Z cgreenba $
 ;;; 
 ;;;     File:  "psi"
 ;;;   Module:  "objects;traces:"
-;;;  Version:  February 2005
+;;;  Version:  March 2011
 
 ;; initiated 7/3/98. Tweaked to blend in influences from [objects:model:psi:
 ;; traces] 5/18/99. Noted backpointers 6/4.  2/3/05 Adding traces for the find
 ;; operation. 7/30/07 Adding traces for new psi indexing scheme
+;; 3/17/11 Adding more annotation traces.
 
 (in-package :sparser)
 
@@ -61,26 +61,48 @@
     (trace-msg "  New entry: ~A" entry)))
 
 (deftrace :reusing-rdata-entry (entry)
-  ;; called from Annotate-realization/base-case and Annotate-individual
+  ;; called from annotate-realization/base-case and annotate-individual
   (when *trace-psi*
     (trace-msg "  Reusing ~a" entry)))
 
+(deftrace :site-bound-to (i/psi variable type)
+  ;; called from annotate-site-bound-to
+  (when *trace-psi*
+    (trace-msg "  Annotating that the ~a of ~a~
+              ~%     is being bound to a ~a"
+               variable i/psi type)))
+
+(deftrace :site-bound-t-c+v (c+v)
+  (when *trace-psi*
+    (trace-msg "     c+v = ~a" c+v)))
 
 
 (deftrace :known-entry (rnode lattice-point)
-  ;; called from Annotate-realization-pair
+  ;; called from annotate-realization-pair
   (when *trace-psi*
     (trace-msg "Known annotation for ~A:~%   ~A"
                lattice-point rnode)))
 
-(deftrace :new-entry (rnode lattice-point)
+(deftrace :new-entry (rnode lattice-point rc)
   ;; called from Annotate-realization-pair
   (when *trace-psi*
-    (trace-msg "New annotation for ~A:~%   ~A"
-               lattice-point rnode)))
+    (trace-msg "New annotation for ~A:~
+              ~%   ~A~
+              ~%   based on ~a"
+               lattice-point rnode rc)))
+
+(deftrace :setting-rnode-head (rnode)
+  ;; called from Annotate-realization-pair
+  (when *trace-psi*
+    (trace-msg "   Setting rnode head to ~a" rnode)))
+
+(deftrace :setting-rnode-arg (rnode)
+  ;; called from Annotate-realization-pair
+  (when *trace-psi*
+    (trace-msg "   Setting rnode arg to ~a" rnode)))
 
 
-;; Called from Cache-rnode-on-edge
+;; Called from cache-rnode-on-edge
 (deftrace :caching-rnode (node edge)
   (when *trace-psi*
     (trace-msg "Caching ~A on~

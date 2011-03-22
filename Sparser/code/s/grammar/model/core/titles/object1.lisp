@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "model;core:titles:"
-;;;  version:  1.1 March 2005
+;;;  version:  1.2 February 2011
 
 ;; initiated 6/10/93 v2.3.  Moved out the print macro 1/6/94 to help the
 ;; compiler.  1/18 added title-heads and title-modifiers
@@ -12,7 +12,8 @@
 ;;   (12/7/95) actually doing it -- making the 3/17 stub work.
 ;; 1.1 (1/31/99) pulled the old-style indexing statement from title so that
 ;;    they could be assembled using lattice-points. 
-;;    (3/17/05) Added np-common-noun/one-of-several schema to title
+;;    (3/17/05) Added np-common-noun/one-of-several schema to titlex2
+;; 1.2 (2/21/11) Added abbreviated-title for things like CEO. 
 
 (in-package :sparser)
 
@@ -71,13 +72,12 @@
 ;;; compound title object
 ;;;-----------------------
 
-(define-category  title
+(define-category  title ;; overwrites the placeholder at the top of this file
   :instantiates self
   :specializes nil
   :binds ((base-title)  ;; (:or title title-base-word single-word-title)
           (modifier . title-modifier)
           (responsibility))
-
   :realization ((:tree-family  modifier-specializes-adjective
                  :mapping ((adjp . title)
                            (modifier . title-modifier)
@@ -134,3 +134,25 @@
   (ecase (cat-symbol (itype-of term))
     (category::title-base-word (string/title-base-word term))
     (category::single-word-title (string/single-word-title term))))
+
+
+;;;---------------------------
+;;; Titles with abbreviations
+;;;---------------------------
+
+(define-category abbreviated-title
+  :instantiates title
+  :specializes title
+  :binds ((abbreviation)
+          (full-form . title))
+  :realization (:common-noun abbreviation))
+
+(defun define-abbreviated-title (abbreviation/s &key full)
+  (declare (ignore full))
+  ;; The full form will want to be parsed, which is too much for today
+  (unless (stringp abbreviation/s)
+    (break "Stub: extend define-abbreviated-title to take a list"))
+  (let ((word (define-word/expr abbreviation/s)))
+    (define-individual 'abbreviated-title :abbreviation word)))
+
+

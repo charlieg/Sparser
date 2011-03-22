@@ -3,17 +3,13 @@
 ;;;
 ;;; idea derived from Jake Beal's contributions to Poirot util.
 
-(in-package :cl-user)
+(in-package :ddm-util)
 
-(defpackage :push-debug
-  (:use :common-lisp)
-  #+nil(:export '(push-debug ;;/// wrong syntax
-	    pop-debug
-	    peek-debug
-	    clear-debug))
-)
-
-(in-package :push-debug)	    
+(eval-when (:compile-toplevel :load-toplevel :execute)
+  (export '(push-debug
+            pop-debug
+            peek-debug
+            clear-debug)))
 
 ;;;----------------------------
 ;;;      debugging stack
@@ -27,12 +23,5 @@
 (defun peek-debug () (first *debug-stack*))
 (defun clear-debug () (setf *debug-stack* '()))
 (defun assq-debug (key) (assq key *debug-stack*))
-
-;;///Fold into defpackage
-(export '(push-debug ;;/// wrong syntax
-	    pop-debug
-	    peek-debug
-	    clear-debug)
-	(find-package :push-debug))
 
 

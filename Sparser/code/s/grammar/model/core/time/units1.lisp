@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991,1992,1993,1994  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1994,2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "units"
 ;;;   Module:  "model;core:time:"
@@ -21,4 +21,5 @@
   :binds ((name :primitive word))
   :index (:permanent :key name)
   :realization (:common-noun name))
+
 

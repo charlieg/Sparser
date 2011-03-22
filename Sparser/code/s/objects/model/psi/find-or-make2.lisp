@@ -87,7 +87,8 @@
 ;    (unless new?
 ;      (push-debug `(,psi ,lattice-point ,c))
 ;      (break "Found psi for base category: ~a" psi))
-    ;(annotate-realization/base-case lattice-point psi)
+    (when *annotate-realizations*
+      (annotate-realization/base-case lattice-point psi))
     (tr :found-or-made-psi psi)
     psi ))
 

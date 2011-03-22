@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-1997  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1997,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
-;;; $Id: switches2.lisp 356 2010-05-13 19:54:30Z dmcdonal $
+;;; $Id$
 ;;; 
 ;;;     File:  "switches"
 ;;;   Module:  "drivers;inits:"
-;;;  Version:  2.19 March 2010
+;;;  Version:  2.19 February 2011
 
 ;; 1.1 (2/6/92 v2.2) changed the allowed values for unknown-words
 ;;     (2/7) Added *switch-setting* and *track-salient-objects*
@@ -54,7 +54,8 @@
 ;; 2.19 (3/12/10) Extended just-bracketing-setting to introduce brackets and edges
 ;;      from unknown words. Turns them off in top-edges-setting/ddm. (4/20/10) Fixed
 ;;      some spill over into word-frequency-setting where nothing heuristic should
-;;      run. 
+;;      run. (2/20/11) Folded *make-edges-over-new-digit-sequences* into standard ddm
+;;      settings. 
 
 
 (in-package :sparser)
@@ -104,6 +105,8 @@
           *version-of-complete*)
   (format stream "~%      include property-based edges? ~A"
           *make-edges-for-unknown-words-from-their-properties*)
+  (format stream "~%    edges over new digit sequences? ~A"
+          *make-edges-over-new-digit-sequences*)
   (format stream "~%        brackets for unknown words? ~A"
           *introduce-brackets-for-unknown-words-from-their-suffixes*)
   (format stream "~%               do the forest level? ~A"
@@ -166,7 +169,7 @@
 
 (defun ignore-unknown-words ()
   (setq *make-edges-for-unknown-words-from-their-properties* nil)
-  (setq  *introduce-brackets-for-unknown-words-from-their-suffixes* nil))
+  (setq *introduce-brackets-for-unknown-words-from-their-suffixes* nil))
 
 
 (defun all-edges-setting ()
@@ -242,6 +245,7 @@
   ;; more specific settings
   (setq *use-segment-edges-as-segment-defaults* nil)
   (ignore-unknown-words)
+  (setq *make-edges-over-new-digit-sequences* t)
   (setq  *forest-level-protocol* 'parse-forest-and-do-treetops)
   (setq *segment-scan/forest-level-transition-protocol*
         :move-when-segment-can-never-extend-rightwards)

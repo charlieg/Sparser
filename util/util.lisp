@@ -1,12 +1,12 @@
 ;;; -*- Mode: Lisp; Syntax: COMMON-LISP; Base:10; -*-
 ;;; $Id$
 ;;; Copyright (c) 2006 BBNT Solutions LLC.
-;;; Copyright (c) 2010 David D. McDonald
+;;; Copyright (c) 2010-2011 David D. McDonald
 
-;; 11/10 Folding in forgotten functions from original set, i.e. Lisp Machine days
+;; 11/2010 Folding in forgotten functions from original set, i.e. Lisp Machine days
+;; 3/8/11 Moved out exports
 
 (in-package :ddm-util)
-;; n.b. modify this when utilities are unified
 
 ;;;-----------------------------------------------------------
 ;;;   syntactic sugar (functions that ought to be in CL)
@@ -16,28 +16,9 @@
   (describe o)
   o)
 
-(defun string-append (&rest list-of-strings)
-  (let ( strings )
-    (dolist (s list-of-strings)
-      (push (typecase s
-              (string s)
-              (symbol (format nil "~a" (symbol-name s)))
-              (number (format nil "~a" s))
-              (pathname
-               (format nil "~a" (namestring s)))
-              (namespace
-               (format nil "~a" (ns-short-form s)))
-              (otherwise
-               (break "string-append - new type: ~a~%~a"
-                      (type-of s) s)))
-            strings))
-    (apply #'concatenate 'string (nreverse strings))))
-
 (defun concat (&rest list-of-strings)
   ;; ends up in the default package
   (intern (apply #'string-append list-of-strings)))
-
-
 
 (defun append-new (&rest lists)
   (let ((output-list (nreverse (copy-list (car lists))))
@@ -48,9 +29,8 @@
     (nreverse output-list)))
 
 (unless (fboundp 'assq)
-(defun assq (item alist)
-  (assoc item alist :test #'eq))
-  )
+  (defun assq (item alist)
+    (assoc item alist :test #'eq)))
 ;; these ought to be substitution macros, but I don't know
 ;; if we can do that
 (unless (fboundp 'memq)
@@ -287,12 +267,13 @@
      sexp)))
 
 
-
+#+ignore
 (defmacro format-nl (stream string &rest args)
   `(let* ((format-string (format nil "~&~%~%~%~a~%~%~%~%~%" ,string))
           (form (list* 'format ,stream format-string ',args)))
      (eval form)))
 
+#| Jake's utilities.Not comfortable with them yet
 
 ;; Generic method for equivalence testing
 (defmethod eqv (a b) (equalp a b))
@@ -333,17 +314,12 @@
   (load file :verbose verbose :print print))
 
 
-;; Method for displaying the contents of a hashtable
-(defun hashtable-to-alist (table)
-  (let ((alist '()))
-    (maphash (lambda (k v) (push (cons k v) alist)) table)
-    alist))
-
 ;; (leaf-map #'sqrt '(((4 1) 25) (9 100) 64)) = (((2.0 1.0) 5.0) (3.0 10.0) 8.0)
 (defun leaf-map (fn tree)
   (if (listp tree)
       (mapcar (pcf leaf-map fn) tree)
     (funcall fn tree)))
+
 
 ;;;; with-popped-alist-value
 ;; If alist contains key, then bind the associated value to valvar,
@@ -367,60 +343,18 @@
        (when (funcall ,default? ,v) (setf ,v (setf ,accessor ,init)))
        ,v)))
 
-;;--- time routines
-; (month-day-year (decoded-to-encoded-time :month 11 :day 30 :year 2010))
-(defun decoded-to-encoded-time (&key second minute hour
-				day month year day-of-week
-				daylight-savings-time-p time-zone)
-  (encode-universal-time (or second 0)
-			  (or minute 0)
-			  (or hour 0)
-			  (or day 1)
-			  (or month 1)
-			  (or year 2010)
-			  ;(or day-of-week 0) ;; Monday
-			  ;(or daylight-savings-time-p t)
-			  (or time-zone 5))) ;; Boston
-
-(defun month-day-year ()
-  (multiple-value-bind (second minute hour
-                        date month year day-of-week
-                        daylight-savings-time-p time-zone)
-      (get-decoded-time)
-
-    (declare (ignore second minute hour
-                     day-of-week daylight-savings-time-p
-                     time-zone))
-
-    (values month date year)))
-
-(defun day-month-&-year-as-formatted-string ()
-  (multiple-value-bind (month day year)
-      (month-day-year)
-    (format nil "~A/~A/~A" month day year)))
-
-(defun time-as-formatted-string (&optional time
-                                 &key dot-instead-of-colon)
-  (multiple-value-bind (second minute hour
-                               date month year day-of-week
-                               daylight-savings-time-p time-zone)
-      (if time
-          (decode-universal-time time)
-          (get-decoded-time))
-
-    (declare (ignore date month year day-of-week
-                     daylight-savings-time-p time-zone))
-
-    (if dot-instead-of-colon
-      (format nil "~A.~A.~A" hour minute second)
-      (format nil "~A:~A:~A" hour minute second))))
-
-(defun date-&-time-as-formatted-string (&key dot-instead-of-colon)
-  (format nil "~A ~A"
-          (day-month-&-year-as-formatted-string)
-          (time-as-formatted-string nil :dot-instead-of-colon dot-instead-of-colon)))
+|#
 
 
+;; Method for displaying the contents of a hashtable
+(defun hashtable-to-alist (table)
+  (let ((alist '()))
+    (maphash (lambda (k v) (push (cons k v) alist)) table)
+    alist))
+
+
+
+#|
 (defun parse-ltml-date-time-to-mins (timestr)
   (multiple-value-bind (day pos1) (read-from-string timestr)
     (let* ((pos2 (position #\: timestr))
@@ -439,19 +373,9 @@
 
 (defun ltml-time-lessthan (str1 str2)
   (< (parse-ltml-date-time-to-mins str1) (parse-ltml-date-time-to-mins str2)))
+|#
 
-;; from LKB
-(defun write-time-readably (&optional stream)
-  (multiple-value-bind
-      (sec min hour date month year)
-      (get-decoded-time)
-    (format (or stream t) "~%~A:~A:~A ~A ~A ~A~%" hour min sec date 
-            (ecase month
-                (1 "Jan") (2 "Feb") (3 "Mar") (4 "Apr") (5 "May") 
-                (6 "Jun") (7 "Jul") (8 "Aug") (9 "Sep") (10 "Oct")
-                (11 "Nov") (12 "Dec"))
-            year)))
-
+#|
 ;;;----------------------------
 ;;; compact trace-msg facility
 ;;;----------------------------
@@ -511,7 +435,7 @@
        (let ((,value ,@body))
          (setf (gethash ',category *trace-levels*) ,saved)
          ,value))))
-
+|#
 
 
 ;;;------------------------------------------------
@@ -556,18 +480,23 @@
 	. ,options))
 
 
+;; stray Sparser predicate
+
+(defun symbol-name-string-lessp (s1 s2)
+  (let ((pname1 (symbol-name s1))
+        (pname2 (symbol-name s2)))
+    (string-lessp pname1 pname2)))
+
+
 ;;;---------------------
 ;;; old Lispm functions
 ;;;---------------------
-
-(defmacro then (&body forms) `(progn ,@forms))
-(defmacro else (&body forms) `(progn ,@forms))
 
 (defmacro until (test retval &body body)
   `(do ()
      (,test
       ,retval)
-     . ,body))a
+     . ,body))
 
 (defmacro dbind (lambda-list argument &body body)
   `(apply #'(lambda ,lambda-list . ,body)
@@ -714,9 +643,9 @@ tries to arrange that everything is tabbed to this column.")
 (defun tabbed-format (stream format-string &rest format-args)
   "This is just like FORMAT, except that it tries to tab things over."
   (apply #'format
-	 stream
-	 (modify-format-string format-string)
-	 format-args))
+         stream
+         (modify-format-string format-string)
+         format-args))
 
 (defsubst tilde? (ch)
   (eql ch #\~))
@@ -727,8 +656,8 @@ tries to arrange that everything is tabbed to this column.")
 
 (defun insert-tab (str)
   (let ((tab-string (if (= *tabbed-format-column* 40)
-			"~40T"
-			(format nil "~~~dT" *tabbed-format-column*))))
+                      "~40T"
+                      (format nil "~~~dT" *tabbed-format-column*))))
     (dotimes (i (length tab-string))
       (vector-push (char tab-string i) str))))
 
@@ -738,42 +667,40 @@ tries to arrange that everything is tabbed to this column.")
    something similar, based on *tabbed-format-column* inserted in the string
    after each `~n%' and `~n&' and also at the beginning."
   (let* ((insert   (format nil "~~~dT" *tabbed-format-column*))
-	 (add-len  (* (length insert) (+ 1 (count #\% old) (count #\& old))))
-	 (old-len  (length old))
-	 (new-len  (+ old-len add-len))
-	 (new-str  (make-array new-len
-			       :element-type 'string-char
-			       :fill-pointer 0)))
+         (add-len  (* (length insert) (+ 1 (count #\% old) (count #\& old))))
+         (old-len  (length old))
+         (new-len  (+ old-len add-len))
+         (new-str  (make-array new-len
+                      :element-type 'string-char
+                      :fill-pointer 0)))
     (macrolet ((return-char? (ch)
-		 `(or (eql ,ch #\%) (eql ,ch #\&)))
-	       (tilde? (ch)
-		 `(eql ,ch #\~))
-	       )
+                 `(or (eql ,ch #\%) (eql ,ch #\&)))
+               (tilde? (ch)
+                 `(eql ,ch #\~)))
       (insert-tab new-str)
       (do* ((index           0             (1+ index))
-	    (i               nil                    j)
-	    (j               nil                    k)
-	    (k     (char old index)  (char old index)))
-	   ;; This exit condition will NOT process the last char, and that's OK.
-	   ;; We don't want to leave the cursor in column 40, in case the person
-	   ;; next calls FORMAT and wants things on the left margin.
-	   ((= index (1- old-len))
-	    (vector-push k new-str))
-	(vector-push k new-str)
-	(when (and (return-char? k)
-		   (or (tilde? j)
-		       (and (digit-char-p j)
-			    (tilde? i))))
-	  (insert-tab new-str))))
+            (i               nil                    j)
+            (j               nil                    k)
+            (k     (char old index)  (char old index)))
+           ;; This exit condition will NOT process the last char, and that's OK.
+           ;; We don't want to leave the cursor in column 40, in case the person
+           ;; next calls FORMAT and wants things on the left margin.
+           ((= index (1- old-len))
+            (vector-push k new-str))
+        (vector-push k new-str)
+        (when (and (return-char? k)
+                   (or (tilde? j)
+                       (and (digit-char-p j)
+                            (tilde? i))))
+          (insert-tab new-str))))
     new-str))
 
 
 (defun format-fully-qualified (stream fstring &rest args)
    "Output FSTRING and ARGS onto STREAM -- all objects formatted with the ~S
     directive are fully qualified.  (this ought to be an option to ~S)"
-   (let-with-dynamic-extent
-      ((*package* nil))
-      (apply #'format stream fstring args)))
+   (let-with-dynamic-extent ((*package* nil))
+     (apply #'format stream fstring args)))
 
 
 ;;; ============================================================================
@@ -798,15 +725,13 @@ tries to arrange that everything is tabbed to this column.")
   (check-type keys-and-values? boolean)
   (let ((elements  ()))
     (flet ((collect-both  (key value)
-	     (push (cons key value) elements))
-	   
-	   (collect-value (key value)
-	     (declare (ignore key))
-	     (push value elements))
-	   )
+             (push (cons key value) elements))
+           (collect-value (key value)
+             (declare (ignore key))
+             (push value elements)))
       (if keys-and-values?
-	  (maphash #'collect-both ht)
-	  (maphash #'collect-value ht)))
+	    (maphash #'collect-both ht)
+        (maphash #'collect-value ht)))
     elements))
 
 ;;; ==========================================================================
@@ -824,35 +749,4 @@ tries to arrange that everything is tabbed to this column.")
   (break "~a" string))
 
 
-;;;---------
-;;; exports
-;;;---------
 
-;;/// prune as parts of this big file are pruned
-(export '(then else d 
-	  string-append concat
-
-	  ;; n.b. there are other MISC.LISP lispm-era utils not yet
-	  ;; checked out and carried forward
-	  until dbind defsubst
-	  let-with-dynamic-extent let-with-dynamic-extent-unless-bound
-	  let*-with-dynamic-extent comment
-	  assq memq 
-	  temporarily-inhibit-fdefine-warnings cond-every
-	  cond-every
-	  apush add-association remove-association delete-association
-	  tilde? return-char?
-	  add1 sub1
-	  newline
-	  list-hash-table
-	  mbug mbreak sorry
-
-	  decoded-to-encoded-time month-day-year 
-
-	  append-new 
-	  keys-of-association-list
-	  tail-cons deep-copy 
-
-        defobject
-	  )
-	(find-package :ddm-util))

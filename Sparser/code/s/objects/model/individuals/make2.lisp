@@ -121,7 +121,7 @@
               (keyword
                (case (first realization-data)
                  (:rules)
-		 (:synonyms)
+                 (:synonyms)
                  (:schema
                   (setq rdata-schema (second realization-data))
                   (apply-realization-schema-to-individual

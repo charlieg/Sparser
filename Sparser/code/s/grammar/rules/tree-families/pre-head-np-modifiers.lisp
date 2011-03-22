@@ -1,10 +1,10 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994-2005,2011 David D. McDonald  -- all rights reserved
 ;;; copyright (c) 2006 BBNT Solutions LLC. All Rights Reserved
 ;;;
 ;;;     File:  "pre-head np modifiers"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  0.7 March 2006
+;;;  version:  0.7 February 2011
 
 ;; initiated 4/28/94 v2.3
 ;; 0.1 (10/20) refined some of the distinctions amoung cases
@@ -49,7 +49,13 @@
 
 
 (define-exploded-tree-family  modifier-creates-subtype
-  :description "An n-bar phrase (an np before the determiner is added) consisting of a head noun (or n-bar phrase) with a preceding modifier, where the combination denotes an object type rather than an instance and no substructure is retained. Compare to Modifier-creates-individual or Modifier-creates-definite-individual."
+  :description "An n-bar phrase (an np before the determiner is added) 
+       consisting of a head noun (or n-bar phrase) with a 
+        preceding modifier, where the combination denotes 
+        an object type rather than an instance 
+        and no substructure is retained. 
+        Compare to Modifier-creates-individual or
+            Modifier-creates-definite-individual."
   :binding-parameters (  )
   :labels ( n-bar subtyping-modifier np-head result-category )
   :cases
@@ -61,7 +67,14 @@
 
 
 (define-exploded-tree-family  modifier-creates-individual
-  :description "An n-bar phrase (an np before the determiner is added) consisting of a head noun (or n-bar phrase) with a preceding modifier, where the combination denotes an instance of a different type than the head but one that still requires a determiner, e.g. \"Dutch company\", \"publishing group\". Compare to Modifier-creates-subtype or Modifier-creates-definite-individual."
+  :description "An n-bar phrase (an np before the determiner is added) 
+       consisting of a head noun (or n-bar phrase) with a 
+       preceding modifier, where the combination denotes 
+       an instance of a different type than the head
+       but one that still requires a determiner, 
+       e.g. \"Dutch company\", \"publishing group\". 
+       Compare to Modifier-creates-subtype or
+                Modifier-creates-definite-individual."
   :binding-parameters ( modifier  head  )
   :labels ( n-bar subtyping-modifier np-head result-category )
   :cases
@@ -80,7 +93,10 @@
       "last year"   |#
 
 (define-exploded-tree-family  modifier-creates-definite-individual
-  :description "A combination of a head noun (or n-bar) and a modifier such as a sequencer. The resulting NP does not need a determiner and now refers to a specific individual, a specific instance of the head term. E.g. \"last year\""
+  :description "A combination of a head noun (or n-bar) and a modifier 
+     such as a sequencer. The resulting NP does not need a determiner 
+     and now refers to a specific individual, a specific instance
+     of the head term. E.g. \"last year\""
   :binding-parameters ( individuator  base-category )
   :labels ( np modifier np-head result-type )
   :cases
@@ -118,10 +134,15 @@
 
   The result is an NP.  It doesn't need a determiner.
   The category of the np is different from the category of the head.
-|#
+      but the head does contribute information |#
 
 (define-exploded-tree-family  quantity+kind
-  :description "A complete noun phrase consisting of a word or phrase that refers to a quantity and then a head that names a kind of individual. The combination creates a new individual of a different type with the quantity and kind as its defining parts, that the np will refer to and the quantify adds, e.g. \"7 tons\", which creates a measurement, or \"43 years\" which creates an age."
+  :description "A complete noun phrase consisting of a word or phrase 
+       that refers to a quantity and then a head that names a kind of 
+       individual. The combination creates a new individual 
+       of a different type with the quantity and kind as its defining parts,
+       that the np will refer to and the quantify adds, e.g. \"7 tons\", 
+       which creates a measurement, or \"43 years\" which creates an age."
   :binding-parameters ( quantity base )
   :labels ( np modifier np-head result-type )
   :cases
@@ -141,13 +162,34 @@ always headed by an mulitplier word, e.g. "10 million"
 |#
 
 (define-exploded-tree-family  number-of-quantity
-  :description "A way of formulating a number that consists of a number modifying the name of a quantity, e.g. \"5 dozen\", \"1.52 trillion\". The result is a complete noun phrase. Compounded instance of this family are always left-branching, e.g. \"15 dozen dozen\" brackets as ((15 dozen) dozen). The resulting number has to be calculated, and should include illions-distribution binding, so it deploys a function in its reference field."
+  :description "A way of formulating a number that consists of a number 
+     modifying the name of a quantity, e.g. \"5 dozen\", \"1.52 trillion\". 
+    The result is a complete noun phrase. Compounded instance of this family 
+    are always left-branching, e.g. \"15 dozen dozen\" brackets as ((15 dozen) dozen). 
+    The resulting number has to be calculated, and should include illions-distribution
+    binding, so it deploys a function in its reference field."
   :binding-parameters ( )
   :labels ( np modifier np-head )
   :cases
      ((:modifier (np (modifier np-head)
                   :function (apply-multiplier))
                  :head right-edge)                 
+
+      (:hyphenated  (np-head ("-" np-head)
+                      :daughter right-edge))))
+
+
+;; Same thing as quantity+kind, but the head doesn't contribute any information.
+;; e.g. "(47 years) old"
+
+(define-exploded-tree-family  quantity+idiomatic-head
+  :binding-parameters ( quantity )
+  :labels ( np modifier np-head result-type )
+  :cases
+     ((:modifier (np (modifier np-head)
+                  :instantiate-individual result-type
+                  :head right-edge
+                  :binds (quantity left-edge)))
 
       (:hyphenated  (np-head ("-" np-head)
                       :daughter right-edge))))

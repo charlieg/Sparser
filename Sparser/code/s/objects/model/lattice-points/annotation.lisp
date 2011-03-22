@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1998-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1998-2005,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "annotation"
 ;;;   Module:  "objects;model:lattice-points:"
@@ -37,6 +37,7 @@
 ;;      composites in Annotate-site-bound-to
 ;;     (10/31/06) Added *annotate-realizations* switch to control whether this
 ;;      stuff runs.
+;; 0.2 (3/19/11) Updated & revitalized the code. 
 
 (in-package :sparser)
 
@@ -52,7 +53,7 @@
 ;;; annotation cases
 ;;;------------------
 
-;; Called from Referent-from-unary-rule and Find-or-make-psi-for-base-category
+;; Called from referent-from-unary-rule and find-or-make-psi-for-base-category
 ;;
 (defun annotate-realization/base-case (lattice-point category)
   (when *annotate-realizations*
@@ -172,74 +173,80 @@
 
 
 
-;; Called from Ref/instantiate-individual-with-binding
+;; Called from ref/instantiate-individual-with-binding
 ;;
-(defun annotate-realization-pair (lattice-point rule
+(defun annotate-realization-pair (i lattice-point rule
                                   head-edge arg-edge)
   (when *annotate-realizations*
     ;; annotating the application of a canonical binary rule.
     ;; The rnodes of the two edge are linked to a new rnode
     ;; made for this rule and lattice-point.
     (cond ((and head-edge arg-edge)) ;; canonical
-	  ((eq arg-edge :unary-rule) ;; hack (subtype)
-	   (setq arg-edge nil))
-	  (t (break "Bad setup: one or both edges was not supplied")))
+          ((eq arg-edge :unary-rule) ;; hack (subtype)
+           (setq arg-edge nil))
+          (t (break "Bad setup: one or both edges was not supplied")))
 
     (let* ((existing-annotations (lp-realizations lattice-point))
-	   (rc (rule-component-to-use rule))
-	   (entry (find rc existing-annotations :key #'rn-cfr)))
+           (rc (rule-component-to-use rule))
+           (entry (find rc existing-annotations :key #'rn-cfr)))
       (if entry
-	  (tr :known-entry entry lattice-point)
-	  (else
-	    (setq entry (get-rnode))
-	    (setf (rn-lattice-point entry) lattice-point)
-	    (setf (rn-cfr entry) rc)
-	    
-	    ;; knit everything together
-	    (let ((head-rnode
-		   (when head-edge (rnode-for-edge head-edge)))
-		  (arg-rnode
-		   (when arg-edge (rnode-for-edge arg-edge))))
-	      (when head-rnode
-		(setf (rn-head entry) head-rnode)
-		(push entry (rn-downward-links head-rnode)))
-	      (when arg-rnode
-		(setf (rn-arg entry) arg-rnode)
-		(push entry (rn-downward-links arg-rnode))))
-	    
-	    (add-new-rnode-to-lattice-point entry lattice-point)
-	    (tr :new-entry entry lattice-point)))
-      
+	    (tr :known-entry entry lattice-point)
+        (else
+          (setq entry (get-rnode))
+          (setf (rn-lattice-point entry) lattice-point)
+          (setf (rn-cfr entry) rc)
+          (add-new-rnode-to-lattice-point entry lattice-point)
+          (add-rnode-to-its-individual entry i)
+          (tr :new-entry entry lattice-point rc)))
+
+      ;; Knit everything together.
+      (let ((head-rnode
+             (when head-edge (rnode-for-edge head-edge)))
+            (arg-rnode
+             (when arg-edge (rnode-for-edge arg-edge))))
+        ;; The lp is from find-or-make-psi-for-base-category
+        ;; which ran before we go to these arguments.
+        (when head-rnode
+          (tr :setting-rnode-head head-rnode)
+          (setf (rn-head entry) head-rnode)
+          (push entry (rn-downward-links head-rnode)))
+        (when arg-rnode
+          (tr :setting-rnode-arg arg-rnode)
+          (setf (rn-arg entry) arg-rnode)
+          (push entry (rn-downward-links arg-rnode))))
+
       (cache-rnode-on-parent-edge entry)
       entry)))
 
 
 
 (defun annotate-site-bound-to (i/psi variable type)
+  ;; Called from ref/instantiate-individual-with-binding
   ;; annotating the inclusion of an individual (or psi) into
   ;; a larger relation. First find/make the appropriate c+v
   ;; object and then stash it on the i/psi.
   (when *annotate-realizations*
+    (tr :site-bound-to i/psi variable type)
     (push-debug `(,i/psi ,variable ,type)) ;; (i/psi variable type)
     (let* ((category (etypecase type
-		       (lattice-point (category-of-psi i/psi))
-		       (referential-category type)))
-	   (c+v (find-or-make-c+v category variable)))
+                       (lattice-point (category-of-psi i/psi))
+                       (referential-category type)))
+           (c+v (find-or-make-c+v category variable)))
       (etypecase i/psi
-	(psi (let ((lp (psi-lattice-point i/psi)))
-	       (unless (memq c+v (lp-psi-uses lp))
-		 (push c+v (lp-psi-uses lp)))))
+        (psi (let ((lp (psi-lattice-point i/psi)))
+               (unless (memq c+v (lp-psi-uses lp))
+                 (push c+v (lp-psi-uses lp)))))
         ;;(composite-referent 
-	;; place-holder since it's not clear what this would mean
-	;; given that composites are a mechanism for passing multiple
-	;; referents up the line.
-	;; )
-	(individual
-	 (let ((lp (cat-lattice-position (first (indiv-type i/psi)))))
-	   (unless (memq c+v (lp-indiv-uses lp))
-	     (push c+v (lp-indiv-uses lp)))))
-	(referential-category) ;; hit this case with 'end' in 'end-date'
-	)
+        ;; place-holder since it's not clear what this would mean
+        ;; given that composites are a mechanism for passing multiple
+        ;; referents up the line.
+        ;; )
+        (individual
+         (let ((lp (cat-lattice-position (first (indiv-type i/psi)))))
+           (unless (memq c+v (lp-indiv-uses lp))
+             (push c+v (lp-indiv-uses lp)))))
+        (referential-category)) ;; hit this case with 'end' in 'end-date'
+      (tr :site-bound-t-c+v c+v)
       c+v )))
     
   
@@ -278,7 +285,16 @@
 ;;;---------------------------------------
 
 (defun add-new-rnode-to-lattice-point (node lattice-point)
-  (push node (lp-realizations lattice-point)))
+  (push-debug `(,node ,lattice-point)) 
+  (push node (lp-realizations lattice-point))
+  (when (saturated? lattice-point)
+    ;; Copy it to the top-lp. Might be redundant if the rule
+    ;; we've run created a psi, in which case the top-lp
+    ;; already has this rnode.
+    (push node (lp-realizations (lp-top-lp lattice-point))))
+  #+ignore(break "rnode => lp:~
+        ~%   ~a~
+        ~%   ~a" node lattice-point))
 
 
 (defun add-rnode-to-its-individual (node unit)

@@ -78,7 +78,7 @@
                   ((:pp-adjunct (s (s as-title)
                                  :head left-referent
                                  :binds (position  right-referent)))
-		   (:pp-adjunct (s (s position-at-co)
+                   (:pp-adjunct (s (s as-position-at-co)
                                  :head left-referent
                                  :binds (position  right-referent))))
 		  ))

@@ -1,31 +1,22 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1995  David D. McDonald  -- all rights reserved
+;;; Copyright (c) 1995,2011  David D. McDonald  -- all rights reserved
 ;;; 
 ;;;     File:  "per share"
 ;;;   Module:  "model;sl:ERN:"
-;;;  Version:  December 1995
+;;;  Version:  February 2011
 
 ;; initiated 12/22/95
 ;; 1.1 (7/24/98) Moved to cleaner design given newer techniques
+;; 1.2 (2/17/11) Reconciling with core/finance/per share(1), which has
+;;      the better treatments that this must have been migrating to
+;;      but not gotten all the way. Removed redundant share-of-stock and
+;;      amount-per-share categories.
+;;----------- 2/20/11 Don't load this one (nobody presently does)
+;;   instead use /core/finance/per-share1.lisp ----------------------
+;;   Contents were copied out of here in toto to core/finance/per-share
+;;   in January 1996.
 
 (in-package :sparser)
-
-#|
-(define-category  price-of-shares
-  :specializes  measurement  ;; well 'ratio' actually
-  :instantiates self
-  :binds ((value . money))
-  :index (:key value)
-  :realization (:tree-family item+idiomatic-head
-                :mapping ((item . value)
-                          (result-type . self)
-                          (np . self)
-                          (modifier . money)
-                          (np-head . "per share")))) |#
-           ;; where do the alternative phrasings go
-           ;; and wouldn't it be nice to get a useful fragment
-           ;; from the word "share" by itself
-                            
 
 #| 
 (define-category  share-of-stock
@@ -49,14 +40,9 @@
  should be a general facility with any number and should take the
  category into a specialization that makes it the criteria function
  of a collection, but since the clean subtyping facility isn't in place,
- we could just add a number slot and a form rule for the 'a'  |#
+ we could just add a number slot and a form rule for the 'a'
+  |#
 
-(define-category  share-of-stock
-  :specializes nil
-  :instantiates self
-  :binds ((number))
-  :index (:key number)
-  :realization (:common-noun "share"))
 
 
 (def-form-rule ("a" common-noun)

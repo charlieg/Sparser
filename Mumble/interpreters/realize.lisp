@@ -1,10 +1,9 @@
 ;;; -* Mode: LISP;  Package: MUMBLE; Syntax: Common-lisp; Base: 10 -*-
-;;; $Id: realize.lisp 342 2009-12-29 18:35:14Z dmcdonal $
 
 ;;; MUMBLE-05:  interpreters> realization> realize
 
+;;; Copyright (C) 2005,2010-2011 David D. McDonald
 ;;; Copyright (c) 2006-2009 BBNT Solutions LLC. All Rights Reserved
-;;; Copyright (C) 2005, 2010 David D. McDonald
 ;;; Copyright (C) 1985, 1986, 1987, 1988  David D. McDonald
 ;;;   and the Mumble Development Group.  All rights
 ;;;   reserved. Permission is granted to use and copy
@@ -14,6 +13,7 @@
 ;; 9/16/09 Added generic method for realization-for. 9/18 revised realize to
 ;; no longer feed instantate-rspec (that level of interpretation belongs in
 ;; realization-for and to take a lexicalized-phrase as a return value
+;; 3/17/11 Tweaking things a little
 
 (in-package :mumble)
 
@@ -41,24 +41,24 @@
     (otherwise
      (if (has-realization? obj)
        (let ((instantiation (realization-for obj) obj))
-	 (typecase instantiation
-	   (phrasal-root instantiation)
-	   (lexicalized-phrase ;; new 9/18/09
-	    (instantiate-lexicalized-phrase instantiation))
-	   ((or bundle-specification kernel-specification)
-	    (realize instantiation))
-	   (derivation-tree-node
-	    (realize-dtn instantiation))
-	   (word instantiation)
-	   ;(pronoun instantiation)
-	   (otherwise
-	    (push-debug `(,instantiation))
-	    (break "New type of result from instantiate-rspec: ~a~%~a"
-		   (type-of instantiation) instantiation))))
+         (typecase instantiation
+           (phrasal-root instantiation)
+           (lexicalized-phrase ;; new 9/18/09
+            (instantiate-lexicalized-phrase instantiation))
+           ((or bundle-specification kernel-specification)
+            (realize instantiation))
+           (derivation-tree-node
+            (realize-dtn instantiation))
+           (word instantiation)
+           ;;(pronoun instantiation)
+           (otherwise
+            (push-debug `(,instantiation))
+            (break "New type of result from realization-for: ~a~%~a"
+                   (type-of instantiation) instantiation))))
        (else
-	 (push-debug `(,obj))
-	 (break "New type of object passed to realize: ~a~%~a"
-		(type-of obj) obj))))))
+         (push-debug `(,obj))
+         (break "No result from realization-for on ~a~%of type ~a"
+                obj (type-of obj)))))))
 
 
 
@@ -83,8 +83,9 @@
 (defun realize-dtn (dtn) 
   (push-debug `(,dtn)) 
   (let ((resource (resource dtn))
-	phrase-type  root-node )
+        phrase-type  root-node )
     (push-debug `(,resource))
+
     ;; Get the phrase instantiated
     (typecase resource
       (lexicalized-phrase (break "realize-dtn lexicalized-phrase stub"))
@@ -95,18 +96,19 @@
        (break "New/unexpected type of resource in DTN: ~a~%  ~a"
 	      (type-of resource) resource)))
 
+    ;; Handle features and adjunctions
     (typecase resource
       (phrase
        (push-debug `(:realize-dtn ,root-node ,phrase-type))
        ;;(break "after dtn resource instantiated") ;; replace w/ landmark??
-       ;; Handle features and adjunctions
        (case (name phrase-type)
-	 (clause
-	  (clausal-bundle-driver dtn root-node))
-	 (np
-	  (general-np-bundle-driver dtn root-node))
-	 (otherwise 
-	  (error "Unexpected name of phrase-type: ~a" (name phrase-type))))))
+         (clause
+          (clausal-bundle-driver dtn root-node))
+         (np
+          (general-np-bundle-driver dtn root-node))
+         (otherwise 
+          (error "Unexpected name of phrase-type: ~a"
+                 (name phrase-type))))))
 
     ;; Pass the node back to be knit-in.
     root-node))

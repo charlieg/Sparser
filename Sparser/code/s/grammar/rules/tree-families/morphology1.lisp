@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2005, 2010 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005,2010-2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2008-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "morphology"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  1.4 October 2009
+;;;  version:  1.7 March 2010
 
 ;; initiated 8/31/92 v2.3, fleshing out verb rules 10/12
 ;; 0.1 (11/2) fixed how lists of rules formed with synonyms
@@ -66,6 +66,11 @@
 ;;      explicit set (with brackets) for adjectives.
 ;; 1.6 (11/4/10) Earlier in October added vast amount to the stemming capabilities.
 ;;      Today resurecting define-main-verb entry point from 1993 JV work.
+;; 1.7 (3/14/11) Decided I wanted more rope for hanging myself and decided that
+;;      the :instantiates field of a category (which the ancient doc says, and it's
+;;      true the last time I looked, governs the category an individual is indexed
+;;      under in the discourse history) should now also govern the lhs of the
+;;      rewrite rules.
  
 (in-package :sparser)
 
@@ -75,27 +80,33 @@
 
 (defun head-word-rule-construction-dispatch (head-word category referent)
   ;; called from make-rules-for-rdata. Keep etf for single-words in synch.
-  (ecase (car head-word)
-    (:verb (make-verb-rules
-            (cdr head-word) category referent))
-    (:common-noun (make-cn-rules
-                   (cdr head-word) category referent))
-    (:proper-noun (make-pn-rules
-                   (cdr head-word) category referent))
-    (:adjective (make-rules-for-adjectives
-                 (cdr head-word) category referent))
-    (:quantifier (make-rules-for-word-w/o-morph
-                  (cdr head-word) category referent))
-    (:adverb (make-rules-for-adverbs
-              (cdr head-word) category referent))
-    (:interjection (make-interjection-rules
-                   (cdr head-word) category referent))
-    (:preposition (make-preposition-rules
-                   (cdr head-word) category referent))
-    (:word (make-rules-for-word-w/o-morph
-            (cdr head-word) category referent))
-    (:standalone-word (make-rules-for-standalone-word
-                       (cdr head-word) category referent))))
+  (let* ((category-instantiated (category-instantiates category))
+         (lhs-category (or (when category-instantiated
+                             (if (not (eq category-instantiated category))
+                               category-instantiated
+                               category))
+                           category)))
+    (ecase (car head-word)
+      (:verb (make-verb-rules
+              (cdr head-word) lhs-category referent))
+      (:common-noun (make-cn-rules
+                     (cdr head-word) lhs-category referent))
+      (:proper-noun (make-pn-rules
+                     (cdr head-word) lhs-category referent))
+      (:adjective (make-rules-for-adjectives
+                   (cdr head-word) lhs-category referent))
+      (:quantifier (make-rules-for-word-w/o-morph
+                    (cdr head-word) lhs-category referent))
+      (:adverb (make-rules-for-adverbs
+                (cdr head-word) lhs-category referent))
+      (:interjection (make-interjection-rules
+                      (cdr head-word) lhs-category referent))
+      (:preposition (make-preposition-rules
+                     (cdr head-word) lhs-category referent))
+      (:word (make-rules-for-word-w/o-morph
+              (cdr head-word) lhs-category referent))
+      (:standalone-word (make-rules-for-standalone-word
+                         (cdr head-word) lhs-category referent)))))
 
 
 (defparameter *valid-keywords-for-irregular-word-forms*

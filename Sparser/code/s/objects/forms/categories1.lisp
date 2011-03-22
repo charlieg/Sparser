@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992,1993,1994,1995, 2010  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992,1993,1994,1995,2010  David D. McDonald  -- all rights reserved
 ;;;
 ;;;      File:   "categories"
 ;;;    Module:   "grammar;forms:"
@@ -38,7 +38,7 @@
 ;;;---------------------------------------------------
 
 (defmacro define-category (symbol &rest full-args)
-  ;; 7/16 -- This form is already in wide-spread use in its
+  ;; 7/16/92 -- This form is already in wide-spread use in its
   ;; trivial version with only the single argument, symbol. 
   ;;    We make a dispatch here to the expr routine in
   ;; "objects;model:categories:define" whenever there is more
