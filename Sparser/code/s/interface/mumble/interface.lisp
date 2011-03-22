@@ -19,7 +19,7 @@
 ;;;-------------------------
 
 (defmethod mumble::has-realization? ((i individual))
-  (of (indiv-rnodes i)
+  (or (indiv-rnodes i)
       (mumble::has-realization? (itype-of i))))
 
 (defmethod mumble::has-realization? ((i psi))
