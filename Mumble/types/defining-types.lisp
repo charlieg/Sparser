@@ -484,4 +484,4 @@ have to keep around temporary repositories for all this stuff.
 
 (defconstant *type-system-loaded* t)   ;; in mumble package
 
-(defconstant user::*type-system-loaded* t)
+(defconstant cl-user::*type-system-loaded* t)

@@ -1,7 +1,7 @@
 ;;; -*- Mode: Lisp; Syntax: Common-lisp; -*-
 ;;; $Id$
 ;;; Copyright (c) 2006-2009 BBNT Solutions LLC.
-;;; Copyright (c) 2010 David D. McDonald
+;;; Copyright (c) 2010-2011 David D. McDonald
 
 ;; tweaked 3/30/07 to use shared utility area. 4/2 Gave up on pulling the
 ;; two utility files from a separate directory once that directory got other
@@ -11,6 +11,7 @@
 ;; 12/9/10 Added option for location of mumble and draws on assumptions
 ;;  about being part of a larger system. Put stars around the location global
 ;;  12/22/10 Folded in derivation-tree files eliminating their loader.
+;; 3/23/11 Fixing CCL nits
 
 (in-package :cl-user)
 
@@ -22,8 +23,8 @@
     ((member :allegro *features*)
      (namestring
       (make-pathname :directory (pathname-directory *load-truename*))))
-    ((boundp *nlp-home*) 
-     (string-append *nlp-home* "Mumble/"))
+    ((boundp '*nlp-home*) 
+     (ddm-util:string-append *nlp-home* "Mumble/"))
     (t
      (break "Not running under Allegro Common Lisp.~
            ~%Can't construct relative pathname to location of Mumble"))))

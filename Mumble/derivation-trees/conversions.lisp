@@ -22,7 +22,7 @@
   (convert-to-derivation-tree (car rnodes) i))
 
 (defmethod convert-to-derivation-tree ((rnode sparser::realization-node)
-                                       (i t))
+                                       (i sparser::individual)) ;; subsumes psi
   "Called from realization-for. Has to return something that is suitable for
    consumption by realize. Initializes the top DTN if this is the
    first call."
@@ -33,26 +33,29 @@
          (relation (sparser::schr-relation schr))
          (descriptors (sparser::schr-descriptors schr))
          (etf (sparser::schr-tree-family schr)))
+    (push-debug `(,etf ,rnode ,schr ,relation))
     (cond
       ;; single-word cases
       ((sparser::defined-type-of-single-word relation)
        (let* ((sp-word (sparser::bound-word i))
               (m-word (find-or-make-word sp-word)))
          m-word))
+      ((sparser::has-mumble-mapping? etf)
+       (map-etf-to-dt dtn rnode etf schr))
       (t       
-       (push-debug `(,rnode ,i))
-       (break "Next case in convert-to-derivation-tree")))))
-#|
+       (push-debug `(,rnode ,i ,schr))
+       (break "Next case in convert-to-derivation-tree")))
+
     (if *the-derivation-tree*
       (then 
-	(push-debug `(,dtn ,rnode ,i))
-	(break "Root DNT already initialized. Are we in the right place?"))
+        (push-debug `(,dtn ,rnode ,i))
+        (break "Root DNT already initialized. Are we in the right place?"))
       (initialize-derivation-tree-data :root dtn))
-    dtn) |#
+    dtn))
 
 
 
-;;--- Helpers
+;;--- Words
 
 (defmethod find-or-make-word ((sw sparser::word))
   ;; Need to carry over the data on irregulars, which will be tricky
@@ -69,16 +72,40 @@
 
 
 
+;;--- Mapping to phrases
+
+(defun map-etf-to-dt (dtn rnode etf schr)
+  ;; returns populated DTN
+  (let* ((mapping (cdr (sparser::has-mumble-mapping? etf)))
+         (name-of-phrase (car mapping))
+         (arg-mapping (cadr mapping))
+         (phrase (phrase-named name-of-phrase)))
+    (unless phrase 
+      (push-debug `(,etf ,rnode  ,dtn))
+      (error "ETF mapping didn't return a phrase~%~a" etf))
+    (setf (resource dtn) phrase)
+    (map-rnode-args-to-complements rnode arg-mapping dtn)
+    dtn))
+
+(defun map-rnode-args-to-complements (rnode arg-mapping dtn)
+  (push-debug `(,rnode ,arg-mapping ,dtn))
+  (break "Write map-rnode-args-to-complements"))
+
+                                 
+
+
 
 
 ;;------------ 12/8/10 unreconstructed below here
+;;   Goes with original, rather ad-hoc treatment of fall 2009 before
+;;   the annotation facility was rebuilt and we got real rnodes
+;;   rather than ertzatz ones built from edges. 
 
-
-#|
+#|    references ltml package !!
 (defmethod convert-to-derivation-tree ((rpath sparser::rpath) (i ltml::LTML-class))
   (let ((ordered-rnodes (sparser::ordered-list-of-rnodes rpath))
-	(dtn (make-instance 'derivation-tree-node
-	        :referent i)))
+        (dtn (make-instance 'derivation-tree-node
+                            :referent i)))
     (setf (root *the-derivation-tree*) dtn)
     (setf (participants *the-derivation-tree*) `(,i))
 
@@ -87,46 +114,45 @@
       ;; so if we trust that, we can just put things where the conventionally go
       ;; and not have to examine the path.
       (read-out-rnode rnode i dtn))
-    dtn))  |#
-
+    dtn)) |#
 
 (defun read-out-rnode (rnode i dtn)
   (push-debug `(,rnode ,i ,dtn))
   (let* ((rule-descriptor (sparser::rule-used rnode))
-	 (variable (sparser::variable-bound rnode))
-	 (extracted-individual (sparser::extract-value-of-variable i variable)))
+         (variable (sparser::variable-bound rnode))
+         (extracted-individual (sparser::extract-value-of-variable i variable)))
     (push-debug `(,rule-descriptor))
     (multiple-value-bind (resource argument/s features-source)
-	(sparser::rule-descriptor-to-nlg-resource rule-descriptor)
+        (sparser::rule-descriptor-to-nlg-resource rule-descriptor)
       (push-debug `(,resource ,argument/s ,features-source))      
       (push-debug `(,i ,variable))
 ;      (break "resouce = ~a" resource) ;; look at whether we can do it before continuing
       ;; at this point it will go bad on the 2d rnode for that adjunction
 
       (typecase resource
-	(phrase 
-	 (unless (null (resource dtn))
-	  (error "The resource derived from ~a~%is a phrase but we've already ~
+        (phrase 
+         (unless (null (resource dtn))
+           (error "The resource derived from ~a~%is a phrase but we've already ~
                   fill that field in the dtn." rnode))
-	 (setf (resource dtn) resource))
-	(sparser::bidir-mapping ;; may be an easy way to cover lots of cases
-	 (let ((mumble-resource ;; feels like there's an opportunity for recursion
-		(sparser::mumble-resource resource)))
-	   (typecase mumble-resource
-	     (splicing-attachment-point
-	      (make-adjunction-node mumble-resource extracted-individual dtn))
-	     (otherwise
-	      (error "New/unexpectd mumble-side resource in bidir-mapping")))))
-	(otherwise
-	 (error "Unexpected type of resource for ~a: ~a~%  ~a"
-		rnode (type-of resource) resource)))
+         (setf (resource dtn) resource))
+        (sparser::bidir-mapping ;; may be an easy way to cover lots of cases
+         (let ((mumble-resource ;; feels like there's an opportunity for recursion
+                (sparser::mumble-resource resource)))
+           (typecase mumble-resource
+             (splicing-attachment-point
+              (make-adjunction-node mumble-resource extracted-individual dtn))
+             (otherwise
+              (error "New/unexpectd mumble-side resource in bidir-mapping")))))
+        (otherwise
+         (error "Unexpected type of resource for ~a: ~a~%  ~a"
+                rnode (type-of resource) resource)))
 
       (when argument/s ;; single-argument case. 
-	(unless variable (break "There are arguments but no corresponding variable"))
-	(unless (= 1 (length argument/s))
-	  (break "Stub not ready to do multi-parameter resources. Needs design"))
-	(make-complement-node (car argument/s) extracted-individual dtn)))
-      dtn))
+        (unless variable (break "There are arguments but no corresponding variable"))
+        (unless (= 1 (length argument/s))
+          (break "Stub not ready to do multi-parameter resources. Needs design"))
+        (make-complement-node (car argument/s) extracted-individual dtn)))
+    dtn))
 
 
 

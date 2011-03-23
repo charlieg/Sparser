@@ -92,6 +92,7 @@
     (copy-file source-file-path sink-file-path)))
 
 
+#-openmcl ;; rename it if the functionality has to be specific
 (defun copy-file (source-pathname sink-pathname)
   (with-open-file (source
 		   source-pathname

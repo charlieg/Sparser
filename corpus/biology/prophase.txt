@@ -1,0 +1,34 @@
+From Clark & Harrison 2010 in HLT MR workshop
+
+Topic: prophase
+
+input paragraph:
+from www.phschool.com/science/biology_place/biocoach/mitosisig/prophase.html
+(by Pearson)
+
+The page has this summary before its animation:
+
+"During prophase, chromosomes become visible,
+ the nucleolus disappears, the mitotic spindle forms,
+ and the nuclear envelope disappears."
+
+Then each of these sentences is a bullet point:
+
+"Chromosomes become more coiled and can be viewed
+ under a light microscope.
+
+ Each duplicated chromosome is seen as a pair of
+ sister chromatids joined by the duplicated but unseparated
+ centromere.  
+
+ The nucleolus disappears during prophase.
+ In the cytoplasm, the mitotic spindle, consisting of
+ microtubules and other proteins, forms between the
+ two pairs of centrioles as they migrate to
+ opposite poles of the cell.
+
+ The nuclear envelope disappears at the end of
+ prophase.
+
+ This signals the beginning of the substage
+ called prometaphase."

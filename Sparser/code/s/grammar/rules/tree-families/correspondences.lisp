@@ -5,12 +5,13 @@
 ;;;
 ;;;     File:  "correspondences"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  0.2 January 2011
+;;;  version:  0.2 March 2011
 
 ;; initiated 10/5/09. Expanded 11/10. 
 ;; (12/9/10) Reworking most of this to bring it in sync what what rnodes
 ;;  encode.
 ;; 0.2 (1/25/11) Removed need to check against core-omar.
+;;     (3/22/11) Starting to populate it. 
 
 (in-package :sparser)
 
@@ -18,11 +19,20 @@
 ;;; table of ETF to Tree
 ;;;----------------------
 
-(defparameter *etf-name-to-phrase*
-  '((
-)))
+(defvar *etf-name-to-phrase*
+  '(
+    ;; --file
+    (quantity+kind  mumble::qualifier-head 
+     ((head . mumble::head) (arg mumble::number)))
+    ))
 
 
+
+(defmethod has-mumble-mapping? ((etf exploded-tree-family))
+  (has-mumble-mapping? (etf-name etf)))
+
+(defmethod has-mumble-mapping? ((etf-name symbol))
+  (assoc etf-name *etf-name-to-phrase*))
 
 
 

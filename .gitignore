@@ -1,3 +1,18 @@
 # Compiled source #
 ###################
 *.fasl
+*.dx64fsl  # 64bit Clozure
+**/*.dx64fsl
+
+# Link files of ddm for by-passing code/s/ in the finder
+Sparser/analyzers
+Sparser/drivers
+Sparser/grammar
+Sparser/init
+Sparser/interface
+Sparser/objects
+Sparser/tools
+fire.lisp
+
+
+
