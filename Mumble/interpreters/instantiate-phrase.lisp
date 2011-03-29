@@ -3,13 +3,13 @@
 
 ;;; MUMBLE-05:  interpreters> realization> instantiate-phrase
 
-;;; Copyright (C) 2005 David D. McDonald
+;;; Copyright (C) 2005,2011 David D. McDonald
 ;;; Copyright (C) 1985, 1986, 1987, 1988, 1995  David D. McDonald
 ;;;   and the Mumble Development Group.  All rights
 ;;;   reserved. Permission is granted to use and copy
 ;;;   this file of the Mumble-86 system for
 ;;;   non-commercial purposes.
-;;; Copyright (c) 2006-2009 BBNT Solutions LLC. All Rights Reserved
+;;; extensions copyright (c) 2006-2009 BBNT Solutions LLC. All Rights Reserved
 
 ;;Changelog:
 ;; 2/21/95 ddm -- fixed a bug in TOP-LEVEL-BUILD-PHRASE where it called BUILD-COMP-SLOT
@@ -17,6 +17,7 @@
 ;; 1/14/05 started change-over to use lemmas, etc. 3/25/07 Reworking things in earnest
 ;; so as to avoid the choice and tree-family intermediaries whenever that makes sense.
 ;; 9/18/09 ddm. Converted instantiate-lexicalized-phrase to a method.
+;; 3/28/11 ddm: Fixing glitches in mapping from DTN.
 
 (in-package :mumble)
 
@@ -31,30 +32,37 @@
   (cdr (assoc parameter *phrase-parameter-argument-list*)))
 
 (defun parameter-arg-list-from-dtn (dtn)
+  ;;(format t "~&Creating parameter-arg-list-from ~a" dtn)
   (mapcar #'(lambda (cn)
-	      `(,(phrase-parameter cn)
-		 . ,(value cn)))
+              (let* ((symbol (phrase-parameter cn))
+                     (parameter (parameter-named symbol))
+                     (value (value cn)))
+                ;;(format t "~&p: ~a  v: ~a" parameter value)
+                (unless value 
+                  (push-debug `(,cn ,parameter ,dtn)) 
+                  (error "No value for parameter ~a" parameter))
+                `(,parameter . ,value)))
 	  (complements dtn)))
 
 (defun pvp-to-list-of-parameter-value-conses (list-of-parameter-value-pairs)
   ;; Same role as create-phrase-parameter-argument-list except that the
   ;; call to return-tree-fam-parameter-value argument seems irrelevant
   (mapcar #'(lambda (pvp)
-	      `(,(phrase-parameter pvp)
-		 . ,(value pvp)))
+              `(,(phrase-parameter pvp)
+                 . ,(value pvp)))
 	  list-of-parameter-value-pairs))
 
 (defun create-phrase-parameter-argument-list (parameter-list argument-list)
   (mapcar #'(lambda (parameter argument)
-	      (when (listp argument)
-		(setq argument (reduce-argument argument)))
-	      (cons parameter 
-		    (etypecase argument
-		      (word  argument)
-		      (parameter (return-tree-fam-parameter-value argument))
-		      (specification argument))))
-	  parameter-list
-	  argument-list))
+              (when (listp argument)
+                (setq argument (reduce-argument argument)))
+              (cons parameter 
+                    (etypecase argument
+                      (word  argument)
+                      (parameter (return-tree-fam-parameter-value argument))
+                      (specification argument))))
+          parameter-list
+          argument-list))
 
 
 
@@ -68,13 +76,15 @@
 	((*phrase-parameter-argument-list* 
 	  (pvp-to-list-of-parameter-value-conses (bound lp))))
       (build-rooted-phrase (definition phrase)))))
+;;
 ;;/// should be a more aesthetic factoring here
+;;
 (defmethod instantiate-phrase-in-dtn ((phrase phrase) 
-				      (dtn derivation-tree-node))
+                                      (dtn derivation-tree-node))
   "Sets up the argument drawing on the complement nodes in the dtn."
   (let-with-dynamic-extent 
       ((*phrase-parameter-argument-list*
-	(parameter-arg-list-from-dtn dtn)))
+        (parameter-arg-list-from-dtn dtn)))
     (build-rooted-phrase (definition phrase))))
 
 
@@ -110,7 +120,7 @@
 (defun old-instantiate-phrase (phrase arguments)
   (let-with-dynamic-extent 
       ((*phrase-parameter-argument-list*
-	 (create-phrase-parameter-argument-list
+        (create-phrase-parameter-argument-list
 	     (parameters-to-phrase phrase) arguments)))
     (build-rooted-phrase (definition phrase))))
 
@@ -158,8 +168,8 @@
 
 (defun build-phrase (definition &optional phrasal-root-node)
   (let*-with-dynamic-extent ((remaining-definition definition)
-			     (node-label (pop remaining-definition))
-			     (node (or phrasal-root-node (make-node))))
+                             (node-label (pop remaining-definition))
+                             (node (or phrasal-root-node (make-node))))
     (set-name node (name node-label))
     (set-labels node (list node-label))
     (set-visited-status node 'new)
@@ -182,22 +192,25 @@
           (word (set-contents slot contents))
           (parameter
            (let ((value (parameter-value contents)))
+             (unless value
+               (push-debug `(,contents ,*phrase-parameter-argument-list*))
+               (break "parameter-value of ~a returned nil." contents))
              (typecase value
                ((or word specification)
                 (set-contents slot value))
                (node (knit-phrase-into-tree slot value))
                (otherwise 
-		(if (has-realization? value)
-		  (set-contents slot value)
-		  (else
-		    (push-debug `(,contents ,value ,slot ,node))
-		    (mbug "Unexpected parameter value:  ~s => ~s" 
-			  contents value)))))))
+                (if (has-realization? value)
+                  (set-contents slot value)
+                  (else
+                    (push-debug `(,contents ,value ,slot ,node))
+                    (mbug "Unexpected parameter value:  ~s => ~s" 
+                          contents value)))))))
           (cons (let ((phrase-node (build-phrase contents)))
                   (knit-phrase-into-tree slot phrase-node)))
           (otherwise 
-	   (push-debug `(,contents ,slot ,node))
-	   (mbug "Unexpected contents--~A" contents)))	
+           (push-debug `(,contents ,slot ,node))
+           (mbug "Unexpected contents--~A" contents)))	
         (when (keywordp (car remaining-definition))
           (process-label-keywords slot))))
     node))

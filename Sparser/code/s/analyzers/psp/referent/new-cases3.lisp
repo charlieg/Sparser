@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;      File:  "new cases"
 ;;;    Module:  "analyzers;psp:referent:"
-;;;   Version:  3.0 September 2009
+;;;   Version:  3.1 March 2011
 
 ;; broken out from cases 8/24/93 v2.3.  (3/10/94) fixed typo. Added error
 ;; msg to Ref/head 6/14.  (7/15) patched in mixin-category  (7/19) rearranged
@@ -28,6 +28,8 @@
 ;; 3.0 (7/22/09) fanout from conditionalized psi changes. Continuing through 8/17.
 ;;     (9/20) Modified ref/subtype to ignore calling the subtype routine unless
 ;;     *use-subtypes* is set.
+;; 3.1 (3/23/11) Refactored dolist over values in ref/instantiate-individual-
+;;     with-binding in order to be able to pass an edge to annotate-site-bound-to.
 
 (in-package :sparser)
 
@@ -141,7 +143,7 @@
 (defun ref/instantiate-individual-with-binding
        (rule-field left-referent right-referent right-edge)
   (declare (ignore right-edge)) 
-  (let* (  head-edge  arg-edge  type-of-head
+  (let* (  head-edge  arg-edge  type-of-head  edge
          (head (case (second rule-field)
                  (left-referent
                   (setq head-edge *left-edge-into-reference*
@@ -179,32 +181,34 @@
         psi binding-exp/s)
 
     (dolist (pair binding-exp/s)
-      (setq variable (car pair)
-            value (case (cdr pair)
-                    (left-referent
-                     (unless arg-edge
-                       (setq arg-edge *left-edge-into-reference*))
-                     (unless head-edge
-                       (setq head-edge *right-edge-into-reference*))
-                     left-referent)
-                    (right-referent
-                     (unless arg-edge
-                       (setq arg-edge *right-edge-into-reference*))
-                     (unless head-edge
-                       (setq head-edge *left-edge-into-reference*))
-                     right-referent)
-                    (otherwise
-                     (let ((unit (cdr pair)))
-                       (etypecase unit
-                         (psi unit)
-                         (individual unit)
-                         (referential-category
-                          (find-or-make-psi-for-base-category unit)))))))
+      (setq variable (car pair))
+      (multiple-value-setq (value edge)
+        (case (cdr pair)
+          (left-referent
+           (unless arg-edge
+             (setq arg-edge *left-edge-into-reference*))
+           (unless head-edge
+             (setq head-edge *right-edge-into-reference*))
+           (values left-referent *left-edge-into-reference*))
+          (right-referent
+           (unless arg-edge
+             (setq arg-edge *right-edge-into-reference*))
+           (unless head-edge
+             (setq head-edge *left-edge-into-reference*))
+           (values right-referent *right-edge-into-reference*))
+          (otherwise
+           (let ((unit (cdr pair)))
+             (values (etypecase unit
+                       (psi unit)
+                       (individual unit)
+                       (referential-category
+                        (find-or-make-psi-for-base-category unit)))
+                     nil)))))
 
       (setq psi (find-or-make-psi-with-binding
                  variable value psi))
       ;; annotate what c+v the value has been bound to.
-      (annotate-site-bound-to value variable type-of-head))
+      (annotate-site-bound-to value variable type-of-head edge))
     
     (when *annotate-realizations*
       ;; annotate this combination

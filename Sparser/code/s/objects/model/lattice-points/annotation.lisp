@@ -3,7 +3,7 @@
 ;;;
 ;;;     File:  "annotation"
 ;;;   Module:  "objects;model:lattice-points:"
-;;;  version:  0.1 February 2005
+;;;  version:  0.2 March 2011
 
 ;; initiated 3/7/98. Started fleshing it out 3/22. Continued through
 ;; 7/5. 5/11/99 put an initializer into Rule-component-to-use because
@@ -37,7 +37,7 @@
 ;;      composites in Annotate-site-bound-to
 ;;     (10/31/06) Added *annotate-realizations* switch to control whether this
 ;;      stuff runs.
-;; 0.2 (3/19/11) Updated & revitalized the code. 
+;; 0.2 (3/19/11) Updated & revitalized the code. Continued through 3/23/11. 
 
 (in-package :sparser)
 
@@ -209,20 +209,24 @@
         (when head-rnode
           (tr :setting-rnode-head head-rnode)
           (setf (rn-head entry) head-rnode)
-          (push entry (rn-downward-links head-rnode)))
+          (push entry (rn-downward-links head-rnode))
+          (let ((c+v (c+v-for-edge head-edge)))
+            (pushnew c+v (rn-variable head-rnode))))
         (when arg-rnode
           (tr :setting-rnode-arg arg-rnode)
           (setf (rn-arg entry) arg-rnode)
-          (push entry (rn-downward-links arg-rnode))))
+          (push entry (rn-downward-links arg-rnode))
+          (let ((c+v (c+v-for-edge arg-edge)))
+            (pushnew c+v (rn-variable arg-rnode)))))
 
       (cache-rnode-on-parent-edge entry)
       entry)))
 
 
 
-(defun annotate-site-bound-to (i/psi variable type)
+(defun annotate-site-bound-to (i/psi variable type edge)
   ;; Called from ref/instantiate-individual-with-binding
-  ;; annotating the inclusion of an individual (or psi) into
+  ;; Annotates the inclusion of an individual (or psi) into
   ;; a larger relation. First find/make the appropriate c+v
   ;; object and then stash it on the i/psi.
   (when *annotate-realizations*
@@ -233,9 +237,10 @@
                        (referential-category type)))
            (c+v (find-or-make-c+v category variable)))
       (etypecase i/psi
-        (psi (let ((lp (psi-lattice-point i/psi)))
-               (unless (memq c+v (lp-psi-uses lp))
-                 (push c+v (lp-psi-uses lp)))))
+        (psi (let* ((lp (psi-lp i/psi))
+                    (top-lp (lp-top-lp lp)))
+               (unless (memq c+v (lp-indiv-uses top-lp)) ;; why overload v+v field?
+                 (push c+v (lp-indiv-uses top-lp)))))
         ;;(composite-referent 
         ;; place-holder since it's not clear what this would mean
         ;; given that composites are a mechanism for passing multiple
@@ -246,6 +251,7 @@
            (unless (memq c+v (lp-indiv-uses lp))
              (push c+v (lp-indiv-uses lp)))))
         (referential-category)) ;; hit this case with 'end' in 'end-date'
+      (cache-c+v-on-edge c+v edge)
       (tr :site-bound-t-c+v c+v)
       c+v )))
     
@@ -276,6 +282,16 @@
 
 (defun rnode-for-edge (edge)
   (cdr (assoc edge *edges-to-rnodes*
+              :test #'eq)))
+
+
+(defvar *edges-to-c+v* nil)
+
+(defun cache-c+v-on-edge (c+v edge)
+  (push `(,edge . ,c+v) *edges-to-c+v*))
+
+(defun c+v-for-edge (edge)
+  (cdr (assoc edge *edges-to-c+v*
               :test #'eq)))
 
 

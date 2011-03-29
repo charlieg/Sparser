@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-2005, 2011 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2005,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;;
@@ -65,17 +65,17 @@
 		   var-name)
 		 (find-variable-in-category var-name category))))
        (if variable
-	 (then
-	   (when (and (listp variable)
-		      (eq (car variable) :different-value-restrictions))
-	     (setq variable
-		   (find-variable-for-category var-name category)))
-	   (value/var variable individual))
-	 (when specified-category
-	   ;; You should be asking for a variable that is associated
-	   ;; with the category, otherwise you're confused.
-	   (push-debug `(,var-name ,individual ,category))
-	   (error "Cannot find a variable named ~a~%that is associated ~
+         (then
+           (when (and (listp variable)
+                      (eq (car variable) :different-value-restrictions))
+             (setq variable
+                   (find-variable-for-category var-name category)))
+           (value/var variable individual))
+         (when specified-category
+           ;; You should be asking for a variable that is associated
+           ;; with the category, otherwise you're confused.
+           (push-debug `(,var-name ,individual ,category))
+           (error "Cannot find a variable named ~a~%that is associated ~
                    with the individual ~a" var-name individual)))))
 
     (referential-category

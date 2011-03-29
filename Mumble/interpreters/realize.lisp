@@ -98,6 +98,7 @@
 
     ;; Handle features and adjunctions
     (typecase resource
+      ;; The 'otherwise' case is caught just above.
       (phrase
        (push-debug `(:realize-dtn ,root-node ,phrase-type))
        ;;(break "after dtn resource instantiated") ;; replace w/ landmark??

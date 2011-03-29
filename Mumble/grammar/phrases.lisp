@@ -1,5 +1,4 @@
 ;;; -*- Mode: Lisp; Package:MUMBLE; Syntax: COMMON-LISP; Base:10; -*-
-;;; $Id: phrases.lisp 100 2007-07-04 14:31:27Z dmcdonal $
 
 ;;; MUMBLE-05: grammar; phrases
 ;;;
@@ -7,8 +6,7 @@
 ;;;    Mumble Development Group.  All rights reserved.
 ;;;    Permission is granted to use and copy this file of the Mumble-86 system for
 ;;;    non-commercial purposes.
-;;; Copyright (c) 2005 David D. McDonald
-;;; Copyright (c) 2006 BBNT Solutions LLC. All Rights Reserved
+;;; Copyright (c) 2005,2011 David D. McDonald
 
 ;; Changelog
 ;;  6/6/95 added VP-one-arg/not-passive.  11/30/97 added set of SVPO phrases
@@ -16,6 +14,7 @@
 ;;   digit sequences. 6/24/00 added some np phrases.
 ;; 1/10/05 Pulled the define-word calls.
 ;; 1/25 Added two-element-captialized-sequence
+;; 3/28/11 Removed duplicate of qualifier-head.
 
 (in-package :mumble)
 
@@ -1554,11 +1553,6 @@
 (define-phrase determined-np (d n)
   (np/no-det
    determiner d
-   np-head n))
-
-(define-phrase qualifier-head (n q)
-  (np
-   qualifier q
    np-head n))
 
 (define-phrase np_quant-head_of-comp (quant comp)  ; used by Quantifier-of lowering AP

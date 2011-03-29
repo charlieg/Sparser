@@ -11,7 +11,7 @@
 ;; 12/9/10 Added option for location of mumble and draws on assumptions
 ;;  about being part of a larger system. Put stars around the location global
 ;;  12/22/10 Folded in derivation-tree files eliminating their loader.
-;; 3/23/11 Fixing CCL nits
+;; 3/23/11 Fixing CCL nits.  3/28 Added lost numbers file.
 
 (in-package :cl-user)
 
@@ -81,6 +81,7 @@
 (load (concatenate 'string *mumble-location* "grammar/punctuation-marks.lisp"))
 (load (concatenate 'string *mumble-location* "grammar/morphology.lisp")) ;; ok up to here
 (load (concatenate 'string *mumble-location* "grammar/word-stream-actions.lisp"))
+(load (concatenate 'string *mumble-location* "grammar/numbers.lisp"))
 
 (load (concatenate 'string *mumble-location* "interface/bundles/accessory-types.lisp"))
 (load (concatenate 'string *mumble-location* "interface/bundles/accessory-processing.lisp"))

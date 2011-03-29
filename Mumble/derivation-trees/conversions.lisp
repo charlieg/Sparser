@@ -6,7 +6,8 @@
 ;; /Mumble/derivation-trees/conversions.lisp
 
 ;; Initated 10/6/09. First real code 10/23. Real code that runs 11/9 (sigh)
-;; Modified through 11/27. Completely redone 12/9/10. Picked up again 3/22/11
+;; Modified through 11/27. Completely redone 12/9/10. Picked up again 3/22/11.
+;; Refining through 3/28.
 
 (in-package :mumble)
 
@@ -26,6 +27,19 @@
   "Called from realization-for. Has to return something that is suitable for
    consumption by realize. Initializes the top DTN if this is the
    first call."
+  (push-debug `(,rnode ,i))
+  ;;//// Should catch this earlier by looking at the CLOS class that
+  ;; backs the type -- should catch at realization-for methods.
+  (case (sparser::cat-symbol (sparser::itype-of i))
+    (category::number
+     ;; analogous to a word, but in general numbers, like people and other
+     ;; interesting things should engage specialists or some such, and
+     ;; probably at an earlier point than this.
+     (construct-lspec-for-number i))
+    (otherwise
+     (read-rnode-into-dtn rnode i))))
+
+(defun read-rnode-into-dtn (rnode i)
   ;; Spread the rnode's information to find the right thing to dispatch
   ;; off of in order to get the correspondence
   (let* ((dtn (make-derivation-tree-node :referent i))
@@ -34,6 +48,7 @@
          (descriptors (sparser::schr-descriptors schr))
          (etf (sparser::schr-tree-family schr)))
     (push-debug `(,etf ,rnode ,schr ,relation))
+    (break "i = ~a" i)
     (cond
       ;; single-word cases
       ((sparser::defined-type-of-single-word relation)
@@ -41,18 +56,55 @@
               (m-word (find-or-make-word sp-word)))
          m-word))
       ((sparser::has-mumble-mapping? etf)
-       (map-etf-to-dt dtn rnode etf schr))
+       (map-etf-to-dtn dtn i rnode etf descriptors)
+       (unless *the-derivation-tree*
+         (initialize-derivation-tree-data :root dtn))
+       dtn)
       (t       
        (push-debug `(,rnode ,i ,schr))
-       (break "Next case in convert-to-derivation-tree")))
+       (break "Next case in convert-to-derivation-tree")))))
 
-    (if *the-derivation-tree*
-      (then 
-        (push-debug `(,dtn ,rnode ,i))
-        (break "Root DNT already initialized. Are we in the right place?"))
-      (initialize-derivation-tree-data :root dtn))
+    
+
+;;--- Mapping to phrases
+
+(defun map-etf-to-dtn (dtn i rnode etf descriptors)
+  ;; returns populated DTN
+  (let* ((mapping (cdr (sparser::has-mumble-mapping? etf)))
+         (name-of-phrase (car mapping))
+         (arg-mapping (cadr mapping))
+         (phrase (phrase-named name-of-phrase)))
+    (unless phrase 
+      (push-debug `(,etf ,rnode  ,dtn))
+      (error "ETF mapping didn't return a phrase~%~a" etf))
+    (setf (resource dtn) phrase)
+    (map-rnode-args-to-complements rnode arg-mapping descriptors dtn i)
     dtn))
 
+(defun map-rnode-args-to-complements (rnode arg-mapping descriptors dtn i)
+  (push-debug `(,rnode ,arg-mapping ,dtn))
+  (let* ((head-rnode (sparser::rn-head rnode))
+         (arg-rnode (sparser::rn-arg rnode))
+         (head-edge (cadr (memq :head-edge descriptors)))
+         (arg-edge (ecase head-edge
+                     (sparser::right-edge 'sparser::left-edge)
+                     (sparser::left-edge 'sparser::right-edge)))
+         (binding-spec (cadr (memq :binding-spec descriptors))))
+    (flet ((make-comp-node (c+v key)
+             (let* ((variable (sparser::cv-variable c+v))
+                    (category (sparser::cv-type c+v))
+                    (value (sparser::value-of variable i category))
+                    (phrase-arg (cdr (assq key arg-mapping))))
+               (format t "~&variable = ~a, value = ~a" variable value)
+               (make-complement-node phrase-arg value dtn))))
+      (when head-rnode
+        (make-comp-node (car (sparser::rn-variable head-rnode))
+                        'sparser::head))
+      (when arg-rnode
+        (make-comp-node (car (sparser::rn-variable arg-rnode))
+                        'sparser::arg))
+      dtn)))
+                                 
 
 
 ;;--- Words
@@ -70,28 +122,6 @@
   (or (word-for-string s)
       (define-word/expr s '(noun))))
 
-
-
-;;--- Mapping to phrases
-
-(defun map-etf-to-dt (dtn rnode etf schr)
-  ;; returns populated DTN
-  (let* ((mapping (cdr (sparser::has-mumble-mapping? etf)))
-         (name-of-phrase (car mapping))
-         (arg-mapping (cadr mapping))
-         (phrase (phrase-named name-of-phrase)))
-    (unless phrase 
-      (push-debug `(,etf ,rnode  ,dtn))
-      (error "ETF mapping didn't return a phrase~%~a" etf))
-    (setf (resource dtn) phrase)
-    (map-rnode-args-to-complements rnode arg-mapping dtn)
-    dtn))
-
-(defun map-rnode-args-to-complements (rnode arg-mapping dtn)
-  (push-debug `(,rnode ,arg-mapping ,dtn))
-  (break "Write map-rnode-args-to-complements"))
-
-                                 
 
 
 

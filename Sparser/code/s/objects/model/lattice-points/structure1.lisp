@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1997-2005, 2010 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1997-2005,2010-2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "structure"
 ;;;   Module:  "objects;model:lattice-points:"
-;;;  version:  1.2 January 2011
+;;;  version:  1.2 March 2011
 
 ;; initiated 11/29/97
 ;; 0.1 (2/24/98) Started reworking the initial sketch to fit all the 
@@ -23,6 +23,8 @@
 ;; 1.1 (11/14/10) Revived the c+v & such of the top lp struct to sustain
 ;;      realizations. Fixed conc-name bug in category+value.
 ;; 1.2 (1/25/11) Removed need to check against core-omar.
+;;     (3/23/11) Uncommented out upward-links and added variable to
+;;      realization-node.
 
 (in-package :sparser)
 
@@ -143,11 +145,17 @@
 
   downward-links  ;; list of r-nodes
 
-  ;upward-links --obsolete (?) given head/arg links
+  upward-links ;; --obsolete (?) given head/arg links --or use for strands?
+
+  variable ;; list (?) of c+v set by annotate-realization-pair
 
   )
 
 
+
+
+
+;; Interim scheme 2009/10 while the annotation code wasn't working
 (defobject rnode ()
   ((lattice-point) ;; or something like it. It's a backpoint as much as anything
    (rule-used)      ;; suitable for inverting to nlg

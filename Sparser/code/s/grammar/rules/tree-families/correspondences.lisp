@@ -11,7 +11,7 @@
 ;; (12/9/10) Reworking most of this to bring it in sync what what rnodes
 ;;  encode.
 ;; 0.2 (1/25/11) Removed need to check against core-omar.
-;;     (3/22/11) Starting to populate it. 
+;;     (3/22/11) Starting to populate it. Continuing through 3/28/11.
 
 (in-package :sparser)
 
@@ -21,10 +21,16 @@
 
 (defvar *etf-name-to-phrase*
   '(
-    ;; --file
+    ;;/// which file of ETFs is this from?
     (quantity+kind  mumble::qualifier-head 
-     ((head . mumble::head) (arg mumble::number)))
-    ))
+     ((head . mumble::head) (arg . mumble::qualifier)))
+    )
+  "Ulimately has one entry for every ETF in Sparser's grammar.
+ The format is ETF name in the car. Mumble's data is in the
+ cdr, starting with the resource (notice the use of a symbol
+ in the :mumble package) and an alist of the binary arguments
+ from Sparser's side with their correspondences for the phrase
+ on Mumble's side.")
 
 
 
