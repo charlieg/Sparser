@@ -307,7 +307,7 @@
       ;; code that does the opportunistic binding.
       ;; --- what about individuals ???  3/16/05 ----
       (annotate-realization-pair
-       (psi-lp extended-psi) *rule-being-interpreted*
+       extended-psi (psi-lp extended-psi) *rule-being-interpreted*
        head-edge arg-edge))
 
     (tr :ref/binding-result variable (or extended-psi body))    
