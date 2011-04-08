@@ -3,18 +3,20 @@
 ;;;
 ;;;     File:  "of"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  April 2003
+;;;  version:  April 2011
 
 ;; formed 10/26/94 from [of genitive] and [group of type]. Added def-rule data 3/8/95
 ;; 7/13/98 added item-of-value. 7/8/00 added member-of.
 ;; (4/11/03) cloned item-of-value to item-of-value1 which has an instantiate-individual
 ;;  instruction in it -- otherwise "sales of $98.3 billion" won't work as an
 ;;  instance of an ern since that's based on psi.
+;;  4/7/11 Addded of-complement.
 
 (in-package :sparser)
 
 #|  Tree families in this file:
 
+       of-complement ----- "stock target of 62" No assumptions about meanings
        quantify-of-stuff - "530 tons of liquid nitrogen"
        of/genitive ------- "John's cat"
        group-of-type ----- "board of directors"
@@ -22,6 +24,24 @@
        member-of --------- "first half of 1998", "borough of New York"
 
 |#
+
+;;;--------------------------------------------
+;;; X of Y  No assumptions about what they are.
+;;;--------------------------------------------
+
+(define-exploded-tree-family  simple-of-complement
+  :binding-parameters ( np-item  of-item )
+  :labels ( np  complement  base-np  result-type )
+  :cases
+    ((of-complement (of-/complement ("of"  complement)
+                         :head right-edge))
+
+     (np+of-complement (np (base-np of-/complement)
+                        :head left-edge
+                        :instantiate-individual result-type
+                        :binds (np-item right-edge
+                                of-item left-edge)))))
+
 
 ;;;---------------------
 ;;; quantities of stuff
