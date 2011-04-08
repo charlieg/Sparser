@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2005, 2010-2011  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2005,2010-2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "model;core:names:companies:"
-;;;  version:  1.1 January 2011
+;;;  version:  1.1 April 2011
 
 ;; initiated 5/22/93 v2.3; changed index, added print routine 6/7. Broke that out
 ;; as its own file 11/23/94.  5/3/95 added Define-company. 5/22 tweeked
@@ -17,7 +17,8 @@
 ;;  (2/14/05) Define-company wasn't cleaning up the chart after its runs.
 ;;  (12/14/10) Fixed capitalization problem (mlisp)
 ;;  (1/17/11) Debugging sequence-from-company-name and friends. 1/18 Fixing how
-;;   an initially uncategorized name gets converted to a company name.
+;;   an initially uncategorized name gets converted to a company name. 4/7 put
+;;   name-word in as case in define-company-given-name
 
 (in-package :sparser)
 
@@ -167,7 +168,13 @@
 
    ((itype name 'person)
     (define-company-given-name (value-of 'name name)))
+
+   ((itype name 'name-word)
+    ;; Unlikely to already be registered as a company
+    (make/company-with-name name))
              
+   ;; I don't get this call. (ddm 4/7/11) Looks like it would
+   ;; only work on names that have internal evidence.
    ((category-for-edge-given-name-type (itype-of name) name)
     ;; This is the routine used in [names;fsa:do transitions]
     ;; to arrive at the category to label the edge with.
@@ -178,6 +185,7 @@
       (or (find/company-with-name co-name)
 	  (make/company-with-name co-name))))
    (t
+    (push-debug `(,name))
     (break "The analysis of the string full name did not lead to ~
             an object of type name:~%   ~A~%" name))))
 
