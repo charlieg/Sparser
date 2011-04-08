@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-2000 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2000,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2008 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -18,7 +18,7 @@
 ;;      day-in-month and month-in-year and bumped dates to 2.
 ;; 1.5 (7/7/00) Bumped fiscal to 2 to rework them for psi. 7/8 bumped
 ;;      year.
-;;     (8/27/08) Added time-of-day.
+;;     (8/27/08) Added time-of-day. (4/6/11) bumped phrases to 2.
 
 (in-package :sparser)
 
@@ -33,7 +33,7 @@
 ;(gload "time;month-in-year1")
 (gload "time;dates2")
 (gload "time;amounts")
-(gload "time;phrases1")
+(gload "time;phrases2")
 (gload "time;anaphors1")
 (gload "time;age1")
 (gload "time;fiscal2")
