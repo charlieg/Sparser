@@ -102,6 +102,7 @@
            (entry (find rc
                         existing-annotations :key #'rn-cfr)))
       (when entry
+        ;;(push-debug `(,i ,entry)) (break "Reusing ~a" i)
         (tr :reusing-rdata-entry entry))
       (unless entry
         (setq entry (get-rnode))
@@ -109,24 +110,25 @@
         
         ;; link the entry to its parents
         (multiple-value-bind (head-rnode arg-rnode)
-                             (case source
-                               (:globals-bound
-                                (unless *head-edge*
-                                  (error "Threading bug: expected *head-edge* to have a value"))
-                                (values (rnode-for-edge *head-edge*)
-                                        (rnode-for-edge *arg-edge*)))
-                               (:number ;; caller is Annotate-number
-                                (values (hookup-daughter-number-rnodes entry) nil))
-                               (:immediate-referent ;; used by Referent-from-rule
-                                (values :base-case nil))
-                               (:unary-rule
-                                ;; used only when the referent is pointed to directly.
-                                (let ((unit *referent*))
-                                  (or (first (indiv-rnodes unit))
-                                      :base-case)))
-                               (:binary-rule
-                                (sort-out-head-vs-arg-rnodes-in-binary-rule rc))
-                               (otherwise (break "Unanticipated source: ~a" source)))
+            (case source
+              (:globals-bound
+               (unless *head-edge*
+                 (error "Threading bug: expected *head-edge* to have a value"))
+               (values (rnode-for-edge *head-edge*)
+                       (rnode-for-edge *arg-edge*)))
+              (:number ;; caller is Annotate-number
+               (values (hookup-daughter-number-rnodes entry) nil))
+              (:immediate-referent ;; used by Referent-from-rule
+               (values :base-case nil))
+              (:unary-rule
+               ;; used only when the referent is pointed to directly.
+               (let ((unit *referent*))
+                 (or (first (indiv-rnodes unit))
+                     :base-case)))
+              (:binary-rule
+               (sort-out-head-vs-arg-rnodes-in-binary-rule rc))
+              (otherwise (break "Unanticipated source: ~a" source)))
+          ;;(break "annotating ~a" i)
           (when head-rnode
             (setf (rn-head entry) head-rnode)
             (if (listp head-rnode)
