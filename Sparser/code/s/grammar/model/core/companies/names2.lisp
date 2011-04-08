@@ -3,7 +3,7 @@
 ;;;
 ;;;     File:  "names"
 ;;;   Module:  "model;core:companies:"
-;;;  version:  2.1 February 2011
+;;;  version:  2.1 April 2011
 
 ;; initiated 5/22/93 v2.3, added indexing routines 6/7
 ;; 1.1 (10/30) simplified the indexing scheme
@@ -21,7 +21,8 @@
 ;;      from the reworking of sequences.
 ;;     (1/18/11) Making render-name-as-company-name actually change the variable
 ;;      in the name because of changes to how variables are tied to categories.
-;;     (2/15) Found another case that will require design. See function.
+;;     (2/15) Found another case that will require design. See render-name-
+;;      as-company-name. And another in same place 4/7.
 
 (in-package :sparser)
 
@@ -159,8 +160,6 @@
 
 
 
-
-
 ;;;-------------------------------------------------
 ;;; converting uncategorized names to company names
 ;;;-------------------------------------------------
@@ -177,7 +176,7 @@
         'name/s name :to 'sequence :in (category-named 'company-name))
        (index/company-name-from-sequence sequence)
        name ))
-    (category::generic-co-word
+    ((or category::name-word category::generic-co-word)
      (push-debug `(,name))
      (break "The 'name' we're about to turn into a company name is ~
            ~%just the single word ~a.~
