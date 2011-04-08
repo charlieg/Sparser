@@ -5,7 +5,7 @@
 ;;; 
 ;;;     File:  "globals"
 ;;;   Module:  "drivers;inits:sessions:"
-;;;  Version:  February 2011
+;;;  Version:  April 2011
 
 ;;;  Flags and the code to initialize them, as pertain to the state
 ;;;  of an entire session with the analyzer.
@@ -24,7 +24,8 @@
 ;; 10/31/06 added *annotate-realizations*. 2/9/07 added *do-strong-domain-modeling*
 ;; 7/2 added *new-dm&p*. 8/6 added *infer-rewriting-form-rules*  9/18/09 added
 ;; *use-subtypes*. 10/8 added *what-to-do-on-errors*.
-;; 2/20/11 added *make-edges-over-new-digit-sequences*. 
+;; 2/20/11 added *make-edges-over-new-digit-sequences*. 4/8/11 added
+;; *convert-eft-form-categories-to-form-rules*. 
 
 (in-package :sparser)
 
@@ -147,6 +148,12 @@
      additional form rules should be created by looking at the categories
      used in the cases of an ETS and making assumptions. These rules impose
      new categories over the referent of the form constituent."))
+
+(unless (boundp '*convert-eft-form-categories-to-form-rules*)
+  (defparameter *convert-eft-form-categories-to-form-rules* nil
+    "If true, i/r/s-make-the-rule checks the rhs of the rule for any form
+ categories, and if there are makes a form rule instead of the normal cfr."))
+
 
 ;; obsolete?? 11/25
 (defparameter *do-heuristic-boundary-detection* nil
