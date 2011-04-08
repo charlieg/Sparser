@@ -137,9 +137,24 @@ Medical device giant Medtronic (MDT), the leader in defibrillators and pacemaker
 	  (end)
 	  (delta)))
 
+;; "60 in January"  "49.19 on May 17."
+;; Replaces datapoint
+(define-category amount-at-time
+;;  :specializes 
+  :instantiates amount
+  :binds ((amount . (:or amount number))
+          (time . time))
+  :realization ((:tree-family np-and-postmodifier
+                 :mapping ((np . :self) ;; not working with this corrected head
+                           (np-head . number)
+                           (phrase . time)
+                           (type . :self)
+                           (np-var . amount)
+                           (modifier-var . time)))))
+       
 (define-category datapoint
   :binds ((value)
-	  (time)))
+	  (time)))                    
 
 (def-cfr datapoint (number time)
   :form np
@@ -188,3 +203,145 @@ Medical device giant Medtronic (MDT), the leader in defibrillators and pacemaker
   :form s
   :referent (:head left-edge
 	     :bind (mode . right-edge)))
+
+
+;;-------- "12 month target of 62"
+
+(define-category target ;; the word by itself
+  :instantiates self
+  :realization ((:common-noun "target")))
+
+(define-category target-at-time
+  :specializes target
+  :instantiates target
+  :binds ((target . target)
+          (time . time))  ;; "12-month" means '12 months from now'
+       ;; and that needs to be here in the construstrual of the
+       ;; time interval to get the full generality on the NLG side
+  :realization ((:tree-family modifier-creates-individual
+                 :mapping ((n-bar . target)
+                           (subtyping-modifier . (:or time amount-of-time))
+                           (np-head . target)
+                           (result-category . :self)
+                           (modifier . time)
+                           (head . target)))))
+
+(define-category stock-price-target
+  :specializes target
+  :instantiates self
+  :binds ((value . number) ;; it's a reduction of a stock price
+          ;; but that's a metonomy that we don't need yet.
+          (target . target))
+  :realization ((:tree-family simple-of-complement
+                 :mapping ((np . target)
+                           (base-np . target)
+                           (complement . number)
+                           (result-type . :self)
+                           (np-item . target)
+                           (of-item . value)))))
+
+;; "she expects a 12-month target of 60"
+(define-category expect-target
+    ;; N.b. "expect" has a much richer set of complements
+    ;; "expect <subj> to do something", "expect Alice to ..."
+    ;; "expect that ..." all of which the Mumble side can
+    ;; handle, but the Sparser side is very weak on because
+    ;; it needs events that will fill the traces, and there could
+    ;; be timing issues
+  :instantiates self
+  :specializes nil  ;; event, but have to check
+  :binds ((person . person) ;; broader? Like maybe animate?
+          ;; need the v/r check to accept subtypes, but need
+          ;; that supertype.
+          (target . target))
+  :realization ((:tree-family  transitive
+                :mapping ((s . event) ;; see rules/syntax/tense.lisp
+                          (vp . event/subject) ;; ?? by analogy to job-event treaement
+                          (vg . :self)
+                          (np/subject . (pronoun ;; she -- form rule ?????
+                                         person ))
+                          (np/object . target) ;; cheating horribly
+                          (agent . person)
+                          (patient . target))
+                :main-verb "expect")))
+
+
+(define-category  device
+  :instantiates self  ;; what generalization would make sense?
+  ;; in which case we'd make this an instantiable class and put
+  ;; the realization in via a binding to a "word"
+  :realization (:common-noun "device"))
+
+(define-category medical-device 
+    ;; obviously a generic composition would be better
+    ;; (via form rule an 'device' or a generalization over what 'medical'
+    ;; denotes. The bindings are a start on this, though the very specific
+    ;; mapping makes them gratuitous
+  :specializes device
+  :instantiates device
+  :binds ((device . device)
+          (kind-of-device))
+  :realization ((:tree-family modifier-creates-individual
+                 :mapping ((n-bar . :self)
+                           (subtyping-modifier . "medical")
+                           (np-head . :self)
+                           (result-category . :self)
+                           (modifier . kind-of-device)
+                           (head . device)))))
+
+(define-category giant  ;; qua-descriptor
+    ;; The noun version, as opposed to the adjective "James and the Giant Peach"
+    ;; The meaning ought to be the same since this is a matter of presentation
+    ;; and tacitly implies that the company is gigantic (at what it does)
+    ;; Should have it specialize/instantiate a company-adjective class.
+    ;; This would be the basis of a classic company-referencing defNP. 
+    ;;/// notice this treatment is like "medical device"
+  :instantiates self
+  :realization (:common-noun "giant"))
+
+(define-category giant-in-field
+  :specializes giant
+  :instantiates giant
+  :binds ((head . giant)
+          (field))
+  :realization ((:tree-family modifier-creates-individual
+                 :mapping ((n-bar . :self)
+                           (subtyping-modifier . device)
+                           (np-head . :self)
+                           (result-category . :self)
+                           (modifier . field)
+                           (head . head)))))
+
+;; In "the medical device giant"
+;; psi trace says that the head var of giant is being bound to nil,
+;; which probably portends an issue that will trip things up.
+
+#|
+   The determiner bound to the first np, not the larger enclosing
+ NP (and therefore this edge has the form n-bar rather than NP).
+ Interesting question of timing to be sorted out here soonish.
+
+e6    giant                   1 "the medical device giant" 5
+                                 end-of-source
+:done-printing
+sparser> (ie 6)
+#<edge6 1 giant 5> is a structure of type edge.  It has these slots:
+ category           #<ref-category giant>
+ form               #<ref-category n-bar>
+ referent           #<psi giant 54>
+ starts-at          #<edges starting at 1>
+ ends-at            #<edges ending at 5>
+ rule               #<PSR2237  giant ->  device giant>
+ left-daughter      #<edge4 1 device 4>
+ right-daughter     #<edge5 4 giant 5>
+ used-in            nil
+ position-in-resource-array  6
+ constituents       nil
+ spanned-words      nil
+#<edge6 1 giant 5>
+
+|#
+
+                          
+
+
