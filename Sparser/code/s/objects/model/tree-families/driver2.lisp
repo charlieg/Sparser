@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1992-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-2005,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "driver"
 ;;;   Module:  "objects;model:tree-families:"
-;;;  version:  2.0 October 2009
+;;;  version:  2.1 April 2011
 
 ;; initiated 8/4/92, fleshed out 8/27, elaborated 8/31
 ;; fixed a bug in how lists of rules were accumulated 11/2
@@ -56,7 +56,9 @@
 ;; 2.0 (7/24/09) Now that variables are lexicalized we have to pass the category
 ;;      down to the interpretation of the mapping to ensure that the correct,
 ;;      category-specific variables are used -- see decode-binding
-;;     (10/8/09) Fixed bug in decode-binding.
+;;     (10/8/09) Fixed bug in decode-binding. (4/6/11) cleaned up indents.
+;; 2.1 (4/8/11) Put in switch to control formation of form rules when the
+;;      rhs involves a form category.
 
 (in-package :sparser)
 
@@ -168,7 +170,7 @@
     (when (and head-word
                (not (eq head-word :no-head-word)))
       (unless (lambda-variable-p (cdr head-word))
-        (setq rules (head-word-rule-construction-dispatch 
+        (setq rules (head-word-rule-construction-dispatch ;;/// add instantiates check
                       head-word category referent))))
 
     (when nil ;; needs more layout work
@@ -208,7 +210,7 @@
 
 (defun instantiate-rule-schema (schema
                                 mapping 
-				category
+                                category
                                 &key ((:local-cases? category-of-locals)))
 
   (let* ((additional-rule (consp schema))
@@ -218,15 +220,15 @@
          (schematic-lhs (if additional-rule
                           (first (second schema))
                           (schr-lhs schema)))
-	 (schematic-rhs (if additional-rule
-			  (second (second schema))
-			  (schr-rhs schema)))
-	 (schematic-referent (if additional-rule
+         (schematic-rhs (if additional-rule
+                          (second (second schema))
+                          (schr-rhs schema)))
+         (schematic-referent (if additional-rule
                                (cddr (second schema))
                                (schr-referent schema)))
-	 (schematic-form (unless additional-rule
-			   (schr-form schema)))
-	 lhs rhs form referent-schema referent
+         (schematic-form (unless additional-rule
+                           (schr-form schema)))
+         lhs rhs form referent-schema referent
 
         (*schema-being-instantiated* schema))
 
@@ -277,13 +279,14 @@
   ;; Used when there are no multiple terms in either the left
   ;; or righthand sides, or as the base case when there are.
   (let ((cfr
-         (if (some #'(lambda (c)
-                       (when (referential-category-p c)
-                         (member :form-category
-                                 (unit-plist c))))
-                   rhs)
-	   (def-form-rule/resolved rhs form referent lhs)
-	   (define-cfr lhs rhs :form form :referent referent))))
+         (if (and *convert-eft-form-categories-to-form-rules*
+                  (some #'(lambda (c)
+                            (when (referential-category-p c)
+                              (member :form-category
+                                      (unit-plist c))))
+                        rhs))
+           (def-form-rule/resolved rhs form referent lhs)
+           (define-cfr lhs rhs :form form :referent referent))))
 
     (when cfr
       (setf (cfr-plist cfr)
