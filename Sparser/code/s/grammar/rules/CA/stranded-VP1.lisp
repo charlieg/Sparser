@@ -1,15 +1,16 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-1998 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-1998,2011 David D. McDonald  -- all rights reserved
 ;;; 
 ;;;     File:  "stranded VP"
 ;;;   Module:  "grammar;rules:CA:"
-;;;  Version:  1.0 July 1998
+;;;  Version:  1.0 April 2011
 
 ;; initiated 7/16/93 v2.3, fleshed out the edge building 8/4
 ;; 0.1 (4/26/95) added case for 'subj , vp'
 ;; 1.0 (5/15) remodularized point where rule and label are looked up
 ;;     (5/16) added passive variation.
 ;;     (7/23/98) added appreciation of psi in Subject-rule
+;;     (4/7/11) updated it.
 
 (in-package :sparser)
 
@@ -64,7 +65,7 @@
   (let* ((type (etypecase unit
                  (referential-category unit)
                  (psi (category-lattice-node-belongs-to 
-                       (psi-lattice-point unit)))
+                       (psi-lp unit)))
                  (individual (car (indiv-type unit)))))
          (rules (cadr (member :rules (cat-realization type)))))
 
