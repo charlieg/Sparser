@@ -14,7 +14,7 @@
 ;;   digit sequences. 6/24/00 added some np phrases.
 ;; 1/10/05 Pulled the define-word calls.
 ;; 1/25 Added two-element-captialized-sequence
-;; 3/28/11 Removed duplicate of qualifier-head.
+;; 3/28/11 Removed duplicate of qualifier-head. 4/6 added head-qualifier
 
 (in-package :mumble)
 
@@ -1548,6 +1548,13 @@
   (np
    qualifier qualifier
    np-head head))
+
+(define-phrase head-qualifier (head qualifier) 
+  ;; kind of ad-hoc. Goes with np+postmodifier 
+  ;; for fragments like "60 in January"
+  (np
+   np-head head
+   qualifier qualifier))
 
 
 (define-phrase determined-np (d n)
