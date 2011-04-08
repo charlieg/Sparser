@@ -48,7 +48,6 @@
          (descriptors (sparser::schr-descriptors schr))
          (etf (sparser::schr-tree-family schr)))
     (push-debug `(,etf ,rnode ,schr ,relation))
-    (break "i = ~a" i)
     (cond
       ;; single-word cases
       ((sparser::defined-type-of-single-word relation)
@@ -62,7 +61,8 @@
        dtn)
       (t       
        (push-debug `(,rnode ,i ,schr))
-       (break "Next case in convert-to-derivation-tree")))))
+       (break "New case in convert-to-derivation-tree.~
+               ~%Maybe we need a Mumble phrase for ~a" etf)))))
 
     
 
@@ -90,6 +90,7 @@
                      (sparser::right-edge 'sparser::left-edge)
                      (sparser::left-edge 'sparser::right-edge)))
          (binding-spec (cadr (memq :binding-spec descriptors))))
+    (push-debug`(,head-rnode ,arg-rnode ,head-edge ,arg-edge))
     (flet ((make-comp-node (c+v key)
              (let* ((variable (sparser::cv-variable c+v))
                     (category (sparser::cv-type c+v))
@@ -97,6 +98,7 @@
                     (phrase-arg (cdr (assq key arg-mapping))))
                (format t "~&variable = ~a, value = ~a" variable value)
                (make-complement-node phrase-arg value dtn))))
+      (break "compound head")
       (when head-rnode
         (make-comp-node (car (sparser::rn-variable head-rnode))
                         'sparser::head))
