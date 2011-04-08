@@ -184,7 +184,7 @@
                                standalone-word
                                adjective
                                quantifier
-			       interjection
+                               interjection
                                adverb
                                preposition
                                word
@@ -381,21 +381,25 @@
 
        ((member term labels :test #'eq)
         (setq cat
-              (cond ((eq value :self)
-                     category)
-                    ((stringp value)
-                     (resolve-string-to-word/make value))
-                    ((listp value)
-                     (let ( acc )
-                       (dolist (v value)
-                         (if (stringp v)
-                           (push (resolve-string-to-word/make v) acc)
-                           (push (find-or-make-category-object
-                                  v :def-category)
-                                 acc)))
-                       (nreverse acc)))
-                    (t (find-or-make-category-object
-                        value :def-category))))
+              (cond
+                ((eq value :self)
+                 (let ((category-instantiated (category-instantiates category)))
+                   (if (not (eq category-instantiated category))
+                     category-instantiated
+                     category)))
+                ((stringp value)
+                 (resolve-string-to-word/make value))
+                ((listp value)
+                 (let ( acc )
+                   (dolist (v value)
+                     (if (stringp v)
+                       (push (resolve-string-to-word/make v) acc)
+                       (push (find-or-make-category-object
+                              v :def-category)
+                             acc)))
+                   (nreverse acc)))
+                (t (find-or-make-category-object
+                    value :def-category))))
         (push (cons term cat)
               new-list))
 
