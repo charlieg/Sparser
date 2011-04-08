@@ -32,12 +32,12 @@
   (cdr (assoc parameter *phrase-parameter-argument-list*)))
 
 (defun parameter-arg-list-from-dtn (dtn)
-  ;;(format t "~&Creating parameter-arg-list-from ~a" dtn)
+  (format t "~&Creating parameter-arg-list-from ~a" dtn)
   (mapcar #'(lambda (cn)
               (let* ((symbol (phrase-parameter cn))
                      (parameter (parameter-named symbol))
                      (value (value cn)))
-                ;;(format t "~&p: ~a  v: ~a" parameter value)
+                (format t "~&   p: ~a  v: ~a" parameter value)
                 (unless value 
                   (push-debug `(,cn ,parameter ,dtn)) 
                   (error "No value for parameter ~a" parameter))
