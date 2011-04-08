@@ -97,8 +97,7 @@
 	     (realize-and-knit contents)
          (else 
            (push-debug `(,contents ,position))
-           (break "Unexpected type of object in realization cycle: ~a~%~a"
-                  (type-of contents) contents)))))))
+           (break "No realization for ~a" contents)))))))
 
 (defun do-all-word-stream-actions (labels visited-status)
   (dolist (label labels)
