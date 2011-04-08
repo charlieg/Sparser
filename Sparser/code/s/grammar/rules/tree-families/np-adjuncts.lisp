@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1995-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1995-2005,1011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "np adjuncts"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  0.1 April 2005
+;;;  version:  0.1 April 2011
 
 ;; initiated 6/14/95.  8/11 added pp-after-np.  11/15 added premodifier-adds-
 ;; property and filled in a missing description.  12/5 added determiner-adds-property
@@ -13,13 +13,14 @@
 ;; (10/29/00) Cataloged what's here and added N-per-unit. 12/11 fixed a bug where
 ;;   the parens were layered wrong. 12/22 fixed spelling of keyword. 2/17/05 added
 ;;   np-participle. 4/1 Modified pp-after-np to include the preposition in a simplistic
-;;   way.
+;;   way. 4/4/11 Added np-and-postmodifier
 
 (in-package :sparser)
 
 #| ETFs in this file:
 
      premodifier-creates-subtype --- "net income" ?? look at binding pattern
+     np-and-postmodifier ----------- "60 in February" Instantiates a new individual
      premodifier-adds-property ----- "red house"
      appositive -------------------- "Patrick Courtin, president and CEO of Gensym Corporation"
      np-participle ----------------- "third quarter ended June 26, 2004"
@@ -43,6 +44,19 @@
     ((:modifier (np-head (noun np-head)
                  :head right-edge
                  :binds (subtype left-edge)))))
+
+
+(define-exploded-tree-family   np-and-postmodifier
+  :description "A combination of the head of a noun phrase (either noun or n-bar) and a followingg phrase instatiate a new kind of individual where both phrases contribut.e"
+  :binding-parameters ( type np-var modifier-var )
+  :labels (np np-head phrase )
+  :cases
+    ((:modifier (np (np-head phrase)
+                 :instantiate-individual type
+                 :head left-edge
+                 :binds (np-var left-edge
+                         modifier-var right-edge)))))
+
 
 
 
