@@ -3,7 +3,8 @@
 ;;; Copyright (c) 2006-2007 BBNT Solutions LLC. All Rights Reserved
 ;;; Copyright (c) 2011 David D. McDonald  -- all rights reserved
 
-;; 3/9/11 Extended string set for Sparser
+;; 3/9/11 Extended string set for Sparser. 4/9/11 fixed bug in string-
+;; of-N-spaces.
 
 (in-package :ddm-util)
 
@@ -52,7 +53,7 @@
     (or s "")))
 
 (defun string-of-N-spaces (n)
-  (let ((s (cdr (assoc *indentation* *indent-strings*))))
+  (let ((s (cdr (assoc n *indent-strings*))))
     (unless s
       (error "Add more cases, a string of length ~A ~
               was requested." n))
