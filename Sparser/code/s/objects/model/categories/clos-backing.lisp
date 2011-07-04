@@ -1,13 +1,13 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 2010 David D. McDonald  -- all rights reserved
+;;; copyright (c) 2010-2011 David D. McDonald  -- all rights reserved
 ;;; $Id$
 ;;;
 ;;;     File:  "clos-backing"
 ;;;   Module:  "objects;model:categories:"
-;;;  version:  0.0 December 2010
+;;;  version:  0.0 June 2011
 
 ;; initated 11/9/10. Modified the storage scheme 11/11. Tweaking cases
-;; through 12/6.
+;; through 12/6. 6/16/11 fixed case of clash with existing classes.
 
 (in-package :sparser)
 
@@ -50,21 +50,21 @@
     (:define-category)
     ((or :referential :form)
      (let* ((class-name (backing-class-name-for-cateory c))
-	    ;; 1. Class goes in the sparser package so as not to conflict
-	    (supercat (when (cat-lattice-position c) ;;unless (eq source :form)
-			(lp-super-category (cat-lattice-position c))))
-	    (superc-name ;; presume there's just one
-	     (when supercat (backing-superclass-for-category supercat)))
-	    (variables (cat-slots c))
-	    (slot-expressions 
-	     (when variables (backing-class-slots-for-category variables)))
-	    (form
-	     `(defclass ,class-name ,(if superc-name `(,superc-name) nil)
-		,slot-expressions)))
+            ;; 1. Class goes in the sparser package so as not to conflict
+            (supercat (when (cat-lattice-position c) ;;unless (eq source :form)
+                        (lp-super-category (cat-lattice-position c))))
+            (superc-name ;; presume there's just one
+             (when supercat (backing-superclass-for-category supercat)))
+            (variables (cat-slots c))
+            (slot-expressions 
+             (when variables (backing-class-slots-for-category variables)))
+            (form
+             `(defclass ,class-name ,(if superc-name `(,superc-name) nil)
+                ,slot-expressions)))
        (push-debug `(,form))
        (let ((class (eval form)))
-	 (store-class-for-category c class)
-	 c)))
+         (store-class-for-category c class)
+         c)))
     (otherwise
      (push-debug `(,c ,source))
      (break "New backing-CLOS class source: ~a~%~a" source c))))
@@ -73,23 +73,28 @@
   ;; :sparser package uses :common-lisp, so there's the possibility
   ;; of clashing with the name of a function, so we have to avoid
   ;; that by using a made-up name in such cases (eg. 'time).
-  (let* ((c-name (cat-symbol c))
-	 (c-pname (symbol-name c-name))
-	 (class-name (intern c-pname (find-package :sparser))))
-    (when (eq (symbol-package class-name) (find-package :common-lisp))
-      (setq c-pname (string-append c-pname "-cclass")
-	    class-name (intern c-pname (find-package :sparser))))
+  (let* ((c-name (cat-symbol c)) ;; in the category package
+         (c-pname (symbol-name c-name))
+         (class-name (intern c-pname (find-package :sparser)))
+         (existing-class (find-class class-name nil))
+         (names-a-function (fboundp class-name)))
+    (when (or existing-class names-a-function)
+      ;; We aren't allowed to redefine classes that already exist
+      ;; Even our own classes that come out of defstruct. 
+      ;; For functions (the word "when") we have a comparable problem
+      (setq class-name (intern (string-append c-pname "-cclass")
+                               (find-package :sparser))))
     (when (eq class-name 'individual)
       ;; Can't makes classes for symbols that name Sparser structs.
       ;; It would amount to redefining them and clobber everything
       (setq class-name (intern "individual-class" (find-package :sparser))))
-    class-name))			     
+    class-name))
 
 
 (defun backing-superclass-for-category (superc)
   ;; stub something if there's not already a class?
   (let* ((superc-name (backing-class-name-for-cateory superc))
-	 (super-class (get-class superc)))
+         (super-class (get-class superc)))
     (unless super-class
       (break "The CLOS class for ~a doesn't exist yet." superc-name))
     superc-name))
