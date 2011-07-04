@@ -5,7 +5,7 @@
 ;;;
 ;;;      File:   "everything"
 ;;;    Module:   "init;"
-;;;   Version:   January 2011
+;;;   Version:   June 2011
 ;;;
 ;;;  This is the preloader.  Launching this file loads one or
 ;;;  another version of the entire system, as determined by the
@@ -71,10 +71,17 @@
 ;; 11/9/10 added *CLOS* parameter. 1/12/11 Set its default to T. 1/24/11 commented
 ;; out the use-sfl here because of complaint from CCL about SFL's asd file that I don't
 ;; want to figure out. Instead just lifting out the relevant form and adding it
-;; to util. 
+;; to util. 6/12/11 Making mods so we could load this directly w/o a script, which
+;; means bringing in the content of the most-recent, best used scripts. 
 
 (in-package :cl-user)
 
+#|  Flags
+  #+apple is MCL
+  #+openmcl is Clozure (note the z)
+  #+allegro
+
+|#
 
 ;;;--------------------------
 ;;; create Sparser's package
@@ -82,9 +89,10 @@
 
 (unless (find-package :sparser)
   (make-package :sparser
-                :use #+:apple '(ccl common-lisp)
-                     #-:apple  '(common-lisp)
-                ))
+                :use '(common-lisp
+                       ddm-util
+                       #+apple ccl
+                       #+openmcl :ccl)))
 
 ;;;----------------
 ;;; hard filenames
@@ -96,11 +104,6 @@ calls to load that are made in this file.  All other files are loaded
 using Sparser's own loading facility, which is driven off the function 
 "lload" and is parameterized to transparently permit compiling, checking 
 what files have changed, preparing ftp scripts, etc.
-
-   Once the files are transfered to a real unix file system, the #+:unix 
-key should be on and the #+:apple key off, and a corresponding set of 
-pathnames in unix format should be introduced suitable to the location 
-of the files on that specific system.
 |#
 
 ;;---  sparser::location-of-sparser-directory
@@ -122,20 +125,10 @@ of the files on that specific system.
              (defparameter sparser::*known-machine* :g4)
              string )
 
-            ((probe-file  ;; location on M&D's Powerbook
-              (setq string "Book:David:Sparser:"))
-             (defparameter sparser::*known-machine* :book)
-             string )
-
             ((probe-file  ;; location on ddm's G3 Powerbook
               (setq string "g3:mine:Sparser:"))
              (defparameter sparser::*known-machine* :br-700)
              string )
-
-            ((setq pathname (probe-file "Sparser:"))  ;; note the colon
-             ;; location on ddm's 8100
-             (defparameter sparser::*known-machine* :g3)
-             (namestring pathname))
 
             (t
              (defparameter sparser::*known-machine* :no)
@@ -145,14 +138,16 @@ of the files on that specific system.
                      Sparser-directory~%and cl-user::location-of-text-~
                      corpora to their namestrings~%and ~
                         continue.~%"))))
-     #+:allegro
+     #+(or :allegro :openmcl)
      (namestring
       (merge-pathnames 
        ;; truename will be <Sparser-directory>/code/s/init/everything.lisp
-       (make-pathname :directory '(:relative
-				   :up 
-				   :up
-				   :up))
+       (make-pathname :directory 
+                      '(:relative
+                        :up ;; init
+                        :up ;; s
+                        :up ;; code
+                        ))
        (make-pathname :directory (pathname-directory *load-truename*))))))
 
 
@@ -168,12 +163,6 @@ of the files on that specific system.
           ((string-equal cl-user::location-of-sparser-directory
                          "Book:David:Sparser:")
            :book )
-          ((string-equal cl-user::location-of-sparser-directory
-                         "g3:mine:Sparser:")
-           :g3 )
-          ((string-equal cl-user::location-of-sparser-directory
-                         "Sparser:")
-           :ddm-8100 )
           (t  :no ))))
 
 
@@ -184,8 +173,6 @@ of the files on that specific system.
     (ecase sparser::*known-machine*
       (:g4 "ddm's G4 desktop")
       (:book "ddm & mwm's 160")
-      (:g3 "ddm's G3 Powerbook")
-      (:ddm-8100 "ddm's 8100")
       (:no
        #|(format t "~3%!! Sparser is loading on a machine where ~
                   no value is available~%for *known-machine*. ~
@@ -210,10 +197,6 @@ of the files on that specific system.
        ;; is launched on the book (see config;launch)
        (defparameter sparser::*connect-to-the-corpus* nil)
        "Book:David:Sparser:corpus:")
-      (:g3
-       nil )
-      (:ddm-8100
-       "Corpora:")
       (:no
        nil ))))
 
@@ -263,11 +246,11 @@ of the files on that specific system.
                    cl-user::location-of-Sparser-code-directory
                    #+:apple "s:init:versions:"
                    #+:unix  "s/init/versions/"
-		   #+:mswindows "s\\init\\versions\\"
+                   #+:mswindows "s\\init\\versions\\"
                    cl-user::*current-version*
                    #+:apple ":"
                    #+:unix  "/"
-		   #+:mswindows (make-string 1 :initial-element #\\) ;;"\"
+                   #+:mswindows (make-string 1 :initial-element #\\) ;;"\"
                    ))
 
 (defparameter identify-the-lisp-&-specialize-preload
@@ -275,7 +258,7 @@ of the files on that specific system.
                location-of-Sparser-code-directory
                #+:apple "s:init:Lisp:kind-of-lisp"
                #+:unix  "s/init/Lisp/kind-of-lisp"
-	       #+:mswindows "s\\init\\Lisp\\kind-of-lisp"
+               #+:mswindows "s\\init\\Lisp\\kind-of-lisp"
                ))
 
 (defparameter defining-logical-directories
@@ -283,7 +266,7 @@ of the files on that specific system.
                    location-of-Sparser-code-directory
                    #+:apple "s:init:Lisp:ddef-logical"
                    #+:unix  "s/init/Lisp/ddef-logical"
-		   #+:mswindows "s\\init\\Lisp\\ddef-logical"
+                   #+:mswindows "s\\init\\Lisp\\ddef-logical"
                    ))
 
 (defparameter special-loader
@@ -291,7 +274,7 @@ of the files on that specific system.
                    location-of-Sparser-code-directory
                    #+:apple "s:init:Lisp:lload"
                    #+:unix  "s/init/Lisp/lload"
-		   #+:mswindows "s\\init\\Lisp\\lload"
+                   #+:mswindows "s\\init\\Lisp\\lload"
                    ))
 
 (defparameter defining-grammar-modules
@@ -299,7 +282,7 @@ of the files on that specific system.
                    location-of-Sparser-code-directory
                    #+:apple "s:init:Lisp:grammar-module"
                    #+:unix  "s/init/Lisp/grammar-module"
-		   #+:mswindows "s\\init\\Lisp\\grammar-module"
+                   #+:mswindows "s\\init\\Lisp\\grammar-module"
                    ))
 
 (defparameter module-location-definitions
@@ -307,7 +290,7 @@ of the files on that specific system.
                    location-of-current-version-code
                    #+:apple "loaders:logicals"
                    #+:unix  "loaders/logicals"
-		   #+:mswindows "loaders\\logicals"
+                   #+:mswindows "loaders\\logicals"
                    ))
 
 (defparameter master-loader
@@ -315,7 +298,7 @@ of the files on that specific system.
                    location-of-current-version-code
                    #+:apple "loaders:master-loader"
                    #+:unix  "loaders/master-loader"
-		   #+:mswindows "loaders\\master-loader"
+                   #+:mswindows "loaders\\master-loader"
                    ))
 
 
@@ -523,11 +506,11 @@ or for loading the newer of the compiled or source files.
                     #+apple cl-user::location-of-Sparser-code-directory
                     #+unix  (sparser::unix-namestring-to-mac
                              cl-user::location-of-Sparser-code-directory)
-		    #+:mswindows (sparser::MS-namestring-to-mac
-				  cl-user::location-of-Sparser-code-directory)
+                    #+:mswindows (sparser::MS-namestring-to-mac
+                                  cl-user::location-of-Sparser-code-directory)
                     #+:apple "s:"
                     #+:unix  "s:" 
-		    #+:mswindows "s:"
+                    #+:mswindows "s:"
                     )))           ;; note this ends with a colon
                                   ;; rather than a slash. It undergoes
                                   ;; translation and has to look like 
@@ -550,11 +533,11 @@ or for loading the newer of the compiled or source files.
                     #+apple cl-user::location-of-Sparser-code-directory
                     #+unix  (sparser::unix-namestring-to-mac
                              cl-user::location-of-Sparser-code-directory)
-		    #+mswindows (sparser::MS-namestring-to-mac
-				 cl-user::location-of-Sparser-code-directory)
+                    #+mswindows (sparser::MS-namestring-to-mac
+                                 cl-user::location-of-Sparser-code-directory)
                     #+:apple  "f:"
                     #-:apple   (concatenate 'string
-				 *binaries-directory-name* ":"))))
+                                            *binaries-directory-name* ":"))))
 
 ;; use this extension (type) for the binaries
 (unless (boundp 'sparser::*fasl-extension*)
@@ -941,7 +924,7 @@ or for loading the newer of the compiled or source files.
        (let ((file (concatenate 'string
 				"grammar-configurations;"
 				sparser::*grammar-configuration*)))
-	 (sparser::lload file)))
+         (sparser::lload file)))
 
       (sparser::*load-the-grammar*
        (sparser::lload "grammar-configurations;full grammar"))
@@ -1059,7 +1042,6 @@ or for loading the newer of the compiled or source files.
   
   (defun trivial-save (month day)
     (let ((filename (format nil
-                            ;; "Book:David:Sparser ~A/~A"
                             "Sparser:Sparser ~A/~A"
                             month day)))
       (save-application filename)))
