@@ -53,7 +53,7 @@
 
 
 ;;--- Move above Mumble ??????  Can it just wait for 1st Sparser file ????
-
+#+ignore
 (unless (find-package :sparser)
   (make-package :sparser
                 :use '(common-lisp
@@ -62,16 +62,19 @@
                        #+openmcl :ccl)))
   
 ;; Sparser 
-(unless (boundp '*sparser-script-setting*)
-  (defvar *sparser-script-setting* :fire))
-(load (concatenate 'string 
-		   (namestring *nlp-home*) 
-		   "Sparser/code/s/init/scripts/"
-		   (case *sparser-script-setting*
-		     (:fire "fire")
-		     (:checkpoint "checkpoint-ops"))
-		   ;; Need formulation that could go to 'everything'
-		   ".lisp"))
+(let* ((init-location "Sparser/code/s/init/")
+       (sparser-load-script
+        ;; extend, modify as appropriate
+        (cond
+          (nil "scripts/fire")
+          (nil "scripts/checkpoint-ops")
+          (t "everything") ;; i.e. no specializing script
+          )))
+  (load (concatenate 'string 
+                     (namestring *nlp-home*)
+                     init-location
+                     sparser-load-script
+                     ".lisp")))
 
 ;; Mumble derivation tree using Sparser types
 (asdf:operate 'asdf:load-op :mumble-after-sparser)
