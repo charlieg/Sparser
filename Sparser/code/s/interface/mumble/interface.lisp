@@ -37,9 +37,11 @@
 
 (defmethod mumble::realization-for ((o t))
   (let ((options (realization-history o)))
-    ;; choice among alternative probably goes here
+    ;; choice among alternatives probably goes here
     ;; but surely wants more context
-    (mumble::convert-to-derivation-tree options o)))
+    (let ((dt (mumble::convert-to-derivation-tree options o)))
+      (push-debug `(:dt ,dt))
+      dt)))
 
 (defgeneric realization-history (o)
   (:documentation "Soaks up the different possibilities for 
