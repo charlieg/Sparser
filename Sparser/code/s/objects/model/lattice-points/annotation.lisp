@@ -37,7 +37,7 @@
 ;;      composites in Annotate-site-bound-to
 ;;     (10/31/06) Added *annotate-realizations* switch to control whether this
 ;;      stuff runs.
-;; 0.2 (3/19/11) Updated & revitalized the code. Continued through 3/23/11. 
+;; 0.2 (3/19/11) Updated & revitalized the code. Continued through 5/16/11. 
 
 (in-package :sparser)
 
@@ -85,8 +85,8 @@
 ;; don't define it here the next two routines won't make it special.
 
 
-;; Called from Referent-from-unary-rule, and indirectly from 
-;; Span-digits-number. Called from Referent-from-rule when
+;; Called from referent-from-unary-rule, and indirectly from 
+;; span-digits-number. Called from referent-from-rule when
 ;; the rule points directly to its referent. Called from ref/function
 ;; when the result is an individual.
 ;;
@@ -155,7 +155,7 @@
       entry )))
 
 
-;; Called from Span-digits-number and from Make-edge-over-unknown-digit-sequence
+;; Called from span-digits-number and from make-edge-over-unknown-digit-sequence
 (defun annotate-number (n fsa-keyword already-cached?)
   (when *annotate-realizations*
     (let ((*rule-being-interpreted* fsa-keyword))
@@ -172,6 +172,28 @@
 ;; called from ref/head with args analogous to call to
 ;; annotate-individual.
 (defun annotate-composite (c))
+
+(defun annotate-daughter (i rule head-edge arg-edge)
+  (declare (ignore rule arg-edge)) 
+  ;;/// for the moment -- crucial to get all details
+  ;; Copy the rnode on the head edge up to the current edge.
+  ;; This misses the form rule data (motivating case is "a" + NP),
+  ;; but it's a start. Ultimately this is somewhat like
+  ;; annotate-realization-pair with a stylized treatment of
+  ;; the arg edge based on the rule.
+  (when *annotate-realizations*
+    (tr :annotating-daughter rule head-edge)
+    (let* ((lp (corresponding-lattice-point i))
+           ;; For later when we look at the rule
+           ;;(existing-annotations (lp-realizations lattice-point))
+           ;;(rc (rule-component-to-use rule))
+           ;;(entry (find rc existing-annotations :key #'rn-cfr)))
+           (rnode (rnode-for-edge head-edge)))
+      (unless rnode
+        (push-debug `(,i ,rule ,head-edge ,arg-edge ,lp))
+        (error "No rnode cached on ~a" head-edge))
+      (cache-rnode-on-parent-edge rnode))))
+      
 
 
 
@@ -225,7 +247,6 @@
       entry)))
 
 
-
 (defun annotate-site-bound-to (i/psi variable type edge)
   ;; Called from ref/instantiate-individual-with-binding
   ;; Annotates the inclusion of an individual (or psi) into
@@ -259,8 +280,6 @@
     
   
 
-
-
 ;;;--------------------------------------------
 ;;; caching the rnode for use in the next step
 ;;;--------------------------------------------
@@ -293,8 +312,12 @@
   (push `(,edge . ,c+v) *edges-to-c+v*))
 
 (defun c+v-for-edge (edge)
-  (cdr (assoc edge *edges-to-c+v*
-              :test #'eq)))
+  (let ((c+v (cdr (assoc edge *edges-to-c+v*
+                         :test #'eq))))
+    (unless c+v
+      (push-debug `(,edge))
+      (break "No was c+v cached on ~a" edge))
+    c+v))
 
 
 
