@@ -21,9 +21,13 @@
 
 (defvar *etf-name-to-phrase*
   '(
-    ;;/// which file of ETFs is this from?
+    ;; from pre-head-np-modifiers
     (quantity+kind  mumble::qualifier-head 
      ((head . mumble::head) (arg . mumble::qualifier)))
+
+    (modifier-creates-individual  mumble::qualifier-head 
+     ((head . mumble::head) (arg . mumble::qualifier)))
+     
 
     ;; from np-adjuncts
     (np-and-postmodifier  mumble::head-qualifier
