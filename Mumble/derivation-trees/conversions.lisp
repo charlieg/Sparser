@@ -92,13 +92,19 @@
          (binding-spec (cadr (memq :binding-spec descriptors))))
     (push-debug`(,head-rnode ,arg-rnode ,head-edge ,arg-edge))
     (flet ((make-comp-node (c+v key)
+             (unless c+v
+               (break "No variable in ~a rnode"
+                      (if (eq key 'sparser::head) 'head 'arg)))
              (let* ((variable (sparser::cv-variable c+v))
                     (category (sparser::cv-type c+v))
-                    (value (sparser::value-of variable i category))
-                    (phrase-arg (cdr (assq key arg-mapping))))
+                    (phrase-arg (cdr (assq key arg-mapping)))
+                    (value (sparser::value-of variable i category)))
+               (unless value
+                 (push-debug `(,c+v ,key))
+                 (break "Variable ~a returned nil for ~a" variable i))
                (format t "~&variable = ~a, value = ~a" variable value)
                (make-complement-node phrase-arg value dtn))))
-      (break "compound head")
+      ;;(break "compound head")
       (when head-rnode
         (make-comp-node (car (sparser::rn-variable head-rnode))
                         'sparser::head))
