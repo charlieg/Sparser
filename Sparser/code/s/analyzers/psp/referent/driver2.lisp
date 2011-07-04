@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-1999 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1999,2011 David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -27,6 +27,7 @@
 ;;      the annotater, and cleaned up the now obsolete direct-pointer?
 ;; 2.3 (1/10/07) Refined decision for 2.1 so that only certain classes update
 ;;      the referent (cases from dm&p rules)
+;;     (4/27/11) Cleanup. More on 5/10
 
 (in-package :sparser)
 
@@ -78,34 +79,41 @@
           (*right-edge-into-reference*      right-edge)
           (*parent-edge-getting-reference*  parent-edge)
           (*rule-being-interpreted*         rule)
+          (*head-edge* nil)  ;; set in ref/head
+          (*arg-edge* nil)   ;; ditto
           (left-referent  (or left-ref
                               (edge-referent left-edge)))
           (right-referent (or right-ref
                               (edge-referent right-edge)))
           (rule-field (cfr-referent rule)))
 
+      (declare (special 
+                *left-edge-into-reference* *right-edge-into-reference*
+                *parent-edge-getting-reference* *rule-being-interpreted*
+                *head-edge* *arg-edge*))
+                        
       (when (not (null rule-field))
         (if (listp rule-field)
           (then
             (if (listp (first rule-field))
-              (then ;;more than one referent action
+              (then ;; more than one referent action
                 (setq *referent*
                       (dispatch-on-rule-field-keys
                        (first rule-field)
                        left-referent right-referent right-edge))
-		(let ( evolved-result )
-		  (dolist (ref-action (rest rule-field))
-		    (setq evolved-result
-			  (dispatch-on-rule-field-keys
-			   ref-action left-referent right-referent right-edge)))
-		  (when (typecase evolved-result
-			  (psi t)
-			  (individual t)
-			  (referential-category t)
-			  (category t)
-			  (mixin-category t)
-			  (otherwise nil))
-		    (setq *referent* evolved-result))))
+                (let ( evolved-result )
+                  (dolist (ref-action (rest rule-field))
+                    (setq evolved-result
+                          (dispatch-on-rule-field-keys
+                           ref-action left-referent right-referent right-edge)))
+                  (when (typecase evolved-result
+                          (psi t)
+                          (individual t)
+                          (referential-category t)
+                          (category t)
+                          (mixin-category t)
+                          (otherwise nil))
+                    (setq *referent* evolved-result))))
 
               (else  ;; just one action
                 (setq *referent*

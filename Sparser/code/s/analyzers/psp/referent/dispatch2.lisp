@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-1998 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1998,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;      File:   "dispatch"
 ;;;    Module:   "analyzers;psp:referent:"
-;;;   Version:   2.0 June 1998
+;;;   Version:   2.2 May 2011
 
 ;; initiated 12/91
 ;; 1.0 (7/17/92 v2.3) added :instantiate-individual-with-binding
@@ -15,14 +15,15 @@
 ;;      packaging of "binding" by rdata and others.
 ;; 2.0 (3/22/98) Put in machinery to record annotations on lattice-points.
 ;; 2.1 (6/30) moved the annotator up out of here.
+;; 2.2 (5/10/11) Redesign staging of annotation of the whole rule ('pair')
+;;      for the :bindings case.
 
 (in-package :sparser)
 
 
-(defun dispatch-on-rule-field-keys
-       (rule-field left-referent right-referent right-edge)
-
-  (setq *head-edge* (setq *arg-edge* nil)) ;; initialize
+(defun dispatch-on-rule-field-keys (rule-field left-referent 
+                                    right-referent right-edge)
+  (declare (special  *head-edge* *arg-edge* *rule-being-interpreted*))
 
   (let ((key (first rule-field)))
     (case key
@@ -40,9 +41,16 @@
         rule-field left-referent right-referent right-edge))
 
       (:bindings
-       (dolist (binding-exp (rest rule-field))
-         (ref/binding binding-exp
-                      left-referent right-referent right-edge)))
+       (let ( ref )
+         (dolist (binding-exp (rest rule-field))
+           (setq ref (ref/binding binding-exp left-referent
+                                  right-referent right-edge)))
+         ;;(break "head = ~a~%arg = ~a" *head-edge* *arg-edge*) ;;/////////////
+         (annotate-realization-pair
+          ref (psi-lp ref) *rule-being-interpreted*
+          *head-edge* *arg-edge*)
+         ref))
+
       (:binding
        ;; /// special checks patch over an inconsistency
        (if (lambda-variable-p (cadr rule-field))

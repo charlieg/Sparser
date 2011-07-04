@@ -27,9 +27,11 @@
 ;;      creation.
 ;; 3.0 (7/22/09) fanout from conditionalized psi changes. Continuing through 8/17.
 ;;     (9/20) Modified ref/subtype to ignore calling the subtype routine unless
-;;     *use-subtypes* is set.
+;;      *use-subtypes* is set.
 ;; 3.1 (3/23/11) Refactored dolist over values in ref/instantiate-individual-
-;;     with-binding in order to be able to pass an edge to annotate-site-bound-to.
+;;      with-binding in order to be able to pass an edge to annotate-site-bound-to.
+;;     (5/10/11) Fixed gratuitous zero'ing of globals for the edges, setting both
+;;      in ref/head
 
 (in-package :sparser)
 
@@ -50,15 +52,18 @@
   (let ((head
          (if (symbolp category-or-edge)
            (case category-or-edge
+             ;; these set *head-edge* and *arg-edge*
              (left-referent
               (indicate-head :left)
+              (indicate-arg :right)
               left-referent)
              (right-referent
               (indicate-head :right)
+              (indicate-arg :left)
               right-referent)
-	     (otherwise
-	      (break "Unanticipated symbol as category/edge: ~a"
-		     category-or-edge)))
+             (otherwise
+              (break "Unanticipated symbol as category/edge: ~a"
+                     category-or-edge)))
            ;; individuals, psi, categories
            category-or-edge)))
     
@@ -128,8 +133,8 @@
       ;; may call for instantiating an individual for its head-line's
       ;; category but there'll already be one (which we just return).
       (then
-	(tr :ref-returning-individual head)
-	head)
+        (tr :ref-returning-individual head)
+        head)
       (else
         (unless (referential-category-p head)
           (error "Expected the referent for the head:~%     ~A~
@@ -166,8 +171,8 @@
              head)
             (referential-category
              (setq type-of-head head)
-	     ;; We're adding a binding, so we presume that the result
-	     ;; will be partially saturated even it's a simple category
+             ;; We're adding a binding, so we presume that the result
+             ;; will be partially saturated even it's a simple category
              (find-or-make-psi-for-base-category head))
             (individual
              (break "Shouldn't have gotten a full individual at ~
@@ -177,8 +182,7 @@
 	      (type-of head) head))))
          variable value )
 
-    (tr :instantiating-individual-with-binding
-        psi binding-exp/s)
+    (tr :instantiating-individual-with-binding psi binding-exp/s)
 
     (dolist (pair binding-exp/s)
       (setq variable (car pair))
@@ -265,8 +269,7 @@
                         (cdr binding-exp)))
         (body *referent*)
         (psi? (typep *referent* 'psi))
-        value  head-edge  arg-edge  extended-psi)
-    (tr :ref/binding variable value body)
+        value  head-edge  arg-edge  edge-being-bound  extended-psi)
 
     (unless value-symbol
       (break "Threading bug -- no value for the value symbol ~A~
@@ -283,9 +286,14 @@
                      (setq head-edge *right-edge-into-reference*
                            arg-edge *left-edge-into-reference*)
                      left-referent)
-		    (otherwise
-		     (break "Unanticipated value symbol: ~a~%~a"
-			    (type-of value-symbol) value-symbol)))))
+                    (otherwise
+                     (break "Unanticipated value symbol: ~a~%~a"
+                            (type-of value-symbol) value-symbol)))))
+    (tr :ref/binding variable value body)
+
+    (setq edge-being-bound (case value-symbol
+                             (right-referent *right-edge-into-reference*)
+                             (left-referent *left-edge-into-reference*)))
 
     (unless value
       (unless (or *do-domain-modeling-and-population*
@@ -296,13 +304,14 @@
     
     (when value
       (if psi?
-        (setq extended-psi (extend-psi-by-binding variable value body))
+        (setq extended-psi (find-or-make-psi-with-binding variable value body))
         (bind-variable variable value body)))
     
     ;; //// annotate the value re. what c+v it's been bound to
+    (annotate-site-bound-to value variable (i-type-of body) edge-being-bound)
     
     ;; annotate this combination
-    (when psi?
+    #+ignore (when psi?
       ;; composite case has does the annotation within the
       ;; code that does the opportunistic binding.
       ;; --- what about individuals ???  3/16/05 ----
@@ -318,6 +327,8 @@
 
 (defun opportunistic-binding-to-composite-head (variable value c
                                                 head-edge arg-edge)
+  (break "opportunistic-binding-to-composite-head:~
+        ~%This function hasn't been run in a decade or so. Review it.")
   (tr :looking-for-opportunistic-binding variable c)
   (let ((head (cr-head c))
         (others (cr-others c))

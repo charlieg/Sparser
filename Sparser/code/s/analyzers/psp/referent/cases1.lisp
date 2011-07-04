@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2005,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;      File:   "cases"
 ;;;    Module:   "analyzers;psp:referent:"
@@ -22,6 +22,7 @@
 ;;      calls from null variable values
 ;; 1.6 (8/24) broke out the cases for the new semantics.
 ;; 1.7 (2/14/05) Removed annotation call from Ref/function.
+;; 1.8 (5/17/11) Putting it back.
 
 (in-package :sparser)
 
@@ -29,10 +30,17 @@
 ;;; daughter
 ;;;----------
 
-(defun ref/daughter (edge left-referent right-referent)
-  (ecase edge
-    (left-referent left-referent)
-    (right-referent right-referent)))
+(defun ref/daughter (edge-designator left-referent right-referent)
+  (multiple-value-bind (ref head arg)
+      (ecase edge-designator
+        (left-referent (values left-referent 
+                               *left-edge-into-reference*
+                               *right-edge-into-reference*))
+        (right-referent (values right-referent
+                               *right-edge-into-reference*
+                               *left-edge-into-reference*)))
+    (annotate-daughter ref *rule-being-interpreted* head arg)
+    ref))
 
 
 ;;;-----------
