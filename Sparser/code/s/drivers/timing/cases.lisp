@@ -1,14 +1,15 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992,1993,1994 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1994,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:
 ;;; 
 ;;;     File:  "cases"
 ;;;   Module:  "drivers;timing:"
-;;;  Version:   February 1991
+;;;  Version:   June 2011
 
 ;; initiated 2/91. 10/3/07 folding in some items from other test files and
-;; adding more fixed strings to test. 
+;; adding more fixed strings to test. 6/17/11 Lowercased the "An" in *iraqi-
+;; girl* to avoid yet-to-be-debuged PNF problem.
 
 (in-package :sparser)
 
@@ -44,7 +45,7 @@
     accumulating-string ))
 
 (defparameter *iraqi-girl* ;; 45 tokens
-"An Iraqi girl who died on Jan. 17 in the Kurdish city of Sulaimaniya, had bird flu, Iraq's health minister said on Monday, despite the World Health Organisation (WHO) having initially ruled that out.")
+"an Iraqi girl who died on Jan. 17 in the Kurdish city of Sulaimaniya, had bird flu, Iraq's health minister said on Monday, despite the World Health Organisation (WHO) having initially ruled that out.")
 
 (defparameter *100-iraqi-girl*
   (let ( accumulating-string )

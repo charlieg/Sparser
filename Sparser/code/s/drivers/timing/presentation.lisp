@@ -51,7 +51,7 @@
      (get-output-stream-string trace-string))))
       
 
-#+:allegro
+
 (defun analyze-and-report-timing-data (time-report-string)
 ; cpu time (non-gc) 40 msec user, 0 msec system
 ; cpu time (gc)     20 msec user, 0 msec system
@@ -59,39 +59,92 @@
 ; real time  66 msec
 ; space allocation:
 ;  115,682 cons cells, 4,760,424 other bytes, 0 static bytes
+;;
+;; It used to be that, now (6/11, ACL 8.2) it's this (on *iraqi-girl*)
+; cpu time (non-gc) 0.295513 sec user, 0.000849 sec system
+; cpu time (gc)     0.125486 sec user, 0.000546 sec system
+; cpu time (total)  0.420999 sec user, 0.001395 sec system
+; real time  0.423330 sec
+; space allocation:
+;  1,304,549 cons cells, 27,777,504 other bytes, 0 static bytes
   (format t "~a" time-report-string)
   (multiple-value-bind (number units)
       (extract-ms-from-time-report-string time-report-string)
     (let* ((word-count *number-of-next-position*)
-	   (tokens-per-second
-	    (case units
-	      (:msec
-	       (let ((tokens-per-milisecond (/ word-count number)))
-		 (* tokens-per-milisecond 1000)))
-	      (otherwise
-	       (break "New time unit: ~a" units)))))
+           (tokens-per-second
+            (case units
+              (:microsec
+               (let ((tokens-per-microsecond (/ word-count number)))
+                 (* tokens-per-microsecond 1000000)))
+              (:msec
+               (let ((tokens-per-milisecond (/ word-count number)))
+                 (* tokens-per-milisecond 1000)))
+              (:sec
+               (/ word-count number))
+              (otherwise
+               (break "New time unit: ~a" units)))))
       (format t "~&speed: ~4,1F tokens/second"
-	      (float tokens-per-second)))))
+              (float tokens-per-second)))))
 
-
+#+:allegro
 (defun extract-ms-from-time-report-string (s)
   ;; "; cpu time (non-gc) 40 msec user, 0 msec system\n..."
+  ;; Now
+  ; cpu time (non-gc) 0.295513 sec user, 0.000849 sec system
   (let* ((close-pos (position #\) s))
-	 (number-start-pos (+ 2 close-pos))
-	 (number-initial-string (subseq s number-start-pos))
-	 (space-pos (position #\space s))
-	 (number-string (subseq number-initial-string 0 (1+ space-pos))))
+         (number-start-pos (+ 2 close-pos))
+         (number-initial-string (subseq s number-start-pos))
+         (space-pos (position #\space number-initial-string))
+         (number-string (subseq number-initial-string 0 (1+ space-pos))))
+    (when (position #\, number-string)
+      (setq number-string (remove-comma-from-number number-string)))
     (let ((units (extract-initial-time-unit 
-		  (subseq number-initial-string (+ 2 space-pos)))))
+                  (subseq number-initial-string (+ 1 space-pos)))))
       (values (read-from-string number-string)
-	      units))))
+              units))))
+
+#+:openmcl
+(defun extract-ms-from-time-report-string (s)
+;; This is on *iraqi-girl*
+;  (pp input-string) took 4,059 microseconds (0.004059 seconds) to run 
+;                    with 4 available CPU cores.
+;During that period, 7,848 microseconds (0.007848 seconds) were spent in user mode
+;                    151 microseconds (0.000151 seconds) were spent in system mode
+; 89,184 bytes of memory allocated.
+  (let* ((pos-of-k (position #\k s))
+         (from-number-start-onwards (subseq s (+ pos-of-k 2)))
+         (pos-next-space (position #\space from-number-start-onwards))
+         (number-string (subseq from-number-start-onwards 0 pos-next-space)))
+    ;(break "number-string = '~a'" number-string)))
+    (when (position #\, number-string)
+      (setq number-string (remove-comma-from-number number-string)))
+    (let ((units (extract-initial-time-unit 
+                  (subseq from-number-start-onwards (+ 1 pos-next-space)))))
+      (values (read-from-string number-string)
+              units))))
+
+;; move to util
+(defun remove-comma-from-number (s)
+  ;;/// make it recursive to remove all the commas in a long number
+  (let ((pos-comma (position #\, s)))
+    (if pos-comma
+      (let ((left (subseq s 0 pos-comma))
+            (right (subseq s (1+ pos-comma))))
+        (string-append left right))
+      s)))
+
+
+
 
 (defun extract-initial-time-unit (s)
   (let* ((space-pos (position #\space s))
-	 (unit-string (subseq s 0 space-pos)))
+         (unit-string (subseq s 0 space-pos)))
+    ;(break "unit-string = '~a'" unit-string)
     (cond
-      ((string-equal unit-string "msec") :msec)
-      (t (break "New instance of a time unit: ~a" unit-string)))))
+     ((string-equal unit-string "microseconds") :microsec)
+     ((string-equal unit-string "msec") :msec)
+     ((string-equal unit-string "sec") :sec)
+     (t (break "New instance of a time unit: ~a" unit-string)))))
 
 
 #+:coral
