@@ -4,12 +4,12 @@
 ;;; 
 ;;;     File:  "psi"
 ;;;   Module:  "objects;traces:"
-;;;  Version:  March 2011
+;;;  Version:  May 2011
 
 ;; initiated 7/3/98. Tweaked to blend in influences from [objects:model:psi:
 ;; traces] 5/18/99. Noted backpointers 6/4.  2/3/05 Adding traces for the find
 ;; operation. 7/30/07 Adding traces for new psi indexing scheme
-;; 3/17/11 Adding more annotation traces.
+;; 3/17/11 Adding more annotation traces. Ditto 5/17/11
 
 (in-package :sparser)
 
@@ -54,6 +54,12 @@
   (when *trace-psi*
     (trace-msg "Annotating the individual ~a~
                 ~%   via ~A" i rule)))
+
+(deftrace :annotating-daughter (rule head-edge)
+  ;; called from annotate-daughter
+  (when *trace-psi*
+    (trace-msg "Annotating-daughter using ~a~
+              ~%   via ~a" head-edge rule)))
 
 (deftrace :new-rdata-entry (entry)
   ;; called from Annotate-realization/base-case and Annotate-individual
