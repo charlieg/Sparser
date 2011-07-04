@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1991-1997  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1997,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;; 
 ;;;     File:  "launch"
 ;;;   Module:  "init;versions:v3.1:config:"
-;;;  version:  August 2009
+;;;  version:  June 2011
 
 ;; 10/7/94 commented out the call to make objects permanent and move it to the
 ;; save images file. 10/12 turning off the break-outside-coverage flag
@@ -29,9 +29,14 @@
 ;; 7/21/09 Flipped *display-word-stream* to nil. 8/31/09 Added *poirot-interface*
 ;; to the protocol switches options. 2/18/10 flipped *display-word-stream*
 ;; back again. We can locally override it for specific applications.
+;; 6/17/11 changed top-edges-setting default to top-edges-setting/ddm because
+;; it's missing some needed elements. 6/30/11 Commented out checkpoint-ops 
+;; case in switch-settings because in and 'everything' load (the default
+;; now) that option symbol is bound to a grammar module. Need a different
+;; scheme. 
 
 (in-package :sparser)
-
+ 
 
 ;;;-------------------------------------------------------------------
 ;;; This is the standard set of launch-time configuration operations.
@@ -111,31 +116,31 @@
 (defun load-workspaces ()
   (let ((namestring
          (if *sparser-is-an-application?*
-           (concatenate 'string
-	     cl-user::location-of-sparser-directory
-	     (cond
-	      (cl-user::*unix-file-system*
-	       "Workspaces/")
-	      (cl-user::*windows-file-system*
-	       "Workspaces\\")
-	      (t ;; apple
-	       "Workspaces:")))
-
-           (concatenate 'string
-	     cl-user::location-of-sparser-directory
-	     (cond
-	      (cl-user::*unix-file-system*
-	       "code/s/init/Workspaces:")
-	      (cl-user::*windows-file-system*
-	       "code\\s\\init\\Workspaces\\")
-	      (r
-	       "code:s:init:Workspaces:"))))))
+             (concatenate 'string
+                          cl-user::location-of-sparser-directory
+                          (cond
+                            (cl-user::*unix-file-system*
+                             "Workspaces/")
+                            (cl-user::*windows-file-system*
+                             "Workspaces\\")
+                            (t ;; apple
+                             "Workspaces:")))
+             
+             (concatenate 'string
+                          cl-user::location-of-sparser-directory
+                          (cond
+                            (cl-user::*unix-file-system*
+                             "code/s/init/Workspaces:")
+                            (cl-user::*windows-file-system*
+                             "code\\s\\init\\Workspaces\\")
+                            (r
+                             "code:s:init:Workspaces:"))))))
     (when (probe-file namestring)
       (let ((files (directory (concatenate 'string namestring "*"))))
-	(mapcar #'(lambda (x) 
-		    (when (not (search ".svn" (format nil "~s" x)))
-		      (load x)))
-		files)))))
+        (mapcar #'(lambda (x) 
+                    (when (not (search ".svn" (format nil "~s" x)))
+                      (load x)))
+                files)))))
 
 
 
@@ -162,12 +167,12 @@
      (fire-setting))
     (*just-bracketing*
      (just-bracketing-setting))
-    (*checkpoint-ops*
-     (checkpoint-ops-setting))
+;    (*checkpoint-ops* ;; oops -- points to a grammar module
+;     (checkpoint-ops-setting))
     (*poirot-interface*
      (poirot-interface-setting))
     (t
-     (top-edges-setting))))
+     (top-edges-setting/ddm))))
 
 
 
