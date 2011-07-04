@@ -447,10 +447,10 @@
 	    corpus-name fraction)
     (dolist (pair *word-frequency-corpus-distributions*)
       (let* ((count (car pair))
-	     (words (cdr pair))
-	     (sorted (sort (copy-list words) #'alphabetize-words)))
-	(format stream "~&~%~%Fraction ~a - ~a words~%~a"
-		count (length sorted) sorted)))))
+             (words (cdr pair))
+             (sorted (sort (copy-list words) #'alphabetize-words)))
+        (format stream "~&~%~%Fraction ~a - ~a words~%~a"
+                count (length sorted) sorted)))))
 
 
 ;;;------------------------------------------------------------
@@ -488,9 +488,9 @@
 (defmethod word-frequency-export-form ((word word) &optional
 				       (stream *standard-output*))
   (let* ((entry (frequency-table-entry word))
-	 (doc-counts (cdr entry))
-	 (pname (word-pname word))
-	 (forms (map-doc-count-entry word doc-counts)))
+         (doc-counts (cdr entry))
+         (pname (word-pname word))
+         (forms (map-doc-count-entry word doc-counts)))
     (format stream "(def-word ~s" pname)
     (format stream "~&   ~{ ~a~})~%" forms)))
 
