@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993,1994,1995  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-1995,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
@@ -15,7 +15,7 @@
 ;; 1.0 (4/30/95) redid company-generalization as heuristic-company-word
 ;; 1.1 (8/8) reanalyzed generic-co-word as a 'company' at the np level
 ;; 1.2 (9/21/09) Commented out the n-bar mapping in uses of np-common-noun/definite
-;;      where that option has (debatably) been removed.
+;;      where that option has (debatably) been removed. But missed one 6/14/11.
 
 (in-package :sparser)
 
@@ -76,7 +76,7 @@
   :index (:permanent  :key word)
   :realization (:tree-family np-common-noun
                 :mapping ((np . company-type)
-                          (n-bar . :self)
+                           ;;(n-bar . :self)
                           (np-head . :self))
                 :word word))
 

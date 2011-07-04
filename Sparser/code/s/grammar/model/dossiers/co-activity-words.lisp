@@ -8,17 +8,17 @@
 ;; initiated 9/28/94 v2.3
 
 ;; 9/28
-(define-company-activity-WORD "publishing")
+(define-company-activity-word "publishing")
 
 ;; 10/5
-(define-company-activity-WORD "operations")
+(define-company-activity-word "operations")
 
 ;; 9/13
-(define-company-activity-WORD "Systems")
+(define-company-activity-word "Systems")
 
 ;; 1/16/96
-(define-company-activity-WORD "Computer")
+(define-company-activity-word "Computer")
 
 ;; 7/11/96
-(define-company-activity-WORD "Technologies")
+(define-company-activity-word "Technologies")
 

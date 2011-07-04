@@ -13,11 +13,11 @@
 (define-kind-of-subsidiary "division")
 
 ;; 4/29
-(define-kind-of-SUBSIDIARY "unit")
+(define-kind-of-subsidiary "unit")
 
 ;; 5/3
-(define-kind-of-SUBSIDIARY "Department")
+(define-kind-of-subsidiary "Department")
 
 ;; 5/17
-(define-kind-of-SUBSIDIARY "subsidiary")
+(define-kind-of-subsidiary "subsidiary")
 
