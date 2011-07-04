@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-2000, 2010  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-2000, 2010,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;      File:  "full grammar"
 ;;;    Module:  "init;versions:v2.7:config:grammars:"
-;;;   version:  August 2009
+;;;   version:  June 2011
 
 ;; 7/18/92 v2.3 blocked out the gl and Tipster grammar
 ;; 12/4 pulled word options made irrelevant in master-loader
@@ -27,7 +27,7 @@
 ;; out *digits-fsa*. 11/23/00 added *kinds*. 2/9/07 added *SDM&P*. 7/16 added 
 ;; ambush. 8/8 added *semantics-of-WH-words*. 7/08 added *disease* and
 ;; *call-signs*. 6/09 added *checkpoint-ops*. 8/27/09 added *poirot*.
-;; 11/15/10 removed it, added *reversable*.
+;; 11/15/10 removed it, added *reversable*. 6/14/11 removed *poirot*.
 
 
 (in-package :sparser)
@@ -243,7 +243,6 @@
 (include-grammar-module  *call-signs*)
 (include-grammar-module  *checkpoint-ops*)
 (include-grammar-module  *disease*)
-(include-grammar-module  *poirot*)
 
 (include-grammar-module  *load-Tipster-grammar-into-image*)
 (include-grammar-module  *jv/phrases*)
