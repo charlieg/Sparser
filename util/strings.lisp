@@ -3,9 +3,10 @@
 ;;;
 ;;;      File:  "syntactic sugar"
 ;;;    module:   /Sparser/util/
-;;;   Version:   March 2011
+;;;   Version:   July 2011
 
-;; (3/9/11) Reworked to fit in ddm-util.
+;; (3/9/11) Reworked to fit in ddm-util. 7/5 fixed old case in
+;; string-append
 
 (in-package :ddm-util)
 
@@ -27,8 +28,6 @@
               (number (format nil "~a" s))
               (pathname
                (format nil "~a" (namestring s)))
-              (namespace
-               (format nil "~a" (ns-short-form s)))
               (otherwise
                (break "string-append - new type: ~a~%~a"
                       (type-of s) s)))
