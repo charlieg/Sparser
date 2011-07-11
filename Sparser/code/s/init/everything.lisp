@@ -5,7 +5,7 @@
 ;;;
 ;;;      File:   "everything"
 ;;;    Module:   "init;"
-;;;   Version:   June 2011
+;;;   Version:   July 2011
 ;;;
 ;;;  This is the preloader.  Launching this file loads one or
 ;;;  another version of the entire system, as determined by the
@@ -72,16 +72,26 @@
 ;; out the use-sfl here because of complaint from CCL about SFL's asd file that I don't
 ;; want to figure out. Instead just lifting out the relevant form and adding it
 ;; to util. 6/12/11 Making mods so we could load this directly w/o a script, which
-;; means bringing in the content of the most-recent, best used scripts. 
+;; means bringing in the content of the most-recent, best used scripts. 7/7/11 Added
+;; initial check for whether we're running in an mlisp.
 
 (in-package :cl-user)
 
 #|  Flags
   #+apple is MCL
   #+openmcl is Clozure (note the z)
-  #+allegro
-
+  #+allegro is Franz
 |#
+
+(eval-when (:compile-toplevel :load-toplevel :execute)
+  ;; Allegro comes in two favors: alist which is ansi compiliant and
+  ;; not sensitive to case (like Clozure), and mlisp, which preserves case
+  ;; and is excellent for working with Java. Franz neglected to distinguish
+  ;; these with a feature since its just readtable hacking, so we have to
+  ;; do it for them.
+  (if (eq (readtable-case *readtable*) :preserve)
+    (push :mlisp *features*)
+    (push :alisp *features*)))
 
 ;;;--------------------------
 ;;; create Sparser's package

@@ -1,16 +1,17 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1994  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "model;core:pronouns:"
-;;;  version:  1.0 July 1994
+;;;  version:  1.0 July 2011
 
 ;; 1.0 (7/11/94) completely redone from scratch. (7/22) made 'pronoun' a referential
 ;;      category so it would pass the filter in the discourse history.
 ;;     (8/7/07) Fixed a bug where it was creating new words for the WH words already
 ;;      defined with the correct brackets in rules/words.
+;;     (7/6/11) Mods for working with Clozure or alisp
 
 (in-package :sparser)
 
@@ -87,8 +88,8 @@
   ;; This adds form information ////and common dereferencing routine
   ;; to the rule that is provided by the regular krisp definition of
   ;; these individuals
-  (let* ((prefix #+ccl "PRONOUN/"
-                 #-ccl "pronoun/") ;; really "mlisp" but has no feature apparently
+  (let* ((prefix #+(or :ccl :alisp) "PRONOUN/"
+                 #+mlisp "pronoun/") ;; or any lisp that preserves case
          (category-name (concatenate 'string prefix
                                      (symbol-name category-suffix)))
          (category (find-symbol category-name *category-package*))
