@@ -33,7 +33,12 @@
            (symbol-function 'make-word/capitalization-&-digits)))
     (:capitalization-digits-&-morphology
      (setf (symbol-function 'establish-unknown-word)
-           (symbol-function 'make-word/all-properties))))
+           (symbol-function 'make-word/all-properties)))
+    (:check-for-primed
+     (setf (symbol-function 'establish-unknown-word)
+           (symbol-function 'look-for-primed-word-else-all-properties)))
+    (otherwise
+     (error "Unknown unknown-word policy: ~a" keyword)))
 
   (setq *unknown-word-policy* keyword))
 

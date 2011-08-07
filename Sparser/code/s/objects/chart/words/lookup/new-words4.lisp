@@ -1,15 +1,17 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992,1993,1994,1995  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1995,2011  David D. McDonald  -- all rights reserved
 ;;; 
 ;;;     File:  "new words"
 ;;;   Module:  "objects;chart:words:lookup:"
-;;;  Version:  4.3 January 1995
+;;;  Version:  4.4 August 2011
 
 ;; 4.0 (9/28/92 v2.3) accomodates changes to tokenizer
 ;; 4.1 (7/16/93) updated field name
 ;; 4.2 (1/27/94) added Unknown-word?
 ;;     (12/12) added simplest case of make-word routine
 ;; 4.3 (1/9/95) added hook for introducing brackets
+;; 4.4 (7/29/11) added new option that looks for primed knowledge
+;;      about the word. 8/1 broke out make-word-from-lookup-buffer
 
 (in-package :sparser)
 
@@ -19,7 +21,7 @@
 
 
 ;;;-----------------------------------------
-;;; Cases for What-to-do-with-unknown-words
+;;; Cases for what-to-do-with-unknown-words
 ;;;-----------------------------------------
 
 (defun make-word/all-properties (character-type)
@@ -35,7 +37,7 @@
                           :pname  (symbol-name symbol))))
 
     (ecase character-type
-      (:number (establish-properties-of-new-digit-sequence   word))
+      (:number (establish-properties-of-new-digit-sequence word))
       (:alphabetical
        (setf (word-capitalization word)
              *capitalization-of-current-token*)
@@ -52,6 +54,39 @@
 
 ;(what-to-do-with-unknown-words :capitalization-digits-&-morphology)
 
+;; Move?
+(defun make-word-from-lookup-buffer ()
+  "Reifies a the standard operations to fully create a word from
+   the lookup-buffer. Open-coded in the all the routines except
+   the prime-check because it doesn't want to make the word here
+   but as part of the entry unpacking."
+  (let* ((symbol (make-word-symbol))
+         (word (make-word :symbol symbol
+                          :pname  (symbol-name symbol))))
+    (catalog/word word symbol)
+    word ))
+
+(defun look-for-primed-word-else-all-properties (character-type)
+  (ecase character-type
+    (:number
+     (let ((word (make-word-from-lookup-buffer)))
+       (establish-properties-of-new-digit-sequence word)
+       word))
+    (:alphabetical
+     (let* ((symbol (make-word-symbol))  ;;reads out the lookup buffer
+            (entry (gethash (symbol-name symbol) *primed-words*)))
+       (when (and (null entry)
+                  (eq *capitalization-of-current-token*
+                      :initial-letter-capitalized))
+         ;; Sentence-inital capitalization check
+         (let ((cap (string-capitalize (symbol-name symbol))))
+           (setq entry (gethash cap *primed-words*))))
+           
+       (if entry
+         (unpack-primed-word symbol entry)
+         (make-word/all-properties character-type))))))
+
+;(what-to-do-with-unknown-words :check-for-primed)
 
 
 
