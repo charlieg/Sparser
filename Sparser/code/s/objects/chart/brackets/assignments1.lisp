@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1991-1996  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1996.2011  David D. McDonald  -- all rights reserved
 ;;; 
 ;;;     File:  "assignments"
 ;;;   Module:  "objects;chart:brackets:"
@@ -12,6 +12,8 @@
 ;;     (5/24/94) cleaned it up
 ;; 1.2 (6/19/96) revised the macros so that the just returned a single expression,
 ;;      which now lets them compile. 6/25 fixed a bug in it.
+;;     (7/31/11) add an assign fn for all the brackets on a word pulled from
+;;      define-function-word. 
 
 (in-package :sparser)
 
@@ -39,6 +41,29 @@
   (write-string "#<brackets for " stream)
   (format stream "~A" (ba-backpointer obj))
   (write-string ">" stream))
+
+
+;;;-----------------------------------------------
+;;; Assign all the brackets for a particular word
+;;;-----------------------------------------------
+
+(defun assign-brackets-to-word (word bracket-symbols)
+  (when bracket-symbols
+    (delete-existing-bracket-assignments word)
+    (let ( bracket )
+      (dolist (bracket-symbol bracket-symbols)
+        (if (bracket-p bracket-symbol)
+          (setq bracket bracket-symbol)
+          (else
+            (unless (and (symbolp bracket-symbol)
+                         (boundp bracket-symbol))
+              (error "The ostensive bracket symbol ~A isn't defined"
+                     bracket-symbol))
+            (setq bracket (eval bracket-symbol))
+            (unless (bracket-p bracket)
+              (error "The symbol ~A evals to ~A~%instead of to a bracket"
+                     bracket-symbol bracket))))
+        (assign-bracket/expr word bracket)))))
 
 ;;;-------
 ;;; forms
