@@ -1,11 +1,11 @@
 ;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991-1999, 2010  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1999,2010-2010  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;      File:  "grammar modules"
 ;;;    Module:  "init;versions:v2.7:loaders:"
-;;;   version:  November 2010
+;;;   version:  July 2011
 
 ;; 12/4/92 pulled word options made irrelevant in master-loader
 ;; 5/11/93 added refinements in words and syntax
@@ -32,7 +32,8 @@
 ;; 10/17/97 broke out *digits-fsa*. 12/13/99 added *kinds*. 2/9/07 added
 ;; *SDM&P*. 7/16 Added set for ambush. 8/8 added *semantics-of-WH-words*
 ;; 6/09 added *checkpoint-ops*. 8/27/09 added *poirot*. 11/12/10 removed it,
-;; added *reversable*.
+;; added *reversable*. 7/19/11 added *generic-military* since none of the
+;; others looked right.
 
 (in-package :sparser)
 
@@ -374,11 +375,9 @@
                         :parent *sublanguages*)
 
 
-
 (define-grammar-module  *ern*
                         :name "earnings reports"
                         :parent *sublanguages*)
-
 
 
 (define-grammar-module  *whos-news*
@@ -416,7 +415,6 @@
 
 
 
-
 (define-grammar-module  *internet*
                         :name "Internet items"
                         :parent *sublanguages*
@@ -435,6 +433,10 @@
 
 (define-grammar-module *checkpoint-ops*
     :name "Checkpoint Operations"
+    :parent *sublanguages*)
+
+(define-grammar-module *generic-military*
+    :name "Generic Military"
     :parent *sublanguages*)
 
 

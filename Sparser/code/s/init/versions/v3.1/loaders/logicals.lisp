@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER) -*-
-;;; copyright (c) 1992-1999, 2010  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1999,2010-2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;; 
 ;;;     File:  "logicals"
 ;;;   Module:  "init:versions:v2.7:loaders:"
-;;;  version:  November 2010
+;;;  version:  July 2011
 
 ;; 4/21/92 added new,  5/10 broke apart CA/HA,  7/18 promoted all the
 ;; directories under "names;" up to "core;",  7/23 added tools;time
@@ -43,7 +43,7 @@
 ;; core:kinds. 2/9/07 Added *SDM&P*. 7/16 added ambush.  8/29/07 added MSWindows
 ;; in the initial special cases. 6/09 added checkpoint. 8/27/09 added poirot.
 ;; 8/15/10 added one-offs under words. 11/12/10 removed poirot, added mumble-
-;; interface. 
+;; interface. 7/19/11 added mil; for sl;military.
 
 
 (in-package :sparser)
@@ -324,6 +324,7 @@
 
 (def-logical-pathname "ambush;"       "sl;ambush:")
 (def-logical-pathname "ckpt;"         "sl;checkpoint:")
+(def-logical-pathname "mil;"          "sl;military:")
 
 
 (def-logical-pathname "dossiers;"        "model;dossiers:")
