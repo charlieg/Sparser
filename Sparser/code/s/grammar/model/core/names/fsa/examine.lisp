@@ -118,98 +118,99 @@
 		  ;; the setq of tt in label-for isn't having any effect here
 		  (setq tt (edge-category tt)))
 
-                (case (word-symbol tt)
-                  (word::and-sign  (setq &-sign items))
+        (case (word-symbol tt)
+          (word::and-sign  (setq &-sign items))
                   
-                  (word::|of|
-                   (if items
-                     (if (valid-of-context? items)
-                       (setq of count)
-                       (else
-                         (tr :pnf/of-bad-prefix position)
-                         (setq flush-suffix position)
-                         ;; signal to the driver that the name ends here,
-                         ;; then return from the loop so we'll fall through
-                         ;; to the name constructor without looking at
-                         ;; the rest of the items.
-                         (return-from check-cases nil)))
+          (word::|of|
+                 (if items
+                   (if (valid-of-context? items)
+                     (setq of count)
                      (else
-                       ;; If there are no 'items', then we're at the beginning
-                       ;; of the capitalized sequence. This can happen if we're
-                       ;; in a title or the like and the "of" is capitalized.
-                       ;; We want to get out of the loop (as above) but there's
-                       ;; no 'prefix' to be rendered into a name so we don't
-                       ;; set 'flush-suffix'.
-                       (return-from check-cases nil))))
+                       (tr :pnf/of-bad-prefix position)
+                       (setq flush-suffix position)
+                       ;; signal to the driver that the name ends here,
+                       ;; then return from the loop so we'll fall through
+                       ;; to the name constructor without looking at
+                       ;; the rest of the items.
+                       (return-from check-cases nil)))
+                   (else
+                     ;; If there are no 'items', then we're at the beginning
+                     ;; of the capitalized sequence. This can happen if we're
+                     ;; in a title or the like and the "of" is capitalized.
+                     ;; We want to get out of the loop (as above) but there's
+                     ;; no 'prefix' to be rendered into a name so we don't
+                     ;; set 'flush-suffix'.
+                     (return-from check-cases nil))))
                   
                   
-                  (word::|and|
-                   (if (reason-to-terminate-name-at-and? items)
-                     (then (setq flush-suffix position)
-                           (return-from check-cases nil))
-                     (setq and count)))
+          (word::|and|
+                 (if (reason-to-terminate-name-at-and? items)
+                   (then (setq flush-suffix position)
+                         (return-from check-cases nil))
+                   (setq and count)))
                   
-                  (word::|the|
-                   (if items
-                     ;; Then it's not the first thing in the sequence
-                     ;; so we have to throw out the prefix in front of it
-                     (then 
-                       (tr :throwing-out-prefix tt)
-                       (throw :leave-out-prefix position))
-                     (setq the count)))
+          (word::|the|
+                 (if items
+                   ;; Then it's not the first thing in the sequence
+                   ;; so we have to throw out the prefix in front of it
+                   (then 
+                     (tr :throwing-out-prefix tt)
+                     (throw :leave-out-prefix position))
+                   (setq the count)))
 
-		  ((or word::|a| word::|an|)
-		   ;; For whatever oddity of chance, this case hadn't been
-		   ;; encountered in the hayday of this code ('92-'95).
-		   ;; The case in point is sentence initial. It's just
-		   ;; going to punt, which is probably inadequate.
-		   (if items
-		     (break "Capitalized sequence internal 'a'/'an' - what ~
-                             do we do?")
-		     (return-from examine-capitalized-sequence nil)))
+          ((or word::|a| word::|an|)
+           ;; For whatever oddity of chance, this case hadn't been
+           ;; encountered in the hayday of this code ('92-'95).
+           ;; The case in point is sentence initial. It's just
+           ;; going to punt, which is probably inadequate.
+           (if items
+              (break "Capitalized sequence internal 'a'/'an' - what ~
+                      do we do?")
+              (return-from examine-capitalized-sequence nil)))
                   
-                  (otherwise
-                   (if (word-mentioned-in-rules? tt)
-                     ;; Two cases are decoded above as giving us ":word"
-                     ;; This case is the one where the word appears as the
-                     ;; label on an edge
-                     (cond
-                      ((only-known-as-a-name tt))
+          (otherwise
+           (if (word-mentioned-in-rules? tt)
+             ;; Two cases are decoded above as giving us ":word"
+             ;; This case is the one where the word appears as the
+             ;; label on an edge
+             (cond
+               ((only-known-as-a-name tt))
                       
-                      (edge-labeled-by-word
-                       (cond ((edge-for-literal? edge-labeled-by-word)
-			      (when (eq (edge-category edge-labeled-by-word)
-					(punctuation-named #\/))
-				(setq slash count))
-                              ;(kpush (make-name-word-for/silent tt position) items)
-			      ;; If we push on, e.g., a slash, then it appears twice.
-			      ;;/// Need to re-appreciate this loop better to see
-			      ;; if there are cases were it would need to be added
-                              (setq edge-labeled-by-word nil))
-                             (t (break "New case for a word labeling an edge in a ~
-                                        capitalized sequence:~%~A" tt))))
+               (edge-labeled-by-word
+                (cond ((edge-for-literal? edge-labeled-by-word)
+                       (when (eq (edge-category edge-labeled-by-word)
+                                 (punctuation-named #\/))
+                         (setq slash count))
+                       ;;(kpush (make-name-word-for/silent tt position) items)
+                       ;; If we push on, e.g., a slash, then it appears twice.
+                       ;;/// Need to re-appreciate this loop better to see
+                       ;; if there are cases were it would need to be added
+                       (setq edge-labeled-by-word nil))
+                      (t (break "New case for a word labeling an edge in a ~
+                                 capitalized sequence:~%~A" tt))))
                       
-                      ((function-word? tt))
+               ((function-word? tt))
                       
-                      (t
-                       (when *break-on-new-categories-in-cap-seq*
-                         (break "New case for a known word in a capitalized ~
-                                 sequence:~%~A" tt))))
+               (t
+                (when *break-on-new-categories-in-cap-seq*
+                  (break "New case for a known word in a capitalized ~
+                          sequence:~%~A" tt))))
                      
                      
-                     ;; new word because it doesn't have a rules field.
-                     (else
-                       (setq already-pushed? t)
-                       (kpush (make-name-word-for-unknown-word-in-name tt position)
-                              items)
-                       (if name-state
-                         (if (eq (first name-state) :word)
-                           (then (kpop name-state)
-                                 (kpush :words name-state))
-                           (kpush :word name-state))
-                         (kpush :word name-state)))))))
-               
-               
+             ;; new word because it doesn't have a rules field.
+             (else
+               (setq already-pushed? t)
+               (kpush (make-name-word-for-unknown-word-in-name tt position)
+                      items)
+               (if name-state
+                 (if (eq (first name-state) :word)
+                   (then (kpop name-state)
+                         (kpush :words name-state))
+                   (kpush :word name-state))
+                 (kpush :word name-state)))))))
+              
+               ;;---- That was the end of the word cases, now we look at
+               ;;  category edge labels
                
                (category::name-word
                 (when (get-tag-for :heuristic-company-word
@@ -324,7 +325,7 @@
                     (then (setq edge-labeled-by-word tt
                                 tt (edge-category tt))
                           ;;/// this set'ing of tt doesn't have any effect
-			  ;; in the outer flet.  ddm 6/21/07
+                          ;; in the outer flet.  ddm 6/21/07
                           :word )
                     (else
                       (setq tt-category (edge-category tt))
