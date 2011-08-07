@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
-;;; copyright (c) 1995-2005 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1995-2005,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "postprocessing"
 ;;;   Module:  "grammar;rules:tree-families:"
@@ -12,6 +12,8 @@
 ;;      root labels fixed.
 ;; 1.0 (3/22/98) modified to handle cases as structures.  (3/11/05) Ignoring
 ;;   new kind of modifier etfs.
+;;   (7/19/11) Cleaned up on case that shouldn't be complained about.
+;;   Killed off the older version of this in objects/model/tree-families
 
 (in-package :sparser)
 
@@ -95,13 +97,14 @@
                             ~%appears to involve Chomsky adjunction but its lhs-~
                             symbol wasn't anticipated:~%  ~A~%~%" etf lhs-symbol)))))
            
-           (t (format t "~&~%The tree family ~A~
-                         ~%Doesn't appear to involve Chomsky adjunction~
-                         ~%and has ~A as the lhs on its first case.~
-                         ~%Where the only options are np or s~%~%"
-                      etf lhs-symbol )
-              ;(break)
-              )))))
+           (t (unless (eq etf *single-words*)
+                (format t "~&~%The tree family ~A~
+                             ~%Doesn't appear to involve Chomsky adjunction~
+                             ~%and has ~A as the lhs on its first case.~
+                            ~%Where the only options are np or s~%~%"
+                        etf lhs-symbol )
+                ;;(break)
+                ))))))
 
     ;; update
     (setf (gethash (category-named 's) *root-categories-to-ETFs*)
