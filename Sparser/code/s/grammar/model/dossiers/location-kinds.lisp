@@ -1,23 +1,26 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2008 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "location kinds"
 ;;;   Module:  "model;dossiers:"
-;;;  version:  June 2008
+;;;  version:  July 2011
 
 ;; initiated 1/17/94 v2.3
-;; Started populating it 6/18/08
+;; Started populating it 6/18/08. 7/18/11 Made over as regions,
+;; added a bunch.
 
 (in-package :sparser)
 
-(define-kind-of-location "city")
-(define-kind-of-location "country")
-(define-kind-of-location "parish")
-(define-kind-of-location "town")
-(define-kind-of-location "village")
-(define-kind-of-location "ward")
+(define-region-type "city")
+(define-region-type "country")
+(define-region-type "lake")
+(define-region-type "province")
+(define-region-type "parish")
+(define-region-type "town")
+(define-region-type "village")
+(define-region-type "ward")
 
 
 
