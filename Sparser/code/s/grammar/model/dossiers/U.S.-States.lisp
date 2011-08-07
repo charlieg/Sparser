@@ -75,7 +75,7 @@
                  :abbreviations '("Md"))
 
 (define-us-state "Massachusetts"
-                 :abbreviations '("Mass"))
+                 :abbreviations '("Mass" "MA"))
 
 (define-us-state "Michigan"
                  :abbreviations '("Mich"))
