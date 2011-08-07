@@ -1,13 +1,41 @@
 ;;; -*- Mode: Lisp; Syntax: Common-lisp; Package: sparser; -*-
-;;; Copyright (c) 2003 Zoesis, Inc.
-;;; Copyright (c) 2010 David D. McDonald 
+;;; Copyright (c) 2010,2011 David D. McDonald 
+;;;
+;;;     File:  "upper-model"
+;;;   Module:  "model;core:kinds:"
+;;;  version:  0.1 August 2011
 
 #| Defines the set of 'expressive categories' (see Meteer 1992) that we're
    experimenting with as the top tier of our domain model.  This sort of thing
-   is often referred to as an 'upper model'.  |#
+   is often referred to as an 'upper model'. This is loosely derived from
+   the refinements to that model made at Zoesis in 2003.  |#
+
+;; 0.1 (8/1/11) Moved in the 'top' categories from other parts of the
+;;      core so they can be defined before they're referenced.
 
 (in-package :sparser)
 
+
+(define-category  kind
+  :instantiates :self
+  :binds ((name :primitive word)))
+
+(define-category  individual ;; purely a placeholder like "kind"
+  :binds ((modifier)))
+
+(define-category  event ;; rename it "eventuality" at some pont
+    ;; and merge into the top-level ontology when it's rationalized
+  :instantiates nil
+  :specializes  nil
+  :binds ((time)
+          (location)
+          (purpose)
+          (modifier)
+          (participant)))
+
+
+#|  Need some axioms and tighter review before buying in completely.
+    Also need a merger with Mark's adoption of Dolce.
 
 ;;;------------------------------
 ;;;   the top of the lattice 
@@ -626,4 +654,4 @@
                                location
                              manner
                              )))
-
+|#

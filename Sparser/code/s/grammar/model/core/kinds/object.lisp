@@ -5,7 +5,7 @@
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "model;core:kinds:"
-;;;  version:  0.1 July 2011
+;;;  version:  0.1 August 2011
 
 ;; initiated on 12/13/99. Debugged 12/26. 2/11/07 Added rule definition.
 ;; 8/2 revised to instantiated the symbol, which means you get rules like
@@ -20,21 +20,12 @@
 ;;      the category when not loading under Allegro, i.e. Clozure makes a mixed
 ;;      case symbol for the category if we take the same string as we want
 ;;      to use for the word, and that won't meet references to the category
-;;      via symbols.  7/7/11 Tweaked that to account for alisp.
+;;      via symbols.  7/7/11 Tweaked that to account for alisp. 7/31 moved
+;;      in the event category from rules/syntax/tense and added a helper
+;;      function to make subcategories of event for primed verbs. 8/1 moved
+;;      them all to upper-model so they will be loaded early.
 
 (in-package :sparser)
-
-;;;------------------------------
-;;; top, sort of a meta category
-;;;------------------------------
-
-(define-category  kind
-  :instantiates :self
-  :binds ((name :primitive word))
-  :realization (:common-noun "kind"))
-
-(define-category  individual ;; purely a placeholder like "kind"
-  :binds ((modifier)))
 
 ;;;------------------------------
 ;;; making subcategories of kind
@@ -53,10 +44,7 @@
   ;; Returns the category and a rule that will recognize it going forward
   ;; that we use for the edge that the reify routine  is going to make.
   ;;
-  (let* ((string-for-category #+mlisp string
-                              #+(or :ccl :alisp)(string-upcase string))
-         (symbol (intern string-for-category
-                         (find-package :sparser)))
+  (let* ((symbol (name-to-use-for-category string))
          (word (define-word string))
          (category (category-named symbol))
          (new? (null category)))
@@ -94,6 +82,28 @@
       (values category rule))))
 
 
+
+;;;-------------------------------
+;;; making subcategories of event
+;;;-------------------------------
+
+(defmethod new-category-specializing-event ((w word))
+  ;; When used by the primed word decoder this works in conjunction
+  ;; with define-main-verb, so no need to write any rules here.
+  (let ( category )
+    (when (category-named (word-symbol w))
+      (error "Weirdness. The category for ~a exists but ~
+              it shouldn't" w))
+    (let* ((name (intern (symbol-name (word-symbol w))
+                         (find-package :sparser))) ;; not! *category-package*
+           (expr `(define-category ,name
+                    :specializes event
+                    :instantiates ,name)))
+      (setq category (eval expr))
+      category)))
+    
+
+
 ;;;--------------------------------
 ;;; other stuff ///////// move it?
 ;;;--------------------------------
@@ -101,5 +111,21 @@
 (define-category compound-word
   :instantiates self
   :binds ((list-of-words :primitive list)))
+
+
+;;;---------------------------
+;;; ancilary helper functions
+;;;---------------------------
+
+(defmethod name-to-use-for-category ((string string))
+  "Encapsulates the lisp-specific checks for what case to use."
+  (let* ((s #+mlisp string
+            #+(or :ccl :alisp)(string-upcase string))
+         (symbol (intern s (find-package :sparser))))
+    ;; n.b. not the category package. The pname will be interned there
+    ;; as part of creating the category
+    symbol))
+
+
 
 
