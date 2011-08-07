@@ -1,19 +1,19 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER LISP) -*-
 ;;; copyright (c) 1991  Content Technologies Inc.
 ;;; copyright (c) 1992  David D. McDonald  -- all rights reserved
-;;; extensions copyright (c) 2008 BBNT Solutions LLC. All Rights Reserved
-;;; $Id:$
 ;;;
 ;;;     File:  "rules"
 ;;;   Module:  "model;core:names:places:"
-;;;  version:  June 2008
+;;;  version:  October 1992
 
 ;; initiated in 3/22/91, added items 7/19, 7/23
 ;; 1.0 (10/12/92 v2.3) pulled location
-;; 2.0 (6/17/08) Reframing the rules in terms of kind-of-location
 
 (in-package :sparser)
 
+;; !!!!!!!!!!!!!!!!!!
+;; This files is obsolete. It's representation schemes
+;; were OBE  
 
 ;;;--------------
 ;;;  ___ -based
