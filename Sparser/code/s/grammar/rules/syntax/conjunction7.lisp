@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-1996  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-1996,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;; 
 ;;;     File:  "conjunction"
 ;;;   Module:  "grammar;rules:syntax:"
-;;;  Version:  7.0 August 2007
+;;;  Version:  7.0 August 2011
 
 ;; initated 6/10/93 v2.3, added multiplicity cases 6/15
 ;; 6.1 (12/13) fixed datatype glitch in resuming from unspaned conj.
@@ -19,6 +19,8 @@
 ;;      to the routine that decides what to do next, fixing bug with the
 ;;      treetop level. 8/11 modified the mark routine to lower the flag
 ;;      if it's already up and we're in speech mode. 
+;;     (8/3/11) Added "or" as exact copy of the hook on "and". 8/4 Added
+;;      a treetop hook for the case when we don't have adjacent segments.
 
 (in-package :sparser)
 
@@ -30,6 +32,8 @@
 (define-completion-action word::|and|
   :mark-event  'mark-instance-of-AND)
 
+(define-completion-action word::|or|
+  :mark-event  'mark-instance-of-AND)
 
 (defun mark-instance-of-AND (and-word position-before position-after)
   (declare (ignore and-word position-after))
@@ -48,6 +52,32 @@
     (else
       (tr :setting-conjunction-pos-before position-before)
       (setq *pending-conjunction* position-before))))
+
+
+;;--- Treetop hook
+
+(set-generic-treetop-action word::|and|
+                            'conjoin-adjacent-like-treetops)
+
+(defun conjoin-adjacent-like-treetops (position-after)
+  (tr :calling-conj-treetop-hook position-after)
+  ;; position-after is the one that immediately follows the
+  ;; conjunction. (And note that this only works if no one
+  ;; spans the conjunction with another sort of edge.
+  (let* ((position-before (chart-position-before position-after))
+         (edge-before (span-ending-at position-before))
+         (edge-after (span-starting-at position-after)))
+    ;;/// comma check
+    ;;/// edge-vector check
+    (when (and edge-before edge-after)
+      (unless (and (edge-p edge-before) (edge-p edge-after))
+        (push-debug `(,edge-before ,edge-after))
+        (break "Next conjunction case -- the edges aren't."))
+      (tr :conj-edges-to-each-side edge-before edge-after)
+
+     (dispatch-conj-by-multiplicities edge-before edge-after))))
+        
+
 
 
 
@@ -105,10 +135,10 @@
         ;;   That code is reproduced here
         (if (label-combines-to-its-right (edge-category new-edge))
           (scan-next-segment *where-the-last-segment-ended*)
-	  (else
-	    (tr :moving-to-forest-level/conj/edge new-edge)
-	    (move-to-forest-level (pos-edge-ends-at new-edge)
-				  :full-segment-scanned)))
+          (else
+            (tr :moving-to-forest-level/conj/edge new-edge)
+            (move-to-forest-level (pos-edge-ends-at new-edge)
+                                  :full-segment-scanned)))
         
         ;; same thing, different edge -- and a hook for variations
         (if (label-combines-to-its-right
@@ -116,15 +146,15 @@
                (edge (edge-category edge-after))
                (word edge-after)))
           (scan-next-segment *where-the-last-segment-ended*)
-	  (let ((rightmost-pos 
-		 (etypecase edge-before
-		   (edge (pos-edge-ends-at edge-before))
-		   (word (chart-position-after end-of-before-segment)))))
-	    (tr :moving-to-forest-level/conj/no-edge rightmost-pos)
-	    (move-to-forest-level rightmost-pos           
-				  ;; we know these two edges don't
-				  ;; combine, so don't try again
-				  :full-segment-scanned)))))))
+          (let ((rightmost-pos 
+                 (etypecase edge-before
+                   (edge (pos-edge-ends-at edge-before))
+                   (word (chart-position-after end-of-before-segment)))))
+            (tr :moving-to-forest-level/conj/no-edge rightmost-pos)
+            (move-to-forest-level rightmost-pos           
+                                  ;; we know these two edges don't
+                                  ;; combine, so don't try again
+                                  :full-segment-scanned)))))))
 
 
 ;;;-------------------------------
