@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-1998 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1998,2011 David D. McDonald  -- all rights reserved
 ;;;
 ;;;      File:   "construct"
 ;;;    Module:   "objects;rules:cfr:"
-;;;   Version:   1.2 February 1998
+;;;   Version:   1.4 August 2011
 
 ;; broken out from [define] 9/6/92 v2.3
 ;; 1.0 (10/23) promulgated the fact that the rules for polywords are
@@ -19,11 +19,14 @@
 ;;      Trivially tweaked 2/16/98 to bump the fasl for new source.
 ;; 1.3 (2/24/98) Added references to the global schema from which the
 ;;      rule derives to Changes-to-known-rule and Construct-cfr.
+;; 1.4 (8/3/11) Added a :schema argument to permit overriding the default
+;;      (which is set when working from an ETF).
 
 (in-package :sparser)
 
 
-(defun construct-cfr (lhs rhs form referent source)
+(defun construct-cfr (lhs rhs form referent source
+                      &optional schema-to-use)
   (let* ((r-symbol (gen-cfr-symbol))
          (cfr (make-cfr
                :symbol   r-symbol
@@ -31,7 +34,8 @@
                :rhs      rhs
                :form     form
                :referent referent
-               :schema *schema-being-instantiated*)))
+               :schema (or schema-to-use
+                           *schema-being-instantiated*))))
 
     (note-file-location cfr)
     (note-grammar-module cfr :source source)

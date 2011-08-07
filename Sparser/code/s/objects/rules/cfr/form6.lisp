@@ -1,9 +1,9 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1991,1992,1993,1994,1995  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1991-1995,2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;      File:   "form"
 ;;;    Module:   "objects;rules:cfr:"
-;;;   Version:   6.4 April 1995
+;;;   Version:   6.5 August 2011
 
 ;; 6.0 (9/4/92 v2.3) Reworked the definition for parsimony with other cases
 ;;      and to have form and referent redone for already existing rules
@@ -17,6 +17,7 @@
 ;; 6.4 (4/25/95) Changed the lookup call that checks for duplicate rules
 ;;      because it wasn't working, with the effect that the actual dup. check
 ;;      was being done in the Multiply, with a reversed set of args.
+;; 6.5 (8/3/11) Added a schema keyword so the default can be overriden.
 
 (in-package :sparser)
 
@@ -28,14 +29,15 @@
 (defun def-cfr/expr (lhs-expression
                      rhs-expressions
                      &key form
-                          referent )
+                          referent
+                          schema )
 
-  ;; Called as the expansion of the macro Def-cfr, and by the function
-  ;; Def-cfr/multiple-rhs/expr which expands Def-cfr/multiple-rhs (and
+  ;; Called as the expansion of the macro def-cfr, and by the function
+  ;; def-cfr/multiple-rhs/expr which expands def-cfr/multiple-rhs (and
   ;; does not allow form or referent arguments!)
-  ;;    Takes expressions (i.e. symbols acting as names, lists, and
+  ;;   Takes expressions (i.e. symbols acting as names, lists, and
   ;; strings) as its arguments. Checks that it's not an illegal
-  ;; duplication of a rhs and passes it through to Construct-cfr.
+  ;; duplication of a rhs and passes it through to construct-cfr.
   
   (let ((lhs (resolve/make lhs-expression :source :def-category))
         (rhs (if (and (eq 1 (length rhs-expressions))
@@ -71,5 +73,6 @@
                          rhs
                          form-object
                          decoded-referent-exp
-                         :def-cfr ))))))
+                         :def-cfr
+                         schema ))))))
 
