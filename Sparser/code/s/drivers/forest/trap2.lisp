@@ -28,8 +28,8 @@
 
 
 (defun do-treetop (tt next-position &key moment)
-  ;; called from Do-treetop-triggers which is organizing the walk using
-  ;; its subroutine Do-treetop-loop
+  ;; called from do-treetop-triggers which is organizing the walk using
+  ;; its subroutine do-treetop-loop
 
   (if (and (typep tt 'edge)
            (edge-used-in tt))
@@ -62,7 +62,7 @@
 
 
 (defun its-ok-for-this-ostensible-treetop-to-be-covered (tt)
-  ;; called from Do-treetop as a check for some odd timing cases
+  ;; called from do-treetop as a check for some odd timing cases
   ;; that should be better thought through.
   (let* ((parent (top-edge-used-in tt))  ;; condition for getting here
          (category-name (cat-symbol (edge-category parent))))
