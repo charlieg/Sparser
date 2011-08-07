@@ -1,15 +1,14 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994-1996  David D. McDonald  -- all rights reserved
-;;; Copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
-;;; $Id$
+;;; copyright (c) 1994-1996,2011  David D. McDonald  -- all rights reserved
 ;;;
 ;;;     File:  "U.S. States"
 ;;;   Module:  "model;core:places:"
-;;;  version:  0.1 January 1996
+;;;  version:  0.2 July 2011
 
 ;; initiated 3/10/94 v2.3
 ;; 0.1 (4/23) added provision for name-words. 10/6 added string-for fn
-;;     (5/3/95) added sort function.  1/16/96 fixed string printer for pws
+;;     (5/3/95) added sort function.  1/16/96 fixed string printer for pws.
+;; 0.2 (7/13/11) Writes rules for abbreviations as well. 
 
 (in-package :sparser)
 
@@ -61,7 +60,7 @@
         (obj (or (find-individual 'US-state :name name-string)
                  (define-individual 'US-state :name name-string)))
         (state-word (define-word name-string))
-        adj-word  abbrev-words  alias-word  alias-words  rules )
+        adj-word  abbrev-word  abbrev-words  alias-word  alias-words  rules )
 
     ;;(make-name-word-for/silent state-word)
     ;;;;  make it use the state 4/19/95
@@ -78,8 +77,14 @@
 
     (when abbreviations
       (dolist (string abbreviations)
-        (define-abbreviation name-string string)
-        (push (resolve-string-to-word/make string) abbrev-words))
+        (setq abbrev-word (resolve-string-to-word/make string))
+        (push abbrev-word abbrev-words)
+        (push (define-cfr US-state `(,abbrev-word)
+                :form (if (polyword-p abbrev-word)
+                        category::n-bar
+                        category::np-head)
+                :referent obj)
+              rules))
       (bind-variable 'abbreviations (nreverse abbrev-words) obj
                      US-state))   
      
