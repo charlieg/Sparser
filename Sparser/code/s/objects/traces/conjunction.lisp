@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994-1996  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994-1996,2011  David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id: conjunction.lisp 207 2009-06-18 20:59:16Z cgreenba $
 ;;; 
@@ -8,7 +8,7 @@
 ;;;  Version:  February 2007
 
 ;; initiated 5/18/94.  Added cases and more intuitive flag function 9/12/96.
-;; Added more cases 2/13/07, and 8/11.
+;; Added more cases 2/13/07, and 8/11. 8/4/11 Added trace for treetop case.
 
 (in-package :sparser)
 
@@ -70,6 +70,12 @@
   (when *trace-conjunction-hook*
     (trace-msg "[conj] saw another 'and' but the flag is still up~
               ~%       Ignoring it since we're in *speech* mode.")))
+
+(deftrace :calling-conj-treetop-hook (position-after)
+  ;; Called from conjoin-adjacent-like-treetops
+  (when *trace-conjunction-hook*
+    (trace-msg "[conj] Invoking the treetop hook at ~a"
+               position-after)))
 
 
 (deftrace :calling-conj-checkout-routine-at (pos)
