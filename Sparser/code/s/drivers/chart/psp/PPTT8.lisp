@@ -74,27 +74,27 @@
                          (edge (pos-edge-starts-at rightmost-edge/ev))
                          (edge-vector (ev-position rightmost-edge/ev))))
             (leftward-boundary *rightmost-quiescent-position*))
-	(cond
-	  ((eq start-pos leftward-boundary)
-	   ;; There's no other edge to combine with the one that's
-	   ;; been identified, but we should let the other forest level
-	   ;; activities run before returning to the segment level.
-	   (tr :PPTT/edge-at-quiessence rightmost-edge/ev)
-	   (setq *rightmost-quiescent-position* rightmost-position)
-	   (consider-debris-analysis))
+        (cond
+          ((eq start-pos leftward-boundary)
+           ;; There's no other edge to combine with the one that's
+           ;; been identified, but we should let the other forest level
+           ;; activities run before returning to the segment level.
+           (tr :PPTT/edge-at-quiessence rightmost-edge/ev)
+           (setq *rightmost-quiescent-position* rightmost-position)
+           (consider-debris-analysis))
 	  
-	  ((position-precedes start-pos leftward-boundary)
-	   ;; the edge spans positions to the left of the boundary,
-	   ;; probably because of a respan operation out-of-line 
-	   ;; from the sequence of segment scans such as possessives
-	   (setq *rightmost-quiescent-position* rightmost-position)
-	   (consider-debris-analysis))
+          ((position-precedes start-pos leftward-boundary)
+           ;; the edge spans positions to the left of the boundary,
+           ;; probably because of a respan operation out-of-line 
+           ;; from the sequence of segment scans such as possessives
+           (setq *rightmost-quiescent-position* rightmost-position)
+           (consider-debris-analysis))
 	  
-	  (t
-	   ;; The edge is to the right of the quescent position,
-	   ;; so there might be other edges between it and that position
-	   ;; that could be composed -- go look for them.
-	   (PPTT rightmost-edge/ev))))
+          (t
+           ;; The edge is to the right of the quescent position,
+           ;; so there might be other edges between it and that position
+           ;; that could be composed -- go look for them.
+           (PPTT rightmost-edge/ev))))
       
       (else
         ;; There is no edge at this level at all, so there isn't even
