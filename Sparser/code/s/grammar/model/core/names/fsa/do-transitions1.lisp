@@ -5,7 +5,7 @@
 ;;;
 ;;;     File:  "do transitions"
 ;;;   Module:  "model;core:names:fsa:"
-;;;  version:  1.9 February 2011
+;;;  version:  1.9 July 2011
 
 ;; -.3 (12/17/93) added a catch to handle the fact that the capitalization of
 ;;      headers will catch them up in the initial scan.  (12/22) fixed a ramification
@@ -36,7 +36,9 @@
 ;;     result in Classify-&-record-span that's actually not going to do anything, so
 ;;     added a check.
 ;;    (8/28/09) Extensive case changes (crossed my threshold -ddm). Preping for overhaul
-;;    (2/15/11) Added another case to category-for-edge-given-name-type.
+;;    (2/15/11) Added another case to category-for-edge-given-name-type. 7/13 fixed
+;;     return (nil instead of the edge) from :suffix-flushed case in classify-&-
+;;     record.
 
 (in-package :sparser)
 
@@ -142,8 +144,8 @@
                   (do-referent-and-edge (second result)
                                         starting-position
                                         *pnf-end-of-span*)))
-             
-             (unless (eq (third result) ending-position)
+             (if (eq (third result) ending-position)
+               first-edge
                ;; if there's indeed something left to scan then do it.
                (classify&record-the-rest-of-the-sequence
                 first-edge (third result) ending-position)))
@@ -185,9 +187,9 @@
              ;; at more cases than just "Including President Bush"
              (setq *pnf-end-of-span* result)
              result )))
-	(otherwise
-	 (break "Unanticipated type for 'result': ~a~%~a"
-		(type-of result) result)))
+        (otherwise
+         (break "Unanticipated type for 'result': ~a~%~a"
+                (type-of result) result)))
 
       (else
         ;; examine-capitalized-sequence returned nil, which means that
