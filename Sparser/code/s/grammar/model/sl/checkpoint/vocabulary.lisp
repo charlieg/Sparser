@@ -1,12 +1,15 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER COMMON-LISP) -*-
+;;; copyright (c) 2011  David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 
 ;;;    File: "vocabulary"
 ;;;  Module: "grammar/model/sl/checkpoint/
-;;; version: June 2009
+;;; version: August 2011
 
-;; Initiated 4/8/09. Elaborated through 9/26/09
+;; Initiated 4/8/09. Elaborated through 9/26/09. 8/4/11 pulled out the ETF
+;; since it can't be found there. 8/5 commented out "drive" and others  that
+;; create interference with better definitions upstream.
 
 (in-package :sparser)
 
@@ -41,8 +44,8 @@
 
 ;;-- thrown away modifiers
 
-(ignorable-np-modifier "any")
-(ignorable-np-modifier "some")
+;;(ignorable-np-modifier "any") won't ignore now
+;;(ignorable-np-modifier "some")
 
 ;;(ignorable-np-modifier "our") ;; all the possessive pns
 ;;(ignorable-np-modifier "your")
@@ -88,23 +91,7 @@
 ;; Load-timing problem. This references categories that aren't defined
 ;; when the ETF are loaded. So either they're variablized, which is odd
 ;; at best, or they're loaded late.
-(define-exploded-tree-family  transitive-location
-  :description ""
-  :binding-parameters ( agent  location )
-  :labels ( s vp vg np/subject loc1 loc2 loc3 )
-  :cases
-     ((:subject (s  (np/subject vp)
-                 :head right-edge
-                 :binds (agent left-edge)))
-      (:deictic-loc (vp (vg loc1) ;; deictic-location -- only in literals
-		      :head left-edge
-		      :binds (location right-edge)))
-      (:location (vp (vg loc2) ;; location)
-		    :head left-edge
-		    :binds (location right-edge)))
-      (:location (vp (vg loc3) ;; spatial-orientation)
-		    :head left-edge
-		    :binds (location right-edge)))))
+
 
 (sv-location '("come" :past-tense "came"))
 (sv-location '("get" :past-tense "got"))
@@ -120,8 +107,8 @@
 
 (sv-prep "stand" "over")
 (sv-prep "stand" "up")
-(sv-prep "sit" "down")
-(sv-prep "sit" "still")
+;;(sv-prep "sit" "down") ;; irregulars
+;;(sv-prep "sit" "still")
 
 (sv-prep "lie" ;;//// flag all the irregulars: "lay" "lieing"
  "down")
@@ -137,7 +124,8 @@
 (svo "show")
 
 ;;--- but the preposition goes with the verb
-(sv-prep-marked-o "get" "out of") ;;/// 6/8/09 the location is winning
+;;(sv-prep-marked-o "get" "out of") ;;/// 6/8/09 the location is winning
+   ;; Need general treatment of "get" -- marking the irregulars
 (sv-prep-marked-o "open" "up") 
 
 ;;--- These don't take arguments, but they could have modifiers
@@ -150,7 +138,7 @@
 (sv "proceed")
 (sv "stop")
 (sv "live")
-(sv "drive")
+;; (sv "drive") conflicts with definition in /core/places/move.lisp
 
 
 ; (checkpoint-regression-test)
