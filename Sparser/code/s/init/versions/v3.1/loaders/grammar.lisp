@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1994-2000, 2010  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1994-2000,2010-2011  David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id$
 ;;;
 ;;;      File:  "grammar"
 ;;;    Module:  "init;versions:v<>:loaders:"
-;;;   version:  November 2010
+;;;   version:  August 2011
 
 ;; broken out from loaders;master-loader 4/19/94. Added Whos-news-post-dossiers-loader
 ;;  4/29 added [words;whitespace assignments].  5/25 consolidated the
@@ -39,7 +39,9 @@
 ;; if not all of the grammar has been loaded. 6/19/10 added Porter-stemmer.
 ;; 11/12/10 Removed *poirot* since that code's being revamped and redistributed
 ;; and we don't have rights to its source anyway. Added mumble-interface next to
-;; correspondences.
+;; correspondences. 7/10/11 Added hook for the generic lexicon with call to setup-
+;; comlex. 7/19 added *generic-military*. 8/1 uncommented loading of (very minimal)
+;; upper-model so general categories are available earlier.
 
 (in-package :sparser)
 
@@ -75,9 +77,6 @@
     (gload "brackets;judgements1"))
     ;; the bracket definitions reference syntactic categories
 
-;  (when *CLOS* ;; same sort of impact as model-facilities
-;    (gload "kinds:upper-model"))
-
   (gload "words;loader1")
     ;; the function words make reference to bracket types
   (gload "words;whitespace assignments")
@@ -88,6 +87,11 @@
     (if *lattice-points*
       (gload "tree-families;loader1")
       (gload "tree-families;loader")))
+
+  (gload "kinds;upper-model") ;; defines individual and such 
+
+  (gate-grammar *kinds*
+    (gload "kinds;loader"))
 
   (gate-grammar *proper-names*
     (gload "names;loader2")
@@ -130,9 +134,6 @@
       ;; this is just a definition for 'fractions' with conflicts with the
       ;; current treatment of "first quarter"
       (gload "numbers;loader 2d part")))
-
-  (gate-grammar *kinds*
-    (gload "kinds;loader"))
 
   (gate-grammar *people*
     (gload "people;loader2"))
@@ -190,6 +191,9 @@
 
   (gate-grammar *checkpoint-ops*
     (gload "ckpt;loader"))
+
+  (gate-grammar *generic-military*
+    (gload "mil;loader"))
 
   (gate-grammar *disease*
     (gload "disease;loader"))
@@ -268,6 +272,9 @@
 ;;       function seems to be misplaced somewhere
 ;      (whos-news-post-dossiers-loader))
     )
+
+  (when *incorporate-generic-lexicon*
+    (prime-comlex))
 
   (gate-grammar *testing*
     (gate-grammar *miscellaneous*
