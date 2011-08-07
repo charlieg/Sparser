@@ -229,6 +229,19 @@ Whether it's generic enough to hand all sorts of quantifying determiners
                       :daughter right-edge))))
 
 
+;; Written for "US 20" "MA 102". Quite idiosyncrating
+;;
+(define-exploded-tree-family  pair-instantiates-category
+  :description "It takes both items to define the category, very weak notion of a head, but nonimally it's the second item."
+  :binding-parameters ( item1  item2 )
+  :labels ( np first second result-type )
+  :cases ((:modifier ;;????
+           (np (first second)
+             :instantiate-individual result-type
+             :binds (item1 left-edge
+                     item1 right-edge)
+             :head right-edge))))
+
 
 #|  "the Southeast Bank unit"
 
