@@ -73,7 +73,8 @@
 ;; want to figure out. Instead just lifting out the relevant form and adding it
 ;; to util. 6/12/11 Making mods so we could load this directly w/o a script, which
 ;; means bringing in the content of the most-recent, best used scripts. 7/7/11 Added
-;; initial check for whether we're running in an mlisp.
+;; initial check for whether we're running in an mlisp. 7/11 Added global for including
+;; the generic lexicon. 
 
 (in-package :cl-user)
 
@@ -89,6 +90,7 @@
   ;; and is excellent for working with Java. Franz neglected to distinguish
   ;; these with a feature since its just readtable hacking, so we have to
   ;; do it for them.
+  #+allegro
   (if (eq (readtable-case *readtable*) :preserve)
     (push :mlisp *features*)
     (push :alisp *features*)))
@@ -745,6 +747,11 @@ or for loading the newer of the compiled or source files.
      If we are doing that live then Mumble will already have been loaded.
      If it is not, this flag enables setting up its package so that the
      coordinating code will be able to load."))
+
+(unless (boundp 'sparser::*incorporate-generic-lexicon*)
+  (defparameter sparser::*incorporate-generic-lexicon* nil
+    "When non-nil, we finish off the loading of the grammar by including
+     almost purely lexical knowledge about a horde of words."))
 
 
 ;;--- Mutually exclusive application settings
