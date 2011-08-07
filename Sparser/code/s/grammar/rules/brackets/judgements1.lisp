@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-2003 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-2003,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;; 
 ;;;     File:  "judgements"
 ;;;   Module:  "grammar;rules:brackets:"
-;;;  Version:  1.7 March 2010
+;;;  Version:  1.8 August 2011
 
 ;; initiated 6/14/93 v2.3
 ;; but giving them a lot more power to make decisions
@@ -40,6 +40,7 @@
 ;; 1.7 (2/10/10) Added a check for ].quantifier in the ends-the-segment? test.
 ;;      Covers situations like "a few ...". Extended adverbs the same way.
 ;;      (3/3/10) Elaborated the quantifier case to include checking for a leading adverb.
+;; 1.8 (8/3/11) Explicitly incorporating noun/verb ambiguous brackets.
 
 (in-package :sparser)
 
@@ -120,7 +121,7 @@
 
   (tr :bracket-ends-the-segment? ] )
   (let* ((bracket-opening-segment (first *bracket-opening-segment*))
-	 (ends-the-segment?
+         (ends-the-segment?
 	  (cond
 	    ((eq ]  phrase].)   t)
           
@@ -156,38 +157,50 @@
 
 
 	    ((eq ]  ].verb)	   ;(break "at ].verb at ~a" position)
-	     (cond ((or (eq *bracket-closing-segment* ].verb )
-			(eq (first *bracket-opening-segment*) .[verb )
-			(eq (first *bracket-opening-segment*) .[modal ))
-		    nil )
+	     (cond 
+           ((or (eq *bracket-closing-segment* ].verb )
+                (eq (first *bracket-opening-segment*) .[verb )
+                (eq (first *bracket-opening-segment*) .[modal ))
+            nil )
 
 		   ((or (eq (first *bracket-opening-segment*) .[np )
-			(eq (first *bracket-opening-segment*) .[article ))
+                (eq (first *bracket-opening-segment*) .[article ))
 		    ;; e.g. "the sounds" -- where "sounds" can be a verb.
 		    ;; A word that is noun/verb ambiguous will lay down
 		    ;; brackets for a verb -- this is a case where we can
 		    ;; know definitively that the noun sense is the right one.
 		    (if (np-segment-contains-more-than-article? position)
-			;; but we include a heuristic for the case that the
-			;; ambig. is more than one word away from the article,
-			;; in which case we go with the verb interpretation.
-			(then t)
-			(else
-			  ;; we'll have to ignore more brackets associated
-			  ;; with this word -- this flag provides the link
-			  (setq *suppress-verb-reading*
-				(pos-terminal position))
-			  nil )))
+              ;; but we include a heuristic for the case that the
+              ;; ambig. is more than one word away from the article,
+    		  ;; in which case we go with the verb interpretation.
+              t
+              (else
+                ;; we'll have to ignore more brackets associated
+                ;; with this word -- this flag provides the link
+                (setq *suppress-verb-reading*
+                      (pos-terminal position))
+                nil )))
 
 		   ((eq (first *bracket-opening-segment*) .[adverb)
 		    nil )
 
 		   (t t)))
 
+        ((eq ] ].np-vp)
+         (cond 
+           ((or (eq *bracket-closing-segment* ].verb )
+                (eq (first *bracket-opening-segment*) .[verb )
+                (eq (first *bracket-opening-segment*) .[modal ))
+            nil )
+           (t (push-debug `(,*bracket-opening-segment* ,*bracket-closing-segment*))
+              (break "].np-vp next case"))))
+
+        ((eq ] np-vp].) t)
+
 	    ((eq ]  aux].)
 	     (cond ((eq (first *bracket-opening-segment*) .[modal )
-		    nil)
-		   (t t)))
+                nil)
+               (t t)))
        
 	    ((eq ]  mvb].)	       ;(break "mvb]. at ~a" position)
 	     (cond ((and *bracket-closing-segment*
