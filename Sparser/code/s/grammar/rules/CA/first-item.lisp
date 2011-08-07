@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992,1993,1994,1995  David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1995,2011  David D. McDonald  -- all rights reserved
 ;;; 
 ;;;     File:  "first item"
 ;;;   Module:  "grammar;rules:CA:"
@@ -9,6 +9,7 @@
 ;; 0.6 (1/27/94) 1st serious application
 ;;     (10/24) moved in start-of-sentence check
 ;;     (1/9/95) added *most-recent-sentence-start* facility
+;;     (7/13/11) Fixed case of dotted edge in could-be-the-start-of-a-sentence
 
 (in-package :sparser)
 
@@ -84,12 +85,20 @@
                    (chart-position-before position)))))
           (edge
            (let ((form (edge-form tt-to-the-left)))
-             (if form
-               (case (cat-symbol form)
-                 (category::section-marker t)
-                 (otherwise
-                  ;;(format t "~&>>>> edge-form before cap-seq: ~A~%" form)
-                  nil))
-               nil))))
-        nil))))
+             (cond
+               ((eq form :dotted-intermediary)
+                ;; e.g. the start of a multi-element abbreviation where
+                ;; the question is has it covered over a period.
+                (let ((position-before (chart-position-before position)))
+                  (eq *the-punctuation-period*
+                      (pos-terminal position-before))))
+               (t
+                (if form
+                  (case (cat-symbol form)
+                    (category::section-marker t)
+                    (otherwise
+                     ;;(format t "~&>>>> edge-form before cap-seq: ~A~%" form)
+                     nil))
+                  nil))))))
+          nil))))
 

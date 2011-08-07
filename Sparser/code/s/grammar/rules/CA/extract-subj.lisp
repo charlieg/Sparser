@@ -5,7 +5,7 @@
 ;;;   Module:  "grammar;rules:CA:"
 ;;;  Version:  August 1993
 
-;; initiated 7/16/93 v2.3, fleshed out 8/3
+;; initiated 7/16/93 v2.3, fleshed out 8/3. 8/4/11 fixed capitalization.
 
 (in-package :sparser)
 
@@ -64,9 +64,11 @@
 ;;; traces
 ;;;--------
 
-(defparameter *trace-CA* nil)
-;(setq *trace-CA* t)
-;(setq *trace-CA* nil)
+(defparameter *trace-ca* nil)
+;(setq *trace-ca* t)
+;(setq *trace-ca* nil)
+
+;; See also the traces in the stranded-vp code
 
 (deftrace :referent-wasnt-an-individual (edge referent)
   (when *trace-ca*
