@@ -1,11 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1993-1998.2011 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1993-1998,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2009 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;; 
 ;;;     File:  "tense"
 ;;;   Module:  "grammar;rules:syntax:"
-;;;  Version:  0.5 June 2009
+;;;  Version:  0.5 July 2011
 
 ;; moved from [syntax;aux verbs] 5/7/93 v2.3
 ;; 0.1 (5/15) giving it some real semantic content
@@ -15,20 +15,11 @@
 ;;      for "does not {verb}"  8/8 made 'event' referential
 ;; 0.4 (1/3/98) Gave event a time variable.
 ;; 0.5 (5/20/09) Added additional bindings to event. Added modifier 6/9/09
-;;     (7/14/09) Added participant binding to event. (4/7/11) Cleaning up
+;;     (7/14/09) Added participant binding to event. (4/7/11) Cleaning up.
+;;     (7/31) moved event category model/core/kinds/object
 
 (in-package :sparser)
 
-
-(define-category  event ;; rename it "eventuality" at some pont
-    ;; and merge into the top-level ontology when it's rationalized
-  :instantiates nil
-  :specializes  nil
-  :binds ((time)
-          (location)
-          (purpose)
-          (modifier)
-          (participant)))
 
 (define-mixin-category  tense/aspect
   :instantiates nil
