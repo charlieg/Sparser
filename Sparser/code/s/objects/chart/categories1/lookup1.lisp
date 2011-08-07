@@ -68,11 +68,11 @@
             (referential-category-p symbol) ;; can happen in generated code
             nil)
     (let* ( new?
-            (pname (symbol-name symbol))
-            (c-symbol
-             (or (find-symbol pname *category-package*)
-                 (progn (setq new? t)
-                        (intern pname *category-package*)))))
+           (pname (symbol-name symbol))
+           (c-symbol
+            (or (find-symbol pname *category-package*)
+                (progn (setq new? t)
+                       (intern pname *category-package*)))))
       (unless new?
         (unless (boundp c-symbol)
           (setq new? t)))
@@ -103,16 +103,16 @@
           (note-file-location category)
           (note-grammar-module category :source source)
 
-	  (when *CLOS*  ;; CLOS backing
-	    (case source
-	      (:referential) ;; done in decode-category-parameter-list
-	      (:mixin) ;; also in decode-category-parameter-list
-	      (:form
-	       (setup-backing-clos-class category :form))
-	      (:derived
-	       (setup-backing-clos-class category :derived))
-	      ((or :def-category :define-category :dm&p)
-	       (setup-backing-clos-class category :minimal))))
+          (when *CLOS*  ;; CLOS backing
+            (case source
+              (:referential) ;; done in decode-category-parameter-list
+              (:mixin) ;; also in decode-category-parameter-list
+              (:form
+               (setup-backing-clos-class category :form))
+              (:derived
+               (setup-backing-clos-class category :derived))
+              ((or :def-category :define-category :dm&p)
+               (setup-backing-clos-class category :minimal))))
 
           (ecase source
             (:referential
@@ -134,7 +134,7 @@
              (push category *derived-categories*))))
 
         (setq *all-intra-category-relationships-noticed?* nil)
-
+        
         (values category new?) ))))
 
 
