@@ -3,17 +3,18 @@
 ;;;
 ;;;      File:  "list hacking"
 ;;;    Module:   "tools:basics:syntactic sugar:"
-;;;   Version:   March 2011
+;;;   Version:   July 2011
 
 ;; initiated 12/30/93 v2.3.  4/11/95 added nil-checkers. 
 ;; 8/24/10 moved in quote-every-second-one from forms/categories
-;; (3/9/11) Reworked to fit in ddm-util.
+;; (3/9/11) Reworked to fit in ddm-util. (7/31) Added lowercase-tree
 
 (in-package :ddm-util)
 
 (eval-when (:compile-toplevel :load-toplevel :execute)
   (export '(pl
             add-to-the-end-of-the-list
+            lowercase-tree
             some-item/s-in-list-is-nil
             remove-nils-from-list
             quote-every-second-one)))
@@ -53,6 +54,20 @@
         (return-from add-to-the-end-of-the-list list))
       (setq prior-cons cons))))
 
+
+(defun lowercase-tree (sexp &optional package)
+  (typecase sexp
+    (keyword 
+     (intern (string-downcase (symbol-name sexp))
+             (find-package :keyword)))
+    (symbol
+     (intern (string-downcase (symbol-name sexp)) package))
+    (cons
+     (cons (lowercase-tree (car sexp))
+           (lowercase-tree (cdr sexp))))
+    (otherwise
+     ;; strings, numbers, any-non literals
+     sexp)))
 
 ;;----------
 
