@@ -13,12 +13,6 @@
 
 (in-package :sparser)
 
-;;;(load "c:/aquaint/lisp/harness.lisp")
-;;;(setq *readtable* *my-readtable*)
-;;; (harness "/Users/ddm/ws/nlp/corpus/treebank/10s.txt")
-;;;(set-macro-characters)
-
-
 ;; These solve a problem about populating the chart by hiding
 ;; the multi-type characters of the symbols from Sparser's tokenizer
 ;; The values have to be a single character type so that the tokenizer
@@ -69,26 +63,26 @@
   (declare (ignore char))
   (let ((c (peek-char nil stream)))
     (if (eql c #\`)
-	(then 
-	 (read-char stream)
-	 (let ((d (peek-char nil stream)))
-	   (if (eql d #\))
-	       'open-quote
-	     'open-quote-tag)))
+	  (then 
+        (read-char stream)
+        (let ((d (peek-char nil stream)))
+          (if (eql d #\))
+	        'open-quote
+            'open-quote-tag)))
       'open-quote)))
 
 (defun quote-reader (stream char)
   (declare (ignore char))
   (let ((c (peek-char nil stream)))
     (if (eql c #\')
-	(then (read-char stream) 'close-quote)
+	  (then (read-char stream) 'close-quote)
       'single-quote))) ;; appostrophe ??
 
 (defun colon-reader (stream char)
   (declare (ignore char))
   (let ((c (peek-char nil stream)))
     (if (eql c #\space)
-	'colon-tag
+	  'colon-tag
       'colon)))
 
 (defun semicolon-reader (stream char)
@@ -99,7 +93,7 @@
   (declare (ignore char))
   (let ((c (peek-char nil stream)))
     (if (eql c #\space)
-	'sharpsign-tag
+      'sharpsign-tag
       'sharpsign)))
 
 (defparameter period 'period)
@@ -170,24 +164,22 @@
 		    :direction :input
 		    :if-does-not-exist :error)
      (with-readtable-bound *my-readtable*
-       (clear-treebank-tables)
-       (let ((eof? nil)
-	     (sexp nil)
-	     ;(count 0)
-             )
-	 (loop
-           while (not eof?)
-           do
-           (setq sexp (read stream nil :eof))
-           (if (eq sexp :eof) (setq eof? t))
-           ;(format t " ~a" (incf count))	     
-           (eval sexp)))))))
+        (clear-treebank-tables)
+        (let ((eof? nil)
+              (sexp nil)
+              ;;(count 0)
+              )
+          (loop while (not eof?) do
+               (setq sexp (read stream nil :eof))
+               (if (eq sexp :eof) (setq eof? t))
+             ;;(format t " ~a" (incf count))	     
+               (eval sexp)))))))
 
 
 (defun create-top-level-call (tag)
   (let ((form `(defmacro ,tag (&rest constituents)
-		 ;;(funcall #constituent-reader constituents ',tag)
-		 (constituent-reader constituents ',tag))))
+                 ;;(funcall #constituent-reader constituents ',tag)
+                 (constituent-reader constituents ',tag))))
     (eval form)))
 
 (defun setup-toplevel-calls ()
@@ -620,26 +612,26 @@
 
 (defun write-words (list-of-words full-filename)
   (with-open-file (s full-filename
-		   :direction :output
-		   :if-exists :supersede
-		   :if-does-not-exist :create)
+		          :direction :output
+                  :if-exists :supersede
+                  :if-does-not-exist :create)
     (let ((count 0))
       (dolist (word list-of-words)
-	(format s "~&(defword ~a/~a  \"~a\"  ~a)" 
-		(incf count)
-		( ) ;;//// frequency of word
-		(string-downcase (symbol-name word))
-		(pos-info word))))))
+        (format s "~&(defword ~a/~a  \"~a\"  ~a)" 
+                (incf count)
+                ( ) ;;//// frequency of word
+                (string-downcase (symbol-name word))
+                (pos-info word))))))
 
 (defun write-words-by-pos (full-filename)
   (with-open-file (s full-filename
-		   :direction :output
-		   :if-exists :supersede
-		   :if-does-not-exist :create)
+		          :direction :output
+                  :if-exists :supersede
+                  :if-does-not-exist :create)
     (dolist (tag-symbol *pos-tags*)
       (let ((entry (gethash tag-symbol symbol-to-pos-tags)))
-	(when entry
-	  (write-pos-entry tag-symbol entry s))))))
+        (when entry
+          (write-pos-entry tag-symbol entry s))))))
 #|
 (defun write-pos-entry (tag-symbol list-of-words s)
   (let ((tag-name (string-downcase (symbol-name tag-symbol)))
@@ -650,3 +642,90 @@
 
 	(write-word-data word s)))))  |#
 
+;;;------------------------------------------
+;;; Read out treebank s-exp as regular texts
+;;;------------------------------------------
+
+(defun tb-to-text-file-reader (full-tb-filename)
+  (with-open-file (stream full-tb-filename
+                  :direction :input
+                  :if-does-not-exist :error)
+    (with-readtable-bound *my-readtable*
+       (let ((eof? nil)
+             (sexp nil))
+         (loop while (not eof?) do
+              (setq sexp (re.ad stream nil :eof))
+              (when (eq sexp :eof) (return))
+              (readout-tb-terminals sexp))))))
+
+(defparameter *tb-no-space-before*
+  '(close-quote single-quote comma period -rrb-
+    colon semi-colon))
+(defparameter *tb-no-space-after*
+  '(open-quote -LRB-))
+
+(defun readout-tb-terminals (sexp &optional (out *standard-output*))
+  "Walk tb sentence sexp to its terminals and write them out."
+  (let ((first? t)
+        tokens  prior-token )
+    (flet ((push-word (token tag)
+             (format t "~&~a ~a~%" token tag)
+             (unless (or first?
+                         (memq token *tb-no-space-before*)
+                         (memq prior-token *tb-no-space-after*))
+               (push " " tokens))
+             (cond
+               ((or first?
+                    (eq tag 'NNP)
+                    (eq tag 'NNPS)) ;; what else?
+                (push (string-capitalize (symbol-name token)) tokens))
+               ((eq tag 'POS) (push "'s" tokens))
+               ((eq tag 'CD)
+                ;(push-debug `(,token))
+                ;(break "the CD token is of type ~a" (type-of token))
+                (push token tokens))
+               (t (push (case token
+                          (-LRB- "(")
+                          (-rrb- ")")
+                          (comma ",")
+                          (period ".")
+                          (open-quote "\"")
+                          (close-quote "\"")
+                          (otherwise token))
+                        tokens)))
+             (setq prior-token token)
+             (when first? (setq first? nil))))
+      (labels
+          ((walk (l)
+             (when (consp l)
+               (cond ((consp (cadr l))
+                      (dolist (k (cdr l))
+                        (walk k)))
+                     ((or (symbolp (cadr l))
+                          (numberp (cadr l)))
+                      (push-word (cadr l) (car l)))
+                     (t (push-debug l)
+                        (break "new case"))))))
+        (dolist (s sexp)
+          (walk s))
+        (write (apply #'string-append (nreverse tokens))
+               :stream out)))))
+
+
+(defun tb-to-text-file-reader/char-level (full-tb-filename)
+  (with-open-file (stream full-tb-filename
+                  :direction :input
+                  :if-does-not-exist :error)
+    (let ((paren-counter 0)
+          c  sexp  tokens  accumuator)
+      (loop 
+           (setq c (read-char stream nil :eof))
+         (when (eq c :eof) (return))
+         (cond
+)))))
+  
+              
+
+
+
+  
