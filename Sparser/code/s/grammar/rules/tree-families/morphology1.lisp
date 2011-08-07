@@ -5,7 +5,7 @@
 ;;;
 ;;;     File:  "morphology"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  1.7 March 2010
+;;;  version:  1.8 August 2011
 
 ;; initiated 8/31/92 v2.3, fleshing out verb rules 10/12
 ;; 0.1 (11/2) fixed how lists of rules formed with synonyms
@@ -70,8 +70,12 @@
 ;;      the :instantiates field of a category (which the ancient doc says, and it's
 ;;      true the last time I looked, governs the category an individual is indexed
 ;;      under in the discourse history) should now also govern the lhs of the
-;;      rewrite rules.
- 
+;;      rewrite rules. 7/11/11 Spruced up define-main-verb a bit. 7/12 fixed ing-
+;;      form-of-verb for cases like "wait" or "gain".
+;;      7/31 Added 'category' keyword to define-main-verb so can be used by primed verbs
+;; 1.8 (8/1/11) Refactoring a bit so can operate on strings when priming a background
+;;      lexicon. 8/2 added the code for recording inflections/lemmas.
+
 (in-package :sparser)
 
 ;;;----------
@@ -114,6 +118,40 @@
     :past-participle :nominalization
     :plural))
 
+
+;;;-------------------------------------------------------
+;;; keeping track of lemma / inflected form relationships
+;;;-------------------------------------------------------
+
+;; Presently only applies to nouns and verbs, could be expanded to
+;; other forms like comparative adjectives or even derivational
+;; variants. Somewhat redundant with the bundling created by categories
+;; but useful when working with a large latient vocabulary.
+
+(defun record-inflections (inflections lemma type)
+  (ecase type
+    (:noun
+     (put-property-on-word :noun-inflections inflections lemma)) ;; key, value, word
+    (:verb
+     (put-property-on-word :verb-inflections inflections lemma))))
+
+(defun record-lemma (inflection lemma type)
+  (ecase type
+    (:noun
+     (put-property-on-word :inflection-of-noun lemma inflection))
+    (:verb
+     (put-property-on-word :inflection-of-verb lemma inflection))))
+
+
+(defun noun-forms-of (w)
+  (let ((value (property-of-word :noun-inflections w)))
+    (when value
+      (pushnew w value))))
+
+(defun verb-forms-of (w)
+  (let ((value (property-of-word :verb-inflections w)))
+    (when value
+      (pushnew w value))))
 
 
 ;;;-------
@@ -224,30 +262,32 @@
 
 
 (defun define-main-verb  (symbol-for-category
-			  &key referent 
-			  infinitive ;; "to give"
-			  tensed/singular    ;; "he gives"
-			  tensed/plural      ;; "they give"
-			  past-tense         ;; "they gave"
-			  past-participle    ;; "they have given"
-			  present-participle ;; "they are giving"
-			  nominalization)
+                          &key ((:category supplied-category))
+                          referent 
+                          infinitive ;; "to give"
+                          tensed/singular    ;; "he gives"
+                          tensed/plural      ;; "they give"
+                          past-tense         ;; "they gave"
+                          past-participle    ;; "they have given"
+                          present-participle ;; "they are giving"
+                          nominalization)
   "Standalone entry point developed in the early 1990s. Can be very lightweight
  because the referent can be trivial. Provides overrides to make-verb-rules/aux
  and handles the packaging done by "
   (unless infinitive
     (error "Must supply at least the infinitive word form"))
   (let ((word (define-word/expr infinitive))
-	(category (find-or-make-category symbol-for-category :define-category))
-	(ref (or referent
-		 (category-named 'event))) ;; see /rules/syntax/tense -- should be eventuality
-	special-cases )
+        (category (or supplied-category
+                      (find-or-make-category symbol-for-category :define-category)))
+        (ref (or referent
+                 (category-named 'event))) ;; see /core/kinds/object -- should be eventuality
+        special-cases )
     (when tensed/singular
       (push tensed/singular special-cases)
       (push :third-singular special-cases))
     (let ((t/p (or tensed/plural infinitive)))
-       (push t/p special-cases)
-       (push :third-plural special-cases))
+      (push t/p special-cases)
+      (push :third-plural special-cases))
     (when past-tense
       (push past-tense special-cases)
       (push :past-tense special-cases))
@@ -261,14 +301,14 @@
       (push nominalization special-cases)
       (push :nominalization special-cases))
     (let ((rules (make-verb-rules/aux word category ref special-cases)))
-      rules ;; where do we stash them when it's an independent call?
-      )))
+      (setf (cat-plist category)
+            `(:rules ,rules ,@(cat-plist category)))
+      rules)))
 
 
 (defun make-verb-rules/aux (word category referent
                             &optional special-cases )
   ;; Called from make-verb-rules. Returns a list of the rules made
-
   (let ((s-form (or (cadr (member :third-singular special-cases))
                     (s-form-of-verb word)))
         (ed-form (or (cadr (member :past-tense special-cases))
@@ -280,7 +320,7 @@
         (nominalization (cadr (member :nominalization special-cases))))
 
     ;; we break it all out this far so that the second routine
-    ;; can be an entry point by itself for when we're note going
+    ;; can be an entry point by itself for when we're not going
     ;; via an rdata route
     (make-verb-rules/aux2 word category referent
                           :s-form  s-form
@@ -303,38 +343,50 @@
                                   present-participle
                                   third-singular third-plural
                                   nominalization )
+    (let ( inflections )
+      (when s-form
+        (when (stringp s-form)
+          (setq s-form (define-word/expr s-form)))
+        (pushnew s-form inflections))
+      (when ed-form
+        (when (stringp ed-form)
+          (setq ed-form (define-word/expr ed-form)))
+        (pushnew ed-form inflections))
+      (when ing-form
+        (when (stringp ing-form)
+          (setq ing-form (define-word/expr ing-form)))
+        (pushnew ing-form inflections))
+      (when past-tense
+        (when (stringp past-tense)
+          (setq past-tense (define-word/expr past-tense)))
+        (pushnew past-tense inflections))
+      (when past-participle
+        (when (stringp past-participle)
+          (setq past-participle (define-word/expr past-participle)))
+        (pushnew past-participle inflections))
+      (when present-participle
+        (when (stringp present-participle)
+          (setq present-participle (define-word/expr present-participle)))
+        (pushnew present-participle inflections))
+      (when third-singular
+        (when (stringp third-singular)
+          (setq third-singular (define-word/expr third-singular)))
+        (pushnew third-singular inflections))
+      (when third-plural
+        (when (stringp third-plural)
+          (setq third-plural (define-word/expr third-plural)))
+        (pushnew third-plural inflections))
+      (when nominalization
+        (when (stringp nominalization)
+          (setq nominalization 
+                (define-word/expr nominalization :override-duplicates)))
+        (pushnew nominalization inflections))
 
-    (assign-brackets-as-a-main-verb word)  ;; infinitive or 3d plural
-
-    ;; This will be the case when this routine is called from a file
-    (when s-form
-      (when (stringp s-form)
-        (setq s-form (define-word/expr s-form))))
-    (when ed-form
-      (when (stringp ed-form)
-        (setq ed-form (define-word/expr ed-form))))
-    (when ing-form
-      (when (stringp ing-form)
-        (setq ing-form (define-word/expr ing-form))))
-    (when past-tense
-      (when (stringp past-tense)
-        (setq past-tense (define-word/expr past-tense))))
-    (when past-participle
-      (when (stringp past-participle)
-        (setq past-participle (define-word/expr past-participle))))
-    (when present-participle
-      (when (stringp present-participle)
-        (setq present-participle (define-word/expr present-participle))))
-    (when third-singular
-      (when (stringp third-singular)
-        (setq third-singular (define-word/expr third-singular))))
-    (when third-plural
-      (when (stringp third-plural)
-        (setq third-plural (define-word/expr third-plural))))
-    (when nominalization
-      (when (stringp nominalization)
-        (setq nominalization 
-              (define-word/expr nominalization :override-duplicates))))
+      (assign-brackets-as-a-main-verb word)  ;; infinitive or 3d plural
+      (record-inflections inflections word :verb)
+      (dolist (w inflections)
+        (assign-brackets-as-a-main-verb w)
+        (record-lemma w word :verb)))
 
     ;; make the rules
     (when (and category referent)
@@ -680,56 +732,64 @@
 ;;; adding suffixes
 ;;;-----------------
 
-(defun s-form-of-verb (word)
-  (let* ((pname (word-pname word))
-         (last-letter (elt pname (1- (length pname)))))
-    (declare (ignore last-letter))
-    (let ((new-pname (concatenate 'string
-                                  pname
-                                  "s")))
-      (let ((word
-             (define-word/expr new-pname)))
-        (assign-brackets-as-a-main-verb word)
-        word ))))
+(defmethod s-form-of-verb ((base word))
+  (let* ((s-form-pname (s-form-of-verb (word-pname base)))
+         (word (define-word/expr s-form-pname)))
+    (assign-brackets-as-a-main-verb word)
+    word ))
+
+(defmethod s-form-of-verb ((pname string))
+  ;; comlex-util uses the plural noun routine to generate
+  ;; this form, so since the original version here just
+  ;; added "s" why not try it.
+  (plural-version pname))
 
 
+(defmethod ed-form-of-verb ((word word))
+  (let* ((ed-pname (ed-form-of-verb (word-pname word)))
+         (word (define-word/expr ed-pname)))
+    (assign-brackets-as-a-main-verb word)
+    word ))
 
-(defun ed-form-of-verb (word)
-  (let* ((pname (word-pname word))
-         (last-letter (elt pname (1- (length pname)))))
+(defmethod ed-form-of-verb ((pname string))
+  ;; adapted version from comlex-util with the consonant
+  ;; doubling heuristic they cite.
+  (let ((lastchar (subseq pname (- (length pname) 1)))
+        (last2char (subseq pname (max (- (length pname) 2) 0)))
+        (last3char (subseq pname (max (- (length pname) 3) 0))))
+    (cond
+      ((member last2char '("ay" "ey" "iy" "oy" "uy")
+		       :test #'string-equal)
+       (string-append pname "ed"))
 
-    (case last-letter
-      (#\e
-       (setq pname (subseq pname 0 (1- (length pname))))))
+      ((string-equal lastchar "y")
+	   (string-append (subseq pname 0 (- (length pname) 1)) "ied"))
 
-    (when (consonant? last-letter)
-      (when (one-syllable? pname)
-        ;; double the final consonant -- in general it gets
-        ;; doubled whenever the final syllable is stressed,
-        ;; but that's a lot to deduce just from the spelling
-        ;; of the stem.
-        (unless (v-of-final-vc-is-two-vowels? pname)
-          (setq pname
-                (concatenate 'string
-                             pname
-                             (coerce (list last-letter) 'string))))))
+      ((string-equal lastchar "e")
+       (concatenate 'string pname "d"))
 
-    (let ((new-pname (concatenate 'string
-                                  pname
-                                  "ed")))
-      (let ((word
-             (define-word/expr new-pname)))
-        (assign-brackets-as-a-main-verb word)
-        word ))))
+      ((and (consonant? (char last3char 0))
+            (vowel? (char last2char 0))
+            (consonant? (char lastchar 0)))
+       (string-append pname lastchar "ed"))
+
+      (t (string-append pname "ed")))))
+
 
 ;(ed-form-of-verb (define-word "bat"))
 ;(ed-form-of-verb (define-word "join"))
 
 
 
-(defun ing-form-of-verb (word)
-  (let* ((pname (word-pname word))
-         (last-letter (elt pname (1- (length pname)))))
+(defmethod ing-form-of-verb ((word word))
+  (let* ((ing-pname (ing-form-of-verb (word-pname word)))
+         (word (define-word/expr ing-pname)))
+    (assign-brackets-as-a-main-verb word)
+    word ))
+    
+
+(defmethod ing-form-of-verb ((pname string))
+  (let ((last-letter (elt pname (1- (length pname)))))
 
     (case last-letter
       (#\e
@@ -740,18 +800,14 @@
         ;; double the final consonant -- in general it gets
         ;; doubled whenever the final syllable is stressed,
         ;; but that's a lot to deduce just from the spelling
-        ;; of the stem
-        (setq pname (concatenate 'string
-                                 pname
-                                 (coerce (list last-letter) 'string)))))
+        ;; of the stem, though the two-vowel check helps.
+        (unless (v-of-final-vc-is-two-vowels? pname)
+          (setq pname (string-append
+                       pname
+                       (coerce (list last-letter) 'string))))))
 
-    (let ((new-pname (concatenate 'string
-                                  pname
-                                  "ing")))
-      (let ((word
-             (define-word/expr new-pname)))
-        (assign-brackets-as-a-main-verb word)
-        word ))))
+    (string-append pname "ing")))
+
 
 ;(ing-form-of-verb (define-word "describe"))
 ;(ing-form-of-verb (define-word "set"))
@@ -839,32 +895,42 @@
                   :form  category::common-noun/plural
                   :referent 
                      (if *external-referents*
-		       referent
-		       (resolve-referent-expression
-			`(:head ,referent
-			  :subtype ,(category-named 'collection)))))))
-	  (assign-brackets-as-a-common-noun plural)
+                       referent
+                       (resolve-referent-expression
+                        `(:head ,referent
+                                :subtype ,(category-named 'collection)))))))
+
+          (record-inflections `(,plural) word :noun)
+          (record-lemma plural word :noun)
+
+          (assign-brackets-as-a-common-noun plural)
           (setf (cfr-schema plural-rule) schematic-rule)
           (list singular-rule
                 plural-rule))))))
 
 
 
-(defun plural-version (word)
-  (let* ((pname (word-pname word))
-         (last-letter (elt pname (1- (length pname))))
+(defmethod plural-version ((w word))
+  (let ((plural-pname (plural-version (word-pname w))))
+    (define-word/expr plural-pname)))
+
+(defmethod plural-version ((pname string))
+  ;; Revised 8/1/11 to draw on Comlex utilties, which says these
+  ;; are from the Oxford Advanced Learners Dictionary
+  (let ((lastchar (subseq pname (- (length pname) 1)))
+        (last2char (subseq pname (max (- (length pname) 2) 0)))
          new-pname )
-    (setq new-pname
-          (case last-letter
-            (#\y
-	     (if (one-syllable? pname)
-	       (concatenate 'string pname "s")
-	       (concatenate 'string
-			    (subseq pname 0 (1- (length pname)))
-			    "ies")))
-            (otherwise
-             (concatenate 'string pname "s"))))
-    (define-word/expr new-pname)))
+    (cond
+      ((or (member lastchar '("s" "z" "x") :test #'string-equal)
+           (member last2char '("ch" "sh") :test #'string-equal))
+       (string-append pname "es"))
+      ((member last2char '("ay" "ey" "iy" "oy" "uy")
+               :test #'string-equal)
+       (string-append pname "s"))
+      ((string-equal lastchar "y")
+       (string-append (subseq pname 0 (- (length pname) 1)) "ies"))
+      (t (string-append pname "s")))))
+
 
 
 (defun plural-version/pw (pw)
@@ -976,7 +1042,7 @@
                    :form category::adjective
                    :referent referent)))
         (setf (cfr-schema cfr) schematic-rule)
-        (assign-brackets/expr word (list ].adverb .[adverb ))
+        (assign-brackets/expr word (list ].adjective .[adjective ))
         (list cfr)))))
 
 
@@ -1047,6 +1113,7 @@
 
 
 ;;;-------------------------------------------------------
+
 ;;; deictic time ("Wednesday", "immediately", "tomorrow")
 ;;;-------------------------------------------------------
 
