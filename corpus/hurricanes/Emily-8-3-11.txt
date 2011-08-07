@@ -1,0 +1,38 @@
+Wednesday 8/3/11
+
+-- Short blurb on WHDH weather site
+
+Rain from Tropical Storm Emily has begun falling in Puerto Rico as the system moves on a track that could take it to Florida by the end of the week. 
+
+-- from WHDH weather blog post
+
+While we're tracking Tropical Storm Emily and it'll get closer to the East Coast by Sunday, it'll still be down off the coast of the Carolinas by then.
+
+-- via news.google.com  
+       -- From www.easyvoyage.co.uk 
+
+Hurricane Emily, which is moving its way across the Caribbean, is now on course for the island of Hispaniola, split into Haiti and the Dominican Republic. Both countries are on hurricane alert and the former has ordered evacuations, still vulnerable after the earthquake it suffered last year. Miami's National Hurricane Center predicts that the storm's centre will pass over the island late today and then onto the Southeastern Bahamas and Turks and Caicos tomorrow. There are also possible risks of tropical storms for the U.S. Virgin Islands over the next few hours.
+
+-- From the National Hurricane Center
+    -- http://www.nhc.noaa.gov/text/refresh/MIATWDAT+shtml/031144.shtml?
+
+TROPICAL WEATHER DISCUSSION
+NWS NATIONAL HURRICANE CENTER MIAMI FL  
+805 AM EDT WED AUG 03 2011
+
+TROPICAL STORM EMILY IS CENTERED NEAR 16.6N 69.0W AT 03/1200 UTC 
+OR ABOUT 145 NM SSE OF SANTO DOMINGO DOMINICAN REPUBLIC MOVING 
+W AT 12 KT. ESTIMATED MINIMUM CENTRAL PRESSURE IS 1006 MB. 
+MAXIMUM SUSTAINED WIND SPEED IS 45 KT WITH GUSTS TO 55 KT. SEE 
+LATEST NHC INTERMEDIATE PUBLIC ADVISORY UNDER AWIPS/WMO HEADERS 
+MIATCPAT5/WTNT35 AND THE FULL FORECAST ADVISORY UNDER AWIPS/WMO 
+HEADERS MIATCMAT5/WTNT25 FOR MORE DETAILS. SCATTERED/NUMEROUS 
+STRONG CONVECTION IS FROM 15N-17N BETWEEN 66W-68W WITH SCATTERED 
+MODERATE/ISOLATED STRONG CONVECTION COVERING THE REMAINDER OF 
+THE AREA FROM 14N-18N BETWEEN 64W-69W. RAIN ACCUMULATIONS OF 4-6 
+INCHES ARE EXPECTED IN PUERTO RICO...THE DOMINICAN REPUBLIC... 
+AND HAITI WITH ISOLATED MAXIMUM AMOUNTS OF 10 INCHES POSSIBLE. 
+THESE RAINS COULD CAUSE LIFE-THREATENING FLASH FLOODS AND MUD 
+SLIDES IN AREAS OF MOUNTAINOUS TERRAIN. TOTAL RAIN ACCUMULATIONS 
+OF 2-4 INCHES ARE EXPECTED IN THE SOUTHEAST BAHAMAS AND TURKS 
+AND CAICOS.
