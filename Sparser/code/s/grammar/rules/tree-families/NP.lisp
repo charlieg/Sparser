@@ -5,7 +5,7 @@
 ;;;
 ;;;     File:  "NP"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  0.7 March 2011
+;;;  version:  0.7 July 2011
 
 ;; initiated 8/31/92 v2.3
 ;; 0.1 (6/2/93) added explicit definitions for the mix-in category
@@ -31,7 +31,10 @@
 ;; 0.7 (9/21/09) Broke out the possessive pronouns from np-common-noun into
 ;;  their own (extending) ETF to allow for earlier (reasonable) uses of 
 ;;  np-common-noun where there's no modifier slot. 
-;;  (2/20/11) Added initial listing comment. Fixed it 3/9
+;;  (2/20/11) Added initial listing comment. Fixed it 3/9. Annotating a bit
+;;   to help sort out what to use 7/25/11, also removed commented out or OBE
+;;   bits and added definite mixin category for np-common-noun/definite by
+;;   analogy to the indefinite ETF.
 
 (in-package :sparser)
 
@@ -40,7 +43,7 @@
    soak-up-indefinite-article ------ form rules for "a", "an"
    np-common-noun/intrinsically-definite  --- "the board" (of directors)
    np-common-noun/definite 
-   np-common-noun/defnp
+;;   np-common-noun/defnp
    np-common-noun/indefinite
    np-common-noun/one-of-several 
    np-common-noun
@@ -49,6 +52,7 @@
 
 
 (define-mixin-category indefinite)
+(define-mixin-category definite)
 (define-mixin-category possessive)
 
 
@@ -82,6 +86,9 @@
  this schema to soak up the definite article, which is presumed to have
  no semantic import. |#
 
+    ;; soaks up definite and indefinite determiners, assumes there's
+    ;; both an np-head and an n-bar label
+
   :schema-type  :mixin
   :labels ( np n-bar np-head )
   :cases
@@ -101,30 +108,26 @@
 
 
 (define-exploded-tree-family  np-common-noun/definite
+    ;; Instantiates an instance of the referent of the right-edge
+    ;; while soaking up the definite determiners
   :schema-type  :mixin
-  :labels ( np #|n-bar|# np-head )
+  :labels ( np np-head )
   :cases
-     (#|(:definite (np ("the" n-bar)
+     ((:definite (np ("the" np-head)
                    :instantiate-individual right-edge
-                   :head right-edge))
-      (:definite (np ("this" n-bar)
-                   :instantiate-individual right-edge
-                   :head right-edge))
-      (:definite (np ("that" n-bar)
-                   :instantiate-individual right-edge
-                   :head right-edge))|#
-      (:definite (np ("the" np-head)
-                   :instantiate-individual right-edge
+                   :subtype definite
                    :head right-edge))
       (:definite (np ("this" np-head)
                    :instantiate-individual right-edge
+                   :subtype definite
                    :head right-edge))
       (:definite (np ("that" np-head)
                    :instantiate-individual right-edge
+                   :subtype definite
                    :head right-edge))))
 
 
-
+#|  The function dereference-defnp isn't in the code base now
 (define-exploded-tree-family  np-common-noun/defnp
   :schema-type  :mixin
   :labels ( np n-bar np-head )
@@ -146,12 +149,14 @@
                    :head right-edge)
       (:definite (np ("that" np-head)
                    :function dereference-defnp right-edge)
-                   :head right-edge)))
+                   :head right-edge)))   |#
 
 
 ;;--- indefinite articles
 
 (define-exploded-tree-family  np-common-noun/indefinite
+    ;; Soaks up the indefinite determiners while making an instance
+    ;; of the right-edge. Flags it as subtype 'indefinite'
   :schema-type  :mixin
   :binding-parameters ( kind )
   :labels ( np n-bar np-head )
@@ -193,17 +198,9 @@
   :schema-type  :mixin
   :incorporates  np-common-noun/definite
   :binding-parameters ( kind  modifier )
-  :labels ( np #|n-bar|# np-head )
+  :labels ( np np-head )
   :cases
-     (#|(:indefinite (np  ("a" n-bar)
-                     :instantiate-individual right-edge
-                     :subtype indefinite )
-                   :head right-edge)
-      (:indefinite (np  ("an" n-bar)
-                     :instantiate-individual right-edge
-                     :subtype indefinite )
-                   :head right-edge)|#
-      (:indefinite (np  ("a" np-head)
+     ((:indefinite (np  ("a" np-head)
                      :instantiate-individual right-edge
                      :subtype indefinite)
                    :head right-edge)
@@ -223,23 +220,23 @@
   :cases
      ((:possessive (np  ("my" np-head)
                      :instantiate-individual right-edge
-		     :binds (modifier left-edge)
+                     :binds (modifier left-edge)
                      :subtype possessive)
                    :head right-edge)
       (:possessive (np  ("your" np-head)
                      :instantiate-individual right-edge
-		     :binds (modifier left-edge)
+                     :binds (modifier left-edge)
                      :subtype possessive)
 		   :head right-edge)
       (:possessive (np  ("his" np-head)
                      :instantiate-individual right-edge
-		     :binds (modifier left-edge)
+                     :binds (modifier left-edge)
                      :subtype possessive)
                    :head right-edge)
       (:possessive (np  ("her" np-head)
                      :instantiate-individual right-edge
-		     :binds (modifier left-edge)
-		     :subtype possessive)
+                     :binds (modifier left-edge)
+                     :subtype possessive)
                    :head right-edge)
       (:possessive (np  ("its" np-head)
                      :instantiate-individual right-edge
