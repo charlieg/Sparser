@@ -1,10 +1,11 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
+;;; copyright (c) 2011  David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2009-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "shortcuts"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  February 2010
+;;;  version:  August 2011
 
 ;; Started 4/3/09. Modeled on [model;core:kinds:object]
 ;; Modified 7/16/09: added modifier to np-head
