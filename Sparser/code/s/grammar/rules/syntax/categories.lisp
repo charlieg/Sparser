@@ -1,5 +1,5 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER) -*-
-;;; copyright (c) 1992-1999 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1999,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007-2010 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;; 
@@ -39,6 +39,7 @@
 ;; 0.5 (3/26/08) Added brackets section and a value for possessive.
 ;;     (5/10/09) Added wh-pronoun. 5/9/09 added question-marker. 7/23/09 added interjection
 ;;     (2/10/10) Added quantifier. 3/16/10 added paragraph.
+;; 0.6 (8/8/11) Converted form-category? to a method so it can take symbols.
 
 (in-package :sparser)
 
@@ -47,7 +48,12 @@
 ;;; setting up form categories
 ;;;----------------------------
 
-(defun form-category? (c)
+(defmethod form-category? ((s symbol))
+  (let ((c (category-named s)))
+    (when c
+      (form-category? c))))
+
+(defmethod form-category? ((c category))
   (when (first (member :form-category (cat-plist c)))
     c ))
 
