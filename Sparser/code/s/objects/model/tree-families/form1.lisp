@@ -130,9 +130,9 @@
          (lhs (first rule-exp))
          (rhs (second rule-exp))
          (referent (cddr rule-exp))
-	 (form-exp (when (eq :form (car referent))
-		     (prog1 (cadr referent)
-		       (setq referent (cddr referent)))))
+         (form-exp (when (eq :form (car referent))
+                     (prog1 (cadr referent)
+                       (setq referent (cddr referent)))))
          (substitution-terms
           (append labels
                   binding-parameters))
@@ -147,19 +147,19 @@
                        ((and (symbolp term)
                              (name-includes-slash term))
                         term )
+                       ((form-category? term) term)
                        ((category-named term)
                         ;; 10/17/94 ?? is this too broad ??
                         term )
-		       ((form-category? term) term)
                        (t (break "The term is ~A, not a string or ~
                                   a substitution term." term))))
                   rhs))
     (when form-exp
       (setq form-category (category-named form-exp))
       (unless form-category
-	(error "There is no (form) category named ~a" form-exp))
+        (error "There is no (form) category named ~a" form-exp))
       (unless (form-category? form-category)
-	(error "There is no form-category named ~a" form-exp)))
+        (error "There is no form-category named ~a" form-exp)))
     
     (multiple-value-bind (decoded-referent head etc)
                          (decode-referent-exp
@@ -175,7 +175,7 @@
         (setf (schr-relation schr) relation)
         (setf (schr-lhs schr) lhs)
         (setf (schr-rhs schr) decoded-rhs)
-	(setf (schr-form schr) form-category)
+        (setf (schr-form schr) form-category)
         (setf (schr-referent schr) decoded-referent)
         (setf (schr-descriptors schr) descriptors)
         (setf (schr-original-expression schr)
