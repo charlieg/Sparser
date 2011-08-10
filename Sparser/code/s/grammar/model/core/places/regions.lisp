@@ -30,6 +30,8 @@
                  :mapping ((np . :self)
                            (np-head . region-type)))))
 
+;; Dossier is [regions]
+
 
 (define-autodef-data 'region
   :display-string "region"
@@ -100,6 +102,8 @@
   :binds ((name :primitive word))
   :index (:permanent :key name)
   :realization (:common-noun name))
+
+;; Dossier is [location-kinds]
 
 
 (defun define-region-type (string)

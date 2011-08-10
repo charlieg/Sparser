@@ -21,6 +21,19 @@
   )
 
 
+;;;----------------
+;;; types of paths
+;;;----------------
+
+(define-category path-type ;; "street", "turnpike"
+  :instantiates :self
+  :specializes path
+  :binds ((name :primitive word))
+  :index (:permanent :key name)
+  :realization (:common-noun name))
+
+(define-type-category-constructor path-type) ;; creates define-path-type 
+
 ;;;------------------
 ;;; highway patterns
 ;;;------------------
@@ -38,4 +51,4 @@
                           (first . (country US-state))
                           (second . number)
                           (item1 . authority)
-                          (item2 . number))))
+                           (item2 . number))))

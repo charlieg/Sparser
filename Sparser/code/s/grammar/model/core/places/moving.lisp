@@ -56,7 +56,14 @@
         (setq category (eval form))
         category)))
 
+
+;;--- Cases (could go to a dossier)
+
+(define-movement-verb "cross")
+
 (define-movement-verb "drive")
+
+(define-movement-verb "follow")
 
 (define-movement-verb "travel")
 
