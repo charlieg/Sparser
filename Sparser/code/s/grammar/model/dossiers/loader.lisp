@@ -5,7 +5,7 @@
 ;;;
 ;;;     File:  "loader"
 ;;;   Module:  "model;dossiers:"
-;;;  version:  0.5 February 2011
+;;;  version:  0.5 August 2011
 
 ;; initiated in January 1991 v1.8
 ;; 0.1 (10/17/93 v2.3) started revampin to hold all the individuals
@@ -39,6 +39,7 @@
 ;;     (8/26/08) added time-of-day & timezones to files to be loaded for *time*
 ;;     (10/9/09) Commented out proteins file because it isn't there.
 ;;     (2/21/11) Added title-abbreviations and noted that titles was OBE.
+;;     (8/8/11) Added path-types
 
 (in-package :sparser)
 
@@ -120,7 +121,8 @@
     (gload "dossiers;location kinds")
     (gload "dossiers;directions")
     (gload "dossiers;compass points")
-    (gload "dossiers;spatial prepositions"))
+    (gload "dossiers;spatial prepositions")
+    (gload "dossiers;path types"))
     
   (gate-grammar *countries*
     (gload "dossiers;countries"))
