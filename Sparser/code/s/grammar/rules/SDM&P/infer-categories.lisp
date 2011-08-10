@@ -1,13 +1,14 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:(SPARSER COMMON-LISP) -*-
+;;; copyright (c) 2011 David D. McDonald  -- all rights reserved
 ;;; Copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 
 ;;;      File: "infer categories"
 ;;;    Module: "grammar;rules:SDM&P:
-;;;   Version: September 2007
+;;;   Version: August 2011
 
 ;; Initiated 9/4/07 on code from 8/16/07 that burns-in the assumption that
-;; the value is the head-line. 
+;; the value is the head-line. Updated calls 8/7/11.
 
 (in-package :sparser)
 
@@ -20,16 +21,17 @@
   (tr :top-of-bind-open-var open-relation value)
   (if (typep open-relation 'psi)
     (let* ((lp (psi-lattice-point open-relation))
-	   (open-in (lp-variables-free lp)))
+           (open-in (lp-variables-free lp)))
       (tr :relation-open-in open-in)
       (if (= 1 (length open-in))
-	(let* ((open-variable (car open-in))
-	       (psi (extend-psi-by-binding open-variable value open-relation)))
-	  (tr :psi-binding-open-relation-is psi)
-	  psi)
-	(else
-	  (break "Stub - its open in more than one variable: ~a"  lp)
-	  nil)))
+	    (let* ((open-variable (car open-in))
+               (psi (find-or-make-psi-with-binding
+                     open-variable value open-relation)))
+          (tr :psi-binding-open-relation-is psi)
+          psi)
+        (else
+          (break "Stub - its open in more than one variable: ~a"  lp)
+          nil)))
     (else
       (tr :bind-open-var/relation-not-psi open-relation value)
       nil))
