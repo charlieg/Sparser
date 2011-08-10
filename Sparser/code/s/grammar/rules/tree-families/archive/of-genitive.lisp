@@ -3,12 +3,11 @@
 ;;;
 ;;;     File:  "of genitive"
 ;;;   Module:  "grammar;rules:tree-families:"
-;;;  version:  October 1994 
+;;;  version:  October 1994
 
-;; initiated 10/17/94
+;; initiated 10/17/94.
 
 (in-package :sparser)
-
 
 (define-exploded-tree-family   of/genitive
   :binding-parameters ( larger  smaller )
