@@ -1,17 +1,19 @@
 ;;; -*- Mode:LISP; Syntax:Common-Lisp; Package:SPARSER -*-
-;;; copyright (c) 1992-1999 David D. McDonald  -- all rights reserved
+;;; copyright (c) 1992-1999,2011 David D. McDonald  -- all rights reserved
 ;;; extensions copyright (c) 2007 BBNT Solutions LLC. All Rights Reserved
 ;;; $Id:$
 ;;;
 ;;;     File:  "object"
 ;;;   Module:  "model;core:places:countries:"
-;;;  version:  1.1 January 1999
+;;;  version:  1.2 July 2011
 
 ;; 1.0 (10/12/92 v2.1) introducing new semantics
 ;; 1.1 (9/7/93 v2.3) adding a define routine and a realization
 ;;     (1/18/94) added autodef form.  4/11 added String/country
 ;;     (9/12) tweeked the autodef. (1/31/99) stashed the rules on the plist
 ;;     (8/6/07) Changed treatment of adjectives to accommodate Fire's dm&p.
+;; 1.2 (7/21/11) Added ethnicities since they pattern essentially the same
+;;      way. Removed the new-dm&p constraint, which was for making
 
 (in-package :sparser)
 
@@ -41,17 +43,10 @@
   (let ((country (category-named 'country))
         (obj (define-individual 'country
                :name name))
-        word  rules )
+          word  rules )
 
     (when adjective
-      (if *new-dm&p*
-	(define-adjective-function/country adjective obj)
-	(else
-	  (setq word (define-adjective adjective))
-	  (push (define-cfr country `(,word)
-		  :form category::proper-adjective
-		  :referent obj)
-		rules))))
+      (define-adjective-function/country adjective obj))
 
     (when aliases
       (dolist (string aliases)
@@ -65,10 +60,8 @@
 
     (let ((rules-cons (cadr (memq :rules (unit-plist obj)))))
       (dolist (r rules)
-	(rplacd rules-cons (cons r (cdr rules-cons)))))
-;    (setf (unit-plist obj)
-;          `(:rules ,rules
-;            ,@(unit-plist obj)))
+        (rplacd rules-cons (cons r (cdr rules-cons)))))
+
     obj ))
 
 
